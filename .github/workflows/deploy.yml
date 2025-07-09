@@ -3,7 +3,6 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [ main ]
-    paths: [ 'data/processed/**' ]
   workflow_dispatch:  # 手動実行も可能
 
 # GitHub Pagesにデプロイするための権限設定
