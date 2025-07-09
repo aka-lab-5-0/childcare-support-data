@@ -1,0 +1,1868 @@
+{
+  "version": "2025-07-09T05:55:17.801Z",
+  "areaCode": "131156",
+  "areaName": "杉並区",
+  "category": "other",
+  "count": 14,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "児童館",
+        "shortName": "児童館"
+      },
+      "summary": "児童館は、0歳から18歳未満の児童のための施設です。子ども達が遊びや自主的な活動等を通して、心身ともに健やかに成長できるよう支援しています。また、子育て中の保護者の方の出会い・情報交換の場となるように、さらには地域の子ども達を見守る大人の方々の活動の場となるように運営を行っています。",
+      "description": "児童館\nページ番号1045",
+      "target": {
+        "targetPersons": "0歳から18歳の児童（未就学児には保護者の付き添いが必要です）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": "子どもの遊びや自主活動の応援\nさまざまな体験プログラムの実施\nおまつり、餅つきなどの地域行事の企画や参加\n障害のある子もない子も共に楽しむプログラム\n中学生・高校生むけの事業や自主企画の応援\n乳幼児親子のひろば　ゆうキッズ\n子育ての悩みや困ったことなどの身近な相談\n地域子育てネットワーク事業"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "月曜日から金曜日まで：午前10時から午後6時まで\n土曜日：午前9時から午後5時まで\n（注1）月曜日から土曜日の、正午から午後1時は、小学生以上は利用できません。\n（注2）原則として小学生が放課後に、学校から直接児童館へ遊びに来ることはできません。別途、事前登録制の「直接来館」制度がありますので、下の「児童館『直接来館』制度」の項目をご覧ください。\n日曜日：午前9時から午後5時まで\n（注3）日曜日は、親子・団体利用の日です。利用には「事前使用承認証（サンカード）」が必要です。小学生以上にも保護者の付き添いが必要です。団体の利用申請は月曜日から土曜日までに受け付けます。詳細は下のリンクから「児童館・ゆう杉並の親子・グループ・団体利用【サンカード利用】」のページをご覧ください。"
+      },
+      "specificDate": null,
+      "holiday": "第2土曜日、こどもの日を除いた祝日、年末年始（12月28日から1月4日まで）",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.suginami.tokyo.jp/s059/1045.html",
+        "title": "児童館"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部児童青少年課",
+        "contactPhone": "03-3393-4760",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "（直通）",
+        "zipCode": "1670051",
+        "contactAddress": "東京都杉並区荻窪1丁目56番3号"
+      },
+      "area": {
+        "areaCode": "131156;杉並区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131156+1+UM108",
+        "organization": "8000020131156",
+        "compartment": "子ども家庭部児童青少年課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-15",
+      "odInformation": {
+        "updateDate": "2025-03-13",
+        "updater": "杉並区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第40条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出生届",
+        "shortName": "出生届"
+      },
+      "summary": "出生届とは、生まれてきたお子さんの氏名等を戸籍に記載するための手続きです。\n戸籍に記載されることで、生まれてきたお子さんの親族関係が公的に証明されます。",
+      "description": "出生届\n届出期間生まれた日から14日以内届出先出生地、本籍地、届出人の所在地の区市町村役所（場）届出人父・母、同居者、医師、助産師の順序届出に必要なもの\n届書1通。母子健康手帳。印鑑。\n里帰り出産などで母子健康手帳をお持ち頂けない場合は後日でかまいません。（母子健康手帳に出生届出済証明をします。）\n\n（注意）令和3年9月1日から、押印は任意となりました。\n\n受付窓口区民課戸籍係（区役所1階3番）\n父母が日本人で日本国内で生まれた日本人の方の出生届は、区民事務所でもお届けができます。よくある質問出生届に関するよくある質問を以下にまとめました。\n出生届を出したいのですが。 （PDF 126.5KB）;https://www.city.suginami.tokyo.jp/_res/projects/default_project/_page_/001/004/489/situmon_syussyou.pdf",
+      "target": {
+        "targetPersons": "父・母、同居者、医師、助産師の順序",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": "生まれた日から14日以内",
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "父・母、同居者、医師、助産師の順序",
+      "procedureMethod": "届出期間生まれた日から14日以内届出先出生地、本籍地、届出人の所在地の区市町村役所（場）届出人父・母、同居者、医師、助産師の順序届出に必要なもの\n届書1通。母子健康手帳。印鑑。\n里帰り出産などで母子健康手帳をお持ち頂けない場合は後日でかまいません。（母子健康手帳に出生届出済証明をします。）\n\n（注意）令和3年9月1日から、押印は任意となりました。\n\n受付窓口区民課戸籍係（区役所1階3番）\n父母が日本人で日本国内で生まれた日本人の方の出生届は、区民事務所でもお届けができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "生まれた日から14日以内"
+      },
+      "electronicSubmission": false,
+      "belongings": "届書1通。母子健康手帳。印鑑（押印は任意）。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "出生地、本籍地、届出人の所在地の区市町村役所（場）",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.suginami.tokyo.jp/_res/projects/default_project/_page_/001/004/489/situmon_syussyou.pdf",
+          "title": "出生届を出したいのですが。 （PDF 126.5KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.suginami.tokyo.jp/s018/1002.html",
+        "title": "戸籍の届出"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "区民生活部区民課戸籍係",
+        "contactPhone": "03-3312-2111",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "（代表）",
+        "zipCode": "1668570",
+        "contactAddress": "東京都杉並区阿佐谷南1丁目15番1号"
+      },
+      "area": {
+        "areaCode": "131156;杉並区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131156+1+UM3",
+        "organization": "8000020131156",
+        "compartment": "区民生活部区民課戸籍係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-04",
+      "odInformation": {
+        "updateDate": "2025-03-13",
+        "updater": "杉並区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "戸籍法",
+        "regulationArticle": "第49条、第52条"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "077"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "平日母親学級"
+      },
+      "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、杉並区では産科医師、歯科医師、保健師、栄養士、助産師などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+      "description": "平日母親学級・平日パパママ学級\nページ番号1113　 更新日 令和6年4月1日 印刷\n\n会場では「人と人との距離の確保」「換気」「手洗い等の手指衛生」等の基本的な感染症予防対策を行っております。状況に応じて定員および内容の変更を行う場合があります。\n\n区内在住の方を対象に、母親学級・パパママ学級を開催しています。\n\n母親学級は、妊娠・出産の知識や地域のお役立ち情報を得るとともに、これから子育てをしていく仲間と出会う場でもあります。\nパパママ学級は、赤ちゃんのいる生活をイメージし、産後の子育てを両親で協力して行うきっかけづくりを目的にしています。おひとりでも参加できます。\n母親学級とパパママ学級は、目的が異なりますので、両方参加されることをお勧めします。\nみなさまのご参加をお待ちしています。\n\nなお、就労等の理由で平日学級に参加が困難な方は、以下「休日母親学級・休日パパママ学級」のページをご覧ください。平日と休日の両方の参加はできません。\n\nまた区では、「もく浴」「おむつの替え方」「赤ちゃんの抱き方」の実習動画を配信しています。以下のリンクからご覧ください。\n\n休日母親学級・休日パパママ学級;https:// www.city.suginami.tokyo.jp/s054/1114.html \n杉並区母親学級・パパママ学級　実習「沐浴」「おむつの替え方」「赤ちゃんの抱き方」（YouTube 杉並区公式チャンネル）（外部リンク）;https:// www.city.suginami.tokyo.jp/s054/1114.html \n平日母親学級\n対象\n杉並区にお住まいの妊娠中の方。\n妊娠週数に制限はありませんが、安定期での参加をおすすめしています。\n\n開催場所\n各保健センター\n\n内容\n1回目：お産のイメージづくり、これから始まる赤ちゃんとのくらし\n妊娠中の過ごし方、お産の話、母乳の話\n出産後の母の心と体の変化について\n赤ちゃんの特徴、育児について\n赤ちゃんの抱き方・おむつの替え方\n地域の子育て情報　ほか\n2回目：歯と口の健康、食生活と栄養、骨密度測定（裸足で実施します）\n（注意） 母親学級は2回で1クールです。希望する内容のみの受講も可能ですが、同じ時期に出産を迎える仲間づくりのためにも両日の参加をお勧めします。\n\n定員\n各保健センターにより異なるため、以下日程表を参照してください。\n\n時間\n各保健センターにより異なるため、以下日程表を参照してください。\n\n参加費\n無料\n\n持ち物\n母子健康手帳、母子保健テキスト、プレママのデンタルケア（リーフレット/2日目のみ）、子育て便利帳、筆記用具、A4サイズの配布資料が入る手提げ袋　ほか\n\n申し込み方法\n申し込みフォーム\n下記「平日母親学級申し込みフォーム（LoGoフォーム）」をクリックまたは2次元コードを読み取り、必要事項を入力の上、送信してください。\n電話（平日午前8時30分～午後5時）\n各保健センターにご連絡ください。\n令和７年度平日母親学級申し込みフォーム（LoGoフォーム）（外部リンク）;https:// logoform.jp/form/Y4gR/809015\n令和７年度平日母親学級申し込みフォーム二次元コード\n\nその他・注意事項\n2日目の骨密度測定は裸足で測定しますので、足首から下を裸足になりやすい服装でお越しください。\n当日受付時に母子健康手帳の連絡先を確認します。事前に1ページ目の保護者欄と6ページ目の緊急連絡先をご記入の上、ご参加ください。\n学級は感染症対策を講じたうえで開催しますが、ご自身を感染から守るために参加の際はマスクの着用を推奨します。\n参加当日に発熱や咳などの症状がある場合、体調がすぐれない場合は、参加を見合わせてください。\n平日パパママ学級\n対象\n杉並区にお住まいで、開催日当日に妊娠24週から36週6日までの初産のカップル\n\n開催場所\n各保健センター\n\n内容\nお産の進み方\n赤ちゃんの抱き方・おむつの替え方（実習）\nもく浴のしかた（実習）\n妊婦体験（実習）\n産後の心と身体の変化について\n赤ちゃんとの1日の生活　ほか\\m（注意）休日パパママ学級と内容は同じです。平日と休日の両方の参加はできません。\n\n定員\n各保健センターにより異なるため、以下日程表を参照してください。\n\n時間\n各保健センターにより異なるため、以下日程表を参照してください。\n\n参加費\n無料\n\n持ち物\n母子健康手帳、母子保健テキスト、子育て便利帳、筆記用具、A4サイズの資料の入る手提げ　ほか\n\n申し込み方法\n申し込みフォーム\n下記「平日パパママ学級申し込みフォーム（LoGoフォーム）」をクリックまたは2次元コードを読み取り、必要事項を入力の上、送信してください。\n電話（平日午前8時30分～午後5時）\n各保健センターにご連絡ください。\n令和７年度平日パパママ学級申し込みフォーム（外部リンク）;https:// logoform.jp/form/Y4gR/809015 \n令和７年度平日パパママ学級申し込みフォーム二次元コード\n\nその他・注意事項\n当日受付時に母子健康手帳の連絡先を確認します。事前に1ページ目の保護者欄と6ページ目の緊急連絡先をご記入の上、ご参加ください。\n学級は感染症対策を講じたうえで開催しますが、ご自身を感染から守るために参加の際はマスクの着用を推奨します。\n参加当日に発熱や咳などの症状がある場合、体調がすぐれない場合は、参加を見合わせてください。\n関連情報\n保健所・保健センター;https:// www.city.suginami.tokyo.jp/kusei/gaiyou/shisetsu/genre/hoken/hokeniryou/hokenjo/index.html \n休日母親学級・休日パパママ学級;https:// www.city.suginami.tokyo.jp/s054/1114.html",
+      "target": {
+        "targetPersons": "杉並区にお住まいの妊娠中の方。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "1回目：お産のイメージづくり、これから始まる赤ちゃんとのくらし\n妊娠中の過ごし方、お産の話、母乳の話\n出産後の母の心と体の変化について\n赤ちゃんの特徴、育児について\n赤ちゃんの抱き方・おむつの替え方\n地域の子育て情報　ほか\n2回目：歯と口の健康、食生活と栄養、骨密度測定（裸足で実施します）\n（注意） 母親学級は2回で1クールです。希望する内容のみの受講も可能ですが、同じ時期に出産を迎える仲間づくりのためにも両日の参加をお勧めします。",
+        "monetarySupport": null,
+        "materiallySupport": "1回目：お産のイメージづくり、これから始まる赤ちゃんとのくらし\n妊娠中の過ごし方、お産の話、母乳の話\n出産後の母の心と体の変化について\n赤ちゃんの特徴、育児について\n赤ちゃんの抱き方・おむつの替え方\n地域の子育て情報　ほか\n2回目：歯と口の健康、食生活と栄養、骨密度測定（裸足で実施します）\n（注意） 母親学級は2回で1クールです。希望する内容のみの受講も可能ですが、同じ時期に出産を迎える仲間づくりのためにも両日の参加をお勧めします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "各保健センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "申し込みフォーム\n下記「平日母親学級申し込みフォーム（LoGoフォーム）」をクリックまたは2次元コードを読み取り、必要事項を入力の上、送信してください。\n電話（平日午前8時30分～午後5時）\n各保健センターにご連絡ください。",
+      "procedurePersons": null,
+      "procedureMethod": "申し込みフォーム\n下記「平日母親学級申し込みフォーム（LoGoフォーム）」をクリックまたは2次元コードを読み取り、必要事項を入力の上、送信してください。\n電話（平日午前8時30分～午後5時）\n各保健センターにご連絡ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": "17:00",
+        "conditions": "平日"
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳、母子保健テキスト、プレママのデンタルケア（リーフレット/2日目のみ）、子育て便利帳、筆記用具、A4サイズの配布資料が入る手提げ袋　ほか",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.suginami.tokyo.jp/s049/shisetsu/13907.html",
+          "title": "高井戸保健センター"
+        },
+        {
+          "uri": "https://www.city.suginami.tokyo.jp/s050/shisetsu/13908.html",
+          "title": "高円寺保健センター"
+        },
+        {
+          "uri": "https://www.city.suginami.tokyo.jp/s054/1114.html",
+          "title": "杉並区母親学級・パパママ学級　実習「沐浴」「おむつの替え方」「赤ちゃんの抱き方」（YouTube 杉並区公式チャンネル）（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.suginami.tokyo.jp/s051/shisetsu/13909.html",
+          "title": "上井草保健センター"
+        },
+        {
+          "uri": "https://www.city.suginami.tokyo.jp/s054/1114.html",
+          "title": "休日母親学級・休日パパママ学級"
+        },
+        {
+          "uri": "https:// www.city.suginami.tokyo.jp/s052/shisetsu/13911.html",
+          "title": "和泉保健センター"
+        },
+        {
+          "uri": "https://www.city.suginami.tokyo.jp/s048/shisetsu/13910.html",
+          "title": "荻窪保健センター（建物名：杉並保健所）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.suginami.tokyo.jp/s054/1113.html",
+        "title": "平日母親学級・平日パパママ学級"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/Y4gR/808989",
+          "title": "R7年度 杉並区平日母親学級お申込みフォーム"
+        }
+      ],
+      "contact": {
+        "contactName": "荻窪保健センター,高井戸保健センター,高円寺保健センター,上井草保健センター,和泉保健センター",
+        "contactPhone": "03-3391-0015,03-3334-4304,03-3311-0116,03-3394-1212,03-3313-9331",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131156;杉並区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131156+1+UM31",
+        "organization": "8000020131156",
+        "compartment": "各保健センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2025-03-13",
+        "updater": "杉並区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+        "shortName": "産前産後期間に係る国民健康保険料の軽減"
+      },
+      "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（単胎は４ヶ月分、多胎は６か月分）の均等割保険料と所得割保険料が軽減されます。",
+      "description": "産前産後期間に係る国民健康保険料の軽減\nページ番号1090742更新日令和6年4月1日\n\n子育て世帯の負担軽減、次世代育成支援等の観点から、出産する国民健康保険被保険者の産前産後期間相当分の保険料を一定期間軽減します。\n\n保険料が軽減される対象者\n令和5年11月1日以降に出産する予定または出産した国民健康保険被保険者（以下「出産被保険者」という。）が対象となります。\n（注）出産する方が国民健康保険に加入していない場合は、軽減対象になりません。\n（注）出産とは、妊娠85日（4カ月）以上の出産を指し、死産、流産、早産及び人工妊娠中絶を含みます。\n\n保険料が軽減される期間\nその年度に納める保険料から、出産被保険者に係る産前産後期間相当分の所得割保険料と均等割保険料が軽減されます。\n\n出産予定日または出産日が属する月（以下「出産予定月」という。）の前月を起点として4カ月間の国民健康保険料が軽減されます。\n多胎妊娠の場合は、出産予定月の3カ月前を起点として6カ月間の国民健康保険料が軽減されます。\n保険料が軽減される期間\n\n（注）軽減は、令和6年1月分以降の保険料が対象です。\n（注）保険料が「最高限度額」に達している場合、軽減しても保険料が変わらないことがあります。\n\n届出方法\n下記の必要書類等を窓口（杉並区役所東棟2階9番窓口）へ持参または郵送で提出してください。\nなお、ご持参いただく場合は、お近くの区民事務所でもお受けできます。\nまた、次のリンク先からも申請が可能です。必要書類は、あらかじめ画像をご用意ください。（使用できる画像ファイルは「JPEG、PNG、GIF、webp」のみです。）\n\n国民健康保険料 産前産後軽減電子申請フォーム（外部リンク）;https://logoform.jp/form/Y4gR/419918\n\n1.出産被保険者に関する届書\n出産被保険者に関する届書は、以下のページからダウンロードできます。\nまた、杉並区役所国保年金課国保資格係（東棟2階9番窓口）またはお近くの区民事務所でも入手できます。\n出産被保険者に関する届書;https://www.city.suginami.tokyo.jp/shinseisho/kokuho/kokuho/1090743.html\n2.母子健康手帳など、出産（予定）日がわかるもの\n（注）母子健康手帳は、出産前の届出には表紙と4ページ目、出産後の届出には1ページ目の内容が必要です。また、表紙には保護者氏名が記入されていることを確認してください。\n（注）別世帯の子の場合、出生証明書などの出産した日及び親子関係を明らかにする書類が必要です。\n（注）郵送で届出をする場合は、コピーを添付してください。\n3.国民健康保険被保険者証\n（注）郵送で届出をする場合は、国民健康保険被保険者証のコピーを添付してください。\n4.届出をする方の本人確認資料（出産被保険者以外の方が届出をする場合）\n（注）郵送で届出をする場合は、本人確認資料のコピーを添付してください。本人確認資料については、以下のページをご覧ください。\n本人確認（届出及び被保険者証の即日交付時）（国民健康保険）;https://www.city.suginami.tokyo.jp/guide/zei/kokuho/1039838.html\n5.世帯主からの委任状（別世帯の方が届出をする場合）\n委任状は、以下のページからダウンロードできます。\n\n出産被保険者に関する届書;https://www.city.suginami.tokyo.jp/shinseisho/kokuho/kokuho/1090743.html\n（注）出産予定日の6カ月前から届出ができます。出産後の届出も可能です。\n\n届出書の提出先\n杉並区保健福祉部国保年金課国保資格係（杉並区役所東棟2階9番窓口）\n〒166-8570杉並区阿佐谷南1丁目15番1号\n\n添付ファイル\n良くある質問と回答 （PDF 465.7KB）;https://www.city.suginami.tokyo.jp/_res/projects/default_project/_page_/001/090/742/situmonkaitou1.pdf\nチラシ「産前産後期間の国民健康保険料が軽減されます」（PDF 286.3KB）;https://www.city.suginami.tokyo.jp/_res/projects/default_project/_page_/001/090/742/tirashi04.pdf\nチラシ（英語版）（PDF 186.9KB）;https://www.city.suginami.tokyo.jp/_res/projects/default_project/_page_/001/090/742/eigobantirashi.pdf\nチラシ（中国語版） （PDF 334.5KB）;https://www.city.suginami.tokyo.jp/_res/projects/default_project/_page_/001/090/742/tyuugokugotirashi.pdf\nチラシ（ネパール語版）（PDF 181.0KB）;https://www.city.suginami.tokyo.jp/_res/projects/default_project/_page_/001/090/742/neparutirashi.pdf\n関連情報\n区民事務所;https://www.city.suginami.tokyo.jp/shisetsu/kuyakusho/jimusho/index.html",
+      "target": {
+        "targetPersons": "令和5年11月1日以降に出産する予定または出産した国民健康保険被保険者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "令和5年11月1日以降に出産する予定または出産した国民健康保険被保険者"
+      },
+      "support": {
+        "description": "その年度に納める保険料から、出産被保険者に係る産前産後期間相当分の所得割保険料と均等割保険料が軽減されます。\n\n出産予定日または出産日が属する月（以下「出産予定月」という。）の前月を起点として4カ月間の国民健康保険料が軽減されます。\n多胎妊娠の場合は、出産予定月の3カ月前を起点として6カ月間の国民健康保険料が軽減されます。",
+        "monetarySupport": "その年度に納める保険料から、出産被保険者に係る産前産後期間相当分の所得割保険料と均等割保険料が軽減されます。\n\n出産予定日または出産日が属する月（以下「出産予定月」という。）の前月を起点として4カ月間の国民健康保険料が軽減されます。\n多胎妊娠の場合は、出産予定月の3カ月前を起点として6カ月間の国民健康保険料が軽減されます。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "令和5年11月1日以降に出産する予定または出産した国民健康保険被保険者",
+      "procedureMethod": "下記の必要書類等を窓口（杉並区役所東棟2階9番窓口）へ持参または郵送で提出してください。\nなお、ご持参いただく場合は、お近くの区民事務所でもお受けできます。\nまた、次のリンク先からも申請が可能です。必要書類は、あらかじめ画像をご用意ください。（使用できる画像ファイルは「JPEG、PNG、GIF、webp」のみです。）\n\n国民健康保険料 産前産後軽減電子申請フォーム（外部リンク）;https://logoform.jp/form/Y4gR/419918\n1.出産被保険者に関する届書\n出産被保険者に関する届書は、以下のページからダウンロードできます。\nまた、杉並区役所国保年金課国保資格係（東棟2階9番窓口）またはお近くの区民事務所でも入手できます。\n出産被保険者に関する届書;https://www.city.suginami.tokyo.jp/shinseisho/kokuho/kokuho/1090743.html\n2.母子健康手帳など、出産（予定）日がわかるもの\n（注）母子健康手帳は、出産前の届出には表紙と4ページ目、出産後の届出には1ページ目の内容が必要です。また、表紙には保護者氏名が記入されていることを確認してください。\n（注）別世帯の子の場合、出生証明書などの出産した日及び親子関係を明らかにする書類が必要です。\n（注）郵送で届出をする場合は、コピーを添付してください。\n3. 国民健康保険被保険者証\n（注）郵送で届出をする場合は、国民健康保険被保険者証のコピーを添付してください。\n4.届出をする方の本人確認資料（出産被保険者以外の方が届出をする場合）\n（注）郵送で届出をする場合は、本人確認資料のコピーを添付してください。本人確認資料については、以下のページをご覧ください。\n本人確認（届出及び被保険者証の即日交付時）（国民健康保険）;https://www.city.suginami.tokyo.jp/guide/zei/kokuho/1039838.html\n5.世帯主からの委任状（別世帯の方が届出をする場合）\n委任状は、以下のページからダウンロードできます。\n\n出産被保険者に関する届書;https://www.city.suginami.tokyo.jp/shinseisho/kokuho/kokuho/1090743.html\n（注）出産予定日の6カ月前から届出ができます。出産後の届出も可能です。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "窓口（杉並区役所東棟2階9番窓口）へ持参または郵送で提出してください。\nなお、ご持参いただく場合は、お近くの区民事務所でもお受けできます。",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.suginami.tokyo.jp/guide/zei/kokuho/1090742.html",
+        "title": "産前産後期間に係る国民健康保険料の軽減"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/Y4gR/419918",
+          "title": "国民健康保険料 産前産後軽減電子申請フォーム（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "保健福祉部国保年金課国保資格係",
+        "contactPhone": "03-5307-0641",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "（直通）",
+        "zipCode": "1668570",
+        "contactAddress": "東京都杉並区阿佐谷南1丁目15番1号"
+      },
+      "area": {
+        "areaCode": "131156;杉並区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131156+1+UM5035",
+        "organization": "8000020131156",
+        "compartment": "保健福祉部国保年金課国保資格係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-16",
+        "updater": "杉並区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003",
+          "015"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "こども食堂",
+        "shortName": "子ども食堂"
+      },
+      "summary": "「子ども食堂」は、地域の住民等が主体となり、無料又は低額な料金で、食事を提供し、集まったみんなで食事や交流を行う地域コミュニティの場です。生活に困窮する子育て世帯への支援だけでなく、虐待の防止のための見守りや、地域の交流、こどもへの多様な経験の提供など様々な役割を担っており、国としてもこの取組を支援しています。",
+      "description": "杉並区内の「子ども食堂」とは\n杉並区内の「子ども食堂」は、無料または低価格で食事を提供し、集まったみんなで食事をすることにより、地域のつながりを強くすることを目的に活動しています。個人や地域の団体による自主的な取り組みで、寄付や食材の提供を受けながら、ボランティアスタッフにより運営をしています。\n\n杉並区内の「子ども食堂」の活動状況は、杉並子ども食堂ネットワークのホームページで紹介しています。\n\n杉並区内の子ども食堂（杉並子ども食堂ネットワークホームページ）（外部リンク）新しいウィンドウで開きます;https://suginami-kodomosyokudo.org/\n\nリーフレット\n杉並区内の「子ども食堂」の情報をイラスト地図等にまとめた「杉並区内の子ども食堂」リーフレットが完成しました。リーフレットには、区内の子ども食堂の場所や実施日、料金及び連絡先などの情報が一目で分かるように掲載されています。\n\nリーフレットは下記からダウンロードできます。\n\nなお、リーフレットは杉並区社会福祉協議会（杉並区天沼3丁目19番16号ウェルファーム杉並複合施設棟2階、4階）に置いてあります\n\n杉並区内の子ども食堂　リーフレット（表紙） （PDF 890.3KB）新しいウィンドウで開きます;https://www.city.suginami.tokyo.jp/_res/projects/default_project/_page_/001/038/444/hyoshi202110.pdf\n杉並区内の子ども食堂　リーフレット（一覧・表） （PDF 456.6KB）新しいウィンドウで開きます;https://www.city.suginami.tokyo.jp/_res/projects/default_project/_page_/001/038/444/syokudo_omote202112.pdf\n杉並区内の子ども食堂　リーフレット（一覧・裏） （PDF 2.1MB）新しいウィンドウで開きます;https://www.cit;.suginami.tokyo.jp/_res/projects/default_project/_page_/001/038/444/syokudo_ura202112.pdf",
+      "target": {
+        "targetPersons": "子ども",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "無料または低価格で食事を提供し、集まったみんなで食事をすることにより、地域のつながりを強くすることを目的に活動しています。",
+        "monetarySupport": null,
+        "materiallySupport": "食事"
+      },
+      "cost": "無料または低価格",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.suginami.tokyo.jp/kosodate/yakudatsujoho/1038443/1038444.html",
+        "title": "杉並子ども食堂ネットワーク"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "社会福祉法人杉並区社会福祉協議会地域支援課地域福祉推進係",
+        "contactPhone": "03-5347-1017",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131156;杉並区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131156+1+UM5036",
+        "organization": "8000020131156",
+        "compartment": "社会福祉法人杉並区社会福祉協議会地域支援課地域福祉推進係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022/06/08",
+      "odInformation": {
+        "updateDate": "2025/02/21",
+        "updater": "杉並区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "児童遊園",
+        "shortName": "公園・児童遊園、遊び場"
+      },
+      "summary": "児童遊園は、屋外にある公園に類似した施設です。18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n杉並区の児童遊園の一覧は、杉並区サイトなどでお知らせしています。",
+      "description": "公園・児童遊園、遊び場\nページ番号1005014更新日令和4年10月1日\n\n杉並区内には300を超える区立公園があります。\nお近くにどのような公園があるか知りたい時は、下記公園一覧のリンクをご覧ください。\nトイレ、球戯場、流れ、複合遊具など、公園にある主な施設の有無も掲載しています。\n地図から探す場合は、「すぎナビ」をご覧ください。\n\nすぎナビ「公園・緑地」（外部リンク）;https://www2.wagmap.jp/suginami/Map?mid=8&mps=2500&mtp=pfm&mpx=139.6363725790681&mpy=35.69960238460718&gprj=3\n杉並区内の公園一覧（公園名のあいうえお順）;https://www.city.suginami.tokyo.jp/guide/machi/kouen/1005029.html\n杉並区内の公園一覧（所在地のあいうえお順）;https://www.city.suginami.tokyo.jp/guide/machi/kouen/1005028.html\n都立公園について\n区内には都立公園が5園あります。\n善福寺川緑地、都立和田堀公園、善福寺公園、玉川上水緑道、高井戸公園は都立公園です。\n都立公園については下記の東京都公園協会の各サービスセンターへお尋ねください。\n\n善福寺川緑地サービスセンター（善福寺川緑地、都立和田堀公園）\n電話：03-3313-4247\n善福寺公園サービスセンター（善福寺公園）\n電話：03-3396-0825\n野川公園サービスセンター（玉川上水緑道）\n電話：0422-31-6457\n高井戸公園サービスセンター（高井戸公園）\n電話：03-3331-1336\n公益財団法人　東京都公園協会ホームページ（外部リンク）;http://www.tokyo-park.or.jp/profile/index.html\n公園へ行こう！（公益財団法人　東京都公園協会ホームページ）（外部リンク）;http://www.tokyo-park.or.jp/index.html\n区立公園でできること\n茶室のある公園を知りたい\n\\m茶室や詩歌室がある公園;https://www.city.suginami.tokyo.jp/guide/machi/kouen/1005017.html\n公園でデイキャンプをしたい\n\nデイキャンプができる公園;https://www.city.suginami.tokyo.jp/guide/machi/kouen/1005018.html\n公園でリサイクルバザーを開催したい\n\nリサイクルバザーができる公園;https://www.city.suginami.tokyo.jp/guide/machi/kouen/1005019.html\n犬を連れて行ってよい公園を知りたい\n\n犬といっしょに楽しめる公園;https://www.city.suginami.tokyo.jp/guide/machi/kouen/1005020.html\nゴーカートを置いている公園があると聞いたが\n\n特色ある公園;https://www.city.suginami.tokyo.jp/guide/machi/kouen/1005021.html\n今、花見ができる公園はどこか\n\n花を楽しめる公園;https://www.city.suginami.tokyo.jp/guide/machi/kouen/1005022.html\nキッチンカーが来る公園があるの？\n\n移動販売車（キッチンカー）を出店する公園;https://www.city.suginami.tokyo.jp/guide/machi/kouen/1044355.html\n歴史ある庭園をめぐる\n\n三庭園めぐり;https://www.city.suginami.tokyo.jp/guide/machi/kouen/1051965.html\n紅葉のライトアップしている公園とはどこのことか\n\nおもな公園イベント;https://www.city.suginami.tokyo.jp/guide/machi/kouen/1005023.html\n公園の花壇で花を育てたい\n\n公園でのボランティア活動（花咲かせ隊・すぎなみ公園育て組・みどりのボランティア杉並）;https://www.city.suginami.tokyo.jp/guide/machi/kouen/1005024.html\n公園でテレビ番組の撮影をしたい\n\n公園で撮影をする場合（写真の撮影、動画の撮影）;https://www.city.suginami.tokyo.jp/guide/machi/kouen/1005025.html\n公園で花火をしたい\n\n公園で花火をする場合;https://www.city.suginami.tokyo.jp/guide/machi/kouen/1005026.html\n公園で町会の盆踊りをしたい\n\n公園を個人以外で利用する場合（学校、町会等の催し物、団体での利用、その他イベント）;https://www.city.suginami.tokyo.jp/guide/machi/kouen/1005027.html\n公園の花壇で花を育てたい\n\n公園でのボランティア活動（花咲かせ隊・すぎなみ公園育て組・みどりのボランティア杉並）;https://www.city.suginami.tokyo.jp/guide/machi/kouen/1005024.html\n関連情報\n公園管理事務所;https://www.city.suginami.tokyo.jp/shisetsu/kouen/kanri/index.html",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.suginami.tokyo.jp/guide/machi/kouen/1005014.html",
+        "title": "公園・児童遊園、遊び場"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "都市整備部みどり公園課",
+        "contactPhone": "03-3312-2111",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "（代表）",
+        "zipCode": "1668570",
+        "contactAddress": "東京都杉並区阿佐谷南1丁目15番1号"
+      },
+      "area": {
+        "areaCode": "131156;杉並区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131156+1+UM576",
+        "organization": "8000020131156",
+        "compartment": "都市整備部みどり公園課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-10-01",
+      "odInformation": {
+        "updateDate": "2024-07-16",
+        "updater": "杉並区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後ヘルパーの派遣",
+        "shortName": "産前支援ヘルパー"
+      },
+      "summary": "産前・産後の家事や育児の支援が必要なご家庭を、ヘルパーが訪問する子育て支援サービスです。区から委託を受けた事業者のスタッフがご自宅へ訪問し、援助を行います。",
+      "description": "https://www.city.suginami.tokyo.jp/s054/shinseisho/8706.html",
+      "target": {
+        "targetPersons": "妊娠中の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "妊娠がわかった時点から出産日までの間で20時間以内"
+      },
+      "support": {
+        "description": "家事に関すること（食事の支度・衣類の洗濯・居宅の掃除および整理整頓など）\n育児に関すること（もく浴や食事等の補助・兄姉の世話など）",
+        "monetarySupport": null,
+        "materiallySupport": "家事に関すること（食事の支度・衣類の洗濯・居宅の掃除および整理整頓など）\n育児に関すること（もく浴や食事等の補助・兄姉の世話など）"
+      },
+      "cost": "1000",
+      "costConditions": "次のとおり、住民税額に応じて利用者負担があります。\n\n利用者負担額\n|区分|サービス利用負担額|交通費|\n|:----|:----|:----|\n|生活保護法による生活保護世帯<br>特別区民税・都民税非課税世帯|無料|利用者負担|\n|上記以外の世帯|1時間1,000円|利用者負担|\n",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "妊娠がわかった時点から出産日までの間で20時間以内\n午前9時～午後5時（1日1回、連続した4時間以内）日曜日・祝日・年末年始（12月29日～翌年1月3日）を除く"
+      },
+      "specificDate": null,
+      "holiday": "日曜日・祝日・年末年始（12月29日～翌年1月3日）",
+      "utilization": "杉並区産前・産後支援ヘルパー利用申請書\n母子健康手帳の表紙のコピー（妊娠中の申請の場合のみ）\n世帯全員分の住民税非課税証明書のコピーまたは生活保護受給証明書のコピー（該当する方のみ）\n申請後、利用開始までには2週間前後必要です。",
+      "procedurePersons": "妊娠中の方（多胎妊娠を除く）\n（注意）ご本人またはその家族が申請の手続きをしてください。",
+      "procedureMethod": "杉並区産前・産後支援ヘルパー利用申請書\n母子健康手帳の表紙のコピー（妊娠中の申請の場合のみ）\n世帯全員分の住民税非課税証明書のコピーまたは生活保護受給証明書のコピー（該当する方のみ）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "妊娠がわかった時点から受け付けます。"
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "地域子育て支援課子育て支援係（区役所東棟3階）\n各子どもセンター",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.suginami.tokyo.jp/s054/shinseisho/8706.html",
+        "title": "杉並区産前・産後支援ヘルパー利用申請書"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/Y4gR/720224",
+          "title": "杉並区産前・産後支援ヘルパー利用申請"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども家庭部地域子育て支援課子育て支援係",
+        "contactPhone": "03-3312-2111",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "（代表）",
+        "zipCode": "1668570",
+        "contactAddress": "東京都杉並区阿佐谷南1丁目15番1号"
+      },
+      "area": {
+        "areaCode": "131156;杉並区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131156+1+UM785",
+        "organization": "8000020131156",
+        "compartment": "子ども家庭部地域子育て支援課子育て支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2025-03-13",
+        "updater": "杉並区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "杉並区産前・産後支援ヘルパー事業実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出生連絡票・低体重児出生届",
+        "shortName": "すこやか赤ちゃん連絡票"
+      },
+      "summary": "赤ちゃんが生まれたら、母子手帳に添付されているすこやか赤ちゃん連絡票を記入して、郵送または提出してください。すこやか赤ちゃん連絡票をもとに、「すこやか赤ちゃん訪問（生後4か月までの全戸訪問）」https://www.city.suginami.tokyo.jp/s054/1027.htmlのご連絡をします。\nなお、法律（母子保健法）で2,500グラム未満のお子さんが出生した時は、保護者がその旨を速やかに届け出ることが義務づけられており、出生連絡票はその届出を兼ねています。",
+      "description": "https://www.city.suginami.tokyo.jp/s054/1027.html",
+      "target": {
+        "targetPersons": "生後4か月までの赤ちゃんがいる全てのご家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "赤ちゃんが生まれたら、お早めに「すこやか赤ちゃん連絡票」をご提出ください。"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "生後4か月までの赤ちゃんがいる全てのご家庭",
+      "procedureMethod": "電子申請\n下記「すこやか赤ちゃん連絡票提出フォーム（LoGoフォーム）」をクリックまたは2次元コードを読み取り、必要事項を入力の上、提出してください。\nなお、はがきにも同様の2次元コードが記載されています。\nはがき（令和6年4月1日以降に妊娠の届出をされた方にお渡しした母子健康手帳に綴じ込まれています。）\n郵送または杉並区の窓口（出生届と同時）に提出してください。\nすこやか赤ちゃん連絡票提出フォーム（LoGoフォーム）;https://logoform.jp/form/Y4gR/471205",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "赤ちゃんが生まれたら、お早めに「すこやか赤ちゃん連絡票」をご提出ください。"
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.suginami.tokyo.jp/s054/1027.html",
+        "title": "すこやか赤ちゃん訪問（生後4か月までの全戸訪問）"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/Y4gR/471205",
+          "title": "すこやか赤ちゃん連絡票"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども家庭部地域子育て支援課母子保健係",
+        "contactPhone": "03-3312-2111",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "（代表）",
+        "zipCode": "1668570",
+        "contactAddress": "東京都杉並区阿佐谷南1丁目15番1号"
+      },
+      "area": {
+        "areaCode": "131156;杉並区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131156+1+UM791",
+        "organization": "8000020131156",
+        "compartment": "子ども家庭部地域子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2025-03-13",
+        "updater": "杉並区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第18条（低体重児の届出）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "077"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後期間の国民年金保険料免除",
+        "shortName": "産前産後期間の保険料免除"
+      },
+      "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+      "description": "産前産後期間の免除\n平成31年4月1日から所得の有無にかかわらず、産前産後期間の保険料が免除される制度が始まりました。この期間は国民年金の保険料納付済み期間に算入されます。\nこの制度の対象となる国民年金第1号被保険者は平成31年2月1日以降に出産された方です。（妊娠85日以上で死産・流産・早産・人工妊娠中絶された方も対象です。）届出は出産予定日の6カ月前から行うことができます。\nまた、すでに他の免除制度や猶予制度を受けている方も新たに手続きが必要です。\n当該期間の保険料をすでに納付されている場合は保険料が還付されますが、この期間の以前に未納があった場合は、未納の期間の保険料に充当されます。\n付加保険料を納付することもできます。\n\n免除該当期間\n出産（予定）日が属する月の前月から4カ月間（多胎妊娠の場合は出産（予定）日が属する月のの3カ月前から6カ月間）。ただし、免除されるのは平成31年4月以降の保険料です。\n\n手続きに必要なもの\nマイナンバーが確認できるものまたは基礎年金番号通知書（年金手帳）、母子手帳（死産証明書、死胎埋火葬許可証の写し）、本人確認書類（下記、「本人確認について」を参照ください。）\n代理で申請する場合は、委任状、窓口に来る方の本人確認書類\n手続き場所\nマイナポータルから電子申請ができます。詳細は日本年金機構ホームページをご確認ください。下記の窓口でも手続きできます。\n\n国民年金係（区役所中棟2階）、区民事務所\n杉並年金事務所国民年金課（2階 杉並区高円寺南2丁目54番9号）\n\n国民年金保険料の産前産後期間の免除制度（日本年金機構ホームページ）（外部リンク）;https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html\n個人の方の電子申請（日本年金機構ホームページ）（外部リンク）;https://www.nenkin.go.jp/denshibenri_kojin/denshibenri_kojin/shinsei_kojin.html",
+      "target": {
+        "targetPersons": "平成31年2月1日以降に出産または出産予定の国民年金第１号被保険者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "平成31年2月1日以降に出産または出産予定の国民年金第１号被保険者（妊娠85日以上で死産・流産・早産・人工妊娠中絶された方も対象）"
+      },
+      "support": {
+        "description": "平成31年2月1日以降に出産または出産予定の国民年金第１号被保険者（妊娠85日以上で死産・流産・早産・人工妊娠中絶された方も対象）",
+        "monetarySupport": "出産（予定）日が属する月の前月から4カ月間（多胎妊娠の場合は出産（予定）日が属する月の3カ月前から6カ月間）。ただし、免除されるのは平成31年4月以降の保険料です。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "平成31年2月1日以降に出産または出産予定の国民年金第１号被保険者（妊娠85日以上で死産・流産・早産・人工妊娠中絶された方も対象）",
+      "procedureMethod": "マイナポータルから電子申請ができます。詳細は日本年金機構ホームページをご確認ください。下記の窓口でも手続きできます。\n国民年金係（区役所中棟2階）、区民事務所\n杉並年金事務所国民年金課（2階 杉並区高円寺南2丁目54番9号）\n\n国民年金保険料の産前産後期間の免除制度（日本年金機構ホームページ）（外部リンク）;https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html\n個人の方の電子申請（日本年金機構ホームページ）（外部リンク）;https://www.nenkin.go.jp/denshibenri_kojin/denshibenri_kojin/shinsei_kojin.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳、出生届",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "国民年金係（区役所中棟2階）、区民事務所\n杉並年金事務所国民年金課（2階 杉並区高円寺南2丁目54番9号）",
+      "relatedLink": [
+        {
+          "uri": "https://www.nenkin.go.jp/denshibenri_kojin/denshibenri_kojin/shinsei_kojin.html",
+          "title": "個人の方の電子申請（日本年金機構ホームページ）（外部リンク）"
+        },
+        {
+          "uri": "https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html",
+          "title": "国民年金保険料の産前産後期間の免除制度（日本年金機構ホームページ）（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.suginami.tokyo.jp/s035/2047.html#p6",
+        "title": "産前産後期間の免除"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.nenkin.go.jp/denshibenri_kojin/denshibenri_kojin/shinsei_kojin.html",
+          "title": "個人の方の電子申請（日本年金機構ホームページ）"
+        }
+      ],
+      "contact": {
+        "contactName": "保健福祉部国保年金課国民年金係",
+        "contactPhone": "03-5307-0646",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "（直通）",
+        "zipCode": "1668570",
+        "contactAddress": "東京都杉並区阿佐谷南1丁目15番1号"
+      },
+      "area": {
+        "areaCode": "131156;杉並区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131156+1+UM793",
+        "organization": "8000020131156",
+        "compartment": "保健福祉部国保年金課国民年金係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2025-03-13",
+        "updater": "杉並区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民年金法",
+        "regulationArticle": "第88条の2（保険料の納付義務）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "016"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "平日パパママ学級"
+      },
+      "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、杉並区では産科医師、歯科医師、保健師、栄養士、助産師などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+      "description": "平日母親学級・平日パパママ学級\nページ番号1113　 更新日 令和6年4月1日 印刷\n\n会場では「人と人との距離の確保」「換気」「手洗い等の手指衛生」等の基本的な感染症予防対策を行っております。状況に応じて定員および内容の変更を行う場合があります。\n\n区内在住の方を対象に、母親学級・パパママ学級を開催しています。\n\n母親学級は、妊娠・出産の知識や地域のお役立ち情報を得るとともに、これから子育てをしていく仲間と出会う場でもあります。\nパパママ学級は、赤ちゃんのいる生活をイメージし、産後の子育てを両親で協力して行うきっかけづくりを目的にしています。おひとりでも参加できます。\n母親学級とパパママ学級は、目的が異なりますので、両方参加されることをお勧めします。\nみなさまのご参加をお待ちしています。\n\nなお、就労等の理由で平日学級に参加が困難な方は、以下「休日母親学級・休日パパママ学級」のページをご覧ください。平日と休日の両方の参加はできません。\n\nまた区では、「もく浴」「おむつの替え方」「赤ちゃんの抱き方」の実習動画を配信しています。以下のリンクからご覧ください。\n\n休日母親学級・休日パパママ学級;https:// www.city.suginami.tokyo.jp/s054/1114.html \n杉並区母親学級・パパママ学級　実習「沐浴」「おむつの替え方」「赤ちゃんの抱き方」（YouTube 杉並区公式チャンネル）（外部リンク）;https:// www.city.suginami.tokyo.jp/s054/1114.html \n平日母親学級\n対象\n杉並区にお住まいの妊娠中の方。\n妊娠週数に制限はありませんが、安定期での参加をおすすめしています。\n\n開催場所\n各保健センター\n\n内容\n1回目：お産のイメージづくり、これから始まる赤ちゃんとのくらし\n妊娠中の過ごし方、お産の話、母乳の話\n出産後の母の心と体の変化について\n赤ちゃんの特徴、育児について\n赤ちゃんの抱き方・おむつの替え方\n地域の子育て情報　ほか\n2回目：歯と口の健康、食生活と栄養、骨密度測定（裸足で実施します）\n（注意） 母親学級は2回で1クールです。希望する内容のみの受講も可能ですが、同じ時期に出産を迎える仲間づくりのためにも両日の参加をお勧めします。\n\n定員\n各保健センターにより異なるため、以下日程表を参照してください。\n\n時間\n各保健センターにより異なるため、以下日程表を参照してください。\n\n参加費\n無料\n\n持ち物\n母子健康手帳、母子保健テキスト、プレママのデンタルケア（リーフレット/2日目のみ）、子育て便利帳、筆記用具、A4サイズの配布資料が入る手提げ袋　ほか\n\n申し込み方法\n申し込みフォーム\n下記「平日母親学級申し込みフォーム（LoGoフォーム）」をクリックまたは2次元コードを読み取り、必要事項を入力の上、送信してください。\n電話（平日午前8時30分～午後5時）\n各保健センターにご連絡ください。\n令和７年度平日母親学級申し込みフォーム（LoGoフォーム）（外部リンク）;https:// logoform.jp/form/Y4gR/809015\n令和７年度平日母親学級申し込みフォーム二次元コード\n\nその他・注意事項\n2日目の骨密度測定は裸足で測定しますので、足首から下を裸足になりやすい服装でお越しください。\n当日受付時に母子健康手帳の連絡先を確認します。事前に1ページ目の保護者欄と6ページ目の緊急連絡先をご記入の上、ご参加ください。\n学級は感染症対策を講じたうえで開催しますが、ご自身を感染から守るために参加の際はマスクの着用を推奨します。\n参加当日に発熱や咳などの症状がある場合、体調がすぐれない場合は、参加を見合わせてください。\n平日パパママ学級\n対象\n杉並区にお住まいで、開催日当日に妊娠24週から36週6日までの初産のカップル\n\n開催場所\n各保健センター\n\n内容\nお産の進み方\n赤ちゃんの抱き方・おむつの替え方（実習）\nもく浴のしかた（実習）\n妊婦体験（実習）\n産後の心と身体の変化について\n赤ちゃんとの1日の生活　ほか\\m（注意）休日パパママ学級と内容は同じです。平日と休日の両方の参加はできません。\n\n定員\n各保健センターにより異なるため、以下日程表を参照してください。\n\n時間\n各保健センターにより異なるため、以下日程表を参照してください。\n\n参加費\n無料\n\n持ち物\n母子健康手帳、母子保健テキスト、子育て便利帳、筆記用具、A4サイズの資料の入る手提げ　ほか\n\n申し込み方法\n申し込みフォーム\n下記「平日パパママ学級申し込みフォーム（LoGoフォーム）」をクリックまたは2次元コードを読み取り、必要事項を入力の上、送信してください。\n電話（平日午前8時30分～午後5時）\n各保健センターにご連絡ください。\n令和７年度平日パパママ学級申し込みフォーム（外部リンク）;https:// logoform.jp/form/Y4gR/809015 \n令和７年度平日パパママ学級申し込みフォーム二次元コード\n\nその他・注意事項\n当日受付時に母子健康手帳の連絡先を確認します。事前に1ページ目の保護者欄と6ページ目の緊急連絡先をご記入の上、ご参加ください。\n学級は感染症対策を講じたうえで開催しますが、ご自身を感染から守るために参加の際はマスクの着用を推奨します。\n参加当日に発熱や咳などの症状がある場合、体調がすぐれない場合は、参加を見合わせてください。\n関連情報\n保健所・保健センター;https:// www.city.suginami.tokyo.jp/kusei/gaiyou/shisetsu/genre/hoken/hokeniryou/hokenjo/index.html \n休日母親学級・休日パパママ学級;https:// www.city.suginami.tokyo.jp/s054/1114.html",
+      "target": {
+        "targetPersons": "杉並区にお住まいで、開催日当日に妊娠24週から36週6日までの初産のカップル",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "お産の進み方\n赤ちゃんの抱き方・おむつの替え方（実習）\nもく浴のしかた（実習）\n妊婦体験（実習）\n産後の心と身体の変化について\n赤ちゃんとの1日の生活　ほか",
+        "monetarySupport": null,
+        "materiallySupport": "お産の進み方\n赤ちゃんの抱き方・おむつの替え方（実習）\nもく浴のしかた（実習）\n妊婦体験（実習）\n産後の心と身体の変化について\n赤ちゃんとの1日の生活　ほか"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "各保健センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "申し込みフォーム\n下記「平日母親学級申し込みフォーム（LoGoフォーム）」をクリックまたは2次元コードを読み取り、必要事項を入力の上、送信してください。\n電話（平日午前8時30分～午後5時）\n各保健センターにご連絡ください。",
+      "procedurePersons": null,
+      "procedureMethod": "申し込みフォーム\n下記「平日パパママ学級申し込みフォーム（LoGoフォーム）」をクリックまたは2次元コードを読み取り、必要事項を入力の上、送信してください。\n電話（平日午前8時30分～午後5時）\n各保健センターにご連絡ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": "17:00",
+        "conditions": "平日"
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳、母子保健テキスト、子育て便利帳、筆記用具、A4サイズの資料の入る手提げ　ほか",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.suginami.tokyo.jp/s049/shisetsu/13907.html",
+          "title": "高井戸保健センター"
+        },
+        {
+          "uri": "https://www.city.suginami.tokyo.jp/s054/1114.html",
+          "title": "杉並区母親学級・パパママ学級　実習「沐浴」「おむつの替え方」「赤ちゃんの抱き方」（YouTube 杉並区公式チャンネル）（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.suginami.tokyo.jp/s054/1114.html",
+          "title": "休日母親学級・休日パパママ学級"
+        },
+        {
+          "uri": "https://www.city.suginami.tokyo.jp/s050/shisetsu/13908.html",
+          "title": "高円寺保健センター"
+        },
+        {
+          "uri": "https://www.city.suginami.tokyo.jp/s048/shisetsu/13910.html",
+          "title": "荻窪保健センター（建物名：杉並保健所）"
+        },
+        {
+          "uri": "https://www.city.suginami.tokyo.jp/s051/shisetsu/13909.html",
+          "title": "上井草保健センター"
+        },
+        {
+          "uri": "https:// www.city.suginami.tokyo.jp/s052/shisetsu/13911.html",
+          "title": "和泉保健センター"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.suginami.tokyo.jp/s054/1113.html",
+        "title": "平日母親学級・平日パパママ学級"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/Y4gR/809015",
+          "title": "R7年度　杉並区平日パパママ学級　お申込みフォーム"
+        }
+      ],
+      "contact": {
+        "contactName": "荻窪保健センター,高井戸保健センター,高円寺保健センター,上井草保健センター,和泉保健センター",
+        "contactPhone": "03-3391-0015,03-3334-4304,03-3311-0116,03-3394-1212,03-3313-9331",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131156;杉並区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131156+2+UM31",
+        "organization": "8000020131156",
+        "compartment": "各保健センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2025-03-13",
+        "updater": "杉並区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後ヘルパーの派遣",
+        "shortName": "産後支援ヘルパー"
+      },
+      "summary": "産前・産後の家事や育児の支援が必要なご家庭を、ヘルパーが訪問する子育て支援サービスです。区から委託を受けた事業者のスタッフがご自宅へ訪問し、援助を行います。",
+      "description": "https://www.city.suginami.tokyo.jp/s054/shinseisho/8706.html",
+      "target": {
+        "targetPersons": "1歳未満の子を養育中の方",
+        "lessThan": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "出産後から子の1歳の誕生日の前日まで60時間以内（出生時に3歳未満の兄または姉がいる場合は180時間以内）"
+      },
+      "support": {
+        "description": "家事に関すること（食事の支度・衣類の洗濯・居宅の掃除および整理整頓など）\n育児に関すること（もく浴や食事等の補助・兄姉の世話など）",
+        "monetarySupport": null,
+        "materiallySupport": "家事に関すること（食事の支度・衣類の洗濯・居宅の掃除および整理整頓など）\n育児に関すること（もく浴や食事等の補助・兄姉の世話など）"
+      },
+      "cost": "1000",
+      "costConditions": "次のとおり、住民税額に応じて利用者負担があります。\n\n利用者負担額\n|区分|サービス利用負担額|交通費|\n|:----|:----|:----|\n|生活保護法による生活保護世帯<br>特別区民税・都民税非課税世帯|無料|利用者負担|\n|上記以外の世帯|1時間1,000円|利用者負担|\n",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "出産後から子の1歳の誕生日の前日まで60時間以内（出生時に3歳未満の兄または姉がいる場合は180時間以内）\n午前9時～午後5時（1日1回、連続した4時間以内）日曜日・祝日・年末年始（12月29日～翌年1月3日）を除く"
+      },
+      "specificDate": null,
+      "holiday": "日曜日・祝日・年末年始（12月29日～翌年1月3日）",
+      "utilization": "杉並区産前・産後支援ヘルパー利用申請書\n母子健康手帳の表紙のコピー（妊娠中の申請の場合のみ）\n世帯全員分の住民税非課税証明書のコピーまたは生活保護受給証明書のコピー（該当する方のみ）\n申請後、利用開始までには2週間前後必要です。",
+      "procedurePersons": "出産予定日の2カ月前から1歳未満の子を養育中の方（多胎出産を除く）\n（注意）ご本人またはその家族が申請の手続きをしてください。",
+      "procedureMethod": "杉並区産前・産後支援ヘルパー利用申請書\n母子健康手帳の表紙のコピー（妊娠中の申請の場合のみ）\n世帯全員分の住民税非課税証明書のコピーまたは生活保護受給証明書のコピー（該当する方のみ）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産予定日の2か月前から受け付けます。"
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "地域子育て支援課子育て支援係（区役所東棟3階）\n各子どもセンター",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.suginami.tokyo.jp/s054/shinseisho/8706.html",
+        "title": "杉並区産前・産後支援ヘルパー利用申請書"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/Y4gR/720224",
+          "title": "杉並区産前・産後支援ヘルパー利用申請"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども家庭部地域子育て支援課子育て支援係",
+        "contactPhone": "03-3312-2111",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "（代表）",
+        "zipCode": "1668570",
+        "contactAddress": "東京都杉並区阿佐谷南1丁目15番1号"
+      },
+      "area": {
+        "areaCode": "131156;杉並区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131156+2+UM785",
+        "organization": "8000020131156",
+        "compartment": "子ども家庭部地域子育て支援課子育て支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2025-03-13",
+        "updater": "杉並区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "杉並区産前・産後支援ヘルパー事業実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "休日母親学級"
+      },
+      "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、杉並区では助産師などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+      "description": "https://www.city.suginami.tokyo.jp/s054/1114.html",
+      "target": {
+        "targetPersons": "杉並区にお住まいの初産で妊娠中の方。\n妊娠週数に制限はありませんが、安定期での参加をおすすめしています。\nオンライン学級は、経産婦の方も参加可能です。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠中の過ごし方\nお産の話、母乳の話\n産後の心と体の変化について\n赤ちゃんの抱き方、おむつの替え方（実習）\n妊婦体操\n交流タイム\n地域の子育て情報　ほか",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠中の過ごし方\nお産の話、母乳の話\n産後の心と体の変化について\n赤ちゃんの抱き方、おむつの替え方（実習）\n妊婦体操\n交流タイム\n地域の子育て情報　ほか"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "対面学級\n午前9時30分～正午\n\nオンライン学級\n午前10時30分～正午"
+      },
+      "implementationPlace": {
+        "implementationName": "対面学級\n4月、10月、12月、1月は、子ども・子育てプラザ成田西\n6月、7月、9月、3月は、子ども・子育てプラザ善福寺\nオンライン学級\nオンラインミーティングシステムZoom（ズーム）を使用します。",
+        "implementationAddress": "対面学級\n子ども・子育てプラザ成田西（杉並区成田西3丁目10番38号）\n子ども・子育てプラザ善福寺（杉並区善福寺1丁目18番9号）\n"
+      },
+      "capacity": "対面学級\n各40名\nオンライン学級\n各100名",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "往復はがき、またはインターネットからお申し込みください。",
+      "procedurePersons": null,
+      "procedureMethod": "往復はがき、またはインターネットからお申し込みください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "対面学級\n母子健康手帳、参加決定通知、筆記用具、A4サイズの配布資料が入る手提げ袋　ほか\n\nオンライン学級\n事前配布資料",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "株式会社 ポピンズプロフェッショナル 杉並区休日母親学級担当",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.suginami.tokyo.jp/s054/1113.html",
+          "title": "平日母親学級・平日パパママ学級"
+        },
+        {
+          "uri": "https://www.youtube.com/watch?v=Rn46m3VCAuk",
+          "title": "杉並区母親学級・パパママ学級　実習「沐浴」「おむつの替え方」「赤ちゃんの抱き方」（YouTube 杉並区公式チャンネル）（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.suginami.tokyo.jp/s054/1114.html",
+        "title": "休日母親学級・休日パパママ学級"
+      },
+      "formLink": [
+        {
+          "uri": "https://poppins-education.jp/parentsclass_suginami/",
+          "title": "杉並区休日パパママ学級・休日母親学級Webページ（株式会社ポピンズプロフェッショナル　ホームページ）（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "株式会社 ポピンズプロフェッショナル 杉並区休日母親学級担当",
+        "contactPhone": "03-3447-5826",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1500012",
+        "contactAddress": "渋谷区広尾5丁目6番6号"
+      },
+      "area": {
+        "areaCode": "131156;杉並区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131156+3+UM31",
+        "organization": "8000020131156",
+        "compartment": "子ども家庭部地域子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2025-03-13",
+        "updater": "杉並区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後ヘルパーの派遣",
+        "shortName": "多胎児家庭家事・育児支援ヘルパー"
+      },
+      "summary": "多胎児を養育しているご家庭の身体的・精神的負担を少しでも軽減するため、家事・育児ヘルパーがご自宅を訪問して、日常の家事・育児や外出時の支援をします。",
+      "description": "https://www.city.suginami.tokyo.jp/s054/1141.html",
+      "target": {
+        "targetPersons": "区内在住で、多胎児を妊娠中の方、または3歳未満の多胎児を養育中の方\n（「産前・産後支援ヘルパー事業」との併用はできません。）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "利用上限時間と受付開始日\n|対象|利用上限時間|申請受付開始日|\n|:----|:----|:----|\n|妊娠がわかった時点から、1歳未満の多胎児を養育している間|240時間以内|妊娠がわかった時点から|\n|1歳から2歳未満の多胎児を養育している間|180時間以内|1歳になる2カ月前から|\n|2歳から3歳未満の多胎児を養育している間|120時間以内|2歳になる2カ月前から|\n"
+      },
+      "support": {
+        "description": "家事に関すること（食事の支度・衣類の洗濯・居宅の掃除および整理整頓など）\n育児に関すること（もく浴や食事等の補助・兄姉の世話など）",
+        "monetarySupport": null,
+        "materiallySupport": "家事に関すること（食事の支度・衣類の洗濯・居宅の掃除および整理整頓など）\n育児に関すること（もく浴や食事等の補助・兄姉の世話など）"
+      },
+      "cost": "500",
+      "costConditions": "ヘルパー利用料　1時間500円（生活保護、非課税世帯は自己負担なし。）\n杉並子育て応援券（「ゆりかご券」を含む）が使えます。\n\n（注意）\n\n交通費について：全額利用者の負担となります。杉並子育て応援券（「ゆりかご券」を含む）も使用できす。\n\nキャンセルについて：ヘルパー利用予定日の前営業日の午後5時までに事業者に連絡してください。それ以降は、利用したものとして利用料金をお支払いいただきます。なお、キャンセル料の支払いには、杉並子育て応援券（「ゆりかご券」を含む）は使用できません。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "午前9時～午後5時（1日1回、連続した4時間以内）日曜日・祝日・年末年始（12月29日～翌年1月3日）を除く"
+      },
+      "specificDate": null,
+      "holiday": "日曜日・祝日・年末年始（12月29日～翌年1月3日）",
+      "utilization": "杉並区多胎児家事・育児支援ヘルパー利用申請書\n母子健康手帳の表紙のコピー（妊娠中の申請の場合のみ）\n世帯全員分の住民税非課税証明書のコピーまたは生活保護受給証明書のコピー（該当する方のみ）\n申請後、利用開始までには2週間前後必要です。",
+      "procedurePersons": "妊娠中の方（多胎妊娠を除く）\n（注意）ご本人またはその家族が申請の手続きをしてください。",
+      "procedureMethod": "杉並区産前・産後支援ヘルパー利用申請書\n母子健康手帳の表紙のコピー（妊娠中の申請の場合のみ）\n世帯全員分の住民税非課税証明書のコピーまたは生活保護受給証明書のコピー（該当する方のみ）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "妊娠がわかった時点から、1歳になる2カ月前から、2歳になる2カ月前から受け付けます。"
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "地域子育て支援課子育て支援係（区役所東棟3階）\n各子どもセンター",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.suginami.tokyo.jp/s054/1141.html",
+        "title": "家事・育児支援ヘルパー事業"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/Y4gR/797666",
+          "title": "杉並区多胎児家庭家事・育児支援ヘルパー利用申請"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども家庭部地域子育て支援課子育て支援係",
+        "contactPhone": "03-3312-2111",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "（代表）",
+        "zipCode": "1668570",
+        "contactAddress": "東京都杉並区阿佐谷南1丁目15番1号"
+      },
+      "area": {
+        "areaCode": "131156;杉並区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131156+3+UM785",
+        "organization": "8000020131156",
+        "compartment": "子ども家庭部地域子育て支援課子育て支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2025-03-13",
+        "updater": "杉並区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "杉並区多胎児家庭家事・育児支援ヘルパー事業実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "休日パパママ学級"
+      },
+      "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、杉並区では助産師などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+      "description": "https://www.city.suginami.tokyo.jp/s054/1114.html",
+      "target": {
+        "targetPersons": "杉並区にお住まいで、受講日当日に妊娠24週から36週6日までの初産のカップル\nオンライン学級は、経産婦の方とそのパートナーも参加可能です。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠・出産の話\n産後の心と体の変化\n赤ちゃんの抱き方・おむつの替え方（実習）\n沐浴（もくよく）のしかた（実習）\n妊婦体験（実習）\n交流タイム\n赤ちゃんとの1日の生活　ほか",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠・出産の話\n産後の心と体の変化\n赤ちゃんの抱き方・おむつの替え方（実習）\n沐浴（もくよく）のしかた（実習）\n妊婦体験（実習）\n交流タイム\n赤ちゃんとの1日の生活　ほか"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "対面学級\n午前9時30分～正午、午後1時30分～4時（入れ替え制）\n\nオンライン学級\n午後1時30分～3時"
+      },
+      "implementationPlace": {
+        "implementationName": "対面学級\n4月、10月、12月、1月は、子ども・子育てプラザ成田西\n5月、8月、11月、2月は、子ども・子育てプラザ下井草\n6月、7月、9月、3月は、子ども・子育てプラザ善福寺\nオンライン学級\nオンラインミーティングシステムZoom（ズーム）を使用します。",
+        "implementationAddress": "対面学級\n子ども・子育てプラザ成田西（杉並区成田西3丁目10番38号）\n子ども・子育てプラザ下井草（杉並区下井草3丁目13番9号）\n子ども・子育てプラザ善福寺（杉並区善福寺1丁目18番9号）"
+      },
+      "capacity": "対面学級\n各24組\nオンライン学級\n各100組",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "往復はがき、またはインターネットからお申し込みください。",
+      "procedurePersons": null,
+      "procedureMethod": "往復はがき、またはインターネットからお申し込みください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "対面学級\n母子健康手帳、参加決定通知、筆記用具、A4サイズの配布資料が入る手提げ袋　ほか\n\nオンライン学級\n事前配布資料",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "株式会社 ポピンズプロフェッショナル 杉並区休日パパママ学級担当",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.suginami.tokyo.jp/s054/1113.html",
+          "title": "平日母親学級・平日パパママ学級"
+        },
+        {
+          "uri": "https://www.youtube.com/watch?v=Rn46m3VCAuk",
+          "title": "杉並区母親学級・パパママ学級　実習「沐浴」「おむつの替え方」「赤ちゃんの抱き方」（YouTube 杉並区公式チャンネル）（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.suginami.tokyo.jp/s054/1114.html",
+        "title": "休日母親学級・休日パパママ学級"
+      },
+      "formLink": [
+        {
+          "uri": "https://poppins-education.jp/parentsclass_suginami/",
+          "title": "杉並区休日パパママ学級・休日母親学級Webページ（株式会社ポピンズプロフェッショナル　ホームページ）（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "株式会社 ポピンズプロフェッショナル　杉並区休日パパママ学級担当",
+        "contactPhone": "03-3447-5826",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1500012",
+        "contactAddress": "渋谷区広尾5丁目6番6号"
+      },
+      "area": {
+        "areaCode": "131156;杉並区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131156+4+UM31",
+        "organization": "8000020131156",
+        "compartment": "子ども家庭部地域子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2025-03-13",
+        "updater": "杉並区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

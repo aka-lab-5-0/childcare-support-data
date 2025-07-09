@@ -1,0 +1,864 @@
+{
+  "version": "2025-07-09T05:55:17.835Z",
+  "areaCode": "133078",
+  "areaName": "檜原村\t",
+  "category": "childcare",
+  "count": 7,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "産後ケア事業",
+        "shortName": "産後ケア事業"
+      },
+      "summary": "出産を終えた退院後、お母さんと赤ちゃんの生活リズムづくりや、心身の安定を図るため、施設においてショートステイ（宿泊）やデイサービス（日帰り）で、助産師などが母子の心身ケアと育児サポートを行います。",
+      "description": "産後ケア事業（通所型）\n産後ケア事業は、出産後の心身の不調や育児に不安があるお母さんが助産院でケアを受け、心身の不調の回復や育児の不安を解消するための事業です。\n\nケア内容\nお母さんのケア：健康管理、乳房ケア、授乳指導、栄養指導\n赤ちゃんのケア：体重測定、健康管理、沐浴　※赤ちゃんだけをお預かりすることはできません。\n育児方法や生活についての相談\n\n対象者\n檜原村に住民登録がある方\n出産後4か月以内のお母さんと赤ちゃんでケアやサポートを必要とする方\n※注意事項：次の項目に該当する方は、ご利用いただけませんのでご注意ください。\n利用開始日に村に住民登録がない方\n医療行為が必要な方や、感染症の疑いがある方\n\n実施場所\nまるやま助産院（あきる野市戸倉1170）\n\n利用期間\n出産した日から4か月以内\n\n利用時間\n午前10時から午後4時まで（1日につき、6時間まで）\n\n利用料金\n1日　2,500円\n※多胎の場合は1人につき2,500円の追加料金があります。\n※利用料金は、利用した施設に直接お支払いいただきます。\n\n利用料金の減免について\n産後ケアの利用にあたって、利用料金（利用者負担）があります。\n次のいずれかに該当する方は利用料金が免除されます。\n・生活保護受給世帯\n・市町村住民税非課税世帯\n・中国残留邦人\n※上記に当てはまらない方については、1回の利用につき、2,500円を上限に5回まで利用料から減免いたします。\n\n利用開始までの流れ\n利用相談・申請が必要となります。利用相談は保健師が行います。不在のことがありますので、事前にお電話をいただくとスムーズです。\n ・必要なもの：母子手帳、本人確認書類（免許証やマイナンバーカード等）\n申請書に必要事項記載の上、子育て支援係窓口で申請\n申請後、保健師と面談します。\n\n利用決定通知・利用案内をお送りします。\n利用開始\n※利用希望日の10日前までに申請をお願いいたします。\n※キャンセルについては、利用日の3日前までにご連絡ください。\n\n利用相談・申請窓口\n場所：こども家庭センター（やすらぎの里　けんこう館2階）\n受付日時：月曜日～金曜日（土曜日、日曜日祝日、年末年始を除く）\n　　　　　　　午前8時30分～午後5時\n電話番号：042-598-3122",
+      "target": {
+        "targetPersons": "・檜原村に住民登録がある方\n・出産後4か月以内のお母さんと赤ちゃんでケアやサポートを必要とする方き\n※注意事項：次の項目に該当する方は、ご利用いただけませんのでご注意ください。\n・利用開始日に村に住民登録がない方\n\n・医療行為が必要な方や、感染症の疑いがある方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "出産後4か月以内のお母さんと赤ちゃんでケアやサポートを必要とする方"
+      },
+      "support": {
+        "description": "ケア内容\n・お母さんのケア：健康管理、乳房ケア、授乳指導、栄養指導\n・赤ちゃんのケア：体重測定、健康管理、沐浴※赤ちゃんだけをお預かりすることはできません。\n・育児方法や生活についての相談",
+        "monetarySupport": null,
+        "materiallySupport": "ケア内容\n・お母さんのケア：健康管理、乳房ケア、授乳指導、栄養指導\n・赤ちゃんのケア：体重測定、健康管理、沐浴※赤ちゃんだけをお預かりすることはできません。\n・育児方法や生活についての相談"
+      },
+      "cost": "2500",
+      "costConditions": "1日2,500円\n※多胎の場合は1人につき2,500円の追加料金があります。\n※利用料金は、利用した施設に直接お支払いいただきます。\n利用料金の減免について\n産後ケアの利用にあたって、利用料金（利用者負担）があります。\n次のいずれかに該当する方は利用料金が免除されます。\n・生活保護受給世帯\n・市町村住民税非課税世帯\n・中国残留邦人\n※上記に当てはまらない方については、1回の利用につき、2,500円を上限に5回まで利用料から減免いたします。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産した日から4か月以内"
+      },
+      "implementationPlace": {
+        "implementationName": "まるやま助産院",
+        "implementationAddress": "あきる野市戸倉1170"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "16:00",
+        "condiutilizationConditionstions": "午前10時から午後4時まで（1日につき、6時間まで）"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "利用相談・申請が必要となります。利用相談は保健師が行います。不在のことがありますので、事前にお電話をいただくとスムーズです。\n・必要なもの：母子手帳、本人確認書類（免許証やマイナンバーカード等）\n１．申請書に必要事項記載の上、子育て支援係窓口で申請\n２．申請後、保健師と面談します。\n３．利用決定通知・利用案内をお送りします。\n４．利用開始\n※利用希望日の１０日前までに申請をお願いいたします。\n※キャンセルについては、利用日の３日前までにご連絡ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子手帳、本人確認書類（免許証やマイナンバーカード等）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "やすらぎの里 福祉けんこう課 子育て支援係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.hinohara.tokyo.jp/0000001704.html",
+        "title": "産後ケア事業（通所型）について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "やすらぎの里 福祉けんこう課 子育て支援係",
+        "contactPhone": "042-598-3122",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133078;檜原村\t",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133078+1+UM15",
+        "organization": "8000020133078",
+        "compartment": "やすらぎの里 福祉けんこう課 子育て支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-07-01",
+      "odInformation": {
+        "updateDate": "2024-07-16",
+        "updater": "檜原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条の2（産後ケア事業）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の幼児教育・保育施設の補助・減免",
+        "shortName": "檜原村子育て支援保育料等補助金（村制度）"
+      },
+      "summary": "「幼児教育・保育の無償化」の対象とならない幼児教育施設に通うお子さんの保護者の経済的負担を軽減するために、檜原村独自に利用料の助成を行っています。",
+      "description": "障害福祉、児童福祉の事業等がまとめられた冊子を作成したのでお知らせいたします。\nまた、ホームページ以外でも下記の窓口で配布を行っております。\n・やすらぎの里（福祉けんこう課）\n・檜原村役場（村民課）\n\n檜原の障害福祉について\n檜原の障害福祉(ファイル名：syougai-r5.pdf サイズ：1.07MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf\n\n檜原の児童福祉について\n檜原の児童福祉(ファイル名：zidou-r5.pdf サイズ：1.21MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf",
+      "target": {
+        "targetPersons": "檜原村に住所を有し、認可保育所及び認可外保育施設並びに認証保育所に在籍している児童の保護者で保育料等を納期限までに完納した保護者\n※保育料無償化の対象となる3歳以上の児童・非課税世帯の児童については、対象になりません。（保育料を払っていない方）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "第1子　支払った保育料の2分の1\n第2子以降　支払った保育料の全額",
+        "monetarySupport": "第1子　支払った保育料の2分の1\n第2子以降　支払った保育料の全額",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申請手続きに必要なもの\n①印鑑 ②請求者の口座番号が確認できるもの（通帳など） ③保育料等の領収書（認可外保育施設及び認証保育所のみ）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "①印鑑 ②請求者の口座番号が確認できるもの（通帳など） ③保育料等の領収書（認可外保育施設及び認証保育所のみ）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/zidou-r5.pdf",
+        "title": "檜原村子育て支援保育料等補助金（村制度）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "やすらぎの里 福祉けんこう課 子育て支援係",
+        "contactPhone": "042-598-3122",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX 042-519-9789",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133078;檜原村\t",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133078+1+UM2369",
+        "organization": "8000020133078",
+        "compartment": "やすらぎの里 福祉けんこう課 子育て支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-25",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "檜原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "檜原村子育て支援保育料等補助金交付要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "延長保育",
+        "shortName": "一時あずかり保育等"
+      },
+      "summary": "檜原村内の保育園（保育所）や認定こども園、地域型保育施設では、保護者の勤務時間などにより、認定を受けた時間帯を超えて保育が必要なお子さんを対象に、別途料金を徴収のうえで、延長保育を実施しています。",
+      "description": "障害福祉、児童福祉の事業等がまとめられた冊子を作成したのでお知らせいたします。\nまた、ホームページ以外でも下記の窓口で配布を行っております。\n・やすらぎの里（福祉けんこう課）\n・檜原村役場（村民課）\n\n檜原の障害福祉について\n檜原の障害福祉(ファイル名：syougai-r5.pdf サイズ：1.07MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf\n\n檜原の児童福祉について\n檜原の児童福祉(ファイル名：zidou-r5.pdf サイズ：1.21MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf",
+      "target": {
+        "targetPersons": "村内在住の0歳～就学前の児童",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "村内在住の0歳～就学前の児童"
+      },
+      "support": {
+        "description": "(４) 延長保育（在園児）\n・時間等…午後6時30分～午後8時00分\n・保育料…1時間につき500円。兄弟の場合は、2人目は半額",
+        "monetarySupport": null,
+        "materiallySupport": "(４) 延長保育（在園児）\n・時間等…午後6時30分～午後8時00分\n・保育料…1時間につき500円。兄弟の場合は、2人目は半額"
+      },
+      "cost": null,
+      "costConditions": "・保育料…1時間につき500円。兄弟の場合は、2人目は半額",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "ひのはら保育園",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "18:30",
+        "toHM": "20:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "ひのはら保育園",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/zidou-r5.pdf",
+        "title": "一時あずかり保育等"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "ひのはら保育園",
+        "contactPhone": "042-598-0070",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133078;檜原村\t",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133078+1+UM76",
+        "organization": "8000020133078",
+        "compartment": "ひのはら保育園",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-07",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "檜原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "子ども・子育て支援法",
+        "regulationArticle": "第59条第2号"
+      },
+      "tag": {
+        "categoryCode": [
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "休日保育",
+        "shortName": "一時あずかり保育等"
+      },
+      "summary": "保護者が就労や病気等により、日曜や祝日にご家庭でお子さんの保育ができないとき、保育園などでお子さんをお預かりする「休日保育」を実施しています。",
+      "description": "障害福祉、児童福祉の事業等がまとめられた冊子を作成したのでお知らせいたします。\nまた、ホームページ以外でも下記の窓口で配布を行っております。\n・やすらぎの里（福祉けんこう課）\n・檜原村役場（村民課）\n\n檜原の障害福祉について\n檜原の障害福祉(ファイル名：syougai-r5.pdf サイズ：1.07MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf\n\n檜原の児童福祉について\n檜原の児童福祉(ファイル名：zidou-r5.pdf サイズ：1.21MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf",
+      "target": {
+        "targetPersons": "村内在住の0歳～就学前の児童",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "(２) 休日保育（在園児）\n・時間等…午前9時00分～午後5時00分\n・保育料…0-2歳／5,000円・3-5 歳／4,000円",
+        "monetarySupport": null,
+        "materiallySupport": "(２) 休日保育（在園児）\n・時間等…午前9時00分～午後5時00分\n・保育料…0-2歳／5,000円・3-5 歳／4,000円"
+      },
+      "cost": null,
+      "costConditions": "・保育料…0-2歳／5,000円・3-5歳／4,000円",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "ひのはら保育園",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/zidou-r5.pdf",
+        "title": "一時あずかり保育等"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "ひのはら保育園",
+        "contactPhone": "042-598-0070",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133078;檜原村\t",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133078+1+UM780",
+        "organization": "8000020133078",
+        "compartment": "ひのはら保育園",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-07",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "檜原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間保育",
+        "shortName": "一時あずかり保育等"
+      },
+      "summary": "保護者の就労時間などにより、夜間、家庭において保育を受けられないお子さんを保護者に代わって保育する、「夜間保育」を行っています。認可保育園などが、延長保育により夜間まで開所している場合のほか、専門の夜間保育施設などもあります。夜間保育を行う施設には、認可外の施設もありますが、ここでは認可保育園についてご案内します。",
+      "description": "障害福祉、児童福祉の事業等がまとめられた冊子を作成したのでお知らせいたします。\nまた、ホームページ以外でも下記の窓口で配布を行っております。\n・やすらぎの里（福祉けんこう課）\n・檜原村役場（村民課）\n\n檜原の障害福祉について\n檜原の障害福祉(ファイル名：syougai-r5.pdf サイズ：1.07MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf\n\n檜原の児童福祉について\n檜原の児童福祉(ファイル名：zidou-r5.pdf サイズ：1.21MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf",
+      "target": {
+        "targetPersons": "村内在住の0歳～就学前の児童",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "(４) 延長保育（在園児）\n・時間等…午後6時30分～午後8時00分\n・保育料…1時間につき500円。兄弟の場合は、2人目は半額",
+        "monetarySupport": null,
+        "materiallySupport": "(４) 延長保育（在園児）\n・時間等…午後6時30分～午後8時00分\n・保育料…1時間につき500円。兄弟の場合は、2人目は半額"
+      },
+      "cost": null,
+      "costConditions": "保育料…1時間につき500円。兄弟の場合は、2人目は半額",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "ひのはら保育園",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "18:30",
+        "toHM": "20:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/zidou-r5.pdf",
+        "title": "一時あずかり保育等"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "ひのはら保育園",
+        "contactPhone": "042-598-0070",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133078;檜原村\t",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133078+1+UM781",
+        "organization": "8000020133078",
+        "compartment": "ひのはら保育園",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-07",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "檜原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "夜間保育所の設置認可等について（平成12年3月30日児発298）",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "一時預かり（一時保育）",
+        "shortName": "一時あずかり保育等"
+      },
+      "summary": "保護者のパート就労や病気等による緊急時、育児疲れなどのリフレッシュのために、家庭において保育を受けることが一時的に困難となったお子さんを、保育園、幼稚園、地域子育て支援拠点などで一時的にお預かりしています。",
+      "description": "障害福祉、児童福祉の事業等がまとめられた冊子を作成したのでお知らせいたします。\nまた、ホームページ以外でも下記の窓口で配布を行っております。\n・やすらぎの里（福祉けんこう課）\n・檜原村役場（村民課）\n\n檜原の障害福祉について\n檜原の障害福祉(ファイル名：syougai-r5.pdf サイズ：1.07MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf\n\n檜原の児童福祉について\n檜原の児童福祉(ファイル名：zidou-r5.pdf サイズ：1.21MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf",
+      "target": {
+        "targetPersons": "村内在住の0歳～就学前の児童",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "村内在住の0歳～就学前の児童"
+      },
+      "support": {
+        "description": "(１) 一時あずかり（村内在住児）※土曜を除く。1クラス1名。要面接\n・時間等…午前9時00分～午後5時00分\n・利用日…原則週2日以内（延長要相談）\n・保育料…0-2歳／5,000円（半日3,000円）・3 歳／4,000円（半日2,000円）・4-5歳／3,000円（半日1,500円）",
+        "monetarySupport": null,
+        "materiallySupport": "(１) 一時あずかり（村内在住児）※土曜を除く。1クラス1名。要面接\n・時間等…午前9時00分～午後5時00分\n・利用日…原則週2日以内（延長要相談）\n・保育料…0-2歳／5,000円（半日3,000円）・3 歳／4,000円（半日2,000円）・4-5歳／3,000円（半日1,500円）"
+      },
+      "cost": null,
+      "costConditions": "保育料…0-2歳／5,000円（半日3,000円）・3歳／4,000円（半日2,000円）・4-5歳／3,000円（半日1,500円）",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "ひのはら保育園",
+        "implementationAddress": null
+      },
+      "capacity": "1 クラス 1 名",
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "原則週 2 日以内（延長要相談）"
+      },
+      "specificDate": null,
+      "holiday": "土曜",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "要面接",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "ひのはら保育園",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/zidou-r5.pdf",
+        "title": "一時あずかり保育等"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "ひのはら保育園",
+        "contactPhone": "042-598-0070",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133078;檜原村\t",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133078+1+UM83",
+        "organization": "8000020133078",
+        "compartment": "ひのはら保育園",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-07",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "檜原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法、子ども・子育て支援法",
+        "regulationArticle": "第6条の3第7項、第21条の9、第59条第10号"
+      },
+      "tag": {
+        "categoryCode": [
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "認可外保育施設一覧",
+        "shortName": "認可外保育施設（令和3年5月21日時点）"
+      },
+      "summary": "認可外保育施設とは、公的助成の有無や事業規模などにかかわらず、児童福祉法、もしくは認定こども園法に基づく認可を受けていない、お子さんを預かる施設・サービスの総称で、保育の内容や料金設定などは施設によりさまざまです。下記は、檜原村内にある「幼児教育・保育の無償化」の対象となる認可外保育施設の一覧です。",
+      "description": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000000/876/musyouka.pdf",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000000/876/musyouka.pdf",
+        "title": "施設等一覧 (ファイル名：musyouka.pdf サイズ：145.03KB)"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "やすらぎの里 福祉けんこう課 子育て支援係",
+        "contactPhone": "042-598-3122",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX 042-519-9789",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133078;檜原村\t",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133078+1+UM91",
+        "organization": "8000020133078",
+        "compartment": "やすらぎの里 福祉けんこう課 子育て支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-25",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "檜原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

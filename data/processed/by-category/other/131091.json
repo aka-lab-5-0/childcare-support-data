@@ -1,0 +1,1163 @@
+{
+  "version": "2025-07-09T05:55:17.794Z",
+  "areaCode": "131091",
+  "areaName": "品川区",
+  "category": "other",
+  "count": 9,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "図書館の児童サービス（ブックスタートなど）",
+        "shortName": "「はじめてのえほん　よんで　よんで」事業"
+      },
+      "summary": "子どもたちに早くから本に触れ合ってもらうため、対象となるお子さんとその保護者の方へ、絵本パックをお渡ししています。",
+      "description": "「はじめてのえほん　よんで　よんで」事業について\n\n品川区立図書館では、子どもたちに早くから本に触れ合ってもらうため、対象となるお子さんとその保護者の方へ、絵本パックをお渡ししています。なお絵本パックは、引換券(※)と引換えとなります。\n※4か月児健康診査時に各保健センターで引換券を配布\n\n■対象\n品川区の4か月児健康診査対象とされたお子さんとその保護者の方\n\n■絵本パック引換方法\n引換場所　品川区立図書館　全11館、大崎駅西口図書取次施設\n※武蔵小山図書取次施設・大井町サービスコーナー・目黒サービスコーナーでは引換えできません。　\n\n■持ち物\n引換券\n\n■引換方法\n必要事項を引換券に記入して、図書館のカウンターへお持ちください。図書館開館中は、いつでも引換えが可能です。\n※引換券には期限がありますのでご注意ください。\n\n■絵本パックについて\n0歳～1歳向けの絵本1冊(現在は5種類（『いないいないばあ』『くだもの』『じゃあじゃあびりびり』『あっ！』『ぺんぎんたいそう』）の絵本からお選びいただけます)、図書館のご案内やパンフレット等を手提げ袋に入れたものです。\n\n品川区では、子どもたちが本に親しむ機会を積極的に支援し、子どもたちの読書を通じた心豊かな成長を応援しています。各図書館では、毎週おはなし会を開催しています。また、その他にも、特集展示や定期的に行事等も行っています。\nこの機会に、ぜひ、お子さんとご一緒に図書館へお越しください。",
+      "target": {
+        "targetPersons": "品川区の4か月児健康診査対象とされたお子さんとその保護者の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "品川区の4か月児健康診査対象とされたお子さんとその保護者の方"
+      },
+      "support": {
+        "description": "品川区立図書館では、子どもたちに早くから本に触れ合ってもらうため、対象となるお子さんとその保護者の方へ、絵本パックをお渡ししています。なお絵本パックは、引換券(※)と引換えとなります。\n※4か月児健康診査時に各保健センターで引換券を配布",
+        "monetarySupport": null,
+        "materiallySupport": "絵本パックについて\n0歳～1歳向けの絵本1冊(現在は5種類（『いないいないばあ』『くだもの』『じゃあじゃあびりびり』『あっ！』『ぺんぎんたいそう』）の絵本からお選びいただけます)、図書館のご案内やパンフレット等を手提げ袋に入れたものです。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "引換場所\n品川区立図書館　全11館、大崎駅西口図書取次施設\n※武蔵小山図書取次施設・大井町サービスコーナー・目黒サービスコーナーでは引換えできません。",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "絵本パック引換方法\n\n・引換場所　品川区立図書館　全11館、大崎駅西口図書取次施設\n※武蔵小山図書取次施設・大井町サービスコーナー・目黒サービスコーナーでは引換えできません。\n\n・引換方法　必要事項を引換券に記入して、図書館のカウンターへお持ちください。図書館開館中は、いつでも引換えが可能です。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "引換券には期限がありますのでご注意ください。"
+      },
+      "electronicSubmission": false,
+      "belongings": "引換券",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "品川区立図書館（全11館）、大崎駅西口図書取次施設",
+      "relatedLink": [
+        {
+          "uri": "https://library.city.shinagawa.tokyo.jp/tabid/180/Default.aspx",
+          "title": "子どものページ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://library.city.shinagawa.tokyo.jp/tabid/298/Default.aspx",
+        "title": "「はじめてのえほん　よんで　よんで」事業について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "品川図書館",
+        "contactPhone": "03-3471-4667",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131091;品川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131091+1+UM105",
+        "organization": "6000020131091",
+        "compartment": "品川図書館",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-06-27",
+        "updater": "品川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関するサポート",
+        "shortName": "0歳児見守り・子育てサポート事業「見守りおむつ定期便」"
+      },
+      "summary": "令和5年4月1日以降にお生まれになった0歳児のお子さんを育てているご家庭に、満1歳まで月1回程度、見守り支援員が訪問し、赤ちゃんと養育者の方の見守りを行います。\nお会いできた時には、おむつ等の育児用品をお渡しします。\nぜひ、子育ての悩みや困りごとをお聞かせください。",
+      "description": "0歳児見守り・子育てサポート事業「見守りおむつ定期便」\n\n令和5年4月1日以降にお生まれになった0歳児のお子さんを育てているご家庭に、満1歳まで月1回程度、見守り支援員が訪問し、赤ちゃんと養育者の方の見守りを行います。\nお会いできた時には、おむつ等の育児用品をお渡しします。\nぜひ、子育ての悩みや困りごとをお聞かせください。\n\n■対象者\n令和5年4月1日以降生まれた品川区にお住いの0歳児とその養育者\n※対象となるご家庭に10月16日以降順次、事業案内を郵送でお送りいたします。\n\n■見守り訪問期間\n満1歳になる月まで月1回程度、最大12回訪問いたします。\n（申請いただいた時期によっては訪問できる回数が異なることもあります。）\n※見守り訪問は令和5年11月中旬から始まります。\n\n■申請から訪問までの流れ\n（1）品川区に妊娠届を提出された方に案内書類一式を順次郵送いたします。\n（2）案内書類に記載の登録用二次元コードを読み取り、登録方法にそって申請をお願いいたします。\n（3）出生届提出後に見守り訪問日・育児用品の選択が可能となりますので、申請をお願いいたします。\n（4）お約束した訪問日に見守り支援員がご家庭を訪問し、養育状況などお話をうかがいます。\n見守り終了後おむつ等の育児用品をお渡しいたします。\n（5）見守り訪問が終わると、翌月分の申請が可能となります。\n\n※インターネット環境のない方は郵送で対応しますので、下記コールセンターにお問い合わせください。\n品川区見守りおむつ定期便(別ウィンドウ表示);https://www.shinagawa-mimamori.jp/\n\n■訪問・育児用品の配達について\n・この事業は赤ちゃんと主たる養育者の方の見守りを目的としています。\n　そのため育児用品のみの申請・配達はできません。\n・この事業は、事業者に委託して実施しております。\n・訪問は玄関先までとなり、ご自宅へあがることはありません。\n・見守り支援員は、個人情報についてこの事業以外に利用することはありません。\n・里帰り先などご自宅以外の場所への配達はできません。\n・訪問は区内のお住いの場所のみとなります。",
+      "target": {
+        "targetPersons": "令和5年4月1日以降生まれた品川区にお住いの0歳児とその養育者\n※対象となるご家庭に10月16日以降順次、事業案内を郵送でお送りいたします。",
+        "lessThan": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "令和5年4月1日以降生まれた品川区にお住いの0歳児"
+      },
+      "support": {
+        "description": "令和5年4月1日以降にお生まれになった0歳児のお子さんを育てているご家庭に、満1歳まで月1回程度、見守り支援員が訪問し、赤ちゃんと養育者の方の見守りを行います。\nお会いできた時には、おむつ等の育児用品をお渡しします。\nぜひ、子育ての悩みや困りごとをお聞かせください。\n\n見守り訪問期間\n満1歳になる月まで月1回程度、最大12回訪問いたします。\n（申請いただいた時期によっては訪問できる回数が異なることもあります。）\n※見守り訪問は令和5年11月中旬から始まります。",
+        "monetarySupport": null,
+        "materiallySupport": "お会いできた時には、おむつ等の育児用品をお渡しします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "見守り訪問期間\n満1歳になる月まで月1回程度、最大12回訪問いたします。\n（申請いただいた時期によっては訪問できる回数が異なることもあります。）\n※見守り訪問は令和5年11月中旬から始まります。"
+      },
+      "implementationPlace": {
+        "implementationName": "お約束した訪問日に見守り支援員がご家庭を訪問",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": "対象者\n令和5年4月1日以降生まれた品川区にお住いの0歳児とその養育者",
+      "holiday": null,
+      "utilization": "訪問・育児用品の配達について\n・この事業は赤ちゃんと主たる養育者の方の見守りを目的としています。\n　そのため育児用品のみの申請・配達はできません。\n・この事業は、事業者に委託して実施しております。\n・訪問は玄関先までとなり、ご自宅へあがることはありません。\n・見守り支援員は、個人情報についてこの事業以外に利用することはありません。\n・里帰り先などご自宅以外の場所への配達はできません。\n・訪問は区内のお住いの場所のみとなります。",
+      "procedurePersons": null,
+      "procedureMethod": "申請から訪問までの流れ\n（1）品川区に妊娠届を提出された方に案内書類一式を順次郵送いたします。\n（2）案内書類に記載の登録用二次元コードを読み取り、登録方法にそって申請をお願いいたします。\n（3）出生届提出後に見守り訪問日・育児用品の選択が可能となりますので、申請をお願いいたします。\n（4）お約束した訪問日に見守り支援員がご家庭を訪問し、養育状況などお話をうかがいます。\n見守り終了後おむつ等の育児用品をお渡しいたします。\n（5）見守り訪問が終わると、翌月分の申請が可能となります。\n\n※インターネット環境のない方は郵送で対応しますので、下記コールセンターにお問い合わせください。\n品川区見守りおむつ定期便(別ウィンドウ表示);https://www.shinagawa-mimamori.jp/",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "品川区0歳児見守り・子育てサポート事業見守りおむつ定期便コールセンター\n（祝日を除く月～金　午前9時～午後5時）\n電話：050-3649-7922",
+      "relatedLink": [
+        {
+          "uri": "https://www.shinagawa-mimamori.jp/",
+          "title": "品川区見守りおむつ定期便(別ウィンドウ表示)"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/kodomo-ninnshinn-service/20231002181840.html",
+        "title": "0歳児見守り・子育てサポート事業「見守りおむつ定期便」"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "品川区0歳児見守り・子育てサポート事業　見守りおむつ定期便コールセンター",
+        "contactPhone": "050-3649-7922",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "祝日を除く月～金　午前9時～午後5時",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131091;品川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131091+1+UM106",
+        "organization": "6000020131091",
+        "compartment": "品川保健センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-18",
+      "odInformation": {
+        "updateDate": "2024-06-27",
+        "updater": "品川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "品川区0歳児見守り・子育てサポート事業実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "マタニティマーク",
+        "shortName": "マタニティマーク"
+      },
+      "summary": "品川区では、妊娠の届出の際に、母子健康手帳と共にマタニティマーク入りキーホルダーをお渡ししています。",
+      "description": "ご存知ですか？「マタニティマーク」\n\nマタニティマーク１\nマタニティマークは、妊産婦の方であることを周りの方に知らせるマークです。\n妊産婦の方にやさしい環境づくりをめざして、厚生労働省より発表があり、最近、乗り物や街で見かけることがあるのではないでしょうか。\n\n妊娠中、特に初期は、赤ちゃんの成長はもちろん、お母さんの健康を維持するためのとても大切な時期です。\nしかし外見からは、妊婦であるかどうか判断しにくかったり、つらい症状が、ある場合もあります。\n\nこのマークをつけている方を見かけたら、思いやりのある心遣いをお願いします。\n未来のお母さんと赤ちゃんをみんなのやさしさでサポートしましょう！\n\nマタニティマークのダウンロード（厚生労働省）;http://www.mhlw.go.jp/seisaku/2009/12/04.html",
+      "target": {
+        "targetPersons": "妊産婦の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.mhlw.go.jp/seisaku/2009/12/04.html",
+          "title": "マタニティマークのダウンロード（厚生労働省）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/hpg000002861.html",
+        "title": "ご存知ですか？「マタニティマーク」"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康課　保健衛生係",
+        "contactPhone": "03-5742-6743",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131091;品川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131091+1+UM2",
+        "organization": "6000020131091",
+        "compartment": "健康課　保健衛生係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2020-06-05",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "品川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "両親学級"
+      },
+      "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、品川区では産科医師、歯科医師、保健師、栄養士、助産師などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+      "description": "二人で子育て（両親学級）土日開催\n\n■内容\n沐浴体験、妊婦体験、講義、交流、ワーク「赤ちゃんとの生活」など\n\n■対象\n区内在住で、初めての出産を控えた妊娠22週以降のカップル（父親になる方のみの参加も可能です）\n\n■開催場所\n各保健センター\n※荏原保健センターは令和5年7月18日（火）から西五反田6-6-6へ仮移転いたしました。\n\n■募集人数\n・品川保健センター、荏原保健センター：各24組\n・大井保健センター：16組\n\n■開催時間\n・品川保健センター、荏原保健センター\n午前の部　午前9時30分～午後0時30分　午後の部　午後1時30分～4時30分\n・大井保健センター\n午前の部　午前10時～午後0時50分　午後の部　午後2時～4時50分\n\n■日程表\n二人で子育て（両親学級）日程表(PDF : 105KB);https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000000789_6.pdf\n\n■申し込み方法　\n毎月11日発行の広報『しながわ』掲載後、申し込み開始日から締切日（必着）までの間に往復はがき、または下記のリンクからお申込みください。\n\n1. 往復はがきによるお申し込み\n「二人で子育て」とし、2人の氏名・住所・電話番号・Ｅメールアドレス・出産予定日・希望日時（午前・午後を必ず記入の上、第3希望まで） を下記の宛先まで\n\n〒150-0012　渋谷区広尾5-6-6　広尾プラザ6階\n「ポピンズプロフェッショナル　品川区二人で子育て　担当宛」\n※第2　第3希望日は第1希望日の同月または翌月以降にしてください\n\n2. 『二人で子育て（両親学級）土日開催　申込みページ』からのお申し込み\nオートリターンメールが届いたかご確認ください。結果は、締め切り月の中旬に「品川区二人で子育て両親学級のご案内」という件名で 返信メールを差し上げます。　＠poppins.co.jp　からのメールを受け取れるようにしてください。また、そのメールは削除しないようにご注意ください。\n\n二人で子育て（両親学級）土日開催申し込みページへ（別ウィンドウ表示）;https://poppins-education.jp/parentsclass_shinagawa/\n\n結果は、締め切り月の中旬頃に通知します（応募者多数の場合は出産予定日で調整します）\n\nこの事業は、事業者に委託して実施しております。\n事業者　株式会社　ポピンズプロフェッショナル　お問い合わせフォーム　または、電話　03-3447-5826  （平日午前9時～午後5時）までお問い合わせください。\n両親学級お問い合わせフォームはこちら(別ウィンドウ表示);https://poppins-education.jp/parentsclass/\n\n「施設案内」保健所へ;https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-hokenn/index.html\nマタニティクラス（母親学級）;https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/kodomo-ninnshinn-service/hpg000000790.html",
+      "target": {
+        "targetPersons": "区内在住で、初めての出産を控えた妊娠22週以降のカップル（父親になる方のみの参加も可能です）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "沐浴体験、妊婦体験、講義、交流、ワーク「赤ちゃんとの生活」など",
+        "monetarySupport": null,
+        "materiallySupport": "沐浴体験、妊婦体験、講義、交流、ワーク「赤ちゃんとの生活」など"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "■開催時間\n・品川保健センター、荏原保健センター\n午前の部　午前9時30分～午後0時30分　午後の部　午後1時30分～4時30分\n・大井保健センター\n午前の部　午前10時～午後0時50分　午後の部　午後2時～4時50分\n\n■日程表\n二人で子育て（両親学級）日程表(PDF : 105KB);https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000000789_6.pdf"
+      },
+      "implementationPlace": {
+        "implementationName": "各保健センター\n※荏原保健センターは令和5年7月18日（火）から西五反田6-6-6へ仮移転いたしました。",
+        "implementationAddress": null
+      },
+      "capacity": "品川保健センター、荏原保健センター：各24組\n大井保健センター：16組",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申し込み方法\n毎月11日発行の広報『しながわ』掲載後、申し込み開始日から締切日（必着）までの間に往復はがき、または下記のリンクからお申込みください。\n\n1. 往復はがきによるお申し込み\n「二人で子育て」とし、2人の氏名・住所・電話番号・Ｅメールアドレス・出産予定日・希望日時（午前・午後を必ず記入の上、第3希望まで） を下記の宛先まで\n\n〒150-0012　渋谷区広尾5-6-6　広尾プラザ6階\n「ポピンズプロフェッショナル　品川区二人で子育て　担当宛」\n※第2　第3希望日は第1希望日の同月または翌月以降にしてください\n\n2. 『二人で子育て（両親学級）土日開催　申込みページ』からのお申し込み\nオートリターンメールが届いたかご確認ください。結果は、締め切り月の中旬に「品川区二人で子育て両親学級のご案内」という件名で 返信メールを差し上げます。＠poppins.co.jpからのメールを受け取れるようにしてください。また、そのメールは削除しないようにご注意ください。\n\n二人で子育て（両親学級）土日開催申し込みページへ（別ウィンドウ表示）;https://poppins-education.jp/parentsclass_shinagawa/\n\n結果は、締め切り月の中旬頃に通知します（応募者多数の場合は出産予定日で調整します）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "毎月11日発行の広報『しながわ』掲載後、申し込み開始日から締切日（必着）までの間に往復はがき、または下記のリンクからお申込みください。"
+      },
+      "electronicSubmission": true,
+      "belongings": "親子健康手帳（母子健康手帳）、筆記用具、必要な方は飲み物等\n2日目は1日目にお渡しする食事記録もご持参ください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "各保健センター",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/kodomo-ninnshinn-service/hpg000000790.html",
+          "title": "マタニティクラス（母親学級）"
+        },
+        {
+          "uri": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-hokenn/index.html",
+          "title": "「施設案内」保健所へ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/kodomo-ninnshinn-service/hpg000000789.html",
+        "title": "二人で子育て（両親学級）"
+      },
+      "formLink": [
+        {
+          "uri": "https://poppins-education.jp/parentsclass_shinagawa/",
+          "title": "品川区 二人で子育て両親学級 申込フォーム"
+        }
+      ],
+      "contact": {
+        "contactName": "品川保健センター,大井保健センター,荏原保健センター",
+        "contactPhone": "03-3474-2903,03-3772-2666,03-5487-1311",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131091;品川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131091+1+UM31",
+        "organization": "6000020131091",
+        "compartment": "品川・大井・荏原保健センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-02-27",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "品川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "児童遊園",
+        "shortName": "児童遊園"
+      },
+      "summary": "児童の健康の増進を図るため、児童の遊び場その他特定の用に供する児童遊園を設置しています。\n品川区の児童遊園の一覧は、品川区ホームページなどでお知らせしています。",
+      "description": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-bunka/shisetsu-bunka-kouen/hpg000000355.html",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-bunka/shisetsu-bunka-kouen/hpg000000355.html",
+        "title": "児童遊園"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "公園課公園維持担当",
+        "contactPhone": "03-5742-6789",
+        "contactEx": null,
+        "contactEmail": "koen@city.shinagawa.tokyo.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1408715",
+        "contactAddress": "品川区広町2-1-36"
+      },
+      "area": {
+        "areaCode": "131091;品川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131091+1+UM576",
+        "organization": "6000020131091",
+        "compartment": "公園課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2007-02-19",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "品川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後ヘルパーの派遣",
+        "shortName": "すこやかサポート(育児支援ヘルパー)"
+      },
+      "summary": "産前産後の体調不良などにより、家事や育児が困難なご家庭に、日常的な掃除・洗濯・食事の支度などの家事や、もく浴・おむつ交換・きょうだいのお世話などの育児を手伝うホームヘルパーを派遣します。",
+      "description": "すこやかサポート(育児支援ヘルパー)\n\n産前産後に体調不良などで日常生活に支障があり、他から援助を受けられない家庭にヘルパーを派遣します。\n\n◇期間\n産前1カ月～退院した翌日から1年間\n\n◇利用時間帯\n午前9時～午後6時のうち連続した4時間以内\n\n◇費用\n1時間410円（減免制度あり）\n\n◇利用期間および日数\n産前（出産予定日の1カ月前～出産日）：5日間\n産後（退院した翌日～1年）：10日間まで\n・若年（母親が20歳未満）：15日間まで\n・多胎（双子以上）：30日間まで\n\n◇利用手続き\n利用には事前登録が必要です。",
+      "target": {
+        "targetPersons": "産前産後に体調不良などで日常生活に支障があり、他から援助を受けられない家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "産前産後の体調不良などにより、家事や育児が困難なご家庭に、日常的な掃除・洗濯・食事の支度などの家事や、もく浴・おむつ交換・きょうだいのお世話などの育児を手伝うホームヘルパーを派遣します。",
+        "monetarySupport": null,
+        "materiallySupport": "産前産後の体調不良などにより、家事や育児が困難なご家庭に、日常的な掃除・洗濯・食事の支度などの家事や、もく浴・おむつ交換・きょうだいのお世話などの育児を手伝うホームヘルパーを派遣します。"
+      },
+      "cost": null,
+      "costConditions": "1時間410円（減免制度あり）",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "利用期間および日数\n産前（出産予定日の1カ月前～出産日）：5日間\n産後（退院した翌日～1年）：10日間まで\n　・若年（母親が20歳未満）：15日間まで　\n　・多胎（双子以上）：30日間まで"
+      },
+      "implementationPlace": {
+        "implementationName": "各家庭",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "午前9時～午後6時のうち連続した4時間以内"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "利用には事前登録が必要です。\n家庭あんしんセンターにお電話にてお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "家庭あんしんセンター",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-kateisoudan/hpg000023819.html",
+        "title": "すこやかサポート(育児支援ヘルパー)"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "家庭あんしんセンター",
+        "contactPhone": "03-5749-1032",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "受付時間：午前9時～午後6時（日・祝日・年末年始除く）",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131091;品川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131091+1+UM785",
+        "organization": "6000020131091",
+        "compartment": "子ども家庭支援センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-27",
+        "updater": "品川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "品川区育児支援ヘルパー派遣事業実施要領",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後期間の国民年金保険料免除",
+        "shortName": "産前産後期間の国民年金保険料の免除"
+      },
+      "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+      "description": "産前産後期間の国民年金保険料の免除について\n\n■平成31年２月１日以降に国民年金第1号被保険者が出産した際には、出産前後の一定期間の国民年金保険料が免除されます。届出をすると、産前産後期間として認められた期間は、将来、被保険者の年金額を計算する際は、保険料を納めた期間として扱われます。\n\n日本年金機構ホームページ(別ウィンドウ表示);https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html\n\n■国民年金保険料が免除される期間\n出産予定日または出産日が属する月の前月から4カ月間の国民年金保険料が免除されます。多胎の場合は、出産予定日または出産日が属する月の3カ月前から6カ月間の国民年金保険料が免除されます。\n妊娠85日（4カ月）以上の死産、流産された方を含みます。\n\n■対象となる方\n「国民年金第1号被保険者」で出産日が平成31年2月1日以降の方\n\n■Ｑ＆Ａ\n国民年金保険料の産前産後期間の免除制度にかかるQ&Aについては、日本年金機構ホームページをご覧ください。\n\n日本年金機構ホームページ（産前産後期間の免除制度にかかるQ&A／PDF:67KB）(別ウィンドウ表示);https://www.nenkin.go.jp/service/kokunen/menjo/20180810.files/QA.pdf",
+      "target": {
+        "targetPersons": "「国民年金第1号被保険者」で出産日が平成31年2月1日以降の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "平成31年2月１日以降に国民年金第1号被保険者が出産した際には、出産前後の一定期間の国民年金保険料が免除されます。\n届出をすると、産前産後期間として認められた期間は、将来、被保険者の年金額を計算する際は、保険料を納めた期間として扱われます。\n出産予定日または出産日が属する月の前月から4カ月間の国民年金保険料が免除されます。\n多胎の場合は、出産予定日または出産日が属する月の3カ月前から6カ月間の国民年金保険料が免除されます。\n妊娠85日（4カ月）以上の死産、流産された方を含みます。",
+        "monetarySupport": "平成31年2月１日以降に国民年金第1号被保険者が出産した際には、出産前後の一定期間の国民年金保険料が免除されます。\n届出をすると、産前産後期間として認められた期間は、将来、被保険者の年金額を計算する際は、保険料を納めた期間として扱われます。\n出産予定日または出産日が属する月の前月から4カ月間の国民年金保険料が免除されます。\n多胎の場合は、出産予定日または出産日が属する月の3カ月前から6カ月間の国民年金保険料が免除されます。\n妊娠85日（4カ月）以上の死産、流産された方を含みます。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": "2019-04-01",
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": "対象となる方\n「国民年金第1号被保険者」で出産日が平成31年2月1日以降の方",
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "国民年金保険料の産前産後期間の免除制度にかかるQ&Aについては、日本年金機構ホームページをご覧ください。\n\n日本年金機構ホームページ（産前産後期間の免除制度にかかるQ&A／PDF:67KB）(別ウィンドウ表示);https://www.nenkin.go.jp/service/kokunen/menjo/20180810.files/QA.pdf",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "・親子健康手帳（母子健康手帳）など出産日が確認できるもの（ただし、出産後に手続きされる場合は不要）\n・本人確認資料（運転免許証やマイナンバーカードなど）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "国保医療年金課　国民年金係",
+      "relatedLink": [
+        {
+          "uri": "https://www.nenkin.go.jp/service/kokunen/menjo/20180810.files/QA.pdf",
+          "title": "日本年金機構ホームページ（産前産後期間の免除制度にかかるQ&A／PDF:67KB）(別ウィンドウ表示)"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shinagawa.tokyo.jp/PC/procedure/procedure-nenkin/20181207095632.html",
+        "title": "産前産後期間の国民年金保険料の免除について"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.nenkin.go.jp/denshibenri_kojin/denshibenri_kojin/shinsei_kojin.html",
+          "title": "個人の方の電子申請（国民年金）"
+        }
+      ],
+      "contact": {
+        "contactName": "国保医療年金課　国民年金係",
+        "contactPhone": "03-5742-6682,03-5742-6683",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131091;品川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131091+1+UM793",
+        "organization": "6000020131091",
+        "compartment": "国保医療年金課　国民年金係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "品川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民年金法",
+        "regulationArticle": "第88条の2（保険料の納付義務）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "016"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "ファミリー・サポート・センター",
+        "shortName": "ファミリー・サポート・センター"
+      },
+      "summary": "ファミリー・サポート・センター事業は、子育ての援助を受けたい方（依頼会員）と、子育ての援助を行いたい方（提供会員）が会員登録し、地域の中で相互に助け合いながら子育てをする、有償のボランティア活動です。",
+      "description": "品川区ファミリー・サポート・センター　会員のしおり;https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-kateisoudan/R06_famisapo_shiori.pdf",
+      "target": {
+        "targetPersons": "依頼会員\n品川区在住の生後43日以上おおむね12才までの子どもを持つ保護者の方で、育児の援助を受けたい方\n\n事前の会員登録が必要です。郵送による登録は可能ですが、利用に際しては子どもと一緒に来所していただく必要があります。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後43日以上おおむね12才までの子どもを持つ保護者"
+      },
+      "support": {
+        "description": "ファミリー・サポート・センター事業とは、子育ての手助けがほしい方（依頼会員）と、子育ての手助けをしたい方（提供会員）が会員になり、\n地域の中で子育てをする会員組織の相互援助活動です。\nできるときに できることを できる範囲で活動していただくしくみです。\n必ずしもご希望の活動が提供できるとは限りません。\n活動に際しては、子どもの安全・安心を優先します。\n\n活動内容\n①保育施設等まで子どもの送迎を行うこと。\n②保育施設等の保育開始前、または保育終了後に子どもを預かること。\n③学校の放課後、またはすまいるスクールの終了後に子どもを預かること。\n④子どもが病後などで登園、または登校できない場合に預かること。（病時・感染症の場合は預かれません。）\n⑤子どもを短時間預けること。（冠婚葬祭・求職活動・リフレッシュなど）\n\nファミリー・サポート・センターで行う活動は、短期的、補助的なものにかぎります。",
+        "monetarySupport": null,
+        "materiallySupport": "ファミリー・サポート・センター事業とは、子育ての手助けがほしい方（依頼会員）と、子育ての手助けをしたい方（提供会員）が会員になり、\n地域の中で子育てをする会員組織の相互援助活動です。\nできるときに できることを できる範囲で活動していただくしくみです。\n必ずしもご希望の活動が提供できるとは限りません。\n活動に際しては、子どもの安全・安心を優先します。\n\n活動内容\n①保育施設等まで子どもの送迎を行うこと。\n②保育施設等の保育開始前、または保育終了後に子どもを預かること。\n③学校の放課後、またはすまいるスクールの終了後に子どもを預かること。\n④子どもが病後などで登園、または登校できない場合に預かること。（病時・感染症の場合は預かれません。）\n⑤子どもを短時間預けること。（冠婚葬祭・求職活動・リフレッシュなど）\n\nファミリー・サポート・センターで行う活動は、短期的、補助的なものにかぎります。"
+      },
+      "cost": null,
+      "costConditions": "利用料について\n|利用日及び時間帯利用料|利用料|<|\n|:----|:----|:----|\n|^|1人|2人目以降1人あたり|\n|午前7時～午後7時|1時間あたり800円|1時間あたり400円|\n|上記以外|1時間あたり900円|1時間あたり450円|\n|年末・年始（12/29～1/3）全時間帯|1時間あたり900円|1時間あたり450円|\n\n※依頼会員が同時に兄弟姉妹を預ける場合は、２人目より利用料が半額となります。\n\n① 利用料は活動終了後、現金または、双方が合意する支払い方法で支払ってください。\n② 送迎を伴う活動は、提供会員の移動時間も利用料に含まれます。\n③1回の援助活動が1時間未満の場合は、1時間となります。\n1時間以上の場合は、次のように計算します。\n30分以下 ……0.5時間（半額）\n31分以上～60分 ……1.0時間\n④ 取消し料\n前日午後5時までの取消し　無料\n当日の取消し　1時間分の利用料\n無断の取消し　利用予定時間の全額分の利用料\n※兄弟で利用予定が、1人だけキャンセルとなった場合はキャンセル料は半額です。\n⑤取消しが発生した場合、依頼会員が提供会員とセンター事務局に連絡してください。\n⑥実費の負担……援助活動にかかる交通費などは実費\nおやつ、食事代は、センター事務局の定める標準額を参考に依頼会員と提供会員で決めてください。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "提供会員宅",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "援助活動時間(おおむね)午前7時～午後10時"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "・子どもを預かるのは提供会員宅とします。\n・宿泊を伴う援助活動は行いません。\n・送りだしおよび受け入れる場所に大人が不在の場合、送迎活動はできません。\n・依頼会員が希望する援助に応じられる提供会員がみつからない場合もあります。\n・自転車、自家用車による送迎は行いません。",
+      "procedurePersons": null,
+      "procedureMethod": "◇活動の枠組み\n①依頼会員は、援助が必要になった場合、子どもを連れての来所予約をします。来所時に具体的な依頼内容を伺います。\n②アドバイザーが、依頼会員の希望条件により、提供会員に援助活動を依頼します。\n③その結果を依頼会員にお知らせし、提供会員を紹介します。\n④顔合わせは、提供会員、依頼会員（子どもを含む）、アドバイザーの三者で行います。\n⑤活動日が決まったら、依頼会員より決定事項をセンター事務局に事前報告します。\n⑥提供会員は依頼会員に依頼された援助活動を行います。\n⑦提供会員は、援助終了後に活動報告書を記入し、署名します。依頼会員は内容を確認の上、署名します。その後、利用料を提供会員に支払い、活動報告(依頼会員控え)を受け取ります。\n⑧提供会員は活動報告書（センター控え）を翌月５日までに、センター事務局へ提出してください。\n\n◇顔合わせに関するルール\n子どもの安心・安全を守るために事前に「顔合わせ」を行います。 \n「顔合わせ」は具体的に利用する日時が決まってから行います。 \n※顔合わせは、センター事務局の開所時間内に行います。\n\n①利用予定日に合わせて「顔合わせ」日時を調整させていただきます。\n②顔合わせは、利用内容により依頼会員宅および提供会員宅、送迎先等で行い、「利用内容確認書」を取り交わします。\n\n※顔合わせの費用について\n●交通機関を利用しての「顔合わせ」をする場合は、依頼会員は、提供会員の交通費実費分を負担していただきます。\n●提供会員１名につき、１時間分の利用料（800 円）を依頼会員から提供会員に当日支払っていただきます。（兄弟姉妹での利用の場合は、二人目より半額の利用料を負担していただきます。）\n\n③３か月以上活動実績がない場合、そのマッチングはいったん「終了」となります。\n再度のご利用希望がある場合はセンター事務局にご連絡ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "平塚ファミリー・サポート・センター（品川区立家庭あんしんセンター）\n〒142-0051 品川区平塚2-12-2家庭あんしんセンター2F\nTEL 03-5749-1033\n\n大井ファミリー・サポート・センター（品川区社会福祉協議会）\n〒140-0014 品川区大井1-14-1 大井一丁目共同ビル２F\nTEL 03-5718-7185",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-kateisoudan/hpg000020024.html",
+        "title": "ファミリー・サポート・センター"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "大井ファミリー・サポート・センター,平塚ファミリー・サポート・センター,子ども家庭支援センター子育てサポート担当",
+        "contactPhone": "03-5718-7185,03-5749-1033,03-6421-5237",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131091;品川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131091+1+UM87",
+        "organization": "6000020131091",
+        "compartment": "子ども家庭支援センター　子育てサポート担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2020-02-07",
+      "odInformation": {
+        "updateDate": "2024-06-27",
+        "updater": "品川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法、子ども・子育て支援法",
+        "regulationArticle": "第6条の3第14項、第21条の9、第59条第12号"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "母親学級（マタニティクラス）"
+      },
+      "summary": "お母さんが安心して赤ちゃんを迎えられるように、品川区では産科医師、歯科医師、保健師、栄養士、助産師などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+      "description": "マタニティクラス（母親学級）\n\n安心して出産、育児をしていくために、地域での仲間づくりと、妊娠期の生活・食事・歯科衛生についてと、分娩・産後の育児について学ぶクラスです。\n参加者同士の交流、情報交換などを含めて3日制で実施します。ご都合により単日での参加も可能です。\n予約制ですので、各保健センターへお電話でお申込みください。\n\n■内容 \n1日目　妊娠期からお産の経過　産後のママと赤ちゃんについて\n2日目　ママと赤ちゃんのお口の健康　ママと赤ちゃんの食生活\n3日目　赤ちゃんのいる生活　先輩ママの体験談　赤ちゃんのお世話体験　赤ちゃんが生まれてからの子育てサービス等のご案内\n\n※一部妊婦さん同士の交流の時間を設けています。\n3日目は、終了時間を延長することがあります。\n\n■資料\n会場にて配布いたします。資料送付はありません。こちらからご参照ください。\n\n【1日目資料】\nマタニティクラス　1日目資料(PDF : 1MB);https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000000790_4.pdf\n\n【2日目資料】\nマタニティクラス　2日目資料(PDF : 4MB) ;https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000000790_5.pdf\nママと赤ちゃんのお口の健康（歯と口の健康づくり）へ;https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-dukuri/kenkou-dukuri-hatokuchi/index.html\nママと赤ちゃんの食生活（妊娠期）へ;https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-dukuri/kenkou-dukuri-eiyou/kenkou-dukuri-eiyou-syokuseikatsu/hpg000023436.html\n\n【3日目資料】\nマタニティクラス　3日目資料(PDF : 5MB);https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000000790_6.pdf\n\n■対象\n妊娠25週以降の初産婦（令和6年4月開催クラスより、妊娠22週以降の初産婦）\n\n■持ち物\n親子健康手帳（母子健康手帳）、筆記用具、必要な方は飲み物等\n2日目は1日目にお渡しする食事記録もご持参ください。\n\n■時間\n午後1時30分～午後3時30分（受付は午後1時から）\n※下記日程表の●印は午前10時～正午（受付は午前9時30分から）\n\n■日程表\nマタニティクラス日程表(PDF : 179KB) ;https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000000790_7.pdf\n※変更となる場合がありますので詳しくはお問い合わせください。\n\n「施設案内」保健所へ;https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-hokenn/index.html\n二人で子育て（両親学級）土日開催へ;https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/kodomo-ninnshinn-service/hpg000000789.html\n赤ちゃんのお世話実演動画はこちらからご覧頂けます。;https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/hpg000000789.html",
+      "target": {
+        "targetPersons": "妊娠22週以降の初産婦",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "安心して出産、育児をしていくために、地域での仲間づくりと、妊娠期の生活・食事・歯科衛生についてと、分娩・産後の育児について学ぶクラスです。\n参加者同士の交流、情報交換などを含めて3日制で実施します。ご都合により単日での参加も可能です。\n\n■内容 \n1日目　妊娠期からお産の経過　産後のママと赤ちゃんについて\n2日目　ママと赤ちゃんのお口の健康　ママと赤ちゃんの食生活\n3日目　赤ちゃんのいる生活　先輩ママの体験談　赤ちゃんのお世話体験　赤ちゃんが生まれてからの子育てサービス等のご案内\n\n※一部妊婦さん同士の交流の時間を設けています。\n3日目は、終了時間を延長することがあります。\n\n■資料\n会場にて配布いたします。資料送付はありません。こちらからご参照ください。　\n\n【1日目資料】\nマタニティクラス　1日目資料(PDF : 1MB);https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000000790_4.pdf\n\n【2日目資料】\nマタニティクラス　2日目資料(PDF : 4MB) ;https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000000790_5.pdf\nママと赤ちゃんのお口の健康（歯と口の健康づくり）へ;https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-dukuri/kenkou-dukuri-hatokuchi/index.html\nママと赤ちゃんの食生活（妊娠期）へ;https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-dukuri/kenkou-dukuri-eiyou/kenkou-dukuri-eiyou-syokuseikatsu/hpg000023436.html\n\n【3日目資料】\nマタニティクラス　3日目資料(PDF : 5MB);https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000000790_6.pdf",
+        "monetarySupport": null,
+        "materiallySupport": "安心して出産、育児をしていくために、地域での仲間づくりと、妊娠期の生活・食事・歯科衛生についてと、分娩・産後の育児について学ぶクラスです。\n参加者同士の交流、情報交換などを含めて3日制で実施します。ご都合により単日での参加も可能です。\n\n■内容 \n1日目　妊娠期からお産の経過　産後のママと赤ちゃんについて\n2日目　ママと赤ちゃんのお口の健康　ママと赤ちゃんの食生活\n3日目　赤ちゃんのいる生活　先輩ママの体験談　赤ちゃんのお世話体験　赤ちゃんが生まれてからの子育てサービス等のご案内\n\n※一部妊婦さん同士の交流の時間を設けています。\n3日目は、終了時間を延長することがあります。\n\n■資料\n会場にて配布いたします。資料送付はありません。こちらからご参照ください。　\n\n【1日目資料】\nマタニティクラス　1日目資料(PDF : 1MB);https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000000790_4.pdf\n\n【2日目資料】\nマタニティクラス　2日目資料(PDF : 4MB) ;https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000000790_5.pdf\nママと赤ちゃんのお口の健康（歯と口の健康づくり）へ;https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-dukuri/kenkou-dukuri-hatokuchi/index.html\nママと赤ちゃんの食生活（妊娠期）へ;https://www.city.shinagawa.tokyo.jp/PC/kenkou/kenkou-dukuri/kenkou-dukuri-eiyou/kenkou-dukuri-eiyou-syokuseikatsu/hpg000023436.html\n\n【3日目資料】\nマタニティクラス　3日目資料(PDF : 5MB);https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000000790_6.pdf"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "■時間\n午後1時30分～午後3時30分（受付は午後1時から）\n※下記日程表の●印は午前10時～正午（受付は午前9時30分から）\n\n■日程表\nマタニティクラス日程表(PDF : 179KB) ;https://www.city.shinagawa.tokyo.jp/ct/pdf/hpg000000790_7.pdf\n※変更となる場合がありますので詳しくはお問い合わせください。"
+      },
+      "implementationPlace": {
+        "implementationName": "各保健センター\n※荏原保健センターは令和5年7月18日（火）から西五反田6-6-6へ仮移転いたしました。",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "予約制ですので、各保健センターへお電話でお申込みください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "各保健センターに電話でお申し込み下さい。"
+      },
+      "electronicSubmission": false,
+      "belongings": "親子健康手帳（母子健康手帳）、筆記用具、必要な方は飲み物等\n2日目は1日目にお渡しする食事記録もご持参ください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "各保健センター",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/hpg000000789.html",
+          "title": "赤ちゃんのお世話実演動画はこちら"
+        },
+        {
+          "uri": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-hokenn/index.html",
+          "title": "「施設案内」保健所へ"
+        },
+        {
+          "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/kodomo-ninnshinn-service/hpg000000789.html",
+          "title": "二人で子育て（両親学級）土日開催へ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-ninnshinn/kodomo-ninnshinn-service/hpg000000790.html",
+        "title": "マタニティクラス（母親学級）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "品川保健センター,大井保健センター,荏原保健センター",
+        "contactPhone": "03-3474-2903,03-3772-2666,03-5487-1311",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131091;品川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131091+2+UM31",
+        "organization": "6000020131091",
+        "compartment": "品川・大井・荏原保健センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-02-15",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "品川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

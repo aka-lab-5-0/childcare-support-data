@@ -1,0 +1,795 @@
+{
+  "version": "2025-07-09T05:55:17.834Z",
+  "areaCode": "133035",
+  "areaName": "瑞穂町",
+  "category": "vaccination",
+  "count": 6,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "妊娠の届出・母子健康手帳の交付",
+        "shortName": "妊娠が分かったら（妊娠の届出）"
+      },
+      "summary": "妊娠がわかったら妊娠の届出をしてください。妊娠の届出をした妊婦さんに母子健康手帳を交付します。母子健康手帳は、妊娠からお子さんが小学校に入学するまでの、母と子の健康の記録です。育児、予防接種、健康診査などの際に必要となります。",
+      "description": "妊娠が分かったら（妊娠の届出）\n\n妊娠の届出（母子健康手帳の交付）妊娠の届出（母子健康手帳の交付）\n医療機関などで妊娠と診断されたら、できるだけ早く妊娠届を出しましょう。\n届出の際に母子保健コーディネータ―がゆりかご面談を行います。\n届出をされた方に「母と子の保健バッグ」をお渡しし、母子健康手帳や妊婦健康診査の助成などの母子保健サービスのご案内と、妊婦・出産・子育てに関するご相談に応じます。\n\n受付時間\n月曜日から金曜日まで（祝日・年末年始を除く）\n午前8時30分から午後5時まで\n※手続きには、30分ほどお時間がかかりますので、ゆとりを持ってお越しください。\n\n届出場所\n保健センター\n;https://www.town.mizuho.tokyo.jp/tyosei/022/004/p002862.html;\n\n原則、妊婦さんご自身が届出してください。\n※代理の方が届出する場合は、委任状と代理の方の身分証明書が必要です。\n（補足）妊娠届出書の様式は、関連ファイルまたはこちらのページをご覧ください。\n\\;https://www.town.mizuho.tokyo.jp/tyosei/023/002/p000706.html;n\n\n持ち物\n妊娠週数、産科医療機関等の名称、初診日、出産予定日などが分かるもの\nマイナンバーカードまたはマイナンバーが分かるもの※1\n身分証明書※2\n\n妊娠中に転入された方へ\n下記の物をお持ちの上、保健センターにお越しください。\n母子健康手帳\n妊婦\n健康診査受診票\n\n関連ファイル\n妊娠届出書 (PDF形式 113KB)\n;https://www.town.mizuho.tokyo.jp/kosodate/002/p001214_d/fil/ninnsinngodokedesyo.pdf;\n委任状様式 (PDF形式 73KB)\n;https://www.town.mizuho.tokyo.jp/kosodate/002/p001214_d/fil/ininnjyou.pdf;\n※PDFファイルの閲覧には、Adobe Acrobat Reader DC(外部リンク)が必要です。n;https://get.adobe.com/jp/reader/;\n\n関連リンク\n妊婦健康診査\n;https://www.town.mizuho.tokyo.jp/kosodate/002/p001212.html;\n令和7年度　マタニティクラス（完全予約制です）\n;https://www.town.mizuho.tokyo.jp/event/e002/p001211.html;\nゆりかごステーション（子育て世代包括支援センター）\n;https://www.town.mizuho.tokyo.jp/kosodate/002/p001208.html;\n妊娠中の方への感染症予防情報\n;https://www.town.mizuho.tokyo.jp/kosodate/002/p001210.html;\n子育てナビ ワクワクみずほ\n;https://www.town.mizuho.tokyo.jp/kosodate/002/p001218.html;\n健康・保健関係 各種様式\n;https://www.town.mizuho.tokyo.jp/tyosei/023/002/p000706.html;\n子育て・教育\n;https://www.town.mizuho.tokyo.jp/kosodate/index.html;\n",
+      "target": {
+        "targetPersons": "妊婦",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "届出をされた方に「母と子の保健バッグ」をお渡しし、母子健康手帳や妊婦健康診査の助成などの母子保健サービスのご案内と、妊婦・出産・子育てに関するご相談に応じます。",
+        "monetarySupport": null,
+        "materiallySupport": "届出をされた方に「母と子の保健バッグ」をお渡しし、母子健康手帳や妊婦健康診査の助成などの母子保健サービスのご案内と、妊婦・出産・子育てに関するご相談に応じます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "原則、妊婦さんご自身が届出してください。\n※代理の方が届出する場合は、委任状と代理の方の身分証明書が必要です。",
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": "17:00",
+        "conditions": "月曜日から金曜日まで（祝日・年末年始を除く）\n午前8時30分から午後5時まで\n※手続きには、30分ほどお時間がかかりますので、ゆとりを持ってお越しください。"
+      },
+      "electronicSubmission": false,
+      "belongings": "・妊娠週数、産科医療機関等の名称、初診日、出産予定日などが分かるもの\n・マイナンバーカードまたはマイナンバーが分かるもの※1\n・身分証明書※2\nマイナンバーの分かるものと身分証明書について\n|マイナンバーが分かるもの※1|身分証明書※2|\n|:----|:----|\n|マイナンバー通知カード<br>（通知カードをお持ちの方は、当該通知カードに記載された氏名、住所等が住民票に記載されている事項と一致している場合に限り、証明する書類として使用できます。）<br><br>住民票の写し（マイナンバーの記載されたもの）<br><br>住民票記載事項証明書（マイナンバーが記載されたもの）|（1点でよいもの）<br>運転免許証<br>マイナンバーカード<br>在留カード<br>パスポートなど顔写真付きの公的な証明書<br><br>（2点必要なもの）<br>健康保険被保険者証、年金手帳など、顔写真のない証明書|\n\n妊娠中に転入された方へ\n下記の物をお持ちの上、保健センターにお越しください。\n1．母子健康手帳\n2．妊婦健康診査受診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "保健センター;https://www.town.mizuho.tokyo.jp/tyosei/022/004/p002862.html\n原則、妊婦さんご自身が届出してください。\n※代理の方が届出する場合は、委任状と代理の方の身分証明書が必要です。\n（補足）妊娠届出書の様式は、関連ファイルまたはこちらのページ;https://www.town.mizuho.tokyo.jp/tyosei/023/002/p000706.htmlをご覧ください。",
+      "relatedLink": [
+        {
+          "uri": "https://www.town.mizuho.tokyo.jp/event/e002/p001211.html",
+          "title": "・令和7年度　マタニティ・ゆりかごステーション（子育て世代包括支援センター）"
+        },
+        {
+          "uri": "https://www.town.mizuho.tokyo.jp/tyosei/023/002/p000706.html",
+          "title": "・子育て・教育"
+        },
+        {
+          "uri": "https://www.town.mizuho.tokyo.jp/kosodate/002/p001218.html",
+          "title": "・健康・保健関係 各種様式"
+        },
+        {
+          "uri": "https://www.town.mizuho.tokyo.jp/kosodate/002/p001210.html",
+          "title": "・子育てナビ ワクワクみずほ"
+        },
+        {
+          "uri": "https://www.town.mizuho.tokyo.jp/kosodate/002/p001208.html",
+          "title": "・妊娠中の方への感染症予防情報"
+        },
+        {
+          "uri": "https://www.town.mizuho.tokyo.jp/kosodate/002/p001212.html",
+          "title": "・妊婦健康診査"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.town.mizuho.tokyo.jp/kosodate/002/p001214.html",
+        "title": "妊娠が分かったら（妊娠の届出）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉部 子ども家庭センター課 母子保健係",
+        "contactPhone": "042-557-5098",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.mizuho.tokyo.jp/inquiry/mailform130302.html?PAGE_NO=9369",
+        "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+        "zipCode": "1901211",
+        "contactAddress": "東京都西多摩郡瑞穂町大字石畑1970番地"
+      },
+      "area": {
+        "areaCode": "133035;瑞穂町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133035+1+UM1",
+        "organization": "1000020133035",
+        "compartment": "福祉部 子ども家庭センター課 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-23",
+      "odInformation": {
+        "updateDate": "2024-09-13",
+        "updater": "瑞穂町",
+        "content": "所管部署名称を変更"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第15条（妊娠の届出）、第16条（母子健康手帳）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "077"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊娠・出産に関するその他のこと",
+        "shortName": "妊娠中の方への感染症予防情報"
+      },
+      "summary": "妊娠中は、免疫力が低下して感染症にかかりやすくなっています。感染症の中には妊娠中にかかると、まれにですがお腹の赤ちゃんに影響が出ることもあります。妊娠中は感染予防を心がけましょう。また、妊娠初期の検査で免疫（抗体）の有無を調べることができる感染症もあります。妊娠がわかったら、早めに妊婦健康診査を受けましょう。",
+      "description": "妊娠中は、免疫力が低下して感染症にかかりやすくなっています\n感染症の中には妊娠中にかかると、まれにですがお腹の赤ちゃんに影響が出ることもあります。\n妊娠中は感染予防を心がけましょう。\n\nまた、妊娠初期の検査で免疫（抗体）の有無を調べることができる感染症もあります。\n妊娠がわかったら、早めに妊婦健康診査;https://www.town.mizuho.tokyo.jp/kosodate/002/p001212.htmlを受けましょう。\n\n風しん対策事業（抗体検査・予防接種）費用の一部助成について;https://www.town.mizuho.tokyo.jp/kenkofukushi/001/006/p006478.html\n妊婦健康診査;https://www.town.mizuho.tokyo.jp/kosodate/002/p001212.html\n「赤ちゃんとお母さんの感染予防対策5ヶ条」（日本周産期・新生児医学会、日本産婦人科学会）; http://www.jspnm.com/topics/data/topics20130515.pdf(外部リンク)\n梅毒に関するQ&A（厚生労働省）; https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/syphilis_qa.html(外部リンク)\nジカウイルス感染症について(厚生労働省) ;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000109881.html(外部リンク)",
+      "target": {
+        "targetPersons": "妊娠中の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.mizuho.tokyo.jp/kosodate/002/p001210.html",
+        "title": "妊娠中の方への感染症予防情報"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉部子ども家庭センター課 母子保健係",
+        "contactPhone": "042-557-5098",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.mizuho.tokyo.jp/inquiry/mailform130302.html?PAGE_NO=1210",
+        "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+        "zipCode": "1901211",
+        "contactAddress": "東京都西多摩郡瑞穂町大字石畑1970番地"
+      },
+      "area": {
+        "areaCode": "133035;瑞穂町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133035+1+UM48",
+        "organization": "1000020133035",
+        "compartment": "福祉部 子ども家庭センター課 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2003-10-31",
+      "odInformation": {
+        "updateDate": "2024-09-13",
+        "updater": "瑞穂町",
+        "content": "所管部署名称を変更"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "里帰り等定期予防接種費用助成金"
+      },
+      "summary": "里帰り等のやむを得ない事情により、瑞穂町定期予防接種予診票が使用できない瑞穂町外（以下「町外」）の医療機関で定期予防接種を受けた場合に、接種にかかった費用の一部を助成します。",
+      "description": "里帰り等のやむを得ない事情により、瑞穂町定期予防接種予診票が使用できない瑞穂町外（以下「町外」）の医療機関で定期予防接種を受けた場合に、接種にかかった費用の一部を助成します。\n助成を受けるためには、事前の申請が必要です。下記の方法で申請してください\n\n対象の予防接種\n結核（BCG）、ヒブ、小児用肺炎球菌、麻しん・風しん、日本脳炎、五種混合（ジフテリア・百日せき・破傷風・ポリオ・ヒブ）、四種混合（ジフテリア・百日せき・破傷風・ポリオ）、水ぼうそう、ポリオ（急性灰白髄炎）、B型肝炎、ロタウイルス、ヒトパピローマウイルス感染症（子宮頸がん）、二種混合（ジフテリア・破傷風）\n\n依頼書交付申請書 (PDF形式 58KB)\nhttps://www.town.mizuho.tokyo.jp/kosodate/002/p009347_d/fil/iraisyokouhushinseisyo.pdf\n予防接種費用助成金交付申請書兼請求書 (PDF形式 96KB)\nhttps://www.town.mizuho.tokyo.jp/kosodate/002/p009347_d/fil/zyoseikinkouhushinseisyo.pdf",
+      "target": {
+        "targetPersons": "予防接種の接種日時点で、瑞穂町に住所があり、次のいずれかに該当する方\n・保護者の里帰り出産のため、長期（おおむね3か月以上の期間）に町外に滞在している方\n・保護者の里帰り出産のため、町外に滞在している期間中にお子さんの予防接種の期限に到達する予定の方\n・医療機関、施設等に長期に入院し、または入所している方\n・疾病等の理由により、入院し、または定期的に通院している医療機関での接種が強く推奨される方\n・災害等のやむを得ない事情により、町外に長期に滞在している方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "助成額\n対象の予防接種を受ける時に、町外医療機関で実際にかかった費用と瑞穂町内指定医療機関で接種した場合の費用を比較していずれか少ない方の額\n\n|助成額の例|<|<|\n|:----|:----|:----|\n|実際にかかった費用|瑞穂町内で接種した場合の費用|助成額|\n|11,000円|12,000円|11,000円|\n\n上記の場合、実際にかかった費用の方が少ないので、11,000円が助成されます。",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "接種を受ける前と、受けた後、それぞれ申請が必要です。町外での接種を希望する場合は下記のとおり申請してください。不明な点などは保健センターにお問い合わせください。\n\n(1) 事前申請（接種前）\n接種を受ける前に、瑞穂町指定医療機関以外で接種を受けるための申請書を提出します。\n\n・申請書類：予防接種依頼書交付申請書（申請者が保健センターに提出）\n・申請方法：窓口または郵送\n依頼書交付申請書（PDF形式 58キロバイト）https://www.town.mizuho.tokyo.jp/kosodate/002/p009347_d/fil/iraisyokouhushinseisyo.pdf\n\n(2) 依頼書交付（接種前）\n(1)の申請内容の審査を行い、依頼書を申請者にお渡しします。\n\n(3) 接種\n(2)の依頼書を持って、希望する医療機関で接種します。\n\n(4) 助成金申請（接種後）\n接種後、下記の書類をそろえて子ども家庭センター課（保健センター内）に申請します。\n\n・申請書類：予防接種費用助成金交付申請書兼請求書、領収書（原本）、母子健康手帳等の接種の記録が記載されている書類、予診票の原本または写し\n・申請方法：窓口または郵送\n・申請期限：接種を受けた翌日から6か月以内\n予防接種費用助成金交付申請書兼請求書（PDF形式 96キロバイト）https://www.town.mizuho.tokyo.jp/kosodate/002/p009347_d/fil/zyoseikinkouhushinseisyo.pdf\n\n(5) 助成金交付\n内容の審査を行い、予防接種費用助成金交付（不交付）決定通知書を送付します。\n交付額等は決定通知書でご確認ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "接種を受けた翌日から6か月以内"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "保健センター",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.mizuho.tokyo.jp/kosodate/002/p009347.html",
+        "title": "里帰り等定期予防接種費用助成金"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉部子ども家庭センター課 母子保健係",
+        "contactPhone": "042-557-5098",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.mizuho.tokyo.jp/inquiry/mailform130301.html?PAGE_NO=9347",
+        "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+        "zipCode": "1901211",
+        "contactAddress": "東京都西多摩郡瑞穂町大字石畑1970番地"
+      },
+      "area": {
+        "areaCode": "133035;瑞穂町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133035+1+UM54",
+        "organization": "1000020133035",
+        "compartment": "福祉部 子ども家庭センター課 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-01",
+      "odInformation": {
+        "updateDate": "2024-09-13",
+        "updater": "瑞穂町",
+        "content": "所管部署名称を変更"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "任意予防接種",
+        "shortName": "任意接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。このうち瑞穂町では、一部の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+      "description": "予防接種\n更新日令和5年4月1日,ページID1219,印刷\n\n予防接種を受けましょう\n赤ちゃんが生まれてくる時にお母さんから受け取った免疫（病気に対する抵抗力）は、生後数か月で自然に失われてしまいます。\n予防接種は、赤ちゃん自身が免疫を作る手助けをしてくれるものです。\n\n子どもたちを感染症から守るため、接種漏れがないよう、計画的に予防接種を受けましょう。\n\n任意接種の助成\n下記の任意接種について、接種費用の助成を行っています。\n対象の方や受け方などの詳細は、子ども家庭センター課（保健センター内）へお問い合わせください。\n\nおたふくかぜ（1歳から6歳未満）\n風しん対策事業（抗体検査・予防接種）費用の助成について;https://www.town.mizuho.tokyo.jp/kenkofukushi/001/006/p006478.html\n幼児インフルエンザ（生後6か月から6歳の年度末まで）\n\n令和7年度子どもの予防接種\nこちらからご確認ください。\n令和7年度 子どもの予防接種（表）（PDF形式 234キロバイト）;https://www.town.mizuho.tokyo.jp/kosodate/002/p001219_d/fil/R7yobousessyu_omote.pdf\n令和7年度 子どもの予防接種（裏）（PDF形式 148キロバイト）;https://www.town.mizuho.tokyo.jp/kosodate/002/p001219_d/fil/R7yobousessyu_ura.pdf\n\n新型コロナウイルスワクチン接種と他のワクチンの接種に前後13日以上の間隔をとりましょう\n新型コロナウイルスワクチン接種の接種順位が到来し、新型コロナウイルスワクチンの接種前後に他の予防接種を受けるときは、次のことに注意をお願いします。\n\n（1）原則として前後13日以上の間隔をおいてください（新型コロナウイルスワクチンの接種日の前後2週間空けた同じ曜日）。\n（2）他の予防接種を同時に受けないでください。\n（3）インフルエンザワクチンについては前後12日以下の間隔でも接種可能です。\n\n例えば、1日（月曜日）に新型コロナウイルスワクチンの予防接種をする場合は、翌日を1日目とカウントし、2週間後の14日目である15日（月曜日）以降に他の予防接種を受けてください。\n\n新型コロナウイルスワクチン接種関連情報は、こちらへ;https://www.town.mizuho.tokyo.jp/kenkofukushi/cor/p007989.html\n\n関連ファイル\n令和5年度 子どもの予防接種（表） (PDF形式 234KB);https://www.town.mizuho.tokyo.jp/kosodate/002/p001219_d/fil/R7yobousessyu_omote.pdf\n令和5年度 子どもの予防接種（裏） (PDF形式 148KB);https://www.town.mizuho.tokyo.jp/kosodate/002/p001219_d/fil/R7yobousessyu_ura.pdf\n接種スケジュール (PDF形式 52KB);https://www.town.mizuho.tokyo.jp/kosodate/002/p001219_d/fil/sessyuschedule.pdf\n\n関連リンク\n子育てナビ ワクワクみずほ;https://www.town.mizuho.tokyo.jp/kosodate/002/p001218.html\n風しん対策事業（抗体検査・予防接種）費用の一部助成について;https://www.town.mizuho.tokyo.jp/kenkofukushi/001/006/p006478.html",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "任意接種の助成\n下記の任意接種について、接種費用の助成を行っています。\n対象の方や受け方などの詳細は、子ども家庭センター課（保健センター内）へお問い合わせください。\n\nおたふくかぜ（1歳から6歳未満）\n風しん対策事業（抗体検査・予防接種）費用の助成について;https://www.town.mizuho.tokyo.jp/kenkofukushi/001/006/p006478.html\n幼児インフルエンザ（生後6か月から6歳の年度末まで）\n\n令和7年度子どもの予防接種\nこちらからご確認ください。\n令和7年度 子どもの予防接種（表）（PDF形式 234キロバイト）;https://www.town.mizuho.tokyo.jp/kosodate/002/p001219_d/fil/R7yobousessyu_omote.pdf\n令和7年度 子どもの予防接種（裏）（PDF形式 148キロバイト）;https://www.town.mizuho.tokyo.jp/kosodate/002/p001219_d/fil/R7yobousessyu_ura.pdf",
+        "monetarySupport": "任意接種の助成\n下記の任意接種について、接種費用の助成を行っています。\n対象の方や受け方などの詳細は、子ども家庭センター課（保健センター内）へお問い合わせください。\n\nおたふくかぜ（1歳から6歳未満）\n風しん対策事業（抗体検査・予防接種）費用の助成について;https://www.town.mizuho.tokyo.jp/kenkofukushi/001/006/p006478.html\n幼児インフルエンザ（生後6か月から6歳の年度末まで）\n\n令和7年度子どもの予防接種\nこちらからご確認ください。\n令和7年度 子どもの予防接種（表）（PDF形式 234キロバイト）;https://www.town.mizuho.tokyo.jp/kosodate/002/p001219_d/fil/R7yobousessyu_omote.pdf\n令和7年度 子どもの予防接種（裏）（PDF形式 148キロバイト）;https://www.town.mizuho.tokyo.jp/kosodate/002/p001219_d/fil/R7yobousessyu_ura.pdf",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "対象の方や受け方などの詳細は、子ども家庭センター課（保健センター内）へお問い合わせください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.town.mizuho.tokyo.jp/kenkofukushi/001/006/p006478.html;https://www.town.mizuho.tokyo.jp/kosodate/002/p001219_d/fil/R7yobousessyu_omote.pdf;https://www.town.mizuho.tokyo.jp/kosodate/002/p001219_d/fil/R7yobousessyu_ura.pdf;https://www.town.mizuho.tokyo.jp/kenkofukushi/cor/p007989.html;https://www.town.mizuho.tokyo.jp/kosodate/002/p001219_d/fil/sessyuschedule.pdf;https://www.town.mizuho.tokyo.jp/kosodate/002/p001218.html;https://www.town.mizuho.tokyo.jp/kenkofukushi/001/006/p006478.html\n https://www.town.mizuho.tokyo.jp/kenkofukushi/001/006/p010089.html ",
+          "title": "風しん対策事業（抗体検査・予防接種）費用の助成について;令和7年度 子どもの予防接種（表）（PDF形式 234キロバイト）;令和7年度 子どもの予防接種（裏）（PDF形式 148キロバイト）;新型コロナウイルスワクチン接種関連情報;接種スケジュール (PDF形式 52KB);子育てナビ ワクワクみずほ;\n風しん対策事業（抗体検査・予防接種）費用の一部助成について\n男性HPVワクチン任意予防接種費用助成金事業"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.town.mizuho.tokyo.jp/kosodate/002/p001219.html",
+        "title": "予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉部子ども家庭センター課 母子保健係",
+        "contactPhone": "042-557-5098",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.mizuho.tokyo.jp/inquiry/mailform130301.html?PAGE_NO=1219",
+        "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+        "zipCode": "1901211",
+        "contactAddress": "東京都西多摩郡瑞穂町大字石畑1970番地"
+      },
+      "area": {
+        "areaCode": "133035;瑞穂町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133035+1+UM55",
+        "organization": "1000020133035",
+        "compartment": "福祉部 子ども家庭センター課 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-01",
+      "odInformation": {
+        "updateDate": "2024-09-13",
+        "updater": "瑞穂町",
+        "content": "所管部署名称を変更"
+      },
+      "regulation": {
+        "regulationName": "小児任意予防接種費助成要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087",
+          "089",
+          "090",
+          "091"
+        ],
+        "contentsCode": [
+          "078",
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "予防接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。赤ちゃんが生まれてくる時にお母さんから受け取った免疫（病気に対する抵抗力）は、生後数か月で自然に失われてしまいます。予防接種は、赤ちゃん自身が免疫を作る手助けをしてくれるものです。子どもたちを感染症から守るため、接種漏れがないよう、計画的に予防接種を受けましょう。「法定定期接種」とは、対象の方や接種期間が法令により定められている疾病に対するワクチン接種です。対象年齢の方は費用がかかりません。予防接種に該当するお子さんには、個別に通知をお送りします。（補足）一部の予防接種で通知を送付していないものもあります。詳しくは、子ども家庭センター課（保健センター内）へお問い合わせください。",
+      "description": "予防接種を受けましょう\n赤ちゃんが生まれてくる時にお母さんから受け取った免疫（病気に対する抵抗力）は、生後数か月で自然に失われてしまいます。\n予防接種は、赤ちゃん自身が免疫を作る手助けをしてくれるものです。\n\n子どもたちを感染症から守るため、接種漏れがないよう、計画的に予防接種を受けましょう。\n\n法定定期接種\n法定定期接種とは、対象の方や接種期間が法令により定められている疾病に対するワクチン接種です。\n対象年齢の方は費用がかかりません。\n予防接種に該当するお子さんには、個別に通知をお送りします。\n（補足）一部の予防接種で通知を送付していないものもあります。詳しくは、子ども家庭センター課（保健センター内）へお問い合わせください。\n\n予防接種の種類\n・結核（BCG）\n・ヒブ\n・小児用肺炎球菌\n・五種混合（ジフテリア・百日せき・破傷風・ポリオ・ヒブ）\n・四種混合（ジフテリア・百日せき・破傷風・ポリオ）\n・麻しん・風しん\n・水ぼうそう\n・日本脳炎\n・二種混合（ジフテリア・破傷風）\n・ポリオ（急性灰白髄炎）\n・子宮頸がん\n・B型肝炎\n・ロタウイルス\n\n\n町では、生後2か月になる頃に予防接種予診票冊子を送付しています。届いたら、適切な時期に接種を受けましょう。\n\n※接種スケジュールはこちら\nhttps://www.town.mizuho.tokyo.jp/kosodate/002/p001219_d/fil/sessyuschedule.pdf\n\n子育てナビ ワクワクみずほ\n町の予防接種や健診情報など、子育てに関する支援情報の配信を行っています。\nぜひ、ご登録ください。\n・子育てナビ ワクワクみずほ\nhttps://www.town.mizuho.tokyo.jp/kosodate/002/p001218.html\n\n任意接種の助成\n下記の任意接種について、接種費用の助成を行っています。\n対象の方や受け方などの詳細は、保健センターへお問い合わせください。\n・おたふくかぜ（1歳から6歳未満）\n・風しん対策事業（抗体検査・予防接種）費用の助成について \n・幼児インフルエンザ（生後6か月から6歳の年度末まで） \n\n令和7年度子どもの予防接種\nこちらからご確認ください。\n令和7年度 子どもの予防接種（表）（PDF形式 234キロバイト）https://www.town.mizuho.tokyo.jp/kosodate/002/p001219_d/fil/R7yobousessyu_omote.pdf\n令和7年度 子どもの予防接種（裏）（PDF形式 148キロバイト）https://www.town.mizuho.tokyo.jp/kosodate/002/p001219_d/fil/R7yobousessyu_ura.pdf\n新型コロナウイルスワクチン接種と他のワクチンの接種に前後13日以上の間隔をとりましょう\n\n新型コロナウイルスワクチン接種の接種順位が到来し、新型コロナウイルスワクチンの接種前後に他の予防接種を受けるときは、次のことに注意をお願いします。\n\n（1）原則として前後13日以上の間隔をおいてください（新型コロナウイルスワクチンの接種日の前後2週間空けた同じ曜日）。\n（2）他の予防接種を同時に受けないでください。\n（3）インフルエンザワクチンについては前後12日以下の間隔でも接種可能です。\n\n例えば、1日（月曜日）に新型コロナウイルスワクチンの予防接種をする場合は、翌日を1日目とカウントし、2週間後の14日目である15日（月曜日）以降に他の予防接種を受けてください。\nR3.5.17_新型コロナウイルスワクチンの他とのワクチン接種間隔の図\n\n新型コロナウイルスワクチン接種関連情報は、こちらへ",
+      "target": {
+        "targetPersons": "予防接種に該当するお子さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "予防接種",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種"
+      },
+      "cost": "0",
+      "costConditions": "対象年齢の方は費用がかかりません。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "接種スケジュールはこちら\nhttps://www.town.mizuho.tokyo.jp/kosodate/002/p001219_d/fil/sessyuschedule.pdf"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.mizuho.tokyo.jp/kosodate/002/p001219.html",
+        "title": "予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉部子ども家庭センター課 母子保健係",
+        "contactPhone": "042-557-5098",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.mizuho.tokyo.jp/inquiry/mailform130301.html?PAGE_NO=1219",
+        "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+        "zipCode": "1901211",
+        "contactAddress": "東京都西多摩郡瑞穂町大字石畑1970番地"
+      },
+      "area": {
+        "areaCode": "133035;瑞穂町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133035+2+UM54",
+        "organization": "1000020133035",
+        "compartment": "福祉部 子ども家庭センター課 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-01",
+      "odInformation": {
+        "updateDate": "2024-09-13",
+        "updater": "瑞穂町",
+        "content": "所管部署名称を変更"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+        "shortName": "子育てナビ ワクワクみずほ"
+      },
+      "summary": "妊娠・出産・子育てをする瑞穂町のすべてのご家庭を応援するために公開するウェブサイトです。スマートフォン、パソコンなどでサイトにアクセスし、お子さまの生年月日を登録するだけで、自動的に予防接種のスケジュールが作成できます。サイトでは町の子育てに関連する情報を掲載しているほか、ご希望の方には情報配信も行っています。また、お子さんの成長記録などを残せる電子母子手帳としても使用できます。インストールすると毎回のログインを省略できるほか、予防接種スケジュールなどをプッシュ通知で受け取ることができます。",
+      "description": "妊娠・出産・子育てをする瑞穂町のすべてのご家庭を応援するために公開するウェブサイトです。\n\nスマートフォン、パソコンなどでサイトにアクセスし、お子さまの生年月日を登録するだけで、自動的に予防接種のスケジュールが作成できます。\nサイトでは町の子育てに関連する情報を掲載しているほか、ご希望の方には情報配信も行っています。\n配信をご希望の方は、下記のリンクからメールアドレスをご登録ください。\nまた、お子さんの成長記録などを残せる電子母子手帳としても使用できます。\n\nインストールすると毎回のログインを省略できるほか、予防接種スケジュールなどをプッシュ通知で受け取ることができます。",
+      "target": {
+        "targetPersons": "妊娠・出産・子育てをする瑞穂町のすべてのご家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "子育てナビ ワクワクみずほ",
+        "monetarySupport": null,
+        "materiallySupport": "子育てナビ ワクワクみずほ"
+      },
+      "cost": "0",
+      "costConditions": "無料\n\nただし、通信費は自己負担です。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "「子育てナビ ワクワクみずほ」サイトへは、下記の二次元コードまたは下記の関連リンクから接続可能です。\nです。\n\nワクワクみずほサイト\nアプリケーションをご利用の方は、次の画像リンクをご利用ください。\n\niPhoneの方はこちらから（外部リンク）https://apps.apple.com/jp/app/%E7%91%9E%E7%A9%82%E7%94%BA-%E5%AD%90%E8%82%B2%E3%81%A6%E3%83%8A%E3%83%93-%E3%83%AF%E3%82%AF%E3%83%AF%E3%82%AF%E3%81%BF%E3%81%9A%E3%81%BB/id1475211958?PHPSESSID=speqp37a478vl8scgm3r2ovosgmg7tb0lmu11me45qs0u2469nhvbvc6pdqpui6f6vb3ftipn05maa28sqrjo2q8p0mtp6t9monpam2\n\nAndroidの方はこちらから（外部リンク）\nhttps://play.google.com/store/apps/details?id=jp.co.mi_labo.city_hc.mizuho_town",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://mizuho-town.city-hc.jp/",
+          "title": "子育てナビワクワクみずほ (外部リンク)"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.town.mizuho.tokyo.jp/kosodate/002/p001218.html",
+        "title": "子育てナビ ワクワクみずほ"
+      },
+      "formLink": [
+        {
+          "uri": "https://mizuho-town.city-hc.jp/",
+          "title": "子育てナビ;ワクワクみずほ"
+        }
+      ],
+      "contact": {
+        "contactName": "福祉部子ども家庭センター課 母子保健係",
+        "contactPhone": "042-557-5089",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.mizuho.tokyo.jp/dept/130000/130300/130301/index.html",
+        "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+        "zipCode": "1901211",
+        "contactAddress": "東京都西多摩郡瑞穂町大字石畑1970番地"
+      },
+      "area": {
+        "areaCode": "133035;瑞穂町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133035+3+UM34",
+        "organization": "1000020133035",
+        "compartment": "福祉部 子ども家庭センター課 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2019-08-14",
+      "odInformation": {
+        "updateDate": "2024-09-13",
+        "updater": "瑞穂町",
+        "content": "所管部署名称を変更"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088",
+          "089",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

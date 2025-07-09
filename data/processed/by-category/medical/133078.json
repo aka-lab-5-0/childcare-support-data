@@ -1,0 +1,2018 @@
+{
+  "version": "2025-07-09T05:55:17.835Z",
+  "areaCode": "133078",
+  "areaName": "檜原村\t",
+  "category": "medical",
+  "count": 16,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦訪問",
+        "shortName": "妊産婦訪問"
+      },
+      "summary": "妊産婦の方（妊娠中または出産後1年以内）を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、妊娠期間中や出産後の不安や悩みについての相談等を行います。",
+      "description": "障害福祉、児童福祉の事業等がまとめられた冊子を作成したのでお知らせいたします。\nまた、ホームページ以外でも下記の窓口で配布を行っております。\n・やすらぎの里（福祉けんこう課）\n・檜原村役場（村民課）\n\n檜原の障害福祉について\n檜原の障害福祉(ファイル名：syougai-r5.pdf サイズ：1.07MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf\n\n檜原の児童福祉について\n檜原の児童福祉(ファイル名：zidou-r5.pdf サイズ：1.21MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf",
+      "target": {
+        "targetPersons": "又、妊産婦の方だけでなく、ご家族の方からのご相談もお受けしております。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "安心して出産・育児ができるよう、助産師・保健師がご家庭を訪問し、ご相談をお受けいたしますので、お気軽に福祉けんこう課けんこう係へご連絡ください。",
+        "monetarySupport": null,
+        "materiallySupport": "安心して出産・育児ができるよう、助産師・保健師がご家庭を訪問し、ご相談をお受けいたしますので、お気軽に福祉けんこう課けんこう係へご連絡ください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "安心して出産・育児ができるよう、助産師・保健師がご家庭を訪問し、ご相談をお受けいたしますので、お気軽に福祉けんこう課けんこう係へご連絡ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "やすらぎの里 福祉けんこう課 けんこう係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/zidou-r5.pdf",
+        "title": "妊産婦訪問"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "やすらぎの里 福祉けんこう課 子育て支援係",
+        "contactPhone": "042-598-3122",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX 042-519-9789",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133078;檜原村\t",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133078+1+UM11",
+        "organization": "8000020133078",
+        "compartment": "やすらぎの里 福祉けんこう課 子育て支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-25",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "檜原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条（妊産婦の訪問指導等）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て支援拠点・地域子育て支援センター",
+        "shortName": "檜原村こども家庭センター（村制度）"
+      },
+      "summary": "檜原村では檜原村子ども家庭支援センターを子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+      "description": "障害福祉、児童福祉の事業等がまとめられた冊子を作成したのでお知らせいたします。\nまた、ホームページ以外でも下記の窓口で配布を行っております。\n・やすらぎの里（福祉けんこう課）\n・檜原村役場（村民課）\n\n檜原の障害福祉について\n檜原の障害福祉(ファイル名：syougai-r5.pdf サイズ：1.07MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf\n\n檜原の児童福祉について\n檜原の児童福祉(ファイル名：zidou-r5.pdf サイズ：1.21MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf",
+      "target": {
+        "targetPersons": "18歳未満の子どもとその保護者・家庭",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "●子どもと家庭の総合相談\n檜原村こども家庭支援センターは18歳未満の子どもとその保護者・家庭のための施設です。子どもや家庭のこと、子育てのこと、不登校、非行など、子どもと家庭に関するあらゆる相談を随時、お受けしています。お気楽にお電話又はご来館ください。\n \n●子育てグループの育成と支援 \n子どもの遊びや友達づくり、保護者の子育て仲間ができるよう自主的な活動を支援し、活動のための情報を提供します。\n\n●児童虐待の対応\n児童虐待の対応 要保護児童対策地域協議会を中心に関係機関を連携し、要保護児童および保護者への支援、児童虐待の予防・早期発見・支援を行っています。",
+        "monetarySupport": null,
+        "materiallySupport": "●子どもと家庭の総合相談\n檜原村こども家庭支援センターは18歳未満の子どもとその保護者・家庭のための施設です。子どもや家庭のこと、子育てのこと、不登校、非行など、子どもと家庭に関するあらゆる相談を随時、お受けしています。お気楽にお電話又はご来館ください。\n \n●子育てグループの育成と支援 \n子どもの遊びや友達づくり、保護者の子育て仲間ができるよう自主的な活動を支援し、活動のための情報を提供します。\n\n●児童虐待の対応\n児童虐待の対応 要保護児童対策地域協議会を中心に関係機関を連携し、要保護児童および保護者への支援、児童虐待の予防・早期発見・支援を行っています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/zidou-r5.pdf",
+        "title": "檜原村子ども家庭支援センター（村制度）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "やすらぎの里 福祉けんこう課 子育て支援係",
+        "contactPhone": "042-598-3122",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX 042-519-9789",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133078;檜原村\t",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133078+1+UM110",
+        "organization": "8000020133078",
+        "compartment": "やすらぎの里 福祉けんこう課 子育て支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-25",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "檜原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法、児童福祉法",
+        "regulationArticle": "第6条の3第6項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関する相談窓口一覧",
+        "shortName": "各種相談"
+      },
+      "summary": "檜原村内の子育てに関する相談窓口の一覧です。",
+      "description": "障害福祉、児童福祉の事業等がまとめられた冊子を作成したのでお知らせいたします。\nまた、ホームページ以外でも下記の窓口で配布を行っております。\n・やすらぎの里（福祉けんこう課）\n・檜原村役場（村民課）\n\n檜原の障害福祉について\n檜原の障害福祉(ファイル名：syougai-r5.pdf サイズ：1.07MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf\n\n檜原の児童福祉について\n檜原の児童福祉(ファイル名：zidou-r5.pdf サイズ：1.21MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/zidou-r5.pdf",
+        "title": "７ 各種相談について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "やすらぎの里 福祉けんこう課 子育て支援係",
+        "contactPhone": "042-598-3122",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX 042-519-9789",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133078;檜原村\t",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133078+1+UM115",
+        "organization": "8000020133078",
+        "compartment": "やすらぎの里 福祉けんこう課 子育て支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-07",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "檜原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "檜原村の子育てに関する相談",
+        "shortName": "育児相談"
+      },
+      "summary": "首がなかなかすわらない、体重の増えが少ない、言葉がなかなか話せない、気になる癖がある、子どもへの接し方がわからない、といった子育てをしていて心配のある方はお気軽にご利用ください。",
+      "description": "障害福祉、児童福祉の事業等がまとめられた冊子を作成したのでお知らせいたします。\nまた、ホームページ以外でも下記の窓口で配布を行っております。\n・やすらぎの里（福祉けんこう課）\n・檜原村役場（村民課）\n\n檜原の障害福祉について\n檜原の障害福祉(ファイル名：syougai-r5.pdf サイズ：1.07MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf\n\n檜原の児童福祉について\n檜原の児童福祉(ファイル名：zidou-r5.pdf サイズ：1.21MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf",
+      "target": {
+        "targetPersons": "保護者の方及びご家族",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "やすらぎの里 保健センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/zidou-r5.pdf",
+        "title": "育児相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "やすらぎの里 福祉けんこう課 子育て支援係",
+        "contactPhone": "042-598-3122",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX 042-519-9789",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133078;檜原村\t",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133078+1+UM119",
+        "organization": "8000020133078",
+        "compartment": "やすらぎの里 福祉けんこう課 子育て支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-25",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "檜原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "新生児訪問",
+        "shortName": "新生児訪問"
+      },
+      "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+      "description": "障害福祉、児童福祉の事業等がまとめられた冊子を作成したのでお知らせいたします。\nまた、ホームページ以外でも下記の窓口で配布を行っております。\n・やすらぎの里（福祉けんこう課）\n・檜原村役場（村民課）\n\n檜原の障害福祉について\n檜原の障害福祉(ファイル名：syougai-r5.pdf サイズ：1.07MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf\n\n檜原の児童福祉について\n檜原の児童福祉(ファイル名：zidou-r5.pdf サイズ：1.21MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf",
+      "target": {
+        "targetPersons": "※生後 28 日以内の新生児のいるご家族",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "※生後 28 日以内の新生児のいるご家族へお伺いします。里帰り出産などで生後 28 日以内に訪問を受けられない方は生後 120 日以内であれば無料で訪問します。"
+      },
+      "support": {
+        "description": "出生通知票（母子バックに同封しています）をもとに新生児訪問指導員（助産師）・保健師がご家庭を訪問し、いろいろな相談をお受けします。",
+        "monetarySupport": null,
+        "materiallySupport": "出生通知票（母子バックに同封しています）をもとに新生児訪問指導員（助産師）・保健師がご家庭を訪問し、いろいろな相談をお受けします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "やすらぎの里 福祉けんこう課 子育て支援係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/zidou-r5.pdf",
+        "title": "新生児訪問"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "やすらぎの里 福祉けんこう課 子育て支援係",
+        "contactPhone": "042-598-3122",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX 042-519-9789",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133078;檜原村\t",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133078+1+UM13",
+        "organization": "8000020133078",
+        "compartment": "やすらぎの里 福祉けんこう課 子育て支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-25",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "檜原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第11条（新生児の訪問指導）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+        "shortName": "新生児訪問"
+      },
+      "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+      "description": "新生児訪問;https://www.vill.hinohara.tokyo.jp/0000001519.html\n新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+      "target": {
+        "targetPersons": "新生児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後4か月まで"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.hinohara.tokyo.jp/0000001764.html",
+        "title": "妊娠・出産等"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "檜原村　福祉けんこう課 子育て支援係",
+        "contactPhone": "042-598-3122",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133078;檜原村\t",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133078+1+UM14",
+        "organization": "8000020133078",
+        "compartment": "檜原村　福祉けんこう課 子育て支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/10/01",
+      "odInformation": {
+        "updateDate": "2025/02/27",
+        "updater": "檜原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第21条の10の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出生届",
+        "shortName": "出生届"
+      },
+      "summary": "出生届とは、生まれてきたお子さんの氏名等を戸籍に記載するための手続きです。戸籍に記載されることで、生まれてきたお子さんの親族関係が公的に証明されます。",
+      "description": "届出期間\n生まれた日を含めて14日以内\n届出に必要なもの\n　1．医師または助産師が証明した出生証明書（左半分が出生届けになっています）\n　2．母子健康手帳\n　3．届出人の印鑑（朱肉を使用するもの）\n　　　※届書の押印は任意ですが、その他の出生に関する手続き等で印鑑が必要な場合があります\n\n村民課 村民保険係\nお知らせ;https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_1.html\n戸籍;https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_2.html\n住民登録;https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_3.html\n印鑑登録;https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_4.html\n国民健康保険;https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_5.html\n\n国民年金;https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_6.html\n後期高齢者医療制度;https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_7.html\n各種相談;https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_8.html\nマイナンバー;https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_9.html",
+      "target": {
+        "targetPersons": "生まれた日を含めて14日以内",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生まれた日を含めて14日以内"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "生まれた日を含めて14日以内"
+      },
+      "electronicSubmission": false,
+      "belongings": "届出に必要なもの\n1．医師または助産師が証明した出生証明書（左半分が出生届けになっています）\n2．母子健康手帳\n3．届出人の印鑑（朱肉を使用するもの）\n※届書の押印は任意ですが、その他の出生に関する手続き等で印鑑が必要な場合があります",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_8.html",
+          "title": "各種相談"
+        },
+        {
+          "uri": "https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_7.html",
+          "title": "後期高齢者医療制度"
+        },
+        {
+          "uri": "https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_3.html",
+          "title": "住民登録"
+        },
+        {
+          "uri": "https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_6.html",
+          "title": "国民年金"
+        },
+        {
+          "uri": "https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_9.html",
+          "title": "マイナンバー"
+        },
+        {
+          "uri": "https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_5.html",
+          "title": "国民健康保険"
+        },
+        {
+          "uri": "https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_2.html",
+          "title": "戸籍"
+        },
+        {
+          "uri": "https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_1.html",
+          "title": "お知らせ"
+        },
+        {
+          "uri": "https://www.vill.hinohara.tokyo.jp/soshiki/3-3-0-0-0_4.html",
+          "title": "印鑑登録"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.hinohara.tokyo.jp/0000000227.html",
+        "title": "出生届"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "檜原村　村民課 村民保険係",
+        "contactPhone": "042-598-1011",
+        "contactEx": "111　116　119",
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "ファクス: 042-598-1009",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133078;檜原村\t",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133078+1+UM3",
+        "organization": "8000020133078",
+        "compartment": "檜原村　村民課 村民保険係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-24",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "檜原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "戸籍法",
+        "regulationArticle": "第49条、第52条"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "077"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+        "shortName": "妊産婦・乳幼児保健指導"
+      },
+      "summary": "１．一般保健指導\n →診察・血圧測定・梅毒血清反応検査・尿検査・事後指導\n ２．歯科保健指導\n →診察・健診・予防措置",
+      "description": "障害福祉、児童福祉の事業等がまとめられた冊子を作成したのでお知らせいたします。\nまた、ホームページ以外でも下記の窓口で配布を行っております。\n・やすらぎの里（福祉けんこう課）\n・檜原村役場（村民課）\n\n檜原の障害福祉について\n檜原の障害福祉(ファイル名：syougai-r5.pdf サイズ：1.07MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf\n\n檜原の児童福祉について\n檜原の児童福祉(ファイル名：zidou-r5.pdf サイズ：1.21MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf",
+      "target": {
+        "targetPersons": "檜原村に住所のある方で、以下のいずれかの条件に該当する方\n・生活保護を受けている世帯\n・住民税非課税の世帯",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "１．一般保健指導 →診察・血圧測定・梅毒血清反応検査・尿検査・事後指導\n２．歯科保健指導 →診察・健診・予防措置",
+        "monetarySupport": null,
+        "materiallySupport": "１．一般保健指導 →診察・血圧測定・梅毒血清反応検査・尿検査・事後指導\n２．歯科保健指導 →診察・健診・予防措置"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "①母子健康手帳②印鑑③世帯の所得を証明する書類をお持ちになり、福祉けんこう課けんこう係までお越しください。※原則として、保健指導票は 1 回の申請につき 1 枚の交付です。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "やすらぎの里 福祉けんこう課 子育て支援係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/zidou-r5.pdf",
+        "title": "妊産婦・乳幼児保健指導"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "やすらぎの里 福祉けんこう課 子育て支援係",
+        "contactPhone": "042-598-3122",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX 042-519-9789",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133078;檜原村\t",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133078+1+UM34",
+        "organization": "8000020133078",
+        "compartment": "やすらぎの里 福祉けんこう課 子育て支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-25",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "檜原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "檜原村の妊娠・出産に関する相談",
+        "shortName": "妊婦相談"
+      },
+      "summary": "母子保健制度についての説明や、妊娠中の生活や栄養についてのご相談に保健師が応じます。福祉けんこう課子育て支援係へお気軽にご連絡ください。",
+      "description": "障害福祉、児童福祉の事業等がまとめられた冊子を作成したのでお知らせいたします。\nまた、ホームページ以外でも下記の窓口で配布を行っております。\n・やすらぎの里（福祉けんこう課）\n・檜原村役場（村民課）\n\n檜原の障害福祉について\n檜原の障害福祉(ファイル名：syougai-r5.pdf サイズ：1.07MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf\n\n檜原の児童福祉について\n檜原の児童福祉(ファイル名：zidou-r5.pdf サイズ：1.21MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "母子保健制度についての説明や、妊娠中の生活や栄養についてのご相談に保健師が応じます。",
+        "monetarySupport": null,
+        "materiallySupport": "母子保健制度についての説明や、妊娠中の生活や栄養についてのご相談に保健師が応じます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "やすらぎの里 保健センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "やすらぎの里 福祉けんこう課 子育て支援係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/zidou-r5.pdf",
+        "title": "妊婦相談 "
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "やすらぎの里 福祉けんこう課 子育て支援係",
+        "contactPhone": "042-598-3122",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX 042-519-9789",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133078;檜原村\t",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133078+1+UM47",
+        "organization": "8000020133078",
+        "compartment": "やすらぎの里 福祉けんこう課 子育て支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-25",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "檜原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自立支援医療制度",
+        "shortName": "自立支援医療制度（育成医療）（国・村制度）"
+      },
+      "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+      "description": "障害福祉、児童福祉の事業等がまとめられた冊子を作成したのでお知らせいたします。\nまた、ホームページ以外でも下記の窓口で配布を行っております。\n・やすらぎの里（福祉けんこう課）\n・檜原村役場（村民課）\n\n檜原の障害福祉について\n檜原の障害福祉(ファイル名：syougai-r5.pdf サイズ：1.07MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf\n\n檜原の児童福祉について\n檜原の児童福祉(ファイル名：zidou-r5.pdf サイズ：1.21MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf",
+      "target": {
+        "targetPersons": "保護者等が村内在住の18歳未満の児童で、肢体不自由、視覚、聴覚、平衡機能、音声・言語・咀嚼機能の障害、および心臓・腎臓・小腸・肝臓・その他の先天性内臓障害、免疫機能障害のための手術を必要とし、確実な治療効果が期待される方が対象です。\n※すでに受けてしまった治療は原則として対象外です。保護者等の所得によって支給対象とならない場合があります。保護者等の所得に応じた自己負担額があります。障害者自立支援法で指定された医療機関等でのみ、この制度が利用できます。",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "保護者等が村内在住の18歳未満の児童で、肢体不自由、視覚、聴覚、平衡機能、音声・言語・咀嚼機能の障害、および心臓・腎臓・小腸・肝臓・その他の先天性内臓障害、免疫機能障害のための手術を必要とし、確実な治療効果が期待される方が対象です。"
+      },
+      "support": {
+        "description": "身体に障害があるか、放置すると将来障害を残すおそれのある児童が、生活能力を得るために必要な医療を受ける場合、指定の医療機関において必要な医療の支給を行います。",
+        "monetarySupport": "身体に障害があるか、放置すると将来障害を残すおそれのある児童が、生活能力を得るために必要な医療を受ける場合、指定の医療機関において必要な医療の支給を行います。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申請手続きに必要なもの\n受付窓口で申請に必要な書類をお渡しします。添付書類等はその時にご説明しますので、後日提出をお願いします。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/zidou-r5.pdf",
+        "title": "自立支援医療制度（育成医療）（国・村制度）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "やすらぎの里 福祉けんこう課 けんこう係",
+        "contactPhone": "042-598-3121",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX 042-598-1263",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133078;檜原村\t",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133078+1+UM5046",
+        "organization": "8000020133078",
+        "compartment": "やすらぎの里 福祉けんこう課 けんこう係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-07",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "檜原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律",
+        "regulationArticle": "第58条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "025",
+          "027"
+        ],
+        "targetCode": [
+          "087",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "1歳6か月児健康診査",
+        "shortName": "1 歳 6 ヶ月児・3 歳児健康診査"
+      },
+      "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。檜原村では1歳6か月児健康診査を実施しています。小児科医による診察のほか、歯科健診も行います。",
+      "description": "障害福祉、児童福祉の事業等がまとめられた冊子を作成したのでお知らせいたします。\nまた、ホームページ以外でも下記の窓口で配布を行っております。\n・やすらぎの里（福祉けんこう課）\n・檜原村役場（村民課）\n\n檜原の障害福祉について\n檜原の障害福祉(ファイル名：syougai-r5.pdf サイズ：1.07MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf\n\n檜原の児童福祉について\n檜原の児童福祉(ファイル名：zidou-r5.pdf サイズ：1.21MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf",
+      "target": {
+        "targetPersons": "1 歳 6 ヶ月～2 歳のお子さんと保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1 歳 6 ヶ月～2 歳のお子さんと保護者"
+      },
+      "support": {
+        "description": "問診・身体測定・内科診察・歯科診察・保健相談（子育て相談・栄養相談）など",
+        "monetarySupport": null,
+        "materiallySupport": "問診・身体測定・内科診察・歯科診察・保健相談（子育て相談・栄養相談）など"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "やすらぎの里 保健センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "※対象者には個別に通知します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "やすらぎの里 福祉けんこう課 子育て支援係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/zidou-r5.pdf",
+        "title": "1 歳 6 ヶ月児・3 歳児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "やすらぎの里 福祉けんこう課 子育て支援係",
+        "contactPhone": "042-598-3122",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX 042-519-9789",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133078;檜原村\t",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133078+1+UM51",
+        "organization": "8000020133078",
+        "compartment": "やすらぎの里 福祉けんこう課 子育て支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-25",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "檜原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "3歳児健康診査",
+        "shortName": "1 歳 6 ヶ月児・3 歳児健康診査"
+      },
+      "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。檜原村では3歳児健康診査を実施しています。小児科医による診察のほか、歯科健診も行います。",
+      "description": "障害福祉、児童福祉の事業等がまとめられた冊子を作成したのでお知らせいたします。\nまた、ホームページ以外でも下記の窓口で配布を行っております。\n・やすらぎの里（福祉けんこう課）\n・檜原村役場（村民課）\n\n檜原の障害福祉について\n檜原の障害福祉(ファイル名：syougai-r5.pdf サイズ：1.07MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf\n\n檜原の児童福祉について\n檜原の児童福祉(ファイル名：zidou-r5.pdf サイズ：1.21MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf",
+      "target": {
+        "targetPersons": "3 歳～4 歳のお子さんと保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 4,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "3 歳～4 歳のお子さんと保護者"
+      },
+      "support": {
+        "description": "問診・身体測定・内科診察・歯科診察・保健相談（子育て相談・栄養相談）など\n※3 歳児健康診査には尿・眼・耳の検査があります。",
+        "monetarySupport": null,
+        "materiallySupport": "問診・身体測定・内科診察・歯科診察・保健相談（子育て相談・栄養相談）など\n※3 歳児健康診査には尿・眼・耳の検査があります。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "やすらぎの里 保健センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "※対象者には個別に通知します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "やすらぎの里 福祉けんこう課 子育て支援係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/zidou-r5.pdf",
+        "title": "1 歳 6 ヶ月児・3 歳児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "やすらぎの里 福祉けんこう課 子育て支援係",
+        "contactPhone": "042-598-3122",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX 042-519-9789",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133078;檜原村\t",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133078+1+UM52",
+        "organization": "8000020133078",
+        "compartment": "やすらぎの里 福祉けんこう課 子育て支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-25",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "檜原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の乳幼児健診",
+        "shortName": "5 歳児健康診査"
+      },
+      "summary": "専門医による診察・育児相談",
+      "description": "障害福祉、児童福祉の事業等がまとめられた冊子を作成したのでお知らせいたします。\nまた、ホームページ以外でも下記の窓口で配布を行っております。\n・やすらぎの里（福祉けんこう課）\n・檜原村役場（村民課）\n\n檜原の障害福祉について\n檜原の障害福祉(ファイル名：syougai-r5.pdf サイズ：1.07MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf\n\n檜原の児童福祉について\n檜原の児童福祉(ファイル名：zidou-r5.pdf サイズ：1.21MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf",
+      "target": {
+        "targetPersons": "5 歳のお子さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 5,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 5,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "5 歳のお子さん"
+      },
+      "support": {
+        "description": "専門医による診察・育児相談",
+        "monetarySupport": null,
+        "materiallySupport": "専門医による診察・育児相談"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "ひのはら保育園",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "※対象者には個別に通知します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "やすらぎの里 福祉けんこう課 子育て支援係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/zidou-r5.pdf",
+        "title": "5 歳児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "やすらぎの里 福祉けんこう課 子育て支援係",
+        "contactPhone": "042-598-3122",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX 042-519-9789",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133078;檜原村\t",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133078+1+UM53",
+        "organization": "8000020133078",
+        "compartment": "やすらぎの里 福祉けんこう課 子育て支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-25",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "檜原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（▲歳児歯科健康診査）",
+        "shortName": "乳幼児歯科健診"
+      },
+      "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。2歳児歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+      "description": "障害福祉、児童福祉の事業等がまとめられた冊子を作成したのでお知らせいたします。\nまた、ホームページ以外でも下記の窓口で配布を行っております。\n・やすらぎの里（福祉けんこう課）\n・檜原村役場（村民課）\n\n檜原の障害福祉について\n檜原の障害福祉(ファイル名：syougai-r5.pdf サイズ：1.07MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf\n\n檜原の児童福祉について\n檜原の児童福祉(ファイル名：zidou-r5.pdf サイズ：1.21MB);https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf",
+      "target": {
+        "targetPersons": "10ヶ月～就学前のお子さま",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 10
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "10ヶ月～就学前のお子さま"
+      },
+      "support": {
+        "description": "歯科健診・個別指導・歯みがき指導など",
+        "monetarySupport": null,
+        "materiallySupport": "歯科健診・個別指導・歯みがき指導など"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "対象者には個別に通知します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/zidou-r5.pdf",
+        "title": "乳幼児歯科健診 "
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "やすらぎの里 檜原診療所（歯科）",
+        "contactPhone": "042-598-0082",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133078;檜原村\t",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133078+1+UM792",
+        "organization": "8000020133078",
+        "compartment": "やすらぎの里 檜原診療所（歯科）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-07",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "檜原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "こども家庭センター",
+        "shortName": "檜原村こども家庭センター"
+      },
+      "summary": "檜原村の【檜原村こども家庭センター】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+      "description": "檜原村こども家庭センター相談事業のご案内\n檜原村こども家庭センターは、すべての妊産婦さん、子育て世帯、お子さんが相談を行うことができる場所です。ぜひご利用ください。\n\n相談できること\n子育て、学習、神経発達症（発達障害等）、精神疾患、進路、問題行動・非行、不登校、ひきこもりなど、子どもにかかわる相談全般\n\n相談例\n指示をしてもなかなか行動しない\n漢字を覚えることが苦手で、家で宿題をどう見ればよいかわからない\n登校しぶりがあり、なかなか家を出ようとしない\n発達障害があるかもしれないが、どこに相談したらよいか\n自閉スペクトラム症と診断を受けたが、どういう状態なのか詳しく知りたい\nこだわりが強く、遮るとかんしゃくが強い\n親の財布からお金を盗って遊びに使ってしまう\n自分（または子ども）の性格等について理解を深めたい\n\n相談日・時間\n|相談日| 月、水、木、金（祝日を除く）|\n|:----|:----|\n|受付時間| 午前9時～午後5時（最終受付午後4時30分）|\n|相談時間| 原則50分程度まで（開室時間内に限る）|\n\n相談員\n公認心理師・臨床心理士：赤木　友彦",
+      "target": {
+        "targetPersons": "村内在住の子ども（0～20歳前後まで）、またはその保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "無料",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "福祉けんこう課　子育て支援係（やすらぎの里内けんこう館2階）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "最終受付午後4時30分"
+      },
+      "specificDate": "月、水、木、金",
+      "holiday": "祝日",
+      "utilization": "事前に予約が必要です。\n電話または直接お越しください。\n電話：042-598-3122",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.hinohara.tokyo.jp/0000001687.html",
+        "title": "檜原村こども家庭センター相談事業のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "檜原村　福祉けんこう課 子育て支援係",
+        "contactPhone": "042-598-3122",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133078;檜原村\t",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133078+1+UM799",
+        "organization": "8000020133078",
+        "compartment": "檜原村　福祉けんこう課 子育て支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/06/01",
+      "odInformation": {
+        "updateDate": "2025/02/27",
+        "updater": "檜原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第10条の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自立支援医療制度（精神通院医療）",
+        "shortName": "自立支援医療（精神通院医療）"
+      },
+      "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+      "description": "精神障害者に、通院医療費の負担軽減を図る制度です。\n●内容\n認定された場合は、自立支援医療受給者証（精神通院）が交付されます。その際、自己負担上限額管理票を同封して郵送します。ただし、生活保護、医療費１割負担の方は、自己負担上限額管理票は使用しません。\n提示がない場合や必要な手続きを行っていない場合は、制度の適用を受けることができません。\n有効期間は１年間です。更新申請は、有効期間満了日の３ヶ月前から手続きができます。",
+      "target": {
+        "targetPersons": "精神通院医療に係る往診、デイケア、訪問介護、てんかんの診療、及び薬代等を継続的に要する方が対象です。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "通常、医療保険では医療費の３割が自己負担となりますが、自立支援医療費制度を併用した場合、自己負担は原則１割に軽減されます。ただし、利用者本人の収入や世帯の所得・疾病等に応じて、月額自己負担上限額が設定されます。",
+        "monetarySupport": "通院医療費の負担軽減",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "受診される際、受給者証に記載されている医療機関等に自立支援医療受給者証（精神通院）と自己負担上限額管理票を提示してください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "①申請書 ②診断書（所定のもの、申請日から３ヶ月以内に作成されたもの）③健康保険証 ④利用する医療機関等の名称・住所・電話番号がわかるもの ⑤個人番号（マイナンバー）⑥受給者証（更新申請の場合）⑦身元確認ができるもの",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.hinohara.tokyo.jp/cmsfiles/contents/0000001/1124/syougai-r5.pdf",
+        "title": "檜原の障害福祉"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "やすらぎの里 福祉けんこう課 福祉係",
+        "contactPhone": "042-598-3121",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133078;檜原村\t",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133078+1+UM824",
+        "organization": "8000020133078",
+        "compartment": "やすらぎの里 福祉けんこう課 福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2025/02/27",
+        "updater": "檜原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律",
+        "regulationArticle": "第58条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "025",
+          "027"
+        ],
+        "targetCode": [
+          "087",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

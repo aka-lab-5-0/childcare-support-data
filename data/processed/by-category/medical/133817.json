@@ -1,0 +1,1615 @@
+{
+  "version": "2025-07-09T05:55:17.837Z",
+  "areaCode": "133817",
+  "areaName": "三宅村",
+  "category": "medical",
+  "count": 13,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関する教室・講習会",
+        "shortName": "おやこっこルーム"
+      },
+      "summary": "育児の悩みを話し合い、仲間作りの場となる教室を開催しています。保健師による相談コーナーもあります。",
+      "description": "育児教室（おやこっこルーム）\n0歳から小学校入学前のお子さんを対象に、保護者間の交流と遊びの提供を目的とした育児教室を第1水曜日(三宅村阿古福祉会館)と第3水曜日(神着老人福祉館)に開催しています。",
+      "target": {
+        "targetPersons": "0歳から小学校入学前のお子さんを対象",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "0歳から小学校入学前のお子さんを対象"
+      },
+      "support": {
+        "description": "保護者間の交流と遊びの提供を目的とした育児教室を第1水曜日(三宅村阿古福祉会館)と第3水曜日(神着老人福祉館)に開催しています。",
+        "monetarySupport": null,
+        "materiallySupport": "保護者間の交流と遊びの提供を目的とした育児教室を第1水曜日(三宅村阿古福祉会館)と第3水曜日(神着老人福祉館)に開催しています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "三宅村阿古福祉会館,神着老人福祉館",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "第1水曜日(三宅村阿古福祉会館)と第3水曜日(神着老人福祉館)に開催しています。"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.miyake.tokyo.jp/kurashi/seikatsu_kankyou/ikuji_kyouiku/ninpu_nyuuyouji/akachan.html",
+        "title": "赤ちゃんが生まれた方"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "三宅村役場臨時庁舎　福祉健康課 健康係",
+        "contactPhone": "04994-5-0911",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1001212",
+        "contactAddress": "東京都三宅島三宅村阿古497"
+      },
+      "area": {
+        "areaCode": "133817;三宅村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+4000020133817+1+UM103",
+        "organization": "4000020133817",
+        "compartment": "福祉健康課 健康係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-19",
+        "updater": "三宅村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "学校教育法、児童福祉法",
+        "regulationArticle": "第24条、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て支援拠点・地域子育て支援センター",
+        "shortName": "三宅村子育て広場"
+      },
+      "summary": "三宅村では阿古福祉会館を子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+      "description": "三宅村子育て広場\n子育て広場は、乳幼児の心身の健全な発達を促すと共に、保護者の子育て並びに地域生活の交流の場、子育てに関する情報提供や講習の場等の幅広い子育て支援を目的としています。保護者の方には子どもの自由な遊び場・子育てに悩んだときや疲れたときのリフレッシュの場・子育ての相談の場・子育てグループ育成の場として活用していただきたいと思います。利用料は無料です。\n\n所在地\n三宅村阿古1906番地(三宅村阿古福祉会館内)\nTEL：04994-5-0615\n\n開館日\n月曜日から土曜日で午前10時から午後3時までです。\n\n休館日\n日曜・祝日、年末年始\n(駐車場が狭いので、なるべく乗り合わせでお越しください。)\n\n保護者の方への注意事項\n営利を目的とする行為をしないでください。\n危険物及び危険のあるものを持ち込まないでください。\n火災防止に努め、指定場所以外では火気を持ち込まないでください。\n他の利用者に迷惑のかかる行為をしないでください。\nお帰りの際、ゴミは持ち帰ってください。\n村職員等の指示に従ってください。\n乳幼児には必ず保護者が付き添ってください。\n駐車場が狭いので、なるべく乗り合わせでお越しください。\nお子様の体調がよくない時は利用をお控えください。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "子育て広場は、乳幼児の心身の健全な発達を促すと共に、保護者の子育て並びに地域生活の交流の場、子育てに関する情報提供や講習の場等の幅広い子育て支援を目的としています。保護者の方には子どもの自由な遊び場・子育てに悩んだときや疲れたときのリフレッシュの場・子育ての相談の場・子育てグループ育成の場として活用していただきたいと思います。",
+        "monetarySupport": null,
+        "materiallySupport": "子育て広場は、乳幼児の心身の健全な発達を促すと共に、保護者の子育て並びに地域生活の交流の場、子育てに関する情報提供や講習の場等の幅広い子育て支援を目的としています。保護者の方には子どもの自由な遊び場・子育てに悩んだときや疲れたときのリフレッシュの場・子育ての相談の場・子育てグループ育成の場として活用していただきたいと思います。"
+      },
+      "cost": null,
+      "costConditions": "利用料は無料です。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "三宅村阿古福祉会館内",
+        "implementationAddress": "三宅村阿古1906番地"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "15:00",
+        "condiutilizationConditionstions": "月曜日から土曜日で午前10時から午後3時までです。"
+      },
+      "specificDate": null,
+      "holiday": "日曜・祝日、年末年始\n(駐車場が狭いので、なるべく乗り合わせでお越しください。)",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.miyake.tokyo.jp/kurashi/hoken_nenkin_fukushi/fukushi/jidou_boshi.html",
+        "title": "児童・母子福祉"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "三宅村役場臨時庁舎 福祉健康課 福祉係,東京都三宅支庁 総務課",
+        "contactPhone": "04994-5-0902,04994-2-1311",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1001212",
+        "contactAddress": "東京都三宅島三宅村阿古497"
+      },
+      "area": {
+        "areaCode": "133817;三宅村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+4000020133817+1+UM110",
+        "organization": "4000020133817",
+        "compartment": "福祉健康課 福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-19",
+        "updater": "三宅村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法、児童福祉法",
+        "regulationArticle": "第6条の3第6項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て広場",
+        "shortName": "三宅村子育て広場"
+      },
+      "summary": "市内の子育てひろばは、小学校就学前のお子さんが安心して遊べるスペースがあり、子育て中の親子が気軽に集い、仲間づくりを通して子育てに関する相談や情報交換等を行う機会を提供しています。また、お子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、三宅村サイトや市報などでお知らせしています。）",
+      "description": "三宅村子育て広場\n子育て広場は、乳幼児の心身の健全な発達を促すと共に、保護者の子育て並びに地域生活の交流の場、子育てに関する情報提供や講習の場等の幅広い子育て支援を目的としています。保護者の方には子どもの自由な遊び場・子育てに悩んだときや疲れたときのリフレッシュの場・子育ての相談の場・子育てグループ育成の場として活用していただきたいと思います。利用料は無料です。\n\n所在地\n三宅村阿古1906番地(三宅村阿古福祉会館内)\nTEL：04994-5-0615\n\n開館日\n月曜日から土曜日で午前10時から午後3時までです。\n\n休館日\n日曜・祝日、年末年始\n(駐車場が狭いので、なるべく乗り合わせでお越しください。)\n\n保護者の方への注意事項\n営利を目的とする行為をしないでください。\n危険物及び危険のあるものを持ち込まないでください。\n火災防止に努め、指定場所以外では火気を持ち込まないでください。\n他の利用者に迷惑のかかる行為をしないでください。\nお帰りの際、ゴミは持ち帰ってください。\n村職員等の指示に従ってください。\n乳幼児には必ず保護者が付き添ってください。\n駐車場が狭いので、なるべく乗り合わせでお越しください。\nお子様の体調がよくない時は利用をお控えください。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "子育て広場は、乳幼児の心身の健全な発達を促すと共に、保護者の子育て並びに地域生活の交流の場、子育てに関する情報提供や講習の場等の幅広い子育て支援を目的としています。保護者の方には子どもの自由な遊び場・子育てに悩んだときや疲れたときのリフレッシュの場・子育ての相談の場・子育てグループ育成の場として活用していただきたいと思います。",
+        "monetarySupport": null,
+        "materiallySupport": "子育て広場は、乳幼児の心身の健全な発達を促すと共に、保護者の子育て並びに地域生活の交流の場、子育てに関する情報提供や講習の場等の幅広い子育て支援を目的としています。保護者の方には子どもの自由な遊び場・子育てに悩んだときや疲れたときのリフレッシュの場・子育ての相談の場・子育てグループ育成の場として活用していただきたいと思います。"
+      },
+      "cost": null,
+      "costConditions": "利用料は無料です。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "三宅村阿古福祉会館内",
+        "implementationAddress": "三宅村阿古1906番地"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "15:00",
+        "condiutilizationConditionstions": "月曜日から土曜日で午前10時から午後3時までです。"
+      },
+      "specificDate": null,
+      "holiday": "日曜・祝日、年末年始\n(駐車場が狭いので、なるべく乗り合わせでお越しください。)",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.miyake.tokyo.jp/kurashi/hoken_nenkin_fukushi/fukushi/jidou_boshi.html",
+        "title": "児童・母子福祉"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "三宅村役場臨時庁舎 福祉健康課 福祉係,東京都三宅支庁 総務課",
+        "contactPhone": "04994-5-0902,04994-2-1311",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1001212",
+        "contactAddress": "東京都三宅島三宅村阿古497"
+      },
+      "area": {
+        "areaCode": "133817;三宅村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+4000020133817+1+UM112",
+        "organization": "4000020133817",
+        "compartment": "福祉健康課 福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-19",
+        "updater": "三宅村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第6項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小学校・中学校の就学援助費",
+        "shortName": "就学援助"
+      },
+      "summary": "経済的な理由により就学が困難と認められる、公立の小学校・中学校に通学する児童・生徒の保護者を対象に、学用品費、修学旅行費、給食費などを支給します。",
+      "description": "就学援助\n義務教育の費用でお困りの方に学用品費を援助しています。学校より申請用紙を配布しますので、期日までに提出してください。詳しくは教育委員会へご相談下さい。",
+      "target": {
+        "targetPersons": "義務教育の費用でお困りの方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "義務教育の費用でお困りの方に学用品費を援助しています。",
+        "monetarySupport": "義務教育の費用でお困りの方に学用品費を援助しています。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "学校より申請用紙を配布しますので、期日までに提出してください。詳しくは教育委員会へご相談下さい。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.miyake.tokyo.jp/kakuka/kyouikuiinkai/syuugaku/enjo.html",
+        "title": "就学援助"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "三宅村役場臨時庁舎 教育委員会",
+        "contactPhone": "04994-5-0952",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1001212",
+        "contactAddress": "東京都三宅島三宅村阿古497"
+      },
+      "area": {
+        "areaCode": "133817;三宅村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+4000020133817+1+UM126",
+        "organization": "4000020133817",
+        "compartment": "教育委員会",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-19",
+        "updater": "三宅村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "学校教育法",
+        "regulationArticle": "第19条"
+      },
+      "tag": {
+        "categoryCode": [
+          "005"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "新生児訪問",
+        "shortName": "赤ちゃん訪問"
+      },
+      "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+      "description": "赤ちゃん訪問\n保健師が家庭訪問し、赤ちゃんの身体測定を行います。また、子育ての悩みやお母さんの体調のことなどの相談に応じます。ご提出いただいた出生通知票をもとに、あらかじめ連絡してから伺います。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "保健師が家庭訪問し、赤ちゃんの身体測定を行います。また、子育ての悩みやお母さんの体調のことなどの相談に応じます。ご提出いただいた出生通知票をもとに、あらかじめ連絡してから伺います。",
+        "monetarySupport": null,
+        "materiallySupport": "保健師が家庭訪問し、赤ちゃんの身体測定を行います。また、子育ての悩みやお母さんの体調のことなどの相談に応じます。ご提出いただいた出生通知票をもとに、あらかじめ連絡してから伺います。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.miyake.tokyo.jp/kurashi/seikatsu_kankyou/ikuji_kyouiku/ninpu_nyuuyouji/akachan.html",
+        "title": "赤ちゃんが生まれた方"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "三宅村役場臨時庁舎　福祉健康課 健康係",
+        "contactPhone": "04994-5-0911",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1001212",
+        "contactAddress": "東京都三宅島三宅村阿古497"
+      },
+      "area": {
+        "areaCode": "133817;三宅村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+4000020133817+1+UM13",
+        "organization": "4000020133817",
+        "compartment": "福祉健康課 健康係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-19",
+        "updater": "三宅村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第11条（新生児の訪問指導）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+        "shortName": "赤ちゃん訪問"
+      },
+      "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+      "description": "保健師が家庭訪問し、赤ちゃんの身体測定を行います。また、子育ての悩みやお母さんの体調のことなどの相談に応じます。ご提出いただいた出生通知票をもとに、あらかじめ連絡してから伺います。",
+      "target": {
+        "targetPersons": "生後4か月の乳幼児・産婦",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "出生通知票を提出",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.miyake.tokyo.jp/kurashi/seikatsu_kankyou/ikuji_kyouiku/ninpu_nyuuyouji/akachan.html",
+        "title": "赤ちゃんが生まれた方"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "三宅村役場臨時庁舎　福祉健康課 健康係",
+        "contactPhone": "04994-5-0911",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1001212",
+        "contactAddress": "東京都三宅島三宅村阿古497"
+      },
+      "area": {
+        "areaCode": "133817;三宅村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+4000020133817+1+UM14",
+        "organization": "4000020133817",
+        "compartment": "三宅村役場臨時庁舎　福祉健康課 健康係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2025/02/28",
+        "updater": "三宅村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第21条の10の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出産育児一時金",
+        "shortName": "出産育児一時金"
+      },
+      "summary": "国民健康保険に加入している方が出産したときは、その世帯主からの申請により、出産育児一時金を支給します。原則として直接支払制度により、医療機関に直接お支払いします。\nなお、直接支払制度に対応していない医療機関などで出産された場合も、「受取代理制度」や出産後の申請により、出産育児一時金の支給を受けることができます。",
+      "description": "出産したとき\n出産育児一時金\n国民健康保険加入者が出産したとき、出産育児一時金として42万円を支給します。妊娠12週（85日）以上で流産・死産の場合でも、医師の証明書があれば申請できます。\n\n（注意事項）\n\n出産日の翌日から2年を過ぎると申請できません。\n\n支給方法\n基本的には直接支払制度により支給されます。\n\n関連リンク\n出産を控えてる方へPDFファイル(511KB);https://www.vill.miyake.tokyo.jp/kurashi/hoken_nenkin_fukushi/kokuminkenkouhoken/files/121.pdf",
+      "target": {
+        "targetPersons": "国民健康保険加入者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "国民健康保険加入者が出産したとき、出産育児一時金として42万円を支給します。妊娠12週（85日）以上で流産・死産の場合でも、医師の証明書があれば申請できます。\n支給方法\n基本的には直接支払制度により支給されます。",
+        "monetarySupport": "国民健康保険加入者が出産したとき、出産育児一時金として42万円を支給します。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産日の翌日から2年を過ぎると申請できません。"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.vill.miyake.tokyo.jp/kurashi/hoken_nenkin_fukushi/kokuminkenkouhoken/files/121.pdf",
+          "title": "出産を控えてる方へPDFファイル(511KB)"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.miyake.tokyo.jp/kurashi/hoken_nenkin_fukushi/kokuminkenkouhoken/kyuufu.html",
+        "title": "給付"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "三宅村役場臨時庁舎 村民課 保険係",
+        "contactPhone": "04994-5-0904",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1001212",
+        "contactAddress": "東京都三宅島三宅村阿古497"
+      },
+      "area": {
+        "areaCode": "133817;三宅村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+4000020133817+1+UM19",
+        "organization": "4000020133817",
+        "compartment": "村民課 保険係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-19",
+        "updater": "三宅村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民健康保険法",
+        "regulationArticle": "第58条(第二節　その他の給付)"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003",
+          "015"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月未満児）",
+        "shortName": "乳児健康診査(3～4ヶ月)"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として3か月児健康診査を実施しています。",
+      "description": "乳幼児健康診査\n乳児および幼児を対象に実施している健診は以下のとおりです。\n\n乳児健康診査(3～4ヶ月)\n6ヶ月健康診査(6～7ヶ月)\n9ヶ月健康診査(9～10ヶ月)\n1歳6か月児健康診査(おおよそ1歳7か月ごろ)\n3歳児健康診査(おおよそ3歳3か月ごろ)\n乳幼児経過観察健康診査\n開催日は対象者に個別通知します。対象時期は目安ですので、詳しくは個別通知をご覧ください。",
+      "target": {
+        "targetPersons": "乳児健康診査(3～4ヶ月)",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 3
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "乳児健康診査(3～4ヶ月)"
+      },
+      "support": {
+        "description": "乳児健康診査(3～4ヶ月)",
+        "monetarySupport": null,
+        "materiallySupport": "乳児健康診査(3～4ヶ月)"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "開催日は対象者に個別通知します。対象時期は目安ですので、詳しくは個別通知をご覧ください。"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.miyake.tokyo.jp/kurashi/seikatsu_kankyou/ikuji_kyouiku/ninpu_nyuuyouji/akachan.html",
+        "title": "赤ちゃんが生まれた方"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "三宅村役場臨時庁舎　福祉健康課 健康係",
+        "contactPhone": "04994-5-0911",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1001212",
+        "contactAddress": "東京都三宅島三宅村阿古497"
+      },
+      "area": {
+        "areaCode": "133817;三宅村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+4000020133817+1+UM49",
+        "organization": "4000020133817",
+        "compartment": "福祉健康課 健康係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-19",
+        "updater": "三宅村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "6ヶ月健康診査(6～7ヶ月)"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として乳幼児健康診査6か月から12か月児を実施しています。",
+      "description": "乳幼児健康診査\n乳児および幼児を対象に実施している健診は以下のとおりです。\n\n乳児健康診査(3～4ヶ月)\n6ヶ月健康診査(6～7ヶ月)\n9ヶ月健康診査(9～10ヶ月)\n1歳6か月児健康診査(おおよそ1歳7か月ごろ)\n3歳児健康診査(おおよそ3歳3か月ごろ)\n乳幼児経過観察健康診査\n開催日は対象者に個別通知します。対象時期は目安ですので、詳しくは個別通知をご覧ください。",
+      "target": {
+        "targetPersons": "6ヶ月健康診査(6～7ヶ月)",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 7
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "6ヶ月健康診査(6～7ヶ月)"
+      },
+      "support": {
+        "description": "6ヶ月健康診査(6～7ヶ月)",
+        "monetarySupport": null,
+        "materiallySupport": "6ヶ月健康診査(6～7ヶ月)"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "開催日は対象者に個別通知します。対象時期は目安ですので、詳しくは個別通知をご覧ください。"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.miyake.tokyo.jp/kurashi/seikatsu_kankyou/ikuji_kyouiku/ninpu_nyuuyouji/akachan.html",
+        "title": "赤ちゃんが生まれた方"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "三宅村役場臨時庁舎　福祉健康課 健康係",
+        "contactPhone": "04994-5-0911",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1001212",
+        "contactAddress": "東京都三宅島三宅村阿古497"
+      },
+      "area": {
+        "areaCode": "133817;三宅村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+4000020133817+1+UM50",
+        "organization": "4000020133817",
+        "compartment": "福祉健康課 健康係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-19",
+        "updater": "三宅村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "1歳6か月児健康診査",
+        "shortName": "1歳6か月児健康診査(おおよそ1歳7か月ごろ)"
+      },
+      "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。三宅村では1歳6か月児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "乳幼児健康診査\n乳児および幼児を対象に実施している健診は以下のとおりです。\n\n乳児健康診査(3～4ヶ月)\n6ヶ月健康診査(6～7ヶ月)\n9ヶ月健康診査(9～10ヶ月)\n1歳6か月児健康診査(おおよそ1歳7か月ごろ)\n3歳児健康診査(おおよそ3歳3か月ごろ)\n乳幼児経過観察健康診査\n開催日は対象者に個別通知します。対象時期は目安ですので、詳しくは個別通知をご覧ください。",
+      "target": {
+        "targetPersons": "1歳6か月児健康診査(おおよそ1歳7か月ごろ)",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1歳6か月児健康診査(おおよそ1歳7か月ごろ)"
+      },
+      "support": {
+        "description": "1歳6か月児健康診査(おおよそ1歳7か月ごろ)",
+        "monetarySupport": null,
+        "materiallySupport": "1歳6か月児健康診査(おおよそ1歳7か月ごろ)"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "開催日は対象者に個別通知します。対象時期は目安ですので、詳しくは個別通知をご覧ください。"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.miyake.tokyo.jp/kurashi/seikatsu_kankyou/ikuji_kyouiku/ninpu_nyuuyouji/akachan.html",
+        "title": "赤ちゃんが生まれた方"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "三宅村役場臨時庁舎　福祉健康課 健康係",
+        "contactPhone": "04994-5-0911",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1001212",
+        "contactAddress": "東京都三宅島三宅村阿古497"
+      },
+      "area": {
+        "areaCode": "133817;三宅村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+4000020133817+1+UM51",
+        "organization": "4000020133817",
+        "compartment": "福祉健康課 健康係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-19",
+        "updater": "三宅村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "3歳児健康診査",
+        "shortName": "3歳児健康診査(おおよそ3歳3か月ごろ)"
+      },
+      "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。三宅村では3歳児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "乳幼児健康診査\n乳児および幼児を対象に実施している健診は以下のとおりです。\n\n乳児健康診査(3～4ヶ月)\n6ヶ月健康診査(6～7ヶ月)\n9ヶ月健康診査(9～10ヶ月)\n1歳6か月児健康診査(おおよそ1歳7か月ごろ)\n3歳児健康診査(おおよそ3歳3か月ごろ)\n乳幼児経過観察健康診査\n開催日は対象者に個別通知します。対象時期は目安ですので、詳しくは個別通知をご覧ください。",
+      "target": {
+        "targetPersons": "3歳児健康診査(おおよそ3歳3か月ごろ)",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "3歳児健康診査(おおよそ3歳3か月ごろ)"
+      },
+      "support": {
+        "description": "3歳児健康診査(おおよそ3歳3か月ごろ)",
+        "monetarySupport": null,
+        "materiallySupport": "3歳児健康診査(おおよそ3歳3か月ごろ)"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "開催日は対象者に個別通知します。対象時期は目安ですので、詳しくは個別通知をご覧ください。"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.miyake.tokyo.jp/kurashi/seikatsu_kankyou/ikuji_kyouiku/ninpu_nyuuyouji/akachan.html",
+        "title": "赤ちゃんが生まれた方"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "三宅村役場臨時庁舎　福祉健康課 健康係",
+        "contactPhone": "04994-5-0911",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1001212",
+        "contactAddress": "東京都三宅島三宅村阿古497"
+      },
+      "area": {
+        "areaCode": "133817;三宅村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+4000020133817+1+UM52",
+        "organization": "4000020133817",
+        "compartment": "福祉健康課 健康係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-19",
+        "updater": "三宅村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自立支援医療制度（精神通院医療）",
+        "shortName": "自立支援医療(精神通院)"
+      },
+      "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+      "description": null,
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "障害者自立支援法に基づき、原則、保険と公費で通院医療費の90%を負担する。ただし、自己負担10%に月額負担上限額が設けられており、世帯の所得や疾病等に応じて負担上限額が変わってきます。",
+        "monetarySupport": "障害者自立支援法に基づき、原則、保険と公費で通院医療費の90%を負担する。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "申請に必要なもの\n自立支援医療費(精神通院)支給認定申請書\n自立支援医療診断書(精神通院)\n同じ医療保険に加入している世帯全員分の所得が分かるもの(課税証明書など)\n保険証の写し\n(注1)生活保護を受給中の方は1、2と生活保護受給証明書を提出してください。\n(注2)更新の場合は、自立支援医療受給者証(精神通院)の写しも提出してください。\n\n福祉健康課の窓口にて書類をご用意しております。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.miyake.tokyo.jp/kurashi/hoken_nenkin_fukushi/fukushi/syougaisya/seishin.html",
+        "title": "精神障害のある方へ"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "三宅村役場臨時庁舎 福祉健康課 福祉係",
+        "contactPhone": "04994-5-0902",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1001212",
+        "contactAddress": "東京都三宅島三宅村阿古497"
+      },
+      "area": {
+        "areaCode": "133817;三宅村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+4000020133817+1+UM824",
+        "organization": "4000020133817",
+        "compartment": "三宅村役場臨時庁舎 福祉健康課 福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2025/02/28",
+        "updater": "三宅村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律",
+        "regulationArticle": "第58条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "025",
+          "027"
+        ],
+        "targetCode": [
+          "087",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "9ヶ月健康診査(9～10ヶ月)"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として乳幼児健康診査6か月から12か月児を実施しています。",
+      "description": "乳幼児健康診査\n乳児および幼児を対象に実施している健診は以下のとおりです。\n\n乳児健康診査(3～4ヶ月)\n6ヶ月健康診査(6～7ヶ月)\n9ヶ月健康診査(9～10ヶ月)\n1歳6か月児健康診査(おおよそ1歳7か月ごろ)\n3歳児健康診査(おおよそ3歳3か月ごろ)\n乳幼児経過観察健康診査\n開催日は対象者に個別通知します。対象時期は目安ですので、詳しくは個別通知をご覧ください。",
+      "target": {
+        "targetPersons": "9ヶ月健康診査(9～10ヶ月)",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 10
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 9
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "9ヶ月健康診査(9～10ヶ月)"
+      },
+      "support": {
+        "description": "9ヶ月健康診査(9～10ヶ月)",
+        "monetarySupport": null,
+        "materiallySupport": "9ヶ月健康診査(9～10ヶ月)"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "開催日は対象者に個別通知します。対象時期は目安ですので、詳しくは個別通知をご覧ください。"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.miyake.tokyo.jp/kurashi/seikatsu_kankyou/ikuji_kyouiku/ninpu_nyuuyouji/akachan.html",
+        "title": "赤ちゃんが生まれた方"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "三宅村役場臨時庁舎　福祉健康課 健康係",
+        "contactPhone": "04994-5-0911",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1001212",
+        "contactAddress": "東京都三宅島三宅村阿古497"
+      },
+      "area": {
+        "areaCode": "133817;三宅村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+4000020133817+2+UM50",
+        "organization": "4000020133817",
+        "compartment": "福祉健康課 健康係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-19",
+        "updater": "三宅村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

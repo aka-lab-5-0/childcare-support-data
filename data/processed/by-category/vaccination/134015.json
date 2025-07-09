@@ -1,0 +1,3082 @@
+{
+  "version": "2025-07-09T05:55:17.837Z",
+  "areaCode": "134015",
+  "areaName": "八丈町",
+  "category": "vaccination",
+  "count": 25,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "定期予防接種（二種混合（ＤＴ） ）"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "八丈町における定期予防接種（小児）について\n\n【接種会場】\n町立八丈病院小児科\n\n【集団接種実施時間】\n13時30分～15時30分 （予防接種の種類、接種予定者数によって変更することがあります）\n【予防接種に必要なもの】\n・母子手帳 ・予診票 ・診察券（町立八丈病院）※令和３年４月～\n【接種費用について】\n無料（保護者負担なし） （基本は無料ですが、定期予防接種期間から外れた場合は任意予防接種（有料）になります）\n【予約制個別予防接種について】\n八丈町では、集団予防接種の機会を逃してしまった方のために予約制の個別予防接種を毎月2回設けています。\n・実施日時\n　毎月、第2・第4木曜日 14時～16時　※集団接種と同時実施\n　（祝日等により変更あり、詳しくは毎月発行の広報をご覧ください）\n・予約締切日\n　予防接種実施日の1週間前の17時15分まで\n・予約、問い合わせ先\n　福祉健康課保健係　 ℡ ０４９９６－２－５５７０\n【通知方法について】\n１歳までのお子様には予防接種担当者が個別にスケジュールを作成し、お渡しします。\n１歳以降の定期予防接種対象となっているお子様には事前に個別通知します。\nなお、１歳以降のお子様でも希望される方には予防接種担当者がスケジュールのご相談に応じます。\n下記問い合わせ先までお問い合わせください。\n【定期予防接種問い合わせ先】\n福祉健康課保健係　 ℡ ０４９９６－２－５５７０\n【任意予防接種問い合わせ先】\n町立八丈病院 ℡ ０４９９６－２－１１８８\n\n・二種混合（ＤＴ）とは？\n三種混合及び四種混合４回接種を第１期とし、補助接種として二種混合（【ジフテリア】・【破傷風】）を１回接種する（第２期）\n・接種対象者\n三種混合及び四種混合の第１期の接種歴のある小学校６年生相当\n※三種混合及び四種混合の第１期を接種していなくても対象となるが、接種をしても抗体がつく可能性は低い。",
+      "target": {
+        "targetPersons": "三種混合及び四種混合の第１期の接種歴のある小学校６年生相当\n※三種混合及び四種混合の第１期を接種していなくても対象となるが、接種をしても抗体がつく可能性は低い。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "小学校６年生相当"
+      },
+      "support": {
+        "description": "予防接種",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種"
+      },
+      "cost": null,
+      "costConditions": "基本は無料ですが、定期予防接種期間から外れた場合は任意予防接種（有料）になります",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "13:30",
+        "toYMD": null,
+        "toHM": "15:30",
+        "conditions": "【集団接種実施時間】\n13時30分～15時30分（予防接種の種類、接種予定者数によって変更することがあります）"
+      },
+      "implementationPlace": {
+        "implementationName": "町立八丈病院小児科",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "１歳までのお子様には予防接種担当者が個別にスケジュールを作成し、お渡しします。\n１歳以降の定期予防接種対象となっているお子様には事前に個別通知します。\nなお、１歳以降のお子様でも希望される方には予防接種担当者がスケジュールのご相談に応じます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "・接種対象者\n三種混合及び四種混合の第１期の接種歴のある小学校６年生相当\n※三種混合及び四種混合の第１期を接種していなくても対象となるが、接種をしても抗体がつく可能性は低い。"
+      },
+      "electronicSubmission": false,
+      "belongings": "・母子手帳\n・予診票\n・診察券（町立八丈病院）※令和３年４月～",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "福祉健康課保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/kakuka/kenkou/vaccination.pdf",
+        "title": "八丈町小児予防接種スケジュール一覧表（令和５年度～）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+10+UM54",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊娠の届出・母子健康手帳の交付",
+        "shortName": "妊娠がわかったら行う手続き"
+      },
+      "summary": "妊娠がわかったら妊娠の届出をしてください。妊娠の届出をした妊婦さんに母子健康手帳を交付します。母子健康手帳は、妊娠からお子さんが小学校に入学するまでの、母と子の健康の記録です。育児、予防接種、健康診査などの際に必要となります。",
+      "description": "（１）妊娠がわかったら行う手続きは？？？ \n妊娠届・母子健康手帳の交付申請\n【届出場所】福祉健康課保健係\n【必要書類】妊娠証明書（医療機関発行のもの）\n【お問合せ先】福祉健康課保健係 ℡ 04996-2-5570",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "①妊娠証明書（医療機関発行のもの）\n ②印鑑",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "福祉健康課保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "http://www.town.hachijo.tokyo.jp/kokasen/wp-content/uploads/2016/04/6ffc5a0436b28d855f1d36e25bd6c2bd.pdf",
+        "title": "はちじょう子育てガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM1",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係,町立八丈病院（産婦人科）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2016-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第15条（妊娠の届出）、第16条（母子健康手帳）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "077",
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "新生児訪問",
+        "shortName": "新生児訪問"
+      },
+      "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+      "description": "（3）新生児訪問ってなに？？？\n出産後、自宅に戻られてから生後 1 か月以内に保健師等が、赤ちゃん（体重測定を実施します）やお母さんの様子を伺いに訪問します。今後の健診や予防接種の情報もお知らせします。（里帰り出産をされた方は帰島後に訪問します。）\n出生通知票を受理してから訪問しますので、忘れずに出生通知票を提出してください。\n【お問合せ先】福祉健康課保健係 ℡ 04996-2-5570",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後 1 か月以内"
+      },
+      "support": {
+        "description": "赤ちゃん（体重測定を実施します）やお母さんの様子を伺いに訪問します。今後の健診や予防接種の情報もお知らせします。",
+        "monetarySupport": null,
+        "materiallySupport": "赤ちゃん（体重測定を実施します）やお母さんの様子を伺いに訪問します。今後の健診や予防接種の情報もお知らせします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": "出産後、自宅に戻られてから生後 1 か月以内",
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "出生通知票を受理してから訪問しますので、忘れずに出生通知票を提出してください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "http://www.town.hachijo.tokyo.jp/kokasen/wp-content/uploads/2016/04/6ffc5a0436b28d855f1d36e25bd6c2bd.pdf",
+        "title": "はちじょう子育てガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM13",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2016-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第11条（新生児の訪問指導）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+        "shortName": "新生児訪問"
+      },
+      "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+      "description": "出産後、自宅に戻られてから生後 1 か月以内に保健師等が、赤ちゃん（体重測定を実施します）やお母さんの様子を伺いに訪問します。今後の健診や予防接種の情報もお知らせします。（里帰り出産をされた方はご相談ください。）\n出生通知票を受理してから訪問しますので、忘れずに出生通知票を提出してください。",
+      "target": {
+        "targetPersons": "生後 1 か月以内",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後 1 か月以内"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "出生通知票を提出",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/publication/kosodate.pdf",
+        "title": "はちじょう子育てガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM14",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2025-02-26",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第21条の10の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "ひとり親家庭医療費助成",
+        "shortName": "ひとり親家庭等医療費助成"
+      },
+      "summary": "ひとり親家庭の母または父、および、そのお子さんの医療費に対して助成を行います。",
+      "description": "ひとり親家庭等医療費助成\nひとり親家庭等の保健の向上と福祉の増進を目的として、児童とその養育者の医療費自己負担分のうち、一部または全部を助成します\n助成を受けるためには、「ひとり親家庭等医療証（マル親医療証）」の交付を受けることが必要です\n\n元の配偶者や親族以外の男性の方が同じ住所にいる場合や、別居の父または母に扶養されている場合、事実婚状態の場合は対象となりません\n\n証交付の対象者\n次のア～クのいずれかに該当する18歳に到達した年度の末日以前（身体障害者1～3級または愛の手帳1～3度程度の障害を有する場合は20歳未満）の児童を養育する方\n\nア　父母が離婚した児童\n\nイ　父または母が死亡した児童\n\nウ　父または母が生死不明である児童\n\nエ　父または母に1年以上遺棄されている児童\n\nオ　父または母が裁判所からのDV保護命令を受けた児童\n\nカ　父または母が法令により1年以上拘禁されている児童\n\nキ　父または母が重度の障害を有する児童（身体障害者手帳1・2級程度）\n\nク　婚姻によらないで生まれた児童\n\n※支給には所得制限があります\n\n所得制限額\n所得限度額（年額）\n|扶養親族|申請者（養育者）|扶養義務者、孤児等の養育者|\n|:----|:----|:----|\n|0人|1,920,000円|2,360,000円|\n|1人|2,300,000円|2,740,000円|\n|2人|2,680,000円|3,120,000円|\n|3人|3,060,000円|3,500,000円|\n|扶養一人あたりの加算額|380,000円|＜|\n\n※扶養義務者とは、申請者本人と同住所の親族（申請者の親、兄弟、子など）をいいます\n扶養義務者の所得にも制限額があります\n同住所であっても、光熱水費が別契約の場合は、別世帯とみなします\n\n※所得とは、所得金額、退職所得、山林所得、土地等にかかる事業所得などの合計に「養育費の8割」を合計した額です\nただし、所得の合計額から控除金額（社会保険料相当額として一律8万円、医療費控除等など）を差し引きます\n\n助成内容\n対象児童とその養育者の保険診療に係る医療費自己負担分のうち、一部または全部\n\nア　本人・扶養義務者ともに住民税非課税の方＝自己負担（3割）を全額助成\n\nイ　本人または扶養義務者が住民税課税の方＝自己負担（3割）のうち3分の2を助成\n\n助成対象外経費\n次のものは助成の対象となりません\n\nア　健康保険対象外経費（予防接種、診断書料、薬の容器代や差額ベッド代など）\n\nイ　入院時食事療養標準負担額、入院時生活療養費標準負担額\n\nウ　学校、保育園での怪我等により日本スポーツ振興センターが支給する医療費\n\nエ　加入する健康保険が支給する医療費（高額療養費等）\n\nひとり親家庭等医療証（マル親医療証）の使い方\n健康保険証と「ひとり親家庭等医療証（マル親医療証）」を、医療機関等の窓口に提示してください\n助成対象額を八丈町が医療機関（都内取扱医療機関のみ）に支払います\n次の場合は、「ひとり親家庭等医療証（マル親医療証）」の取り扱いができません\n医療機関等の窓口でいったん自己負担分をお支払いになり、後日「支給申請」をしてください\n\nア　「ひとり親家庭等医療証（マル親医療証）」交付前に医療機関を受診した場合\n\nイ　東京都以外の医療機関で受診した場合\n\nウ　「ひとり親家庭等医療証（マル親医療証）」を提示しなかった場合\n\n申請について\n「ひとり親家庭等医療証（マル親医療証）」の交付を受けるためには申請が必要です\n\n提出するもの\n1.受診者の氏名、保険点数等が記載された領収書の原本\n　※領収書は返却しません、必要な方はコピーをしてから原本を提出してください\n2.マル親医療助成費支給申請書\n\n※　10割支払った場合\n総医療費（10割分）を支払った場合（健康保険加入前等）は、まず加入健康保険組合から保健負担分が支払われます\n領収書や医師の証明書等のコピーをお手元に保管のうえ、加入健康保険組合に請求してください\n健康保険組合からの支給決定通知書と領収書等のコピーで支給申請をすることができます\nなお、八丈町国民健康保険にご加入の方は、支給決定通知書は必要ありません\n\n受給している方の諸手続き\n次の場合は、手続きが必要ですので届出をお願いします\n\nア　ひとり親家庭等医療証（マル親医療証）を紛失した場合など\n\nひとり親家庭等医療証を紛失した場合や、破れたり汚して使用できなくなった場合は、医療証の再交付を申請してください\n\nイ　申請事項の変更\n\n1.氏名変更\n\n2.住所変更\n\n3.加入保険変更\n受給者全員分の健康保険証コピーを添付してください\n\n4.同居親族等の変更\n転居等により同居になったあるいは同居でなくなった親族等を届出してください\n\nウ　受給資格の消滅\n\n下記の場合は、受給資格がないため消滅手続き後「ひとり親家庭等医療証（マル親医療証）」を返却してください\n\n1.受給者が島外へ転出したとき\n\n2.生活保護を受給することになったとき\n\n3.児童を監護、養育しなくなったとき\n\n4.児童が児童福祉施設等に入所したり、里親に委託されたとき\n\n5.受給者もしくは児童が死亡したとき\n\n6.受給者の婚姻（事実婚を含む）により、ひとり親家庭でなくなったとき\n\n7.その他受給資格に該当しなくなったとき\n\n現況届\n医療証は、毎年1月1日に更新します\n更新手続きのため、医療証の交付を受けている方は11月に現況届を提出してください\n提出についての案内を10月下旬に通知します\n現況届は前年の所得及び家族の状況を確認し、翌年1月から12月までの受給資格の有無を確認する大切な届出です\n提出された現況届を審査し、引き続き受給資格のある方へ、12月下旬に医療証を送付します。現況届の提出がない場合、受給資格があっても医療証を交付することはできません",
+      "target": {
+        "targetPersons": "次のア～クのいずれかに該当する18歳に到達した年度の末日以前（身体障害者1～3級または愛の手帳1～3度程度の障害を有する場合は20歳未満）の児童\n\nア　父母が離婚した児童\n\nイ　父または母が死亡した児童\n\nウ　父または母が生死不明である児童\n\nエ　父または母に1年以上遺棄されている児童\n\nオ　父または母が裁判所からのDV保護命令を受けた児童\n\nカ　父または母が法令により1年以上拘禁されている児童\n\nキ　父または母が重度の障害を有する児童（身体障害者手帳1・2級程度）\n\nク　婚姻によらないで生まれた児童\n\n※支給には所得制限があります",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "次のア～クのいずれかに該当する18歳に到達した年度の末日以前（身体障害者1～3級または愛の手帳1～3度程度の障害を有する場合は20歳未満）の児童\n\nア　父母が離婚した児童\n\nイ　父または母が死亡した児童\n\nウ　父または母が生死不明である児童\n\nエ　父または母に1年以上遺棄されている児童\n\nオ　父または母が裁判所からのDV保護命令を受けた児童\n\nカ　父または母が法令により1年以上拘禁されている児童\n\nキ　父または母が重度の障害を有する児童（身体障害者手帳1・2級程度）\n\nク　婚姻によらないで生まれた児童"
+      },
+      "support": {
+        "description": "対象児童とその養育者の保険診療に係る医療費自己負担分のうち、一部または全部\n\nア　本人・扶養義務者ともに住民税非課税の方＝自己負担（3割）を全額助成\n\nイ　本人または扶養義務者が住民税課税の方＝自己負担（3割）のうち3分の2を助成\n\n助成対象外経費\n次のものは助成の対象となりません\n\nア　健康保険対象外経費（予防接種、診断書料、薬の容器代や差額ベッド代など）\n\nイ　入院時食事療養標準負担額、入院時生活療養費標準負担額\n\nウ　学校、保育園での怪我等により日本スポーツ振興センターが支給する医療費\n\nエ　加入する健康保険が支給する医療費（高額療養費等）",
+        "monetarySupport": "対象児童とその養育者の保険診療に係る医療費自己負担分のうち、一部または全部\n\nア　本人・扶養義務者ともに住民税非課税の方＝自己負担（3割）を全額助成\n\nイ　本人または扶養義務者が住民税課税の方＝自己負担（3割）のうち3分の2を助成\n\n助成対象外経費\n次のものは助成の対象となりません\n\nア　健康保険対象外経費（予防接種、診断書料、薬の容器代や差額ベッド代など）\n\nイ　入院時食事療養標準負担額、入院時生活療養費標準負担額\n\nウ　学校、保育園での怪我等により日本スポーツ振興センターが支給する医療費\n\nエ　加入する健康保険が支給する医療費（高額療養費等）",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "ひとり親家庭等医療証（マル親医療証）の使い方\n健康保険証と「ひとり親家庭等医療証（マル親医療証）」を、医療機関等の窓口に提示してください\n助成対象額を八丈町が医療機関（都内取扱医療機関のみ）に支払います\n次の場合は、「ひとり親家庭等医療証（マル親医療証）」の取り扱いができません\n医療機関等の窓口でいったん自己負担分をお支払いになり、後日「支給申請」をしてください\n\nア　「ひとり親家庭等医療証（マル親医療証）」交付前に医療機関を受診した場合\n\nイ　東京都以外の医療機関で受診した場合\n\nウ　「ひとり親家庭等医療証（マル親医療証）」を提示しなかった場合",
+      "procedurePersons": null,
+      "procedureMethod": "「ひとり親家庭等医療証（マル親医療証）」の交付を受けるためには申請が必要です\n\n受給している方の諸手続き\n次の場合は、手続きが必要ですので届出をお願いします\n\nア　ひとり親家庭等医療証（マル親医療証）を紛失した場合など\n\nひとり親家庭等医療証を紛失した場合や、破れたり汚して使用できなくなった場合は、医療証の再交付を申請してください\n\nイ　申請事項の変更\n\n1.氏名変更\n\n2.住所変更\n\n3.加入保険変更\n受給者全員分の健康保険証コピーを添付してください\n\n4.同居親族等の変更\n転居等により同居になったあるいは同居でなくなった親族等を届出してください\n\nウ　受給資格の消滅\n\n下記の場合は、受給資格がないため消滅手続き後「ひとり親家庭等医療証（マル親医療証）」を返却してください\n\n1.受給者が島外へ転出したとき\n\n2.生活保護を受給することになったとき\n\n3.児童を監護、養育しなくなったとき\n\n4.児童が児童福祉施設等に入所したり、里親に委託されたとき\n\n5.受給者もしくは児童が死亡したとき\n\n6.受給者の婚姻（事実婚を含む）により、ひとり親家庭でなくなったとき\n\n7.その他受給資格に該当しなくなったとき\n\n現況届\n医療証は、毎年1月1日に更新します\n更新手続きのため、医療証の交付を受けている方は11月に現況届を提出してください\n提出についての案内を10月下旬に通知します\n現況届は前年の所得及び家族の状況を確認し、翌年1月から12月までの受給資格の有無を確認する大切な届出です\n提出された現況届を審査し、引き続き受給資格のある方へ、12月下旬に医療証を送付します。現況届の提出がない場合、受給資格があっても医療証を交付することはできません",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "医療証は、毎年1月1日に更新します\n更新手続きのため、医療証の交付を受けている方は11月に現況届を提出してください\n提出についての案内を10月下旬に通知します\n現況届は前年の所得及び家族の状況を確認し、翌年1月から12月までの受給資格の有無を確認する大切な届出です\n提出された現況届を審査し、引き続き受給資格のある方へ、12月下旬に医療証を送付します。現況届の提出がない場合、受給資格があっても医療証を交付することはできません"
+      },
+      "electronicSubmission": false,
+      "belongings": "受診者の氏名、保険点数等が記載された領収書の原本\n※領収書は返却しません、必要な方はコピーをしてから原本を提出してください",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/kakuka/kenkou/kenko_iryohi_h.html",
+        "title": "ひとり親家庭等医療費助成"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課厚生係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1001498",
+        "contactAddress": "東京都八丈島八丈町大賀郷2551番地2"
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM27",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課厚生係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "八丈町ひとり親家庭等の医療費の助成に関する条例",
+        "regulationArticle": "第1～11条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月未満児）",
+        "shortName": "3～4か月乳児・産婦健診"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として【3~4か月】児健康診査を実施しています。",
+      "description": "①3～4 か月児・産婦健康診査\n【対象】3～4 か月児とその産婦\n【必要なもの】①母子健康手帳\n②問診票（事前に送付します。）\n【健診会場】八丈町保健福祉センター\n※八丈町保健福祉センターで実施する健診は、実施時期、必要なものなどを記載した通知文を郵送します。病院で受けていただく健診は、個別に受診していただくため通知文が郵送されませんので、お子さまの対象年齢内で健診を受診していただくようお願いします。\n※未就学児のいる世帯で転入された方は、前自治体での健診や予防接種などの状況を確認したうえで、八丈町でのサービスについてお知らせしますのでお問合せください。\n【お問合せ先】福祉健康課保健係 ℡ 04996-2-5570",
+      "target": {
+        "targetPersons": "3～4か月児とその産婦",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 3
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "3～4 か月児"
+      },
+      "support": {
+        "description": "3～4 か月児・産婦健康診査",
+        "monetarySupport": null,
+        "materiallySupport": "3～4 か月児・産婦健康診査"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "八丈町保健福祉センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "八丈町保健福祉センターで実施する健診は、実施時期、必要なものなどを記載した通知文を郵送します。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/publication/kosodate.pdf",
+        "title": "はちじょう子育てガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM49",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2016-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "6～7か月乳児健診"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として乳幼児健康診査【6か月から7か月児】を実施しています。",
+      "description": "②6～7か月児健康診査、9～10ヶ月児健康診査\n【対象】6～7か月児、9～10か月児\n【必要なもの】①母子健康手帳\n②受診票（3～4か月児健診時に配布）\n③町立病院診察券\n④健康保険証\n【健診会場】町立八丈病院（都内委託医療機関でも健診は可能）\n【健診日時】毎週水曜日 13 時 15 分～14 時受付\n【その他】通知文が郵送されませんので個別に病院で受診してください。\n※八丈町保健福祉センターで実施する健診は、実施時期、必要なものなどを記載した通知文を郵送します。病院で受けていただく健診は、個別に受診していただくため通知文が郵送されませんので、お子さまの対象年齢内で健診を受診していただくようお願いします。\n※未就学児のいる世帯で転入された方は、前自治体での健診や予防接種などの状況を確認したうえで、八丈町でのサービスについてお知らせしますのでお問合せください。\n【お問合せ先】福祉健康課保健係 ℡ 04996-2-5570",
+      "target": {
+        "targetPersons": "6～7か月児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 7
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "6～7 か月児"
+      },
+      "support": {
+        "description": "6～7 か月児健康診査",
+        "monetarySupport": null,
+        "materiallySupport": "6～7 か月児健康診査"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "13:15",
+        "toYMD": null,
+        "toHM": "14:00",
+        "conditions": "毎週水曜日 13 時 15 分～14 時受付"
+      },
+      "implementationPlace": {
+        "implementationName": "町立八丈病院（都内委託医療機関でも健診は可能）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "通知文が郵送されませんので個別に病院で受診してください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "①母子健康手帳\n②受診票（3～4 か月児健診時に配布）\n③町立病院診察券\n④健康保険証",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/publication/kosodate.pdf",
+        "title": "はちじょう子育てガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM50",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2016-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "1歳6か月児健康診査",
+        "shortName": "1歳6か月児健診"
+      },
+      "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。八丈町では1歳6か月児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "③1歳6か月児健康診査\n【対象】1歳6ヶ月児\n【必要なもの】①母子健康手帳\n②問診票\n③いつも使用しているお子さんの歯ブラシ\n【健診会場】八丈町保健福祉センター\n【その他】歯科健診も同時に行います。\n※八丈町保健福祉センターで実施する健診は、実施時期、必要なものなどを記載した通知文を郵送します。病院で受けていただく健診は、個別に受診していただくため通知文が郵送されませんので、お子さまの対象年齢内で健診を受診していただくようお願いします。\n※未就学児のいる世帯で転入された方は、前自治体での健診や予防接種などの状況を確認したうえで、八丈町でのサービスについてお知らせしますのでお問合せください。\n【お問合せ先】福祉健康課保健係 ℡ 04996-2-5570",
+      "target": {
+        "targetPersons": "1歳6か月児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1 歳6ヶ月児"
+      },
+      "support": {
+        "description": "1歳6か月児健康診査",
+        "monetarySupport": null,
+        "materiallySupport": "1歳6か月児健康診査"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "八丈町保健福祉センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "八丈町保健福祉センターで実施する健診は、実施時期、必要なものなどを記載した通知文を郵送します。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳\nいつも使用しているお子さんの歯ブラシ",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/publication/kosodate.pdf",
+        "title": "はちじょう子育てガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM51",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2016-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "3歳児健康診査",
+        "shortName": "3歳児健診"
+      },
+      "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。八丈町では3歳児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "④3 歳児健康診査\n【対象】 3 歳児\n【必要なもの】①母子健康手帳\n②問診票\n③いつも使用しているお子さんの歯ブラシ\n④採尿した尿（事前に容器を送付します。）\n⑤目と耳のアンケート（事前に送付します。）\n【健診会場】八丈町保健福祉センター\n【その他】歯科健診も同時に行います。\n※八丈町保健福祉センターで実施する健診は、実施時期、必要なものなどを記載した通知文を郵送します。病院で受けていただく健診は、個別に受診していただくため通知文が郵送されませんので、お子さまの対象年齢内で健診を受診していただくようお願いします。\n※未就学児のいる世帯で転入された方は、前自治体での健診や予防接種などの状況を確認したうえで、八丈町でのサービスについてお知らせしますのでお問合せください。\n【お問合せ先】福祉健康課保健係 ℡ 04996-2-5570",
+      "target": {
+        "targetPersons": "3歳児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "3歳児"
+      },
+      "support": {
+        "description": "3歳児健康診査",
+        "monetarySupport": null,
+        "materiallySupport": "3歳児健康診査"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "八丈町保健福祉センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "八丈町保健福祉センターで実施する健診は、実施時期、必要なものなどを記載した通知文を郵送します。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳\nいつも使用しているお子さんの歯ブラシ\n採尿した尿（事前に容器を送付します。）\n目と耳のアンケート（事前に送付します。）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/publication/kosodate.pdf",
+        "title": "はちじょう子育てガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM52",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2016-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の乳幼児健診",
+        "shortName": "5 歳児健康診査・すこやか相談会"
+      },
+      "summary": "年に１度土曜日に健康診査を開催します。同時に歯科相談、栄養相談、心理相談など個別相談も行っています。",
+      "description": "⑤5歳児健康診査・すこやか相談会\n【対象】年度内に5 歳になる児\n【必要なもの】①母子健康手帳\n②問診票\n【健診会場】八丈町保健福祉センター\n※八丈町保健福祉センターで実施する健診は、実施時期、必要なものなどを記載した通知文を郵送します。病院で受けていただく健診は、個別に受診していただくため通知文が郵送されませんので、お子さまの対象年齢内で健診を受診していただくようお願いします。\n※未就学児のいる世帯で転入された方は、前自治体での健診や予防接種などの状況を確認したうえで、八丈町でのサービスについてお知らせしますのでお問合せください。\n【お問合せ先】福祉健康課保健係 ℡ 04996-2-5570",
+      "target": {
+        "targetPersons": "5歳児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 5,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 5,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "5歳児"
+      },
+      "support": {
+        "description": "5歳児健康診査・すこやか講演会",
+        "monetarySupport": null,
+        "materiallySupport": "5歳児健康診査・すこやか講演会"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "八丈町保健福祉センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "八丈町保健福祉センターで実施する健診は、実施時期、必要なものなどを記載した通知文を郵送します。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/publication/kosodate.pdf",
+        "title": "はちじょう子育てガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM53",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2016-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "定期予防接種（ヒブ（ｈｉｂ） ）"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "八丈町における定期予防接種（小児）について\n\n【接種会場】\n町立八丈病院小児科\n\n【集団接種実施時間】\n13時30分～15時30分 （予防接種の種類、接種予定者数によって変更することがあります）\n【予防接種に必要なもの】\n・母子手帳 ・予診票 ・診察券（町立八丈病院）※令和３年４月～\n【接種費用について】\n無料（保護者負担なし） （基本は無料ですが、定期予防接種期間から外れた場合は任意予防接種（有料）になります）\n【予約制個別予防接種について】\n八丈町では、集団予防接種の機会を逃してしまった方のために予約制の個別予防接種を毎月2回設けています。\n・実施日時\n　毎月、第2・第4木曜日 14時～16時　※集団接種と同時実施\n　（祝日等により変更あり、詳しくは毎月発行の広報をご覧ください）\n・予約締切日\n　予防接種実施日の1週間前の17時15分まで\n・予約、問い合わせ先\n　福祉健康課保健係　 ℡ ０４９９６－２－５５７０\n【通知方法について】\n１歳までのお子様には予防接種担当者が個別にスケジュールを作成し、お渡しします。\n１歳以降の定期予防接種対象となっているお子様には事前に個別通知します。\nなお、１歳以降のお子様でも希望される方には予防接種担当者がスケジュールのご相談に応じます。\n下記問い合わせ先までお問い合わせください。\n【定期予防接種問い合わせ先】\n福祉健康課保健係　 ℡ ０４９９６－２－５５７０\n【任意予防接種問い合わせ先】\n町立八丈病院 ℡ ０４９９６－２－１１８８\n\n・ヒブ（インフルエンザ菌ｂ型）とは？\n人から人に飛まつ感染します。感染するとかぜのような症状を示しますが、まれに脳と脊髄を包む膜に炎症（髄膜炎）をおこすことがあります。\nヒブワクチン導入以前は、日本ではヒブによる髄膜炎は一年間に400人くらいが発症し、そのうち約25％に永続的後遺症が残り、約5％が死亡すると\n考えられていました。しかし、ヒブワクチンの導入により髄膜炎の発症率は約98％減少したと報告されています。\n診断・治療が非常に難しい感染症ですが、ワクチン接種で予防することが可能です。\n・接種回数と間隔（通常）\n生後２ヶ月から接種可能。接種間隔を２７日以上あけて初回３回を接種。３回目接種後７月～１３月の間隔をあけて４回目接種。\n※接種開始月齢によって接種回数が変わります。詳しくは町役場福祉健康課保健係までお問合せください。",
+      "target": {
+        "targetPersons": "生後２ヶ月から接種可能。接種間隔を２７日以上あけて初回３回を接種。３回目接種後７月～１３月の間隔をあけて４回目接種。\n※接種開始月齢によって接種回数が変わります。詳しくは町役場福祉健康課保健係までお問合せください。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後２ヶ月から"
+      },
+      "support": {
+        "description": "予防接種",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種"
+      },
+      "cost": null,
+      "costConditions": "基本は無料ですが、定期予防接種期間から外れた場合は任意予防接種（有料）になります",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "13:30",
+        "toYMD": null,
+        "toHM": "15:30",
+        "conditions": "【集団接種実施時間】\n13時30分～15時30分（予防接種の種類、接種予定者数によって変更することがあります）"
+      },
+      "implementationPlace": {
+        "implementationName": "町立八丈病院小児科",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "１歳までのお子様には予防接種担当者が個別にスケジュールを作成し、お渡しします。\n１歳以降の定期予防接種対象となっているお子様には事前に個別通知します。\nなお、１歳以降のお子様でも希望される方には予防接種担当者がスケジュールのご相談に応じます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "・接種回数と間隔（通常）\n生後２ヶ月から接種可能。接種間隔を２７日以上あけて初回３回を接種。３回目接種後７月～１３月の間隔をあけて４回目接種。\n※接種開始月齢によって接種回数が変わります。詳しくは町役場福祉健康課保健係までお問合せください。"
+      },
+      "electronicSubmission": false,
+      "belongings": "・母子手帳\n・予診票\n・診察券（町立八丈病院）※令和３年４月～",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "福祉健康課保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/kakuka/kenkou/vaccination.pdf",
+        "title": "八丈町小児予防接種スケジュール一覧表（令和５年度～）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM54",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（1歳児歯科健康診査）",
+        "shortName": "１歳児歯科健康診査・計測会"
+      },
+      "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。【1歳児】歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+      "description": "⑥歯科健康診査\n【対象】 １歳児、2 歳児、4 歳児\n【必要なもの】①母子健康手帳\n②問診票（事前に送付します。）\n③いつも使用しているお子さんの歯ブラシ\n【健診会場】八丈町保健福祉センター\n※八丈町保健福祉センターで実施する健診は、実施時期、必要なものなどを記載した通知文を郵送します。病院で受けていただく健診は、個別に受診していただくため通知文が郵送されませんので、お子さまの対象年齢内で健診を受診していただくようお願いします。\n※未就学児のいる世帯で転入された方は、前自治体での健診や予防接種などの状況を確認したうえで、八丈町でのサービスについてお知らせしますのでお問合せください。\n【お問合せ先】福祉健康課保健係 ℡ 04996-2-5570",
+      "target": {
+        "targetPersons": "１歳児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "八丈町保健福祉センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "八丈町保健福祉センターで実施する健診は、実施時期、必要なものなどを記載した通知文を郵送します。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳\nいつも使用しているお子さんの歯ブラシ",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "http://www.town.hachijo.tokyo.jp/kokasen/wp-content/uploads/2016/04/6ffc5a0436b28d855f1d36e25bd6c2bd.pdf",
+        "title": "はちじょう子育てガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM792",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2016-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "一時預かり（一時保育）",
+        "shortName": "一時保育"
+      },
+      "summary": "保護者のパート就労や病気等による緊急時、育児疲れなどのリフレッシュのために、家庭において保育を受けることが一時的に困難となったお子さんを、保育園、幼稚園、地域子育て支援拠点などで一時的にお預かりしています。",
+      "description": "八丈町立あおぞら保育園\n☆一時保育とは、八丈町に住所がある方で保育園に入園されていないお子さんを育児をしている方が、冠婚葬祭や病院への通院等、何らかの理由により家庭における育児が一時的に困難となる場合にお預かりしています。\nあおぞら保育園\n所在地：八丈町中之郷２６１２番地１　　電話：04996-7-0083\n対象児童\n八丈町に住所を有する満１歳から就学前の児童\n利用時間・日数\n○利用時間は月曜日から金曜日の午前９時～午後５時までの間で希望する時間帯です。\n○土日・祝祭日・年末年始は休みです。\n○保育時間は児童１名につき１日4時間、１週間に3回までご利用できます。\n（同時刻3名まで児童をお預かりできます。）\n保育料（利用料）\n児童１名につき１時間350円です。（一時預かりと同額です。）\n昼食・おやつ\n預ける時間帯により昼食とおやつをはさむ場合で、事前に申し込みいただければ給食等の提供は可能です。\n 料金は４００円です。（どちらか一方でも同額）\n希望されない場合は、ご家庭で当日作ったものをお持ちください。\nお申込み手続き\n一時保育の予約は、利用月の前月１日から７日前までの間にあおぞら保育園へお申込みください。\n一時保育時のお願い\n●　２日前から発熱又は下痢・熱はないが元気・食欲がない等の場合は、必ず職員にご相談ください。また、予防接種した場合も職員にお伝えください。お子様の健康状態により、「一時保育」をご遠慮いただく場合がございます。あらかじめご了承ください。\n●　当日「一時保育」の時間に変更がある場合は、ご連絡をお願いします。\n●　アレルギー等がある場合は必ず職員にお伝えください。\n※どんな些細なことでも職員にお伝えください。\n一時保育時の持ち物\n①着替え（お子さんの日頃の生活に合わせてご用意ください）\n②おむつセット（おむつ・おしりふき・ビニール袋等）\n③ゴミ袋（ゴミはすべてお持ち帰りください）\n④飲み物（水筒） \n⑤フェイスタオル　１枚\n⑥ハンドタオル　1枚\n⑦ティッシュペーパー\n⑧パジャマ\n⑨歯磨きセット\n⑩『一時保育健康状態』　\n⑪『一時保育利用確認書』\n\n★下記は必要に応じて持たせてください。\n◎昼食（当日の朝、作ったもの）\n◎おやつ（普段、摂取しているもの・量）\n◎おしぼり（「おやつ」あるいは「昼食」持って利用する場合は、忘れずにご用意ください。）\n◎バスタオル　2枚　（シーツと上掛け代わりにします）　※布団は保育園で用意します。",
+      "target": {
+        "targetPersons": "八丈町に住所を有する満１歳から就学前の児童",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "満１歳から就学前の児童"
+      },
+      "support": {
+        "description": "何らかの理由により家庭における育児が一時的に困難となる場合にお預かりしています。",
+        "monetarySupport": null,
+        "materiallySupport": "何らかの理由により家庭における育児が一時的に困難となる場合にお預かりしています。"
+      },
+      "cost": "350",
+      "costConditions": "児童１名につき１時間350円",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "八丈町立あおぞら保育園",
+        "implementationAddress": "八丈町中之郷2612番地1"
+      },
+      "capacity": "同時刻3名まで",
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "月曜日から金曜日までの午前９時～午後５時までの希望する時間\n保育時間は児童１名につき１日４時間、１週間に３回まで"
+      },
+      "specificDate": null,
+      "holiday": "土日・祝祭日・年末年始",
+      "utilization": "お申込み手続き\n　一時保育の予約は、利用月の前月１日から７日前までの間にあおぞら保育園へお申込みください。\n一時保育時のお願い\n　●２日前から発熱（37.5℃）、下痢・熱はないが元気・食欲がない等の場合は、必ず職員にご相談ください。また、予防接種した場合も職員にお伝えください。お子様の健康状態により、「一時保育」をご遠慮いただく場合がございます。あらかじめご了承ください。\n　●当日「一時保育」の時間に変更がある場合は、ご連絡をお願いします。\n　●アレルギー等がある場合は必ず職員にお伝えください。\n　※どんな些細なことでも職員にお伝えください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "一時保育の予約は、利用月の前月１日から７日前までの間"
+      },
+      "electronicSubmission": false,
+      "belongings": "一時保育時の持ち物\n　①着替え（お子さんの日頃の生活に合わせてご用意ください）\n　②おむつセット（おむつ・おしりふき・ビニール袋等）\n　③ゴミ袋（ゴミはすべてお持ち帰りください）\n　④飲み物（水筒） \n　⑤フェイスタオル　１枚\n　⑥ハンドタオル　1枚\n　⑦ティッシュペーパー\n　⑧パジャマ\n　⑨歯磨きセット\n　⑩『一時保育健康状態』　\n　⑪『一時保育利用確認書』\n　\n　★下記は必要に応じて持たせてください。\n　◎昼食（当日の朝、作ったもの）\n　◎おやつ（普段、摂取しているもの・量）\n　◎おしぼり（「おやつ」あるいは「昼食」持って利用する場合は、忘れずにご用意ください。）\n　◎バスタオル　2枚　（シーツと上掛け代わりにします）　※布団は保育園で用意します。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "八丈町立あおぞら保育園",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/nursery/wp-content/uploads/2015/10/80fcbbea98fde331e29ab40c91c70b94-1.pdf",
+        "title": "一時保育のしおり"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "八丈町立あおぞら保育園",
+        "contactPhone": "04996-7-0083",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM83",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課厚生係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法、子ども・子育て支援法",
+        "regulationArticle": "第6条の3第7項、第21条の9、第59条第10号"
+      },
+      "tag": {
+        "categoryCode": [
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "9～10か月乳児健診"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として乳幼児健康診査【9か月から10か月児】を実施しています。",
+      "description": "②6～7か月児健康診査、9～10ヶ月児健康診査\n【対象】6～7か月児、9～10か月児\n【必要なもの】①母子健康手帳\n②受診票（3～4か月児健診時に配布）\n③町立病院診察券\n④健康保険証\n【健診会場】町立八丈病院（都内委託医療機関でも健診は可能）\n【健診日時】毎週水曜日 13 時 15 分～14 時受付\n【その他】通知文が郵送されませんので個別に病院で受診してください。\n※八丈町保健福祉センターで実施する健診は、実施時期、必要なものなどを記載した通知文を郵送します。病院で受けていただく健診は、個別に受診していただくため通知文が郵送されませんので、お子さまの対象年齢内で健診を受診していただくようお願いします。\n※未就学児のいる世帯で転入された方は、前自治体での健診や予防接種などの状況を確認したうえで、八丈町でのサービスについてお知らせしますのでお問合せください。\n【お問合せ先】福祉健康課保健係 ℡ 04996-2-5570",
+      "target": {
+        "targetPersons": "9～10か月児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 10
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 9
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "9～10 か月児"
+      },
+      "support": {
+        "description": "9～10 ヶ月児健康診査",
+        "monetarySupport": null,
+        "materiallySupport": "9～10 ヶ月児健康診査"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "13:15",
+        "toYMD": null,
+        "toHM": "14:00",
+        "conditions": "毎週水曜日 13 時 15 分～14 時受付"
+      },
+      "implementationPlace": {
+        "implementationName": "町立八丈病院（都内委託医療機関でも健診は可能）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "通知文が郵送されませんので個別に病院で受診してください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "①母子健康手帳\n②受診票（3～4 か月児健診時に配布）\n③町立病院診察券\n④健康保険証",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/publication/kosodate.pdf",
+        "title": "はちじょう子育てガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+2+UM50",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2016-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "定期予防接種（小児用肺炎球菌（１３価ワクチン））"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "八丈町における定期予防接種（小児）について\n\n【接種会場】\n町立八丈病院小児科\n\n【集団接種実施時間】\n13時30分～15時30分 （予防接種の種類、接種予定者数によって変更することがあります）\n【予防接種に必要なもの】\n・母子手帳 ・予診票 ・診察券（町立八丈病院）※令和３年４月～\n【接種費用について】\n無料（保護者負担なし） （基本は無料ですが、定期予防接種期間から外れた場合は任意予防接種（有料）になります）\n【予約制個別予防接種について】\n八丈町では、集団予防接種の機会を逃してしまった方のために予約制の個別予防接種を毎月2回設けています。\n・実施日時\n　毎月、第2・第4木曜日 14時～16時　※集団接種と同時実施\n　（祝日等により変更あり、詳しくは毎月発行の広報をご覧ください）\n・予約締切日\n　予防接種実施日の1週間前の17時15分まで\n・予約、問い合わせ先\n　福祉健康課保健係　 ℡ ０４９９６－２－５５７０\n【通知方法について】\n１歳までのお子様には予防接種担当者が個別にスケジュールを作成し、お渡しします。\n１歳以降の定期予防接種対象となっているお子様には事前に個別通知します。\nなお、１歳以降のお子様でも希望される方には予防接種担当者がスケジュールのご相談に応じます。\n下記問い合わせ先までお問い合わせください。\n【定期予防接種問い合わせ先】\n福祉健康課保健係　 ℡ ０４９９６－２－５５７０\n【任意予防接種問い合わせ先】\n町立八丈病院 ℡ ０４９９６－２－１１８８\n\n・小児用肺炎球菌とは？\n肺炎球菌がひきおこす主な感染症は、化膿性髄膜炎、菌血症、肺炎などの重い全身性の感染症や中耳炎、副鼻腔炎などの気道感染症があります。\n特に、肺炎球菌による子どもの化膿性髄膜炎は、初期症状がかぜに似ているため判別が難しいだけではなく、後遺症を残しやすく、死亡例も多いことが\n知られています。化膿性髄膜炎にかかる子どもの半分以上は０歳児であり、６ヶ月を過ぎると発症が増え、５歳ごろまでリスクがあります。\n近年は、ペニシリンなどの抗菌薬が効きにくい肺炎球菌が増えているため、治療が困難になってきています。\nそこでワクチンによる予防が特に大切になってきています。\n・接種回数と間隔（通常）（平成２５年１１月より１３価ワクチンを使用しています）\n生後２ヶ月から接種可能。接種間隔を２７日以上あけて初回３回を接種。３回目接種後６０日以上の間隔をあけて１歳に達してから４回目接種。\n※接種開始月齢によって接種回数が変わります。詳しくは町役場福祉健康課保健係までお問合せください。",
+      "target": {
+        "targetPersons": "生後２ヶ月から接種可能。接種間隔を２７日以上あけて初回３回を接種。３回目接種後６０日以上の間隔をあけて１歳に達してから４回目接種。\n※接種開始月齢によって接種回数が変わります。詳しくは町役場福祉健康課保健係までお問合せください。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後２ヶ月から"
+      },
+      "support": {
+        "description": "予防接種",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種"
+      },
+      "cost": null,
+      "costConditions": "基本は無料ですが、定期予防接種期間から外れた場合は任意予防接種（有料）になります",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "13:30",
+        "toYMD": null,
+        "toHM": "15:30",
+        "conditions": "【集団接種実施時間】\n13時30分～15時30分（予防接種の種類、接種予定者数によって変更することがあります）"
+      },
+      "implementationPlace": {
+        "implementationName": "町立八丈病院小児科",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "１歳までのお子様には予防接種担当者が個別にスケジュールを作成し、お渡しします。\n１歳以降の定期予防接種対象となっているお子様には事前に個別通知します。\nなお、１歳以降のお子様でも希望される方には予防接種担当者がスケジュールのご相談に応じます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "・接種回数と間隔（通常）（平成２５年１１月より１３価ワクチンを使用しています）\n生後２ヶ月から接種可能。接種間隔を２７日以上あけて初回３回を接種。３回目接種後６０日以上の間隔をあけて１歳に達してから４回目接種。\n※接種開始月齢によって接種回数が変わります。詳しくは町役場福祉健康課保健係までお問合せください。"
+      },
+      "electronicSubmission": false,
+      "belongings": "・母子手帳\n・予診票\n・診察券（町立八丈病院）※令和３年４月～",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "福祉健康課保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/kakuka/kenkou/vaccination.pdf",
+        "title": "八丈町小児予防接種スケジュール一覧表（令和５年度～）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+2+UM54",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の医療費助成制度",
+        "shortName": "定期予防接種（小児）島外接種費用扶助（償還払い制度）"
+      },
+      "summary": "八丈町では、やむを得ない理由により当該施設にて定期予防接種を受ける方へ償還払い制度を実施しています。本制度をご利用される方は福祉健康課　保健係までご相談ください。",
+      "description": "八丈町では、やむを得ない理由により当該施設にて定期予防接種を受ける方へ償還払い制度を実施しています。本制度をご利用される方は福祉健康課　保健係までご相談ください。\n\n【対象期間】\n\n令和６年４月１日～令和７年３月３１日までの接種\n【扶助対象者】\n\n①里帰り出産その他の理由により、一定期間、島外へ居住する方\n②長期にわたり医療機関等に入院または入所している方\n③疾病等により島内医療機関での定期予防接種が困難な方\n④その他やむを得ない理由により島外医療機関での定期予防接種が必要と認められる方\n旅行、レジャー等での長期滞在期間に接種を希望する方は対象外です！\n【対象ワクチン】\n\n小児定期予防接種範囲内\n【手続き方法】\n\n①福祉健康課保健係へ制度利用希望の旨連絡\n②八丈町へ「費用扶助申請書」を提出（事前申請）\n※接種する医療機関や八丈町にて作成する依頼文の送付先はご自身にて事前にご確認ください。\n③八丈町へ「費用扶助費支給申請書」を提出（事後）\n＜必要書類＞\n・母子手帳の写しまたは医療機関にて発行の予防接種済証\n・領収書等支払ったこと及びその金額を確認できる書類\n【様式ダウンロード】\n\n・令和６年度定期予防接種（小児）費用扶助申請書 　　　　PDF形式;https://www.town.hachijo.tokyo.jp/kakuka/kenkou/form/redemption01.pdf　　Word形式;https://www.town.hachijo.tokyo.jp/kakuka/kenkou/form/redemption01.doc\n・令和６年度定期予防接種（小児）費用扶助費支給申請書　PDF形式;https://www.town.hachijo.tokyo.jp/kakuka/kenkou/form/redemption02.pdf　　Word形式;https://www.town.hachijo.tokyo.jp/kakuka/kenkou/form/redemption02.doc\n【注意事項】\n\n・依頼文の作成には1週間ほどかかる場合がありますので、余裕を持った申請をお願いします。\n・請求は接種日から1年以内となります。また、扶助額には上限があります。\n扶助単価（助成限度額）\n令和６年度の扶助単価は以下のとおりです。接種における自己負担額と扶助単価のいずれか低いほうの金額を扶助します。\n\n|接種ワクチン|扶助額（接種1回あたり、税込）|\n|:----|:----|\n|四種混合|13,500円|\n|五種混合|22,440円|\n|二種混合|6,600円|\n|小児用肺炎球菌|14,300円|\n|麻しん風しん混合|13,090円|\n|水痘|11,110円|\n|日本脳炎（乳幼児）|9,900円|\n|日本脳炎|8,690円|\n|B型肝炎|8,580円|\n|子宮頸がん|29,370円|\n|BCG（結核）|13,530円|\n|ヒブ|10,780円|\n|ロタ（ロタテック）|11,990円|\n|ロタ（ロタリックス）|17,050円|\n\n予約・問い合わせ\n〒100-1498　東京都八丈島八丈町大賀郷2551番地2\n八丈町　福祉健康課保健係\n電話番号　04996-2-5570",
+      "target": {
+        "targetPersons": "①里帰り出産その他の理由により、一定期間、島外へ居住する方\n②長期にわたり医療機関等に入院または入所している方\n③疾病等により島内医療機関での定期予防接種が困難な方\n④その他やむを得ない理由により島外医療機関での定期予防接種が必要と認められる方\n旅行、レジャー等での長期滞在期間に接種を希望する方は対象外です！",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "扶助単価（助成限度額）\n令和６年度の扶助単価は以下のとおりです。接種における自己負担額と扶助単価のいずれか低いほうの金額を扶助します。\n\n|接種ワクチン|扶助額（接種1回あたり、税込）|\n|:----|:----|\n|四種混合|13,500円|\n|五種混合|22,440円|\n|二種混合|6,600円|\n|小児用肺炎球菌|14,300円|\n|麻しん風しん混合|13,090円|\n|水痘|11,110円|\n|日本脳炎（乳幼児）|9,900円|\n|日本脳炎|8,690円|\n|B型肝炎|8,580円|\n|子宮頸がん|29,370円|\n|BCG（結核）|13,530円|\n|ヒブ|10,780円|\n|ロタ（ロタテック）|11,990円|\n|ロタ（ロタリックス）|17,050円|\n",
+        "monetarySupport": "扶助単価（助成限度額）\n令和６年度の扶助単価は以下のとおりです。接種における自己負担額と扶助単価のいずれか低いほうの金額を扶助します。\n\n|接種ワクチン|扶助額（接種1回あたり、税込）|\n|:----|:----|\n|四種混合|13,500円|\n|五種混合|22,440円|\n|二種混合|6,600円|\n|小児用肺炎球菌|14,300円|\n|麻しん風しん混合|13,090円|\n|水痘|11,110円|\n|日本脳炎（乳幼児）|9,900円|\n|日本脳炎|8,690円|\n|B型肝炎|8,580円|\n|子宮頸がん|29,370円|\n|BCG（結核）|13,530円|\n|ヒブ|10,780円|\n|ロタ（ロタテック）|11,990円|\n|ロタ（ロタリックス）|17,050円|\n",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "①福祉健康課保健係へ連絡\n②【事前申請】「費用扶助申請書」提出\n・実施依頼医療機関（自治体）の確認が必要\n③【事後請求】「費用扶助費支給申請書」提出",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "・接種日から１年間は申請（請求）可能です\nただし、上限額は申請年度の金額となります"
+      },
+      "electronicSubmission": false,
+      "belongings": "・母子手帳の写しまたは予防接種済証\n・接種費用を支払ったこと及びその額を確認できる書類",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "福祉健康課保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/kakuka/kenkou/kenko_redemption.html",
+        "title": "定期予防接種（小児）島外接種費用扶助（償還払い制度）について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1001498",
+        "contactAddress": "東京都八丈島八丈町大賀郷2551番地2"
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+2+UM66",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（2歳児歯科健康診査）",
+        "shortName": "２歳児歯科健康診査"
+      },
+      "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。【2歳児】歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+      "description": "⑥歯科健康診査\n【対象】 １歳児、2 歳児、4 歳児\n【必要なもの】①母子健康手帳\n②問診票（事前に送付します。）\n③いつも使用しているお子さんの歯ブラシ\n【健診会場】八丈町保健福祉センター\n※八丈町保健福祉センターで実施する健診は、実施時期、必要なものなどを記載した通知文を郵送します。病院で受けていただく健診は、個別に受診していただくため通知文が郵送されませんので、お子さまの対象年齢内で健診を受診していただくようお願いします。\n※未就学児のいる世帯で転入された方は、前自治体での健診や予防接種などの状況を確認したうえで、八丈町でのサービスについてお知らせしますのでお問合せください。\n【お問合せ先】福祉健康課保健係 ℡ 04996-2-5570",
+      "target": {
+        "targetPersons": "２歳児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "八丈町保健福祉センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "八丈町保健福祉センターで実施する健診は、実施時期、必要なものなどを記載した通知文を郵送します。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳\nいつも使用しているお子さんの歯ブラシ",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "http://www.town.hachijo.tokyo.jp/kokasen/wp-content/uploads/2016/04/6ffc5a0436b28d855f1d36e25bd6c2bd.pdf",
+        "title": "はちじょう子育てガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+2+UM792",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2016-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "定期予防接種（B型肝炎）"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "八丈町における定期予防接種（小児）について\n\n【接種会場】\n町立八丈病院小児科\n\n【集団接種実施時間】\n13時30分～15時30分 （予防接種の種類、接種予定者数によって変更することがあります）\n【予防接種に必要なもの】\n・母子手帳 ・予診票 ・診察券（町立八丈病院）※令和３年４月～\n【接種費用について】\n無料（保護者負担なし） （基本は無料ですが、定期予防接種期間から外れた場合は任意予防接種（有料）になります）\n【予約制個別予防接種について】\n八丈町では、集団予防接種の機会を逃してしまった方のために予約制の個別予防接種を毎月2回設けています。\n・実施日時\n　毎月、第2・第4木曜日 14時～16時　※集団接種と同時実施\n　（祝日等により変更あり、詳しくは毎月発行の広報をご覧ください）\n・予約締切日\n　予防接種実施日の1週間前の17時15分まで\n・予約、問い合わせ先\n　福祉健康課保健係　 ℡ ０４９９６－２－５５７０\n【通知方法について】\n１歳までのお子様には予防接種担当者が個別にスケジュールを作成し、お渡しします。\n１歳以降の定期予防接種対象となっているお子様には事前に個別通知します。\nなお、１歳以降のお子様でも希望される方には予防接種担当者がスケジュールのご相談に応じます。\n下記問い合わせ先までお問い合わせください。\n【定期予防接種問い合わせ先】\n福祉健康課保健係　 ℡ ０４９９６－２－５５７０\n【任意予防接種問い合わせ先】\n町立八丈病院 ℡ ０４９９６－２－１１８８\n\n・Ｂ型肝炎とは？\nＢ型肝炎ウイルスに感染しておこる肝臓の病気です。ウイルスに汚染された血液や体液などを介して感染します。ウイルスの持続感染者をキャリアと呼\nび、将来、慢性肝炎・肝硬変・肝がんになる可能性が高く、5歳未満の乳幼児期に感染するとキャリアになる率が高いことも知られています。\nワクチンによる予防が大切です。\n・接種対象者、接種回数と間隔（平成28年10月より定期化）\n【接種対象者】\n生後2ヶ月から1歳に至るまでが定期予防接種対象者\n※母子感染予防として出生後にB型肝炎の接種を受けた方は定期接種対象外\n【接種回数と間隔】\n接種間隔を２７日以上あけて初回２回を接種。１回目接種後１３９日以上の間隔をあけて３回目接種。",
+      "target": {
+        "targetPersons": "生後2ヶ月から1歳に至るまでが定期予防接種対象者\n※母子感染予防として出生後にB型肝炎の接種を受けた方は定期接種対象外\n【接種回数と間隔】\n接種間隔を２７日以上あけて初回２回を接種。１回目接種後１３９日以上の間隔をあけて３回目接種。",
+        "lessThan": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後2ヶ月から1歳に至るまで"
+      },
+      "support": {
+        "description": "予防接種",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種"
+      },
+      "cost": null,
+      "costConditions": "基本は無料ですが、定期予防接種期間から外れた場合は任意予防接種（有料）になります",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "13:30",
+        "toYMD": null,
+        "toHM": "15:30",
+        "conditions": "【集団接種実施時間】\n13時30分～15時30分（予防接種の種類、接種予定者数によって変更することがあります）"
+      },
+      "implementationPlace": {
+        "implementationName": "町立八丈病院小児科",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "１歳までのお子様には予防接種担当者が個別にスケジュールを作成し、お渡しします。\n１歳以降の定期予防接種対象となっているお子様には事前に個別通知します。\nなお、１歳以降のお子様でも希望される方には予防接種担当者がスケジュールのご相談に応じます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "・接種対象者、接種回数と間隔（平成28年10月より定期化）\n【接種対象者】\n生後2ヶ月から1歳に至るまでが定期予防接種対象者\n※母子感染予防として出生後にB型肝炎の接種を受けた方は定期接種対象外\n【接種回数と間隔】\n接種間隔を２７日以上あけて初回２回を接種。１回目接種後１３９日以上の間隔をあけて３回目接種。"
+      },
+      "electronicSubmission": false,
+      "belongings": "・母子手帳\n・予診票\n・診察券（町立八丈病院）※令和３年４月～",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "福祉健康課保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/kakuka/kenkou/vaccination.pdf",
+        "title": "八丈町小児予防接種スケジュール一覧表（令和５年度～）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+3+UM54",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（4歳児歯科健康診査）",
+        "shortName": "４歳児歯科健康診査"
+      },
+      "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。【4歳児】歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+      "description": "⑥歯科健康診査\n【対象】 １歳児、2 歳児、4 歳児\n【必要なもの】①母子健康手帳\n②問診票（事前に送付します。）\n③いつも使用しているお子さんの歯ブラシ\n【健診会場】八丈町保健福祉センター\n※八丈町保健福祉センターで実施する健診は、実施時期、必要なものなどを記載した通知文を郵送します。病院で受けていただく健診は、個別に受診していただくため通知文が郵送されませんので、お子さまの対象年齢内で健診を受診していただくようお願いします。\n※未就学児のいる世帯で転入された方は、前自治体での健診や予防接種などの状況を確認したうえで、八丈町でのサービスについてお知らせしますのでお問合せください。\n【お問合せ先】福祉健康課保健係 ℡ 04996-2-5570",
+      "target": {
+        "targetPersons": "４歳児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 4,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 4,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "八丈町保健福祉センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "八丈町保健福祉センターで実施する健診は、実施時期、必要なものなどを記載した通知文を郵送します。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳\nいつも使用しているお子さんの歯ブラシ",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "http://www.town.hachijo.tokyo.jp/kokasen/wp-content/uploads/2016/04/6ffc5a0436b28d855f1d36e25bd6c2bd.pdf",
+        "title": "はちじょう子育てガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+3+UM792",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2016-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "定期予防接種（ロタテック）"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "八丈町における定期予防接種（小児）について\n\n【接種会場】\n町立八丈病院小児科\n\n【集団接種実施時間】\n13時30分～15時30分 （予防接種の種類、接種予定者数によって変更することがあります）\n【予防接種に必要なもの】\n・母子手帳 ・予診票 ・診察券（町立八丈病院）※令和３年４月～\n【接種費用について】\n無料（保護者負担なし） （基本は無料ですが、定期予防接種期間から外れた場合は任意予防接種（有料）になります）\n【予約制個別予防接種について】\n八丈町では、集団予防接種の機会を逃してしまった方のために予約制の個別予防接種を毎月2回設けています。\n・実施日時\n　毎月、第2・第4木曜日 14時～16時　※集団接種と同時実施\n　（祝日等により変更あり、詳しくは毎月発行の広報をご覧ください）\n・予約締切日\n　予防接種実施日の1週間前の17時15分まで\n・予約、問い合わせ先\n　福祉健康課保健係　 ℡ ０４９９６－２－５５７０\n【通知方法について】\n１歳までのお子様には予防接種担当者が個別にスケジュールを作成し、お渡しします。\n１歳以降の定期予防接種対象となっているお子様には事前に個別通知します。\nなお、１歳以降のお子様でも希望される方には予防接種担当者がスケジュールのご相談に応じます。\n下記問い合わせ先までお問い合わせください。\n【定期予防接種問い合わせ先】\n福祉健康課保健係　 ℡ ０４９９６－２－５５７０\n【任意予防接種問い合わせ先】\n町立八丈病院 ℡ ０４９９６－２－１１８８\n\n・ロタウイルス感染症とは？\nロタウイルスによって引き起こされる急性の胃腸炎で、乳幼児期（０～６歳ころ）にかかりやすい病気です。ロタウイルスは感染力が強く、ごくわずか\nなウイルスが体内に入るだけで感染してしまいます。ふつう、５歳までにほぼすべての子どもがロタウイルスに感染するといわれています。\n大人はロタウイルスの感染を何度も経験しているため、ほどんどの場合、軽い症状ですむか、症状が出ません。しかし、乳幼児は、激しい症状が出るこ\nとが多く、特に初めて感染したときに症状が強く出ます。主な症状は、水のような下痢、吐き気、嘔吐、発熱、腹痛です。脱水症状がひどくなると点滴\nが必要となったり、入院が必要になることがあります。5歳までの急性胃腸炎の入院患者のうち、４０～５０％前後はロタウイルスが原因です。\n特異的な治療法はなく、予防にはロタウイルスワクチンの接種を受けることが最も効果があるとされています。\n・ロタウイルスワクチンについて\nロタウイルスワクチンには次の2種類のワクチンがあります。\n①ロタテック（５価ワクチン）　・・・　１回　 ２ｍＬ経口生ワクチン／３回接種　※八丈町では基本ロタテックを使用しています\n②ロタリックス（１価ワクチン）・・・　１回１.５ｍＬ経口生ワクチン／２回接種\n※両ワクチンともに吐き出した場合、再投与は必要ありません\n・副反応（腸重積症）について\n腸重積症は、ロタウイルスワクチンの接種に関わらず、乳幼児が罹患することのある疾患で、まれな病気ではありません。\n0歳児は、月齢が進むと腸重積症という病気にかかりやすくなります。腸の一部が隣接する腸管にはまり込み、腸の血流が悪くなることで腸の組織に障\n害をおこすことがあるため、速やかな治療が必要となります。接種を受けた後に腸重積症を発症する可能性もあるため、特に接種を受けてから約１～２\n週間の間に「突然はげしく泣く」、「機嫌が良かったり不機嫌になったりを繰り返す」、「嘔吐する」、「血便が出る」、「ぐったりして顔色が悪い」\nなどの症状が一つでもみられた場合や、いつもと様子が違うと感じた場合は速やかに医療機関を受診してください。\n・接種対象期間、接種間隔（令和２年１０月より定期化）※令和２年８月１日以降に生まれた方が対象\n接種対象期間は生後６週から３２週（ロタリックスは２４週）\n初回接種は通常、生後２か月～１４週６日までに接種　※１５週以降の初回接種は副反応等の安全性の観点からお勧めしていません。\n接種間隔は２７日以上の間隔をあけて接種（回数は上記のとおり）",
+      "target": {
+        "targetPersons": "接種対象期間は生後６週から３２週（ロタリックスは２４週）\n初回接種は通常、生後２か月～１４週６日までに接種　※１５週以降の初回接種は副反応等の安全性の観点からお勧めしていません。\n接種間隔は２７日以上の間隔をあけて接種（回数は上記のとおり）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後６週から３２週"
+      },
+      "support": {
+        "description": "予防接種",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種"
+      },
+      "cost": null,
+      "costConditions": "基本は無料ですが、定期予防接種期間から外れた場合は任意予防接種（有料）になります",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "13:30",
+        "toYMD": null,
+        "toHM": "15:30",
+        "conditions": "【集団接種実施時間】\n13時30分～15時30分（予防接種の種類、接種予定者数によって変更することがあります）"
+      },
+      "implementationPlace": {
+        "implementationName": "町立八丈病院小児科",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "１歳までのお子様には予防接種担当者が個別にスケジュールを作成し、お渡しします。\n１歳以降の定期予防接種対象となっているお子様には事前に個別通知します。\nなお、１歳以降のお子様でも希望される方には予防接種担当者がスケジュールのご相談に応じます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "・接種対象期間、接種間隔（令和２年１０月より定期化）※令和２年８月１日以降に生まれた方が対象\n接種対象期間は生後６週から３２週（ロタリックスは２４週）\n初回接種は通常、生後２か月～１４週６日までに接種　※１５週以降の初回接種は副反応等の安全性の観点からお勧めしていません。\n接種間隔は２７日以上の間隔をあけて接種（回数は上記のとおり）"
+      },
+      "electronicSubmission": false,
+      "belongings": "・母子手帳\n・予診票\n・診察券（町立八丈病院）※令和３年４月～",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "福祉健康課保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/kakuka/kenkou/vaccination.pdf",
+        "title": "八丈町小児予防接種スケジュール一覧表（令和５年度～）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+4+UM54",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "定期予防接種（四種混合（ＤＰＴ-ＩPV））"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "八丈町における定期予防接種（小児）について\n\n【接種会場】\n町立八丈病院小児科\n\n【集団接種実施時間】\n13時30分～15時30分 （予防接種の種類、接種予定者数によって変更することがあります）\n【予防接種に必要なもの】\n・母子手帳 ・予診票 ・診察券（町立八丈病院）※令和３年４月～\n【接種費用について】\n無料（保護者負担なし） （基本は無料ですが、定期予防接種期間から外れた場合は任意予防接種（有料）になります）\n【予約制個別予防接種について】\n八丈町では、集団予防接種の機会を逃してしまった方のために予約制の個別予防接種を毎月2回設けています。\n・実施日時\n　毎月、第2・第4木曜日 14時～16時　※集団接種と同時実施\n　（祝日等により変更あり、詳しくは毎月発行の広報をご覧ください）\n・予約締切日\n　予防接種実施日の1週間前の17時15分まで\n・予約、問い合わせ先\n　福祉健康課保健係　 ℡ ０４９９６－２－５５７０\n【通知方法について】\n１歳までのお子様には予防接種担当者が個別にスケジュールを作成し、お渡しします。\n１歳以降の定期予防接種対象となっているお子様には事前に個別通知します。\nなお、１歳以降のお子様でも希望される方には予防接種担当者がスケジュールのご相談に応じます。\n下記問い合わせ先までお問い合わせください。\n【定期予防接種問い合わせ先】\n福祉健康課保健係　 ℡ ０４９９６－２－５５７０\n【任意予防接種問い合わせ先】\n町立八丈病院 ℡ ０４９９６－２－１１８８\n\n・四種混合で予防できる感染症とは？\n【ジフテリア】\nジフテリアは、国内ではほとんど発症をみていませんが、ロシアなどで以前流行がありました。かかると重い病気で呼吸困難をおこし、死亡に至る場合\nもあります。心臓や神経がおかされ心臓麻痺や神経麻痺をおこすことがあって、大変危険です。ワクチンで予防できます。\n【破傷風】\n破傷風は、ケガをしたときに傷口から破傷風菌が入っておこる病気です。傷口が小さくても危険です。破傷風菌の出す毒素は、神経麻痺、筋肉の激しい\nけいれんや呼吸困難などをおこします。発病した場合は、死亡率が高い病気で、予防はワクチン接種が最も有効です。\n【百日せき】\n百日せきは百日せき菌の飛沫感染でおこり、普通のかぜのような症状で始まり、続いてせきがひどくなり、顔をまっ赤にして連続性にせきこむようにな\nります。熱は出ません。乳幼児はせきで呼吸ができず、けいれんがおこることがあります。肺炎や脳症などの重い合併症をおこし、乳児では命を落とす\nこともあります。\n【ポリオ】\nポリオは「小児まひ」とも呼ばれ、ポリオウイルスによって四肢に麻痺をおこす病気です。わが国ではワクチンの高い接種率により自然感染による患者\n発生はありません。しかし、一部の国では今でもポリオの流行があり、このウイルスがいつ国内に入ってくるかわかりません。また、それらの国々に出\nかける時に抗体がないと感染する危険があります。そのため現在でもポリオワクチンによる予防は欠かせません。\n・接種回数と間隔（通常）※令和５年４月より接種開始時期変更　生後３か月→生後２か月\n生後２ヶ月※から接種可能。接種間隔を２０日以上あけて初回３回を接種。３回目接種後１２月～１８月の間隔をあけて４回目接種。",
+      "target": {
+        "targetPersons": "生後２ヶ月※から接種可能。接種間隔を２０日以上あけて初回３回を接種。３回目接種後１２月～１８月の間隔をあけて４回目接種。\n※令和５年４月より接種開始時期変更　生後３か月→生後２か月",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後２ヶ月※から\n※令和５年４月より接種開始時期変更　生後３か月→生後２か月"
+      },
+      "support": {
+        "description": "予防接種",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種"
+      },
+      "cost": null,
+      "costConditions": "基本は無料ですが、定期予防接種期間から外れた場合は任意予防接種（有料）になります",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "13:30",
+        "toYMD": null,
+        "toHM": "15:30",
+        "conditions": "【集団接種実施時間】\n13時30分～15時30分（予防接種の種類、接種予定者数によって変更することがあります）"
+      },
+      "implementationPlace": {
+        "implementationName": "町立八丈病院小児科",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "１歳までのお子様には予防接種担当者が個別にスケジュールを作成し、お渡しします。\n１歳以降の定期予防接種対象となっているお子様には事前に個別通知します。\nなお、１歳以降のお子様でも希望される方には予防接種担当者がスケジュールのご相談に応じます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "・接種回数と間隔（通常）※令和５年４月より接種開始時期変更　生後３か月→生後２か月\n生後２ヶ月※から接種可能。接種間隔を２０日以上あけて初回３回を接種。３回目接種後１２月～１８月の間隔をあけて４回目接種。"
+      },
+      "electronicSubmission": false,
+      "belongings": "・母子手帳\n・予診票\n・診察券（町立八丈病院）※令和３年４月～",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "福祉健康課保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/kakuka/kenkou/vaccination.pdf",
+        "title": "八丈町小児予防接種スケジュール一覧表（令和５年度～）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+5+UM54",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "定期予防接種（BCG）"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "八丈町における定期予防接種（小児）について\n\n【接種会場】\n町立八丈病院小児科\n\n【集団接種実施時間】\n13時30分～15時30分 （予防接種の種類、接種予定者数によって変更することがあります）\n【予防接種に必要なもの】\n・母子手帳 ・予診票 ・診察券（町立八丈病院）※令和３年４月～\n【接種費用について】\n無料（保護者負担なし） （基本は無料ですが、定期予防接種期間から外れた場合は任意予防接種（有料）になります）\n【予約制個別予防接種について】\n八丈町では、集団予防接種の機会を逃してしまった方のために予約制の個別予防接種を毎月2回設けています。\n・実施日時\n　毎月、第2・第4木曜日 14時～16時　※集団接種と同時実施\n　（祝日等により変更あり、詳しくは毎月発行の広報をご覧ください）\n・予約締切日\n　予防接種実施日の1週間前の17時15分まで\n・予約、問い合わせ先\n　福祉健康課保健係　 ℡ ０４９９６－２－５５７０\n【通知方法について】\n１歳までのお子様には予防接種担当者が個別にスケジュールを作成し、お渡しします。\n１歳以降の定期予防接種対象となっているお子様には事前に個別通知します。\nなお、１歳以降のお子様でも希望される方には予防接種担当者がスケジュールのご相談に応じます。\n下記問い合わせ先までお問い合わせください。\n【定期予防接種問い合わせ先】\n福祉健康課保健係　 ℡ ０４９９６－２－５５７０\n【任意予防接種問い合わせ先】\n町立八丈病院 ℡ ０４９９６－２－１１８８\n\n・ＢＣＧとは？\nＢＣＧとは結核を予防するワクチンです。結核は決して過去の病気ではありません。現在も毎年２万人の人が発病し、約２千人が死亡してます。\n油断できない重要な感染症です。特に、乳幼児がかかると予後が悪い結核性髄膜炎や粟粒結核をおこすことがあるので注意が必要です。\n自然感染による発病を防ぐため、ＢＣＧワクチンの接種を早めに受けましょう。\n・接種対象期間\n生後１歳に達するまでに接種しますが、標準的な接種期間は生後５ヶ月～８ヶ月に達するまでの間です。",
+      "target": {
+        "targetPersons": "生後１歳に達するまでに接種しますが、標準的な接種期間は生後５ヶ月～８ヶ月に達するまでの間です。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": 1
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後１歳に達するまで"
+      },
+      "support": {
+        "description": "予防接種",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種"
+      },
+      "cost": null,
+      "costConditions": "基本は無料ですが、定期予防接種期間から外れた場合は任意予防接種（有料）になります",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "13:30",
+        "toYMD": null,
+        "toHM": "15:30",
+        "conditions": "【集団接種実施時間】\n13時30分～15時30分（予防接種の種類、接種予定者数によって変更することがあります）"
+      },
+      "implementationPlace": {
+        "implementationName": "町立八丈病院小児科",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "１歳までのお子様には予防接種担当者が個別にスケジュールを作成し、お渡しします。\n１歳以降の定期予防接種対象となっているお子様には事前に個別通知します。\nなお、１歳以降のお子様でも希望される方には予防接種担当者がスケジュールのご相談に応じます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "・接種対象期間\n生後１歳に達するまでに接種しますが、標準的な接種期間は生後５ヶ月～８ヶ月に達するまでの間です。"
+      },
+      "electronicSubmission": false,
+      "belongings": "・母子手帳\n・予診票\n・診察券（町立八丈病院）※令和３年４月～",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "福祉健康課保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/kakuka/kenkou/vaccination.pdf",
+        "title": "八丈町小児予防接種スケジュール一覧表（令和５年度～）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+6+UM54",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "定期予防接種（麻しん・風しん混合（ＭＲ））"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "八丈町における定期予防接種（小児）について\n\n【接種会場】\n町立八丈病院小児科\n\n【集団接種実施時間】\n13時30分～15時30分 （予防接種の種類、接種予定者数によって変更することがあります）\n【予防接種に必要なもの】\n・母子手帳 ・予診票 ・診察券（町立八丈病院）※令和３年４月～\n【接種費用について】\n無料（保護者負担なし） （基本は無料ですが、定期予防接種期間から外れた場合は任意予防接種（有料）になります）\n【予約制個別予防接種について】\n八丈町では、集団予防接種の機会を逃してしまった方のために予約制の個別予防接種を毎月2回設けています。\n・実施日時\n　毎月、第2・第4木曜日 14時～16時　※集団接種と同時実施\n　（祝日等により変更あり、詳しくは毎月発行の広報をご覧ください）\n・予約締切日\n　予防接種実施日の1週間前の17時15分まで\n・予約、問い合わせ先\n　福祉健康課保健係　 ℡ ０４９９６－２－５５７０\n【通知方法について】\n１歳までのお子様には予防接種担当者が個別にスケジュールを作成し、お渡しします。\n１歳以降の定期予防接種対象となっているお子様には事前に個別通知します。\nなお、１歳以降のお子様でも希望される方には予防接種担当者がスケジュールのご相談に応じます。\n下記問い合わせ先までお問い合わせください。\n【定期予防接種問い合わせ先】\n福祉健康課保健係　 ℡ ０４９９６－２－５５７０\n【任意予防接種問い合わせ先】\n町立八丈病院 ℡ ０４９９６－２－１１８８\n\n麻しん風しん混合（ＭＲ）で予防できる感染症とは？\n【麻しん（はしか）】\n麻しんは麻しんウイルスの空気感染によっておこり、感染力が強く予防接種を受けないと多くの人がかかる病気です。麻しんにかかると３９～４０℃の\n高熱と発しんがみられ、ときに肺炎・中耳炎・気管支炎・脳炎などの合併症を併発し死亡することもあります。麻しんにかかった人は数千人に１人の割\n合で死亡します。予防はワクチン接種以外ありません。日本は平成２７年までに国内から麻しん排除を目指しています。\n【風しん】\n風しんは風しんウイルスの飛沫感染によっておこり、発しん、発熱、後頸部リンパ節腫脹を主な症状とする感染症です。風しんにかかると、ときに関節\n痛・血小板減少性紫斑病・脳炎などの合併を併発することがあります。また、免疫のない妊婦が妊娠初期にかかると白内障・心疾患・難聴等の症状をも\nつ先天性風疹症候群児を出生することがあります。予防はワクチン接種以外にありません。\n・接種回数と間隔\n１歳になったら第１期接種を１回、小学校入学前１年間（保育園年長相当）に第２期接種を１回。合計２回接種",
+      "target": {
+        "targetPersons": "１歳になったら第１期接種を１回、小学校入学前１年間（保育園年長相当）に第２期接種を１回。合計２回接種",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "１歳になったら"
+      },
+      "support": {
+        "description": "予防接種",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種"
+      },
+      "cost": null,
+      "costConditions": "基本は無料ですが、定期予防接種期間から外れた場合は任意予防接種（有料）になります",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "13:30",
+        "toYMD": null,
+        "toHM": "15:30",
+        "conditions": "【集団接種実施時間】\n13時30分～15時30分（予防接種の種類、接種予定者数によって変更することがあります）"
+      },
+      "implementationPlace": {
+        "implementationName": "町立八丈病院小児科",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "１歳までのお子様には予防接種担当者が個別にスケジュールを作成し、お渡しします。\n１歳以降の定期予防接種対象となっているお子様には事前に個別通知します。\nなお、１歳以降のお子様でも希望される方には予防接種担当者がスケジュールのご相談に応じます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "・接種回数と間隔\n１歳になったら第１期接種を１回、小学校入学前１年間（保育園年長相当）に第２期接種を１回。合計２回接種"
+      },
+      "electronicSubmission": false,
+      "belongings": "・母子手帳\n・予診票\n・診察券（町立八丈病院）※令和３年４月～",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "福祉健康課保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/kakuka/kenkou/vaccination.pdf",
+        "title": "八丈町小児予防接種スケジュール一覧表（令和５年度～）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+7+UM54",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "定期予防接種（水ぼうそう（水痘））"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "八丈町における定期予防接種（小児）について\n\n【接種会場】\n町立八丈病院小児科\n\n【集団接種実施時間】\n13時30分～15時30分 （予防接種の種類、接種予定者数によって変更することがあります）\n【予防接種に必要なもの】\n・母子手帳 ・予診票 ・診察券（町立八丈病院）※令和３年４月～\n【接種費用について】\n無料（保護者負担なし） （基本は無料ですが、定期予防接種期間から外れた場合は任意予防接種（有料）になります）\n【予約制個別予防接種について】\n八丈町では、集団予防接種の機会を逃してしまった方のために予約制の個別予防接種を毎月2回設けています。\n・実施日時\n　毎月、第2・第4木曜日 14時～16時　※集団接種と同時実施\n　（祝日等により変更あり、詳しくは毎月発行の広報をご覧ください）\n・予約締切日\n　予防接種実施日の1週間前の17時15分まで\n・予約、問い合わせ先\n　福祉健康課保健係　 ℡ ０４９９６－２－５５７０\n【通知方法について】\n１歳までのお子様には予防接種担当者が個別にスケジュールを作成し、お渡しします。\n１歳以降の定期予防接種対象となっているお子様には事前に個別通知します。\nなお、１歳以降のお子様でも希望される方には予防接種担当者がスケジュールのご相談に応じます。\n下記問い合わせ先までお問い合わせください。\n【定期予防接種問い合わせ先】\n福祉健康課保健係　 ℡ ０４９９６－２－５５７０\n【任意予防接種問い合わせ先】\n町立八丈病院 ℡ ０４９９６－２－１１８８\n\n・水痘（みずぼうそう）とは？\n水痘は感染力の強い水痘帯状疱疹ウイルスによっておこる病気です。発熱、発しんが主な症状で、なかには重症化し入院する場合もあります。\n特に白血病児やネフローゼ患児等でステロイド剤などを服用し免疫状態の悪い小児がかかると重篤になりやすく症状によっては大変危険です。\n妊婦がかかると妊娠初期では流産したり、妊娠後期では新生児が死亡したりすることもあります。ワクチンによる予防が大切です。\n・接種対象者、接種回数と間隔（平成２６年１０月より定期化）\n【対象者】\n生後１２月から３６月（１歳と２歳）に至るまでの水痘既往歴の無い者が対象\n【接種回数と間隔】\n１歳になったら初回接種を行い、初回接種終了後６月～１２月の間隔をあけて２回目接種",
+      "target": {
+        "targetPersons": "【対象者】\n生後１２月から３６月（１歳と２歳）に至るまでの水痘既往歴の無い者が対象\n【接種回数と間隔】\n１歳になったら初回接種を行い、初回接種終了後６月～１２月の間隔をあけて２回目接種",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": 36
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 12
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後１２月から３６月（１歳と２歳）に至るまで"
+      },
+      "support": {
+        "description": "予防接種",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種"
+      },
+      "cost": null,
+      "costConditions": "基本は無料ですが、定期予防接種期間から外れた場合は任意予防接種（有料）になります",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "13:30",
+        "toYMD": null,
+        "toHM": "15:30",
+        "conditions": "【集団接種実施時間】\n13時30分～15時30分（予防接種の種類、接種予定者数によって変更することがあります）"
+      },
+      "implementationPlace": {
+        "implementationName": "町立八丈病院小児科",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "１歳までのお子様には予防接種担当者が個別にスケジュールを作成し、お渡しします。\n１歳以降の定期予防接種対象となっているお子様には事前に個別通知します。\nなお、１歳以降のお子様でも希望される方には予防接種担当者がスケジュールのご相談に応じます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "・接種対象者、接種回数と間隔（平成２６年１０月より定期化）\n\n【対象者】\n生後１２月から３６月（１歳と２歳）に至るまでの水痘既往歴の無い者が対象\n【接種回数と間隔】\n１歳になったら初回接種を行い、初回接種終了後６月～１２月の間隔をあけて２回目接種"
+      },
+      "electronicSubmission": false,
+      "belongings": "・母子手帳\n・予診票\n・診察券（町立八丈病院）※令和３年４月～",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "福祉健康課保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/kakuka/kenkou/vaccination.pdf",
+        "title": "八丈町小児予防接種スケジュール一覧表（令和５年度～）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+8+UM54",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "定期予防接種（日本脳炎）"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "八丈町における定期予防接種（小児）について\n\n【接種会場】\n町立八丈病院小児科\n\n【集団接種実施時間】\n13時30分～15時30分 （予防接種の種類、接種予定者数によって変更することがあります）\n【予防接種に必要なもの】\n・母子手帳 ・予診票 ・診察券（町立八丈病院）※令和３年４月～\n【接種費用について】\n無料（保護者負担なし） （基本は無料ですが、定期予防接種期間から外れた場合は任意予防接種（有料）になります）\n【予約制個別予防接種について】\n八丈町では、集団予防接種の機会を逃してしまった方のために予約制の個別予防接種を毎月2回設けています。\n・実施日時\n　毎月、第2・第4木曜日 14時～16時　※集団接種と同時実施\n　（祝日等により変更あり、詳しくは毎月発行の広報をご覧ください）\n・予約締切日\n　予防接種実施日の1週間前の17時15分まで\n・予約、問い合わせ先\n　福祉健康課保健係　 ℡ ０４９９６－２－５５７０\n【通知方法について】\n１歳までのお子様には予防接種担当者が個別にスケジュールを作成し、お渡しします。\n１歳以降の定期予防接種対象となっているお子様には事前に個別通知します。\nなお、１歳以降のお子様でも希望される方には予防接種担当者がスケジュールのご相談に応じます。\n下記問い合わせ先までお問い合わせください。\n【定期予防接種問い合わせ先】\n福祉健康課保健係　 ℡ ０４９９６－２－５５７０\n【任意予防接種問い合わせ先】\n町立八丈病院 ℡ ０４９９６－２－１１８８\n\n・日本脳炎とは？\n日本脳炎は蚊（コガタアカイエカ）が媒介するウイルスでおこる病気です。夏から秋にかけて流行し、発病しますと高熱・頭痛・嘔吐・意識障害やけい\nれんなどの症状を示す急性脳炎になります。患者の約５０％に知覚障害や運動障害の後遺症を残し、約１５％は死亡するといわれる恐ろしい感染症です。\n予防はワクチン接種を受けて免疫をつけることが最も効果的です。\n・接種回数と間隔（通常）\n標準的には３歳児に６日～２８日までの間隔で２回接種（第１期初回２回）、翌年４歳児に１回追加接種（第１期追加１回）を受け、９歳児に１回追加\n接種（第２期）します。（合計４回接種）\n※日本脳炎は平成１７年から２１年まで積極的な接種勧奨が控えられていましたが、平成２２年度から勧奨を再開しました。\n毎年度、対象者を年度の初めに周知しています。詳しくは福祉健康課保健係までお問合せください。",
+      "target": {
+        "targetPersons": "標準的には３歳児に６日～２８日までの間隔で２回接種（第１期初回２回）、翌年４歳児に１回追加接種（第１期追加１回）を受け、９歳児に１回追加接種（第２期）します。（合計４回接種）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "３歳児"
+      },
+      "support": {
+        "description": "予防接種",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種"
+      },
+      "cost": null,
+      "costConditions": "基本は無料ですが、定期予防接種期間から外れた場合は任意予防接種（有料）になります",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "13:30",
+        "toYMD": null,
+        "toHM": "15:30",
+        "conditions": "【集団接種実施時間】\n13時30分～15時30分（予防接種の種類、接種予定者数によって変更することがあります）"
+      },
+      "implementationPlace": {
+        "implementationName": "町立八丈病院小児科",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "１歳までのお子様には予防接種担当者が個別にスケジュールを作成し、お渡しします。\n１歳以降の定期予防接種対象となっているお子様には事前に個別通知します。\nなお、１歳以降のお子様でも希望される方には予防接種担当者がスケジュールのご相談に応じます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "・接種回数と間隔（通常）\n標準的には３歳児に６日～２８日までの間隔で２回接種（第１期初回２回）、翌年４歳児に１回追加接種（第１期追加１回）を受け、９歳児に１回追加\n接種（第２期）します。（合計４回接種）\n※日本脳炎は平成１７年から２１年まで積極的な接種勧奨が控えられていましたが、平成２２年度から勧奨を再開しました。\n毎年度、対象者を年度の初めに周知しています。詳しくは福祉健康課保健係までお問合せください。"
+      },
+      "electronicSubmission": false,
+      "belongings": "・母子手帳\n・予診票\n・診察券（町立八丈病院）※令和３年４月～",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "福祉健康課保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/kakuka/kenkou/vaccination.pdf",
+        "title": "八丈町小児予防接種スケジュール一覧表（令和５年度～）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+9+UM54",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

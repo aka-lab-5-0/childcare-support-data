@@ -1,0 +1,1264 @@
+{
+  "version": "2025-07-09T05:55:17.833Z",
+  "areaCode": "132284",
+  "areaName": "あきる野市",
+  "category": "other",
+  "count": 10,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦訪問",
+        "shortName": "乳児家庭全戸訪問事業"
+      },
+      "summary": "保健師や助産師が生後2か月から4か月までの赤ちゃんがいる家庭にお伺いし子育て支援情報を提供します。",
+      "description": "乳児家庭全戸訪問事業\n\n[初版公開日：2018年4月2日]　[更新日：2024年4月1日]　ID:16440\n\nご出産おめでとうございます。かわいい赤ちゃんが生まれて喜びも大きいことと思われます。\n\nこども家庭センターでは、保健師・助産師が生後2か月から4か月までの赤ちゃんがいる家庭にお伺いし子育て支援情報を提供する、乳児家庭全戸訪問事業（乳児とその保護者に対する全戸訪問）を実施しております。",
+      "target": {
+        "targetPersons": "生後2か月から4か月までの赤ちゃんがいる家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "保健師・助産師が生後2か月から4か月までの赤ちゃんがいる家庭にお伺いし子育て支援情報を提供する",
+        "monetarySupport": null,
+        "materiallySupport": "保健師・助産師が生後2か月から4か月までの赤ちゃんがいる家庭にお伺いし子育て支援情報を提供する"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akiruno.tokyo.jp/kosodate/0000016440.html",
+        "title": "乳児家庭全戸訪問事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭部 こども家庭センター母子保健係",
+        "contactPhone": "042-550-3340",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132284;あきる野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132284+1+UM11",
+        "organization": "1000020132284",
+        "compartment": "こども家庭部 こども家庭センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "あきる野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条（妊産婦の訪問指導等）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産後ケア事業",
+        "shortName": "産後ケア事業（宿泊型）"
+      },
+      "summary": "出産を終えた退院後、お母さんと赤ちゃんの生活リズムづくりや、心身の安定を図るため、施設においてショートステイ（宿泊）やデイサービス（日帰り）で、助産師などが母子の心身ケアと育児サポートを行います。",
+      "description": "心身のケアや育児のサポートを必要とする方に対して、安心して子育てができるように産後の支援を行います。",
+      "target": {
+        "targetPersons": "次の項目に全て該当する方が対象です。\n\n市に住民登録がある方（※）\n心身のケアや育児のサポート等を必要とする方\n※市に里帰り中の方も利用できる場合があります。利用希望の方は利用相談・申請窓口にご相談ください。\n",
+        "lessThan": {
+          "targetAge": 0,
+          "targetAgeOfMonths": 6
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "出産した日から6か月以内"
+      },
+      "support": {
+        "description": "市が委託する施設において、宿泊しながら産後ケアを受けられます。",
+        "monetarySupport": null,
+        "materiallySupport": "市が委託する施設において、宿泊しながら産後ケアを受けられます。"
+      },
+      "cost": null,
+      "costConditions": "公立阿伎留医療センター・ゆしまウィメンズクリニック\n1泊目　7,000円\n\n2泊目以降　1泊につき3,000円（連続で宿泊した場合）\n※複数回に泊数を分けて利用した場合、2回目以降の1泊目は7,000円です。\n\n※多胎の場合は2人目以降1人あたり、1日につき500円の追加料金があります。\n\n利用者負担費用早見表（連続で宿泊した場合）\n|利用日数|1泊2日|2泊3日|以降、1泊につき|7泊8日（最大）|\n|:----|:----|:----|:----|:----|\n|利用料金|7,000円|10,000円|3,000円加算|25,000円|\n|双子の場合|8,000円|11,500円|3,500円加算|29,000円|\n\n森田助産院\n\n1泊　6,000円\n\n※多胎の場合は2人目以降1人あたり、1日につき3,000円の追加料金があります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "公立阿伎留医療センター（あきる野市引田78-1）\nゆしまウィメンズクリニック（あきる野市牛沼131-3）\n森田助産院（福生市志茂83）",
+        "implementationAddress": "公立阿伎留医療センター（あきる野市引田78-1）\nゆしまウィメンズクリニック（あきる野市牛沼131-3）\n森田助産院（福生市志茂83）"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "10:00",
+        "condiutilizationConditionstions": "利用開始日の午前10時から終了日の午前10時まで"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "1.利用相談\nお住いの地区の担当保健師、もしくは利用相談・申請窓口にご連絡ください。\n\n産後ケアの利用にあたっては、係員が希望内容や状況等をうかがい、利用についてご案内します。\n\n2.利用申請\n利用者本人が窓口でご申請ください。\n\n申請時に保健師と面談をさせていただきます。母子手帳をお持ちになって、お越しください。申請書については窓口にてお渡しします。（ダウンロードも可能です）\n\n※利用者本人が窓口にお越しになれない場合は、利用相談・申請窓口にご相談ください。\n\n3.利用決定\n市から利用決定について通知と利用案内をお送りします。\n\n4.利用開始\n\n宿泊型\n利用開始日当日に、利用施設に直接お越しください。\n\n通所型\n利用開始日当日に、利用施設に直接お越しください。\n\n訪問型\n利用開始日当日に、ご自宅に助産師がお伺いします。",
+      "procedurePersons": "利用者本人が窓口でご申請ください。",
+      "procedureMethod": "1.利用相談\nお住いの地区の担当保健師、もしくは利用相談・申請窓口にご連絡ください。\n\n産後ケアの利用にあたっては、係員が希望内容や状況等をうかがい、利用についてご案内します。\n\n2.利用申請\n利用者本人が窓口でご申請ください。\n\n申請時に保健師と面談をさせていただきます。母子手帳をお持ちになって、お越しください。申請書については窓口にてお渡しします。（ダウンロードも可能です）\n\n※利用者本人が窓口にお越しになれない場合は、利用相談・申請窓口にご相談ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "こども家庭センター母子保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akiruno.tokyo.jp/kosodate/0000016391.html",
+        "title": "産後ケア事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭部 こども家庭センター母子保健係",
+        "contactPhone": "042-550-3340",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": "秋川1-8　あきる野ルピア2階"
+      },
+      "area": {
+        "areaCode": "132284;あきる野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132284+1+UM15",
+        "organization": "1000020132284",
+        "compartment": "こども家庭部 こども家庭センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "あきる野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条の2（産後ケア事業）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出産祝い",
+        "shortName": "あきる野市新生児誕生お祝い品の贈呈"
+      },
+      "summary": "あきる野市では、市全体で子どもを守り育てる「子どもが主役のまちづくり」を進めています。子育ての支援として、あきる野市から心ばかりのお祝いをさせていただきます。\n\n誕生をお祝いするメッセージカードと3，000円相当の地域特産クーポン券を期間限定で贈呈いたしますので、ご出産された方は下記申請場所でお祝い品の申請を行ってください。\n\n対象の方には出生届をご提出いただいたとき、または他の市区町村や当市の宿直等、市民課や五日市出張所の窓口以外で届出をされた場合は郵送で申請書をお渡ししています。",
+      "description": "あきる野市新生児誕生メッセージカードとお祝い品の贈呈について\nあきる野市では、市全体で子どもを守り育てる「子どもが主役のまちづくり」を進めています。子育ての支援として、あきる野市から心ばかりのお祝いをさせていただきます。\n\n誕生をお祝いするメッセージカードと3，000円相当の地域特産クーポン券を期間限定で贈呈いたしますので、ご出産された方は下記申請場所でお祝い品の申請を行ってください。\n\n対象の方には出生届をご提出いただいたとき、または他の市区町村や当市の宿直等、市民課や五日市出張所の窓口以外で届出をされた場合は郵送で申請書をお渡ししています。\n\n受給資格\n出生届により住民登録をあきる野市にしていただいた新生児と生計が同一で、同住所の方（1回限り）\n※出生から申請までの間にあきる野市に住所を有しなくなったときは受給資格を失います。\n\n申請期間\n出生の日から30日以内\n\nお祝い品\n新生児1人につき商品3，000円相当の地域特産クーポン券\n※引換期間は発行から90日間となります。\n\nいろどり屋\n「地域特産品セット商品引換券（3，000円相当）」\n\n秋川ファーマーズセンター、経済センターマイム及び五日市ファーマーズセンターあいな\n「地場産野菜や地域特産品商品券（500円相当×6枚）」\n\n申請場所\n本庁舎市民課及び五日市出張所市民総合窓口係\n\n必要なもの\n申請書\n本人確認できる書類として、運転免許証等官公署が発行した顔写真付きの身分証明書（官公署が発行した顔写真付きの身分証明書がない場合は、保険証等市長が認める書類2点）が必要となります。",
+      "target": {
+        "targetPersons": "出生届により住民登録をあきる野市にしていただいた新生児と生計が同一で、同住所の方（1回限り）\n※出生から申請までの間にあきる野市に住所を有しなくなったときは受給資格を失います。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "出生の日から30日以内"
+      },
+      "support": {
+        "description": "新生児1人につき商品3，000円相当の地域特産クーポン券\n※引換期間は発行から90日間となります。",
+        "monetarySupport": "新生児1人につき商品3，000円相当の地域特産クーポン券\n※引換期間は発行から90日間となります。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申請場所\n本庁舎市民課及び五日市出張所市民総合窓口係\n\n必要なもの\n申請書\n本人確認できる書類として、運転免許証等官公署が発行した顔写真付きの身分証明書（官公署が発行した顔写真付きの身分証明書がない場合は、保険証等市長が認める書類2点）が必要となります。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出生の日から30日以内"
+      },
+      "electronicSubmission": false,
+      "belongings": "申請書\n本人確認できる書類として、運転免許証等官公署が発行した顔写真付きの身分証明書（官公署が発行した顔写真付きの身分証明書がない場合は、保険証等市長が認める書類2点）が必要となります。　",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "本庁舎市民課及び五日市出張所市民総合窓口係",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.akiruno.tokyo.jp/0000006597.html",
+          "title": "本人確認書類について"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akiruno.tokyo.jp/0000005958.html",
+        "title": "あきる野市新生児誕生お祝い品の贈呈について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "市民部 市民課 市民窓口係",
+        "contactPhone": "042-558-1111",
+        "contactEx": "2412",
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132284;あきる野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132284+1+UM21",
+        "organization": "1000020132284",
+        "compartment": "市民部 市民課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-02",
+      "odInformation": {
+        "updateDate": "2024-07-10",
+        "updater": "あきる野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "あきる野市新生児誕生お祝い品支給要領",
+        "regulationArticle": "第2条、第3条"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "母子父子寡婦福祉資金",
+        "shortName": "東京都母子・父子・女性福祉資金"
+      },
+      "summary": "母子家庭の母、父子家庭の父、および寡婦の方の経済的自立や、扶養しているお子さんの福祉増進のために、必要な資金をお貸しする制度です。",
+      "description": "ひとり親家庭や女性が経済的に自立して、安定した生活を送るために必要とする資金を貸付します。償還期間や利子は、資金により変わります。\n対象となる方\n次のいずれかに該当する、都内に6か月以上お住まいの方\n\n母子家庭の母または、父子家庭の父等で、20歳未満のお子さんを扶養している方\n配偶者がいない女性で親族を扶養している方、または扶養していないが年間所得が2，036，000円以下で、かつて母子家庭の母だった方、もしくは婚姻歴のある40歳以上の方\n資金の種類\n修学資金、就学支度資金、技能習得資金、生活資金、転宅資金など\n申請方法\n申請には、事前の面接が必要となります。面接日のご予約をお受けしますので、事前に問い合わせください。",
+      "target": {
+        "targetPersons": "次のいずれかに該当する、都内に6か月以上お住まいの方\n\n母子家庭の母または、父子家庭の父等で、20歳未満のお子さんを扶養している方\n配偶者がいない女性で親族を扶養している方、または扶養していないが年間所得が2，036，000円以下で、かつて母子家庭の母だった方、もしくは婚姻歴のある40歳以上の方",
+        "lessThan": {
+          "targetAge": 20,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "修学資金、就学支度資金、技能習得資金、生活資金、転宅資金など",
+        "monetarySupport": "修学資金、就学支度資金、技能習得資金、生活資金、転宅資金など",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "申請には、事前の面接が必要となります。面接日のご予約をお受けしますので、事前に問い合わせください。",
+      "procedurePersons": null,
+      "procedureMethod": "申請には、事前の面接が必要となります。面接日のご予約をお受けしますので、事前に問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akiruno.tokyo.jp/0000005972.html",
+        "title": "東京都母子・父子・女性福祉資金の貸付"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康福祉部　生活福祉課",
+        "contactPhone": null,
+        "contactEx": "生活福祉係　内線2625",
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132284;あきる野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132284+1+UM28",
+        "organization": "1000020132284",
+        "compartment": "健康福祉部生活福祉課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-11-09",
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "あきる野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子及び父子並びに寡婦福祉法",
+        "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+        "shortName": "産前産後期間に係る保険税額の軽減"
+      },
+      "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分）の均等割保険料と所得割保険料が免除されます。",
+      "description": "国民健康保険税の軽減・減免\n[初版公開日：2023年4月1日][更新日：2024年4月1日]ID:8557\n\n国民健康保険税の軽減\n\n産前産後期間に係る保険税額の軽減\n\n対象者\n出産予定日または出産日が令和5年11月1日以降の方\n妊娠85日（4か月）以上の出産（死産、流産、早産及び人工妊娠中絶を含む）が対象です。\n\n軽減内容\n産前産後期間（※）の所得割額及び均等割額を減額します。\n※産前産後期間とは、出産予定日または出産日の属する月の前月から4か月間です。\n多胎妊娠の場合は、出産予定日または出産日の属する月の3か月前から6か月間です。\n課税限度額に達している世帯の場合、減額にならないことがあります。\n\n|産前産後期間の減額|<|<|<|<|<|<|\n|:----|:----|:----|:----|:----|:----|:----|\n|単胎多胎の別|3か月前|2か月前|前月|出産（予定）月|翌月|翌々月|\n|単胎妊娠の場合|||減額|減額|減額|減額|\n|多胎妊娠の場合|減額|減額|減額|減額|減額|減額|\n令和6年1月1日施行のため、減額は次のようになります。\n出産（予定）日が令和5年11月の場合→令和6年1月分を減額\n出産（予定）日が令和5年12月の場合→令和6年1月分、2月分を減額\n出産（予定）日が令和6年1月の場合→令和6年1月分、2月分、3月分を減額\n出産（予定）日が令和6年2月の場合→令和6年1月分、2月分、3月分、4月分を減額\n\n届出等\n届出が必要です。\n出産予定日の6か月前から届け出ることができます。出産後の届出も可能です。\n\n届出に必要なもの\n1.届出される方の本人確認書類\n2.世帯主及び出産被保険者のマイナンバーがわかるもの\n3.出産予定日または出産日を確認できるもの（母子健康手帳など）\n4.多胎妊娠の場合には、多胎妊娠であることを確認できるもの",
+      "target": {
+        "targetPersons": "国民健康保険に加入されている方で、出産予定日または出産日が令和5年11月1日以降の方\n妊娠85日（4か月）以上の出産（死産、流産、早産及び人工妊娠中絶を含む）が対象です。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "令和6年1月1日施行のため、減額は次のようになります。\n出産（予定）日が令和5年11月の場合→令和6年1月分を減額\n出産（予定）日が令和5年12月の場合→令和6年1月分、2月分を減額\n出産（予定）日が令和6年1月の場合→令和6年1月分、2月分、3月分を減額\n出産（予定）日が令和6年2月の場合→令和6年1月分、2月分、3月分、4月分を減額",
+        "monetarySupport": "令和6年1月1日施行のため、減額は次のようになります。\n出産（予定）日が令和5年11月の場合→令和6年1月分を減額\n出産（予定）日が令和5年12月の場合→令和6年1月分、2月分を減額\n出産（予定）日が令和6年1月の場合→令和6年1月分、2月分、3月分を減額\n出産（予定）日が令和6年2月の場合→令和6年1月分、2月分、3月分、4月分を減額",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "届出が必要です。\n出産予定日の6か月前から届け出ることができます。出産後の届出も可能です。\n\n届出に必要なもの\n1.届出される方の本人確認書類\n2.世帯主及び出産被保険者のマイナンバーがわかるもの\n3.出産予定日または出産日を確認できるもの（母子健康手帳など）\n4.多胎妊娠の場合には、多胎妊娠であることを確認できるもの",
+      "procedurePersons": "出産予定日または出産日が令和5年11月1日以降の方\n妊娠85日（4か月）以上の出産（死産、流産、早産及び人工妊娠中絶を含む）が対象です。",
+      "procedureMethod": "届出が必要です。\n出産予定日の6か月前から届け出ることができます。出産後の届出も可能です。\n\n届出に必要なもの\n1.届出される方の本人確認書類\n2.世帯主及び出産被保険者のマイナンバーがわかるもの\n3.出産予定日または出産日を確認できるもの（母子健康手帳など）\n4.多胎妊娠の場合には、多胎妊娠であることを確認できるも",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産予定日の6か月前から届け出ることができます。出産後の届出も可能です。"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "保険年金課国民健康保険係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akiruno.tokyo.jp/0000008557.html",
+        "title": "国民健康保険税の軽減・減免"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "市民部保険年金課",
+        "contactPhone": "042-558-1111",
+        "contactEx": "2421",
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132284;あきる野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132284+1+UM5035",
+        "organization": "1000020132284",
+        "compartment": "市民部保険年金課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "あきる野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003",
+          "015"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "学童クラブ",
+        "shortName": "学童クラブ"
+      },
+      "summary": "放課後児童クラブは、保護者が就労などにより、昼間家庭にいない小学校に就学しているお子さんに対し、適切な遊びおよび生活の場を与え、児童の健全な育成および保護者の就労と子育ての両立支援を図ることを目的としています。",
+      "description": "学童クラブは、保護者が就労などで昼間家庭にいない児童に対し、適切な遊びと生活の場を提供し、その健全育成を図ることを目的に設置しています。",
+      "target": {
+        "targetPersons": "市内在住・在学の小学生であり、保護者の就労などの理由により、昼間家庭で適切な監護を受けられない児童",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "市内在住・在学の小学生であり、保護者の就労などの理由により、昼間家庭で適切な監護を受けられない児童"
+      },
+      "support": {
+        "description": "学童クラブは、保護者が就労などで昼間家庭にいない児童に対し、適切な遊びと生活の場を提供し、その健全育成を図ることを目的に設置しています。",
+        "monetarySupport": null,
+        "materiallySupport": "学童クラブは、保護者が就労などで昼間家庭にいない児童に対し、適切な遊びと生活の場を提供し、その健全育成を図ることを目的に設置しています。"
+      },
+      "cost": null,
+      "costConditions": "・育成料\n月額 3,000円\n※おやつ代として別途月額1,200円がかかります。\n\n・延長育成料\n月単位で利用する場合\n・午後6時から午後6時30分まで　月額1,000円\n・午後6時から午後7時まで　月額2,000円\n1日単位で利用する場合\n・午後6時から午後6時30分まで　日額100円\n・午後6時30分から午後7時まで　日額100円\n・午後6時から午後7時まで　日額200円",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "https://www.city.akiruno.tokyo.jp/kosodate/0000016905.html",
+        "implementationAddress": "https://www.city.akiruno.tokyo.jp/kosodate/0000016905.html"
+      },
+      "capacity": "https://www.city.akiruno.tokyo.jp/kosodate/0000016905.html",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "育成時間\n・平日は、下校後から午後6時まで\n・土曜日は、午前8時から午後6時まで\n・夏休み等の学校休業日は、午前8時から午後6時まで\n\n延長育成時間\n・午後6時から午後7時まで\n※延長育成を利用する場合は、事前に申請が必要となります"
+      },
+      "specificDate": null,
+      "holiday": "日曜日、祝日、年末年始（12月29日から翌年1月3日まで）",
+      "utilization": "必要書類をそろえて、下記の提出先に提出してください。",
+      "procedurePersons": null,
+      "procedureMethod": "必要書類をそろえて、下記の提出先に提出してください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "こども政策課児童館係（市役所2階）\n若竹学童クラブ\n若葉学童クラブ\n南秋留学童クラブ\n屋城学童クラブ\n一の谷学童クラブ\n草花学童クラブ\n前田学童クラブ\n多西学童クラブ\n五日市学童クラブ\n増戸学童クラブ\n秋留台学童クラブ",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akiruno.tokyo.jp/kosodate/0000016905.html#index-2-25",
+        "title": "令和6年度　学童クラブ入会申込み受付について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭部 こども政策課",
+        "contactPhone": null,
+        "contactEx": "児童館係　内線2682、2683",
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132284;あきる野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132284+1+UM79",
+        "organization": "1000020132284",
+        "compartment": "こども家庭部 こども政策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-17",
+      "odInformation": {
+        "updateDate": "2024-07-23",
+        "updater": "あきる野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第2項"
+      },
+      "tag": {
+        "categoryCode": [
+          "005"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後期間の国民年金保険料免除",
+        "shortName": "産前産後期間の保険料免除制度"
+      },
+      "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+      "description": "産前産後期間の国民年金保険料が免除されます\n[公開日：2021年10月1日][更新日：2021年10月1日]ID:9759\n産前産後期間の保険料免除制度\n国民年金の産前産後期間免除は、次世代育成支援の観点で創設された仕組みです。\n\n国民年金第1号被保険者が出産を行った場合に、出産前後の一定期間の国民年金保険料が免除されます。\n\n対象者\n「国民年金第1号被保険者」で出産日が平成31年2月1日以降の方\n免除期間\n出産予定日または出産日が属する月の前月から4か月間（以下「産前産後期間」といいます。）の国民年金保険料が免除されます。\n\nなお、多胎妊娠の場合は、出産予定日または出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。\n\nただし、施行日が平成31年4月1日ですので、平成31年3月以前の期間については免除の対象にはなりません。\n\n※出産とは、妊娠85日（4か月）以上の分娩を指し、死産、流産、早産、人工妊娠中絶を含みます。\n\n手続き\n出産予定日の6か月前から届出することができます。受付期限はありません。\n届出先\n市役所保険年金課年金係\n届出に必要なもの\n母子健康手帳\nマイナンバーカード\nマイナンバーカードをお持ちでない場合は下記①および②を各1点ご準備ください\n①個人番号の表記がある住民票の写し、通知カード（氏名、住所の表記が住民票の記載と一致する場合に限る）\n②本人確認書類（運転免許証、パスポート等）年金手帳または基礎年金番号通知書\n代理の方が手続きをされる場合は本人からの委任状（別ウインドウで開く）;https://www.city.akiruno.tokyo.jp/0000013546.htmlをお持ちください\n免除期間の取り扱い\n産前産後期間免除として認められた期間は、保険料を納付したものとして老齢基礎年金の受給額に反映されます。\n産前産後期間免除は、法定免除、申請免除、納付猶予、学生納付特例よりも優先されます。\n保険料を前納している場合、産前産後期間の保険料は還付されます。\n産前産後期間についても、付加年金に加入し付加保険料を納付することができます。",
+      "target": {
+        "targetPersons": "「国民年金第1号被保険者」で出産日が平成31年2月1日以降の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "出産予定日または出産日が属する月の前月から4か月間（以下「産前産後期間」といいます。）の国民年金保険料が免除されます。\nなお、多胎妊娠の場合は、出産予定日または出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。",
+        "monetarySupport": "国民年金保険料が免除",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "出産予定日の6か月前から届出することができます。受付期限はありません。",
+      "procedurePersons": null,
+      "procedureMethod": "出産予定日の6か月前から届出することができます。受付期限はありません。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産予定日の6か月前から届出することができます。受付期限はありません。"
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳\nマイナンバーカード\nマイナンバーカードをお持ちでない場合は下記①および②を各1点ご準備ください\n①個人番号の表記がある住民票の写し、通知カード（氏名、住所の表記が住民票の記載と一致する場合に限る）\n②本人確認書類（運転免許証、パスポート等）\n年金手帳または基礎年金番号通知書\n代理の方が手続きをされる場合は本人からの委任状（別ウインドウで開く）;https://www.city.akiruno.tokyo.jp/0000013546.htmlをお持ちください",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "保険年金課年金係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akiruno.tokyo.jp/0000009759.html",
+        "title": "産前産後期間の国民年金保険料が免除されます"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "市民部 保険年金課,青梅年金事務所",
+        "contactPhone": "042-558-1111,0428-30-3410",
+        "contactEx": "2425",
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "042-558-1111（代表）,0428-30-3410",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132284;あきる野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132284+1+UM793",
+        "organization": "1000020132284",
+        "compartment": "市民部 保険年金課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-10-01",
+      "odInformation": {
+        "updateDate": "2024-07-11",
+        "updater": "あきる野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民年金法",
+        "regulationArticle": "第88条の2（保険料の納付義務）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "016"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関するサポート",
+        "shortName": "子育て支援ガイドブック"
+      },
+      "summary": "あきる野市で利用できるサービスや育児に大切な情報をまとめた子育て支援ガイドブックを市内事業者との協働により作成しています。\nこのガイドブックは、こども政策課窓口及び出生届の受付時や妊娠届の提出時などに配布しています。",
+      "description": "子育て支援ガイドブック\n[初版公開日：2024年4月1日][更新日：2024年7月25日]ID:6810\n\n子育て支援ガイドブック\nあきる野市で利用できるサービスや育児に大切な情報をまとめた子育て支援ガイドブックを市内事業者との協働により作成しています。\n\nこのガイドブックは、こども政策課窓口及び出生届の受付時や妊娠届の提出時などに配布しています。\n\nガイドブック表紙の画像\n※この冊子は、2年に1度発行しています。\n\n子育て支援ガイドブック2024は、令和6年4月時点での情報を掲載しています。\n最新の情報は、各担当課のウェブページをご覧いただくか、各施設や機関に直接問い合わせてください。\n\n電子書籍版でもご覧いただけます\nあきる野市子育て支援ガイドブック2024\n\n子育て支援ガイドブック2024;https://ebooks.wagamachi-apps.com/actibook-file/index/000/005/431/HTML5/pc.html/?memberNum=0&groupNum=1G#/page/1",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "ガイドブックは、こども政策課窓口及び出生届の受付時や妊娠届の提出時などに配布",
+        "monetarySupport": null,
+        "materiallySupport": "ガイドブックは、こども政策課窓口及び出生届の受付時や妊娠届の提出時などに配布"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "こども政策課窓口及び出生届の受付時や妊娠届の提出時などに配布",
+      "procedurePersons": null,
+      "procedureMethod": "こども政策課窓口及び出生届の受付時や妊娠届の提出時などに配布",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.akiruno.tokyo.jp/cmsfiles/contents/0000006/6810/KG16-27P.pdf",
+          "title": "子育て支援ガイドブック2024（3）（PDF形式、9.45MB）"
+        },
+        {
+          "uri": "https://www.city.akiruno.tokyo.jp/cmsfiles/contents/0000006/6810/KG1-7P.pdf",
+          "title": "子育て支援ガイドブック2024（1） （PDF形式、9.85MB）"
+        },
+        {
+          "uri": "https://www.city.akiruno.tokyo.jp/cmsfiles/contents/0000006/6810/KG28-64P.pdf",
+          "title": "子育て支援ガイドブック2024（4）（PDF形式、9.64MB）"
+        },
+        {
+          "uri": "https://www.city.akiruno.tokyo.jp/cmsfiles/contents/0000006/6810/KG8-15P.pdf",
+          "title": "子育て支援ガイドブック2024（2） （PDF形式、5.04MB）"
+        },
+        {
+          "uri": "https://www.city.akiruno.tokyo.jp/cmsfiles/contents/0000006/6810/KGhyousi.pdf",
+          "title": "子育て支援ガイドブック2024（5）（PDF形式、2.13MB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akiruno.tokyo.jp/0000006810.html",
+        "title": "子育て支援ガイドブック"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭部こども政策課",
+        "contactPhone": "042-558-1111",
+        "contactEx": "こども政策係　内線2681／手当助成係　内線2641　／児童館係　内線2682",
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akiruno.tokyo.jp/mailform/inquiry.cgi?so=c50060e05e0a028a7778ee30ec331c8a9e0003aa&ref=https://www.city.akiruno.tokyo.jp/0000006810.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132284;あきる野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132284+2+UM106",
+        "organization": "1000020132284",
+        "compartment": "こども家庭部こども政策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-23",
+        "updater": "あきる野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産後ケア事業",
+        "shortName": "産後ケア事業（通所型）"
+      },
+      "summary": "出産を終えた退院後、お母さんと赤ちゃんの生活リズムづくりや、心身の安定を図るため、施設においてショートステイ（宿泊）やデイサービス（日帰り）で、助産師などが母子の心身ケアと育児サポートを行います。",
+      "description": "心身のケアや育児のサポートを必要とする方に対して、安心して子育てができるように産後の支援を行います。",
+      "target": {
+        "targetPersons": "次の項目に全て該当する方が対象です。\n\n市に住民登録がある方（※）\n心身のケアや育児のサポート等を必要とする方\n※市に里帰り中の方も利用できる場合があります。利用希望の方は利用相談・申請窓口にご相談ください。\n",
+        "lessThan": {
+          "targetAge": 0,
+          "targetAgeOfMonths": 6
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "出産した日から6か月以内"
+      },
+      "support": {
+        "description": "市が委託する施設において、日帰りで産後ケアを受けられます。",
+        "monetarySupport": null,
+        "materiallySupport": "市が委託する施設において、日帰りで産後ケアを受けられます。"
+      },
+      "cost": "2000",
+      "costConditions": "1日　2,000円\n\n※多胎の場合は1人につき1,000円の追加料金があります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "森田助産院（福生市志茂83）\nまるやま助産院（あきる野市戸倉1170）",
+        "implementationAddress": "森田助産院（福生市志茂83）\nまるやま助産院（あきる野市戸倉1170）"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "16:00",
+        "condiutilizationConditionstions": "1日につき、6時間まで"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "1.利用相談\nお住いの地区の担当保健師、もしくは利用相談・申請窓口にご連絡ください。\n\n産後ケアの利用にあたっては、係員が希望内容や状況等をうかがい、利用についてご案内します。\n\n2.利用申請\n利用者本人が窓口でご申請ください。\n\n申請時に保健師と面談をさせていただきます。母子手帳をお持ちになって、お越しください。申請書については窓口にてお渡しします。（ダウンロードも可能です）\n\n※利用者本人が窓口にお越しになれない場合は、利用相談・申請窓口にご相談ください。\n\n3.利用決定\n市から利用決定について通知と利用案内をお送りします。\n\n4.利用開始\n\n宿泊型\n利用開始日当日に、利用施設に直接お越しください。\n\n通所型\n利用開始日当日に、利用施設に直接お越しください。\n\n訪問型\n利用開始日当日に、ご自宅に助産師がお伺いします。",
+      "procedurePersons": "利用者本人が窓口でご申請ください。",
+      "procedureMethod": "1.利用相談\nお住いの地区の担当保健師、もしくは利用相談・申請窓口にご連絡ください。\n\n産後ケアの利用にあたっては、係員が希望内容や状況等をうかがい、利用についてご案内します。\n\n2.利用申請\n利用者本人が窓口でご申請ください。\n\n申請時に保健師と面談をさせていただきます。母子手帳をお持ちになって、お越しください。申請書については窓口にてお渡しします。（ダウンロードも可能です）\n\n※利用者本人が窓口にお越しになれない場合は、利用相談・申請窓口にご相談ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "こども家庭センター母子保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akiruno.tokyo.jp/kosodate/0000016391.html",
+        "title": "産後ケア事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭部 こども家庭センター母子保健係",
+        "contactPhone": "042-550-3340",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": "秋川1-8　あきる野ルピア2階"
+      },
+      "area": {
+        "areaCode": "132284;あきる野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132284+2+UM15",
+        "organization": "1000020132284",
+        "compartment": "こども家庭部 こども家庭センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "あきる野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条の2（産後ケア事業）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産後ケア事業",
+        "shortName": "産後ケア事業（訪問型）"
+      },
+      "summary": "出産を終えた退院後、お母さんと赤ちゃんの生活リズムづくりや、心身の安定を図るため、施設においてショートステイ（宿泊）やデイサービス（日帰り）で、助産師などが母子の心身ケアと育児サポートを行います。",
+      "description": "心身のケアや育児のサポートを必要とする方に対して、安心して子育てができるように産後の支援を行います。",
+      "target": {
+        "targetPersons": "次の項目に全て該当する方が対象です。\n\n市に住民登録がある方（※）\n心身のケアや育児のサポート等を必要とする方\n※市に里帰り中の方も利用できる場合があります。利用希望の方は利用相談・申請窓口にご相談ください。\n",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "出産した日から1年以内"
+      },
+      "support": {
+        "description": "市が委託する助産師が訪問して、ご自宅で産後ケアを受けられます。",
+        "monetarySupport": null,
+        "materiallySupport": "市が委託する助産師が訪問して、ご自宅で産後ケアを受けられます。"
+      },
+      "cost": "1000",
+      "costConditions": "1日　1,000円\n\n※多胎の場合は1人につき500円の追加料金があります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "ご自宅",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "14:00",
+        "condiutilizationConditionstions": "1日につき、2時間まで"
+      },
+      "specificDate": "出産した日から1年以内",
+      "holiday": null,
+      "utilization": "1.利用相談\nお住いの地区の担当保健師、もしくは利用相談・申請窓口にご連絡ください。\n\n産後ケアの利用にあたっては、係員が希望内容や状況等をうかがい、利用についてご案内します。\n\n2.利用申請\n利用者本人が窓口でご申請ください。\n\n申請時に保健師と面談をさせていただきます。母子手帳をお持ちになって、お越しください。申請書については窓口にてお渡しします。（ダウンロードも可能です）\n\n※利用者本人が窓口にお越しになれない場合は、利用相談・申請窓口にご相談ください。\n\n3.利用決定\n市から利用決定について通知と利用案内をお送りします。\n\n4.利用開始\n\n宿泊型\n利用開始日当日に、利用施設に直接お越しください。\n\n通所型\n利用開始日当日に、利用施設に直接お越しください。\n\n訪問型\n利用開始日当日に、ご自宅に助産師がお伺いします。",
+      "procedurePersons": "利用者本人が窓口でご申請ください。",
+      "procedureMethod": "1.利用相談\nお住いの地区の担当保健師、もしくは利用相談・申請窓口にご連絡ください。\n\n産後ケアの利用にあたっては、係員が希望内容や状況等をうかがい、利用についてご案内します。\n\n2.利用申請\n利用者本人が窓口でご申請ください。\n\n申請時に保健師と面談をさせていただきます。母子手帳をお持ちになって、お越しください。申請書については窓口にてお渡しします。（ダウンロードも可能です）\n\n※利用者本人が窓口にお越しになれない場合は、利用相談・申請窓口にご相談ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "こども家庭センター母子保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akiruno.tokyo.jp/kosodate/0000016391.html",
+        "title": "産後ケア事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭部 こども家庭センター母子保健係",
+        "contactPhone": "042-550-3340",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": "秋川1-8　あきる野ルピア2階"
+      },
+      "area": {
+        "areaCode": "132284;あきる野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132284+3+UM15",
+        "organization": "1000020132284",
+        "compartment": "こども家庭部 こども家庭センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "あきる野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条の2（産後ケア事業）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

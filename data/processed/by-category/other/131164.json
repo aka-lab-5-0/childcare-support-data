@@ -1,0 +1,1244 @@
+{
+  "version": "2025-07-09T05:55:17.805Z",
+  "areaCode": "131164",
+  "areaName": "豊島区",
+  "category": "other",
+  "count": 9,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "マタニティマーク",
+        "shortName": "マタニティマーク"
+      },
+      "summary": "豊島区では、妊娠の届出の際に、母子健康手帳と共に【マタニティマーク】をお渡ししています。",
+      "description": "マタニティマークは、周囲が妊産婦への配慮を示しやすくするとともに、妊産婦にやさしい環境づくりを推進するものです。\n\n（例えば）\n\n・交通機関では、座席を譲り合っておかけください。\n・飲食店などでは、受動喫煙の防止にご協力ください。\n・エレベーターや段差のあるところでは、妊婦さんやお子さん連れのかたにご配慮を。\n\n豊島区では、妊娠届けの際に、マタニティマークストラップを配布しています。",
+      "target": {
+        "targetPersons": "妊産婦",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "豊島区では、妊娠届けの際に、マタニティマークストラップを配布しています。",
+        "monetarySupport": null,
+        "materiallySupport": "マタニティマークストラップ"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.toshima.lg.jp/219/kosodate/ninshin/shussanmade/009447.html",
+        "title": "ご協力ください「マタニティマーク」"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康推進課管理・事業グループ",
+        "contactPhone": "03-3987-4173",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131164;豊島区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131164+1+UM2",
+        "organization": "8000020131164",
+        "compartment": "健康推進課管理・事業グループ",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-17",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "豊島区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "082"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出産祝い",
+        "shortName": "ゆりかご・としま事業"
+      },
+      "summary": "豊島区にお住まいの方がお子さんを出産した場合、ご出産されたかた全員に「おめでとう面接」をおこないます。また、「おめでとう面接」を終了されたかたに、「誕生お祝い品」をプレゼントします。",
+      "description": "豊島区では、全ての子育て家庭に対して、妊娠中からの支援や出産後の育児支援などの切れ目ない支援を通じて、妊婦、乳幼児、保護者の心身の健康の保持、増進に努めるとともに、家庭の孤立化を防ぐなど、健全な育児環境の確保を図ることを目的として、ご出産されたかた全員に「おめでとう面接」をおこないます。\n\nまた、「おめでとう面接」を終了されたかたに、「誕生お祝い品」をプレゼントします。",
+      "target": {
+        "targetPersons": "豊島区に住民登録があり、ご出産された産婦のかた",
+        "lessThan": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "「おめでとう面接」を終了されたかたに、「誕生お祝い品」をプレゼントします。",
+        "monetarySupport": null,
+        "materiallySupport": "誕生お祝い品のご案内\nパンフレット\n～誕生お祝い品のご案内～（PDF：434KB）;https://www.city.toshima.lg.jp/258/kosodate/ninshin/documents/yurikagosinreafret.pdf\nゆりかごとしまロゴ\n誕生お祝い品は変更になる場合があります。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "おめでとう面接・誕生お祝い品受取りまでの流れ\n1.総合窓口課で出生届の提出をします。\n2.誕生お祝い品案内チケットが郵送されます。\n3.下記3か所のいずれかにお越しください。子ども家庭支援ワーカーが「おめでとう面接」を実施します。\n・子育てインフォメーション;http://www.city.toshima.lg.jp/258/kosodate/infomation.html\n・東部子ども家庭支援センター;http://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/001746/annai/006556.html\n・西部子ども家庭支援センター;http://www.city.toshima.lg.jp/266/kosodate/kosodate/shiencenter/001746/annai/2005251634.html\n4.誕生お祝い品受取りの手続きをします。\nおもちゃの見本をご紹介します。おもちゃが決まりましたら、「ゆりかご・としま誕生お祝い品申込書」をお渡ししますので、記入・提出してください。\n5.後日、お宅におもちゃが送付されます。\n\nお子さんの1歳のお誕生日までに、お申込みをしてください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "総合窓口課で出生届提出後、郵送される「誕生お祝い品案内チケット」とお子さまの誕生日が確認できるもの（母子健康手帳など）が必要です。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "子育てインフォメーション,東部子ども家庭支援センター,西部子ども家庭支援センター",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.toshima.lg.jp/258/kosodate/ninshin/documents/r4soufu.pdf",
+          "title": "やさしい日本語（チケット送付時)（PDF：499KB）"
+        },
+        {
+          "uri": "https://www.city.toshima.lg.jp/258/kosodate/ninshin/documents/r4kansyou.pdf",
+          "title": "やさしい日本語（勧奨時）（PDF：483KB）"
+        },
+        {
+          "uri": "https://www.city.toshima.lg.jp/219/kosodate/ninshin/yurikago/1507071003.html",
+          "title": "ゆりかご・としま事業（妊娠中のかた）"
+        },
+        {
+          "uri": "https://www.city.toshima.lg.jp/258/kosodate/ninshin/documents/yurikagosinreafret.pdf",
+          "title": "～誕生お祝い品のご案内～（PDF：434KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.toshima.lg.jp/258/kosodate/ninshin/1507141633.html",
+        "title": "ゆりかご・としま事業（ご出産されたかた）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て支援課庶務・事業グループ",
+        "contactPhone": "03-4566-2478",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131164;豊島区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131164+1+UM21",
+        "organization": "8000020131164",
+        "compartment": "子育て支援課庶務・事業グループ",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-30",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "豊島区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "母親学級"
+      },
+      "summary": "助産師、保健師、栄養士などによる妊娠、出産、育児、栄養に関する講義を開いています。これからお母さんになられる方同士の交流の場にもなりますので、ぜひご参加ください。",
+      "description": "平日コース（予約制）\n・開催時間：午後1時30分から3時30分（受付時間は午後1時10分から1時30分まで)\n土曜日コース(予約制)\n・開催時間：午前9時30分から12時（受付時間は午前9時から9時30分まで)\n内容：沐浴実習、お産の進み方、お産のイメージ、赤ちゃんのいる暮らし\n\n詳しくは豊島区のホームページをご確認ください。",
+      "target": {
+        "targetPersons": "ご予約時および受講時に豊島区に住民登録があり、受講時に妊娠24週から36週までの、原則初めて出産されるかた",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": "2024-02-28",
+        "fromHM": "13:30",
+        "toYMD": "2024-02-28",
+        "toHM": "15:30",
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "・お申込み：各日程の前月1日午前8時30分から。(1日が土曜日、日曜日、祝日の場合は翌平日から受付となります)　\n・お申し込み先：電話(03-3987-4244)にてお申し込みください。\n風邪の症状や37.5度以上の発熱があるなどお身体の具合が悪い場合は、ご参加を見合わせてください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳、筆記用具\n（注記）飲み物など必要なものは、各自ご用意ください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "電話(03-3987-4244)",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.toshima.lg.jp/220/kosodate/ninshin/1906100927.html",
+          "title": "はじめてパパとママになるかたに～パパママ準備教室～"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.toshima.lg.jp/220/kosodate/ninshin/001346.html",
+        "title": "母親学級"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康推進課保健指導グループ",
+        "contactPhone": "03-3987-4174",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131164;豊島区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131164+1+UM31",
+        "organization": "8000020131164",
+        "compartment": "健康推進課保健指導グループ",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-01",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "豊島区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "こども食堂",
+        "shortName": "子ども食堂"
+      },
+      "summary": "「こども食堂」とは、こどもが一人でも行ける無料または低額の食堂です。こども食堂は、生活に困窮する子育て世帯への支援だけでなく、虐待の防止のための見守りや、地域の交流、こどもへの多様な経験の提供など様々な役割を担っており、国としてもこの取組を支援しています。",
+      "description": "子ども食堂とは？\n子ども食堂は、月に1回程度、個人宅や飲食店などを利用してボランティアで運営されています。開催方法も、それぞれの子ども食堂によって異なるため、電話等でのお問い合わせに対応できない時間帯がございます。（状況により開催予定が変更されることもございます）",
+      "target": {
+        "targetPersons": "各子ども食堂が決めている",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.toshima.lg.jp/429/asistoshima/asistoshima.html",
+          "title": "子ども若者総合相談（アシスとしま）"
+        },
+        {
+          "uri": "https://www.city.toshima.lg.jp/158/kenko/sekatsu/2008171333.html",
+          "title": "コミュニティソーシャルワーク事業"
+        },
+        {
+          "uri": "https://www.city.toshima.lg.jp/229/kosodate/kosodate/hokago/jump/1502161425.html",
+          "title": "中高生センタージャンプ（中高生の居場所）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.toshima.lg.jp/231/kodomosyokudo/2004031136.html#kanametyouasayake",
+        "title": "子ども食堂を利用したい"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども若者課地域支援グループ",
+        "contactPhone": "03-3981-2187",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131164;豊島区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131164+1+UM5036",
+        "organization": "8000020131164",
+        "compartment": "子ども若者課地域支援グループ",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/12/06",
+      "odInformation": {
+        "updateDate": "2025/02/20",
+        "updater": "豊島区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "児童遊園",
+        "shortName": "児童遊園"
+      },
+      "summary": "児童遊園は、屋外にある公園に類似した施設です。18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n目黒区の児童遊園の一覧は、目黒区サイトなどでお知らせしています。",
+      "description": "|名称|所在地|面積（平方メートル）|\n|:----|:----|:----|\n|駒込二丁目|駒込2-10-8|256.32|\n|そめいよしの|駒込6-1-6|393.69|\n|駒込六丁目|駒込6-25-2|275.23|\n|駒込七丁目第2|駒込7-7-4|518.7|\n|駒込七丁目|駒込7-14-3|127.77|\n|巣鴨一丁目|巣鴨1-2-8|450.42|\n|巣鴨四丁目折戸|巣鴨4-12-10|285.92|\n|巣鴨四丁目|巣鴨4-22-11|369.6|\n|巣鴨四丁目第2|巣鴨4-34-12|258.73|\n|巣鴨五丁目|巣鴨5-35-18|462.43|\n|西巣鴨四丁目|西巣鴨4-18-2|250.89|\n|南大塚一丁目|南大塚1-12-11|160.82|\n|南大塚二丁目ポケット|南大塚2-18-9|124.69|\n|南大塚二丁目|南大塚2-36-3|340.31|\n|上池袋一丁目|上池袋1-14-9|348.75|\n|上池袋一丁目ゆったり広場|上池袋1-29-11|351.46|\n|上池袋二丁目|上池袋2-23-10|178.52|\n|上池袋三丁目第3|上池袋3-13-12|457.22|\n|上池袋三丁目第2|上池袋3-27-5|452.5|\n|上池袋四丁目|上池袋4-7-2|143.63|\n|上池袋四丁目第2|上池袋4-39-6|229.89|\n|東池袋二丁目あじさい|東池袋2-35-14|346.2|\n|東池袋二丁目第2|東池袋2-60-7|247.37|\n|東池袋五丁目第2|東池袋5-21-7|276.06|\n|東池袋五丁目|東池袋5-41-14|142.3|\n|雑司が谷中央|南池袋4-1-3|396.7|\n|池袋一丁目|池袋1-13-13|181.3|\n|池袋本町一丁目|池袋本町1-6-8|469.52|\n|池袋本町二丁目|池袋本町2-39-7|462.03|\n|池袋本町三丁目チビッ子|池袋本町3-7-15|387.08|\n|池袋本町三丁目第2|池袋本町3-9-3|286.74|\n|池袋本町三丁目|池袋本町3-13-7|451.2|\n|池袋本町四丁目|池袋本町4-22-12|422.09|\n|雑司が谷二丁目四つ家|雑司が谷2-1-6|392.84|\n|高田一丁目|高田1-23-33|466.71|\n|高田二丁目中央|高田2-6-2|331.07|\n|目白二丁目第2|目白2-5-10|226.43|\n|目白二丁目|目白2-15-7|331.98|\n|目白四丁目|目白4-11-15|297.09|\n|目白四丁目旭出|目白4-19-11|335.75|\n|目白五丁目|目白5-15-17|424.7|\n|南長崎二丁目|南長崎2-2-21|440.22|\n|南長崎三丁目|南長崎3-4-15|398.96|\n|南長崎六丁目|南長崎6-35-17|443.38|\n|長崎二丁目第2|長崎2-8-1|231.29|\n|長崎二丁目中央|長崎2-25-11|354.48|\n|長崎二丁目|長崎2-27-18|487|\n|長崎四丁目うめの木|長崎4-3-8|172.09|\n|長崎四丁目|長崎4-44-3|484.97|\n|長崎六丁目さつき|長崎6-4-8|308.86|\n|長崎六丁目|長崎6-39-1|461.2|\n|千早三丁目|千早3-26-10|237.61|\n|要町一丁目|要町1-25-3|333.44|\n|要町三丁目|要町3-7-9|401.3|\n|干川|要町3-19-2|1,302.93|\n|高松一丁目|高松1-6-5|354.99|\n|高松二丁目|高松2-33-11|300.07|\n|高松三丁目|高松3-5-6|440.34|\n|千川二丁目第2|千川2-5-15|305.48|\n|千川二丁目中央|千川2-11-17|316.43|\n|千川二丁目|千川2-33-4|425|\n|計61か所|21,639.44| |\n児童遊園は、屋外にある公園に類似した施設です。19歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n豊島区の児童遊園の一覧は、豊島区サイトなどでお知らせしています。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "公園緑地課公園管理グループ",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.toshima.lg.jp/340/machizukuri/sumai/koen/003674.html",
+        "title": "区立児童遊園・仮児童遊園一覧"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "公園緑地課公園管理グループ",
+        "contactPhone": "03-3981-0534",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131164;豊島区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131164+1+UM576",
+        "organization": "8000020131164",
+        "compartment": "公園緑地課公園管理グループ",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-12-06",
+      "odInformation": {
+        "updateDate": "2024-10-24",
+        "updater": "豊島区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出生連絡票・低体重児出生届",
+        "shortName": "なし"
+      },
+      "summary": "赤ちゃんが生まれたら、母子手帳に添付されている【出生連絡票（はがき）】を記入して、郵送または提出してください。【出生連絡票】をもとに、「こんにちは赤ちゃん事業（乳幼児全戸訪問）」【内部リンク】のご連絡をします。\nなお、法律（母子保健法）で2,500グラム未満のお子さんが出生した時は、保護者がその旨を速やかに届け出ることが義務づけられており、【出生連絡票】はその届出を兼ねています。",
+      "description": null,
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.toshima.lg.jp/220/2307141034.html",
+        "title": "小さく生まれた赤ちゃんへ"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康推進課管理・事業グループ",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131164;豊島区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131164+1+UM791",
+        "organization": "8000020131164",
+        "compartment": "健康推進課管理・事業グループ",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "豊島区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第18条（低体重児の届出）"
+      },
+      "tag": {
+        "categoryCode": null,
+        "targetCode": null,
+        "contentsCode": [
+          "077"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出産前後の国民年金保険料免除",
+        "shortName": "産前産後期間の免除制度"
+      },
+      "summary": "国民年金の第1号被保険者※が出産した場合は、届出により出産前後の一定期間の国民年金保険料が免除されます。免除期間は年金額を計算する際、保険料を納めた期間として扱われます。\n※20歳以上60歳未満の自営業者・農林漁業者とその家族、学生、無職の人",
+      "description": "出産※予定日または出産日が属する月の前月から4カ月間（以下「産前産後期間」といいます。）の国民年金保険料が免除されます。\n多胎妊娠の場合は、出産予定日または出産日が属する月の3カ月前から6カ月間の国民年金保険料が免除されます。\nなお、産前産後期間は付加保険料の納付ができます。\n※出産とは、妊娠85日（4カ月）以上の出産をいいます。（死産、流産、早産された方を含みます。）\n\n手続きをするメリット\n産前産後期間の免除制度は、「保険料が免除された期間」も保険料を納付したものとして老齢基礎年金の受給額に反映されます。\n届出を行う期間について、すでに国民年金保険料免除・納付猶予、学生納付特例が承認されている場合でも、届出が可能です。",
+      "target": {
+        "targetPersons": "国民年金第1号被保険者※で出産日が平成31年（2019年）2月1日以降の方\nただし、国民年金の任意加入期間は対象になりません。\n※20歳以上60歳未満の自営業者・農林漁業者とその家族、学生、無職の人",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "出産予定日又は出産日が属する月の前月から4か月間（これを「産前産後期間」といいます。）の国民年金保険料が免除されます。\nふたごやみつご等の多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。",
+        "monetarySupport": "出産予定日又は出産日が属する月の前月から4か月間（これを「産前産後期間」といいます。）の国民年金保険料が免除されます。\nふたごやみつご等の多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "国民年金保険料の免除等を希望されるかたは、区役所の国民年金の窓口または池袋年金事務所にお越しください。郵送による手続きをご希望のかたは事前にお電話でご相談ください。\n\n出産予定日の6か月前から届出可能です。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "区役所での手続きに必要なもの\n・基礎年金番号がわかるもの（年金手帳、基礎年金番号通知書など）\n・本人確認書類（マイナンバーカード、運転免許証、在留カード、パスポートなど）\n・母子健康手帳\n（注釈）代理人が申請する場合;https://www.city.toshima.lg.jp/116/tetsuzuki/nenkin/nenkin/1802010931.html#dairinin_shinsei",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.nenkin.go.jp/section/soudan/tokyo/ikebukuro.html",
+          "title": "池袋年金事務所（日本年金機構ホームページ）（新しいウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html",
+          "title": "国民年金保険料の産前産後期間の免除制度（日本年金機構ホームページ）（新しいウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.nenkin.go.jp/index.html",
+          "title": "日本年金機構ホームページ（新しいウィンドウで開きます）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.toshima.lg.jp/116/tetsuzuki/nenkin/nenkin/008389.html",
+        "title": "国民年金保険料の免除等について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "高齢者医療年金課国民年金グループ",
+        "contactPhone": "03-3981-1954",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131164;豊島区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131164+1+UM793",
+        "organization": "8000020131164",
+        "compartment": "高齢者医療年金課国民年金グループ",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-14",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "豊島区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民年金法",
+        "regulationArticle": "第88条の2（保険料の納付義務）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "016"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "ファミリー・サポート・センター",
+        "shortName": "ファミリー・サポート・センター事業"
+      },
+      "summary": "豊島区のファミリー・サポート・センターは、子育ての援助を受けたい人と援助を行いたい人が会員登録をし、【援助会員】が【依頼会員】に対してさまざまな育児の手助けをする事業です。",
+      "description": null,
+      "target": {
+        "targetPersons": "豊島区在住の方　　\n・利用会員小学校修了までのお子さんと同居する保護者の方(利用は生後43日以降から小学校修了まで)　　\n・援助会員20歳以上で、心身ともに健康かつ、子育てのお手伝いにご理解と熱意のある方(援助会員養成講座を受講し修了します)　　\n・両方会員上記の両方の要件を満たす方(利用も援助も可能)",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後43日以降から小学校修了まで"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "07:00",
+        "toHM": "20:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.toshima.lg.jp/258/kosodate/kosodate/f-s-center/001976.html",
+        "title": "ファミリー・サポート・センター事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子育て支援課ファミリー・サポート・センター事務局",
+        "contactPhone": "03-3981-2146",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "窓口受付時間祝日および年末年始を除く平日午前8時30分～午後5時まで",
+        "zipCode": "1718422",
+        "contactAddress": "豊島区南池袋2-45-1本庁舎4階豊島区役所"
+      },
+      "area": {
+        "areaCode": "131164;豊島区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131164+1+UM87",
+        "organization": "8000020131164",
+        "compartment": "子ども家庭部子育て支援課ファミリー・サポート・センター事務局",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-08-04",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "豊島区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関するその他のこと",
+        "shortName": "豊島区子育て情報ハンドブック"
+      },
+      "summary": "「豊島区子育てハンドブック」は、妊娠中から小学校までの子育てに役立つ情報を掲載した、子育て支援情報誌です。",
+      "description": "子育てハンドブック表紙\n「豊島区子育てハンドブック」は、\n妊娠中から小学校までの子育てに役立つ情報を掲載した、\n子育て支援情報誌です。\n\n規格　　A5\nページ数　　116\n発行日　　令和5年7月\n費用　　－",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "電子書籍版\nデジタルブックとしてご自宅のパソコンやタブレット、スマートフォンなどで閲覧ができます。ぜひご利用ください。\n●WEB版(HTML）\nWEB版の子育て情報ハンドブック\n●アプリ版\nアプリ「わが街辞典」\n\n通信料はお客様の負担となります。\n\n取扱場所\n子育て支援課、東部子ども家庭支援センター、西部子ども家庭支援センター、池袋保健所、長崎健康相談所、東部区民事務所、西部区民事務所、子どもスキップ、児童館、区民ひろば他",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/joho/documents/p18-25birth.pdf",
+          "title": "子育てカレンダー（PDF：1"
+        },
+        {
+          "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/joho/documents/p28-35asobiba_syuukaisitu.pdf",
+          "title": "公園（PDF：3653KB）"
+        },
+        {
+          "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/joho/documents/urabyoushi.pdf",
+          "title": "635KB）"
+        },
+        {
+          "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/joho/documents/p91-93soudansaki_list.pdf",
+          "title": "734KB）"
+        },
+        {
+          "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/joho/documents/p36-43kajienjyo_hoiku-service.pdf",
+          "title": "妊娠したら（PDF：1"
+        },
+        {
+          "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/joho/documents/p88-90sumai.pdf",
+          "title": "家事援助、保育サービス（PDF：1"
+        },
+        {
+          "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/joho/documents/p44-51kokasen.pdf",
+          "title": "835KB）"
+        },
+        {
+          "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/joho/documents/p2-3index.pdf",
+          "title": "表紙（PDF：3"
+        },
+        {
+          "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/joho/documents/p87job_find.pdf",
+          "title": "820KB）"
+        },
+        {
+          "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/joho/documents/hyoushi_kucho.pdf",
+          "title": "WEB版の子育て情報ハンドブック（新しいウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/joho/documents/p12-17ninshin.pdf",
+          "title": "522KB）"
+        },
+        {
+          "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/joho/documents/p54-57syougaigaaruokosamanotameni.pdf",
+          "title": "475KB）"
+        },
+        {
+          "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/joho/documents/p76-86sick_kega.pdf",
+          "title": "子どもの遊び場、集会室等（PDF：2"
+        },
+        {
+          "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/joho/documents/p62-75nyuen_nyugaku.pdf",
+          "title": "363KB）"
+        },
+        {
+          "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/joho/documents/p110-112bousai.pdf",
+          "title": "夫の役割、パパのできること（PDF：1"
+        },
+        {
+          "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/joho/documents/p96-105map.pdf",
+          "title": "631KB）"
+        },
+        {
+          "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/joho/documents/p26-27kodomonokenri.pdf",
+          "title": "180KB）"
+        },
+        {
+          "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/joho/documents/p94-95address_tel_list.pdf",
+          "title": "子ども家庭支援センター（PDF：2"
+        },
+        {
+          "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/joho/documents/p4-5kosodate_calendar.pdf",
+          "title": "677KB）"
+        },
+        {
+          "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/joho/documents/p58-61single.pdf",
+          "title": "豊島区子どもの権利に関する条例（PDF：1"
+        },
+        {
+          "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/joho/documents/p52-53father.pdf",
+          "title": "赤ちゃんが生まれたら（PDF：2"
+        },
+        {
+          "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/joho/documents/p6-11park.pdf",
+          "title": "INDEX（PDF：1"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.toshima.lg.jp/265/kosodate/kosodate/shiencenter/joho/030866.html",
+        "title": "豊島区子育て情報ハンドブック"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭支援センター東部子ども家庭支援センター",
+        "contactPhone": "03-5980-5275",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131164;豊島区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131164+2+UM120",
+        "organization": "8000020131164",
+        "compartment": "子ども家庭支援センター東部子ども家庭支援センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-19",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "豊島区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "082"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

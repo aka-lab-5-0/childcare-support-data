@@ -1,0 +1,390 @@
+{
+  "version": "2025-07-09T05:55:17.807Z",
+  "areaCode": "131181",
+  "areaName": "荒川区",
+  "category": "education",
+  "count": 3,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "放課後子供教室",
+        "shortName": "放課後子ども教室（にこにこすくーる）"
+      },
+      "summary": "にこにこすくーるは、放課後や夏休み等に小学校の校庭、体育館等を活用し、子どもたちの安全・安心な活動拠点（居場所）を設け、子どもたちの自主的な参加のもとに、地域の方々の協力を得て、遊びをはじめ、体験学習や、スポーツ・文化活動等の交流を図る事業です。",
+      "description": "放課後や夏休みなどに、学校内で安全に、安心して過ごせる場所を提供するとともに、子どもたちの自主的な参加のもと、地域の方々の協力を得ながら、遊びをはじめ体験学習やスポーツ・文化活動などを通して子ども同士の交流や地域との交流を図る事業です。平成28年度から、区内小学校全校で実施しています。\nお子さんやご家族に発熱や風邪の症状がある場合は、ご利用をお控えください。ご理解ご協力のほどよろしくお願いします。\nにこにこすくーる利用日のイメージ（PDF：71KB）;https://www.city.arakawa.tokyo.jp/documents/1135/riyoubiime-ji.pdf\n各種書類はページ下部「登録申請書類」からダウンロードできますので、ご利用ください。\n",
+      "target": {
+        "targetPersons": "1年生から6年生の児童のうち、下記条件を満たす者\n区内小学校に在籍する児童\n区内小学校に在籍しない児童のうち、区内小学校の通学区域内に住居を有する児童\n※注釈　学童クラブと異なり、保護者の就労等の条件はありません。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1年生から6年生"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "無料",
+      "costConditions": "活動中の事故に備えて、実費でスポーツ安全保険料（年額800円）が掛かります。\n活動で材料費が必要な場合は、実費負担となります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "月曜から土曜まで"
+      },
+      "implementationPlace": {
+        "implementationName": "区内小学校全校",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "月曜から金曜　授業終了後から午後5時\n土曜　午前9時から午後5時\n学校休業日　午前9時から午後5時\n※注釈　ただし、放課後子ども教室一覧（令和6年度現在）（PDF：8KB）;https://www.city.arakawa.tokyo.jp/documents/1135/6ichiran.pdfの★印の施設については、午後6時まで（土曜日は午後5時まで）です。\n※要件を満たす方は、学校の長期休業期間中の午前8時15分、8時30分からの受け入れ制度を申請により利用できます。"
+      },
+      "specificDate": null,
+      "holiday": "日曜、祝日、年末年始（12月29日から1月3日まで）はお休みです。\nその他、学校の行事等によりお休みになる場合があります。",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "登録申請書・登録申請時確認票に保険料を添えて、保護者の方が直接各にこにこすくーるの受付までご持参ください（お子さんには持たせないでください）。\nなお、学校内の学童クラブ（一体型総合プラン実施校）を利用する児童は、別途にこにこすくーるに登録しなくても利用できます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "令和6年度途中からの利用については、申請日により利用開始日が異なります。\n毎月10日までの申請・・・翌月1日からの利用\n毎月25日までの申請・・・翌月16日からの利用"
+      },
+      "electronicSubmission": false,
+      "belongings": "登録申請書・登録申請時確認票に保険料",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "各にこにこすくーるの受付",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.arakawa.tokyo.jp/a036/kosodate/houkago/nikonikoschool.html",
+          "title": "放課後こども教室（にこにこすくーる）の施設案内"
+        },
+        {
+          "uri": "https://www.city.arakawa.tokyo.jp/a036/kosodate/houkago/sougoupuran.html",
+          "title": "放課後子ども総合プランについて"
+        },
+        {
+          "uri": "https://www.city.arakawa.tokyo.jp/a036/kosodate/houkago/houkagojidoujigyoujouhouhaishin.html",
+          "title": "学童クラブ・にこにこすくーるに関するメール配信(放課後児童事業配信システム）のご案内"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.arakawa.tokyo.jp/a036/kosodate/houkago/jigyonaiyo.html",
+        "title": "放課後子ども教室（にこにこすくーる）の事業内容"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部児童青少年課事業支援係",
+        "contactPhone": "03-3802-3111",
+        "contactEx": "3832",
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1168501",
+        "contactAddress": "荒川区荒川二丁目2番3号（本庁舎2階）"
+      },
+      "area": {
+        "areaCode": "131181;荒川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+7000020131181+1+UM5028",
+        "organization": "7000020131181",
+        "compartment": "子ども家庭部児童青少年課事業支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/11/01",
+      "odInformation": {
+        "updateDate": "2025/02/25",
+        "updater": "荒川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "こども食堂",
+        "shortName": "子ども食堂"
+      },
+      "summary": "子ども食堂・子どもの居場所は生活に困窮する子育て世帯への支援だけでなく、虐待の防止のための見守りや、地域の交流、子どもへの多様な経験の提供など様々な役割を担っており、国としてもこの取組を支援しています。",
+      "description": "子どもの居場所づくり事業は、支援が必要な子どもを対象に居場所を提供し、食事の提供や学習支援などの活動を通して、子どもが将来に希望を持てるよう支援することを目的としており、区は、子どもの自立や健やかな成長を促すために、子どもの居場所を実施する団体を支援しています。\n子ども食堂事業は、子どもとその保護者を対象に、身近な地域で食事を通して交流する場を提供することを目的としており、区はその活動が継続的に実施できるよう支援しています。\n参加・応援\n参加するには\n参加を希望する場合は、下記までお問合せください。\n見学・視察等についてもお問合せください。\n応援するには\nボランティアとしての参加、寄付金や物資の寄付等、子どもの居場所づくり・子ども食堂への応援をしていただける方は、「あらかわ子ども応援ネットワーク」のサイトからお問合せください。\nあらかわ子ども応援ネットワーク（外部サイトへリンク）（別ウィンドウで開きます）;http://www.kodomo-network.com/",
+      "target": {
+        "targetPersons": "18歳までの子ども",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "食事の提供、団らん等",
+        "monetarySupport": null,
+        "materiallySupport": "食事の提供、団らん等"
+      },
+      "cost": "実施場所によって異なります（100円から300円程度）",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "子どもの居場所づくり事業　区内8か所（令和6年4月時点）\n子ども食堂事業　区内8か所（令和6年4月時点）※注釈　休止中の食堂を除く",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.arakawa.tokyo.jp/a035/kosodate/houkago/kodomonoibasho.html",
+        "title": "子どもの居場所づくり事業・子ども食堂事業のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子育て支援課子育て事業係",
+        "contactPhone": "03-3802-3111",
+        "contactEx": "3812",
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1168501",
+        "contactAddress": "荒川区荒川二丁目2番3号（本庁舎2階）"
+      },
+      "area": {
+        "areaCode": "131181;荒川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+7000020131181+1+UM5036",
+        "organization": "7000020131181",
+        "compartment": "子ども家庭部子育て支援課子育て事業係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/09/02",
+      "odInformation": {
+        "updateDate": "2025/02/06",
+        "updater": "荒川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関する教室・講習会",
+        "shortName": "家庭教育学級"
+      },
+      "summary": "子育ての不安や悩みを解消し、自信を持って子育てができるよう、子育てに関する様々なテーマについて学びます。",
+      "description": "子育ての不安や悩みを解消し、自信を持って子育てができるよう、子育てに関する様々なテーマについて学びます。\n\n実施概要\n乳幼児コース\n区内の様々な場所で、実施いたします。\n該当地区の方でなくても、どなたでも参加できます。\n地区と開催月は変更になる場合があります。\n開催の半月から1カ月前に、区報・チラシ・ホームページで募集いたします。\n\n小中学生コース\n思春期の問題や、親子コミュニケーションの取り方などについて、講座を開催します。\n開催の半月から1カ月前に、区報・チラシ・ホームページで募集いたします。\n\nPTA連携家庭教育学級\n区立小中学校と共催で開催します。\n各学校によりテーマは異なります。\n\n講座内容\n現在、参加者募集中の講座\n荒川区家庭教育学級乳幼児コース（第2回）「あそびを通した子どもの発達」;https://www.city.arakawa.tokyo.jp/a016/kosodate/kosodateshien/6kakyounyuuyouji2.html\n\n過去の講座\n令和6年度\n乳幼児コース\n第1回　令和6年5月18日（土曜）、5月25日（土曜）「コトバde子育て～自己肯定感を育む家族のコミュニケーション～」生涯学習センター\nチラシ（PDF：382KB）;https://www.city.arakawa.tokyo.jp/documents/1112/chirashinyuuyouji1.pdf\n小中学生コース\n第1回　令和6年6月16日（日曜）、6月30日（日曜）「子どもの成長に合わせて家庭で伝える生と性」ひぐらしふれあい館\nチラシ（PDF：395KB）;https://www.city.arakawa.tokyo.jp/documents/1112/chirasisyuoutyuu1.pdf\n\n令和5年度\n乳幼児コース\n第1回　令和5年7月14日（金曜）、7月19日（水曜）「コトバde子育て～自己肯定感を育むコミュニケーション～」生涯学習センター\nチラシ（PDF：687KB）;https://www.city.arakawa.tokyo.jp/documents/1112/chirashi_1.pdf\n第2回　令和5年9月9日（土曜）、9月16日（土曜）「～東京都立大荒川キャンパスで学ぶ～あそびを通した子どもの発達」東京都立大学荒川キャンパス\nチラシ（PDF：722KB）;https://www.city.arakawa.tokyo.jp/documents/1112/chirashi.pdf\n第3回　令和5年10月15日（日曜）「こどもの「生きる力」を育てよう　～非認知能力は、幼児期から～」生涯学習センター\nチラシ（PDF：451KB）;https://www.city.arakawa.tokyo.jp/documents/1112/chirachi.pdf\n第4回　令和6年2月17日（土曜）「子育て中の読書のすゝめ～心の深呼吸をしましょう～」web会議システムによるオンライン講座\nチラシ（PDF：421KB）;https://www.city.arakawa.tokyo.jp/documents/1112/chirashi_3.pdf\n小中学生コース\n第1回　令和5年7月9日（日曜）、7月23日（日曜）「子どもの自立と家庭の役割～命とこころを守るために今からできること」生涯学習センター\nチラシ（PDF：717KB）;https://www.city.arakawa.tokyo.jp/documents/1112/chirashi_2.pdf\n第2回　令和6年3月16日（土曜）、3月20日（水曜・祝日）「うちの子のやる気UP大作戦！」生涯学習センター\nチラシ（PDF：477KB）;https://www.city.arakawa.tokyo.jp/documents/1112/chirashiosyoutyuu2.pdf\n\n令和4年度\n乳幼児コース\n第1回　令和4年6月22日（水曜）「絵本専門士による親子で仲良く楽しむ絵本と歌あそびの魅力講座」荒川ふるさと文化館\nチラシ（PDF：342KB）;https://www.city.arakawa.tokyo.jp/documents/1112/tirasi_2.pdf\n第2回　令和4年8月7日（日曜）「遊びは子どもが育つ大切な栄養」東尾久本町通りふれあい館\nチラシ（PDF：353KB）;https://www.city.arakawa.tokyo.jp/documents/1112/tirasi_3.pdf\n第3回　令和4年10月24日（月曜）「イライラしない笑顔の子育てエッセンス」生涯学習センター\nチラシ（PDF：315KB）;https://www.city.arakawa.tokyo.jp/documents/1112/tirasi_6.pdf\n小中学生コース\n第1回　令和4年6月26日、7月17日（日曜）「子どもに伝えようー大切ないのちとからだー」　生涯学習センター\nチラシ（PDF：172KB）;https://www.city.arakawa.tokyo.jp/documents/1112/tirasi_4.pdf\n第2回　令和4年10月8日、10月15日（日曜）「ストレスを乗り越える！挫けてもつぶれない心の回復力の育て方」　生涯学習センター\nチラシ（PDF：175KB）;https://www.city.arakawa.tokyo.jp/documents/1112/tirasi_5.pdf\n\n令和3年度\n乳幼児コース\n第1回　令和3年6月26日（土曜）web会議システムによるオンライン講座\n「ズバリ子育てがラクになる、お片づけ」\nチラシ（PDF：655KB）;https://www.city.arakawa.tokyo.jp/documents/1112/katei_nyu_r31.pdf\n第2回　令和3年8月21日（土曜）web会議システムによるオンライン講座\n「赤ちゃんと私のココロとカラダにやさしい子育て」\nチラシ（PDF：521KB）;https://www.city.arakawa.tokyo.jp/documents/1112/katei_nyu_r32.pdf\n第3回　令和3年9月2日（木曜）あらかわエコセンター\n「仲良しきょうだいを育てよう！～カインコンプレックスを生まないヒント～」\nチラシ（PDF：1,207KB）;https://www.city.arakawa.tokyo.jp/documents/1112/katei_nyu_r33.pdf\n第4回　令和3年9月2日（木曜）あらかわエコセンター\n「子どもの育ちにぴったり！絵本の読み聞かせ講座」\nチラシ（PDF：326KB）;https://www.city.arakawa.tokyo.jp/documents/1112/katei_nyu_r34.pdf\n第5回　令和4年2月22日（火曜）荒川区公式チャンネル（YouTube）にて動画配信　※配信終了\n「親子のコミュニケーションを深めよう！子どもと楽しむ絵本と歌あそびの魅力（動画配信型）」\n第6回　令和4年2月22日（火曜）荒川区公式チャンネル（YouTube）にて動画配信　※配信終了\n「家事・育児は「分担」から「シェア」へ！笑顔になれる家族関係をつくるヒント(動画配信型)」\n第5・6回チラシ（PDF：801KB）;https://www.city.arakawa.tokyo.jp/documents/1112/chirashi.pdf\n小中学生コース\n第1回　令和3年6月12日、19日（土曜）生涯学習センター\n「おうちで伝える性のおはなし」思春期の子どものココロとカラダ様々なリスクから子どもを守る！\n令和3年度小中学生コース第1回チラシ（PDF：911KB）;https://www.city.arakawa.tokyo.jp/documents/1112/katei_shocyu_r31.pdf\n第2回　荒川区公式チャンネル（YouTube）動画配信型講座　※配信終了\n「自分を知って子どもと向き合うー思春期編ー親子コミュニケーション講座」\n令和3年度小中学生コース第2回チラシ（PDF：336KB）;https://www.city.arakawa.tokyo.jp/documents/1112/chirashi2th.pdf\n\nこちらの記事も読まれています\n令和6年度荒川区家庭教育学級「乳幼児コース」（第2回）参加者を募集;https://www.city.arakawa.tokyo.jp/a016/kosodate/kosodateshien/6kakyounyuuyouji2.html\nあらかわきっずニュース8・9月号;https://www.city.arakawa.tokyo.jp/a035/kosodate/kosodateshien/arakawakids.html\n地域子育て教室;https://www.city.arakawa.tokyo.jp/a016/kosodate/kosodateshien/31papaschool.html\n令和6年度荒川区家庭教育学級「小中学生コース」(第1回)参加者募集のお知らせ;https://www.city.arakawa.tokyo.jp/a016/kosodate/kosodateshien/6kakyousyoutyu1.html\nあらかわきっずニュース8・9月号を配信しました;https://www.city.arakawa.tokyo.jp/a035/1201akidsnews.html",
+      "target": {
+        "targetPersons": "講座によって異なる。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "〇乳幼児コース\n区内の様々な場所で、実施いたします。\n該当地区の方でなくても、どなたでも参加できます。\n地区と開催月は変更になる場合があります。\n開催の半月から1カ月前に、区報・チラシ・ホームページで募集いたします。\n\n〇小中学生コース\n思春期の問題や、親子コミュニケーションの取り方などについて、講座を開催します。\n開催の半月から1カ月前に、区報・チラシ・ホームページで募集いたします。\n\n〇PTA連携家庭教育学級\n区立小中学校と共催で開催します。\n各学校によりテーマは異なります。",
+        "monetarySupport": null,
+        "materiallySupport": "〇乳幼児コース\n区内の様々な場所で、実施いたします。\n該当地区の方でなくても、どなたでも参加できます。\n地区と開催月は変更になる場合があります。\n開催の半月から1カ月前に、区報・チラシ・ホームページで募集いたします。\n\n〇小中学生コース\n思春期の問題や、親子コミュニケーションの取り方などについて、講座を開催します。\n開催の半月から1カ月前に、区報・チラシ・ホームページで募集いたします。\n\n〇PTA連携家庭教育学級\n区立小中学校と共催で開催します。\n各学校によりテーマは異なります。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.arakawa.tokyo.jp/a016/kosodate/kosodateshien/kakyougaku.html",
+        "title": "家庭教育学級"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "地域文化スポーツ部生涯学習課生涯学習事業係",
+        "contactPhone": "03-3802-4575",
+        "contactEx": null,
+        "contactEmail": "manabi.entry@city.arakawa.lg.jp",
+        "contactUrl": null,
+        "contactComment": "ファクス：03-3802-3126",
+        "zipCode": "1168501",
+        "contactAddress": "荒川区荒川二丁目2番3号（本庁舎3階）"
+      },
+      "area": {
+        "areaCode": "131181;荒川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+7000020131181+5+UM103",
+        "organization": "7000020131181",
+        "compartment": "地域文化スポーツ部生涯学習課生涯学習事業係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-07-19",
+      "odInformation": {
+        "updateDate": "2024-08-23",
+        "updater": "荒川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "学校教育法、児童福祉法",
+        "regulationArticle": "第24条、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

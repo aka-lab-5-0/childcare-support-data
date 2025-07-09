@@ -1,0 +1,131 @@
+{
+  "version": "2025-07-09T05:55:17.836Z",
+  "areaCode": "133621",
+  "areaName": "利島村",
+  "category": "education",
+  "count": 1,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "放課後子供教室",
+        "shortName": "利島村放課後子供教室"
+      },
+      "summary": "地域住民の参画を得て、放課後等に全ての児童を対象として、学習や体験・交流といった多様な活動を行っています。",
+      "description": "利島村放課後子供教室では、利島村の小中学生を対象として、平日の放課後や休日に学校の施設を使用して、学習・スポーツ等のプログラムを実施しています。\n\n利島村放課後子供教室について (PDF 75.6KB);https://www.toshimamura.org/fs/2/2/5/5/2/4/_/______________.pdf",
+      "target": {
+        "targetPersons": "利島村の小中学生",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "平日の放課後や休日"
+      },
+      "implementationPlace": {
+        "implementationName": "利島小中学校（校舎・校庭・体育館）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "利島小中学校へ申請書を提出",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.toshimamura.org/life/education/education-board.html",
+        "title": "利島村教育委員会"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "利島村教育委員会",
+        "contactPhone": "04992-9-0331",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133621;利島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133621+1+UM5028",
+        "organization": "1000020133621",
+        "compartment": "利島村教育委員会",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2025/03/13",
+        "updater": "利島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

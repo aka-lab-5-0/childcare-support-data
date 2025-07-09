@@ -1,0 +1,21 @@
+{
+  "name": "childcare-support-data",
+  "version": "1.0.0",
+  "description": "Child care support data distribution system",
+  "main": "index.js",
+  "scripts": {
+    "fetch": "node scripts/fetch-data.js",
+    "process": "node scripts/process-data.js",
+    "validate": "node tools/validator.js",
+    "diff": "node tools/diff-checker.js",
+    "build": "npm run fetch && npm run process && npm run validate"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "fs-extra": "^11.1.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}

@@ -1,0 +1,1986 @@
+{
+  "version": "2025-07-09T05:55:17.835Z",
+  "areaCode": "133086",
+  "areaName": "奥多摩町",
+  "category": "vaccination",
+  "count": 16,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "二種混合"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "幼児・子どもの予防接種\n子どもは発育と共に外出の機会が多くなり、感染症にかかる可能性も高くなります。接種できる時期になったら、できるだけベストのタイミングで、忘れずに予防接種を受けることが大切です。\n詳しい内容は、福祉保健課までお問い合わせください。\n|予防接種の種類|標準的な接種期間|接種回数|\n|:----|:----|:----|\n|二種混合|第2期は11歳に達した時から12歳に達するまでの期間。|1回|\n",
+      "target": {
+        "targetPersons": "第2期は11歳に達した時から12歳に達するまでの期間。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 12,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 11,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "11歳に達した時から12歳に達するまで"
+      },
+      "support": {
+        "description": "接種回数\n1回",
+        "monetarySupport": null,
+        "materiallySupport": "接種回数\n1回"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "詳しい内容は、福祉保健課までお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.okutama.tokyo.jp/1/fukushihokenka/iryo_kenko/1/589.html",
+        "title": "予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健課 健康係",
+        "contactPhone": "0428-83-2777",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.okutama.tokyo.jp/cgi-bin/inquiry.php/18?page_no=589",
+        "contactComment": "FAX：0428-83-2833",
+        "zipCode": "1980212",
+        "contactAddress": "奥多摩町氷川1111"
+      },
+      "area": {
+        "areaCode": "133086;奥多摩町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133086+10+UM54",
+        "organization": "8000020133086",
+        "compartment": "福祉保健課 健康係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-02",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "奥多摩町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "HPV"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "幼児・子どもの予防接種\n子どもは発育と共に外出の機会が多くなり、感染症にかかる可能性も高くなります。接種できる時期になったら、できるだけベストのタイミングで、忘れずに予防接種を受けることが大切です。\n詳しい内容は、福祉保健課までお問い合わせください。\n|予防接種の種類|標準的な接種期間|接種回数|\n|:----|:----|:----|\n|HPV<br>（注釈1、 注釈2参照）|13歳となる日の属する年度の初日から当該年度の末日まで。|3回<br>間隔はワクチンによって違うため医療機関におたずねください。|\n（注釈1）平成7年4月2日から平成19年4月1日に生まれた方は、20歳までの間に受けることができます。\n（注釈2）令和7年3月末までであれば、次の両方に該当する人は公費で接種を受けることができます。1.平成9年4月2日生まれ～平成20年4月1日生まれの女性 2.過去にHPVワクチンを3回受けていない人（母子健康手帳でご確認ください）。",
+      "target": {
+        "targetPersons": "13歳となる日の属する年度の初日から当該年度の末日まで。\n（注釈1）平成7年4月2日から平成19年4月1日に生まれた方は、20歳までの間に受けることができます。\n（注釈2）令和7年3月末までであれば、次の両方に該当する人は公費で接種を受けることができます。1.平成9年4月2日生まれ～平成20年4月1日生まれの女性 2.過去にHPVワクチンを3回受けていない人（母子健康手帳でご確認ください）。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "13歳となる日の属する年度の初日から当該年度の末日まで。\n（注釈1）平成7年4月2日から平成19年4月1日に生まれた方は、20歳までの間に受けることができます。\n（注釈2）令和7年3月末までであれば、次の両方に該当する人は公費で接種を受けることができます。1.平成9年4月2日生まれ～平成20年4月1日生まれの女性 2.過去にHPVワクチンを3回受けていない人（母子健康手帳でご確認ください）。"
+      },
+      "support": {
+        "description": "接種回数\n3回\n間隔はワクチンによって違うため医療機関におたずねください。",
+        "monetarySupport": null,
+        "materiallySupport": "接種回数\n3回\n間隔はワクチンによって違うため医療機関におたずねください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "詳しい内容は、福祉保健課までお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.okutama.tokyo.jp/1/fukushihokenka/iryo_kenko/1/589.html",
+        "title": "予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健課 健康係",
+        "contactPhone": "0428-83-2777",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.okutama.tokyo.jp/cgi-bin/inquiry.php/18?page_no=589",
+        "contactComment": "FAX：0428-83-2833",
+        "zipCode": "1980212",
+        "contactAddress": "奥多摩町氷川1111"
+      },
+      "area": {
+        "areaCode": "133086;奥多摩町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133086+11+UM54",
+        "organization": "8000020133086",
+        "compartment": "福祉保健課 健康係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-02",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "奥多摩町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊娠の届出・母子健康手帳の交付",
+        "shortName": "母子健康手帳の交付"
+      },
+      "summary": "妊娠がわかったら妊娠の届出をしてください。妊娠の届出をした妊婦さんに母子健康手帳を交付します。母子健康手帳は、妊娠からお子さんが小学校に入学するまでの、母と子の健康の記録です。育児、予防接種、健康診査などの際に必要となります。奥多摩町では、妊娠の届出の際に、母子健康手帳と共にマタニティマーク入りキーホルダーをお渡ししています。",
+      "description": "妊娠おめでとうございます。赤ちゃんがお腹の中で大きくなるにつれて、お母さんも心身ともに大きく変化し、実感がわいてくると思います。\n必要な物を揃えたり体調を整えながら、新しい家族を迎える準備を始めましょう。\n●母子健康手帳の交付\n役場住民課総合窓口・古里出張所窓口で、妊娠届を提出することで交付されます。\n　ママと赤ちゃんの健康に関する情報が記録される大切な手帳なので、常に持ち歩き、なくさないようにしましょう。\n　届け出時に必要な物\n　　本人が届け出る場合は個人番号が確認できるもの（マイナンバーカードなど）と本人確認できるもの（運転免許証、パスポートなど）\n　お渡しするもの（母子健康手帳のほか）\n　　・妊婦健康診査受診券 14 回分\n　　・超音波検査受診券 4 枚\n　　・子宮頸がん検診受診券 1 枚\n　　・新生児聴覚検査 1 枚\n　　※都外の医療機関に係る場合は別に申請が必要です。",
+      "target": {
+        "targetPersons": "妊産婦さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "妊産婦さん"
+      },
+      "support": {
+        "description": "母子健康手帳の交付\n妊娠届を提出することで交付されます。\n　ママと赤ちゃんの健康に関する情報が記録される大切な手帳なので、常に持ち歩き、なくさないようにしましょう。\nお渡しするもの（母子健康手帳のほか）\n　　・妊婦健康診査受診券 14 回分\n　　・超音波検査受診券 4 枚\n　　・子宮頸がん検診受診券 1 枚\n　　・新生児聴覚検査 1 枚\n奥多摩町では、妊娠の届出の際に、母子健康手帳と共にマタニティマーク入りキーホルダーをお渡ししています。",
+        "monetarySupport": null,
+        "materiallySupport": "母子健康手帳の交付\n妊娠届を提出することで交付されます。\n　ママと赤ちゃんの健康に関する情報が記録される大切な手帳なので、常に持ち歩き、なくさないようにしましょう。\nお渡しするもの（母子健康手帳のほか）\n　　・妊婦健康診査受診券 14 回分\n　　・超音波検査受診券 4 枚\n　　・子宮頸がん検診受診券 1 枚\n　　・新生児聴覚検査 1 枚\n奥多摩町では、妊娠の届出の際に、母子健康手帳と共にマタニティマーク入りキーホルダーをお渡ししています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "妊娠届の提出",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "妊娠がわかったら"
+      },
+      "electronicSubmission": false,
+      "belongings": "本人が届け出る場合は個人番号が確認できるもの（マイナンバーカードなど）と本人確認できるもの（運転免許証、パスポートなど）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "役場住民課総合窓口・古里出張所窓口",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.okutama.tokyo.jp/material/files/group/7/fukushikosodate2024.pdf",
+        "title": "奥多摩町の福祉サービス（母子・子育て編）2024年度版 (PDFファイル: 1.4MB)"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "住民課総合窓口,こども家庭センター",
+        "contactPhone": "0428-83-2182,0428-85-2611",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133086;奥多摩町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133086+1+UM1",
+        "organization": "8000020133086",
+        "compartment": "福祉保健課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "奥多摩町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第15条（妊娠の届出）、第16条（母子健康手帳）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "077",
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "新生児訪問",
+        "shortName": "赤ちゃん訪問"
+      },
+      "summary": "新生児を対象に、保健師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+      "description": "●赤ちゃん訪問\n　すべての赤ちゃんに対して生後4 か月までに保健師が訪問し、赤ちゃんの体重測定や保護者の育児の相談に応じます。また、子育て支援情報をお伝えしたり、予防接種の予診票やガイドブックもお渡ししています。",
+      "target": {
+        "targetPersons": "すべての赤ちゃんに対して生後4 か月までに",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後4 か月までに"
+      },
+      "support": {
+        "description": "保健師が訪問し、赤ちゃんの体重測定や保護者の育児の相談に応じます。また、子育て支援情報をお伝えしたり、予防接種の予診票やガイドブックもお渡ししています。",
+        "monetarySupport": null,
+        "materiallySupport": "保健師が訪問し、赤ちゃんの体重測定や保護者の育児の相談に応じます。また、子育て支援情報をお伝えしたり、予防接種の予診票やガイドブックもお渡ししています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.okutama.tokyo.jp/material/files/group/7/fukushikosodate2024.pdf",
+        "title": "奥多摩町の福祉サービス（母子・子育て編）2024年度版 (PDFファイル: 1.4MB)"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健福祉センター 母子保健担当",
+        "contactPhone": "0428-83-2777",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1980212",
+        "contactAddress": "奥多摩町氷川1111"
+      },
+      "area": {
+        "areaCode": "133086;奥多摩町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133086+1+UM13",
+        "organization": "8000020133086",
+        "compartment": "保健福祉センター　母子保健担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "奥多摩町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第11条（新生児の訪問指導）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+        "shortName": "赤ちゃん訪問"
+      },
+      "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+      "description": "生後4か月までのすべての赤ちゃんを対象に、保健師が各ご家庭を訪問し、体重測定や保護者の育児相談に応じます。また、予防接種の予診票や子育て支援情報もあわせてお届けいたします。",
+      "target": {
+        "targetPersons": "生後4か月までのすべての赤ちゃん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後4か月まで"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.okutama.tokyo.jp/1/fukushihokenka/kosodate_kyoiku/2497.html",
+        "title": "妊娠から出産・乳幼児期までのサービス"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健課 健康係",
+        "contactPhone": "0428-83-2777",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": "奥多摩町氷川1111"
+      },
+      "area": {
+        "areaCode": "133086;奥多摩町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133086+1+UM14",
+        "organization": "8000020133086",
+        "compartment": "福祉保健課 健康係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/08/14",
+      "odInformation": {
+        "updateDate": "2025/02/26",
+        "updater": "奥多摩町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第21条の10の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "ロタウイルス"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "幼児・子どもの予防接種\n子どもは発育と共に外出の機会が多くなり、感染症にかかる可能性も高くなります。接種できる時期になったら、できるだけベストのタイミングで、忘れずに予防接種を受けることが大切です。\n詳しい内容は、福祉保健課までお問い合わせください。\n|予防接種の種類|標準的な接種期間|接種回数|\n|:----|:----|:----|\n|ロタウイルス|初回接種は生後2月に至った日から出生14週6日後までの間。<br>2回目はワクチンによって違うため医療機関におたずねください。|2回もしくは3回|\n",
+      "target": {
+        "targetPersons": "初回接種は生後2月に至った日から出生14週6日後までの間。\n2回目はワクチンによって違うため医療機関におたずねください。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "初回接種は生後2月に至った日から出生14週6日後までの間。\n2回目はワクチンによって違うため医療機関におたずねください。"
+      },
+      "support": {
+        "description": "接種回数\n2回もしくは3回",
+        "monetarySupport": null,
+        "materiallySupport": "接種回数\n2回もしくは3回"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "詳しい内容は、福祉保健課までお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.okutama.tokyo.jp/1/fukushihokenka/iryo_kenko/1/589.html",
+        "title": "予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健課 健康係",
+        "contactPhone": "0428-83-2777",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.okutama.tokyo.jp/cgi-bin/inquiry.php/18?page_no=589",
+        "contactComment": "FAX：0428-83-2833",
+        "zipCode": "1980212",
+        "contactAddress": "奥多摩町氷川1111"
+      },
+      "area": {
+        "areaCode": "133086;奥多摩町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133086+1+UM54",
+        "organization": "8000020133086",
+        "compartment": "福祉保健課 健康係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-02",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "奥多摩町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の育児に関する金銭的支援",
+        "shortName": "子ども・子育て支援推進事業"
+      },
+      "summary": "奥多摩町は、安全に安心して子育てができるよう、奥多摩町子ども・子育て支援推進条例（平成20年条例第１号）に基づき、子ども・子育てを推進するため、産後健康診査等充実事業、インフルエンザ予防接種費用一部助成事業などの金銭的支援を行っています。",
+      "description": "子ども・子育て支援推進事業\n安全に安心して子育てができるよう以下の助成を行っています。助成を受けるには、毎年度申請が必要です。\n助成内容\n助成内容一覧\n|助成事業|対象者|算定基準等|\n|:----|:----|:----|\n|産後健康診査等充実事業|産後健康診査等（乳幼児1か月健診の費用を含む）対象者|出産につき1回を限度として、産後健康診査費等を助成する。<br>一回あたり限度額10,000円|\n|インフルエンザ予防接種費用一部助成事業|接種時に生後6か月以上の子どもの保護者\t|子ども1人1回を限度として、10月から翌2月まで町内医療機関で受けた予防接種費用の一部を助成する。<br>限度額2,000円（接種費が2,000円を下回る場合は、低い額を助成額とする。）|\n|ファミリー・サポート・センター利用助成及び病後児預かり助成事業|ファミリー・サポート・センターの利用会員・両方会員若しくは病後児預かりユーザー会員|事業を利用した際に支払った報酬額の一部として、子ども1人につき、年間7,000円を上限に助成する。|\n|保育園保育料助成事業|町内保育園に通園している世帯の保護者|認定された利用者負担額（保育料）を全額助成する。<br>子ども1人：月額×12か月分|\n|学童保育会育成料助成事業|ひとり親家庭及び多子家庭である世帯の保護者|ひとり親家庭及び多子家庭の子どもの育成料を全額助成する。<br>子ども1人：月額3,000円×12か月分|\n|ひとり親・多子家庭ごみ処理支援事業|ひとり親家庭及び多子家庭である世帯の保護者|ごみ袋購入費の一部として助成する。<br>1世帯：500円×12か月|\n|多子家庭水道料金一部支援事業|多子家庭である世帯の保護者（児童扶養手当受給者を除く）|水道料金の一部を助成する。<br>1世帯：1,000円×12か月|\n|高校生等通学定期代助成事業|自宅から年間を通して学校に通学している高校生等の子どもがいる世帯の保護者で、他の制度等により通学費の援助を受けていない者<br>住民票が町にある場合でも自宅から年間を通して通学していない場合は、対象とならない。|電車・モノレール：6か月の定期代（学校までの最も低額な経路）を算定基礎として、年2回助成する。<br>バス（町内に限る。自宅最寄りのバス停が大丹波地区、境地区、小河内地区及び寺地バス停以西に限る。）：6か月の定期代（自宅から最寄りの駅までの最も低額な経路）を算定基礎として、年2回助成する。ただし、自宅から一番近いバス停から最寄り駅までの定期代以外は認めない。|\n|高校生等通学支援事業|自宅から年間を通して学校に通学している高校生等の子どもがいる世帯の保護者<br>住民票が町にある場合でも自宅から年間を通して通学していない場合は、対象とならない。|通学時に、タクシーを利用した際の料金の一部又は自家用車等を利用した際のガソリン代の一部のいずれかを助成する。<br>タクシー<br>年間5,000円を上限に助成する。<br>ガソリン券<br>5,000円分、年1回を限度として助成する。|\n|学校給食費助成事業|町立小・中学校において、学校給食をとっている児童・生徒の保護者で、他の制度等により給食費の援助を受けていない者|奥多摩町学校給食センター設置条例施行規則（昭和50年教委規則第1号）に規定する給食費の全額を助成する。|\n|入園・入学・進学等支援事業|保育園等入園者、小・中学校入学者、高等学校等進学・卒業者の保護者|入園・入学・進学等の際に支援する。（各1回を限度とする。）ただし、入園等支援金は年長児の場合、当該年度の12月までに通園していることとする。<br>保育園等入園10,000円<br>小学校入学者20,000円<br>中学校入学者40,000円<br>高等学校等進学者50,000円<br>高等学校等卒業者50,000円<br>ただし高等学校等卒業者については、卒業者の年齢が満20歳に達する日以降の3月31日までの間にある者を対象とする。<br>なお、高等学校等卒業者については、卒業時に町内に住所を有する場合は対象とする。|\n|不妊検査・不妊治療助成事業|戸籍上の夫婦であること及び国保・社保等公的健康保険に加入している者|不妊検査や不妊症の治療にかかる経費の一部を助成する。（回数制限なし。他の制度等により助成を受けている場合は、それを控除した額を助成する。）<br>不妊検査<br>一年あたり限度額50,000円<br>不妊治療<br>一年あたり限度額150,000円|\n|不育治療助成事業|戸籍上の夫婦であること及び国保・社保等公的健康保険に加入している者|不育症の治療にかかる経費の一部を助成する。（回数制限なし。他の制度等により助成を受けている場合は、それを控除した額を助成する。）<br>一回あたり限度額150,000円|\n|高校生等医療費助成事業|高校生等の子どもがいる世帯の保護者|高校生等の医療費の自己負担分を助成する。<br>※令和5年10月1日から高校生医療費助成事業（マル青）へ移行しました。|\n|中学生制服等支援事業|町立中学校に入学（転入の場合を含む）する生徒の保護者|毎年度、町教育委員会が提示する制服等の金額を助成する。|\n|産後ケア支援事業|産後ケア事業利用者|奥多摩町産後ケア事業実施要綱に規定する自己負担金の全額を助成する。|\n条件\n次に該当する方は、申請をしても助成は受けられません。\n1.住民税等の未申告である方\n2.住民税等を滞納している方\n3.児童運営費（保育料）を滞納している方\n4.学童保育会育成料等を滞納している方\n5.各種使用料等を滞納している方\n6.学校給食費を滞納している方\n7.その他、町長が適当でないと判断した方\n言葉の定義\n1.この助成事業等の対象者は、町内に住所を有する者とする。ただし、転出等した場合は転出等の前月までを助成事業等の対象とする。\n2.この表の「子ども」とは、町内に住所を有する満18歳に達する日以後の最初の3月31日までの間にある者をいう。\n3.この表の「ひとり親家庭」とは、児童扶養手当受給者（児童扶養手当証書を有する者）をいう。\n4.この表の「多子家庭」とは、子どもが3人以上いる世帯をいう。\n5.この助成事業等の対象者とは、原則、他の助成制度等（公共・民間等）を受けていない者をいう。\n関連リンク\n子ども・子育て支援推進事業_申請の手引き (PDFファイル: 1.5MB);https://www.town.okutama.tokyo.jp/material/files/group/7/shinseitebiki2023.pdf\n奥多摩の福祉サービス（母子・子育て編） (PDFファイル: 1.5MB);https://www.town.okutama.tokyo.jp/material/files/group/7/fukushikosodatei2023.pdf",
+      "target": {
+        "targetPersons": "奥多摩町子ども・子育て支援推進事業助成金等交付要綱別表１に定める対象者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "助成内容\n助成内容一覧\n|助成事業|対象者|算定基準等|\n|:----|:----|:----|\n|産後健康診査等充実事業|産後健康診査等（乳幼児1か月健診の費用を含む）対象者|出産につき1回を限度として、産後健康診査費等を助成する。<br>一回あたり限度額10,000円|\n|インフルエンザ予防接種費用一部助成事業|接種時に生後6か月以上の子どもの保護者\t|子ども1人1回を限度として、10月から翌2月まで町内医療機関で受けた予防接種費用の一部を助成する。<br>限度額2,000円（接種費が2,000円を下回る場合は、低い額を助成額とする。）|\n|ファミリー・サポート・センター利用助成及び病後児預かり助成事業|ファミリー・サポート・センターの利用会員・両方会員若しくは病後児預かりユーザー会員|事業を利用した際に支払った報酬額の一部として、子ども1人につき、年間7,000円を上限に助成する。|\n|保育園保育料助成事業|町内保育園に通園している世帯の保護者|認定された利用者負担額（保育料）を全額助成する。<br>子ども1人：月額×12か月分|\n|学童保育会育成料助成事業|ひとり親家庭及び多子家庭である世帯の保護者|ひとり親家庭及び多子家庭の子どもの育成料を全額助成する。<br>子ども1人：月額3,000円×12か月分|\n|ひとり親・多子家庭ごみ処理支援事業|ひとり親家庭及び多子家庭である世帯の保護者|ごみ袋購入費の一部として助成する。<br>1世帯：500円×12か月|\n|多子家庭水道料金一部支援事業|多子家庭である世帯の保護者（児童扶養手当受給者を除く）|水道料金の一部を助成する。<br>1世帯：1,000円×12か月|\n|高校生等通学定期代助成事業|自宅から年間を通して学校に通学している高校生等の子どもがいる世帯の保護者で、他の制度等により通学費の援助を受けていない者<br>住民票が町にある場合でも自宅から年間を通して通学していない場合は、対象とならない。|電車・モノレール：6か月の定期代（学校までの最も低額な経路）を算定基礎として、年2回助成する。<br>バス（町内に限る。自宅最寄りのバス停が大丹波地区、境地区、小河内地区及び寺地バス停以西に限る。）：6か月の定期代（自宅から最寄りの駅までの最も低額な経路）を算定基礎として、年2回助成する。ただし、自宅から一番近いバス停から最寄り駅までの定期代以外は認めない。|\n|高校生等通学支援事業|自宅から年間を通して学校に通学している高校生等の子どもがいる世帯の保護者<br>住民票が町にある場合でも自宅から年間を通して通学していない場合は、対象とならない。|通学時に、タクシーを利用した際の料金の一部又は自家用車等を利用した際のガソリン代の一部のいずれかを助成する。<br>タクシー<br>年間5,000円を上限に助成する。<br>ガソリン券<br>5,000円分、年1回を限度として助成する。|\n|学校給食費助成事業|町立小・中学校において、学校給食をとっている児童・生徒の保護者で、他の制度等により給食費の援助を受けていない者|奥多摩町学校給食センター設置条例施行規則（昭和50年教委規則第1号）に規定する給食費の全額を助成する。|\n|入園・入学・進学等支援事業|保育園等入園者、小・中学校入学者、高等学校等進学・卒業者の保護者|入園・入学・進学等の際に支援する。（各1回を限度とする。）ただし、入園等支援金は年長児の場合、当該年度の12月までに通園していることとする。<br>保育園等入園10,000円<br>小学校入学者20,000円<br>中学校入学者40,000円<br>高等学校等進学者50,000円<br>高等学校等卒業者50,000円<br>ただし高等学校等卒業者については、卒業者の年齢が満20歳に達する日以降の3月31日までの間にある者を対象とする。<br>なお、高等学校等卒業者については、卒業時に町内に住所を有する場合は対象とする。|\n|不妊検査・不妊治療助成事業|戸籍上の夫婦であること及び国保・社保等公的健康保険に加入している者|不妊検査や不妊症の治療にかかる経費の一部を助成する。（回数制限なし。他の制度等により助成を受けている場合は、それを控除した額を助成する。）<br>不妊検査<br>一年あたり限度額50,000円<br>不妊治療<br>一年あたり限度額150,000円|\n|不育治療助成事業|戸籍上の夫婦であること及び国保・社保等公的健康保険に加入している者|不育症の治療にかかる経費の一部を助成する。（回数制限なし。他の制度等により助成を受けている場合は、それを控除した額を助成する。）<br>一回あたり限度額150,000円|\n|高校生等医療費助成事業|高校生等の子どもがいる世帯の保護者|高校生等の医療費の自己負担分を助成する。<br>※令和5年10月1日から高校生医療費助成事業（マル青）へ移行しました。|\n|中学生制服等支援事業|町立中学校に入学（転入の場合を含む）する生徒の保護者|毎年度、町教育委員会が提示する制服等の金額を助成する。|\n|産後ケア支援事業|産後ケア事業利用者|奥多摩町産後ケア事業実施要綱に規定する自己負担金の全額を助成する。|\n条件\n次に該当する方は、申請をしても助成は受けられません。\n1.住民税等の未申告である方\n2.住民税等を滞納している方\n3.児童運営費（保育料）を滞納している方\n4.学童保育会育成料等を滞納している方\n5.各種使用料等を滞納している方\n6.学校給食費を滞納している方\n7.その他、町長が適当でないと判断した方\n言葉の定義\n1.この助成事業等の対象者は、町内に住所を有する者とする。ただし、転出等した場合は転出等の前月までを助成事業等の対象とする。\n2.この表の「子ども」とは、町内に住所を有する満18歳に達する日以後の最初の3月31日までの間にある者をいう。\n3.この表の「ひとり親家庭」とは、児童扶養手当受給者（児童扶養手当証書を有する者）をいう。\n4.この表の「多子家庭」とは、子どもが3人以上いる世帯をいう。\n5.この助成事業等の対象者とは、原則、他の助成制度等（公共・民間等）を受けていない者をいう。",
+        "monetarySupport": "奥多摩町子ども・子育て支援推進事業助成金等交付要綱別表１の算定基準等に基づく助成金",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "関連リンク\n子ども・子育て支援推進事業_申請の手引き (PDFファイル: 1.2MB);https://www.town.okutama.tokyo.jp/material/files/group/7/2024tebiki.pdf",
+      "procedurePersons": null,
+      "procedureMethod": "関連リンク\n子ども・子育て支援推進事業_申請の手引き (PDFファイル: 1.2MB);https://www.town.okutama.tokyo.jp/material/files/group/7/2024tebiki.pdf",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "関連リンク\n子ども・子育て支援推進事業_申請の手引き (PDFファイル: 1.2MB);https://www.town.okutama.tokyo.jp/material/files/group/7/2024tebiki.pdf"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "関連リンク\n子ども・子育て支援推進事業_申請の手引き (PDFファイル: 1.2MB);https://www.town.okutama.tokyo.jp/material/files/group/7/2024tebiki.pdf",
+      "relatedLink": [
+        {
+          "uri": "https://www.town.okutama.tokyo.jp/material/files/group/7/fukushikosodate2024.pdf",
+          "title": "奥多摩の福祉サービス（母子・子育て編） (PDFファイル: 1.4MB)"
+        },
+        {
+          "uri": "https://www.town.okutama.tokyo.jp/material/files/group/7/2024tebiki.pdf",
+          "title": "子ども・子育て支援推進事業_申請の手引き (PDFファイル: 1.2MB)"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.town.okutama.tokyo.jp/1/fukushihokenka/kosodate_kyoiku/1/702.html",
+        "title": "子ども・子育て支援推進事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健課 子育て推進係",
+        "contactPhone": "0428-85-2611",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.okutama.tokyo.jp/cgi-bin/inquiry.php/16?page_no=2009",
+        "contactComment": "FAX：0428-85-1300",
+        "zipCode": "1980105",
+        "contactAddress": "奥多摩町小丹波108（こども家庭センター）​​​​​​"
+      },
+      "area": {
+        "areaCode": "133086;奥多摩町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133086+1+UM58",
+        "organization": "8000020133086",
+        "compartment": "福祉保健課 子育て推進係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "奥多摩町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "奥多摩町子ども・子育て支援推進事業助成金等交付要綱",
+        "regulationArticle": "第2条～第4条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "こども家庭センター",
+        "shortName": "こども家庭センター"
+      },
+      "summary": "奥多摩町の【こども家庭センター】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+      "description": "妊娠期から乳幼児期までの子どもと子育てに関するサポートを、保健福祉センターを中心にきこりんと連携して行います。\n\n妊娠届出時の面談と育児パッケージのお渡し\n母子健康手帳を発行後、町保健師より面談の日程調整のため電話連絡いたします。今の気持ちや体調、家庭や職場でのすごしかたなど日常のことや出産前後で気になることをお話ししませんか。転入された妊婦さんもお受けいただけますので、転入届出時に窓口でお申し出ください。面談を受けていただいた方にこども商品券1万円分をお渡ししています。\n\nマタニティクラス\n沐浴の実習や妊娠期の栄養、そのほかご希望に応じてオーダーメイドでご提供できるプランをおつくりいたします。妊娠届出時の面談もしくはお電話でご相談ください。\n\n赤ちゃん訪問と子育て応援ギフトのお渡し\n生後4か月までのすべての赤ちゃんを対象に、保健師が各ご家庭を訪問し、体重測定や保護者の育児相談に応じます。また、予防接種の予診票や子育て支援情報もあわせてお届けいたします。\n\n産後ケア事業\n🌸利用できる方🌸\n\n町に住民票がある生後1年未満の赤ちゃんとママのうち、次のいずれかにあてはまる方\n1. 家族等から十分な支援が受けられない方\n2. 体調不良や授乳・育児について不安がある方\n\n🌸利用方法🌸\n来所もしくはお電話で申請します。決定通知が発行されたらご自身で利用施設や助産師さんに予約してください。\n\n🌸利用日数🌸\n 宿泊・日帰り・訪問型合わせ7日まで\n※1泊は2日と数えます。\n\n🌸利用料金🌸\n宿泊型 1泊 6000円 連泊の場合、2泊目から3000円\n※ 双子以上の場合1人1泊につき1600円加算します\n日帰り型： 1日2500円\n※ 双子以上の場合1人につき1500円加算します\n訪問型 1回（90分）1500円\n※双子以上の場合1人につき800円加算します\nキャンセル料金 利用期間の初日11日前までに各施設へ連絡がなかった場合、宿泊・通所型は1000円 訪問型は500円かかります。産後ケア支援事業で、利用した際の自己負担金全額と交通費（上限15,000円×利用回数）の助成をしています。詳しくは下のリンク先をご覧ください。\n\n🌸実施施設🌸\n宿泊・日帰り型：森田助産院  https://www.morikko.jp（外部リンク）   \n訪問型：えのきど母乳育児相談室 https://enokido-oketani.com/contact（外部リンク）\n\n🌸内 容🌸\n🌸宿泊型は個室で3食つきで、赤ちゃんと一緒に泊まれます。\n🌸日帰り型はランチつきで、助産師さんからケアや相談を受けることもできます。\n🌸訪問型は「出産後、自宅に帰ってから授乳がうまくいかない」「体調がよくな い」「沐浴をしてほしい」など、サポートが必要なママと赤ちゃんのお宅に助産師が伺い、ケアやアドバイスが受けられます。\n\n産後ケア申請書ダウンロード \n産後ケア申請書 (Wordファイル: 24.6KB);https://www.town.okutama.tokyo.jp/material/files/group/7/saangokea.docx\n子ども・子育て支援推進事業;https://www.town.okutama.tokyo.jp/kosodate/mokutekidesagasu/kakushusupport/1154.html\n\nバースデーサポート\n1歳のお誕生日の翌月に、郵送したアンケートにご回答いただいた子育て中のご家庭にクーポン券の配布、子育て支援の情報提供、子育て相談等を行っております。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠届出時の面談と育児パッケージのお渡し,マタニティクラス,赤ちゃん訪問と子育て応援ギフトのお渡し,産後ケア事業,バースデーサポート",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠届出時の面談と育児パッケージのお渡し,マタニティクラス,赤ちゃん訪問と子育て応援ギフトのお渡し,産後ケア事業,バースデーサポート"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.okutama.tokyo.jp/1/fukushihokenka/kosodate_kyoiku/2497.html",
+        "title": "妊娠から出産・乳幼児期までのサービス"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健課 健康係",
+        "contactPhone": "0428-83-2777",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": "奥多摩町氷川1111"
+      },
+      "area": {
+        "areaCode": "133086;奥多摩町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133086+1+UM799",
+        "organization": "8000020133086",
+        "compartment": "福祉保健課 健康係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/08/14",
+      "odInformation": {
+        "updateDate": "2025/02/26",
+        "updater": "奥多摩町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第10条の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "B型肝炎"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "幼児・子どもの予防接種\n子どもは発育と共に外出の機会が多くなり、感染症にかかる可能性も高くなります。接種できる時期になったら、できるだけベストのタイミングで、忘れずに予防接種を受けることが大切です。\n詳しい内容は、福祉保健課までお問い合わせください。\n|予防接種の種類|標準的な接種期間|接種回数|\n|:----|:----|:----|\n|B型肝炎|生後2月に至った時から生後9月に至るまでの期間に初回2回は27日以上をあける。<br>追加接種は1回目の接種から139日以上あける。|初回2回<br>追加1回|\n",
+      "target": {
+        "targetPersons": "生後2月に至った時から生後9月に至るまでの期間に初回2回は27日以上をあける。\n追加接種は1回目の接種から139日以上あける。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後2月に至った時から生後9月に至るまでの期間に初回2回は27日以上をあける。\n追加接種は1回目の接種から139日以上あける。1歳を過ぎると自己負担。"
+      },
+      "support": {
+        "description": "接種回数\n初回2回\n追加1回",
+        "monetarySupport": null,
+        "materiallySupport": "接種回数\n初回2回\n追加1回"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "詳しい内容は、福祉保健課までお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.okutama.tokyo.jp/1/fukushihokenka/iryo_kenko/1/589.html",
+        "title": "予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健課 健康係",
+        "contactPhone": "0428-83-2777",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.okutama.tokyo.jp/cgi-bin/inquiry.php/18?page_no=589",
+        "contactComment": "FAX：0428-83-2833",
+        "zipCode": "1980212",
+        "contactAddress": "奥多摩町氷川1111"
+      },
+      "area": {
+        "areaCode": "133086;奥多摩町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133086+2+UM54",
+        "organization": "8000020133086",
+        "compartment": "福祉保健課 健康係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-02",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "奥多摩町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "Hib"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "幼児・子どもの予防接種\n子どもは発育と共に外出の機会が多くなり、感染症にかかる可能性も高くなります。接種できる時期になったら、できるだけベストのタイミングで、忘れずに予防接種を受けることが大切です。\n詳しい内容は、福祉保健課までお問い合わせください。\n|予防接種の種類|標準的な接種期間|接種回数|\n|:----|:----|:----|\n|Hib|初回接種開始は生後2月から生後7月に至るまで。<br>追加接種は初回終了後から7月から13月までの間隔をおく。|初回3回<br>追加1回|\n",
+      "target": {
+        "targetPersons": "初回接種開始は生後2月から生後7月に至るまで。\n追加接種は初回終了後から7月から13月までの間隔をおく。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "初回接種開始は生後2月から生後7月に至るまで。\n追加接種は初回終了後から7月から13月までの間隔をおく。"
+      },
+      "support": {
+        "description": "接種回数\n初回3回\n追加1回",
+        "monetarySupport": null,
+        "materiallySupport": "接種回数\n初回3回\n追加1回"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "詳しい内容は、福祉保健課までお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.okutama.tokyo.jp/1/fukushihokenka/iryo_kenko/1/589.html",
+        "title": "予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健課 健康係",
+        "contactPhone": "0428-83-2777",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.okutama.tokyo.jp/cgi-bin/inquiry.php/18?page_no=589",
+        "contactComment": "FAX：0428-83-2833",
+        "zipCode": "1980212",
+        "contactAddress": "奥多摩町氷川1111"
+      },
+      "area": {
+        "areaCode": "133086;奥多摩町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133086+3+UM54",
+        "organization": "8000020133086",
+        "compartment": "福祉保健課 健康係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-02",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "奥多摩町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "肺炎球菌"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "幼児・子どもの予防接種\n子どもは発育と共に外出の機会が多くなり、感染症にかかる可能性も高くなります。接種できる時期になったら、できるだけベストのタイミングで、忘れずに予防接種を受けることが大切です。\n詳しい内容は、福祉保健課までお問い合わせください。\n|予防接種の種類|標準的な接種期間|接種回数|\n|:----|:----|:----|\n|小児の肺炎球菌|初回接種開始は、生後2月から生後7月に至るまで。<br>追加接種は、初回接種終了後60日以上の間隔をおいて生後12月から生後15月に至るまで|初回3回<br>追加1回|\n",
+      "target": {
+        "targetPersons": "初回接種開始は、生後2月から生後7月に至るまで。\n追加接種は、初回接種終了後7月から13月までの間隔をおく。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "初回接種開始は、生後2月から生後7月に至るまで。\n追加接種は、初回接種終了後7月から13月までの間隔をおく。"
+      },
+      "support": {
+        "description": "接種回数\n初回3回\n追加1回",
+        "monetarySupport": null,
+        "materiallySupport": "接種回数\n初回3回\n追加1回"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "詳しい内容は、福祉保健課までお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.okutama.tokyo.jp/1/fukushihokenka/iryo_kenko/1/589.html",
+        "title": "予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健課 健康係",
+        "contactPhone": "0428-83-2777",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.okutama.tokyo.jp/cgi-bin/inquiry.php/18?page_no=589",
+        "contactComment": "FAX：0428-83-2833",
+        "zipCode": "1980212",
+        "contactAddress": "奥多摩町氷川1111"
+      },
+      "area": {
+        "areaCode": "133086;奥多摩町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133086+4+UM54",
+        "organization": "8000020133086",
+        "compartment": "福祉保健課 健康係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-02",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "奥多摩町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "四種混合"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "幼児・子どもの予防接種\n子どもは発育と共に外出の機会が多くなり、感染症にかかる可能性も高くなります。接種できる時期になったら、できるだけベストのタイミングで、忘れずに予防接種を受けることが大切です。\n詳しい内容は、福祉保健課までお問い合わせください。\n|予防接種の種類|標準的な接種期間|接種回数|\n|:----|:----|:----|\n|四種混合|第1期初回は生後2月に達した時から生後12月に達するまでの期間。<br>第1期追加は初回接種3回目終了後12月から18月までの間隔をおく。|初回3回<br>追加1回|\n",
+      "target": {
+        "targetPersons": "第1期初回は生後2月に達した時から生後12月に達するまでの期間。\n第1期追加は初回接種3回目終了後12月から18月までの間隔をおく。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "第1期初回は生後2月に達した時から生後12月に達するまでの期間。\n第1期追加は初回接種3回目終了後12月から18月までの間隔をおく。"
+      },
+      "support": {
+        "description": "接種回数\n初回3回\n追加1回",
+        "monetarySupport": null,
+        "materiallySupport": "接種回数\n初回3回\n追加1回"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "詳しい内容は、福祉保健課までお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.okutama.tokyo.jp/1/fukushihokenka/iryo_kenko/1/589.html",
+        "title": "予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健課 健康係",
+        "contactPhone": "0428-83-2777",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.okutama.tokyo.jp/cgi-bin/inquiry.php/18?page_no=589",
+        "contactComment": "FAX：0428-83-2833",
+        "zipCode": "1980212",
+        "contactAddress": "奥多摩町氷川1111"
+      },
+      "area": {
+        "areaCode": "133086;奥多摩町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133086+5+UM54",
+        "organization": "8000020133086",
+        "compartment": "福祉保健課 健康係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-02",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "奥多摩町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "BCG"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "幼児・子どもの予防接種\n子どもは発育と共に外出の機会が多くなり、感染症にかかる可能性も高くなります。接種できる時期になったら、できるだけベストのタイミングで、忘れずに予防接種を受けることが大切です。\n詳しい内容は、福祉保健課までお問い合わせください。\n|予防接種の種類|標準的な接種期間|接種回数|\n|:----|:----|:----|\n|BCG|生後5月に達した時から生後8月に達するまでの期間|1回|\n",
+      "target": {
+        "targetPersons": "生後5月に達した時から生後8月に達するまでの期間",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 8
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 5
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後5月に達した時から生後8月に達するまで"
+      },
+      "support": {
+        "description": "接種回数\n1回",
+        "monetarySupport": null,
+        "materiallySupport": "接種回数\n1回"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "詳しい内容は、福祉保健課までお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.okutama.tokyo.jp/1/fukushihokenka/iryo_kenko/1/589.html",
+        "title": "予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健課 健康係",
+        "contactPhone": "0428-83-2777",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.okutama.tokyo.jp/cgi-bin/inquiry.php/18?page_no=589",
+        "contactComment": "FAX：0428-83-2833",
+        "zipCode": "1980212",
+        "contactAddress": "奥多摩町氷川1111"
+      },
+      "area": {
+        "areaCode": "133086;奥多摩町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133086+6+UM54",
+        "organization": "8000020133086",
+        "compartment": "福祉保健課 健康係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-02",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "奥多摩町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "MR"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "幼児・子どもの予防接種\n子どもは発育と共に外出の機会が多くなり、感染症にかかる可能性も高くなります。接種できる時期になったら、できるだけベストのタイミングで、忘れずに予防接種を受けることが大切です。\n詳しい内容は、福祉保健課までお問い合わせください。\n|予防接種の種類|標準的な接種期間|接種回数|\n|:----|:----|:----|\n|MR|第1期は生後12月から生後24月に至るまでの間にある者。<br>第2期は5歳以上7歳未満の者で、小学校就学の始期に達する日の1年前の日から当該始期に達する日の前日までの間にある者。|第1期1回<br>第2期1回|\n",
+      "target": {
+        "targetPersons": "第1期は生後12月から生後24月に至るまでの間にある者。\n第2期は5歳以上7歳未満の者で、小学校就学の始期に達する日の1年前の日から当該始期に達する日の前日までの間にある者。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "第1期は生後12月から生後24月に至るまでの間にある者。\n第2期は5歳以上7歳未満の者で、小学校就学の始期に達する日の1年前の日から当該始期に達する日の前日までの間にある者。"
+      },
+      "support": {
+        "description": "接種回数\n第1期1回\n第2期1回",
+        "monetarySupport": null,
+        "materiallySupport": "接種回数\n第1期1回\n第2期1回"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "詳しい内容は、福祉保健課までお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.okutama.tokyo.jp/1/fukushihokenka/iryo_kenko/1/589.html",
+        "title": "予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健課 健康係",
+        "contactPhone": "0428-83-2777",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.okutama.tokyo.jp/cgi-bin/inquiry.php/18?page_no=589",
+        "contactComment": "FAX：0428-83-2833",
+        "zipCode": "1980212",
+        "contactAddress": "奥多摩町氷川1111"
+      },
+      "area": {
+        "areaCode": "133086;奥多摩町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133086+7+UM54",
+        "organization": "8000020133086",
+        "compartment": "福祉保健課 健康係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-02",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "奥多摩町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "水痘"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "幼児・子どもの予防接種\n子どもは発育と共に外出の機会が多くなり、感染症にかかる可能性も高くなります。接種できる時期になったら、できるだけベストのタイミングで、忘れずに予防接種を受けることが大切です。\n詳しい内容は、福祉保健課までお問い合わせください。\n|予防接種の種類|標準的な接種期間|接種回数|\n|:----|:----|:----|\n|水痘|1回目の注射は生後12月から生後15月に達するまで。2回目の注射は、1回目の注射終了後6月から12月までの期間をおく。|2回|\n",
+      "target": {
+        "targetPersons": "1回目の注射は生後12月から生後15月に達するまで。2回目の注射は、1回目の注射終了後6月から12月までの期間をおく。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1回目の注射は生後12月から生後15月に達するまで。2回目の注射は、1回目の注射終了後6月から12月までの期間をおく。３歳を過ぎると自己負担。"
+      },
+      "support": {
+        "description": "接種回数\n2回",
+        "monetarySupport": null,
+        "materiallySupport": "接種回数\n2回"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "詳しい内容は、福祉保健課までお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.okutama.tokyo.jp/1/fukushihokenka/iryo_kenko/1/589.html",
+        "title": "予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健課 健康係",
+        "contactPhone": "0428-83-2777",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.okutama.tokyo.jp/cgi-bin/inquiry.php/18?page_no=589",
+        "contactComment": "FAX：0428-83-2833",
+        "zipCode": "1980212",
+        "contactAddress": "奥多摩町氷川1111"
+      },
+      "area": {
+        "areaCode": "133086;奥多摩町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133086+8+UM54",
+        "organization": "8000020133086",
+        "compartment": "福祉保健課 健康係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-02",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "奥多摩町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "日本脳炎"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "幼児・子どもの予防接種\n子どもは発育と共に外出の機会が多くなり、感染症にかかる可能性も高くなります。接種できる時期になったら、できるだけベストのタイミングで、忘れずに予防接種を受けることが大切です。\n詳しい内容は、福祉保健課までお問い合わせください。\n|予防接種の種類|標準的な接種期間|接種回数|\n|:----|:----|:----|\n|日本脳炎<br>（注釈3参照）|第1期初回は3歳に達した時から4歳に達するまでの期間。<br>第1期追加は4歳に達した時から5歳に達するまでの期間。<br>第2期は9歳以上13歳未満の者|第1期初回2回<br>第1期追加1回<br>第2期1回|\n（注釈3）平成7年4月2日生まれから平成19年4月1日までの間に生まれた方で第1期接種を完了し、第2期接種のみを受けていない方は20歳未満であれば公費で接種できます。",
+      "target": {
+        "targetPersons": "第1期初回は3歳に達した時から4歳に達するまでの期間。\n第1期追加は4歳に達した時から5歳に達するまでの期間。\n第2期は9歳以上13歳未満の者\n（注釈3）平成7年4月2日生まれから平成19年4月1日までの間に生まれた方で第1期接種を完了し、第2期接種のみを受けていない方は20歳未満であれば公費で接種できます。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "第1期初回は3歳に達した時から4歳に達するまでの期間。\n第1期追加は4歳に達した時から5歳に達するまでの期間。\n第2期は9歳以上13歳未満の者\n（注釈3）平成7年4月2日生まれから平成19年4月1日までの間に生まれた方で第1期接種を完了し、第2期接種のみを受けていない方は20歳未満であれば公費で接種できます。"
+      },
+      "support": {
+        "description": "接種回数\n第1期初回2回\n第1期追加1回\n第2期1回",
+        "monetarySupport": null,
+        "materiallySupport": "接種回数\n第1期初回2回\n第1期追加1回\n第2期1回"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "詳しい内容は、福祉保健課までお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.okutama.tokyo.jp/1/fukushihokenka/iryo_kenko/1/589.html",
+        "title": "予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健課 健康係",
+        "contactPhone": "0428-83-2777",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.okutama.tokyo.jp/cgi-bin/inquiry.php/18?page_no=589",
+        "contactComment": "FAX：0428-83-2833",
+        "zipCode": "1980212",
+        "contactAddress": "奥多摩町氷川1111"
+      },
+      "area": {
+        "areaCode": "133086;奥多摩町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020133086+9+UM54",
+        "organization": "8000020133086",
+        "compartment": "福祉保健課 健康係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-02",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "奥多摩町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

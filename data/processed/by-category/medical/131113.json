@@ -1,0 +1,3361 @@
+{
+  "version": "2025-07-09T05:55:17.796Z",
+  "areaCode": "131113",
+  "areaName": "大田区",
+  "category": "medical",
+  "count": 24,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦訪問",
+        "shortName": "妊産婦訪問"
+      },
+      "summary": "妊産婦の方（妊娠中または出産後1年以内）を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、妊娠期間中や出産後の不安や悩みについての相談等を行います。",
+      "description": "すこやか赤ちゃん訪問\nページ番号：161652110\n更新日：2023年11月1日\n保健師・助産師が訪問します\n生後4か月までのすべての赤ちゃんを対象に、助産師や保健師が家庭を訪問し赤ちゃんの発育や健康状態等を確認しながら、お母さんの健康や子育ての相談をお受けします。母子保健サービスや子育て情報などもご案内します。（無料）　　\n大田区では、提出いただいた「出生通知書」（すこやか赤ちゃん訪問依頼書）をもとに、助産師・保健師が訪問を実施します。\nなお、すこやか赤ちゃん訪問の際は、携帯電話または地域健康課からご連絡差し上げます。\n\n申し込み方法\n赤ちゃんが生まれたら、母子健康手帳交付時にお渡ししている妊婦健康診査の受診票セットについているハガキ「出生通知書」（すこやか赤ちゃん訪問依頼書）をできるだけ14日以内に投函してください。\n　転入や紛失等でハガキがない場合は、お住まいを管轄する地域健康課または健康づくり課までお問合せください。\n\n大森地域健康課　03-5764-0661\n調布地域健康課　03-3726-4145\n蒲田地域健康課　03-5713-1701\n糀谷・羽田地域健康課　03-3743-4161\n健康づくり課　　　　03-5744-1661\nお住いの地域健康課管轄一覧　（PDF：667KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/shussan/sukoyaka-akachan-houmon.files/kannkatu.pdf\n\n里帰り先での訪問を希望する場合\n里帰り先での訪問を希望される場合は、お住まいを管轄する地域健康課にお問い合わせ下さい。\n\n出産・子育て応援事業について\nすこやか赤ちゃん訪問を受けた方には「子育て応援ギフト」の申請ができます。\n出産・子育て応援事業;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/syussankosodate.html",
+      "target": {
+        "targetPersons": "生後4か月までのすべての赤ちゃん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後4か月までのすべての赤ちゃん"
+      },
+      "support": {
+        "description": "助産師や保健師が家庭を訪問し赤ちゃんの発育や健康状態等を確認しながら、お母さんの健康や子育ての相談をお受けします。母子保健サービスや子育て情報などもご案内します。（無料）",
+        "monetarySupport": null,
+        "materiallySupport": "助産師や保健師が家庭を訪問し赤ちゃんの発育や健康状態等を確認しながら、お母さんの健康や子育ての相談をお受けします。母子保健サービスや子育て情報などもご案内します。（無料）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "赤ちゃんが生まれたら、母子健康手帳交付時にお渡ししている妊婦健康診査の受診票セットについているハガキ「出生通知書」（すこやか赤ちゃん訪問依頼書）をできるだけ14日以内に投函してください。\n　転入や紛失等でハガキがない場合は、お住まいを管轄する地域健康課または健康づくり課までお問合せください。\n\n大森地域健康課　03-5764-0661\n調布地域健康課　03-3726-4145\n蒲田地域健康課　03-5713-1701\n糀谷・羽田地域健康課　03-3743-4161\n健康づくり課　　　　03-5744-1661\nお住いの地域健康課管轄一覧　（PDF：667KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/shussan/sukoyaka-akachan-houmon.files/kannkatu.pdf\n\n里帰り先での訪問を希望する場合\n里帰り先での訪問を希望される場合は、お住まいを管轄する地域健康課にお問い合わせ下さい。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "大森地域健康課　03-5764-0661\n調布地域健康課　03-3726-4145\n蒲田地域健康課　03-5713-1701\n糀谷・羽田地域健康課　03-3743-4161\n健康づくり課　　　　03-5744-1661",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/syussankosodate.html",
+          "title": "出産・子育て応援事業"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kumin_kenkoudukuri.html",
+          "title": "健康づくり課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/shussan/sukoyaka-akachan-houmon.files/kannkatu.pdf",
+          "title": "お住いの地域健康課管轄一覧　（PDF：667KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/shussan/sukoyaka-akachan-houmon.html",
+        "title": "すこやか赤ちゃん訪問"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康づくり課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kumin_kenkoudukuri.html",
+        "contactPhone": "03-5744-1661",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX ：03-5744-1523",
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+1+UM11",
+        "organization": "1000020131113",
+        "compartment": "健康づくり課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-11-01",
+      "odInformation": {
+        "updateDate": "2024-06-27",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条（妊産婦の訪問指導等）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小児科救急",
+        "shortName": "初期救急（平日）"
+      },
+      "summary": "小児救急患者（満3か月から中学3年生まで）を対象とした初期救急医療事業として、「大田区子ども平日夜間救急室」を東邦大学医療センター大森病院に開設しています。",
+      "description": "夜間・休日診療のご案内\n\n休日や夜間に急病になった場合の情報を掲載しています。\n各診療情報の他、医療に関する緊急時の相談先については、以下、「困ったときの相談先」の項目に掲載しております。併せてご確認ください。\n出掛ける前にご確認ください\nかかりつけ医が診察している時間帯は、かかりつけ医にご相談ください。\n受診前に、必ず電話連絡をお願いします。\n健康保険証や医療証などをお忘れなくお持ちください。\n病院の場合は選定療養費がかかる場合がありますので、事前に確認してください。\n台風等の荒天時には、診療時間が変更となる場合がございます。\n「内科（小児科含）の急病」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cmsDEBD0\n「小児科の急病」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms9B505\n「薬（処方箋調剤）」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms592CA\n「歯痛」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cmsE9764\n「接骨（ほねつぎ）」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms929AC\n「困ったときの相談先」はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms4AABC\n「診療科・曜日ごとの早見表」はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms46D5C\n内科（小児科含）の急病\n現在、電話予約制となっています。必ず、事前に電話をしてから受診してください。\n\n土曜日\n診療時間　午後5時から10時まで（受付は午後9時30分まで）\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森医師会診療所<br>※電話予約制|中央4-31-14|03-3772-2402|\n|蒲田医師会診療所<br>※電話予約制|蒲田4-24-12|03-3732-0191|\n日曜日・祝日\n診療時間　午前9時から午後10時まで（受付は午後9時30分まで）\n（注意）午前11時30分から午後1時までは休憩時間\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森医師会診療所<br>※電話予約制|中央4-31-14|03-3772-2402|\n|田園調布医師会診療所<br>※電話予約制|石川町2-7-1|03-3728-6671|\n|蒲田医師会診療所<br>※電話予約制|蒲田4-24-12|03-3732-0191|\n各医師会診療所ホームページ\n大森医師会ホームページ;https://www.omori-med.or.jp/\n田園調布医師会ホームページ;https://www.dencho-med.or.jp/\n蒲田医師会ホームページ;http://www.kamata-med.or.jp/\n\n小児科の急病\n初期救急（平日）\n小児救急患者（満3か月から中学3年生まで）を対象とした初期救急医療事業です。\n診療時間　午後8時から11時（受付は午後7時45分から10時45分）\n創立記念日（6月10日）は休診です。\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大田区子ども平日夜間救急室|大森西6-11-1<br>（東邦大学医療センター大森病院3号館1階）|03-3762-4151|\n大森医師会、田園調布医師会、蒲田医師会、大田区薬剤師会、東邦大学医療センター大森病院が協同で運営しています。\n\n（注意）大田区子ども平日夜間救急室では、感染症の抗原検査は、診察した医師の判断にて実施をいたします。なお、インフルエンザ・新型コロナウイルスの同時抗原検査キットのみの対応となります。\n\n救急（祝日を含む月曜から日曜）\n東邦大学医療センター大森病院\n　所在地　大森西6-11-1\n　電話番号　03-3762-4151\n\n救急外来　受付時間\n|診療体制|受付時間|\n|:----|:----|\n|平日|午後4時15分から翌朝8時30分|\n|土曜日（第三・臨時休診を除く）|午後1時15分から翌朝8時30分|\n|休日（日曜日・祝日・第三土曜日・6月10日）|午前8時30分から翌朝8時30分|\n（注釈）創立記念日（6月10日）及び、臨時休診日は、「休日」の診療体制となります。\n（注釈）祝日の臨時平日診療日は、「平日」の診療体制となります。\n（注釈）診療状況によりご希望に添えない場合があります。\n（注釈）最新情報は、病院ホームページ;https://www.omori.med.toho-u.ac.jp/にてご確認ください。\n\n荏原病院\n所在地　東雪谷4-5-10\n電話番号　03-5734-8000\n（注釈）診療状況によりご希望に添えない場合があります。\n（注釈）最新情報は、荏原病院ホームページ;https://www.tmhp.jp/ebara/にてご確認ください。\n\n診療時間\n|曜日|時間|\n|:----|:----|\n|平日|午後5時00分から翌朝9時00分|\n|土曜日|正午から翌朝9時00分|\n|日曜日・祝日|午前9時00分から翌朝9時00分|\n薬（処方箋調剤）\n土曜日\n時間　午後5時から10時まで\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森会営薬局<br>（大田区薬剤師会　大森ブロック）|中央3-1-3|03-3774-7721|\n|蒲田薬局|蒲田4-38-5|03-3732-1291|\n日曜日・祝日\n時間　午前9時から午後10時まで\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森会営薬局<br>（大田区薬剤師会　大森ブロック）|中央3-1-3|03-3774-7721|\n|ゆきがや薬局<br>（大田区薬剤師会　田園調布ブロック）|東雪谷5-1-1|03-3728-3231|\n|蒲田薬局|蒲田4-38-5|03-3732-1291|\n各薬剤師会のホームページ\n大田区薬剤師会ホームページ;https://ootakuyaku.jp/\n蒲田薬剤師会ホームページ;http://www.jade.dti.ne.jp/~kpa/\n\n歯痛\n診療時間　日曜日、祝日の午前9時から午後5時（受付時間は午後4時30分まで）\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森歯科医師会館|池上4-19-7|03-3754-8648|\n|蒲田歯科医師会館|新蒲田1-4-14|03-3731-9282|\n各歯科医師会のホームページ\n大森歯科医師会ホームページ;http://www.omorida.or.jp/\n蒲田歯科医師会ホームページ;http://www.kamashi.jp/\n\n接骨（ほねつぎ）\n施術時間　日曜、祝日の午前9時から午後5時\n場所　区内整骨院・接骨院が輪番制で対応しています。詳しくはお問合せください。\n電話番号　090-3542-3896\n困ったときの相談先\n医療機関をお探しの方へ\n■東京都医療機関・薬局案内サービス（ひまわり）　\n・電話番号　03-5272-0303\n・受付時間　毎日24時間\n（「ひまわり」は、24時間医療機関案内などを行っている都民のためのサービスです）\n\n■医療機関・薬局の公的検索システム「医療情報ネット」\nパソコンやスマートフォンで、全国の医療機関・薬局について検索・情報収集ができるサービスです。\n\n医療機関・薬局の公的検索システム「医療情報ネット」;https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize\n\n■おおた医療BOOK\nこちらのページ;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/ota-iryobook.htmlから情報をご確認下さい。\n\n救急車を呼んだ方がいいか迷ったら\n東京消防庁救急相談センター\n・電話番号　＃7119（プッシュ回線・携帯電話の場合）\n　その他の電話やつながらない場合は、03-3212-2323\n・受付時間　24時間年中無休\n\n東京消防庁ホームページ;https://www.tfd.metro.tokyo.lg.jp/lfe/kyuu-adv/soudan-center.htm\n\n緊急に病院に行く必要があると思ったときは\n迷わず119番通報をしてください！\n\n子どもの急な病気に困ったら\n東京都福祉保健局　子供の健康相談室（小児救急相談）\n・電話番号　＃8000（プッシュ回線・携帯電話の場合）\n　その他の電話やつながらない場合は、03-5285-8898\n・受付時間\n　月曜日から金曜日まで（祝日、年末年始を除く）：午後6時から翌朝8時まで\n　 土曜日、日曜日、祝日、年末年始：午前8時から翌朝8時まで\n\n子供の健康相談室ホームページ;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/k_soudan.html\n\nこどもの救急（日本小児科学会）\n夜間や休日などの診療時間外に病院を受診するかどうか、判断の目安を提供しています。\n\nこどもの救急（日本小児科学会）ホームページ;http://kodomo-qq.jp/\n\n東京都こども医療ガイド\n子どもの病気や発熱・怪我、子育ての情報が簡単に見つかる、東京都管轄のWebサイトです。\n\n東京都こども医療ガイドホームページ;https://www.guide.metro.tokyo.lg.jp/\n\nTOKYO子育て情報サービス\n安心して子育てができるよう、妊娠、子育て及び事故防止等に関する情報を提供する東京都のサービスです。\n\nTOKYO子育て情報サービスホームページ;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/info_service/\n\n診療科・曜日ごとの早見表\n夜間・休日診療早見表\n|診療科|<|場所|月～金|土|日・祝|\n|:----|:----|:----|:----|:----|:----|\n|内科<br>（小児科含）|<|大森医師会診療所||17時00分～22時00分|9時00分～22時00分<br>（途中、休憩時間有）|\n|^|^|田園調布医師会診療所<br>※電話予約制|||9時00分～22時00分<br>（途中、休憩時間有）|\n|^|^|蒲田医師会診療所<br>※電話予約制||17時00分～22時00分|9時00分～22時00分<br>（途中、休憩時間有）|\n|小児科|初期救急|大田区子ども平日夜間救急室<br>（東邦大学医療センター大森病院）|20時00分～23時00分|||\n|^|救急|東邦大学医療センター大森病院|16時15分～翌朝8時30分|13時15分～翌朝8時30分<br>（第三土曜を除く）|8時30分～翌朝8時30分<br>（第三土曜を含む）|\n|^|^|荏原病院|17時00分～翌朝9時00分|正午～翌朝9時00分|9時00分～翌朝9時00分|\n|調剤|<|大森会営薬局||17時00分～22時00分|9時00分～22時00分|\n|^|^|ゆきがや薬局|||9時00分～22時00分|\n|^|^|蒲田薬局||17時00分～22時00分|9時00分～22時00分|\n|歯科|<|大森歯科医師会館|||9時00分～17時00分|\n|^|^|蒲田歯科医師会館|||9時00分～17時00分|\n|接骨（ほねつぎ）|<|\t東京都柔道整復師会大田支部<br>（区内整骨院・接骨院輪番制）<br>（場所はお問合せください）|||9時00分～17時00分|\n",
+      "target": {
+        "targetPersons": "小児救急患者（満3か月から中学3年生まで）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 3
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "小児救急患者（満3か月から中学3年生まで）"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "大田区子ども平日夜間救急室",
+        "implementationAddress": "大森西6-11-1\n（東邦大学医療センター大森病院3号館1階）"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "20:00",
+        "toHM": "23:00",
+        "condiutilizationConditionstions": "午後8時から11時（受付は午後7時45分から10時45分）"
+      },
+      "specificDate": null,
+      "holiday": "創立記念日（6月10日）は休診",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "http://www.kamata-med.or.jp/",
+          "title": "蒲田医師会ホームページ"
+        },
+        {
+          "uri": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize",
+          "title": "医療機関・薬局の公的検索システム「医療情報ネット」"
+        },
+        {
+          "uri": "http://www.omorida.or.jp/",
+          "title": "大森歯科医師会ホームページ"
+        },
+        {
+          "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/k_soudan.html",
+          "title": "子供の健康相談室ホームページ"
+        },
+        {
+          "uri": "https://www.omori-med.or.jp/",
+          "title": "大森医師会ホームページ"
+        },
+        {
+          "uri": "http://www.kamashi.jp/http://www.kamashi.jp/",
+          "title": "蒲田歯科医師会ホームページ"
+        },
+        {
+          "uri": "https://www.dencho-med.or.jp/",
+          "title": "田園調布医師会ホームページ"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/ota-iryobook.html",
+          "title": "おおた医療BOOK"
+        },
+        {
+          "uri": "https://www.omori.med.toho-u.ac.jp/",
+          "title": "病院ホームページ"
+        },
+        {
+          "uri": ";https://www.guide.metro.tokyo.lg.jp/",
+          "title": "東京都こども医療ガイドホームページ"
+        },
+        {
+          "uri": "https://www.tfd.metro.tokyo.lg.jp/lfe/kyuu-adv/soudan-center.htm",
+          "title": "東京消防庁ホームページ"
+        },
+        {
+          "uri": "https://ootakuyaku.jp/",
+          "title": "大田区薬剤師会ホームページ"
+        },
+        {
+          "uri": "https://www.tmhp.jp/ebara/ ",
+          "title": "荏原病院ホームページ"
+        },
+        {
+          "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/info_service/",
+          "title": "TOKYO子育て情報サービスホームページ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html",
+        "title": "夜間・休日診療のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康医療政策課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kenkousuishin.html",
+        "contactPhone": "03-5744-1264",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=hokenjo",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": "大田区蒲田5丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+1+UM114",
+        "organization": "1000020131113",
+        "compartment": "健康医療政策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "大田区平日準夜間小児初期救急診療事業実施要綱",
+        "regulationArticle": "第1条～第10条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "大田区の子育てに関する相談",
+        "shortName": "子どもと家庭に関する相談"
+      },
+      "summary": "大田区の子ども家庭支援センターでは、子どもと家庭に関するあらゆる相談に応じています。",
+      "description": "子どもと家庭に関する相談\n\n話してみましょう、その悩み\n子ども家庭支援センターでは、子どもと家庭に関するあらゆる相談に応じています。\n18歳未満のお子さんとその家族に関することなど何でもご相談ください。\n\n親の悩み、不安（夜泣きがひどい、子どもが言うことをきかない、子どもをたたいてしまう、育児の手助けがほしいなど）\n子どもの悩み（友達とうまくいかない、親との関係がぎくしゃくしているなど）\n子どもと家庭に関する相談窓口\n相談について\n18歳未満のお子さんとその家族に関することなど何でもご相談ください。\n匿名の相談もお受けいたします。\nお子さん自身からの相談もお受けいたします。\n来所でのご相談は事前にご連絡ください。\n相談窓口\n03-5753-7830　（相談専用）\n\n受付時間\n月曜日～金曜日…午前9時から午後6時\n土曜日…午前9時30分から午後6時\n\n所在地\n子ども家庭支援センター大森（キッズな大森）\n\n住所：大田区大森北四丁目16番5号",
+      "target": {
+        "targetPersons": "18歳未満のお子さんとその家族",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "18歳未満のお子さん"
+      },
+      "support": {
+        "description": "子ども家庭支援センターでは、子どもと家庭に関するあらゆる相談に応じています。\n18歳未満のお子さんとその家族に関することなど何でもご相談ください。\n\n親の悩み、不安（夜泣きがひどい、子どもが言うことをきかない、子どもをたたいてしまう、育児の手助けがほしいなど）\n子どもの悩み（友達とうまくいかない、親との関係がぎくしゃくしているなど）",
+        "monetarySupport": null,
+        "materiallySupport": "子ども家庭支援センターでは、子どもと家庭に関するあらゆる相談に応じています。\n18歳未満のお子さんとその家族に関することなど何でもご相談ください。\n\n親の悩み、不安（夜泣きがひどい、子どもが言うことをきかない、子どもをたたいてしまう、育児の手助けがほしいなど）\n子どもの悩み（友達とうまくいかない、親との関係がぎくしゃくしているなど）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "子ども家庭支援センター大森（キッズな大森）",
+        "implementationAddress": "大田区大森北四丁目16番5号"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "月曜日～金曜日…午前9時から午後6時\n土曜日…午前9時30分から午後6時"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "来所でのご相談は事前にご連絡ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/shien/kodomo_katei_shien_c/soudan.html",
+        "title": "子どもと家庭に関する相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭支援センター大森（キッズな大森）",
+        "contactPhone": "03-5753-1153",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=kodomo",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": "大田区大森北四丁目16番5号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+1+UM119",
+        "organization": "1000020131113",
+        "compartment": "子ども家庭支援センター大森（キッズな大森）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2020-06-15",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "新生児訪問",
+        "shortName": "すこやか赤ちゃん訪問"
+      },
+      "summary": "生後120日以内の新生児および乳児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+      "description": "すこやか赤ちゃん訪問\nページ番号：161652110\n更新日：2023年11月1日\n保健師・助産師が訪問します\n生後4か月までのすべての赤ちゃんを対象に、助産師や保健師が家庭を訪問し赤ちゃんの発育や健康状態等を確認しながら、お母さんの健康や子育ての相談をお受けします。母子保健サービスや子育て情報などもご案内します。（無料）　　\n大田区では、提出いただいた「出生通知書」（すこやか赤ちゃん訪問依頼書）をもとに、助産師・保健師が訪問を実施します。\nなお、すこやか赤ちゃん訪問の際は、携帯電話または地域健康課からご連絡差し上げます。\n\n申し込み方法\n赤ちゃんが生まれたら、母子健康手帳交付時にお渡ししている妊婦健康診査の受診票セットについているハガキ「出生通知書」（すこやか赤ちゃん訪問依頼書）をできるだけ14日以内に投函してください。\n　転入や紛失等でハガキがない場合は、お住まいを管轄する地域健康課または健康づくり課までお問合せください。\n\n大森地域健康課　03-5764-0661\n調布地域健康課　03-3726-4145\n蒲田地域健康課　03-5713-1701\n糀谷・羽田地域健康課　03-3743-4161\n健康づくり課　　　　03-5744-1661\nお住いの地域健康課管轄一覧　（PDF：667KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/shussan/sukoyaka-akachan-houmon.files/kannkatu.pdf\n\n里帰り先での訪問を希望する場合\n里帰り先での訪問を希望される場合は、お住まいを管轄する地域健康課にお問い合わせ下さい。\n\n出産・子育て応援事業について\nすこやか赤ちゃん訪問を受けた方には「子育て応援ギフト」の申請ができます。\n出産・子育て応援事業;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/syussankosodate.html",
+      "target": {
+        "targetPersons": "生後4か月までのすべての赤ちゃん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後4か月までのすべての赤ちゃん"
+      },
+      "support": {
+        "description": "助産師や保健師が家庭を訪問し赤ちゃんの発育や健康状態等を確認しながら、お母さんの健康や子育ての相談をお受けします。母子保健サービスや子育て情報などもご案内します。（無料）",
+        "monetarySupport": null,
+        "materiallySupport": "助産師や保健師が家庭を訪問し赤ちゃんの発育や健康状態等を確認しながら、お母さんの健康や子育ての相談をお受けします。母子保健サービスや子育て情報などもご案内します。（無料）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "赤ちゃんが生まれたら、母子健康手帳交付時にお渡ししている妊婦健康診査の受診票セットについているハガキ「出生通知書」（すこやか赤ちゃん訪問依頼書）をできるだけ14日以内に投函してください。\n　転入や紛失等でハガキがない場合は、お住まいを管轄する地域健康課または健康づくり課までお問合せください。\n\n大森地域健康課　03-5764-0661\n調布地域健康課　03-3726-4145\n蒲田地域健康課　03-5713-1701\n糀谷・羽田地域健康課　03-3743-4161\n健康づくり課　　　　03-5744-1661\nお住いの地域健康課管轄一覧　（PDF：667KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/shussan/sukoyaka-akachan-houmon.files/kannkatu.pdf\n\n里帰り先での訪問を希望する場合\n里帰り先での訪問を希望される場合は、お住まいを管轄する地域健康課にお問い合わせ下さい。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "大森地域健康課　03-5764-0661\n調布地域健康課　03-3726-4145\n蒲田地域健康課　03-5713-1701\n糀谷・羽田地域健康課　03-3743-4161\n健康づくり課　　　　03-5744-1661",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kumin_kenkoudukuri.html",
+          "title": "健康づくり課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/shussan/sukoyaka-akachan-houmon.files/kannkatu.pdf",
+          "title": "お住いの地域健康課管轄一覧　（PDF：667KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/syussankosodate.html",
+          "title": "出産・子育て応援事業"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/shussan/sukoyaka-akachan-houmon.html",
+        "title": "すこやか赤ちゃん訪問"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康づくり課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kumin_kenkoudukuri.html",
+        "contactPhone": "03-5744-1661",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX ：03-5744-1523",
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+1+UM13",
+        "organization": "1000020131113",
+        "compartment": "健康づくり課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-11-01",
+      "odInformation": {
+        "updateDate": "2024-06-27",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第11条（新生児の訪問指導）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+        "shortName": "すこやか赤ちゃん訪問"
+      },
+      "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+      "description": "すこやか赤ちゃん訪問\nページ番号：161652110\n保健師・助産師が訪問します\n助産師や保健師が家庭を訪問し赤ちゃんの発育や健康状態等を確認しながら、お母さんの健康や子育ての相談をお受けします。母子保健サービスや子育て情報などもご案内します。　\n大田区では、提出いただいた「出生通知書」（すこやか赤ちゃん訪問依頼書）をもとに、助産師・保健師が訪問を実施します。\nなお、すこやか赤ちゃん訪問の際は、携帯電話または地域健康課からご連絡差し上げます。\n申し込み方法\n　転入や紛失等でハガキがなく、電子申請の方法もわからない場合は、お住まいを管轄する地域健康課または健康づくり課までお問合せください。\n大森地域健康課　03-5764-0661\n調布地域健康課　03-3726-4145\n蒲田地域健康課　03-5713-1701\n糀谷・羽田地域健康課　03-3743-4161\n健康づくり課　　　　03-5744-1661\n里帰り先での訪問を希望する場合\n里帰り先での訪問を希望される場合は、お住まいを管轄する地域健康課にお問い合わせ下さい。",
+      "target": {
+        "targetPersons": "生後120日までのすべての赤ちゃん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後120日まで"
+      },
+      "support": {
+        "description": "すこやか赤ちゃん訪問を受けた方には「子育て応援ギフト」の申請ができます。",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "無料",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "家庭",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "赤ちゃんが生まれたら、母子健康手帳交付時にお渡ししている妊婦健康診査の受診票セットについているハガキ「出生通知書」（すこやか赤ちゃん訪問依頼書）をできるだけ14日以内に投函してください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "14日以内"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/syussankosodate.html",
+          "title": "出産・子育て応援事業"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/shussan/sukoyaka-akachan-houmon.files/kannkatu.pdf",
+          "title": "お住いの地域健康課管轄一覧"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/shussan/sukoyaka-akachan-houmon.html",
+        "title": "すこやか赤ちゃん訪問"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康づくり課",
+        "contactPhone": "電話：03-5744-1661",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+1+UM14",
+        "organization": "1000020131113",
+        "compartment": "健康づくり課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/07/02",
+      "odInformation": {
+        "updateDate": "2025/02/25",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第21条の10の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "母子父子寡婦福祉資金",
+        "shortName": "東京都母子及び父子福祉資金"
+      },
+      "summary": "母子家庭の母、父子家庭の父、および寡婦の方の経済的自立や、扶養しているお子さんの福祉増進のために、必要な資金をお貸しする制度です。",
+      "description": "東京都母子及び父子福祉資金\nページ番号：734571227\n更新日：2024年5月1日\nお問い合わせ先：各生活福祉課\n\n　20歳未満のお子さんを扶養している母子家庭又は父子家庭にお貸しします。償還期間は3年から20年、無利子または年利1％です。\n\n　貸付けが自立につながると判断され、償還（返済）の計画を立てることができる方が対象となります。\n　必ず支払・契約の事前にご相談ください。\n\n貸付資金一覧\n|資金の名称|<|貸付利用対象|<|貸付金の内容|\n|:----|:----|:----|:----|:----|\n|事業開始資金|<|母・父|―|事業を開始するのに必要な設備費・什器・機器等の購入資金|\n|事業継続資金|<|母・父|―|現在営んでいる事業を継続するために必要な商品、材料等を購入する資金|\n|技能習得資金|<|母・父|―|母または父が事業を開始するため又は就職するために必要な知識技能を習得するために必要な資金（授業料、入学金など）|\n|修業資金|<|―|児童・子|児童又は子が事業を開始するため又は就職するために必要な知識技能を習得するために必要な資金（授業料、入学金など）|\n|就職支度資金|<|母・父|児童|就職するために直接必要な被服、履物等を購入する資金|\n|医療介護資金|医療|母・父|児童|母、父又は児童が、医療を受けるために必要な資金（ただし、医療を受ける期間が1年以内と見込まれる場合）|\n|^|介護|^|―|母、父又は児童が、介護保険によるサービス（介護）を受けるために必要な資金（ただし、介護を受ける期間が1年以内と見込まれる場合）|\n|生活資金|技能習得期間中|母・父|―|技能習得期間中（貸付期間5年以内）の生活を維持するために必要な資金|\n|^|医療介護期間中|^|^|医療又は介護を受けている期間中（ただし、医療又は介護を受ける期間が1年以内と見込まれる場合）の生活を維持しるために必要な資金|\n|^|生活安定貸付|^|^|母子家庭又は父子家庭になって7年未満の方で生活の安定を図るために必要な資金（貸付期間3か月以内）|\n|^|失業期間中|^|^|失業している期間中の生活を維持するために必要な資金（ただし、離職した日の翌日から1年以内）|\n|^|家計急変|^|^|家計急変による収入の激変緩和のために必要な資金（貸付期間原則3か月以内）|\n|住宅資金|<|母・父|―|自己所有の住宅の建設・購入及び現に居住する住宅の増改築・補修（構造部分の修繕）又は保全に必要な資金|\n|転宅資金|<|母・父|―|転宅に必要な敷金・前家賃・運送代に充てるための資金（貸付対象は新居住地が都内の場合です）|\n|結婚資金|<|―|児童・子|児童又は子の婚姻に際し、必要な資金|\n|修学資金（注1）|<|―|児童・子|児童又は子が高校、短大、大学、大学院、高等専門学校又は専修学校において修学するのに必要な資金（授業料、施設費、通学費、食費、教科書代など）|\n|就学支度資金（注1、2）|<|―|児童|児童が小学校、中学校に入学するために必要な資金（所得税非課税の方）|\n|^|^|^|児童・子|児童又は子が高校、短大、大学、大学院、高等専門学校又は専修学校において就学するのに必要な資金（受験料、入学金、制服代など）|\n|^|^|^|^|知識技能を習得させる施設であって厚生労働大臣が定める修業施設へ入所するために必要な資金|\n（注1）学校や既取得の学歴により、貸付の対象外となる場合があります。\n（注2）受験料は、大学等（大学・短期大学・専修学校（専門課程）もしくは高等専門学校（4年次、5年次））又は大学院に入学する場合に対象となります。　\n（注3）各資金の貸し付け上限額については、東京都のホームページでご確認ください。\n\n高等教育の修学支援新制度実施に伴う貸付金償還のお願い（PDF：899KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/kashitsuke_kyuhu/tokyotobosi.files/shuugakusshienshinseido.pdf\n\n修学支援新制度の対象となっている方におかれましては、添付「高等教育の修学支援新制度実施に伴う貸付金償還のお願い」をご確認ください。\n\n東京都福祉保健局「母子福祉資金・父子福祉資金の貸付け」;https://www.fukushi.metro.tokyo.lg.jp/kodomo/hitorioya_shien/keizai/boshi.html\n\n東京都母子及び父子福祉資金の制度の詳細について、東京都のホームページもご参照いただけます。",
+      "target": {
+        "targetPersons": "20歳未満のお子さんを扶養している母子家庭又は父子家庭",
+        "lessThan": {
+          "targetAge": 20,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "20歳未満のお子さんを扶養している母子家庭又は父子家庭"
+      },
+      "support": {
+        "description": "貸付資金一覧\n|資金の名称|<|貸付利用対象|<|貸付金の内容|\n|:----|:----|:----|:----|:----|\n|事業開始資金|<|母・父|―|事業を開始するのに必要な設備費・什器・機器等の購入資金|\n|事業継続資金|<|母・父|―|現在営んでいる事業を継続するために必要な商品、材料等を購入する資金|\n|技能習得資金|<|母・父|―|母または父が事業を開始するため又は就職するために必要な知識技能を習得するために必要な資金（授業料、入学金など）|\n|修業資金|<|―|児童・子|児童又は子が事業を開始するため又は就職するために必要な知識技能を習得するために必要な資金（授業料、入学金など）|\n|就職支度資金|<|母・父|児童|就職するために直接必要な被服、履物等を購入する資金|\n|医療介護資金|医療|母・父|児童|母、父又は児童が、医療を受けるために必要な資金（ただし、医療を受ける期間が1年以内と見込まれる場合）|\n|^|介護|^|―|母、父又は児童が、介護保険によるサービス（介護）を受けるために必要な資金（ただし、介護を受ける期間が1年以内と見込まれる場合）|\n|生活資金|技能習得期間中|母・父|―|技能習得期間中（貸付期間5年以内）の生活を維持するために必要な資金|\n|^|医療介護期間中|^|^|医療又は介護を受けている期間中（ただし、医療又は介護を受ける期間が1年以内と見込まれる場合）の生活を維持しるために必要な資金|\n|^|生活安定貸付|^|^|母子家庭又は父子家庭になって7年未満の方で生活の安定を図るために必要な資金（貸付期間3か月以内）|\n|^|失業期間中|^|^|失業している期間中の生活を維持するために必要な資金（ただし、離職した日の翌日から1年以内）|\n|^|家計急変|^|^|家計急変による収入の激変緩和のために必要な資金（貸付期間原則3か月以内）|\n|住宅資金|<|母・父|―|自己所有の住宅の建設・購入及び現に居住する住宅の増改築・補修（構造部分の修繕）又は保全に必要な資金|\n|転宅資金|<|母・父|―|転宅に必要な敷金・前家賃・運送代に充てるための資金（貸付対象は新居住地が都内の場合です）|\n|結婚資金|<|―|児童・子|児童又は子の婚姻に際し、必要な資金|\n|修学資金（注1）|<|―|児童・子|児童又は子が高校、短大、大学、大学院、高等専門学校又は専修学校において修学するのに必要な資金（授業料、施設費、通学費、食費、教科書代など）|\n|就学支度資金（注1、2）|<|―|児童|児童が小学校、中学校に入学するために必要な資金（所得税非課税の方）|\n|^|^|^|児童・子|児童又は子が高校、短大、大学、大学院、高等専門学校又は専修学校において就学するのに必要な資金（受験料、入学金、制服代など）|\n|^|^|^|^|知識技能を習得させる施設であって厚生労働大臣が定める修業施設へ入所するために必要な資金|\n（注1）学校や既取得の学歴により、貸付の対象外となる場合があります。\n（注2）受験料は、大学等（大学・短期大学・専修学校（専門課程）もしくは高等専門学校（4年次、5年次））又は大学院に入学する場合に対象となります。　\n（注3）各資金の貸し付け上限額については、東京都のホームページでご確認ください。",
+        "monetarySupport": "貸付資金一覧\n|資金の名称|<|貸付利用対象|<|貸付金の内容|\n|:----|:----|:----|:----|:----|\n|事業開始資金|<|母・父|―|事業を開始するのに必要な設備費・什器・機器等の購入資金|\n|事業継続資金|<|母・父|―|現在営んでいる事業を継続するために必要な商品、材料等を購入する資金|\n|技能習得資金|<|母・父|―|母または父が事業を開始するため又は就職するために必要な知識技能を習得するために必要な資金（授業料、入学金など）|\n|修業資金|<|―|児童・子|児童又は子が事業を開始するため又は就職するために必要な知識技能を習得するために必要な資金（授業料、入学金など）|\n|就職支度資金|<|母・父|児童|就職するために直接必要な被服、履物等を購入する資金|\n|医療介護資金|医療|母・父|児童|母、父又は児童が、医療を受けるために必要な資金（ただし、医療を受ける期間が1年以内と見込まれる場合）|\n|^|介護|^|―|母、父又は児童が、介護保険によるサービス（介護）を受けるために必要な資金（ただし、介護を受ける期間が1年以内と見込まれる場合）|\n|生活資金|技能習得期間中|母・父|―|技能習得期間中（貸付期間5年以内）の生活を維持するために必要な資金|\n|^|医療介護期間中|^|^|医療又は介護を受けている期間中（ただし、医療又は介護を受ける期間が1年以内と見込まれる場合）の生活を維持しるために必要な資金|\n|^|生活安定貸付|^|^|母子家庭又は父子家庭になって7年未満の方で生活の安定を図るために必要な資金（貸付期間3か月以内）|\n|^|失業期間中|^|^|失業している期間中の生活を維持するために必要な資金（ただし、離職した日の翌日から1年以内）|\n|^|家計急変|^|^|家計急変による収入の激変緩和のために必要な資金（貸付期間原則3か月以内）|\n|住宅資金|<|母・父|―|自己所有の住宅の建設・購入及び現に居住する住宅の増改築・補修（構造部分の修繕）又は保全に必要な資金|\n|転宅資金|<|母・父|―|転宅に必要な敷金・前家賃・運送代に充てるための資金（貸付対象は新居住地が都内の場合です）|\n|結婚資金|<|―|児童・子|児童又は子の婚姻に際し、必要な資金|\n|修学資金（注1）|<|―|児童・子|児童又は子が高校、短大、大学、大学院、高等専門学校又は専修学校において修学するのに必要な資金（授業料、施設費、通学費、食費、教科書代など）|\n|就学支度資金（注1、2）|<|―|児童|児童が小学校、中学校に入学するために必要な資金（所得税非課税の方）|\n|^|^|^|児童・子|児童又は子が高校、短大、大学、大学院、高等専門学校又は専修学校において就学するのに必要な資金（受験料、入学金、制服代など）|\n|^|^|^|^|知識技能を習得させる施設であって厚生労働大臣が定める修業施設へ入所するために必要な資金|\n（注1）学校や既取得の学歴により、貸付の対象外となる場合があります。\n（注2）受験料は、大学等（大学・短期大学・専修学校（専門課程）もしくは高等専門学校（4年次、5年次））又は大学院に入学する場合に対象となります。　\n（注3）各資金の貸し付け上限額については、東京都のホームページでご確認ください。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "お問い合わせ先：各生活福祉課\n\n　20歳未満のお子さんを扶養している母子家庭又は父子家庭にお貸しします。償還期間は3年から20年、無利子または年利1％です。\n　貸付けが自立につながると判断され、償還（返済）の計画を立てることができる方が対象となります。\n　必ず支払・契約の事前にご相談ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "各生活福祉課",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/kashitsuke_kyuhu/tokyotobosi.files/shuugakusshienshinseido.pdf",
+          "title": "高等教育の修学支援新制度実施に伴う貸付金償還のお願い（PDF：899KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/c_seikatsu.html",
+          "title": "生活福祉課"
+        },
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/hitorioya_shien/keizai/boshi.html",
+          "title": "東京都福祉保健局「母子福祉資金・父子福祉資金の貸付け」"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/kashitsuke_kyuhu/tokyotobosi.html",
+        "title": "東京都母子及び父子福祉資金"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "生活福祉課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/c_seikatsu.html,大森生活福祉課,調布生活福祉課,蒲田生活福祉課,糀谷・羽田生活福祉課",
+        "contactPhone": "03-5843-1028,03-3726-0791,03-6715-8800,03-3741-6521",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX ：03-5764-0663,FAX：03-3726-6655,FAX：03-5713-1113,FAX：03-3741-5188",
+        "zipCode": null,
+        "contactAddress": "大田区大森西一丁目12番1号,大田区雪谷大塚町4番6号,大田区蒲田本町二丁目1番1号,大田区東糀谷一丁目21番15号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+1+UM28",
+        "organization": "1000020131113",
+        "compartment": "生活福祉課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-01",
+      "odInformation": {
+        "updateDate": "2024-06-27",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子及び父子並びに寡婦福祉法",
+        "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出生届",
+        "shortName": "出生届"
+      },
+      "summary": "出生届とは、生まれてきたお子さんの氏名等を戸籍に記載するための手続きです。\n戸籍に記載されることで、生まれてきたお子さんの親族関係が公的に証明されます。",
+      "description": "出生届\nページ番号：272155598\n更新日：2023年5月29日\nお子さんが誕生したら、出生届を提出することによって戸籍に記録され、住民票にも記載されます。\n海外で生まれたお子さんの出生届については、届出期間や添付書類等が異なります。詳しくは、以下の「日本人のお子さんが海外で誕生した場合は」をご覧ください。\n\n日本人のお子さんが海外で誕生した場合は;https://www.city.ota.tokyo.jp/seikatsu/koseki_j/koseki/todoke/shutshou.html#cmsEC976\n受付窓口\n戸籍届出の受付時間と受付場所;https://www.city.ota.tokyo.jp/seikatsu/koseki_j/koseki/todoke/koseki_todokede.htmlをご覧ください。\n\n届出期間\n生まれた日から14日以内（生まれた日を1日目と数えます）に届出してください。\n\n14日目が土曜日、日曜日、祝休日や年末年始の閉庁日にあたるとき\n　開庁日が届出期限となります。\n\n14日以内に届出ができないとき\n　期間を過ぎても届出はできますが、簡易裁判所から過料に処せられる場合があります。\n\n届出するところ\n次のいずれかの区市町村で届出ができます。\n\n父、母の本籍地\n届出人の住所地\n出生地\n届出人\n父又は母\n生まれた子のお父さん、又はお母さんが第一順位の届出人として、届出人欄に署名をしてください。\nお父さん又はお母さんが記入した届書を窓口に持参するのは代理人でも可能です。\n父母が届出人となれない場合はご相談ください。\n\n届書の記載例・記入要領\n法務省のホームページ（PDFで開きます）で確認することができます。\n\n嫡出子の場合（PDF：118KB）;https://www.moj.go.jp/content/001295267.pdf\n嫡出でない子の場合（PDF：117KB）;https://www.moj.go.jp/content/001295268.pdf\n届書は、消せるボールペンや鉛筆等の消えやすい筆記用具での記入はしないでください。\n\n届出に必要なもの\n1.出生届書（注釈１）\n2.医師又は助産師が作成した出生証明書（注釈１）\n3.母子健康手帳（注釈２）\n出生届の用紙は、お子さんを出産した病院で受け取ることができます。もし、病院から大田区で用紙をもらうように説明を受けた場合は、本庁舎;https://www.city.ota.tokyo.jp/shisetsu/kuyakusho/index.html1階戸籍住民窓口及び各特別出張所;https://www.city.ota.tokyo.jp/shisetsu/tokubetsushucchoujo/index.htmlに備えてありますのでご利用ください。\n（注釈１）１と２が一体になっているものもあります。\n（注釈２）母子健康手帳がなくても出生届出はできます。詳しくは、よくある質問（出生届についてQ4）;https://www.city.ota.tokyo.jp/faq/bunya/koseki_j/about_koseki/syusyoutodoke.htmlをご確認ください。\n\nご注意\n1　お子さんの名まえに使える文字について\n命名に使える文字の範囲は、「常用漢字」「人名用漢字」「ひらがな又はカタカナ」と戸籍法と戸籍法施行規則により定められています。使える漢字かどうかを確認したい場合は、法務省のホームページ;https://www.moj.go.jp/MINJI/minji86.html「子の名に使える漢字（戸籍統一文字情報のページ）」から検索することができます。\n2　夜間や休日に出生届出をされる場合　\n夜間窓口・休日窓口、宿直室で出生届を提出された場合には、母子健康手帳への届出済証明はその場では行っておりません。後日、父母の住民登録をしているご住所宛てに届出済証明書を送付します。お手元に届きましたら、切り取って母子健康手帳に貼付してください。\n\n戸籍の届出と関連する手続き\n出生届出のほかに、下記の手続きが必要となる場合があります。ご確認のうえ手続きをお願いします。\n妊娠・出生に関するよくある手続き;https://www.city.ota.tokyo.jp/tetsuzuki/ninshin/index.html\n\n個人番号通知書について\n後日、住民登録をしているご住所あてに、個人番号通知書を郵送します。特に手続きの必要はありません。\n\n日本人のお子さんが海外で誕生した場合は\n生まれた日から3か月以内に、出生届書に出生登録証明書（外国の官公署が発行したもの）と日本語の訳文を添付して届出をします。海外で出生した日本人の子が、外国の国籍を取得する場合には、日本国籍を留保する届出も必要です。出生した国にある日本大使館又は領事館で届出をすることができます。\n詳細は、法務省民事局のホームページ;https://www.moj.go.jp/MINJI/minji15.html[国際結婚,海外での出生等に関する戸籍Q＆A]又は、外務省のホームページ;https://www.mofa.go.jp/mofaj/link/zaigai/index.htmlにてご確認ください。\n\n戸籍の届出に関するご質問\n戸籍・出生届出についてよくある質問のページ;https://www.city.ota.tokyo.jp/faq/bunya/koseki_j/about_koseki/syusyoutodoke.htmlをご覧ください。\n\nお願い\nバレンタインデイ、ひな祭り、七夕、いい夫婦の日、クリスマスイヴ、クリスマスなどの日は、婚姻届出で来庁される方がとても多く、本庁舎1階戸籍住民窓口は大変混み合います。そのため、待ち時間が長くなりますので、お時間に余裕をもって来庁してください。",
+      "target": {
+        "targetPersons": "お子さんが誕生したら",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "土曜日、日曜日、祝休日や年末年始の閉庁日",
+      "utilization": null,
+      "procedurePersons": "届出人\n父又は母\n生まれた子のお父さん、又はお母さんが第一順位の届出人として、届出人欄に署名をしてください。\nお父さん又はお母さんが記入した届書を窓口に持参するのは代理人でも可能です。\n父母が届出人となれない場合はご相談ください。",
+      "procedureMethod": "受付窓口\n戸籍届出の受付時間と受付場所;https://www.city.ota.tokyo.jp/seikatsu/koseki_j/koseki/todoke/koseki_todokede.htmlをご覧ください。\n\n届出期間\n生まれた日から14日以内（生まれた日を1日目と数えます）に届出してください。\n\n14日目が土曜日、日曜日、祝休日や年末年始の閉庁日にあたるとき\n　開庁日が届出期限となります。\n\n14日以内に届出ができないとき\n　期間を過ぎても届出はできますが、簡易裁判所から過料に処せられる場合があります。\n\n届出するところ\n次のいずれかの区市町村で届出ができます。\n\n父、母の本籍地\n届出人の住所地\n出生地\n届出人\n父又は母\n生まれた子のお父さん、又はお母さんが第一順位の届出人として、届出人欄に署名をしてください。\nお父さん又はお母さんが記入した届書を窓口に持参するのは代理人でも可能です。\n父母が届出人となれない場合はご相談ください。\n\n届書の記載例・記入要領\n法務省のホームページ（PDFで開きます）で確認することができます。\n\n嫡出子の場合（PDF：118KB）;https://www.moj.go.jp/content/001295267.pdf\n嫡出でない子の場合（PDF：117KB）;https://www.moj.go.jp/content/001295268.pdf\n届書は、消せるボールペンや鉛筆等の消えやすい筆記用具での記入はしないでください。\n\n届出に必要なもの\n出生届書（注釈１）\n医師又は助産師が作成した出生証明書（注釈１）\n母子健康手帳（注釈２）\n出生届の用紙は、お子さんを出産した病院で受け取ることができます。もし、病院から大田区で用紙をもらうように説明を受けた場合は、本庁舎;https://www.city.ota.tokyo.jp/shisetsu/kuyakusho/index.html1階戸籍住民窓口及び各特別出張所;https://www.city.ota.tokyo.jp/shisetsu/tokubetsushucchoujo/index.htmlに備えてありますのでご利用ください。\n（注釈１）１と２が一体になっているものもあります。\n（注釈２）母子健康手帳がなくても出生届出はできます。詳しくは、よくある質問（出生届についてQ4）;https://www.city.ota.tokyo.jp/faq/bunya/koseki_j/about_koseki/syusyoutodoke.htmlをご確認ください。\n\nご注意\n1　お子さんの名まえに使える文字について\n命名に使える文字の範囲は、「常用漢字」「人名用漢字」「ひらがな又はカタカナ」と戸籍法と戸籍法施行規則により定められています。使える漢字かどうかを確認したい場合は、法務省のホームページ;https://www.moj.go.jp/MINJI/minji86.html「子の名に使える漢字（戸籍統一文字情報のページ）」から検索することができます。\n2　夜間や休日に出生届出をされる場合　\n夜間窓口・休日窓口、宿直室で出生届を提出された場合には、母子健康手帳への届出済証明はその場では行っておりません。後日、父母の住民登録をしているご住所宛てに届出済証明書を送付します。お手元に届きましたら、切り取って母子健康手帳に貼付してください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "届出期間\n生まれた日から14日以内（生まれた日を1日目と数えます）に届出してください。\n\n14日目が土曜日、日曜日、祝休日や年末年始の閉庁日にあたるとき\n　開庁日が届出期限となります。\n\n14日以内に届出ができないとき\n　期間を過ぎても届出はできますが、簡易裁判所から過料に処せられる場合があります。"
+      },
+      "electronicSubmission": false,
+      "belongings": "届出に必要なもの\n1.出生届書（注釈１）\n2.医師又は助産師が作成した出生証明書（注釈１）\n3.母子健康手帳（注釈２）\n出生届の用紙は、お子さんを出産した病院で受け取ることができます。もし、病院から大田区で用紙をもらうように説明を受けた場合は、本庁舎;https://www.city.ota.tokyo.jp/shisetsu/kuyakusho/index.html1階戸籍住民窓口及び各特別出張所;https://www.city.ota.tokyo.jp/shisetsu/tokubetsushucchoujo/index.htmlに備えてありますのでご利用ください。\n（注釈１）１と２が一体になっているものもあります。\n（注釈２）母子健康手帳がなくても出生届出はできます。詳しくは、よくある質問（出生届についてQ4）;https://www.city.ota.tokyo.jp/faq/bunya/koseki_j/about_koseki/syusyoutodoke.htmlをご確認ください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "届出するところ\n次のいずれかの区市町村で届出ができます。\n\n父、母の本籍地\n届出人の住所地\n出生地\n\n受付窓口\n戸籍届出の受付時間と受付場所;https://www.city.ota.tokyo.jp/seikatsu/koseki_j/koseki/todoke/koseki_todokede.htmlをご覧ください。",
+      "relatedLink": [
+        {
+          "uri": "https://www.mofa.go.jp/mofaj/link/zaigai/index.html",
+          "title": "外務省のホームページ"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/tokubetsushucchoujo/index.html",
+          "title": "各特別出張所"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/faq/bunya/koseki_j/about_koseki/syusyoutodoke.html",
+          "title": "よくある質問（出生届についてQ4）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/kuyakusho/index.html",
+          "title": "本庁舎"
+        },
+        {
+          "uri": "https://www.moj.go.jp/MINJI/minji86.html",
+          "title": "法務省のホームページ"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/koseki_j/koseki/todoke/koseki_todokede.html",
+          "title": "戸籍届出の受付時間と受付場所"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/tetsuzuki/ninshin/index.html",
+          "title": "妊娠・出生に関するよくある手続き"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/faq/bunya/koseki_j/about_koseki/index.html",
+          "title": "メールをする前にご確認ください（よくある質問）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kosekijuumin.html",
+          "title": "戸籍住民課"
+        },
+        {
+          "uri": "https://www.moj.go.jp/MINJI/minji15.html",
+          "title": "法務省民事局のホームページ"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/faq/bunya/koseki_j/about_koseki/syusyoutodoke.html",
+          "title": "戸籍・出生届出についてよくある質問のページ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/koseki_j/koseki/todoke/shutshou.html",
+        "title": "出生届"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "戸籍住民課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kosekijuumin.html戸籍担当",
+        "contactPhone": "03-5744-1183",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=koseki",
+        "contactComment": "FAX ：03-5744-1509",
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+1+UM3",
+        "organization": "1000020131113",
+        "compartment": "戸籍住民課戸籍担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-05-29",
+      "odInformation": {
+        "updateDate": "2024-06-27",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "戸籍法",
+        "regulationArticle": "第49条、第52条"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "077"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "内科（小児科含）の急病"
+      },
+      "summary": "大森医師会、田園調布医師会、蒲田医師会の各診療所にて診療を行っています。現在、電話予約制となっています。必ず、事前に電話をしてから受診してください。（田園調布医師会は日曜・祝日のみ対応となります。）",
+      "description": "夜間・休日診療のご案内\nページ番号：709741420\n更新日：2024年4月1日\n休日や夜間に急病になった場合の情報を掲載しています。\n各診療情報の他、医療に関する緊急時の相談先については、以下、「困ったときの相談先」の項目に掲載しております。併せてご確認ください。\n出掛ける前にご確認ください\nかかりつけ医が診察している時間帯は、かかりつけ医にご相談ください。\n受診前に、必ず電話連絡をお願いします。\n健康保険証や医療証などをお忘れなくお持ちください。\n病院の場合は選定療養費がかかる場合がありますので、事前に確認してください。\n台風等の荒天時には、診療時間が変更となる場合がございます。\n「内科（小児科含）の急病」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cmsDEBD0\n「小児科の急病」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms9B505\n「薬（処方箋調剤）」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms592CA\n「歯痛」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cmsE9764\n「接骨（ほねつぎ）」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cmsE9764\n「困ったときの相談先」はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms4AABC\n「診療科・曜日ごとの早見表」はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms46D5C\n内科（小児科含）の急病\n現在、電話予約制となっています。必ず、事前に電話をしてから受診してください。\n\n土曜日\n診療時間　午後5時から10時まで（受付は午後9時30分まで）\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森医師会診療所<br>※電話予約制|中央4-31-14|03-3772-2402|\n|蒲田医師会診療所<br>※電話予約制|蒲田4-24-12|03-3732-0191|\n日曜日・祝日\n診療時間　午前9時から午後10時まで（受付は午後9時30分まで）\n（注意）午前11時30分から午後1時までは休憩時間\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森医師会診療所<br>※電話予約制|中央4-31-14|03-3772-2402|\n|田園調布医師会診療所<br>※電話予約制|石川町2-7-1|03-3728-6671|\n|蒲田医師会診療所<br>※電話予約制|蒲田4-24-12|03-3732-0191|\n各医師会診療所ホームページ\n大森医師会ホームページ;https://www.omori-med.or.jp/\n\n田園調布医師会ホームページ;https://www.dencho-med.or.jp/\n\n蒲田医師会ホームページ;https://www.kamata-med.or.jp/\n\n小児科の急病\n初期救急（平日）\n小児救急患者（満3か月から中学3年生まで）を対象とした初期救急医療事業です。\n診療時間　午後8時から11時（受付は午後7時45分から10時45分）\n創立記念日（6月10日）は休診です。\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大田区子ども平日夜間救急室|大森西6-11-1<br>（東邦大学医療センター大森病院3号館1階）|03-3762-4151|\n大森医師会、田園調布医師会、蒲田医師会、大田区薬剤師会、東邦大学医療センター大森病院が協同で運営しています。\n\n（注意）大田区子ども平日夜間救急室では、感染症の抗原検査は、診察した医師の判断にて実施をいたします。なお、インフルエンザ・新型コロナウイルスの同時抗原検査キットのみの対応となります。\n\n救急（祝日を含む月曜から日曜）\n東邦大学医療センター大森病院\n　所在地　大森西6-11-1\n　電話番号　03-3762-4151\n\n救急外来　受付時間\n|診療体制|受付時間|\n|:----|:----|\n|平日|午後4時15分から翌朝8時30分|\n|土曜日（第三・臨時休診を除く）|午後1時15分から翌朝8時30分|\n|休日（日曜日・祝日・第三土曜日・6月10日）|午前8時30分から翌朝8時30分|\n（注釈）創立記念日（6月10日）及び、臨時休診日は、「休日」の診療体制となります。\n（注釈）祝日の臨時平日診療日は、「平日」の診療体制となります。\n（注釈）診療状況によりご希望に添えない場合があります。\n（注釈）最新情報は、病院ホームページ;https://www.omori.med.toho-u.ac.jp/にてご確認ください。\n\n荏原病院\n所在地　東雪谷4-5-10\n電話番号　03-5734-8000\n（注釈）診療状況によりご希望に添えない場合があります。\n（注釈）最新情報は、荏原病院ホームページ;https://www.tmhp.jp/ebara/にてご確認ください。\n\n診療時間\n|曜日|時間|\n|:----|:----|\n|平日|午後5時00分から翌朝9時00分|\n|土曜日|正午から翌朝9時00分|\n|日曜日・祝日|午前9時00分から翌朝9時00分|\n薬（処方箋調剤）\n土曜日\n時間　午後5時から10時まで\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森会営薬局<br>（大田区薬剤師会　大森ブロック）|中央3-1-3|03-3774-7721|\n|蒲田薬局|蒲田4-38-5|03-3732-1291|\n日曜日・祝日\n時間　午前9時から午後10時まで\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森会営薬局<br>（大田区薬剤師会　大森ブロック）|中央3-1-3|03-3774-7721|\n|ゆきがや薬局<br>（大田区薬剤師会　田園調布ブロック）|東雪谷5-1-1|03-3728-3231|\n|蒲田薬局|蒲田4-38-5|03-3732-1291|\n各薬剤師会のホームページ\n大田区薬剤師会ホームページ;https://ootakuyaku.jp/\n\n蒲田薬剤師会ホームページ;http://www.jade.dti.ne.jp/~kpa/\n\n歯痛\n診療時間　日曜日、祝日の午前9時から午後5時（受付時間は午後4時30分まで）\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森歯科医師会館|池上4-19-7|03-3754-8648|\n|蒲田歯科医師会館|新蒲田1-4-14|03-3731-9282|\n各歯科医師会のホームページ\n大森歯科医師会ホームページ;https://www.omorida.or.jp/\n\n蒲田歯科医師会ホームページ;https://www.kamashi.jp/\n\n接骨（ほねつぎ）\n施術時間　日曜、祝日の午前9時から午後5時\n場所　区内整骨院・接骨院が輪番制で対応しています。詳しくはお問合せください。\n電話番号　090-3542-3896\n困ったときの相談先\n医療機関をお探しの方へ\n■東京都医療機関・薬局案内サービス（ひまわり）　\n・電話番号　03-5272-0303\n・受付時間　毎日24時間\n（「ひまわり」は、24時間医療機関案内などを行っている都民のためのサービスです）\n\n■医療機関・薬局の公的検索システム「医療情報ネット」\nパソコンやスマートフォンで、全国の医療機関・薬局について検索・情報収集ができるサービスです。\n\n医療機関・薬局の公的検索システム「医療情報ネット」;https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize\n\n■おおた医療BOOK\nこちらのページ;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/ota-iryobook.htmlから情報をご確認下さい。\n\n救急車を呼んだ方がいいか迷ったら\n東京消防庁救急相談センター\n・電話番号　＃7119（プッシュ回線・携帯電話の場合）\n　その他の電話やつながらない場合は、03-3212-2323\n・受付時間　24時間年中無休\n\n東京消防庁ホームページ;https://www.tfd.metro.tokyo.lg.jp/lfe/kyuu-adv/soudan-center.htm\n\n緊急に病院に行く必要があると思ったときは\n迷わず119番通報をしてください！\n\n子どもの急な病気に困ったら\n東京都福祉保健局　子供の健康相談室（小児救急相談）\n・電話番号　＃8000（プッシュ回線・携帯電話の場合）\n　その他の電話やつながらない場合は、03-5285-8898\n・受付時間\n　月曜日から金曜日まで（祝日、年末年始を除く）：午後6時から翌朝8時まで\n　 土曜日、日曜日、祝日、年末年始：午前8時から翌朝8時まで\n\n子供の健康相談室ホームページ;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/k_soudan.html\n\nこどもの救急（日本小児科学会）\n夜間や休日などの診療時間外に病院を受診するかどうか、判断の目安を提供しています。\n\nこどもの救急（日本小児科学会）ホームページ;https://kodomo-qq.jp/\n\n東京都こども医療ガイド\n子どもの病気や発熱・怪我、子育ての情報が簡単に見つかる、東京都管轄のWebサイトです。\n\n東京都こども医療ガイドホームページ;https://www.guide.metro.tokyo.lg.jp/\n\nTOKYO子育て情報サービス\n安心して子育てができるよう、妊娠、子育て及び事故防止等に関する情報を提供する東京都のサービスです。\n\nTOKYO子育て情報サービスホームページ;https://www.fukushi.metro.tokyo.lg.jp/kodomo//kosodate/info_service/\n\n診療科・曜日ごとの早見表\n夜間・休日診療早見表\n|診療科|<|場所|月～金|土|日・祝|\n|:----|:----|:----|:----|:----|:----|\n|内科<br>（小児科含）|<|大森医師会診療所||17時00分～22時00分|9時00分～22時00分<br>（途中、休憩時間有）|\n|^|^|田園調布医師会診療所<br>※電話予約制|||9時00分～22時00分<br>（途中、休憩時間有）|\n|^|^|蒲田医師会診療所<br>※電話予約制||17時00分～22時00分|9時00分～22時00分<br>（途中、休憩時間有）|\n|小児科|初期救急|大田区子ども平日夜間救急室<br>（東邦大学医療センター大森病院）|20時00分～23時00分|||\n|^|救急|東邦大学医療センター大森病院|16時15分～翌朝8時30分|13時15分～翌朝8時30分<br>（第三土曜を除く）|8時30分～翌朝8時30分<br>（第三土曜を含む）|\n|^|^|荏原病院|17時00分～翌朝9時00分|正午～翌朝9時00分|9時00分～翌朝9時00分|\n|調剤|<|大森会営薬局||17時00分～22時00分|9時00分～22時00分|\n|^|^|ゆきがや薬局|||9時00分～22時00分|\n|^|^|蒲田薬局||17時00分～22時00分|9時00分～22時00分|\n|歯科|<|大森歯科医師会館|||9時00分～17時00分|\n|^|^|蒲田歯科医師会館|||9時00分～17時00分|\n|接骨（ほねつぎ）|<|東京都柔道整復師会大田支部<br>（区内整骨院・接骨院輪番制）<br>（場所はお問合せください）|||9時00分～17時00分|\n",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "大森医師会診療所,田園調布医師会診療所,蒲田医師会診療所",
+        "implementationAddress": "中央4-31-14,石川町2-7-1,蒲田4-24-12"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": "22:00",
+        "condiutilizationConditionstions": "土曜日\n診療時間　午後5時から10時まで（受付は午後9時30分まで）\n\n日曜日・祝日\n診療時間　午前9時から午後10時まで（受付は午後9時30分まで）\n（注意）午前11時30分から午後1時までは休憩時間"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "現在、電話予約制となっています。必ず、事前に電話をしてから受診してください。\n\n土曜日\n診療時間　午後5時から10時まで（受付は午後9時30分まで）\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森医師会診療所<br>※電話予約制|中央4-31-14|03-3772-2402|\n|蒲田医師会診療所<br>※電話予約制|蒲田4-24-12|03-3732-0191|\n日曜日・祝日\n診療時間　午前9時から午後10時まで（受付は午後9時30分まで）\n（注意）午前11時30分から午後1時までは休憩時間\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森医師会診療所<br>※電話予約制|中央4-31-14|03-3772-2402|\n|田園調布医師会診療所<br>※電話予約制|石川町2-7-1|03-3728-6671|\n|蒲田医師会診療所<br>※電話予約制|蒲田4-24-12|03-3732-0191|\n各医師会診療所ホームページ\n大森医師会ホームページ;https://www.omori-med.or.jp/\n\n田園調布医師会ホームページ;https://www.dencho-med.or.jp/\n\n蒲田医師会ホームページ;https://www.kamata-med.or.jp/",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.omori-med.or.jp/",
+          "title": "大森医師会ホームページ"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kenkousuishin.html",
+          "title": "健康医療政策課"
+        },
+        {
+          "uri": "https://www.kamata-med.or.jp/",
+          "title": "蒲田医師会ホームページ"
+        },
+        {
+          "uri": "https://www.dencho-med.or.jp/",
+          "title": "田園調布医師会ホームページ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html",
+        "title": "夜間・休日診療のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康医療政策課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kenkousuishin.html",
+        "contactPhone": "03-5744-1264",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=hokenjo",
+        "contactComment": "FAX ：03-5744-1523",
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+1+UM45",
+        "organization": "1000020131113",
+        "compartment": "健康医療政策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月未満児）",
+        "shortName": "4か月児"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として4か月児健康診査を実施しています。",
+      "description": "乳幼児健康診査\nページ番号：345230893\n更新日：2022年7月1日\n　子どもの健やかな成育のために、各種健診を行っています。くわしくは、各地域健康課までお問合せください。\n\n4か月児\n実施場所\n各地域健康課\n\n通知方法\n各地域健康課から事前に個別通知します。\n\n6か月から7か月児\n実施場所\n都内の契約医療機関\n\n通知方法\n4か月児健康診査の案内に「乳児（6・7か月）健康診査受診票」が同封されています。\nそれを持参して、医療機関でお受けください。\n\n詳細はこちらのページをご覧ください。;https://www.city.ota.tokyo.jp/seikatsu/kodomo/hoken/nyuuyioujikensin_06m-07m.html\n\n9か月から10か月児\n実施場所\n都内の契約医療機関\n\n通知方法\n4か月児健康診査の案内に「乳児（9・10か月）健康診査受診票」が同封されています。\nそれを持参して、医療機関でお受けください。\n\n詳細はこちらのページをご覧ください。;https://www.city.ota.tokyo.jp/seikatsu/kodomo/hoken/nyuuyioujikensin_09m-10m.html\n\n1歳6か月児\n実施場所\n各地域健康課\n\n通知方法\n各地域健康課から事前に個別通知します。\n\n3歳児\n実施場所\n各地域健康課\n\n通知方法\n各地域健康課から事前に個別通知します。",
+      "target": {
+        "targetPersons": "4か月児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "4か月児"
+      },
+      "support": {
+        "description": "子どもの健やかな成育のために、各種健診を行っています。くわしくは、各地域健康課までお問合せください。",
+        "monetarySupport": null,
+        "materiallySupport": "子どもの健やかな成育のために、各種健診を行っています。くわしくは、各地域健康課までお問合せください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "各地域健康課",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "各地域健康課から事前に個別通知します。",
+      "procedurePersons": null,
+      "procedureMethod": "くわしくは、各地域健康課までお問合せください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/c_chiikikenkou.html",
+          "title": "各地域健康課"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/hoken/nyuyoujikenkou.html",
+        "title": "乳幼児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "各地域健康課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/c_chiikikenkou.html,大森地域健康課,調布地域健康課,蒲田地域健康課,糀谷・羽田地域健康課",
+        "contactPhone": "03-5764-0661,03-3726-4145,03-5713-1701,03-3743-4161",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX ：03-5764-0659,FAX ：03-3726-6331,FAX ：03-5713-0290,FAX ：03-6423-8838",
+        "zipCode": null,
+        "contactAddress": "大田区大森西一丁目12番1号,大田区雪谷大塚町4番6号,大田区蒲田本町二丁目1番1号,大田区東糀谷一丁目21番15号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+1+UM49",
+        "organization": "1000020131113",
+        "compartment": "各地域健康課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-07-01",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "6・7か月児健康診査"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として乳幼児健康診査（6か月から7か月児）を実施しています。",
+      "description": "6・7か月児健康診査\nページ番号：933477298\n更新日：2024年5月1日\n実施場所\n都内の契約医療機関\n大田区内で6・7か月児健康診査を実施している医療機関は下記の名簿をご覧ください。\n\n妊婦・乳児健康診査実施医療機関名簿（R6.5.1）（PDF：210KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/hoken/nyuuyioujikensin_06m-07m.files/nyuuyoujikennsinn060501.pdf\n\n通知方法\n4か月児健康診査の案内に「乳児（6・7か月）健康診査受診票」が同封されています。\n\n実施方法\n「乳児（6・7か月）健康診査受診票」を持参して、医療機関でお受けください。\n\n対象月齢\n生後6～7か月",
+      "target": {
+        "targetPersons": "生後6～7か月",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 7
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後6～7か月"
+      },
+      "support": {
+        "description": "6・7か月児健康診査",
+        "monetarySupport": null,
+        "materiallySupport": "6・7か月児健康診査"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "妊婦・乳児健康診査実施医療機関名簿（R6.5.1）（PDF：210KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/hoken/nyuuyioujikensin_06m-07m.files/nyuuyoujikennsinn060501.pdf",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "4か月児健康診査の案内に「乳児（6・7か月）健康診査受診票」が同封されています。",
+      "procedurePersons": null,
+      "procedureMethod": "「乳児（6・7か月）健康診査受診票」を持参して、医療機関でお受けください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "乳児（6・7か月）健康診査受診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/c_chiikikenkou.html",
+          "title": "大田区里帰り等妊婦健康診査・新生児聴覚検査費用助成について（PDF：178KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/hoken/nyuuyioujikensin_06m-07m.files/nyuuyoujikennsinn060501.pdf",
+          "title": "妊婦・乳児健康診査実施医療機関名簿（R6.5.1）（PDF：210KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/hoken/nyuuyioujikensin_06m-07m.html",
+        "title": "6・7か月児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "各地域健康課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/c_chiikikenkou.html,大森地域健康課,調布地域健康課,蒲田地域健康課,糀谷・羽田地域健康課",
+        "contactPhone": "03-5764-0661,03-3726-4145,03-5713-1701,03-3743-4161",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX ：03-5764-0659,FAX ：03-3726-6331,FAX ：03-5713-0290,FAX ：03-6423-8838",
+        "zipCode": null,
+        "contactAddress": "大田区大森西一丁目12番1号,大田区雪谷大塚町4番6号,大田区蒲田本町二丁目1番1号,大田区東糀谷一丁目21番15号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+1+UM50",
+        "organization": "1000020131113",
+        "compartment": "各地域健康課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-01",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "伴走型相談支援",
+        "shortName": "妊婦面接"
+      },
+      "summary": "すべての妊婦さんと子育て家庭が安心して出産・子育てができるように、妊娠から出産・子育てまでの一貫した「伴走型相談支援」を実施しています。",
+      "description": "妊婦面接\n\n内容\n妊娠期から出産・子育て期への切れ目ない支援のきっかけづくりとして、妊婦の方に対し保健師又は助産師が、お話を伺う面接を実施しています。\nお受けいただいた妊婦の方に「大田区子育て応援ギフト1万円相当」 （大田区に住民登録されている方）と「出産応援ギフト5万円相当」を差し上げます。\n（注釈1）出産応援ギフトについては、要件があります。こちらをご確認下さい。\n\n出産・子育て応援事業;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/syussankosodate.html\n\n対象者\n・面接日現在、大田区に住民登録のある妊婦の方\n・大田区へ転入された妊婦の方\n（他の区市町村へ妊娠届を出された方で、面接日現在大田区に住民登録がある妊婦の方）\n\n面接実施場所\n管轄の地域健康課でお受けください。 管轄の地域健康課は以下の「各地域健康課管轄一覧」でご確認ください。\n・大森地域健康課\n・調布地域健康課\n・蒲田地域健康課\n・糀谷・羽田地域健康課\n（注1）平日の場合、妊娠届出と同時に妊婦面接を受けることが出来ます。\n　(注2）土曜日の面接は、妊娠届出と同時に行うことはできません。\n\n妊婦面接の予約方法\n・　妊婦面接予約システム又は管轄の地域健康課へ電話で予約をお願いします。\n・　面接は平日及び月1回土曜日に行っております。\n　　予約日時、予約状況は予約システムでご確認ください。\n・　ご予約はできるだけ妊婦さんご自身でお願いいたします。\n　　代理の方が予約をされる際は、時間・場所・注意事項などを必ず妊婦さんへ事前にお伝えください。\n・　妊娠届を他の区市町村で提出された後に、大田区に転入された妊婦の方も対象となります。\n\n妊婦面接予約システム\n↑　妊婦面接予約システムはこちら;https://otacity-ninpumensetsu.revn.jp/\n「妊婦面接」案内ちらし（PDF：229KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/karugamo.files/06chirashi.pdf\n\n各地域健康課管轄一覧（PDF：206KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/karugamo.files/06kankatsuichiran.pdf\n\n持ち物\n・母子健康手帳\n・妊娠届本人控\n（注釈1）　妊娠届と同時に妊婦面接を受ける方は不要です。\n\n来所にあたってのお願い\n体調がすぐれない場合は、来所を控えていただきますようお願いいたします。\n関連リンク\n妊娠したら;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/ninsin.html",
+      "target": {
+        "targetPersons": "・面接日現在、大田区に住民登録のある妊婦の方\n・大田区へ転入された妊婦の方\n（他の区市町村へ妊娠届を出された方で、面接日現在大田区に住民登録がある妊婦の方）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠期から出産・子育て期への切れ目ない支援のきっかけづくりとして、妊婦の方に対し保健師又は助産師が、お話を伺う面接を実施しています",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠期から出産・子育て期への切れ目ない支援のきっかけづくりとして、妊婦の方に対し保健師又は助産師が、お話を伺う面接を実施しています"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "管轄の地域健康課",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "妊婦さんご自身",
+      "procedureMethod": "妊婦面接予約システム又は管轄の地域健康課へ電話で予約",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "・母子健康手帳\n・妊娠届本人控\n（注釈1）　妊娠届と同時に妊婦面接を受ける方は不要です。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/karugamo.files/06kankatsuichiran.pdf",
+          "title": "各地域健康課管轄一覧"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/syussankosodate.html",
+          "title": "出産・子育て応援事業"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/karugamo.files/06chirashi.pdf",
+          "title": "「妊婦面接」案内ちらし"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/ninsin.html",
+          "title": "妊娠したら"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/karugamo.html",
+        "title": "妊婦面接"
+      },
+      "formLink": [
+        {
+          "uri": "https://otacity-ninpumensetsu.revn.jp/",
+          "title": "妊婦面接予約システム"
+        }
+      ],
+      "contact": {
+        "contactName": "大森地域健康課,調布地域健康課,蒲田地域健康課,糀谷・羽田地域健康課,健康づくり課",
+        "contactPhone": "03-5764-0661,03-3726-4145,03-5713-1701,03-3743-4161,03-5744-1661",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+1+UM5011",
+        "organization": "1000020131113",
+        "compartment": "健康づくり課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-27",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "伴走型相談支援及び出産・子育て応援給付金の一体的実施事業の実施について（子発1226第1号 令和4年12月26日）",
+        "regulationArticle": "別紙：伴走型相談支援及び出産・子育て応援給付金の一体的実施事業実施要綱「伴走型相談支援」（別添１）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+        "shortName": "産前産後期間に係る国民健康保険料減免"
+      },
+      "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分）の均等割保険料と所得割保険料が免除されます。",
+      "description": "産前産後期間に係る国民健康保険料減免\n\n出産する予定または出産した方の保険料が減免されます\n令和6年1月から、届出により産前産後期間に係る国民健康保険料が減免される制度が始まります。\n\n対象となる方\n令和5年11月1日以降に出産予定、または出産した国民健康保険被保険者\n(注釈)ここでの「出産」とは、妊娠85日(4か月)以降の出産をいいます。死産・流産(人工妊娠中絶を含む)・早産を含みます。\n\n減免の内容\n対象となる方につき、以下に示す期間の所得割保険料および均等割保険料\n\n単胎妊娠の場合、出産予定日または出産日が属する月の前月から起算して4か月間\n多胎妊娠(双子以上)の場合、出産予定日または出産日が属する月の3か月前から起算して6か月間\n(注釈1)令和6年1月分以降の国民健康保険料が減免の対象になります。\n(注釈2)出産予定、または出産した被保険者以外で同一世帯に属する被保険者は、保険料減免の対象外です。\n\n【減免対象期間の図】\n\n減免対象期間の図\n減免に関する注意事項\n1.他の事由で保険料の軽減を受けている場合であっても、本制度と併用できます。\n2.保険料が賦課限度額に達している世帯の場合、免除適用後も、保険料に変更が生じない場合があります。\n\n詳しくはお問合せ下さい。\n\n届出について\n大田区役所(本庁舎)の国民健康保険窓口、または郵送にて届出してください。\n\n届出をする人\n出産予定、または出産した被保険者が属する世帯の世帯主\n\n(注釈)代理人(住民票上別世帯の方)が届出する場合、世帯主からの委任状を作成し、届出に必要な書類等と合わせて提出してください。\n委任状の書き方(例)（PDF：104KB）;https://www.city.ota.tokyo.jp/seikatsu/kokunen/kokuho/topics/kokuho_sanzensango_genmen.files/ininjokakikata.pdf\n\n委任状（PDF：88KB）;https://www.city.ota.tokyo.jp/seikatsu/kokunen/kokuho/topics/kokuho_sanzensango_genmen.files/ininjo2021.pdf\n\n届出ができる時期\n出産予定日の6か月前から届出を受け付けます。\n(注釈)令和5年度のみ、令和6年1月4日から受付を開始します。\n\n届出に必要な書類等\n産前産後期間に係る保険料減免届出書　PDF形式（PDF：90KB）;https://www.city.ota.tokyo.jp/seikatsu/kokunen/kokuho/topics/kokuho_sanzensango_genmen.files/kokuho_sanzensango_genmen_todokedesyo_2.pdf　Word形式（Word：18KB）;https://www.city.ota.tokyo.jp/seikatsu/kokunen/kokuho/topics/kokuho_sanzensango_genmen.files/kokuho_sanzensango_genmen_todokedesyo_2.docx\n対象となる方の母子健康手帳\n届出者の本人確認書類(マイナンバーカード、運転免許証、パスポート、在留カード、身体障害者手帳、健康保険証(有効期限内のもの)等)\n(注釈)郵送による届出の場合は、母子健康手帳の表紙(保護者氏名の記載があるもの)および出産予定日が確認できるページのコピーと本人確認書類のコピーを添付してください。\n\n【母子健康手帳をお持ちでない場合】\n以下の書類等が必要です。\n\n(出産前) 医療機関が発行した証明書等、出産の予定日・単体または多胎妊娠の別を明らかにすることができる書類\n(出産後) 戸籍謄本(戸籍全部事項証明)や医療機関が発行した証明書等、出産日・出産した方と当該出産に係る子の身分関係・単体または多胎妊娠の別を明らかにすることができる書類\n(死産等) 死産証明書、死胎火葬許可証、その他医療機関が発行した証明書等で、死産等の日・身分関係を明らかにすることができる書類\n郵送先\n〒144-8621\n大田区蒲田五丁目13番14号\n大田区役所　国保年金課国保資格係",
+      "target": {
+        "targetPersons": "令和5年11月1日以降に出産予定、または出産した国民健康保険被保険者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "対象となる方につき、以下に示す期間の所得割保険料および均等割保険料\n\n・単胎妊娠の場合、出産予定日または出産日が属する月の前月から起算して4か月間\n・多胎妊娠(双子以上)の場合、出産予定日または出産日が属する月の3か月前から起算して6か月間\n(注釈1)令和6年1月分以降の国民健康保険料が減免の対象になります。\n(注釈2)出産予定、または出産した被保険者以外で同一世帯に属する被保険者は、保険料減免の対象外です。",
+        "monetarySupport": "対象となる方につき、以下に示す期間の所得割保険料および均等割保険料\n\n・単胎妊娠の場合、出産予定日または出産日が属する月の前月から起算して4か月間\n・多胎妊娠(双子以上)の場合、出産予定日または出産日が属する月の3か月前から起算して6か月間\n(注釈1)令和6年1月分以降の国民健康保険料が減免の対象になります。\n(注釈2)出産予定、または出産した被保険者以外で同一世帯に属する被保険者は、保険料減免の対象外です。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "出産予定、または出産した被保険者が属する世帯の世帯主",
+      "procedureMethod": "大田区役所(本庁舎)の国民健康保険窓口、または郵送にて届出してください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産予定日の6か月前から届出を受け付けます。"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "大田区役所(本庁舎)の国民健康保険窓口",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/kokunen/kokuho/topics/kokuho_sanzensango_genmen.files/ininjokakikata.pdf",
+          "title": "委任状の書き方(例)"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/kokunen/kokuho/topics/kokuho_sanzensango_genmen.files/ininjo2021.pdf",
+          "title": "委任状（PDF：88KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/kokunen/kokuho/topics/kokuho_sanzensango_genmen.html",
+        "title": "産前産後期間に係る国民健康保険料減免"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "国保年金課国保資格係",
+        "contactPhone": "03-5744-1210",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=kokunen",
+        "contactComment": "FAX ：03-5744-1516",
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+1+UM5035",
+        "organization": "1000020131113",
+        "compartment": "国保年金課国保資格係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-01-05",
+      "odInformation": {
+        "updateDate": "2024-06-27",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003",
+          "015"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "1歳6か月児健康診査",
+        "shortName": "1歳6か月児"
+      },
+      "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。大田区では1歳6か月児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "乳幼児健康診査\nページ番号：345230893\n更新日：2022年7月1日\n　子どもの健やかな成育のために、各種健診を行っています。くわしくは、各地域健康課までお問合せください。\n\n4か月児\n実施場所\n各地域健康課\n\n通知方法\n各地域健康課から事前に個別通知します。\n\n6か月から7か月児\n実施場所\n都内の契約医療機関\n\n通知方法\n4か月児健康診査の案内に「乳児（6・7か月）健康診査受診票」が同封されています。\nそれを持参して、医療機関でお受けください。\n\n詳細はこちらのページをご覧ください。;https://www.city.ota.tokyo.jp/seikatsu/kodomo/hoken/nyuuyioujikensin_06m-07m.html\n\n9か月から10か月児\n実施場所\n都内の契約医療機関\n\n通知方法\n4か月児健康診査の案内に「乳児（9・10か月）健康診査受診票」が同封されています。\nそれを持参して、医療機関でお受けください。\n\n詳細はこちらのページをご覧ください。;https://www.city.ota.tokyo.jp/seikatsu/kodomo/hoken/nyuuyioujikensin_09m-10m.html\n\n1歳6か月児\n実施場所\n各地域健康課\n\n通知方法\n各地域健康課から事前に個別通知します。\n\n3歳児\n実施場所\n各地域健康課\n\n通知方法\n各地域健康課から事前に個別通知します。",
+      "target": {
+        "targetPersons": "1歳6か月児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1歳6か月児"
+      },
+      "support": {
+        "description": "1歳6か月児健康診査",
+        "monetarySupport": null,
+        "materiallySupport": "1歳6か月児健康診査"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "各地域健康課",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "各地域健康課から事前に個別通知します。",
+      "procedurePersons": null,
+      "procedureMethod": "くわしくは、各地域健康課までお問合せください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/c_chiikikenkou.html",
+          "title": "各地域健康課"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/hoken/nyuyoujikenkou.html",
+        "title": "乳幼児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "各地域健康課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/c_chiikikenkou.html,大森地域健康課,調布地域健康課,蒲田地域健康課,糀谷・羽田地域健康課",
+        "contactPhone": "03-5764-0661,03-3726-4145,03-5713-1701,03-3743-4161",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX ：03-5764-0659,FAX ：03-3726-6331,FAX ：03-5713-0290,FAX ：03-6423-8838",
+        "zipCode": null,
+        "contactAddress": "大田区大森西一丁目12番1号,大田区雪谷大塚町4番6号,大田区蒲田本町二丁目1番1号,大田区東糀谷一丁目21番15号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+1+UM51",
+        "organization": "1000020131113",
+        "compartment": "各地域健康課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-07-01",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "3歳児健康診査",
+        "shortName": "3歳児"
+      },
+      "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。大田区では3歳児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "乳幼児健康診査\nページ番号：345230893\n更新日：2022年7月1日\n　子どもの健やかな成育のために、各種健診を行っています。くわしくは、各地域健康課までお問合せください。\n\n4か月児\n実施場所\n各地域健康課\n\n通知方法\n各地域健康課から事前に個別通知します。\n\n6か月から7か月児\n実施場所\n都内の契約医療機関\n\n通知方法\n4か月児健康診査の案内に「乳児（6・7か月）健康診査受診票」が同封されています。\nそれを持参して、医療機関でお受けください。\n\n詳細はこちらのページをご覧ください。;https://www.city.ota.tokyo.jp/seikatsu/kodomo/hoken/nyuuyioujikensin_06m-07m.html\n\n9か月から10か月児\n実施場所\n都内の契約医療機関\n\n通知方法\n4か月児健康診査の案内に「乳児（9・10か月）健康診査受診票」が同封されています。\nそれを持参して、医療機関でお受けください。\n\n詳細はこちらのページをご覧ください。;https://www.city.ota.tokyo.jp/seikatsu/kodomo/hoken/nyuuyioujikensin_09m-10m.html\n\n1歳6か月児\n実施場所\n各地域健康課\n\n通知方法\n各地域健康課から事前に個別通知します。\n\n3歳児\n実施場所\n各地域健康課\n\n通知方法\n各地域健康課から事前に個別通知します。",
+      "target": {
+        "targetPersons": "3歳児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "3歳児"
+      },
+      "support": {
+        "description": "3歳児健康診査",
+        "monetarySupport": null,
+        "materiallySupport": "3歳児健康診査"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "各地域健康課",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "各地域健康課から事前に個別通知します。",
+      "procedurePersons": null,
+      "procedureMethod": "くわしくは、各地域健康課までお問合せください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/c_chiikikenkou.html",
+          "title": "各地域健康課"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/hoken/nyuyoujikenkou.html",
+        "title": "乳幼児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "各地域健康課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/c_chiikikenkou.html,大森地域健康課,調布地域健康課,蒲田地域健康課,糀谷・羽田地域健康課",
+        "contactPhone": "03-5764-0661,03-3726-4145,03-5713-1701,03-3743-4161",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX ：03-5764-0659,FAX ：03-3726-6331,FAX ：03-5713-0290,FAX ：03-6423-8838",
+        "zipCode": null,
+        "contactAddress": "大田区大森西一丁目12番1号,大田区雪谷大塚町4番6号,大田区蒲田本町二丁目1番1号,大田区東糀谷一丁目21番15号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+1+UM52",
+        "organization": "1000020131113",
+        "compartment": "各地域健康課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-07-01",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "離乳食教室",
+        "shortName": "離乳食（生後5から6か月ごろ）・乳幼児栄養相談"
+      },
+      "summary": "生後5~6か月前後のお子さんとその保護者を対象に、離乳食を始める時のポイントやすすめ方についての講座を開催しています。離乳食のいろいろな悩みに栄養士がお答えします。また、離乳食の作り方の実演や試食もあります。",
+      "description": "離乳食（生後5から6か月ごろ）・乳幼児栄養相談\nページ番号：759292972\n更新日：2024年3月28日\n離乳食（生後5から6か月ごろ）・乳幼児栄養個別相談\n\n内容\n・離乳食個別相談\n　（進め方、作り方、授乳についてなど）\n・乳幼児個別栄養相談\n\n対象\n乳幼児のお子様の保護者\n\n持ち物\n・母子手帳\n・お子様の外出時に必要な育児用品など\n\n日程\n令和6年度日程\n|月|日|曜日|\n|:----|:----|:----|\n|2024年4月|11日|木曜日|\n|5月|16日|木曜日|\n|6月|13日|木曜日|\n|7月|18日|木曜日|\n|8月|22日|木曜日|\n|9月|12日|木曜日|\n|10月|10日|木曜日|\n|11月|28日|木曜日|\n|12月|12日|木曜日|\n|2025年1月|9日|木曜日|\n|2月|20日|木曜日|\n|3月|6日|木曜日|\n時間\nおひとり30分\n・午前9時30分　　・午前10時00分　 ・午前10時30分　\n・午前11時00分　・午前11時30分\n\n会場\n糀谷・羽田地域庁舎;https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html1階　栄養室\n\n定員\n10名\n\n申し込み方法\n予約制です。事前に電話または来所にてお申込みください。\n\nかんたん離乳食のつくり方（動画・レシピ）はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/kenko_dukuri/syokuseikatsu_joho/kenkou_menu/kantan-rinyuusyoku.htmlから\n動画でかんたん離乳食づくりを紹介しています。\nぜひご覧ください。",
+      "target": {
+        "targetPersons": "5か月児から6か月児のお子さんの保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 5
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "5か月児から6か月児"
+      },
+      "support": {
+        "description": "・離乳食個別相談（進め方、作り方、授乳についてなど）\n・乳幼児個別栄養相談",
+        "monetarySupport": null,
+        "materiallySupport": "・離乳食個別相談（進め方、作り方、授乳についてなど）\n・乳幼児個別栄養相談"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "各地域健康課",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "予約制です。事前に電話でお申込みください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子手帳、お子さん連れの外出に必要なもの（オムツ、タオル、必要な方はミルクとお湯もいっしょにお持ちください。）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/kenko_dukuri/syokuseikatsu_joho/kenkou_menu/kantan-rinyuusyoku.html",
+          "title": "かんたん離乳食のつくり方（動画・レシピ）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/omori/kenkou_fukushi/oyako_kenkou/ikuji-gakkyuu_05-06.html,https://www.city.ota.tokyo.jp/chofu/kenkou_fukushi/oyako_kenkou/ikuji-gakkyuu_05-06.html,https://www.city.ota.tokyo.jp/kamata/kenkou_fukushi/soudan/eiyousoudan_5m-6m.html,https://www.city.ota.tokyo.jp/koujiya_haneda/kenkou_fukushi/oyako_kenkou/5-6kobetu.html",
+        "title": "育児学級　【5か月から6か月頃】個別相談,育児学級【5～6か月頃】,個別栄養相談(5か月児から6か月児),離乳食（生後5から6か月ごろ）・乳幼児栄養相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "各地域健康課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/c_chiikikenkou.html,大森地域健康課,調布地域健康課,蒲田地域健康課,糀谷・羽田地域健康課",
+        "contactPhone": "03-5764-0661,03-3726-4145,03-5713-1701,03-3743-4161",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": "大田区大森西一丁目12番1号,大田区雪谷大塚町4番6号,大田区蒲田本町二丁目1番1号,大田区東糀谷一丁目21番15号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+1+UM798",
+        "organization": "1000020131113",
+        "compartment": "各地域健康課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-28",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法、食育基本法",
+        "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）、法第5条（子どもの食育における保護者、教育関係者等の役割）、21条 （地域における食生活の改善のための取組の推進）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦の歯科健診",
+        "shortName": "妊婦歯科健康診査"
+      },
+      "summary": "妊娠中や出産後は女性ホルモンの分泌の変化や食事回数の増加などから虫歯や歯周病になりやすく、進行しやすい時期です。こうした時期のお口の中の健康を維持するために、歯科健診をおすすめしています。健診には健康保険が適用されませんが、経済的負担を軽減するため妊産婦歯科健診受診票をお渡ししています。",
+      "description": "妊婦歯科健康診査\nページ番号：421917759\n更新日：2022年4月1日\n妊婦歯科健康診査\n妊娠中は、つわり等の影響で歯みがきができにくいことやホルモンの変化などにより妊娠性歯肉炎、むし歯が進行しやすい時期です。\n日常の口腔ケアに加えて歯科健診も受けて、お口の清潔を保ちましょう。\n妊娠中に1回　区内の指定歯科医療機関で受診できます。健診の費用は無料です。\n歯石除去やむし歯などの治療は、保険診療（有料）となります。\n\n健診を受けるには\n「母と子の保健バック」の「受診票セット」に妊婦歯科健康診査の受診票が入っています。\n実施医療機関名簿に記載している歯科医療機関に電話で予約のうえ受診しましょう。\n受診の際には、受診票と母子健康手帳をご持参ください。\n\n実施医療機関名簿;https://www.city.ota.tokyo.jp/seikatsu/hoken/kenko_dukuri/sika_joho/jissiiryoukikanmeibo.html",
+      "target": {
+        "targetPersons": "妊婦",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "歯科健診",
+        "monetarySupport": null,
+        "materiallySupport": "歯科健診"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "実施医療機関名簿に記載している歯科医療機関に電話で予約のうえ受診しましょう。\n\n実施医療機関名簿;https://www.city.ota.tokyo.jp/seikatsu/hoken/kenko_dukuri/sika_joho/jissiiryoukikanmeibo.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "受診の際には、受診票と母子健康手帳をご持参ください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "実施医療機関名簿に記載している歯科医療機関\n\n実施医療機関名簿;https://www.city.ota.tokyo.jp/seikatsu/hoken/kenko_dukuri/sika_joho/jissiiryoukikanmeibo.html",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/kenko_dukuri/sika_joho/jissiiryoukikanmeibo.html",
+          "title": "実施医療機関名簿"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kumin_kenkoudukuri.html",
+          "title": "健康づくり課"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/shussan/sika/ninpushikakenkoushinsa.html",
+        "title": "妊婦歯科健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康づくり課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kumin_kenkoudukuri.html",
+        "contactPhone": "03-5744-1661",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+1+UM8",
+        "organization": "1000020131113",
+        "compartment": "健康づくり課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-27",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第10条（保健指導）・第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小児科救急",
+        "shortName": "救急（祝日を含む月曜から日曜）"
+      },
+      "summary": "東邦大学医療センター大森病院、都立荏原病院にて救急外来診療体制をとっております。",
+      "description": "夜間・休日診療のご案内\n\n休日や夜間に急病になった場合の情報を掲載しています。\n各診療情報の他、医療に関する緊急時の相談先については、以下、「困ったときの相談先」の項目に掲載しております。併せてご確認ください。\n出掛ける前にご確認ください\nかかりつけ医が診察している時間帯は、かかりつけ医にご相談ください。\n受診前に、必ず電話連絡をお願いします。\n健康保険証や医療証などをお忘れなくお持ちください。\n病院の場合は選定療養費がかかる場合がありますので、事前に確認してください。\n台風等の荒天時には、診療時間が変更となる場合がございます。\n「内科（小児科含）の急病」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cmsDEBD0\n「小児科の急病」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms9B505\n「薬（処方箋調剤）」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms592CA\n「歯痛」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cmsE9764\n「接骨（ほねつぎ）」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms929AC\n「困ったときの相談先」はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms4AABC\n「診療科・曜日ごとの早見表」はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms46D5C\n内科（小児科含）の急病\n現在、電話予約制となっています。必ず、事前に電話をしてから受診してください。\n\n土曜日\n診療時間　午後5時から10時まで（受付は午後9時30分まで）\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森医師会診療所<br>※電話予約制|中央4-31-14|03-3772-2402|\n|蒲田医師会診療所<br>※電話予約制|蒲田4-24-12|03-3732-0191|\n日曜日・祝日\n診療時間　午前9時から午後10時まで（受付は午後9時30分まで）\n（注意）午前11時30分から午後1時までは休憩時間\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森医師会診療所<br>※電話予約制|中央4-31-14|03-3772-2402|\n|田園調布医師会診療所<br>※電話予約制|石川町2-7-1|03-3728-6671|\n|蒲田医師会診療所<br>※電話予約制|蒲田4-24-12|03-3732-0191|\n各医師会診療所ホームページ\n大森医師会ホームページ;https://www.omori-med.or.jp/\n田園調布医師会ホームページ;https://www.dencho-med.or.jp/\n蒲田医師会ホームページ;http://www.kamata-med.or.jp/\n\n小児科の急病\n初期救急（平日）\n小児救急患者（満3か月から中学3年生まで）を対象とした初期救急医療事業です。\n診療時間　午後8時から11時（受付は午後7時45分から10時45分）\n創立記念日（6月10日）は休診です。\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大田区子ども平日夜間救急室|大森西6-11-1<br>（東邦大学医療センター大森病院3号館1階）|03-3762-4151|\n大森医師会、田園調布医師会、蒲田医師会、大田区薬剤師会、東邦大学医療センター大森病院が協同で運営しています。\n\n（注意）大田区子ども平日夜間救急室では、感染症の抗原検査は、診察した医師の判断にて実施をいたします。なお、インフルエンザ・新型コロナウイルスの同時抗原検査キットのみの対応となります。\n\n救急（祝日を含む月曜から日曜）\n東邦大学医療センター大森病院\n　所在地　大森西6-11-1\n　電話番号　03-3762-4151\n\n救急外来　受付時間\n|診療体制|受付時間|\n|:----|:----|\n|平日|午後4時15分から翌朝8時30分|\n|土曜日（第三・臨時休診を除く）|午後1時15分から翌朝8時30分|\n|休日（日曜日・祝日・第三土曜日・6月10日）|午前8時30分から翌朝8時30分|\n（注釈）創立記念日（6月10日）及び、臨時休診日は、「休日」の診療体制となります。\n（注釈）祝日の臨時平日診療日は、「平日」の診療体制となります。\n（注釈）診療状況によりご希望に添えない場合があります。\n（注釈）最新情報は、病院ホームページ;https://www.omori.med.toho-u.ac.jp/にてご確認ください。\n\n荏原病院\n所在地　東雪谷4-5-10\n電話番号　03-5734-8000\n（注釈）診療状況によりご希望に添えない場合があります。\n（注釈）最新情報は、荏原病院ホームページ;https://www.tmhp.jp/ebara/にてご確認ください。\n\n診療時間\n|曜日|時間|\n|:----|:----|\n|平日|午後5時00分から翌朝9時00分|\n|土曜日|正午から翌朝9時00分|\n|日曜日・祝日|午前9時00分から翌朝9時00分|\n薬（処方箋調剤）\n土曜日\n時間　午後5時から10時まで\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森会営薬局<br>（大田区薬剤師会　大森ブロック）|中央3-1-3|03-3774-7721|\n|蒲田薬局|蒲田4-38-5|03-3732-1291|\n日曜日・祝日\n時間　午前9時から午後10時まで\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森会営薬局<br>（大田区薬剤師会　大森ブロック）|中央3-1-3|03-3774-7721|\n|ゆきがや薬局<br>（大田区薬剤師会　田園調布ブロック）|東雪谷5-1-1|03-3728-3231|\n|蒲田薬局|蒲田4-38-5|03-3732-1291|\n各薬剤師会のホームページ\n大田区薬剤師会ホームページ;https://ootakuyaku.jp/\n蒲田薬剤師会ホームページ;http://www.jade.dti.ne.jp/~kpa/\n\n歯痛\n診療時間　日曜日、祝日の午前9時から午後5時（受付時間は午後4時30分まで）\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森歯科医師会館|池上4-19-7|03-3754-8648|\n|蒲田歯科医師会館|新蒲田1-4-14|03-3731-9282|\n各歯科医師会のホームページ\n大森歯科医師会ホームページ;http://www.omorida.or.jp/\n蒲田歯科医師会ホームページ;http://www.kamashi.jp/\n\n接骨（ほねつぎ）\n施術時間　日曜、祝日の午前9時から午後5時\n場所　区内整骨院・接骨院が輪番制で対応しています。詳しくはお問合せください。\n電話番号　090-3542-3896\n困ったときの相談先\n医療機関をお探しの方へ\n■東京都医療機関・薬局案内サービス（ひまわり）　\n・電話番号　03-5272-0303\n・受付時間　毎日24時間\n（「ひまわり」は、24時間医療機関案内などを行っている都民のためのサービスです）\n\n■医療機関・薬局の公的検索システム「医療情報ネット」\nパソコンやスマートフォンで、全国の医療機関・薬局について検索・情報収集ができるサービスです。\n\n医療機関・薬局の公的検索システム「医療情報ネット」;https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize\n\n■おおた医療BOOK\nこちらのページ;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/ota-iryobook.htmlから情報をご確認下さい。\n\n救急車を呼んだ方がいいか迷ったら\n東京消防庁救急相談センター\n・電話番号　＃7119（プッシュ回線・携帯電話の場合）\n　その他の電話やつながらない場合は、03-3212-2323\n・受付時間　24時間年中無休\n\n東京消防庁ホームページ;https://www.tfd.metro.tokyo.lg.jp/lfe/kyuu-adv/soudan-center.htm\n\n緊急に病院に行く必要があると思ったときは\n迷わず119番通報をしてください！\n\n子どもの急な病気に困ったら\n東京都福祉保健局　子供の健康相談室（小児救急相談）\n・電話番号　＃8000（プッシュ回線・携帯電話の場合）\n　その他の電話やつながらない場合は、03-5285-8898\n・受付時間\n　月曜日から金曜日まで（祝日、年末年始を除く）：午後6時から翌朝8時まで\n　 土曜日、日曜日、祝日、年末年始：午前8時から翌朝8時まで\n\n子供の健康相談室ホームページ;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/k_soudan.html\n\nこどもの救急（日本小児科学会）\n夜間や休日などの診療時間外に病院を受診するかどうか、判断の目安を提供しています。\n\nこどもの救急（日本小児科学会）ホームページ;http://kodomo-qq.jp/\n\n東京都こども医療ガイド\n子どもの病気や発熱・怪我、子育ての情報が簡単に見つかる、東京都管轄のWebサイトです。\n\n東京都こども医療ガイドホームページ;https://www.guide.metro.tokyo.lg.jp/\n\nTOKYO子育て情報サービス\n安心して子育てができるよう、妊娠、子育て及び事故防止等に関する情報を提供する東京都のサービスです。\n\nTOKYO子育て情報サービスホームページ;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/info_service/\n\n診療科・曜日ごとの早見表\n夜間・休日診療早見表\n|診療科|<|場所|月～金|土|日・祝|\n|:----|:----|:----|:----|:----|:----|\n|内科<br>（小児科含）|<|大森医師会診療所||17時00分～22時00分|9時00分～22時00分<br>（途中、休憩時間有）|\n|^|^|田園調布医師会診療所<br>※電話予約制|||9時00分～22時00分<br>（途中、休憩時間有）|\n|^|^|蒲田医師会診療所<br>※電話予約制||17時00分～22時00分|9時00分～22時00分<br>（途中、休憩時間有）|\n|小児科|初期救急|大田区子ども平日夜間救急室<br>（東邦大学医療センター大森病院）|20時00分～23時00分|||\n|^|救急|東邦大学医療センター大森病院|16時15分～翌朝8時30分|13時15分～翌朝8時30分<br>（第三土曜を除く）|8時30分～翌朝8時30分<br>（第三土曜を含む）|\n|^|^|荏原病院|17時00分～翌朝9時00分|正午～翌朝9時00分|9時00分～翌朝9時00分|\n|調剤|<|大森会営薬局||17時00分～22時00分|9時00分～22時00分|\n|^|^|ゆきがや薬局|||9時00分～22時00分|\n|^|^|蒲田薬局||17時00分～22時00分|9時00分～22時00分|\n|歯科|<|大森歯科医師会館|||9時00分～17時00分|\n|^|^|蒲田歯科医師会館|||9時00分～17時00分|\n|接骨（ほねつぎ）|<|\t東京都柔道整復師会大田支部<br>（区内整骨院・接骨院輪番制）<br>（場所はお問合せください）|||9時00分～17時00分|\n",
+      "target": {
+        "targetPersons": "小児救急患者（満3か月から中学3年生まで）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 3
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "小児救急患者（満3か月から中学3年生まで）"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "東邦大学医療センター大森病院,荏原病院",
+        "implementationAddress": "大森西6-11-1,東雪谷4-5-10\n（東邦大学医療センター大森病院3号館1階）"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "東邦大学医療センター大森病院\n　所在地　大森西6-11-1\n　電話番号　03-3762-4151\n\n救急外来　受付時間\n|診療体制|受付時間|\n|:----|:----|\n|平日|午後4時15分から翌朝8時30分|\n|土曜日（第三・臨時休診を除く）|午後1時15分から翌朝8時30分|\n|休日（日曜日・祝日・第三土曜日・6月10日）|午前8時30分から翌朝8時30分|\n（注釈）創立記念日（6月10日）及び、臨時休診日は、「休日」の診療体制となります。\n（注釈）祝日の臨時平日診療日は、「平日」の診療体制となります。\n（注釈）診療状況によりご希望に添えない場合があります。\n（注釈）最新情報は、病院ホームページ;https://www.omori.med.toho-u.ac.jp/にてご確認ください。\n\n荏原病院\n所在地　東雪谷4-5-10\n電話番号　03-5734-8000\n（注釈）診療状況によりご希望に添えない場合があります。\n（注釈）最新情報は、荏原病院ホームページ;https://www.tmhp.jp/ebara/にてご確認ください。\n\n診療時間\n|曜日|時間|\n|:----|:----|\n|平日|午後5時00分から翌朝9時00分|\n|土曜日|正午から翌朝9時00分|\n|日曜日・祝日|午前9時00分から翌朝9時00分|\n"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.tfd.metro.tokyo.lg.jp/lfe/kyuu-adv/soudan-center.htm",
+          "title": "東京消防庁ホームページ"
+        },
+        {
+          "uri": "https://www.dencho-med.or.jp/",
+          "title": "田園調布医師会ホームページ"
+        },
+        {
+          "uri": "https://www.tmhp.jp/ebara/ ",
+          "title": "荏原病院ホームページ"
+        },
+        {
+          "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/info_service/",
+          "title": "TOKYO子育て情報サービスホームページ"
+        },
+        {
+          "uri": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize",
+          "title": "医療機関・薬局の公的検索システム「医療情報ネット」"
+        },
+        {
+          "uri": "http://www.omorida.or.jp/",
+          "title": "大森歯科医師会ホームページ"
+        },
+        {
+          "uri": "http://www.kamata-med.or.jp/",
+          "title": "蒲田医師会ホームページ"
+        },
+        {
+          "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/k_soudan.html",
+          "title": "子供の健康相談室ホームページ"
+        },
+        {
+          "uri": "https://www.omori-med.or.jp/",
+          "title": "大森医師会ホームページ"
+        },
+        {
+          "uri": "http://www.kamashi.jp/http://www.kamashi.jp/",
+          "title": "蒲田歯科医師会ホームページ"
+        },
+        {
+          "uri": ";https://www.guide.metro.tokyo.lg.jp/",
+          "title": "東京都こども医療ガイドホームページ"
+        },
+        {
+          "uri": "https://www.omori.med.toho-u.ac.jp/",
+          "title": "病院ホームページ"
+        },
+        {
+          "uri": "https://ootakuyaku.jp/",
+          "title": "大田区薬剤師会ホームページ"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/ota-iryobook.html",
+          "title": "おおた医療BOOK"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html",
+        "title": "夜間・休日診療のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康医療政策課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kenkousuishin.html",
+        "contactPhone": "03-5744-1264",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=hokenjo",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": "大田区蒲田5丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+2+UM114",
+        "organization": "1000020131113",
+        "compartment": "健康医療政策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "小児科の急病"
+      },
+      "summary": "小児救急患者（満3か月から中学3年生まで）を対象とした初期救急医療事業です。",
+      "description": "夜間・休日診療のご案内\nページ番号：709741420\n更新日：2024年4月1日\n休日や夜間に急病になった場合の情報を掲載しています。\n各診療情報の他、医療に関する緊急時の相談先については、以下、「困ったときの相談先」の項目に掲載しております。併せてご確認ください。\n出掛ける前にご確認ください\nかかりつけ医が診察している時間帯は、かかりつけ医にご相談ください。\n受診前に、必ず電話連絡をお願いします。\n健康保険証や医療証などをお忘れなくお持ちください。\n病院の場合は選定療養費がかかる場合がありますので、事前に確認してください。\n台風等の荒天時には、診療時間が変更となる場合がございます。\n「内科（小児科含）の急病」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cmsDEBD0\n「小児科の急病」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms9B505\n「薬（処方箋調剤）」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms592CA\n「歯痛」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cmsE9764\n「接骨（ほねつぎ）」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cmsE9764\n「困ったときの相談先」はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms4AABC\n「診療科・曜日ごとの早見表」はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms46D5C\n内科（小児科含）の急病\n現在、電話予約制となっています。必ず、事前に電話をしてから受診してください。\n\n土曜日\n診療時間　午後5時から10時まで（受付は午後9時30分まで）\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森医師会診療所<br>※電話予約制|中央4-31-14|03-3772-2402|\n|蒲田医師会診療所<br>※電話予約制|蒲田4-24-12|03-3732-0191|\n日曜日・祝日\n診療時間　午前9時から午後10時まで（受付は午後9時30分まで）\n（注意）午前11時30分から午後1時までは休憩時間\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森医師会診療所<br>※電話予約制|中央4-31-14|03-3772-2402|\n|田園調布医師会診療所<br>※電話予約制|石川町2-7-1|03-3728-6671|\n|蒲田医師会診療所<br>※電話予約制|蒲田4-24-12|03-3732-0191|\n各医師会診療所ホームページ\n大森医師会ホームページ;https://www.omori-med.or.jp/\n\n田園調布医師会ホームページ;https://www.dencho-med.or.jp/\n\n蒲田医師会ホームページ;https://www.kamata-med.or.jp/\n\n小児科の急病\n初期救急（平日）\n小児救急患者（満3か月から中学3年生まで）を対象とした初期救急医療事業です。\n診療時間　午後8時から11時（受付は午後7時45分から10時45分）\n創立記念日（6月10日）は休診です。\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大田区子ども平日夜間救急室|大森西6-11-1<br>（東邦大学医療センター大森病院3号館1階）|03-3762-4151|\n大森医師会、田園調布医師会、蒲田医師会、大田区薬剤師会、東邦大学医療センター大森病院が協同で運営しています。\n\n（注意）大田区子ども平日夜間救急室では、感染症の抗原検査は、診察した医師の判断にて実施をいたします。なお、インフルエンザ・新型コロナウイルスの同時抗原検査キットのみの対応となります。\n\n救急（祝日を含む月曜から日曜）\n東邦大学医療センター大森病院\n　所在地　大森西6-11-1\n　電話番号　03-3762-4151\n\n救急外来　受付時間\n|診療体制|受付時間|\n|:----|:----|\n|平日|午後4時15分から翌朝8時30分|\n|土曜日（第三・臨時休診を除く）|午後1時15分から翌朝8時30分|\n|休日（日曜日・祝日・第三土曜日・6月10日）|午前8時30分から翌朝8時30分|\n（注釈）創立記念日（6月10日）及び、臨時休診日は、「休日」の診療体制となります。\n（注釈）祝日の臨時平日診療日は、「平日」の診療体制となります。\n（注釈）診療状況によりご希望に添えない場合があります。\n（注釈）最新情報は、病院ホームページ;https://www.omori.med.toho-u.ac.jp/にてご確認ください。\n\n荏原病院\n所在地　東雪谷4-5-10\n電話番号　03-5734-8000\n（注釈）診療状況によりご希望に添えない場合があります。\n（注釈）最新情報は、荏原病院ホームページ;https://www.tmhp.jp/ebara/にてご確認ください。\n\n診療時間\n|曜日|時間|\n|:----|:----|\n|平日|午後5時00分から翌朝9時00分|\n|土曜日|正午から翌朝9時00分|\n|日曜日・祝日|午前9時00分から翌朝9時00分|\n薬（処方箋調剤）\n土曜日\n時間　午後5時から10時まで\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森会営薬局<br>（大田区薬剤師会　大森ブロック）|中央3-1-3|03-3774-7721|\n|蒲田薬局|蒲田4-38-5|03-3732-1291|\n日曜日・祝日\n時間　午前9時から午後10時まで\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森会営薬局<br>（大田区薬剤師会　大森ブロック）|中央3-1-3|03-3774-7721|\n|ゆきがや薬局<br>（大田区薬剤師会　田園調布ブロック）|東雪谷5-1-1|03-3728-3231|\n|蒲田薬局|蒲田4-38-5|03-3732-1291|\n各薬剤師会のホームページ\n大田区薬剤師会ホームページ;https://ootakuyaku.jp/\n\n蒲田薬剤師会ホームページ;http://www.jade.dti.ne.jp/~kpa/\n\n歯痛\n診療時間　日曜日、祝日の午前9時から午後5時（受付時間は午後4時30分まで）\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森歯科医師会館|池上4-19-7|03-3754-8648|\n|蒲田歯科医師会館|新蒲田1-4-14|03-3731-9282|\n各歯科医師会のホームページ\n大森歯科医師会ホームページ;https://www.omorida.or.jp/\n\n蒲田歯科医師会ホームページ;https://www.kamashi.jp/\n\n接骨（ほねつぎ）\n施術時間　日曜、祝日の午前9時から午後5時\n場所　区内整骨院・接骨院が輪番制で対応しています。詳しくはお問合せください。\n電話番号　090-3542-3896\n困ったときの相談先\n医療機関をお探しの方へ\n■東京都医療機関・薬局案内サービス（ひまわり）　\n・電話番号　03-5272-0303\n・受付時間　毎日24時間\n（「ひまわり」は、24時間医療機関案内などを行っている都民のためのサービスです）\n\n■医療機関・薬局の公的検索システム「医療情報ネット」\nパソコンやスマートフォンで、全国の医療機関・薬局について検索・情報収集ができるサービスです。\n\n医療機関・薬局の公的検索システム「医療情報ネット」;https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize\n\n■おおた医療BOOK\nこちらのページ;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/ota-iryobook.htmlから情報をご確認下さい。\n\n救急車を呼んだ方がいいか迷ったら\n東京消防庁救急相談センター\n・電話番号　＃7119（プッシュ回線・携帯電話の場合）\n　その他の電話やつながらない場合は、03-3212-2323\n・受付時間　24時間年中無休\n\n東京消防庁ホームページ;https://www.tfd.metro.tokyo.lg.jp/lfe/kyuu-adv/soudan-center.htm\n\n緊急に病院に行く必要があると思ったときは\n迷わず119番通報をしてください！\n\n子どもの急な病気に困ったら\n東京都福祉保健局　子供の健康相談室（小児救急相談）\n・電話番号　＃8000（プッシュ回線・携帯電話の場合）\n　その他の電話やつながらない場合は、03-5285-8898\n・受付時間\n　月曜日から金曜日まで（祝日、年末年始を除く）：午後6時から翌朝8時まで\n　 土曜日、日曜日、祝日、年末年始：午前8時から翌朝8時まで\n\n子供の健康相談室ホームページ;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/k_soudan.html\n\nこどもの救急（日本小児科学会）\n夜間や休日などの診療時間外に病院を受診するかどうか、判断の目安を提供しています。\n\nこどもの救急（日本小児科学会）ホームページ;https://kodomo-qq.jp/\n\n東京都こども医療ガイド\n子どもの病気や発熱・怪我、子育ての情報が簡単に見つかる、東京都管轄のWebサイトです。\n\n東京都こども医療ガイドホームページ;https://www.guide.metro.tokyo.lg.jp/\n\nTOKYO子育て情報サービス\n安心して子育てができるよう、妊娠、子育て及び事故防止等に関する情報を提供する東京都のサービスです。\n\nTOKYO子育て情報サービスホームページ;https://www.fukushi.metro.tokyo.lg.jp/kodomo//kosodate/info_service/\n\n診療科・曜日ごとの早見表\n夜間・休日診療早見表\n|診療科|<|場所|月～金|土|日・祝|\n|:----|:----|:----|:----|:----|:----|\n|内科<br>（小児科含）|<|大森医師会診療所||17時00分～22時00分|9時00分～22時00分<br>（途中、休憩時間有）|\n|^|^|田園調布医師会診療所<br>※電話予約制|||9時00分～22時00分<br>（途中、休憩時間有）|\n|^|^|蒲田医師会診療所<br>※電話予約制||17時00分～22時00分|9時00分～22時00分<br>（途中、休憩時間有）|\n|小児科|初期救急|大田区子ども平日夜間救急室<br>（東邦大学医療センター大森病院）|20時00分～23時00分|||\n|^|救急|東邦大学医療センター大森病院|16時15分～翌朝8時30分|13時15分～翌朝8時30分<br>（第三土曜を除く）|8時30分～翌朝8時30分<br>（第三土曜を含む）|\n|^|^|荏原病院|17時00分～翌朝9時00分|正午～翌朝9時00分|9時00分～翌朝9時00分|\n|調剤|<|大森会営薬局||17時00分～22時00分|9時00分～22時00分|\n|^|^|ゆきがや薬局|||9時00分～22時00分|\n|^|^|蒲田薬局||17時00分～22時00分|9時00分～22時00分|\n|歯科|<|大森歯科医師会館|||9時00分～17時00分|\n|^|^|蒲田歯科医師会館|||9時00分～17時00分|\n|接骨（ほねつぎ）|<|東京都柔道整復師会大田支部<br>（区内整骨院・接骨院輪番制）<br>（場所はお問合せください）|||9時00分～17時00分|\n",
+      "target": {
+        "targetPersons": "小児救急患者（満3か月から中学3年生まで）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 3
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "小児救急患者（満3か月から中学3年生まで）"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "大田区子ども平日夜間救急室,東邦大学医療センター大森病院,荏原病院",
+        "implementationAddress": "大森西6-11-1（東邦大学医療センター大森病院3号館1階）,大森西6-11-1,東雪谷4-5-10"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "初期救急（平日）\n小児救急患者（満3か月から中学3年生まで）を対象とした初期救急医療事業です。\n診療時間　午後8時から11時（受付は午後7時45分から10時45分）\n創立記念日（6月10日）は休診です。\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大田区子ども平日夜間救急室|大森西6-11-1<br>（東邦大学医療センター大森病院3号館1階）|03-3762-4151|\n大森医師会、田園調布医師会、蒲田医師会、大田区薬剤師会、東邦大学医療センター大森病院が協同で運営しています。\n\n（注意）大田区子ども平日夜間救急室では、感染症の抗原検査は、診察した医師の判断にて実施をいたします。なお、インフルエンザ・新型コロナウイルスの同時抗原検査キットのみの対応となります。\n\n救急（祝日を含む月曜から日曜）\n東邦大学医療センター大森病院\n　所在地　大森西6-11-1\n　電話番号　03-3762-4151\n\n救急外来　受付時間\n|診療体制|受付時間|\n|:----|:----|\n|平日|午後4時15分から翌朝8時30分|\n|土曜日（第三・臨時休診を除く）|午後1時15分から翌朝8時30分|\n|休日（日曜日・祝日・第三土曜日・6月10日）|午前8時30分から翌朝8時30分|\n（注釈）創立記念日（6月10日）及び、臨時休診日は、「休日」の診療体制となります。\n（注釈）祝日の臨時平日診療日は、「平日」の診療体制となります。\n（注釈）診療状況によりご希望に添えない場合があります。\n（注釈）最新情報は、病院ホームページ;https://www.omori.med.toho-u.ac.jp/にてご確認ください。\n\n荏原病院\n所在地　東雪谷4-5-10\n電話番号　03-5734-8000\n（注釈）診療状況によりご希望に添えない場合があります。\n（注釈）最新情報は、荏原病院ホームページ;https://www.tmhp.jp/ebara/にてご確認ください。\n\n診療時間\n|曜日|時間|\n|:----|:----|\n|平日|午後5時00分から翌朝9時00分|\n|土曜日|正午から翌朝9時00分|\n|日曜日・祝日|午前9時00分から翌朝9時00分|\n"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "初期救急（平日）\n小児救急患者（満3か月から中学3年生まで）を対象とした初期救急医療事業です。\n診療時間　午後8時から11時（受付は午後7時45分から10時45分）\n創立記念日（6月10日）は休診です。\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大田区子ども平日夜間救急室|大森西6-11-1<br>（東邦大学医療センター大森病院3号館1階）|03-3762-4151|\n大森医師会、田園調布医師会、蒲田医師会、大田区薬剤師会、東邦大学医療センター大森病院が協同で運営しています。\n\n（注意）大田区子ども平日夜間救急室では、感染症の抗原検査は、診察した医師の判断にて実施をいたします。なお、インフルエンザ・新型コロナウイルスの同時抗原検査キットのみの対応となります。\n\n救急（祝日を含む月曜から日曜）\n東邦大学医療センター大森病院\n　所在地　大森西6-11-1\n　電話番号　03-3762-4151\n\n救急外来　受付時間\n|診療体制|受付時間|\n|:----|:----|\n|平日|午後4時15分から翌朝8時30分|\n|土曜日（第三・臨時休診を除く）|午後1時15分から翌朝8時30分|\n|休日（日曜日・祝日・第三土曜日・6月10日）|午前8時30分から翌朝8時30分|\n（注釈）創立記念日（6月10日）及び、臨時休診日は、「休日」の診療体制となります。\n（注釈）祝日の臨時平日診療日は、「平日」の診療体制となります。\n（注釈）診療状況によりご希望に添えない場合があります。\n（注釈）最新情報は、病院ホームページ;https://www.omori.med.toho-u.ac.jp/にてご確認ください。\n\n荏原病院\n所在地　東雪谷4-5-10\n電話番号　03-5734-8000\n（注釈）診療状況によりご希望に添えない場合があります。\n（注釈）最新情報は、荏原病院ホームページ;https://www.tmhp.jp/ebara/にてご確認ください。\n\n診療時間\n|曜日|時間|\n|:----|:----|\n|平日|午後5時00分から翌朝9時00分|\n|土曜日|正午から翌朝9時00分|\n|日曜日・祝日|午前9時00分から翌朝9時00分|\n",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.omori.med.toho-u.ac.jp/",
+          "title": "東邦大学医療センター大森病院ホームページ"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kenkousuishin.html",
+          "title": "健康医療政策課"
+        },
+        {
+          "uri": "https://www.tmhp.jp/ebara/",
+          "title": "荏原病院ホームページ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html",
+        "title": "夜間・休日診療のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康医療政策課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kenkousuishin.html",
+        "contactPhone": "03-5744-1264",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=hokenjo",
+        "contactComment": "FAX ：03-5744-1523",
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+2+UM45",
+        "organization": "1000020131113",
+        "compartment": "健康医療政策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "9・10か月児健康診査"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として乳幼児健康診査（9か月から10か月児）を実施しています。",
+      "description": "9・10か月児健康診査\nページ番号：141112482\n更新日：2024年5月1日\n実施場所\n都内の契約医療機関\n大田区内で9・10か月児健康診査を実施している医療機関は下記の名簿をご覧ください。\n\n妊婦・乳児健康診査実施医療機関名簿（R6.5.1）（PDF：210KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/hoken/nyuuyioujikensin_09m-10m.files/nyuuyoujikennsinn060501.pdf\n\n通知方法\n4か月児健康診査の案内に「乳児（9・10か月）健康診査受診票」が同封されています。\n\n実施方法\n「乳児（9・10か月）健康診査受診票」を持参して、医療機関でお受けください。\n\n対象月齢\n生後9～10か月",
+      "target": {
+        "targetPersons": "生後9～10か月",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 10
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 9
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後9～10か月"
+      },
+      "support": {
+        "description": "9・10か月児健康診査",
+        "monetarySupport": null,
+        "materiallySupport": "9・10か月児健康診査"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "妊婦・乳児健康診査実施医療機関名簿（R6.5.1）（PDF：210KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/hoken/nyuuyioujikensin_09m-10m.files/nyuuyoujikennsinn060501.pdf",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "4か月児健康診査の案内に「乳児（9・10か月）健康診査受診票」が同封されています。",
+      "procedurePersons": null,
+      "procedureMethod": "「乳児（9・10か月）健康診査受診票」を持参して、医療機関でお受けください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "乳児（9・10か月）健康診査受診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/c_chiikikenkou.html",
+          "title": "各地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/hoken/nyuuyioujikensin_09m-10m.files/nyuuyoujikennsinn060501.pdf",
+          "title": "妊婦・乳児健康診査実施医療機関名簿（R6.5.1）（PDF：210KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/hoken/nyuuyioujikensin_09m-10m.html",
+        "title": "9・10か月児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "各地域健康課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/c_chiikikenkou.html,大森地域健康課,調布地域健康課,蒲田地域健康課,糀谷・羽田地域健康課",
+        "contactPhone": "03-5764-0661,03-3726-4145,03-5713-1701,03-3743-4161",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX ：03-5764-0659,FAX ：03-3726-6331,FAX ：03-5713-0290,FAX ：03-6423-8838",
+        "zipCode": null,
+        "contactAddress": "大田区大森西一丁目12番1号,大田区雪谷大塚町4番6号,大田区蒲田本町二丁目1番1号,大田区東糀谷一丁目21番15号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+2+UM50",
+        "organization": "1000020131113",
+        "compartment": "各地域健康課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-01",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "伴走型相談支援",
+        "shortName": "すこやか赤ちゃん訪問"
+      },
+      "summary": "すべての妊婦さんと子育て家庭が安心して出産・子育てができるように、妊娠から出産・子育てまでの一貫した「伴走型相談支援」を実施しています。",
+      "description": "すこやか赤ちゃん訪問\n\n保健師・助産師が訪問します\n生後4か月までのすべての赤ちゃんを対象に、助産師や保健師が家庭を訪問し赤ちゃんの発育や健康状態等を確認しながら、お母さんの健康や子育ての相談をお受けします。母子保健サービスや子育て情報などもご案内します。（無料）　　\n大田区では、提出いただいた「出生通知書」（すこやか赤ちゃん訪問依頼書）をもとに、助産師・保健師が訪問を実施します。\nなお、すこやか赤ちゃん訪問の際は、携帯電話または地域健康課からご連絡差し上げます。\n\n申し込み方法\n赤ちゃんが生まれたら、母子健康手帳交付時にお渡ししている妊婦健康診査の受診票セットについているハガキ「出生通知書」（すこやか赤ちゃん訪問依頼書）をできるだけ14日以内に投函してください。\n　転入や紛失等でハガキがない場合は、お住まいを管轄する地域健康課または健康づくり課までお問合せください。\n\n大森地域健康課　03-5764-0661\n調布地域健康課　03-3726-4145\n蒲田地域健康課　03-5713-1701\n糀谷・羽田地域健康課　03-3743-4161\n健康づくり課　　　　03-5744-1661\nお住いの地域健康課管轄一覧　（PDF：667KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/shussan/sukoyaka-akachan-houmon.files/kannkatu.pdf\n\n里帰り先での訪問を希望する場合\n里帰り先での訪問を希望される場合は、お住まいを管轄する地域健康課にお問い合わせ下さい。\n\n出産・子育て応援事業について\nすこやか赤ちゃん訪問を受けた方には「子育て応援ギフト」の申請ができます。\n出産・子育て応援事業;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/syussankosodate.html",
+      "target": {
+        "targetPersons": "生後4か月までのすべての赤ちゃん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後4か月までのすべての赤ちゃん"
+      },
+      "support": {
+        "description": "生後4か月までのすべての赤ちゃんを対象に、助産師や保健師が家庭を訪問し赤ちゃんの発育や健康状態等を確認しながら、お母さんの健康や子育ての相談をお受けします。母子保健サービスや子育て情報などもご案内します。",
+        "monetarySupport": null,
+        "materiallySupport": "生後4か月までのすべての赤ちゃんを対象に、助産師や保健師が家庭を訪問し赤ちゃんの発育や健康状態等を確認しながら、お母さんの健康や子育ての相談をお受けします。母子保健サービスや子育て情報などもご案内します。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "赤ちゃんが生まれたら、母子健康手帳交付時にお渡ししている妊婦健康診査の受診票セットについているハガキ「出生通知書」（すこやか赤ちゃん訪問依頼書）をできるだけ14日以内に投函してください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/shussan/sukoyaka-akachan-houmon.files/kannkatu.pdf",
+          "title": "お住いの地域健康課管轄一覧"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/syussankosodate.html",
+          "title": "出産・子育て応援事業"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/shussan/sukoyaka-akachan-houmon.html",
+        "title": "すこやか赤ちゃん訪問"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+2+UM5011",
+        "organization": "1000020131113",
+        "compartment": "健康づくり課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-11-01",
+      "odInformation": {
+        "updateDate": "2024-06-27",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "伴走型相談支援及び出産・子育て応援給付金の一体的実施事業の実施について（子発1226第1号 令和4年12月26日）",
+        "regulationArticle": "別紙：伴走型相談支援及び出産・子育て応援給付金の一体的実施事業実施要綱「伴走型相談支援」（別添１）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "薬（処方箋調剤）"
+      },
+      "summary": "大森会営薬局、ゆきがや薬局、蒲田薬局にて処方箋調剤を行っています。",
+      "description": "夜間・休日診療のご案内\nページ番号：709741420\n更新日：2024年4月1日\n休日や夜間に急病になった場合の情報を掲載しています。\n各診療情報の他、医療に関する緊急時の相談先については、以下、「困ったときの相談先」の項目に掲載しております。併せてご確認ください。\n出掛ける前にご確認ください\nかかりつけ医が診察している時間帯は、かかりつけ医にご相談ください。\n受診前に、必ず電話連絡をお願いします。\n健康保険証や医療証などをお忘れなくお持ちください。\n病院の場合は選定療養費がかかる場合がありますので、事前に確認してください。\n台風等の荒天時には、診療時間が変更となる場合がございます。\n「内科（小児科含）の急病」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cmsDEBD0\n「小児科の急病」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms9B505\n「薬（処方箋調剤）」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms592CA\n「歯痛」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cmsE9764\n「接骨（ほねつぎ）」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cmsE9764\n「困ったときの相談先」はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms4AABC\n「診療科・曜日ごとの早見表」はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms46D5C\n内科（小児科含）の急病\n現在、電話予約制となっています。必ず、事前に電話をしてから受診してください。\n\n土曜日\n診療時間　午後5時から10時まで（受付は午後9時30分まで）\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森医師会診療所<br>※電話予約制|中央4-31-14|03-3772-2402|\n|蒲田医師会診療所<br>※電話予約制|蒲田4-24-12|03-3732-0191|\n日曜日・祝日\n診療時間　午前9時から午後10時まで（受付は午後9時30分まで）\n（注意）午前11時30分から午後1時までは休憩時間\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森医師会診療所<br>※電話予約制|中央4-31-14|03-3772-2402|\n|田園調布医師会診療所<br>※電話予約制|石川町2-7-1|03-3728-6671|\n|蒲田医師会診療所<br>※電話予約制|蒲田4-24-12|03-3732-0191|\n各医師会診療所ホームページ\n大森医師会ホームページ;https://www.omori-med.or.jp/\n\n田園調布医師会ホームページ;https://www.dencho-med.or.jp/\n\n蒲田医師会ホームページ;https://www.kamata-med.or.jp/\n\n小児科の急病\n初期救急（平日）\n小児救急患者（満3か月から中学3年生まで）を対象とした初期救急医療事業です。\n診療時間　午後8時から11時（受付は午後7時45分から10時45分）\n創立記念日（6月10日）は休診です。\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大田区子ども平日夜間救急室|大森西6-11-1<br>（東邦大学医療センター大森病院3号館1階）|03-3762-4151|\n大森医師会、田園調布医師会、蒲田医師会、大田区薬剤師会、東邦大学医療センター大森病院が協同で運営しています。\n\n（注意）大田区子ども平日夜間救急室では、感染症の抗原検査は、診察した医師の判断にて実施をいたします。なお、インフルエンザ・新型コロナウイルスの同時抗原検査キットのみの対応となります。\n\n救急（祝日を含む月曜から日曜）\n東邦大学医療センター大森病院\n　所在地　大森西6-11-1\n　電話番号　03-3762-4151\n\n救急外来　受付時間\n|診療体制|受付時間|\n|:----|:----|\n|平日|午後4時15分から翌朝8時30分|\n|土曜日（第三・臨時休診を除く）|午後1時15分から翌朝8時30分|\n|休日（日曜日・祝日・第三土曜日・6月10日）|午前8時30分から翌朝8時30分|\n（注釈）創立記念日（6月10日）及び、臨時休診日は、「休日」の診療体制となります。\n（注釈）祝日の臨時平日診療日は、「平日」の診療体制となります。\n（注釈）診療状況によりご希望に添えない場合があります。\n（注釈）最新情報は、病院ホームページ;https://www.omori.med.toho-u.ac.jp/にてご確認ください。\n\n荏原病院\n所在地　東雪谷4-5-10\n電話番号　03-5734-8000\n（注釈）診療状況によりご希望に添えない場合があります。\n（注釈）最新情報は、荏原病院ホームページ;https://www.tmhp.jp/ebara/にてご確認ください。\n\n診療時間\n|曜日|時間|\n|:----|:----|\n|平日|午後5時00分から翌朝9時00分|\n|土曜日|正午から翌朝9時00分|\n|日曜日・祝日|午前9時00分から翌朝9時00分|\n薬（処方箋調剤）\n土曜日\n時間　午後5時から10時まで\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森会営薬局<br>（大田区薬剤師会　大森ブロック）|中央3-1-3|03-3774-7721|\n|蒲田薬局|蒲田4-38-5|03-3732-1291|\n日曜日・祝日\n時間　午前9時から午後10時まで\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森会営薬局<br>（大田区薬剤師会　大森ブロック）|中央3-1-3|03-3774-7721|\n|ゆきがや薬局<br>（大田区薬剤師会　田園調布ブロック）|東雪谷5-1-1|03-3728-3231|\n|蒲田薬局|蒲田4-38-5|03-3732-1291|\n各薬剤師会のホームページ\n大田区薬剤師会ホームページ;https://ootakuyaku.jp/\n\n蒲田薬剤師会ホームページ;http://www.jade.dti.ne.jp/~kpa/\n\n歯痛\n診療時間　日曜日、祝日の午前9時から午後5時（受付時間は午後4時30分まで）\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森歯科医師会館|池上4-19-7|03-3754-8648|\n|蒲田歯科医師会館|新蒲田1-4-14|03-3731-9282|\n各歯科医師会のホームページ\n大森歯科医師会ホームページ;https://www.omorida.or.jp/\n\n蒲田歯科医師会ホームページ;https://www.kamashi.jp/\n\n接骨（ほねつぎ）\n施術時間　日曜、祝日の午前9時から午後5時\n場所　区内整骨院・接骨院が輪番制で対応しています。詳しくはお問合せください。\n電話番号　090-3542-3896\n困ったときの相談先\n医療機関をお探しの方へ\n■東京都医療機関・薬局案内サービス（ひまわり）　\n・電話番号　03-5272-0303\n・受付時間　毎日24時間\n（「ひまわり」は、24時間医療機関案内などを行っている都民のためのサービスです）\n\n■医療機関・薬局の公的検索システム「医療情報ネット」\nパソコンやスマートフォンで、全国の医療機関・薬局について検索・情報収集ができるサービスです。\n\n医療機関・薬局の公的検索システム「医療情報ネット」;https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize\n\n■おおた医療BOOK\nこちらのページ;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/ota-iryobook.htmlから情報をご確認下さい。\n\n救急車を呼んだ方がいいか迷ったら\n東京消防庁救急相談センター\n・電話番号　＃7119（プッシュ回線・携帯電話の場合）\n　その他の電話やつながらない場合は、03-3212-2323\n・受付時間　24時間年中無休\n\n東京消防庁ホームページ;https://www.tfd.metro.tokyo.lg.jp/lfe/kyuu-adv/soudan-center.htm\n\n緊急に病院に行く必要があると思ったときは\n迷わず119番通報をしてください！\n\n子どもの急な病気に困ったら\n東京都福祉保健局　子供の健康相談室（小児救急相談）\n・電話番号　＃8000（プッシュ回線・携帯電話の場合）\n　その他の電話やつながらない場合は、03-5285-8898\n・受付時間\n　月曜日から金曜日まで（祝日、年末年始を除く）：午後6時から翌朝8時まで\n　 土曜日、日曜日、祝日、年末年始：午前8時から翌朝8時まで\n\n子供の健康相談室ホームページ;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/k_soudan.html\n\nこどもの救急（日本小児科学会）\n夜間や休日などの診療時間外に病院を受診するかどうか、判断の目安を提供しています。\n\nこどもの救急（日本小児科学会）ホームページ;https://kodomo-qq.jp/\n\n東京都こども医療ガイド\n子どもの病気や発熱・怪我、子育ての情報が簡単に見つかる、東京都管轄のWebサイトです。\n\n東京都こども医療ガイドホームページ;https://www.guide.metro.tokyo.lg.jp/\n\nTOKYO子育て情報サービス\n安心して子育てができるよう、妊娠、子育て及び事故防止等に関する情報を提供する東京都のサービスです。\n\nTOKYO子育て情報サービスホームページ;https://www.fukushi.metro.tokyo.lg.jp/kodomo//kosodate/info_service/\n\n診療科・曜日ごとの早見表\n夜間・休日診療早見表\n|診療科|<|場所|月～金|土|日・祝|\n|:----|:----|:----|:----|:----|:----|\n|内科<br>（小児科含）|<|大森医師会診療所||17時00分～22時00分|9時00分～22時00分<br>（途中、休憩時間有）|\n|^|^|田園調布医師会診療所<br>※電話予約制|||9時00分～22時00分<br>（途中、休憩時間有）|\n|^|^|蒲田医師会診療所<br>※電話予約制||17時00分～22時00分|9時00分～22時00分<br>（途中、休憩時間有）|\n|小児科|初期救急|大田区子ども平日夜間救急室<br>（東邦大学医療センター大森病院）|20時00分～23時00分|||\n|^|救急|東邦大学医療センター大森病院|16時15分～翌朝8時30分|13時15分～翌朝8時30分<br>（第三土曜を除く）|8時30分～翌朝8時30分<br>（第三土曜を含む）|\n|^|^|荏原病院|17時00分～翌朝9時00分|正午～翌朝9時00分|9時00分～翌朝9時00分|\n|調剤|<|大森会営薬局||17時00分～22時00分|9時00分～22時00分|\n|^|^|ゆきがや薬局|||9時00分～22時00分|\n|^|^|蒲田薬局||17時00分～22時00分|9時00分～22時00分|\n|歯科|<|大森歯科医師会館|||9時00分～17時00分|\n|^|^|蒲田歯科医師会館|||9時00分～17時00分|\n|接骨（ほねつぎ）|<|東京都柔道整復師会大田支部<br>（区内整骨院・接骨院輪番制）<br>（場所はお問合せください）|||9時00分～17時00分|\n",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "大森会営薬局（大田区薬剤師会　大森ブロック）,ゆきがや薬局（大田区薬剤師会　田園調布ブロック）,蒲田薬局",
+        "implementationAddress": "中央3-1-3,東雪谷5-1-1,蒲田4-38-5"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": "22:00",
+        "condiutilizationConditionstions": "土曜日\n時間　午後5時から10時まで\n\n日曜日・祝日\n時間　午前9時から午後10時まで"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "土曜日\n時間　午後5時から10時まで\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森会営薬局<br>（大田区薬剤師会　大森ブロック）|中央3-1-3|03-3774-7721|\n|蒲田薬局|蒲田4-38-5|03-3732-1291|\n日曜日・祝日\n時間　午前9時から午後10時まで\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森会営薬局<br>（大田区薬剤師会　大森ブロック）|中央3-1-3|03-3774-7721|\n|ゆきがや薬局<br>（大田区薬剤師会　田園調布ブロック）|東雪谷5-1-1|03-3728-3231|\n|蒲田薬局|蒲田4-38-5|03-3732-1291|\n各薬剤師会のホームページ\n大田区薬剤師会ホームページ;https://ootakuyaku.jp/\n\n蒲田薬剤師会ホームページ;http://www.jade.dti.ne.jp/~kpa/",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "http://www.jade.dti.ne.jp/~kpa/",
+          "title": "蒲田薬剤師会ホームページ"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kenkousuishin.html",
+          "title": "健康医療政策課"
+        },
+        {
+          "uri": "https://ootakuyaku.jp/",
+          "title": "大田区薬剤師会ホームページ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html",
+        "title": "夜間・休日診療のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康医療政策課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kenkousuishin.html",
+        "contactPhone": "03-5744-1264",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=hokenjo",
+        "contactComment": "FAX ：03-5744-1523",
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+3+UM45",
+        "organization": "1000020131113",
+        "compartment": "健康医療政策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "歯痛"
+      },
+      "summary": "大森歯科医師会館、蒲田歯科医師会館にて診療を行っています。",
+      "description": "夜間・休日診療のご案内\nページ番号：709741420\n更新日：2024年4月1日\n休日や夜間に急病になった場合の情報を掲載しています。\n各診療情報の他、医療に関する緊急時の相談先については、以下、「困ったときの相談先」の項目に掲載しております。併せてご確認ください。\n出掛ける前にご確認ください\nかかりつけ医が診察している時間帯は、かかりつけ医にご相談ください。\n受診前に、必ず電話連絡をお願いします。\n健康保険証や医療証などをお忘れなくお持ちください。\n病院の場合は選定療養費がかかる場合がありますので、事前に確認してください。\n台風等の荒天時には、診療時間が変更となる場合がございます。\n「内科（小児科含）の急病」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cmsDEBD0\n「小児科の急病」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms9B505\n「薬（処方箋調剤）」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms592CA\n「歯痛」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cmsE9764\n「接骨（ほねつぎ）」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cmsE9764\n「困ったときの相談先」はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms4AABC\n「診療科・曜日ごとの早見表」はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms46D5C\n内科（小児科含）の急病\n現在、電話予約制となっています。必ず、事前に電話をしてから受診してください。\n\n土曜日\n診療時間　午後5時から10時まで（受付は午後9時30分まで）\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森医師会診療所<br>※電話予約制|中央4-31-14|03-3772-2402|\n|蒲田医師会診療所<br>※電話予約制|蒲田4-24-12|03-3732-0191|\n日曜日・祝日\n診療時間　午前9時から午後10時まで（受付は午後9時30分まで）\n（注意）午前11時30分から午後1時までは休憩時間\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森医師会診療所<br>※電話予約制|中央4-31-14|03-3772-2402|\n|田園調布医師会診療所<br>※電話予約制|石川町2-7-1|03-3728-6671|\n|蒲田医師会診療所<br>※電話予約制|蒲田4-24-12|03-3732-0191|\n各医師会診療所ホームページ\n大森医師会ホームページ;https://www.omori-med.or.jp/\n\n田園調布医師会ホームページ;https://www.dencho-med.or.jp/\n\n蒲田医師会ホームページ;https://www.kamata-med.or.jp/\n\n小児科の急病\n初期救急（平日）\n小児救急患者（満3か月から中学3年生まで）を対象とした初期救急医療事業です。\n診療時間　午後8時から11時（受付は午後7時45分から10時45分）\n創立記念日（6月10日）は休診です。\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大田区子ども平日夜間救急室|大森西6-11-1<br>（東邦大学医療センター大森病院3号館1階）|03-3762-4151|\n大森医師会、田園調布医師会、蒲田医師会、大田区薬剤師会、東邦大学医療センター大森病院が協同で運営しています。\n\n（注意）大田区子ども平日夜間救急室では、感染症の抗原検査は、診察した医師の判断にて実施をいたします。なお、インフルエンザ・新型コロナウイルスの同時抗原検査キットのみの対応となります。\n\n救急（祝日を含む月曜から日曜）\n東邦大学医療センター大森病院\n　所在地　大森西6-11-1\n　電話番号　03-3762-4151\n\n救急外来　受付時間\n|診療体制|受付時間|\n|:----|:----|\n|平日|午後4時15分から翌朝8時30分|\n|土曜日（第三・臨時休診を除く）|午後1時15分から翌朝8時30分|\n|休日（日曜日・祝日・第三土曜日・6月10日）|午前8時30分から翌朝8時30分|\n（注釈）創立記念日（6月10日）及び、臨時休診日は、「休日」の診療体制となります。\n（注釈）祝日の臨時平日診療日は、「平日」の診療体制となります。\n（注釈）診療状況によりご希望に添えない場合があります。\n（注釈）最新情報は、病院ホームページ;https://www.omori.med.toho-u.ac.jp/にてご確認ください。\n\n荏原病院\n所在地　東雪谷4-5-10\n電話番号　03-5734-8000\n（注釈）診療状況によりご希望に添えない場合があります。\n（注釈）最新情報は、荏原病院ホームページ;https://www.tmhp.jp/ebara/にてご確認ください。\n\n診療時間\n|曜日|時間|\n|:----|:----|\n|平日|午後5時00分から翌朝9時00分|\n|土曜日|正午から翌朝9時00分|\n|日曜日・祝日|午前9時00分から翌朝9時00分|\n薬（処方箋調剤）\n土曜日\n時間　午後5時から10時まで\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森会営薬局<br>（大田区薬剤師会　大森ブロック）|中央3-1-3|03-3774-7721|\n|蒲田薬局|蒲田4-38-5|03-3732-1291|\n日曜日・祝日\n時間　午前9時から午後10時まで\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森会営薬局<br>（大田区薬剤師会　大森ブロック）|中央3-1-3|03-3774-7721|\n|ゆきがや薬局<br>（大田区薬剤師会　田園調布ブロック）|東雪谷5-1-1|03-3728-3231|\n|蒲田薬局|蒲田4-38-5|03-3732-1291|\n各薬剤師会のホームページ\n大田区薬剤師会ホームページ;https://ootakuyaku.jp/\n\n蒲田薬剤師会ホームページ;http://www.jade.dti.ne.jp/~kpa/\n\n歯痛\n診療時間　日曜日、祝日の午前9時から午後5時（受付時間は午後4時30分まで）\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森歯科医師会館|池上4-19-7|03-3754-8648|\n|蒲田歯科医師会館|新蒲田1-4-14|03-3731-9282|\n各歯科医師会のホームページ\n大森歯科医師会ホームページ;https://www.omorida.or.jp/\n\n蒲田歯科医師会ホームページ;https://www.kamashi.jp/\n\n接骨（ほねつぎ）\n施術時間　日曜、祝日の午前9時から午後5時\n場所　区内整骨院・接骨院が輪番制で対応しています。詳しくはお問合せください。\n電話番号　090-3542-3896\n困ったときの相談先\n医療機関をお探しの方へ\n■東京都医療機関・薬局案内サービス（ひまわり）　\n・電話番号　03-5272-0303\n・受付時間　毎日24時間\n（「ひまわり」は、24時間医療機関案内などを行っている都民のためのサービスです）\n\n■医療機関・薬局の公的検索システム「医療情報ネット」\nパソコンやスマートフォンで、全国の医療機関・薬局について検索・情報収集ができるサービスです。\n\n医療機関・薬局の公的検索システム「医療情報ネット」;https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize\n\n■おおた医療BOOK\nこちらのページ;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/ota-iryobook.htmlから情報をご確認下さい。\n\n救急車を呼んだ方がいいか迷ったら\n東京消防庁救急相談センター\n・電話番号　＃7119（プッシュ回線・携帯電話の場合）\n　その他の電話やつながらない場合は、03-3212-2323\n・受付時間　24時間年中無休\n\n東京消防庁ホームページ;https://www.tfd.metro.tokyo.lg.jp/lfe/kyuu-adv/soudan-center.htm\n\n緊急に病院に行く必要があると思ったときは\n迷わず119番通報をしてください！\n\n子どもの急な病気に困ったら\n東京都福祉保健局　子供の健康相談室（小児救急相談）\n・電話番号　＃8000（プッシュ回線・携帯電話の場合）\n　その他の電話やつながらない場合は、03-5285-8898\n・受付時間\n　月曜日から金曜日まで（祝日、年末年始を除く）：午後6時から翌朝8時まで\n　 土曜日、日曜日、祝日、年末年始：午前8時から翌朝8時まで\n\n子供の健康相談室ホームページ;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/k_soudan.html\n\nこどもの救急（日本小児科学会）\n夜間や休日などの診療時間外に病院を受診するかどうか、判断の目安を提供しています。\n\nこどもの救急（日本小児科学会）ホームページ;https://kodomo-qq.jp/\n\n東京都こども医療ガイド\n子どもの病気や発熱・怪我、子育ての情報が簡単に見つかる、東京都管轄のWebサイトです。\n\n東京都こども医療ガイドホームページ;https://www.guide.metro.tokyo.lg.jp/\n\nTOKYO子育て情報サービス\n安心して子育てができるよう、妊娠、子育て及び事故防止等に関する情報を提供する東京都のサービスです。\n\nTOKYO子育て情報サービスホームページ;https://www.fukushi.metro.tokyo.lg.jp/kodomo//kosodate/info_service/\n\n診療科・曜日ごとの早見表\n夜間・休日診療早見表\n|診療科|<|場所|月～金|土|日・祝|\n|:----|:----|:----|:----|:----|:----|\n|内科<br>（小児科含）|<|大森医師会診療所||17時00分～22時00分|9時00分～22時00分<br>（途中、休憩時間有）|\n|^|^|田園調布医師会診療所<br>※電話予約制|||9時00分～22時00分<br>（途中、休憩時間有）|\n|^|^|蒲田医師会診療所<br>※電話予約制||17時00分～22時00分|9時00分～22時00分<br>（途中、休憩時間有）|\n|小児科|初期救急|大田区子ども平日夜間救急室<br>（東邦大学医療センター大森病院）|20時00分～23時00分|||\n|^|救急|東邦大学医療センター大森病院|16時15分～翌朝8時30分|13時15分～翌朝8時30分<br>（第三土曜を除く）|8時30分～翌朝8時30分<br>（第三土曜を含む）|\n|^|^|荏原病院|17時00分～翌朝9時00分|正午～翌朝9時00分|9時00分～翌朝9時00分|\n|調剤|<|大森会営薬局||17時00分～22時00分|9時00分～22時00分|\n|^|^|ゆきがや薬局|||9時00分～22時00分|\n|^|^|蒲田薬局||17時00分～22時00分|9時00分～22時00分|\n|歯科|<|大森歯科医師会館|||9時00分～17時00分|\n|^|^|蒲田歯科医師会館|||9時00分～17時00分|\n|接骨（ほねつぎ）|<|東京都柔道整復師会大田支部<br>（区内整骨院・接骨院輪番制）<br>（場所はお問合せください）|||9時00分～17時00分|\n",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "大森歯科医師会館,蒲田歯科医師会館",
+        "implementationAddress": "池上4-19-7,新蒲田1-4-14"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "日曜日、祝日の午前9時から午後5時（受付時間は午後4時30分まで）"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "診療時間　日曜日、祝日の午前9時から午後5時（受付時間は午後4時30分まで）\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森歯科医師会館|池上4-19-7|03-3754-8648|\n|蒲田歯科医師会館|新蒲田1-4-14|03-3731-9282|\n各歯科医師会のホームページ\n大森歯科医師会ホームページ;https://www.omorida.or.jp/\n\n蒲田歯科医師会ホームページ;https://www.kamashi.jp/",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.kamashi.jp/",
+          "title": "蒲田歯科医師会ホームページ"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kenkousuishin.html",
+          "title": "健康医療政策課"
+        },
+        {
+          "uri": "https://www.omorida.or.jp/",
+          "title": "大森歯科医師会ホームページ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html",
+        "title": "夜間・休日診療のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康医療政策課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kenkousuishin.html",
+        "contactPhone": "03-5744-1264",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=hokenjo",
+        "contactComment": "FAX ：03-5744-1523",
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+4+UM45",
+        "organization": "1000020131113",
+        "compartment": "健康医療政策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "接骨（ほねつぎ）"
+      },
+      "summary": "区内整骨院・接骨院が輪番制で対応しています。",
+      "description": "夜間・休日診療のご案内\nページ番号：709741420\n更新日：2024年4月1日\n休日や夜間に急病になった場合の情報を掲載しています。\n各診療情報の他、医療に関する緊急時の相談先については、以下、「困ったときの相談先」の項目に掲載しております。併せてご確認ください。\n出掛ける前にご確認ください\nかかりつけ医が診察している時間帯は、かかりつけ医にご相談ください。\n受診前に、必ず電話連絡をお願いします。\n健康保険証や医療証などをお忘れなくお持ちください。\n病院の場合は選定療養費がかかる場合がありますので、事前に確認してください。\n台風等の荒天時には、診療時間が変更となる場合がございます。\n「内科（小児科含）の急病」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cmsDEBD0\n「小児科の急病」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms9B505\n「薬（処方箋調剤）」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms592CA\n「歯痛」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cmsE9764\n「接骨（ほねつぎ）」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cmsE9764\n「困ったときの相談先」はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms4AABC\n「診療科・曜日ごとの早見表」はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms46D5C\n内科（小児科含）の急病\n現在、電話予約制となっています。必ず、事前に電話をしてから受診してください。\n\n土曜日\n診療時間　午後5時から10時まで（受付は午後9時30分まで）\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森医師会診療所<br>※電話予約制|中央4-31-14|03-3772-2402|\n|蒲田医師会診療所<br>※電話予約制|蒲田4-24-12|03-3732-0191|\n日曜日・祝日\n診療時間　午前9時から午後10時まで（受付は午後9時30分まで）\n（注意）午前11時30分から午後1時までは休憩時間\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森医師会診療所<br>※電話予約制|中央4-31-14|03-3772-2402|\n|田園調布医師会診療所<br>※電話予約制|石川町2-7-1|03-3728-6671|\n|蒲田医師会診療所<br>※電話予約制|蒲田4-24-12|03-3732-0191|\n各医師会診療所ホームページ\n大森医師会ホームページ;https://www.omori-med.or.jp/\n\n田園調布医師会ホームページ;https://www.dencho-med.or.jp/\n\n蒲田医師会ホームページ;https://www.kamata-med.or.jp/\n\n小児科の急病\n初期救急（平日）\n小児救急患者（満3か月から中学3年生まで）を対象とした初期救急医療事業です。\n診療時間　午後8時から11時（受付は午後7時45分から10時45分）\n創立記念日（6月10日）は休診です。\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大田区子ども平日夜間救急室|大森西6-11-1<br>（東邦大学医療センター大森病院3号館1階）|03-3762-4151|\n大森医師会、田園調布医師会、蒲田医師会、大田区薬剤師会、東邦大学医療センター大森病院が協同で運営しています。\n\n（注意）大田区子ども平日夜間救急室では、感染症の抗原検査は、診察した医師の判断にて実施をいたします。なお、インフルエンザ・新型コロナウイルスの同時抗原検査キットのみの対応となります。\n\n救急（祝日を含む月曜から日曜）\n東邦大学医療センター大森病院\n　所在地　大森西6-11-1\n　電話番号　03-3762-4151\n\n救急外来　受付時間\n|診療体制|受付時間|\n|:----|:----|\n|平日|午後4時15分から翌朝8時30分|\n|土曜日（第三・臨時休診を除く）|午後1時15分から翌朝8時30分|\n|休日（日曜日・祝日・第三土曜日・6月10日）|午前8時30分から翌朝8時30分|\n（注釈）創立記念日（6月10日）及び、臨時休診日は、「休日」の診療体制となります。\n（注釈）祝日の臨時平日診療日は、「平日」の診療体制となります。\n（注釈）診療状況によりご希望に添えない場合があります。\n（注釈）最新情報は、病院ホームページ;https://www.omori.med.toho-u.ac.jp/にてご確認ください。\n\n荏原病院\n所在地　東雪谷4-5-10\n電話番号　03-5734-8000\n（注釈）診療状況によりご希望に添えない場合があります。\n（注釈）最新情報は、荏原病院ホームページ;https://www.tmhp.jp/ebara/にてご確認ください。\n\n診療時間\n|曜日|時間|\n|:----|:----|\n|平日|午後5時00分から翌朝9時00分|\n|土曜日|正午から翌朝9時00分|\n|日曜日・祝日|午前9時00分から翌朝9時00分|\n薬（処方箋調剤）\n土曜日\n時間　午後5時から10時まで\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森会営薬局<br>（大田区薬剤師会　大森ブロック）|中央3-1-3|03-3774-7721|\n|蒲田薬局|蒲田4-38-5|03-3732-1291|\n日曜日・祝日\n時間　午前9時から午後10時まで\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森会営薬局<br>（大田区薬剤師会　大森ブロック）|中央3-1-3|03-3774-7721|\n|ゆきがや薬局<br>（大田区薬剤師会　田園調布ブロック）|東雪谷5-1-1|03-3728-3231|\n|蒲田薬局|蒲田4-38-5|03-3732-1291|\n各薬剤師会のホームページ\n大田区薬剤師会ホームページ;https://ootakuyaku.jp/\n\n蒲田薬剤師会ホームページ;http://www.jade.dti.ne.jp/~kpa/\n\n歯痛\n診療時間　日曜日、祝日の午前9時から午後5時（受付時間は午後4時30分まで）\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森歯科医師会館|池上4-19-7|03-3754-8648|\n|蒲田歯科医師会館|新蒲田1-4-14|03-3731-9282|\n各歯科医師会のホームページ\n大森歯科医師会ホームページ;https://www.omorida.or.jp/\n\n蒲田歯科医師会ホームページ;https://www.kamashi.jp/\n\n接骨（ほねつぎ）\n施術時間　日曜、祝日の午前9時から午後5時\n場所　区内整骨院・接骨院が輪番制で対応しています。詳しくはお問合せください。\n電話番号　090-3542-3896\n困ったときの相談先\n医療機関をお探しの方へ\n■東京都医療機関・薬局案内サービス（ひまわり）　\n・電話番号　03-5272-0303\n・受付時間　毎日24時間\n（「ひまわり」は、24時間医療機関案内などを行っている都民のためのサービスです）\n\n■医療機関・薬局の公的検索システム「医療情報ネット」\nパソコンやスマートフォンで、全国の医療機関・薬局について検索・情報収集ができるサービスです。\n\n医療機関・薬局の公的検索システム「医療情報ネット」;https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize\n\n■おおた医療BOOK\nこちらのページ;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/ota-iryobook.htmlから情報をご確認下さい。\n\n救急車を呼んだ方がいいか迷ったら\n東京消防庁救急相談センター\n・電話番号　＃7119（プッシュ回線・携帯電話の場合）\n　その他の電話やつながらない場合は、03-3212-2323\n・受付時間　24時間年中無休\n\n東京消防庁ホームページ;https://www.tfd.metro.tokyo.lg.jp/lfe/kyuu-adv/soudan-center.htm\n\n緊急に病院に行く必要があると思ったときは\n迷わず119番通報をしてください！\n\n子どもの急な病気に困ったら\n東京都福祉保健局　子供の健康相談室（小児救急相談）\n・電話番号　＃8000（プッシュ回線・携帯電話の場合）\n　その他の電話やつながらない場合は、03-5285-8898\n・受付時間\n　月曜日から金曜日まで（祝日、年末年始を除く）：午後6時から翌朝8時まで\n　 土曜日、日曜日、祝日、年末年始：午前8時から翌朝8時まで\n\n子供の健康相談室ホームページ;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/k_soudan.html\n\nこどもの救急（日本小児科学会）\n夜間や休日などの診療時間外に病院を受診するかどうか、判断の目安を提供しています。\n\nこどもの救急（日本小児科学会）ホームページ;https://kodomo-qq.jp/\n\n東京都こども医療ガイド\n子どもの病気や発熱・怪我、子育ての情報が簡単に見つかる、東京都管轄のWebサイトです。\n\n東京都こども医療ガイドホームページ;https://www.guide.metro.tokyo.lg.jp/\n\nTOKYO子育て情報サービス\n安心して子育てができるよう、妊娠、子育て及び事故防止等に関する情報を提供する東京都のサービスです。\n\nTOKYO子育て情報サービスホームページ;https://www.fukushi.metro.tokyo.lg.jp/kodomo//kosodate/info_service/\n\n診療科・曜日ごとの早見表\n夜間・休日診療早見表\n|診療科|<|場所|月～金|土|日・祝|\n|:----|:----|:----|:----|:----|:----|\n|内科<br>（小児科含）|<|大森医師会診療所||17時00分～22時00分|9時00分～22時00分<br>（途中、休憩時間有）|\n|^|^|田園調布医師会診療所<br>※電話予約制|||9時00分～22時00分<br>（途中、休憩時間有）|\n|^|^|蒲田医師会診療所<br>※電話予約制||17時00分～22時00分|9時00分～22時00分<br>（途中、休憩時間有）|\n|小児科|初期救急|大田区子ども平日夜間救急室<br>（東邦大学医療センター大森病院）|20時00分～23時00分|||\n|^|救急|東邦大学医療センター大森病院|16時15分～翌朝8時30分|13時15分～翌朝8時30分<br>（第三土曜を除く）|8時30分～翌朝8時30分<br>（第三土曜を含む）|\n|^|^|荏原病院|17時00分～翌朝9時00分|正午～翌朝9時00分|9時00分～翌朝9時00分|\n|調剤|<|大森会営薬局||17時00分～22時00分|9時00分～22時00分|\n|^|^|ゆきがや薬局|||9時00分～22時00分|\n|^|^|蒲田薬局||17時00分～22時00分|9時00分～22時00分|\n|歯科|<|大森歯科医師会館|||9時00分～17時00分|\n|^|^|蒲田歯科医師会館|||9時00分～17時00分|\n|接骨（ほねつぎ）|<|東京都柔道整復師会大田支部<br>（区内整骨院・接骨院輪番制）<br>（場所はお問合せください）|||9時00分～17時00分|\n",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "区内整骨院・接骨院が輪番制で対応しています。詳しくはお問合せください。",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "日曜、祝日の午前9時から午後5時"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "施術時間　日曜、祝日の午前9時から午後5時\n場所　区内整骨院・接骨院が輪番制で対応しています。詳しくはお問合せください。\n電話番号　090-3542-3896",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kenkousuishin.html",
+          "title": "健康医療政策課"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html",
+        "title": "夜間・休日診療のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康医療政策課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kenkousuishin.html",
+        "contactPhone": "03-5744-1264",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=hokenjo",
+        "contactComment": "FAX ：03-5744-1523",
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+5+UM45",
+        "organization": "1000020131113",
+        "compartment": "健康医療政策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "困ったときの相談先"
+      },
+      "summary": "困ったときの相談先を掲載しています。",
+      "description": "夜間・休日診療のご案内\nページ番号：709741420\n更新日：2024年4月1日\n休日や夜間に急病になった場合の情報を掲載しています。\n各診療情報の他、医療に関する緊急時の相談先については、以下、「困ったときの相談先」の項目に掲載しております。併せてご確認ください。\n出掛ける前にご確認ください\nかかりつけ医が診察している時間帯は、かかりつけ医にご相談ください。\n受診前に、必ず電話連絡をお願いします。\n健康保険証や医療証などをお忘れなくお持ちください。\n病院の場合は選定療養費がかかる場合がありますので、事前に確認してください。\n台風等の荒天時には、診療時間が変更となる場合がございます。\n「内科（小児科含）の急病」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cmsDEBD0\n「小児科の急病」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms9B505\n「薬（処方箋調剤）」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms592CA\n「歯痛」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cmsE9764\n「接骨（ほねつぎ）」の情報はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cmsE9764\n「困ったときの相談先」はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms4AABC\n「診療科・曜日ごとの早見表」はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html#cms46D5C\n内科（小児科含）の急病\n現在、電話予約制となっています。必ず、事前に電話をしてから受診してください。\n\n土曜日\n診療時間　午後5時から10時まで（受付は午後9時30分まで）\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森医師会診療所<br>※電話予約制|中央4-31-14|03-3772-2402|\n|蒲田医師会診療所<br>※電話予約制|蒲田4-24-12|03-3732-0191|\n日曜日・祝日\n診療時間　午前9時から午後10時まで（受付は午後9時30分まで）\n（注意）午前11時30分から午後1時までは休憩時間\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森医師会診療所<br>※電話予約制|中央4-31-14|03-3772-2402|\n|田園調布医師会診療所<br>※電話予約制|石川町2-7-1|03-3728-6671|\n|蒲田医師会診療所<br>※電話予約制|蒲田4-24-12|03-3732-0191|\n各医師会診療所ホームページ\n大森医師会ホームページ;https://www.omori-med.or.jp/\n\n田園調布医師会ホームページ;https://www.dencho-med.or.jp/\n\n蒲田医師会ホームページ;https://www.kamata-med.or.jp/\n\n小児科の急病\n初期救急（平日）\n小児救急患者（満3か月から中学3年生まで）を対象とした初期救急医療事業です。\n診療時間　午後8時から11時（受付は午後7時45分から10時45分）\n創立記念日（6月10日）は休診です。\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大田区子ども平日夜間救急室|大森西6-11-1<br>（東邦大学医療センター大森病院3号館1階）|03-3762-4151|\n大森医師会、田園調布医師会、蒲田医師会、大田区薬剤師会、東邦大学医療センター大森病院が協同で運営しています。\n\n（注意）大田区子ども平日夜間救急室では、感染症の抗原検査は、診察した医師の判断にて実施をいたします。なお、インフルエンザ・新型コロナウイルスの同時抗原検査キットのみの対応となります。\n\n救急（祝日を含む月曜から日曜）\n東邦大学医療センター大森病院\n　所在地　大森西6-11-1\n　電話番号　03-3762-4151\n\n救急外来　受付時間\n|診療体制|受付時間|\n|:----|:----|\n|平日|午後4時15分から翌朝8時30分|\n|土曜日（第三・臨時休診を除く）|午後1時15分から翌朝8時30分|\n|休日（日曜日・祝日・第三土曜日・6月10日）|午前8時30分から翌朝8時30分|\n（注釈）創立記念日（6月10日）及び、臨時休診日は、「休日」の診療体制となります。\n（注釈）祝日の臨時平日診療日は、「平日」の診療体制となります。\n（注釈）診療状況によりご希望に添えない場合があります。\n（注釈）最新情報は、病院ホームページ;https://www.omori.med.toho-u.ac.jp/にてご確認ください。\n\n荏原病院\n所在地　東雪谷4-5-10\n電話番号　03-5734-8000\n（注釈）診療状況によりご希望に添えない場合があります。\n（注釈）最新情報は、荏原病院ホームページ;https://www.tmhp.jp/ebara/にてご確認ください。\n\n診療時間\n|曜日|時間|\n|:----|:----|\n|平日|午後5時00分から翌朝9時00分|\n|土曜日|正午から翌朝9時00分|\n|日曜日・祝日|午前9時00分から翌朝9時00分|\n薬（処方箋調剤）\n土曜日\n時間　午後5時から10時まで\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森会営薬局<br>（大田区薬剤師会　大森ブロック）|中央3-1-3|03-3774-7721|\n|蒲田薬局|蒲田4-38-5|03-3732-1291|\n日曜日・祝日\n時間　午前9時から午後10時まで\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森会営薬局<br>（大田区薬剤師会　大森ブロック）|中央3-1-3|03-3774-7721|\n|ゆきがや薬局<br>（大田区薬剤師会　田園調布ブロック）|東雪谷5-1-1|03-3728-3231|\n|蒲田薬局|蒲田4-38-5|03-3732-1291|\n各薬剤師会のホームページ\n大田区薬剤師会ホームページ;https://ootakuyaku.jp/\n\n蒲田薬剤師会ホームページ;http://www.jade.dti.ne.jp/~kpa/\n\n歯痛\n診療時間　日曜日、祝日の午前9時から午後5時（受付時間は午後4時30分まで）\n\n場所\n|名称|所在地|電話番号|\n|:----|:----|:----|\n|大森歯科医師会館|池上4-19-7|03-3754-8648|\n|蒲田歯科医師会館|新蒲田1-4-14|03-3731-9282|\n各歯科医師会のホームページ\n大森歯科医師会ホームページ;https://www.omorida.or.jp/\n\n蒲田歯科医師会ホームページ;https://www.kamashi.jp/\n\n接骨（ほねつぎ）\n施術時間　日曜、祝日の午前9時から午後5時\n場所　区内整骨院・接骨院が輪番制で対応しています。詳しくはお問合せください。\n電話番号　090-3542-3896\n困ったときの相談先\n医療機関をお探しの方へ\n■東京都医療機関・薬局案内サービス（ひまわり）　\n・電話番号　03-5272-0303\n・受付時間　毎日24時間\n（「ひまわり」は、24時間医療機関案内などを行っている都民のためのサービスです）\n\n■医療機関・薬局の公的検索システム「医療情報ネット」\nパソコンやスマートフォンで、全国の医療機関・薬局について検索・情報収集ができるサービスです。\n\n医療機関・薬局の公的検索システム「医療情報ネット」;https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize\n\n■おおた医療BOOK\nこちらのページ;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/ota-iryobook.htmlから情報をご確認下さい。\n\n救急車を呼んだ方がいいか迷ったら\n東京消防庁救急相談センター\n・電話番号　＃7119（プッシュ回線・携帯電話の場合）\n　その他の電話やつながらない場合は、03-3212-2323\n・受付時間　24時間年中無休\n\n東京消防庁ホームページ;https://www.tfd.metro.tokyo.lg.jp/lfe/kyuu-adv/soudan-center.htm\n\n緊急に病院に行く必要があると思ったときは\n迷わず119番通報をしてください！\n\n子どもの急な病気に困ったら\n東京都福祉保健局　子供の健康相談室（小児救急相談）\n・電話番号　＃8000（プッシュ回線・携帯電話の場合）\n　その他の電話やつながらない場合は、03-5285-8898\n・受付時間\n　月曜日から金曜日まで（祝日、年末年始を除く）：午後6時から翌朝8時まで\n　 土曜日、日曜日、祝日、年末年始：午前8時から翌朝8時まで\n\n子供の健康相談室ホームページ;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/k_soudan.html\n\nこどもの救急（日本小児科学会）\n夜間や休日などの診療時間外に病院を受診するかどうか、判断の目安を提供しています。\n\nこどもの救急（日本小児科学会）ホームページ;https://kodomo-qq.jp/\n\n東京都こども医療ガイド\n子どもの病気や発熱・怪我、子育ての情報が簡単に見つかる、東京都管轄のWebサイトです。\n\n東京都こども医療ガイドホームページ;https://www.guide.metro.tokyo.lg.jp/\n\nTOKYO子育て情報サービス\n安心して子育てができるよう、妊娠、子育て及び事故防止等に関する情報を提供する東京都のサービスです。\n\nTOKYO子育て情報サービスホームページ;https://www.fukushi.metro.tokyo.lg.jp/kodomo//kosodate/info_service/\n\n診療科・曜日ごとの早見表\n夜間・休日診療早見表\n|診療科|<|場所|月～金|土|日・祝|\n|:----|:----|:----|:----|:----|:----|\n|内科<br>（小児科含）|<|大森医師会診療所||17時00分～22時00分|9時00分～22時00分<br>（途中、休憩時間有）|\n|^|^|田園調布医師会診療所<br>※電話予約制|||9時00分～22時00分<br>（途中、休憩時間有）|\n|^|^|蒲田医師会診療所<br>※電話予約制||17時00分～22時00分|9時00分～22時00分<br>（途中、休憩時間有）|\n|小児科|初期救急|大田区子ども平日夜間救急室<br>（東邦大学医療センター大森病院）|20時00分～23時00分|||\n|^|救急|東邦大学医療センター大森病院|16時15分～翌朝8時30分|13時15分～翌朝8時30分<br>（第三土曜を除く）|8時30分～翌朝8時30分<br>（第三土曜を含む）|\n|^|^|荏原病院|17時00分～翌朝9時00分|正午～翌朝9時00分|9時00分～翌朝9時00分|\n|調剤|<|大森会営薬局||17時00分～22時00分|9時00分～22時00分|\n|^|^|ゆきがや薬局|||9時00分～22時00分|\n|^|^|蒲田薬局||17時00分～22時00分|9時00分～22時00分|\n|歯科|<|大森歯科医師会館|||9時00分～17時00分|\n|^|^|蒲田歯科医師会館|||9時00分～17時00分|\n|接骨（ほねつぎ）|<|東京都柔道整復師会大田支部<br>（区内整骨院・接骨院輪番制）<br>（場所はお問合せください）|||9時00分～17時00分|\n",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "医療機関をお探しの方へ\n■東京都医療機関・薬局案内サービス（ひまわり）　\n・電話番号　03-5272-0303\n・受付時間　毎日24時間\n（「ひまわり」は、24時間医療機関案内などを行っている都民のためのサービスです）\n\n■医療機関・薬局の公的検索システム「医療情報ネット」\nパソコンやスマートフォンで、全国の医療機関・薬局について検索・情報収集ができるサービスです。\n\n医療機関・薬局の公的検索システム「医療情報ネット」;https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize\n\n■おおた医療BOOK\nこちらのページ;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/ota-iryobook.htmlから情報をご確認下さい。\n\n救急車を呼んだ方がいいか迷ったら\n東京消防庁救急相談センター\n・電話番号　＃7119（プッシュ回線・携帯電話の場合）\n　その他の電話やつながらない場合は、03-3212-2323\n・受付時間　24時間年中無休\n\n東京消防庁ホームページ;https://www.tfd.metro.tokyo.lg.jp/lfe/kyuu-adv/soudan-center.htm\n\n緊急に病院に行く必要があると思ったときは\n迷わず119番通報をしてください！\n\n子どもの急な病気に困ったら\n東京都福祉保健局　子供の健康相談室（小児救急相談）\n・電話番号　＃8000（プッシュ回線・携帯電話の場合）\n　その他の電話やつながらない場合は、03-5285-8898\n・受付時間\n　月曜日から金曜日まで（祝日、年末年始を除く）：午後6時から翌朝8時まで\n　 土曜日、日曜日、祝日、年末年始：午前8時から翌朝8時まで\n\n子供の健康相談室ホームページ;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/k_soudan.html\n\nこどもの救急（日本小児科学会）\n夜間や休日などの診療時間外に病院を受診するかどうか、判断の目安を提供しています。\n\nこどもの救急（日本小児科学会）ホームページ;https://kodomo-qq.jp/\n\n東京都こども医療ガイド\n子どもの病気や発熱・怪我、子育ての情報が簡単に見つかる、東京都管轄のWebサイトです。\n\n東京都こども医療ガイドホームページ;https://www.guide.metro.tokyo.lg.jp/\n\nTOKYO子育て情報サービス\n安心して子育てができるよう、妊娠、子育て及び事故防止等に関する情報を提供する東京都のサービスです。\n\nTOKYO子育て情報サービスホームページ;https://www.fukushi.metro.tokyo.lg.jp/kodomo//kosodate/info_service/",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://kodomo-qq.jp/",
+          "title": "こどもの救急（日本小児科学会）ホームページ"
+        },
+        {
+          "uri": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize",
+          "title": "医療機関・薬局の公的検索システム「医療情報ネット」"
+        },
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/k_soudan.html",
+          "title": "子供の健康相談室ホームページ"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kenkousuishin.html",
+          "title": "健康医療政策課"
+        },
+        {
+          "uri": "https://www.guide.metro.tokyo.lg.jp/",
+          "title": "東京都こども医療ガイドホームページ"
+        },
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//kosodate/info_service/",
+          "title": "TOKYO子育て情報サービスホームページ"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/ota-iryobook.html",
+          "title": "おおた医療BOOK"
+        },
+        {
+          "uri": "https://www.tfd.metro.tokyo.lg.jp/lfe/kyuu-adv/soudan-center.htm",
+          "title": "東京消防庁ホームページ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/yakankyuujitsu/yakankyujitusinryou.html",
+        "title": "夜間・休日診療のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康医療政策課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kenkousuishin.html",
+        "contactPhone": "03-5744-1264",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=hokenjo",
+        "contactComment": "FAX ：03-5744-1523",
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+6+UM45",
+        "organization": "1000020131113",
+        "compartment": "健康医療政策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

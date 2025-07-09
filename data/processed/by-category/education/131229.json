@@ -1,0 +1,781 @@
+{
+  "version": "2025-07-09T05:55:17.811Z",
+  "areaCode": "131229",
+  "areaName": "葛飾区",
+  "category": "education",
+  "count": 6,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関する教室・講習会",
+        "shortName": "妊産婦向け講座"
+      },
+      "summary": "葛飾区民を対象に子ども未来プラザ（鎌倉・西新小岩・東四つ木）と基幹児童館（新水元・南新宿・白鳥・小菅）では、妊婦さんや産後ママやパートナーの方向けの様々な講座を行っています。",
+      "description": null,
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/event/1000114/1011076/index.html",
+        "title": "妊産婦向け講座"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て政策課 管理係",
+        "contactPhone": "03-5654-8293",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1248555",
+        "contactAddress": "葛飾区立石5-13-1　葛飾区役所4階　401番子育て支援窓口"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+1+UM103",
+        "organization": "1000020131229",
+        "compartment": "子育て政策課 管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "学校教育法",
+        "regulationArticle": "第24条"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "082"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "ハローベビー教室（母親学級）、パパママ学級"
+      },
+      "summary": "初めてママ・パパになる区民の方を対象に、安心して赤ちゃんを迎えられるよう妊娠中の学級を開催しています。妊娠中の生活や出産・育児のお話、沐浴やおむつ替え、妊婦ジャケットの体験などの実習をします。\n参加には事前のご予約が必要です。",
+      "description": null,
+      "target": {
+        "targetPersons": "葛飾区在住で、初めてご出産される妊婦さんやそのご家族",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "「はなしょうぶコール　03-6758-2222」（年中無休　8時から20時まで）\n参加者全員の予約が必要です。各回の申し込み開始日は区ホームページをご確認ください。\n◎会場・日程・時間等が変更になる場合があります。ご予約の際にご確認ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "08:00",
+        "toYMD": null,
+        "toHM": "20:00",
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "・親子健康手帳（母子健康手帳）、育児支援ガイドブック、筆記用具、ママパパ学級テキスト（お持ちの方のみ）\n・飲み物や、クッション・座布団などは各自お持ちください。\n・子ども未来プラザ鎌倉、子ども未来プラザ東四つ木は、室内履きと下足入れ袋をお持ちください（スリッパは安全管理上厳禁）\n・感染症対策として換気を行います。\n※必要な方は、上着やひざ掛け等、体温調節ができるものをお持ちください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1016732.html",
+          "title": "マタニティサロン"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1022291.html",
+        "title": "ハローベビー教室（母親学級）とパパママ学級"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭支援課母子保健係",
+        "contactPhone": "03-3602-1387",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1250062",
+        "contactAddress": "葛飾区青戸4-15-14　子ども総合センター内"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+1+UM31",
+        "organization": "1000020131229",
+        "compartment": "子ども家庭支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-23",
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊娠・出産に関する教室・講習会",
+        "shortName": "マタニティサロン"
+      },
+      "summary": "葛飾区では、妊娠中の方を対象に、授乳の練習や産後の生活について学べるマタニティサロンを開催しています。",
+      "description": null,
+      "target": {
+        "targetPersons": "妊娠中の方（夫・パートナーの参加も可能です。会場までお問い合わせください。）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "予約フォームまたはお電話でご予約ください。\n令和6年度\n・令和6年度日程表 （PDF 835.1KB）;https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/016/732/06matasar0.pdf\n・令和6年度 青戸保健センター マタニティサロン予約フォーム（外部リンク）;https://logoform.jp/form/Ehiz/190601\n・令和6年度 金町保健センター マタニティサロン予約フォーム（外部リンク）;https://logoform.jp/form/Ehiz/190607\n・令和6年度 にこわ新小岩 マタニティサロン予約フォーム（外部リンク）;https://logoform.jp/form/Ehiz/190611",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "・親子健康手帳（母子健康手帳）\n・飲みもの",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.youtube.com/watch?v=w3SVciMEDYU",
+          "title": "葛飾区公式YouTube マタニティサロン「授乳の仕方」（外部リンク）"
+        },
+        {
+          "uri": "https://www.youtube.com/watch?v=WXmBBNBRW84",
+          "title": "葛飾区公式YouTube マタニティサロン「産後の生活」（外部リンク）"
+        },
+        {
+          "uri": "https://www.youtube.com/watch?v=cxNSkcEje2g",
+          "title": "葛飾区公式YouTubeパパ向け動画　パパがカギを握る！～ママの体と心の変化を知ろう～（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1016732.html",
+        "title": "マタニティサロン"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/Ehiz/190607",
+          "title": "令和6年度　金町保健センター　マタニティサロン予約フォーム（外部リンク）"
+        },
+        {
+          "uri": "https://logoform.jp/form/Ehiz/190611",
+          "title": "令和6年度　にこわ新小岩　マタニティサロン予約フォーム（外部リンク）"
+        },
+        {
+          "uri": "https://logoform.jp/form/Ehiz/190601",
+          "title": "令和6年度　青戸保健センター　マタニティサロン予約フォーム（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "青戸保健センター 保健サービス係",
+        "contactPhone": "03-3602-1284",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1250062",
+        "contactAddress": "葛飾区青戸4-15-14　健康プラザかつしか内"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+1+UM33",
+        "organization": "1000020131229",
+        "compartment": "青戸保健センター 保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-05",
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "放課後子供教室",
+        "shortName": "わくわくチャレンジ広場"
+      },
+      "summary": "放課後や三季休業日（春・夏・冬休み）等に、諸室や体育館・校庭などを使用し、学校に通う子どもたちが地域の方々の見守りの中、安全かつ安心して自由に遊び、学ぶことができる場所です。",
+      "description": null,
+      "target": {
+        "targetPersons": "当該学校に通う小学１年生～６年生（登録対象学年については、学校ごとに異なります。）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "登録対象学年については、学校ごとに異なります。"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "無料",
+      "costConditions": "工作などのプログラムに参加する場合、材料費等を実費負担していただく場合があります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "小学校",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "登録制による自由参加です。",
+      "procedurePersons": null,
+      "procedureMethod": "「わくわくチャレンジ広場登録申込書」により申し込みます。わくわくチャレンジ広場の活動時間中に、メインルームに提出してください。\n令和7年度の申し込みにつきましては、申請用のQRコードが配布されている学校は、申請フォームから申し込みをお願いいたします。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "わくわくチャレンジ広場の活動時間中"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "メインルーム",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kosodate/1000057/1030200/1002680.htmlhttps://www.city.katsushika.lg.jp/kosodate/1000057/1030200/1029111.html",
+          "title": "放課後子ども事業（わくわくチャレンジ広場）児童指導サポーター募集について"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kosodate/1000057/1030200/1002681.html",
+        "title": "放課後子ども事業（わくわくチャレンジ広場）について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局地域教育課放課後子ども事業係",
+        "contactPhone": "電話：03-5654-8485",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1248555",
+        "contactAddress": "葛飾区立石5-13-1　葛飾区役所4階　406番窓口"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+1+UM5028",
+        "organization": "1000020131229",
+        "compartment": "教育委員会事務局地域教育課放課後子ども事業係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/06/28",
+      "odInformation": {
+        "updateDate": "2025-02-20",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "離乳食教室",
+        "shortName": "育児学級"
+      },
+      "summary": "保健センター等で生後5か月のお子さんの保護者を対象に、離乳食作りの実演と育児の話を行います。詳細はリンク先の「育児学級」の情報をご確認ください。",
+      "description": null,
+      "target": {
+        "targetPersons": "生後５か月のお子さんの保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "ご希望の会場を選び、予約フォームからオンラインでご予約の上、お越しください。\nhttps://www.city.katsushika.lg.jp/kenkou/1000050/1001804/1030307/1002088.html",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001804/1030307/1002088.html",
+        "title": "子どもの健康相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "青戸保健センター保健サービス係",
+        "contactPhone": "03-3602-1284",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": "葛飾区青戸4-15-14　健康プラザかつしか内"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+1+UM798",
+        "organization": "1000020131229",
+        "compartment": null,
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関するその他のこと",
+        "shortName": "カナマチぷらっと"
+      },
+      "summary": "「カナマチぷらっと」は、子どもから大人まで多彩な活動や体験ができる施設です。子育てに関する講座・イベントも多く開催しています。詳細は「講座・イベント案内」をご確認ください。",
+      "description": null,
+      "target": {
+        "targetPersons": "区民のみなさま",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.kanamachi-plat.jp/",
+        "title": "カナマチぷらっと（葛飾区金町駅前活動センター）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "カナマチぷらっと（葛飾区金町駅前活動センター）",
+        "contactPhone": "03-6231-3680",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1250042",
+        "contactAddress": "東京都葛飾区金町六丁目5番1号ベルトーレ金町 3階"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+2+UM120",
+        "organization": "1000020131229",
+        "compartment": "カナマチぷらっと（葛飾区金町駅前活動センター）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "082"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

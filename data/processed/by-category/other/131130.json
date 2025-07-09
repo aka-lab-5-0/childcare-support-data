@@ -1,0 +1,793 @@
+{
+  "version": "2025-07-09T05:55:17.799Z",
+  "areaCode": "131130",
+  "areaName": "渋谷区",
+  "category": "other",
+  "count": 6,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関するサポート",
+        "shortName": "家事援助者の派遣"
+      },
+      "summary": "ひとり親家庭となった直後、または親や児童が一時的傷病等で日常生活を営むのに支障が生じたとき、一定の期間家事援助者を派遣し、日常生活の安定を図ります。",
+      "description": "家事援助者の派遣\n中学生以下の児童を扶養しているひとり親家庭で、家事など日常生活に支障があるとき、保護者が在宅している時間帯に家事援助者を派遣します。\n\n対象\n次のいずれかに該当する人\n\nひとり親家庭になった直後（2年以内）\n親または児童が一時的に傷病などになったとき\n派遣日数\n月12回以内（1回2時間以上8時間以内）\nおおむね6か月を限度\n\n費用\n利用者の所得に応じて自己負担があります。",
+      "target": {
+        "targetPersons": "中学生以下の児童を扶養しているひとり親家庭\n次のいずれかに該当する人\n\nひとり親家庭になった直後（2年以内）\n親または児童が一時的に傷病などになったとき",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "中学生以下の児童を扶養しているひとり親家庭"
+      },
+      "support": {
+        "description": "家事など日常生活に支障があるとき、保護者が在宅している時間帯に家事援助者を派遣します。",
+        "monetarySupport": null,
+        "materiallySupport": "家事など日常生活に支障があるとき、保護者が在宅している時間帯に家事援助者を派遣します。"
+      },
+      "cost": null,
+      "costConditions": "利用者の所得に応じて自己負担があります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "月12回以内（1回2時間以上8時間以内）\nおおむね6か月を限度"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "中学生以下の児童を扶養しているひとり親家庭",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "区役所4階子ども青少年課子育て給付係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kodomo/kodomo-teate-josei/hitorioya/hitorioya_shien.html",
+        "title": "貸付・支援"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども青少年課子育て給付係",
+        "contactPhone": "03-3463-2558",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4942",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM106",
+        "organization": "9000020131130",
+        "compartment": "子ども青少年課子育て給付係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-17",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "渋谷区ひとり親家庭家事援助者派遣事業実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+        "shortName": "ネウボラ子育てハンドブック"
+      },
+      "summary": "妊娠期、産後に必要な手続きやご利用いただけるサービスについてご案内しています。",
+      "description": "ネウボラ子育てハンドブック\n妊産婦に配付しているネウボラ子育てハンドブックに関するページです\n\n更新日\n\n2024年4月1日\n\n妊娠届出時に渋谷区での妊娠、出産に関する情報をまとめたネウボラ子育てハンドブックを令和5年度から配付しています。妊娠期、産後に必要な手続きやご利用いただけるサービスについてご案内していますので、ぜひご活用ください。\n \n令和6年度ネウボラ子育てハンドブック（PDF 2,163KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/68974b02686c4f708a2b296caaebb26a/neuvola_childcare_handbook6.pdf",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠届出時に渋谷区での妊娠、出産に関する情報をまとめたネウボラ子育てハンドブックを令和5年度から配付しています。妊娠期、産後に必要な手続きやご利用いただけるサービスについてご案内していますので、ぜひご活用ください。\n令和6年度ネウボラ子育てハンドブック（PDF 2,163KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/68974b02686c4f708a2b296caaebb26a/neuvola_childcare_handbook6.pdf",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠届出時に渋谷区での妊娠、出産に関する情報をまとめたネウボラ子育てハンドブックを令和5年度から配付しています。妊娠期、産後に必要な手続きやご利用いただけるサービスについてご案内していますので、ぜひご活用ください。\n令和6年度ネウボラ子育てハンドブック（PDF 2,163KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/68974b02686c4f708a2b296caaebb26a/neuvola_childcare_handbook6.pdf"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/68974b02686c4f708a2b296caaebb26a/neuvola_childcare_handbook6.pdf",
+          "title": "令和6年度ネウボラ子育てハンドブック（PDF 2"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kodomo/ninshin/kosodate-shien/neuvola_childcare_handbook.html",
+        "title": "ネウボラ子育てハンドブック"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "中央保健相談所母子保健係",
+        "contactPhone": "03-3463-2409",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4944",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM34",
+        "organization": "9000020131130",
+        "compartment": "中央保健相談所母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+        "shortName": "産前産後期間の国民健康保険料免除"
+      },
+      "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分）の均等割保険料と所得割保険料が免除されます。",
+      "description": "産前産後期間の国民健康保険料免除\n産前産後期間の国民健康保険料免除制度の説明です\n\n更新日\n\n2024年4月1日\n\n免除制度の対象者\n保険料が免除される期間\n 必要書類\n届出窓口\nオンライン申請による手続きの方法\nLINEによる手続きの方法\n郵送による手続きの方法\n免除制度の対象者\n国民健康保険の被保険者で、妊娠85日（4か月）以上の出産をする（した）お母さんが対象です。（死産、流産、早産を含みます。）\n令和5年11月1日以降の出産が対象です。（対象期間の制限があります。）\n出産予定日の6か月前から届出ができます。\n\n保険料が免除される期間\n出産する（した）お母さんについて、出産予定日または出産日が属する月の前月から4か月分に相当する国民健康保険料が免除されます。多胎妊娠（2人以上の赤ちゃんを妊娠）の場合は、出産予定日または出産日が属する月の3か月前から6か月分が対象期間です。\n令和6年1月1日から制度開始のため、令和5年度は上記対象期間のうち令和6年1月以降の部分が対象となります。\n対象期間が令和6年4月以降を含む場合は令和6年度保険料から相当額が免除されます。\n該当月が年度をまたぐ場合は各月が所属する年度からそれぞれ減額します。\n（注）元々の保険料が限度額を超過している世帯では、相当額を免除適用したとしても限度額のまま保険料が変わらない場合があります。\n世帯限度額に関するページ;https://www.city.shibuya.tokyo.jp/kurashi/kokuho/kenkohokenryo/h_ritu26_00002.htmlをご覧ください。\n（注）保険料賦課（料金計算）の期間制限;https://www.city.shibuya.tokyo.jp/kurashi/kokuho/kenkohokenryo/hokenryo_26.html#h2-h0153edf047にご注意ください。\n（注）出産予定日で届出をした場合で、出産予定月と実際の出産月が異なる場合でも、当初の届出内容のまま適用します。改めて手続きをいただく必要はありません。ただし、出産日に合わせて該当月の変更をご希望の場合は改めて届出をしてください。該当月を変更して保険料を再計算いたします。\n出産する（した）お母さんについて、出産予定日または出産日が属する月の前月から４か月分に相当する国民健康保険料が免除されます。多胎妊娠（２人以上の赤ちゃんを妊娠）の場合は、出産予定日または出産日が属する月の３か月前から６か月分が対象期間です。\n\n例\n出産（予定）月が令和6年4月の場合\n単胎妊娠の方は3月、4月、5月、6月が免除対象\n3月分は令和５年度の保険料から減額、4～6月は令和6年度の保険料から減額されます。\n多胎妊娠の人は、1月、2月、3月、4月、5月、6月が免除対象\n1～3月分は令和5年度の保険料から減額、4～6月は令和6年度の保険料から減額されます。\n\n 必要書類\n本人確認書類\n母子健康手帳（出産予定日または出産日が確認できるもの）\n（注）多胎妊娠の場合は2人分必要です。\n\n（注）出産後に届け出る場合は、出産予定日ではなく出産日で届け出てください。\n\nマイナンバー確認書類（なくても申請できます）\n届出窓口\n区役所3階暮らしの手続きフロア　3番窓口国民健康保険課資格賦課係\n（注）オンライン申請、LINE申請、郵送でも手続きができます。（下記参照）\n\nオンライン申請による手続きの方法\n注意事項\nオンライン申請は株式会社グラファーの提供する「Grafferスマート申請」サイトを使用します。Grafferスマート申請について、詳しくはGraffer（グラファー）スマート申請のFAQ（外部サイト）;https://graffer.jp/faq/をご参照ください。\nオンライン申請の手順についてはオンライン申請の手順（PDF 782KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/12b0ae76c7324f2f94facedf9863191e/onrain-tejyun-rei.pdfをご覧ください。\n必要書類に不備があり、再提出や追加提出が必要な場合は、Eメール・電話などでご連絡する場合があります。\nオンライン申請の必要書類\n顔写真付きの本人確認書類\n母子健康手帳（出産予定日または出産日が確認できるもの）\n（注）多胎妊娠の場合は2人分必要です。\n\n（注）出産後に届け出る場合は、出産予定日ではなく出産日で届け出てください。\n\nマイナンバー確認書類（なくても申請できます）\n産前産後期間保険料免除手続きの申請フォーム\nオンライン申請を開始する（外部サイト）;https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/sanzensango-kokuho\n\nLINEによる手続きの方法\nスマートフォンの方はこちらから申請できます。\nLINEによる申請（産前産後期間に係る国保料軽減申請）（外部サイト）;https://line.me/R/app/1496310592-AqKmKeJR?page=survey_launcher&channel_id=1496310592&liff_id=1496310592-AqKmKeJR&survey_id=a0O2j00000bxPuh\nスマートフォンのコミュニケーションアプリ「LINE」をインストールし「渋谷区公式LINEアカウントとの友達登録」が必要です。\n渋谷区公式LINEアカウントについて詳しくは渋谷区のLINE（ライン）について;https://www.city.shibuya.tokyo.jp/kusei/koho/line/line_about.htmlをご覧ください。\n\n郵送による手続きの方法\n注意事項\n原則として、お送りいただいた書類は返却いたしませんので、十分ご注意ください。\n提出書類に不備がある場合は書類一式を返却させていただきます。手続きが遅れてしまいますので、記入漏れや不足書類はないかを十分ご確認のうえ、お送りください。\n記載事項やご事情の確認のため、お電話することがあります。日中のご連絡先を必ずご記入ください。\n記入する書類\n産前産後期間に係る国民健康保険料免除該当届（PDF 95KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/5805dc837eae4f6983fd7f208581b8b3/sanzensango-kokuho-todoke.pdf\n\n郵送による手続きの必要書類\n記入済みの産前産後期間に係る国民健康保険料免除該当届（PDF 95KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/5805dc837eae4f6983fd7f208581b8b3/sanzensango-kokuho-todoke.pdf\n顔写真付きの本人確認書類のコピー\n母子健康手帳の表紙のコピー\n母子健康手帳の次のいずれか出産予定日または出産日を確認できるもののコピー\n1ページ目の出生届出済証明\n4ページ目の妊婦自身の記録（1）\n14ページ目の出産の状態\n（注）多胎妊娠の場合は2人分必要です。\n\n（注）出産後に届け出る場合は、出産予定日ではなく出産日を記入してください。\n\n郵送先\n上記の「郵送による手続きの必要書類」を以下の宛先へ郵送してください。\n〒150-8010（住所不要）渋谷区 国民健康保険課 資格賦課係あて",
+      "target": {
+        "targetPersons": "国民健康保険の被保険者で、妊娠85日（4か月）以上の出産をする（した）お母さんが対象です。（死産、流産、早産を含みます。）\n令和5年11月1日以降の出産が対象です。（対象期間の制限があります。）\n出産予定日の6か月前から届出ができます。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "出産する（した）お母さんについて、出産予定日または出産日が属する月の前月から4か月分に相当する国民健康保険料が免除されます。多胎妊娠（2人以上の赤ちゃんを妊娠）の場合は、出産予定日または出産日が属する月の3か月前から6か月分が対象期間です。\n令和6年1月1日から制度開始のため、令和5年度は上記対象期間のうち令和6年1月以降の部分が対象となります。\n対象期間が令和6年4月以降を含む場合は令和6年度保険料から相当額が免除されます。\n該当月が年度をまたぐ場合は各月が所属する年度からそれぞれ減額します。\n（注）元々の保険料が限度額を超過している世帯では、相当額を免除適用したとしても限度額のまま保険料が変わらない場合があります。\n世帯限度額に関するページ;https://www.city.shibuya.tokyo.jp/kurashi/kokuho/kenkohokenryo/h_ritu26_00002.htmlをご覧ください。\n（注）保険料賦課（料金計算）の期間制限;https://www.city.shibuya.tokyo.jp/kurashi/kokuho/kenkohokenryo/hokenryo_26.html#h2-h0153edf047にご注意ください。\n（注）出産予定日で届出をした場合で、出産予定月と実際の出産月が異なる場合でも、当初の届出内容のまま適用します。改めて手続きをいただく必要はありません。ただし、出産日に合わせて該当月の変更をご希望の場合は改めて届出をしてください。該当月を変更して保険料を再計算いたします。",
+        "monetarySupport": "出産する（した）お母さんについて、出産予定日または出産日が属する月の前月から4か月分に相当する国民健康保険料が免除されます。多胎妊娠（2人以上の赤ちゃんを妊娠）の場合は、出産予定日または出産日が属する月の3か月前から6か月分が対象期間です。\n令和6年1月1日から制度開始のため、令和5年度は上記対象期間のうち令和6年1月以降の部分が対象となります。\n対象期間が令和6年4月以降を含む場合は令和6年度保険料から相当額が免除されます。\n該当月が年度をまたぐ場合は各月が所属する年度からそれぞれ減額します。\n（注）元々の保険料が限度額を超過している世帯では、相当額を免除適用したとしても限度額のまま保険料が変わらない場合があります。\n世帯限度額に関するページ;https://www.city.shibuya.tokyo.jp/kurashi/kokuho/kenkohokenryo/h_ritu26_00002.htmlをご覧ください。\n（注）保険料賦課（料金計算）の期間制限;https://www.city.shibuya.tokyo.jp/kurashi/kokuho/kenkohokenryo/hokenryo_26.html#h2-h0153edf047にご注意ください。\n（注）出産予定日で届出をした場合で、出産予定月と実際の出産月が異なる場合でも、当初の届出内容のまま適用します。改めて手続きをいただく必要はありません。ただし、出産日に合わせて該当月の変更をご希望の場合は改めて届出をしてください。該当月を変更して保険料を再計算いたします。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "必要書類\n本人確認書類\n母子健康手帳（出産予定日または出産日が確認できるもの）\n（注）多胎妊娠の場合は2人分必要です。\n\n（注）出産後に届け出る場合は、出産予定日ではなく出産日で届け出てください。\n\nマイナンバー確認書類（なくても申請できます）\n届出窓口\n区役所3階暮らしの手続きフロア　3番窓口国民健康保険課資格賦課係\n（注）オンライン申請、LINE申請、郵送でも手続きができます。（下記参照）\n\nオンライン申請による手続きの方法\n注意事項\nオンライン申請は株式会社グラファーの提供する「Grafferスマート申請」サイトを使用します。Grafferスマート申請について、詳しくはGraffer（グラファー）スマート申請のFAQ（外部サイト）;https://graffer.jp/faq/をご参照ください。\nオンライン申請の手順についてはオンライン申請の手順（PDF 782KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/12b0ae76c7324f2f94facedf9863191e/onrain-tejyun-rei.pdfをご覧ください。\n必要書類に不備があり、再提出や追加提出が必要な場合は、Eメール・電話などでご連絡する場合があります。\nオンライン申請の必要書類\n顔写真付きの本人確認書類\n母子健康手帳（出産予定日または出産日が確認できるもの）\n（注）多胎妊娠の場合は2人分必要です。\n\n（注）出産後に届け出る場合は、出産予定日ではなく出産日で届け出てください。\n\nマイナンバー確認書類（なくても申請できます）\n産前産後期間保険料免除手続きの申請フォーム\nオンライン申請を開始する（外部サイト）;https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/sanzensango-kokuho\n\nLINEによる手続きの方法\nスマートフォンの方はこちらから申請できます。\nLINEによる申請（産前産後期間に係る国保料軽減申請）（外部サイト）;https://line.me/R/app/1496310592-AqKmKeJR?page=survey_launcher&channel_id=1496310592&liff_id=1496310592-AqKmKeJR&survey_id=a0O2j00000bxPuh\nスマートフォンのコミュニケーションアプリ「LINE」をインストールし「渋谷区公式LINEアカウントとの友達登録」が必要です。\n渋谷区公式LINEアカウントについて詳しくは渋谷区のLINE（ライン）について;https://www.city.shibuya.tokyo.jp/kusei/koho/line/line_about.htmlをご覧ください。\n\n郵送による手続きの方法\n注意事項\n原則として、お送りいただいた書類は返却いたしませんので、十分ご注意ください。\n提出書類に不備がある場合は書類一式を返却させていただきます。手続きが遅れてしまいますので、記入漏れや不足書類はないかを十分ご確認のうえ、お送りください。\n記載事項やご事情の確認のため、お電話することがあります。日中のご連絡先を必ずご記入ください。\n記入する書類\n産前産後期間に係る国民健康保険料免除該当届（PDF 95KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/5805dc837eae4f6983fd7f208581b8b3/sanzensango-kokuho-todoke.pdf\n\n郵送による手続きの必要書類\n記入済みの産前産後期間に係る国民健康保険料免除該当届（PDF 95KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/5805dc837eae4f6983fd7f208581b8b3/sanzensango-kokuho-todoke.pdf\n顔写真付きの本人確認書類のコピー\n母子健康手帳の表紙のコピー\n母子健康手帳の次のいずれか出産予定日または出産日を確認できるもののコピー\n1ページ目の出生届出済証明\n4ページ目の妊婦自身の記録（1）\n14ページ目の出産の状態\n（注）多胎妊娠の場合は2人分必要です。\n\n（注）出産後に届け出る場合は、出産予定日ではなく出産日を記入してください。\n\n郵送先\n上記の「郵送による手続きの必要書類」を以下の宛先へ郵送してください。\n〒150-8010（住所不要）渋谷区 国民健康保険課 資格賦課係あて",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産予定日の6か月前から届出ができます。"
+      },
+      "electronicSubmission": true,
+      "belongings": "本人確認書類\n母子健康手帳（出産予定日または出産日が確認できるもの）\n（注）多胎妊娠の場合は2人分必要です。\n\n（注）出産後に届け出る場合は、出産予定日ではなく出産日で届け出てください。\n\nマイナンバー確認書類（なくても申請できます）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "区役所3階暮らしの手続きフロア　3番窓口国民健康保険課資格賦課係",
+      "relatedLink": [
+        {
+          "uri": "https://graffer.jp/faq/",
+          "title": "Graffer（グラファー）スマート申請のFAQ（外部サイト）"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kurashi/kokuho/kenkohokenryo/h_ritu26_00002.html",
+          "title": "世帯限度額に関するページ"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kusei/koho/line/line_about.html",
+          "title": "渋谷区のLINE（ライン）について"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/12b0ae76c7324f2f94facedf9863191e/onrain-tejyun-rei.pdf",
+          "title": "オンライン申請の手順（PDF 782KB）"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kurashi/kokuho/kenkohokenryo/hokenryo_26.html#h2-h0153edf047",
+          "title": "保険料賦課（料金計算）の期間制限"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kurashi/kokuho/kenkohokenryo/sanzensangokokuho.html",
+        "title": "産前産後期間の国民健康保険料免除"
+      },
+      "formLink": [
+        {
+          "uri": "https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/sanzensango-kokuho/door",
+          "title": "オンライン申請を開始する（外部サイト）"
+        },
+        {
+          "uri": "https://page.line.me/shibuyacity?openQrModal=true",
+          "title": "LINEによる申請（産前産後期間に係る国保料軽減申請）（外部サイト）"
+        }
+      ],
+      "contact": {
+        "contactName": "国民健康保険課資格賦課係",
+        "contactPhone": "03-3463-1781",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4940",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM5035",
+        "organization": "9000020131130",
+        "compartment": "国民健康保険課資格賦課係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-18",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "渋谷区国民健康保険条例",
+        "regulationArticle": "第26条の5"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003",
+          "015"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "児童遊園",
+        "shortName": "恵比寿東公園"
+      },
+      "summary": "児童遊園は、屋外にある公園に類似した施設です。18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n渋谷区の児童遊園の一覧は、渋谷区サイトなどでお知らせしています。",
+      "description": "恵比寿東公園\n恵比寿東公園に関する案内ページです。\n\n更新日\n\n2020年4月1日\n\n概要\n恵比寿東公園\n\n渋谷川沿いの大きなタコの遊具がある公園\n\n渋谷川沿いにある細長い形をした公園で、戦災復興区画整理公園として整備されました。\nタコの形をしたすべり台があるため、地域では通称「タコ公園」と呼ばれ親しまれています。\n平成23年に全面改修され、新たに親水施設・芝生広場が整備されました。\n渋谷区で唯一、児童福祉法における児童遊園です。\n\n概要\n恵比寿東公園概要\n|名称|恵比寿東公園（えびすひがしこうえん）|\n|所在地|恵比寿1-2-16 （郵便番号：150-0013）|\n|交通|JR・地下鉄「恵比寿駅」徒歩3分|\n|開園年月日|昭和33年3月25日|\n|公園面積|2,666平方メートル|\n|主な樹木|ソメイヨシノ、サトザクラ、カワズザクラ、シダレザクラ、ナツミカン、イチョウ、ニセアカシア、アカバナトチノキ|\n|主な施設|造形遊具（タコ）、ブランコ、砂場、鉄棒、親水施設、芝生広場、緑化フェンス|\n\n住所\n\n〒150-0013 渋谷区恵比寿1-2-16\n電話\n\n03-3463-2876\nFAX\n\n03-5458-4946\nメール\n\nsec-kouen@shibuya.tokyo\n\nGoogle Mapで見る ;https://www.google.co.jp/maps/place/%E6%81%B5%E6%AF%94%E5%AF%BF%E6%9D%B1%E5%85%AC%E5%9C%92/@35.6481243,139.7092975,17z/data=!4m10!1m2!2m1!1z5oG15q-U5a-_5p2x5YWs5ZySIOOAkjE1MC0wMDEzIOa4i-iwt-WMuuaBteavlOWvvzEtMi0xNg!3m6!1s0x60188b41d15f294b:0xe12e8a385c8c0fa5!8m2!3d35.6480749!4d139.7117732!15sCjfmgbXmr5Tlr7_mnbHlhazlnJIg44CSMTUwLTAwMTMg5riL6LC35Yy65oG15q-U5a-_MS0yLTE2Wj8iPeaBteavlOWvvyDmnbEg5YWs5ZySIOOAkiAxNTAgMDAxMyDmuIvosLcg5Yy6IOaBteavlOWvvyAxIDIgMTaSAQRwYXJr4AEA!16s%2Fg%2F11b70dhjpf?hl=ja",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.google.co.jp/maps/place/%E6%81%B5%E6%AF%94%E5%AF%BF%E6%9D%B1%E5%85%AC%E5%9C%92/@35.6481243",
+          "title": "Google Mapで見る"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/koen/kuritsu-koen/park_ebisuhigashi.html",
+        "title": "恵比寿東公園"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "公園課公園維持係",
+        "contactPhone": "03-3463-2876",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4908",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM576",
+        "organization": "9000020131130",
+        "compartment": "公園課公園維持係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2020-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後期間の国民年金保険料免除",
+        "shortName": "産前産後期間の国民年金保険料の免除制度について"
+      },
+      "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+      "description": "産前産後期間の国民年金保険料の免除制度について\n出産前後の一定期間の国民年金保険料が免除される制度があります。\n\n更新日\n\n2023年3月17日\n\n免除期間\n対象者\n届出時期\n支給要件の取り扱い\n次世代育成支援の観点から、国民年金第1号被保険者が出産を行った際には、出産前後の一定期間の国民年金保険料が免除される制度があります。\n\n免除期間\n出産予定日又は出産日が属する月の前月から4か月間（以下「産前産後免除期間」といいます。）の国民年金保険料が免除されます。なお、多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。\n（注）出産とは、妊娠85日（4か月）以上の出産をいいます。（死産、流産、早産された方を含みます。）\n\n対象者\n「国民年金第1号被保険者」で出産日が平成31年2月1日以降の方\n\n届出時期\n出産予定日の6カ月前から届出可能です。\n\n支給要件の取り扱い\n産前産後期間に係る保険料免除期間は保険料納付済期間に算入されます。",
+      "target": {
+        "targetPersons": "「国民年金第1号被保険者」で出産日が平成31年2月1日以降の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "出産予定日又は出産日が属する月の前月から4か月間（以下「産前産後免除期間」といいます。）の国民年金保険料が免除されます。なお、多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。\n（注）出産とは、妊娠85日（4か月）以上の出産をいいます。（死産、流産、早産された方を含みます。）",
+        "monetarySupport": "出産予定日又は出産日が属する月の前月から4か月間（以下「産前産後免除期間」といいます。）の国民年金保険料が免除されます。なお、多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。\n（注）出産とは、妊娠85日（4か月）以上の出産をいいます。（死産、流産、早産された方を含みます。）",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産予定日の6カ月前から届出可能です。"
+      },
+      "electronicSubmission": true,
+      "belongings": "・本人確認書類\n・母子手帳(出産予定日の記入があるもの)※出産後で、同一世帯の住民票上の記録から出産日がわかる場合は不要",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "区役所本庁舎3F 国民年金係・日本年金機構　渋谷年金事務所",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kurashi/nenkin/shikaku-menjo/sanzensago_nenjyo.html",
+        "title": "産前産後期間の国民年金保険料の免除制度について"
+      },
+      "formLink": [
+        {
+          "uri": "https://myna.go.jp/",
+          "title": "マイナポータルによる電子申請（外部サイトへリンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "国民健康保険課国民年金係,日本年金機構渋谷年金事務所",
+        "contactPhone": "03-3463-1797,03-3462-1241",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4940",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM793",
+        "organization": "9000020131130",
+        "compartment": "国民健康保険課国民年金係,日本年金機構渋谷年金事務所",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-17",
+      "odInformation": {
+        "updateDate": "2024-06-18",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民年金法",
+        "regulationArticle": "第88条の2（保険料の納付義務）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "016"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関するその他のこと",
+        "shortName": "しぶや子育て応援コミュニティ「しぶコミ」"
+      },
+      "summary": "子育てをしている中で、お子さんの発達や行動が気になる瞬間があるなど、日々子育てに奮闘するみなさんが、少しでも安心できる場所や人とのつながりをつくっていきたい。\nそんな想いを持った人たちでつくられた子育て応援コミュニティです。\n主にしぶコミ子育てサポーターからの応援メッセージの掲載や子どものサービス情報等の発信を行っています。",
+      "description": "しぶや子育て応援コミュニティ「しぶコミ」とは\nしぶコミ子育てサポーターの紹介\nしぶコミ子育てサポーターからのメッセージ\n子どものサービス情報の紹介",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kenko/shogai-seikatsu/shogaiji-shien/shibukomi.html",
+        "title": "しぶや子育て応援コミュニティ「しぶコミ」"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "障がい者福祉課福祉計画推進係",
+        "contactPhone": "03-3463-1922",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4935",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+2+UM120",
+        "organization": "9000020131130",
+        "compartment": "障がい者福祉課福祉計画推進係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-11-30",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    }
+  ]
+}

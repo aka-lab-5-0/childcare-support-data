@@ -1,0 +1,254 @@
+{
+  "version": "2025-07-09T05:55:17.837Z",
+  "areaCode": "130001",
+  "areaName": "東京都",
+  "category": "childcare",
+  "count": 2,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "保育所等における医療的ケア児への支援",
+        "shortName": "医療的ケア児保育支援事業"
+      },
+      "summary": "保育所等において看護師等を配置し、医療的ケア児の受入れ体制を整備しております。",
+      "description": "医療的ケア児保育支援事業\n【事業内容】\n保育所等に看護師等を配置し、医療的ケアに従事させることや、保育士等が医療的ケアを行うために必要な研修受講への支援等の取組を行い、保育所等において医療的ケア児の受入れを可能とする体制を整備し、地域生活支援の向上を図る事業に対し、その費用の一部を補助する事業です。\n【対象施設】\n保育所、認定こども園、地域型保育事業の各事業、認証保育所、定期利用保育事業（専用施設及び一時施設）、一時預かり事業（緊急一時預かり）、多様な他者との関わりの機会の創出事業\n【補助項目】\n（１）看護師等の配置（医療的ケア巡回型） （２）研修受講支援（３）補助者の配置 （４）医療的ケア児保育支援者の配置 （５）ガイドラインの策定（６）検討会の設置 （７）医療的ケア児の備品整備 （８）災害対策備品整備（９）送迎支援 （10）ICT機器導入",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "保育所等に看護師等を配置し、医療的ケアに従事させることや、保育士等が医療的ケアを行うために必要な研修受講への支援等の取組を行い、保育所等において医療的ケア児の受入れを可能とする体制を整備し、地域生活支援の向上を図る事業に対し、その費用の一部を補助する事業です。",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/hoiku/iryoutekikea.html",
+        "title": "医療的ケア児保育支援事業について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "130001;東京都",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020130001+1+UM5047",
+        "organization": "8000020130001",
+        "compartment": "福祉局子供・子育て支援部",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-11-11",
+        "updater": "東京都",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "医療的ケア児及びその家族に対する支援に関する法律",
+        "regulationArticle": "第9条第1項"
+      },
+      "tag": {
+        "categoryCode": [
+          "004",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の障がいのあるお子さんなどへの金銭的支援",
+        "shortName": "児童発達支援事業所等利用支援事業（第2子以降の無償化）"
+      },
+      "summary": "児童発達支援事業等を利用する0歳から2歳までの第2子以降の自己負担額を給付金として支給することにより無償化します。",
+      "description": "児童発達支援事業所等利用支援事業（第2子以降の無償化）\n概要\n\n目的\n児童発達支援事業等を利用する第2子以降の保護者の自己負担を、世帯収入に関わらず無償化することで\n安心して子育てできる環境づくりを推進します。\n\n内容\n利用者負担額を事業所にお支払いいただいた後、その利用者負担額を東京都から給付する\n（実質的に利用者負担額が0円になる）制度です。\n\n※ 国制度により、3歳～5歳の児童の利用者負担は既に無償化されています。\n\n※ 利用者負担以外の費用（食費等の現在実費で負担しているもの）は引き続きお支払いいただきます。\n\n無償となるサービス\n児童発達支援、医療型児童発達支援、居宅訪問型児童発達支援、保育所等訪問支援\n\n※放課後等デイサービスは対象外です。\n\n対象となる児童\n上記サービスを利用する0～2歳の第2子以降の児童\n\n※年度の途中で満3歳に達する場合でも、満3歳に達する日以後の最初の3月31日までの間は対象となります。\n\n中央区、文京区、墨田区、豊島区、足立区、葛飾区、千代田区(R6.4～)にお住まいの方は、既に 各区が独自の制度で利用者負担を無償にしているため、手続きは不要です。 詳細は、お住まいの自治体にお問合せください。\n\n申請から給付までの流れ\n\nWEB受付フォームまたは郵送にて東京都に申請してください。\n申請内容を確認後、東京都から給付決定通知書を郵送します。\n東京都からお支払いに関するご案内を郵送いたします。\n3で送付するご案内の記載内容をご確認の上、WEBまたは郵送にて必要書類をご提出ください。\nご指定の口座に給付額をお支払い（振込）いたします。\n支払完了後、東京都から支払通知書を送付いたします。\n※2回目以降の給付の際は、1～2の手順は省略となります。f\n\nお問合せ先\n手続きについて\n児童発達支援事業第2子無償化コールセンター\nTEL：0120-612-898（受付時間：平日9時～17時）\n\n制度の概要について\n東京都福祉局障害者施策推進部施設サービス支援課児童福祉施設担当\nTEL：03-5320-4374",
+      "target": {
+        "targetPersons": "対象となる児童\n上記サービスを利用する0～2歳の第2子以降の児童\n\n※年度の途中で満3歳に達する場合でも、満3歳に達する日以後の最初の3月31日までの間は対象となります。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "内容\n利用者負担額を事業所にお支払いいただいた後、その利用者負担額を東京都から給付する\n（実質的に利用者負担額が0円になる）制度です。\n\n※ 国制度により、3歳～5歳の児童の利用者負担は既に無償化されています。\n\n※ 利用者負担以外の費用（食費等の現在実費で負担しているもの）は引き続きお支払いいただきます。\n\n無償となるサービス\n児童発達支援、医療型児童発達支援、居宅訪問型児童発達支援、保育所等訪問支援\n\n※放課後等デイサービスは対象外です。",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "WEB受付フォームまたは郵送にて東京都に申請してください。具体的な手順については、東京都福祉局のホームぺージをご確認ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "手続きについて\n児童発達支援事業第2子無償化コールセンター\nTEL：0120-901-644　（受付時間：平日9時～17時）",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.fukushi.metro.tokyo.lg.jp/shougai/nichijo/syougaizi/dainishimushouka.html",
+        "title": "児童発達支援事業所等利用支援事業（第2子以降の無償化）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "東京都福祉局障害者施策推進部施設サービス支援課児童福祉施設担当",
+        "contactPhone": "03-5320-4374",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "130001;東京都",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020130001+1+UM67",
+        "organization": "8000020130001",
+        "compartment": "東京都福祉局障害者施策推進部施設サービス支援課児童福祉施設担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-10-29",
+        "updater": "東京都",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "078"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

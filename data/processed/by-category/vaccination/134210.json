@@ -1,0 +1,628 @@
+{
+  "version": "2025-07-09T05:55:17.837Z",
+  "areaCode": "134210",
+  "areaName": "小笠原村",
+  "category": "vaccination",
+  "count": 5,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "妊娠の届出・母子健康手帳の交付",
+        "shortName": "母子手帳交付"
+      },
+      "summary": "妊娠がわかったら妊娠の届出をしてください。妊娠の届出をした妊婦さんに母子健康手帳を交付します。母子健康手帳は、妊娠からお子さんが小学校に入学するまでの、母と子の健康の記録です。育児、予防接種、健康診査などの際に必要となります。",
+      "description": "母子手帳交付\n小笠原村では全ての妊婦さんに安心して出産を迎えていただくために保健師が母子手帳や妊婦健康診査受診票などを交付しています。その際に、妊娠・出産に関する相談をお受けし母子保健サービスのご案内をしています。  ",
+      "target": {
+        "targetPersons": "妊婦",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "小笠原村では全ての妊婦さんに安心して出産を迎えていただくために保健師が母子手帳や妊婦健康診査受診票などを交付しています。その際に、妊娠・出産に関する相談をお受けし母子保健サービスのご案内をしています。",
+        "monetarySupport": null,
+        "materiallySupport": "小笠原村では全ての妊婦さんに安心して出産を迎えていただくために保健師が母子手帳や妊婦健康診査受診票などを交付しています。その際に、妊娠・出産に関する相談をお受けし母子保健サービスのご案内をしています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小笠原村村民課福祉係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/syussan/",
+        "title": "出産を予定されている方へ"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村村民課福祉係",
+        "contactPhone": "04998-2-3939",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+        "zipCode": "1002101",
+        "contactAddress": "東京都小笠原村父島字西町"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+1+UM1",
+        "organization": "6000020134210",
+        "compartment": "小笠原村村民課福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第15条（妊娠の届出）、第16条（母子健康手帳）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "077",
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所①",
+        "shortName": "小笠原村診療所"
+      },
+      "summary": "小笠原村では、夜間や日曜・祝日、年末年始に、当番制で診療を行っています。",
+      "description": "複合施設について\n小笠原村診療所は、施設の老朽化に伴い新たに介護施設を併設した複合施設として平成２２年に建て替え、同年５月より新施設にて運営しております。併設しました有料老人ホーム「太陽の郷」は、平成２３年３月より入居者を受け入れ、供用開始しております。施設の利点を活かした医療と介護の連携によるサポートを 行い、安心して生活できる環境を提供できるよう、スタッフ一同努めてまいります。\n概要\n|開設者|渋谷　正昭（小笠原村長）|\n|管理者|亀﨑　真　（医師）|\n|診療科目|内科、小児科、外科、整形外科、産婦人科、眼科、耳鼻咽喉科、皮膚科、精神科、歯科 （耳鼻科・眼科・小児科は年２回、整形外科・皮膚科は年１回、産婦人科は年６回の専門診療あり）|\n|病床数|９室９床、外来ブース数：医科２診、歯科１診（診察台２台）、検査室２、内診室１|\n|施設概要|RC造２階建　延床面積２，２６８．９６m2|\n|現在施行可能な検査・治療|一般血液・尿・脳脊髄液検査（特殊採血等は内地へ検体送付）、血液ガス分析、単純レントゲン、レントゲン透視検査、心電図、上部消化管内視鏡、超音波検査、牽引療法、液体窒素による凍結療法、外来での小外科手術 ※MRI、透析療法、高気圧酸素療法は行なえません。|\n|診療所内設備|CT装置、自動血液検査装置、レントゲン撮影室、歯科レントゲン撮影室、超音波検査装置、上部消化管内視鏡電子スコープ、牽引装置、心電図モニター、人工呼吸器、手術室、分娩・産科処置室、分娩監視装置、眼科用細隙灯、オートレフラクトメーター、画像伝送装 置、患者搬送用車両、自家発電設備|\n沿革\n昭和４３年　小笠原諸島返還に伴い、大村の米軍診療所を引き継いで開設\n昭和５３年５月　清瀬に移転開設\n平成７年３月　増築\n平成１５年３月　CＴ室増築 平成２２年５月　新施設建て替え\n所在地\n\n〒100-2101　東京都小笠原村父島字清瀬 電話：04998-2-3800 FAX：04998-2-2768 E-mail：hospi@vill.ogasawara.tokyo.jp\n診療時間\n||医　科|歯　科|\n|:----|:----|:----|\n|受　付|午前８時３０分～午前１１時 （水曜のみ午後１時３０分～３時３０分も受付有り） 一部予約制|予約制。|\n|診　療|午前：９時～１２時 午後：２時～５時|午前：９時～１２時 午後：２時～５時|\n|休診日\t|土・日曜日、祝日、年末年始　但し医科急患は随時対応|<|\n|救　急|随時対応。平日午後は診療所へ事前に電話連絡をお願いします（直接来院されても手術中であったり、往診などでお待たせしてしまう可能性が有りますので）。夜間・休診日は局番無しの１１９番へおかけください。|診療日の午前９時|\n外来担当医表\n||月|火|水||木|金|\n|:----|:----|:----|:----|:----|:----|\n|午前|大林|亀﨑|亀﨑|<|亀﨑|大林|\n|中野|中野|第1,3,5週|第2,4週|大林|中野|\n||^|^|大林|中野|^|^|\n|午後|急患対応、予防接種、乳幼児健診、学校健診、妊婦健診、往診、手術など|＜|大林|<|急患対応、予防接種、乳幼児健診、学校健診、妊婦健診、往診、手術など|＜|\n|^|<|中野|<|^|<|\n\n中野＊医師上京の日程については、院内掲示にてご案内します。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "小笠原村診療所",
+        "implementationAddress": "小笠原村診療所 東京都小笠原村父島字清瀬"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "随時対応。平日午後は診療所へ事前に電話連絡をお願いします（直接来院されても手術中であったり、往診などでお待たせしてしまう可能性が有りますので）。夜間・休診日は局番無しの１１９番へおかけください。",
+      "procedurePersons": null,
+      "procedureMethod": "随時対応。平日午後は診療所へ事前に電話連絡をお願いします（直接来院されても手術中であったり、往診などでお待たせしてしまう可能性が有りますので）。夜間・休診日は局番無しの１１９番へおかけください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小笠原村診療所",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/iryou/iryou_sinryojo/",
+        "title": "小笠原村診療所について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村診療所",
+        "contactPhone": "04998-2-3800",
+        "contactEx": null,
+        "contactEmail": "hospi@vill.ogasawara.tokyo.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1002101",
+        "contactAddress": "東京都小笠原村父島字清瀬"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+1+UM45",
+        "organization": "6000020134210",
+        "compartment": "小笠原村医療課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "予防接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "予防接種\n予防接種予診票や接種スケジュールは乳児家庭全戸訪問の際にお渡ししています。子どもの定期予防接種は法定年齢内に無料で受けられます。予防接種の日程は村民だよりでお知らせします。また任意接種の一部は助成が受けられます。",
+      "target": {
+        "targetPersons": "予防接種予診票や接種スケジュールは乳児家庭全戸訪問の際にお渡ししています。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "予防接種予診票や接種スケジュールは乳児家庭全戸訪問の際にお渡ししています。子どもの定期予防接種は法定年齢内に無料で受けられます。予防接種の日程は村民だよりでお知らせします。また任意接種の一部は助成が受けられます。",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "予防接種予診票や接種スケジュールは乳児家庭全戸訪問の際にお渡ししています。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小笠原村村民課福祉係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/kosodate/",
+        "title": "子育て支援"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村村民課福祉係",
+        "contactPhone": "04998-2-3939",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+        "zipCode": "1002101",
+        "contactAddress": "東京都小笠原村父島字西町"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+1+UM54",
+        "organization": "6000020134210",
+        "compartment": "小笠原村村民課福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "任意予防接種",
+        "shortName": "予防接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。\nこのうち小笠原村では、次の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+      "description": "予防接種\n予防接種予診票や接種スケジュールは乳児家庭全戸訪問の際にお渡ししています。子どもの定期予防接種は法定年齢内に無料で受けられます。予防接種の日程は村民だよりでお知らせします。また任意接種の一部は助成が受けられます。",
+      "target": {
+        "targetPersons": "予防接種予診票や接種スケジュールは乳児家庭全戸訪問の際にお渡ししています。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "予防接種予診票や接種スケジュールは乳児家庭全戸訪問の際にお渡ししています。子どもの定期予防接種は法定年齢内に無料で受けられます。予防接種の日程は村民だよりでお知らせします。また任意接種の一部は助成が受けられます。",
+        "monetarySupport": "任意接種の一部は助成が受けられます。",
+        "materiallySupport": "予防接種"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "予防接種予診票や接種スケジュールは乳児家庭全戸訪問の際にお渡ししています。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小笠原村村民課福祉係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/kosodate/",
+        "title": "子育て支援"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村村民課福祉係",
+        "contactPhone": "04998-2-3939",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+        "zipCode": "1002101",
+        "contactAddress": "東京都小笠原村父島字西町"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+1+UM55",
+        "organization": "6000020134210",
+        "compartment": "小笠原村村民課福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "各小児任意予防接種費助成要綱",
+        "regulationArticle": "各要綱による"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所②",
+        "shortName": "母島診療所"
+      },
+      "summary": "小笠原村では、夜間や日曜・祝日、年末年始に、当番制で診療を行っています。",
+      "description": "概要\n|開設者|渋谷　正昭（小笠原村長）|\n|管理者|阿部　一貴　医師|\n|診療科目|内科、小児科、外科、整形外科、産婦人科、眼科、耳鼻咽喉科、皮膚科、精神科、歯科 （産婦人科は年6回、耳鼻科・眼科・小児科は年2回、整形外科・皮膚科は年1回の専門診療あり）|\n|病床数|2室4床|\n|施設概要|鉄筋コンクリート造2階建て、延床面積７４３．３m2|\n|現在施行可能な検査・治療|一般血液・尿・脳脊髄液検査（特殊採血等は内地へ検体送付）、血液ガス分析、単純レントゲン、レントゲン透視検査、CT検査、心電図、上部消化管内視鏡、上部下部消化管造影検査、超音波検査、牽引療法、液体窒素による凍結療法、外来での小外科手術 ※MRI、透析療法、高気圧酸素療法は行なえません。|\n|診療所内設備|CT装置、自動血液検査装置、レントゲン撮影室、歯科CTレントゲン撮影装置、超音波検査装置、上部消化管内視鏡電子スコープ、牽引装置、心電図モニター、人工呼吸器、手術室、産科処置室、分娩監視装置、眼科用細隙灯、画像伝送装置、患者搬送用車両、自家発電設備|\n沿革・所在地\n母島診療所概観\n沿革\n昭和４７年　母島元地に開設 平成　６年　現在の場所に移築\n所在地\n〒100-2211東京都小笠原村母島字元地 電話：04998-3-2115 Fax：04998-3-2107 E-mail：hospi@vill.ogasawara.tokyo.jp\n診療時間\n||医　科|歯　科|\n|:----|:----|:----|\n|受　付|午前８時３０分～午前１１時 水曜のみ午後１時３０分～３時３０分も受付 一部予約制|予約制。 午前８時３０分以降及び診療時間内随時受付。|\n|診　療|午前：９時～１２時 午後：２時～５時|午前：９時～１２時 午後：２時～４時３０分|\n|休診日|土・日曜日、祝日、年末年始　但し医科急患は随時対応|<|\n|救　急|随時対応。平日午後は診療所へ事前に電話連絡をお願いします（直接来院されても手術中であったり、往診などでお待たせしてしまう可能性が有ります）。夜間・休診日は局番なしの１１９番へおかけください。|診療時間内随時対応。夜間休診日は局番なしの１１９番へおかけください。|\n",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "母島診療所",
+        "implementationAddress": "東京都小笠原村母島字元地"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "随時対応。平日午後は診療所へ事前に電話連絡をお願いします（直接来院されても手術中であったり、往診などでお待たせしてしまう可能性が有りますので）。夜間・休診日は局番無しの１１９番へおかけください。",
+      "procedurePersons": null,
+      "procedureMethod": "随時対応。平日午後は診療所へ事前に電話連絡をお願いします（直接来院されても手術中であったり、往診などでお待たせしてしまう可能性が有りますので）。夜間・休診日は局番無しの１１９番へおかけください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "母島診療所",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/iryou/iryou_hahajima/",
+        "title": "母島診療所について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "母島診療所",
+        "contactPhone": "04998-3-2115",
+        "contactEx": null,
+        "contactEmail": "hospi@vill.ogasawara.tokyo.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1002211",
+        "contactAddress": "東京都小笠原村母島字元地"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+2+UM45",
+        "organization": "6000020134210",
+        "compartment": "小笠原村医療課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

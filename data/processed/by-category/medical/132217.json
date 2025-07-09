@@ -1,0 +1,3399 @@
+{
+  "version": "2025-07-09T05:55:17.828Z",
+  "areaCode": "132217",
+  "areaName": "清瀬市",
+  "category": "medical",
+  "count": 26,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦訪問",
+        "shortName": "こんにちは赤ちゃん事業（乳児家庭全戸訪問事業）"
+      },
+      "summary": "妊産婦の方（妊娠中または出産後1年以内）を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、妊娠期間中や出産後の不安や悩みについての相談等を行います。",
+      "description": "生後4か月までに、すべてのご家庭に助産師や保健師、看護師が訪問し、赤ちゃんの育て方やお母さんの健康など、日常生活全般についてのご相談をお受けします。\n\n新生児訪問指導員による訪問と母子保健推進員による訪問があります。\n\n【対象】\n\n生後4か月までの赤ちゃんがいるご家庭\n\n（長期里帰りなどご事情のある方はご相談ください。）\n\n新生児訪問指導員による訪問\n「出生通知票」に基づき、生後2か月までの赤ちゃんがいるご家庭を対象に、市から委託を受けた助産師や保健師がご家庭に伺います。赤ちゃんの育て方やお母さんの健康の他、訪問時にお母さんの産後のストレスについてのアンケートを実施し、その結果を確認しながら幅広くご相談に応じます。赤ちゃんの体重測定があります。（無料）\n\n訪問の際は、事前にご連絡させていただきます。\n\nなお、出生体重が2000g未満の赤ちゃんや特別な治療を必要とした赤ちゃんには、市の保健師が訪問します。また、入院中からもご相談をお受けします。\n\n母子保健推進員による訪問\n生後4か月までの赤ちゃんがいる、新生児訪問指導を受けていないご家庭を対象に、市の母子保健推進員がご家庭に伺い、赤ちゃんとお母さんの健康状態を確認したり、市の母子保健事業などをご紹介します。清瀬市独自の事業です。赤ちゃんの体重測定はありません。（無料）\n\n訪問の際は、事前にご連絡させていただきます。",
+      "target": {
+        "targetPersons": "生後4か月までの赤ちゃんがいる、新生児訪問指導を受けていないご家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "訪問の際は、事前にご連絡させていただきます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/ninsinsyussan/syussan/1005167/1005170.html",
+        "title": "こんにちは赤ちゃん事業（乳児家庭全戸訪問事業）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て支援課母子保健係",
+        "contactPhone": "042-497-2077",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "2048511",
+        "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階"
+      },
+      "area": {
+        "areaCode": "132217;清瀬市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132217+1+UM11",
+        "organization": "3000020132217",
+        "compartment": "子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-05",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "清瀬市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条（妊産婦の訪問指導等）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て広場",
+        "shortName": "つどいの広場"
+      },
+      "summary": "市内には「つどいの広場」が６か所あります。「つどいの広場」は赤ちゃんから小学校に行く前の乳幼児が、お父さん・お母さん、おじいちゃん・おばあちゃんと一緒に遊べます。「つどいの広場」では市内の子育て情報が得られます。また、アドバイザーが常駐していますので育児相談なども出来ます。ぜひお気軽にお出かけください。",
+      "description": "つどいの広場\nページ番号1005234　 更新日 2023年8月28日印刷大きな文字で印刷\nおしらせ\nつどいの広場　全広場共通\n混雑時は1時間程過ごされた親子の方にお声掛けして、時間内退出にご協力いただく場合があります。\n\nころぽっくる　つどいの広場\n\n【ご利用時間】\n10時00分～15時00分\n\nイベント\n野塩赤ちゃんひろば\n開催日毎週金曜日時間10時00分～12時00分\n場所\n野塩つどいの広場\n内容\n離乳食相談、絵本読み聞かせ、からだの相談、ふれあい遊び\n定員\n10組\n参加費\n100円\n予約\n予約不要\nあいあい赤ちゃんひろば\n開催日\n毎週月曜日(祝日はお休みです)\n時間\n13時30分～15時00分\n場所\nあいあいひろば\n持ち物\nバスタオル\n参加費\n100円\n定員\n8組\n予約\n予約不要\n下宿赤ちゃんひろば\n開始日\n毎週木曜\n日時\n10時00分～12時00分\n内容\n親子でふれあい遊び、ベビーマッサージ、離乳食相談、赤ちゃんへの読み聞かせ（日によって異なります）\n持ち物\nバスタオル\n参加費\n100円\n定員\n8組\n備考\n予約不要\n赤ちゃんとお母さんのためのおはなしのじかん\n\n【実施会場・日時】\n\n1　竹丘つどいの広場\n\n・毎月第3金曜日\n\n・時間：11時00分から11時20分\n\n2　元町つどいの広場\n\n　・（1）毎月第1木曜日　（2）毎月第3水曜日\n・（1）時間：13時15分から13時35分　（2）時間：11時00分から11時20分\n\n3　野塩つどいの広場\n\n・毎月第3木曜日\n\n・時間：11時40分から12時00分\n\n4　ころぽっくる\n\n・毎月第2水曜日\n\n・時間：11時00分から11時20分\n\n【対　象】\n\n　図書館来館者及び、「つどいの広場」に来場している親子\n\n清瀬市では市内の5ヶ所で、常設の「つどいの広場」を週6日開設しています。\nまた、ほとんどの広場が休館となる月曜日に、「野塩出張広場」を開設しています。\n「つどいの広場」は、赤ちゃんから小学校へ行く前の子ども達とパパ・ママ、おじいちゃん・おばあちゃんが一緒に遊べる場所です。\n\nそれぞれ子育てアドバイザーを置き、子育ての不安や悩みにお答えしています。\n\nまた、わらべ歌や折り紙遊び、子どもの発達と食事についての講座など、乳幼児をお持ちの皆さんが、子育てをより楽しめるような催しを計画しています。\n\nどうぞご利用ください。お待ちしています。\n\n「つどいの広場」一覧\nころぽっくる　つどいの広場\n場所\n児童センター（ころぽっくる内）注：駐車場あり\n開催日\n週6日　火曜日・年末年始を除く時間\n午前10時から午後3時まで\n\n※午後3時から午後5時まではアドバイザー不在の上開放\n\n清瀬市児童センター\n元町　つどいの広場\n場所\n清瀬けやきホール（3階子育て支援室）注：駐車場なし\n開催日\n週6日（月曜日・祝祭日・年末年始を除く）\n時間\n午前10時から午後3時まで\nコーヒータイム有\n委託\n事業NPO法人　子育てネットワーク・ピッコロ\n清瀬けやきホール\n竹丘　つどいの広場\n場所\n竹丘地域市民センター（第3会議室）注：駐車場あり\n開催日\n週6日（月曜日・祝祭日・年末年始を除く）\n時間\n午前10時から午後3時まで\nコーヒータイム有\n委託\n事業NPO法人　子育てネットワーク・ピッコロ\n竹丘地域市民センター\n野塩　つどいの広場\n場所\n野塩地域市民センター\n開催日\n週6日（月曜日・年末年始を除く）\n時間\n午前10時から午後3時まで\n委託\n事業NPO法人　ウイズアイ\n野塩地域市民センター\n下宿　つどいの広場\n場所\n下宿地域市民センター注：駐車場あり\n開催日\n週6日（月曜日・年末年始を除く)\n時間\n午前10時から午後3時まで\n委託\n事業NPO法人　ウイズアイ\n下宿地域市民センター\n梅園　つどいの広場\n\n場所\nあいあいの家（NPO法人ウイズアイ事務所）\n開催日\n週1日（祝日・年末年始を除く月曜日）\n時間\n午前10時から午後3時まで\n委託\n事業NPO法人　ウイズアイ\n関連ファイル\nあいあいの家　案内図 （PDF 163.8KB）;https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/005/234/aiaimap.pdf",
+      "target": {
+        "targetPersons": "未就学児童とその保護者（父母、祖父母）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "未就学児童とその保護者（父母、祖父母）"
+      },
+      "support": {
+        "description": "子育てアドバイザーが常駐し、子育ての不安や悩みにお答えしています。",
+        "monetarySupport": null,
+        "materiallySupport": "子育てアドバイザーが常駐し、子育ての不安や悩みにお答えしています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "ころぽっくるつどいの広場、元町つどいの広場、竹丘つどいの広場、下宿つどいの広場、野塩つどいの広場、梅園つどいの広場",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "15:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kodomokyousitu/1005234.html",
+        "title": "つどいの広場"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭支援センター子ども家庭支援係",
+        "contactPhone": "042-495-7701",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "2048511",
+        "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター2階"
+      },
+      "area": {
+        "areaCode": "132217;清瀬市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132217+1+UM112",
+        "organization": "3000020132217",
+        "compartment": "子ども家庭支援センター子ども家庭支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-08-28",
+      "odInformation": {
+        "updateDate": "2024-07-18",
+        "updater": "清瀬市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第6項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小児科救急",
+        "shortName": "平日準夜間小児救急診療"
+      },
+      "summary": "清瀬市では、多摩北部医療センターと佐々総合病院で、休日や夜間に、赤ちゃんやお子さんが救急の際の診療を行っています。",
+      "description": "平日準夜間小児救急診療の概要\nページ番号1009955　 更新日 2022年12月1日印刷大きな文字で印刷\n清瀬市では、市民の医療不安を解消し生命と健康を守るため、お子さんの平日準夜間小児救急診療を実施しています。\n\n　新型コロナウイルス感染症の感染拡大防止のため、必ずマスクを着用してください。\n他の患者さんや医療従事者への感染防止のため、発熱のある方は医療機関に直接行かず、下記にお問い合わせください。\n\n1.かかりつけ医\n\n2.東京都発熱相談センター（24時間対応。土日祝日含む。）\n\n|症状相談等を希望される方向け<br>（看護師・保健師が対応）|医療機関案内を希望される方向け<br>（一般オペレーターが対応）|\n|:----|:----|\n|03-6258-5780<br>03-5320-4592<br>03-5320-4551<br>03-5320-4411|\n|03-5320-4327<br>03-5320-5971<br>03-5320-7030|\n\n平日準夜間小児救急診療\n15歳以下のお子様を対象に多摩北部医療センターと佐々総合病院で『平日準夜間小児救急診療』を実施しています。診療時間はいずれも午後7時30分から午後10時30分です。\n\n多摩北部医療センター（東村山市青葉町1丁目7-1）電話番号　042-396-3811（代表）\n佐々総合病院（西東京市田無町4丁目24-15）電話番号　042-461-1535（代表）\n多摩北部医療センター（外部リンク）;https://www.tmhp.jp/tamahoku/\n佐々総合病院（外部リンク）;https://www.sassa-hospital.com/\n\n救急診療・休日診療については下記リンクをご覧ください。\n\n休日診療（内科等）・休日診療（歯科）の概要;https://www.city.kiyose.lg.jp/kurashi/bousai_anzen/shoubou_kyukyu/1003306/1003309.html",
+      "target": {
+        "targetPersons": "15歳以下のお子様",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 15,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "15歳以下のお子様"
+      },
+      "support": {
+        "description": "診療",
+        "monetarySupport": null,
+        "materiallySupport": "診療"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "多摩北部医療センター,佐々総合病院",
+        "implementationAddress": "東村山市青葉町1丁目7-1,西東京市田無町4丁目24-15"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "19:30",
+        "toHM": "22:30",
+        "condiutilizationConditionstions": "多摩北部医療センターは月～金曜日,佐々総合病院月、水、木、金曜日"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "19:30",
+        "toYMD": null,
+        "toHM": "22:30",
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.tmhp.jp/tamahoku/",
+          "title": "多摩北部医療センター（外部リンク）"
+        },
+        {
+          "uri": "https://www.sassa-hospital.com/",
+          "title": "佐々総合病院（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kodomokenkoukanri/kodomonobyouki/1009955.html",
+        "title": "平日準夜間小児救急診療の概要"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て支援課母子保健係",
+        "contactPhone": "042-497-2077",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "2048511",
+        "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階"
+      },
+      "area": {
+        "areaCode": "132217;清瀬市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132217+1+UM114",
+        "organization": "3000020132217",
+        "compartment": "子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-12-01",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "清瀬市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "救急医療対策事業実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関する相談窓口一覧",
+        "shortName": "子育て相談"
+      },
+      "summary": "清瀬市内の子育てに関する相談窓口の一覧です。",
+      "description": "子育て相談\nページ番号1005239　印刷大きな文字で印刷\n親子のための相談LINE;https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1012057.html\n妊娠・出産に関するご相談;https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005242.html\n不妊症・不育症に関する相談;https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005243.html\n母子・父子・女性相談;https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005244.html\nきよせ子どもショートステイ事業;https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005350.html\n清瀬市多胎児サポーター事業;https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1013494.html\n子ども家庭相談;https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005248.html\n子育てに関する夜間およびその他の相談窓口;https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005249.html\n虐待かな？と思ったら;https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005250.html",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1012057.html",
+          "title": "親子のための相談LINE"
+        },
+        {
+          "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005250.html",
+          "title": "虐待かな？と思ったら"
+        },
+        {
+          "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005243.html",
+          "title": "不妊症・不育症に関する相談"
+        },
+        {
+          "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005249.html",
+          "title": "子育てに関する夜間およびその他の相談窓口"
+        },
+        {
+          "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005242.html",
+          "title": "妊娠・出産に関するご相談"
+        },
+        {
+          "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005397.html",
+          "title": "清瀬市養育支援ヘルパー（育児支援ヘルパー）派遣事業"
+        },
+        {
+          "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005248.html",
+          "title": "子ども家庭相談"
+        },
+        {
+          "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005244.html",
+          "title": "母子・父子・女性相談"
+        },
+        {
+          "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005350.html",
+          "title": "きよせ子どもショートステイ事業"
+        },
+        {
+          "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1013494.html",
+          "title": "清瀬市多胎児サポーター事業"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/index.html",
+        "title": "子育て相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132217;清瀬市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132217+1+UM115",
+        "organization": "3000020132217",
+        "compartment": null,
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-23",
+        "updater": "清瀬市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "新生児訪問",
+        "shortName": "こんにちは赤ちゃん事業（乳児家庭全戸訪問事業）"
+      },
+      "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+      "description": "生後4か月までに、すべてのご家庭に助産師や保健師、看護師が訪問し、赤ちゃんの育て方やお母さんの健康など、日常生活全般についてのご相談をお受けします。\n\n新生児訪問指導員による訪問と母子保健推進員による訪問があります。\n\n【対象】\n\n生後4か月までの赤ちゃんがいるご家庭\n\n（長期里帰りなどご事情のある方はご相談ください。）\n\n新生児訪問指導員による訪問\n「出生通知票」に基づき、生後2か月までの赤ちゃんがいるご家庭を対象に、市から委託を受けた助産師や保健師がご家庭に伺います。赤ちゃんの育て方やお母さんの健康の他、訪問時にお母さんの産後のストレスについてのアンケートを実施し、その結果を確認しながら幅広くご相談に応じます。赤ちゃんの体重測定があります。（無料）\n\n訪問の際は、事前にご連絡させていただきます。\n\nなお、出生体重が2000g未満の赤ちゃんや特別な治療を必要とした赤ちゃんには、市の保健師が訪問します。また、入院中からもご相談をお受けします。\n\n母子保健推進員による訪問\n生後4か月までの赤ちゃんがいる、新生児訪問指導を受けていないご家庭を対象に、市の母子保健推進員がご家庭に伺い、赤ちゃんとお母さんの健康状態を確認したり、市の母子保健事業などをご紹介します。清瀬市独自の事業です。赤ちゃんの体重測定はありません。（無料）\n\n訪問の際は、事前にご連絡させていただきます。",
+      "target": {
+        "targetPersons": "「出生通知票」に基づき、生後2か月までの赤ちゃんがいるご家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "訪問の際は、事前にご連絡させていただきます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/ninsinsyussan/syussan/1005167/1005170.html",
+        "title": "こんにちは赤ちゃん事業（乳児家庭全戸訪問事業）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て支援課母子保健係",
+        "contactPhone": "042-497-2077",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "2048511",
+        "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階"
+      },
+      "area": {
+        "areaCode": "132217;清瀬市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132217+1+UM13",
+        "organization": "3000020132217",
+        "compartment": "子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-05",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "清瀬市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第11条（新生児の訪問指導）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+        "shortName": "こんにちは赤ちゃん事業（乳児家庭全戸訪問事業）"
+      },
+      "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+      "description": "生後4か月までに、すべてのご家庭に助産師や保健師、看護師が訪問し、赤ちゃんの育て方やお母さんの健康など、日常生活全般についてのご相談をお受けします。\n新生児訪問指導員による訪問と母子保健推進員による訪問があります。",
+      "target": {
+        "targetPersons": "生後4か月までの赤ちゃんがいるご家庭\n（長期里帰りなどご事情のある方はご相談ください。）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "新生児訪問指導員による訪問\n「出生通知票」に基づき、生後2か月までの赤ちゃんがいるご家庭を対象に、市から委託を受けた助産師や保健師がご家庭に伺います。赤ちゃんの育て方やお母さんの健康の他、訪問時にお母さんの産後のストレスについてのアンケートを実施し、その結果を確認しながら幅広くご相談に応じます。赤ちゃんの体重測定があります。（無料）\n訪問の際は、事前にご連絡させていただきます。\nなお、出生体重が2000g未満の赤ちゃんや特別な治療を必要とした赤ちゃんには、市の保健師が訪問します。また、入院中からもご相談をお受けします。\n母子保健推進員による訪問\n生後4か月までの赤ちゃんがいる、新生児訪問指導を受けていないご家庭を対象に、市の母子保健推進員がご家庭に伺い、赤ちゃんとお母さんの健康状態を確認したり、市の母子保健事業などをご紹介します。清瀬市独自の事業です。赤ちゃんの体重測定はありません。（無料）\n訪問の際は、事前にご連絡させていただきます。",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/ninsinsyussan/syussan/1005167/1005170.html",
+        "title": "こんにちは赤ちゃん事業（乳児家庭全戸訪問事業）"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/ninsinsyussan/syussan/1005167/1005170.html",
+          "title": "子育て支援課へのお問い合わせ"
+        }
+      ],
+      "contact": {
+        "contactName": "子育て支援課母子保健係",
+        "contactPhone": "042-497-2077",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX：042-495-7711",
+        "zipCode": "2048511",
+        "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階"
+      },
+      "area": {
+        "areaCode": "132217;清瀬市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132217+1+UM14",
+        "organization": "3000020132217",
+        "compartment": "子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/04/05",
+      "odInformation": {
+        "updateDate": "2025-02-10",
+        "updater": "清瀬市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第21条の10の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出産育児一時金",
+        "shortName": "出産育児一時金"
+      },
+      "summary": "国民健康保険に加入している方が出産したときは、その世帯主からの申請により、出産育児一時金を支給します。原則として直接支払制度により、医療機関に直接お支払いします。\nなお、直接支払制度に対応していない医療機関などで出産された場合も、「受取代理制度」や出産後の申請により、出産育児一時金の支給を受けることができます。",
+      "description": "1．対象者\n清瀬市の国民健康保険に加入している方がお産（妊娠12週以上の死産・流産を含む）をしたとき（お産の日から6か月前まで職場の健康保険に本人が加入していた場合は除きます）\n\n2．支給額\n1人500,000円\n\n令和5年4月1日より420,000円から500,000円に改定しました。\n\n3．申請方法\n基本的に、市より出産医療機関等に直接支払をしますので、申請は不要です。直接払いを希望しない場合や海外出産の場合は下記のものが必要です。\n\n直接払いを使用しない場合\n国民健康保険被保険者証\n分娩・医療機関発行の領収・明細書\n直接支払制度不活用の分娩・医療機関との合意文書\n領収書\n海外出産\n国民健康保険被保険者証\nパスポート\n出生の証明\n※出産をした事実の確認できる医療・行政機関等の証明（和訳が必要です）\n領収書\n出産日の翌日から2年を経過すると支給されませんのでご注意ください。",
+      "target": {
+        "targetPersons": "清瀬市の国民健康保険に加入している方がお産（妊娠12週以上の死産・流産を含む）をしたとき（お産の日から6か月前まで職場の健康保険に本人が加入していた場合は除きます）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "1人500,000円",
+        "monetarySupport": "1人500,000円",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "基本的に、市より出産医療機関等に直接支払をしますので、申請は不要です。直接払いを希望しない場合や海外出産の場合は下記のものが必要です。\n\n直接払いを使用しない場合\n国民健康保険被保険者証\n分娩・医療機関発行の領収・明細書\n直接支払制度不活用の分娩・医療機関との合意文書\n領収書\n海外出産\n国民健康保険被保険者証\nパスポート\n出生の証明\n※出産をした事実の確認できる医療・行政機関等の証明（和訳が必要です）\n領収書\n出産日の翌日から2年を経過すると支給されませんのでご注意ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産日の翌日から2年を経過すると支給されませんのでご注意ください。"
+      },
+      "electronicSubmission": false,
+      "belongings": "基本的に、市より出産医療機関等に直接支払をしますので、申請は不要です。直接払いを希望しない場合や海外出産の場合は下記のものが必要です。\n\n直接払いを使用しない場合\n国民健康保険被保険者証\n分娩・医療機関発行の領収・明細書\n直接支払制度不活用の分娩・医療機関との合意文書\n領収書\n海外出産\n国民健康保険被保険者証\nパスポート\n出生の証明\n※出産をした事実の確認できる医療・行政機関等の証明（和訳が必要です）\n領収書",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "保険年金課国保係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kiyose.lg.jp/kurashi/kokuhonenkin/kokuminkenkouhoken/1003660/1003663.html",
+        "title": "出産育児一時金"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保険年金課国保係",
+        "contactPhone": "042-497-2047",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "2048511",
+        "contactAddress": "東京都清瀬市中里5-842　清瀬市役所1階"
+      },
+      "area": {
+        "areaCode": "132217;清瀬市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132217+1+UM19",
+        "organization": "3000020132217",
+        "compartment": "保険年金課国保係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-09",
+        "updater": "清瀬市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民健康保険法",
+        "regulationArticle": "第58条(第二節　その他の給付)"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003",
+          "015"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "母子父子寡婦福祉資金",
+        "shortName": "母子福祉資金・父子福祉資金貸付制度"
+      },
+      "summary": "母子家庭の母、父子家庭の父の方の経済的自立や、扶養しているお子さんの福祉増進のために、必要な資金をお貸しする制度です。",
+      "description": "母子家庭・父子家庭又は配偶者のいない女性の方への貸付金です。修学・就職・転宅等目的別に資金が分かれており、必要な額を各資金の限度額内でお貸ししています。\n\n（1）母子福祉資金・父子福祉資金貸付制度\n就学支度資金\n貸付金限度額\n入学する学校の種別により、限度額を設定\n（例）\n私立高校：420,000円\n国立大学：420,000円\n私立大学：590,000円\n据置期間\n貸付による修学終了後　6カ月\n償還期間20年以内\n貸付利率\n無利子\n摘要\n児童又は子が高校、短大、大学、専修学校等に入学するために必要な資金（入学金、施設費など）\n修学資金\n貸付金限度額\n学校の種別により、限度額を設定\n（例）\n私立高校：月額　45,000円\n私立短大：月額　93,500円\n私立大学：月額　108,500円\n据置期間\n貸付による修学終了後6か月\n償還期間\n20年以内\n貸付利率\n無利子\n摘要\n児童又は子が高校、短大、大学等において修学するのに必要な資金（授業料など）\n就職支度資金\n貸付金限度額\n100,000円\n据置期間\n貸付の日から1年間\n償還期間\n6年以内\n貸付利率\n無利子\n摘要\n就職するために直接必要な被服、履物等を購入する資金\n（保証人がいない場合は有利子）\n\n（注）貸付金の種類はこの他にも、事業開始資金・事業継続資金・技能習得資金・修業資金・医療介護資金・生活資金・住宅資金・転宅資金・結婚資金があります。\n\n対象となる方\n都内に6か月以上在住している母子家庭の母、父子家庭の父等で現在20歳未満の児童を扶養している方。また、貸付が自立につながると判断され、償還（返済）計画を立てることができる方が対象になります。\n\n（注）就学支度資金・修学資金・転宅資金については申込み時に都内にお住まいの方も対象になります。\n\n（2）女性福祉資金貸付制度\n技能習得資金\n貸付金限度額\n技能を習得する期間中（5年以内）\n月額　68,000円以内\n据置期間\n習得期間満了後1年間\n償還期間\n20年以内\n貸付利率\n無利子\n摘要\n就職するために必要な知識技能を習得するために必要な資金（授業料、教科書代など）\n医療介護資金\n貸付金限度額\n医療 340,000円以内（特別の場合480,000円）\n介護 500,000円以内\n据置期間\n医療または介護を受ける期間満了後6か月\n償還期間\n5年以内\n貸付利率\n無利子\n摘要\n女性または女性が扶養している子が医療を受けるのに必要な資金または女性が介護保険によるサービス（介護）を受けるために必要な資金。（保証人がない場合は有利子)\n就学支度資金\n貸付金限度額\n学校の種別により限度額を設定\n(例)\n私立高校：420,000円\n国立大学：420,000円\n私立大学：590,000円\n据置期間\n貸付による修学終了後6か月\n償還期間\n20年以内\n貸付利率\n無利子\n摘要\n女性または女性が扶養している子が入学するために必要な資金（入学金、施設費など）\n（注）貸付金の種類は、この他にも、事業開始資金・事業継続資金・就職支度資金・住宅資金・転宅資金・生活資金・結婚資金・修学資金があります。\n\n対象となる方\n都内に6か月以上在住の、配偶者がいない方で、親子・兄弟姉妹などを扶養している方。\n年間所得2,036,000円以下の方で、かつて母子家庭の母として20歳未満の子を扶養したことのある方、又は婚姻歴のある40歳以上の方。\nいずれも貸付が自立につながると判断され、償還（返済）計画を立てることができる方。\n\n（注）就学支度資金・修学資金・転宅資金については申込み時に都内にお住まいの方も対象になります。",
+      "target": {
+        "targetPersons": "都内に6か月以上在住している母子家庭の母、父子家庭の父等で現在20歳未満の児童を扶養している方。また、貸付が自立につながると判断され、償還（返済）計画を立てることができる方が対象になります。\n\n（注）就学支度資金・修学資金・転宅資金については申込み時に都内にお住まいの方も対象になります。",
+        "lessThan": {
+          "targetAge": 20,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "20歳未満の児童を扶養している方"
+      },
+      "support": {
+        "description": "就学支度資金\n貸付金限度額\n入学する学校の種別により、限度額を設定\n（例）\n私立高校：420,000円\n国立大学：420,000円\n私立大学：590,000円\n据置期間\n貸付による修学終了後　6カ月\n償還期間20年以内\n貸付利率\n無利子\n摘要\n児童又は子が高校、短大、大学、専修学校等に入学するために必要な資金（入学金、施設費など）\n修学資金\n貸付金限度額\n学校の種別により、限度額を設定\n（例）\n私立高校：月額　45,000円\n私立短大：月額　93,500円\n私立大学：月額　108,500円\n据置期間\n貸付による修学終了後6か月\n償還期間\n20年以内\n貸付利率\n無利子\n摘要\n児童又は子が高校、短大、大学等において修学するのに必要な資金（授業料など）\n就職支度資金\n貸付金限度額\n100,000円\n据置期間\n貸付の日から1年間\n償還期間\n6年以内\n貸付利率\n無利子\n摘要\n就職するために直接必要な被服、履物等を購入する資金\n（保証人がいない場合は有利子）\n\n（注）貸付金の種類はこの他にも、事業開始資金・事業継続資金・技能習得資金・修業資金・医療介護資金・生活資金・住宅資金・転宅資金・結婚資金があります。",
+        "monetarySupport": "就学支度資金\n貸付金限度額\n入学する学校の種別により、限度額を設定\n（例）\n私立高校：420,000円\n国立大学：420,000円\n私立大学：590,000円\n据置期間\n貸付による修学終了後　6カ月\n償還期間20年以内\n貸付利率\n無利子\n摘要\n児童又は子が高校、短大、大学、専修学校等に入学するために必要な資金（入学金、施設費など）\n修学資金\n貸付金限度額\n学校の種別により、限度額を設定\n（例）\n私立高校：月額　45,000円\n私立短大：月額　93,500円\n私立大学：月額　108,500円\n据置期間\n貸付による修学終了後6か月\n償還期間\n20年以内\n貸付利率\n無利子\n摘要\n児童又は子が高校、短大、大学等において修学するのに必要な資金（授業料など）\n就職支度資金\n貸付金限度額\n100,000円\n据置期間\n貸付の日から1年間\n償還期間\n6年以内\n貸付利率\n無利子\n摘要\n就職するために直接必要な被服、履物等を購入する資金\n（保証人がいない場合は有利子）\n\n（注）貸付金の種類はこの他にも、事業開始資金・事業継続資金・技能習得資金・修業資金・医療介護資金・生活資金・住宅資金・転宅資金・結婚資金があります。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "都内に6か月以上在住している母子家庭の母、父子家庭の父等で現在20歳未満の児童を扶養している方。また、貸付が自立に繋がると判断され、償還（返済）計画を立てることができる方。",
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "生活福祉課庶務係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatehojo/hitorioyakateihojo/1005318.html",
+        "title": "母子・父子・女性福祉資金"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "生活福祉課庶務係",
+        "contactPhone": "042-497-2058",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "2048511",
+        "contactAddress": "東京都清瀬市中里5-842　清瀬市役所1階"
+      },
+      "area": {
+        "areaCode": "132217;清瀬市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132217+1+UM28",
+        "organization": "3000020132217",
+        "compartment": "生活福祉課庶務係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-08-29",
+      "odInformation": {
+        "updateDate": "2024-07-10",
+        "updater": "清瀬市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子及び父子並びに寡婦福祉法",
+        "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+        "shortName": "妊婦家庭訪問"
+      },
+      "summary": "妊娠中は気持ちが不安定になったり、身体の変化に戸惑うこともあります。清瀬市では、保健師または助産師がご自宅にお伺いして妊娠中の過ごし方や出産準備等の相談を承っております。訪問は無料のため、ぜひご利用ください。",
+      "description": "妊娠中は気持ちが不安定になったり、身体の変化に戸惑うこともあります。清瀬市では、保健師または助産師がご自宅にお伺いして妊娠中の過ごし方や出産準備等の相談を承っております。訪問は無料のため、ぜひご利用ください。\n\n訪問日程につきましては、ご都合をお伺いしてから決定いたします。家庭訪問をご希望の方は下記までご連絡ください。\n\nまた、妊娠中の電話相談も受け付けておりますので、お気軽にご利用ください。",
+      "target": {
+        "targetPersons": "妊娠中の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "保健師または助産師がご自宅にお伺いして妊娠中の過ごし方や出産準備等の相談を承っております。",
+        "monetarySupport": null,
+        "materiallySupport": "保健師または助産師がご自宅にお伺いして妊娠中の過ごし方や出産準備等の相談を承っております。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "訪問日程につきましては、ご都合をお伺いしてから決定いたします。家庭訪問をご希望の方は下記までご連絡ください。\n\nまた、妊娠中の電話相談も受け付けておりますので、お気軽にご利用ください。",
+      "procedurePersons": null,
+      "procedureMethod": "訪問日程につきましては、ご都合をお伺いしてから決定いたします。家庭訪問をご希望の方は下記までご連絡ください。\n\nまた、妊娠中の電話相談も受け付けておりますので、お気軽にご利用ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/ninsinsyussan/ninsin/1005147/1005153.html",
+        "title": "妊婦家庭訪問"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て支援課母子保健係",
+        "contactPhone": "042-497-2077",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "2048511",
+        "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階"
+      },
+      "area": {
+        "areaCode": "132217;清瀬市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132217+1+UM34",
+        "organization": "3000020132217",
+        "compartment": "子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-08-29",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "清瀬市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "休日診療（内科等）・休日診療（歯科）の概要"
+      },
+      "summary": "清瀬市では、市民の医療不安を解消し生命と健康を守るため、休日や夜間の応急診療を実施しています。",
+      "description": "清瀬市では、市民の医療不安を解消し生命と健康を守るため、下記のように休日や夜間の応急診療を実施しています。\n\n他の患者さんや医療従事者への感染防止のため、医療機関に行かれる際にはマスクの着用をお願いします。\n\n※発熱のある場合は、医療機関に電話したうえで受診してください。\n\n※この他の情報については、下記関連リンクをご参照ください。\n\n休日診療（内科等）\n日曜日・祝日・年末年始（12月29日から1月3日）の午前9時から午後5時（受付時間は午後4時半まで）・午後5時から翌日午前9時の時間帯に、市内医療機関が輪番制で『休日急病診療』を実施しています。\nなお、昼の休憩時間は医療機関により異なりますので、該当の医療機関にお問い合わせください。\n\n休日診療（歯科）\n日曜日・祝日・年末年始（12月29日から1月3日）の午前9時30分から午後5時（受付時間は午後4時30分まで）の時間帯に、きよせボランティア・市民活動センター内の清瀬休日歯科応急センターにて『休日歯科診療』を実施しています。なお、正午から午後1時までは休診となります。夜間診療はございません。\n\n電話による案内\n清瀬消防署（電話番号　042-491-0119）または、東京都保健医療情報センター（電話番号　03-5272-0303）で電話案内しています。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "清瀬市では、市民の医療不安を解消し生命と健康を守るため、休日や夜間の応急診療を実施しています。",
+        "monetarySupport": null,
+        "materiallySupport": "清瀬市では、市民の医療不安を解消し生命と健康を守るため、休日や夜間の応急診療を実施しています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "休日診療（内科等）\n日曜日・祝日・年末年始（12月29日から1月3日）の午前9時から午後5時（受付時間は午後4時半まで）・午後5時から翌日午前9時の時間帯に、市内医療機関が輪番制で『休日急病診療』を実施しています。\nなお、昼の休憩時間は医療機関により異なりますので、該当の医療機関にお問い合わせください。\n\n休日診療（歯科）\n日曜日・祝日・年末年始（12月29日から1月3日）の午前9時30分から午後5時（受付時間は午後4時30分まで）の時間帯に、きよせボランティア・市民活動センター内の清瀬休日歯科応急センターにて『休日歯科診療』を実施しています。なお、正午から午後1時までは休診となります。夜間診療はございません。"
+      },
+      "implementationPlace": {
+        "implementationName": "休日診療（内科等）\n日曜日・祝日・年末年始（12月29日から1月3日）の午前9時から午後5時（受付時間は午後4時半まで）・午後5時から翌日午前9時の時間帯に、市内医療機関が輪番制で『休日急病診療』を実施しています。\nなお、昼の休憩時間は医療機関により異なりますので、該当の医療機関にお問い合わせください。\n\n休日診療（歯科）\n日曜日・祝日・年末年始（12月29日から1月3日）の午前9時30分から午後5時（受付時間は午後4時30分まで）の時間帯に、きよせボランティア・市民活動センター内の清瀬休日歯科応急センターにて『休日歯科診療』を実施しています。なお、正午から午後1時までは休診となります。夜間診療はございません。",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "休日診療（内科等）\n日曜日・祝日・年末年始（12月29日から1月3日）の午前9時から午後5時（受付時間は午後4時半まで）・午後5時から翌日午前9時の時間帯に、市内医療機関が輪番制で『休日急病診療』を実施しています。\nなお、昼の休憩時間は医療機関により異なりますので、該当の医療機関にお問い合わせください。\n\n休日診療（歯科）\n日曜日・祝日・年末年始（12月29日から1月3日）の午前9時30分から午後5時（受付時間は午後4時30分まで）の時間帯に、きよせボランティア・市民活動センター内の清瀬休日歯科応急センターにて『休日歯科診療』を実施しています。なお、正午から午後1時までは休診となります。夜間診療はございません。"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kiyose.lg.jp/kurashi/bousai_anzen/shoubou_kyukyu/1003306/index.html",
+          "title": "平日準夜間小児救急診療の概要"
+        },
+        {
+          "uri": "https://www.city.kiyose.lg.jp/kurashi/bousai_anzen/shoubou_kyukyu/1003306/index.html",
+          "title": "救急診療・休日診療"
+        },
+        {
+          "uri": "https://www.city.kiyose.lg.jp/kenkouiryouhukusi/covid19kansensyou/1007353.html",
+          "title": "感染に関する相談・問い合わせ"
+        },
+        {
+          "uri": "https://www.city.kiyose.lg.jp/kenkouiryouhukusi/covid19kansensyou/1012305.html",
+          "title": "感染したとき・感染が疑われるとき"
+        },
+        {
+          "uri": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize",
+          "title": "医療情報ネット（ナビイ）　厚生労働省（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kiyose.lg.jp/kurashi/bousai_anzen/shoubou_kyukyu/1003306/1003309.html",
+        "title": "休日診療（内科等）・休日診療（歯科）の概要"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康推進課健康推進係",
+        "contactPhone": "042-497-2075",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "2048511",
+        "contactAddress": "東京都清瀬市中里5-842　清瀬市役所2階"
+      },
+      "area": {
+        "areaCode": "132217;清瀬市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132217+1+UM45",
+        "organization": "3000020132217",
+        "compartment": "健康推進課健康推進係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-24",
+      "odInformation": {
+        "updateDate": "2024-07-11",
+        "updater": "清瀬市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "清瀬市の妊娠・出産に関する相談",
+        "shortName": "スマイルベビー妊婦面接"
+      },
+      "summary": "清瀬市では、妊娠から出産、子育て期にわたる切れ目のない支援を目指し、清瀬市版ネウボラ「スマイルベビーきよせ」を実施しています。その事業の一環として、妊娠の届出をされたすべての妊婦さんに「スマイルベビー妊婦面接」を実施します。",
+      "description": "清瀬市では、妊娠から出産、子育て期にわたる切れ目のない支援を目指し、清瀬市版ネウボラ「スマイルベビーきよせ」を実施しています。その事業の一環として、妊娠の届出をされたすべての妊婦さんに「スマイルベビー妊婦面接」を実施します。\n\n内容\n妊娠中、ママやパパが感じる悩みや不安、赤ちゃんが生まれてからの心配事等についてのご相談を保健師がお受けし、お一人お一人に合ったサポートを提案します。\nまた、「スマイルベビー妊婦面接」を受けられた方に、妊娠中からお使いいただける育児グッズをプレゼントします。\n\n場所\nしあわせ未来センター\n\n※令和6年2月29日までは、野塩地域市民センター、松山地域市民センターで妊娠の届出および母子健康手帳の受け取りができます。妊婦面接についてはしあわせ未来センターのみです。\n\n※事前予約の上しあわせ未来センターにお越しいただき、届出当日に妊婦面接を行います。代理人による届出をされた方、令和6年2月29日までに松山地域市民センター、野塩地域市民センターで妊娠の届出をされた方は、妊娠の届出後に面接の予約をお取りいただき、後日しあわせ未来センターで妊婦面接のみ行います。\n\n対象者\n妊娠の届出をされた方（妊娠中に転入してこられた方も対象です。転入の方は、妊婦健康診査受診票等の差し替えと妊婦面接を行います。）\n\n面接の流れ\nしあわせ未来センター\n【スマイルベビー妊婦面接の予約】\n\n下記、「スマイルベビー妊婦面接予約専用フォーム」よりご予約ください。\n\nご予約なく来所した場合も妊娠の届出及び母子健康手帳の交付は可能ですが、ご予約の方が優先となりますので、妊婦面接についてはお待ちいただくことや後日にさせていただく場合がありますので、ご了承ください。\n\nまた、予約時間の前後に他の予約の方がいらっしゃいますので、来所は予約時間通りにお願いいたします。ご予約時間より早くお越しの場合には、予約時間までお待ちいただくこともございますので、あらかじめご了承ください。また、ご予約時間より遅れる場合は母子保健係（042-497-2077）までご連絡ください。\n\n<妊婦面接受付可能時間>\n\n午前9時00分から午前11時30分\n\n午後1時00分から午後4時30分（土日祝日除く）\n\n※上記、妊婦面接受付可能時間以外の時間帯をご希望の方は、事前に子育て支援課母子保健係（042-497-2077）までご連絡ください。\n\n届け出る方：妊婦ご本人\n同時に妊婦面接を受けられた場合はその場で育児グッズをプレゼントします。\n\n届け出る方：代理の方\n「スマイルベビー妊婦面接」のご案内をお渡しします。\n後日、妊婦の方ご本人に予約をお取りいただき、しあわせ未来センターで妊婦面接となります。妊婦面接をお受けいただいた方へは育児グッズをプレゼントします。\n\n下記の「スマイルベビー妊婦面接予約専用フォーム」よりご予約ください。\n\n野塩地域市民センター・松山地域市民センター\n届け出る方：妊婦ご本人・代理の方（令和6年2月29日まで）\n野塩地域市民センター、松山地域市民センターでの妊娠の届出および母子健康手帳の交付は令和6年2月29日までとなります。\n\n令和6年2月29日までに野塩地域市民センター、松山地域市民センターで届出をされた方へは「スマイルベビー妊婦面接」のご案内をお渡しします。\n後日、妊婦の方ご本人に予約をお取りいただき、しあわせ未来センターで妊婦面接となります。妊婦面接をお受けいただいた方へは育児グッズをプレゼントしています。\n\n下記の「スマイルベビー妊婦面接予約専用フォーム」よりご予約ください。\n\n予約\nしあわせ未来センターでの妊娠の届け出、妊婦面接のご予約はこちらから\n\nスマイルベビー妊婦面接予約専用フォーム（外部リンク）;https://logoform.jp/form/QzsJ/319583\nその他\n※スマイルベビー妊婦面接は、出産・子育て応援事業の申込みをするために必要な面接です。\n\n事業の詳細については以下のページをご確認ください。\n\n出産・子育て応援事業\n妊娠の届出と母子健康手帳の交付について\n妊娠の届出と母子健康手帳の交付についての詳細は、下記ページをご参照ください。\n\n妊娠の届出と母子健康手帳の交付について;https://www.city.kiyose.lg.jp/kosodatekyouiku/ninsinsyussan/ninsin/1005132/1006024.html",
+      "target": {
+        "targetPersons": "妊娠の届出をされた方（妊娠中に転入してこられた方も対象です。転入の方は、妊婦健康診査受診票等の差し替えと妊婦面接を行います。）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠中、ママやパパが感じる悩みや不安、赤ちゃんが生まれてからの心配事等についてのご相談を保健師がお受けし、お一人お一人に合ったサポートを提案します。\nまた、「スマイルベビー妊婦面接」を受けられた方に、妊娠中からお使いいただける育児グッズをプレゼントします。",
+        "monetarySupport": null,
+        "materiallySupport": "「スマイルベビー妊婦面接」を受けられた方に、妊娠中からお使いいただける育児グッズをプレゼントします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "<妊婦面接受付可能時間>\n\n午前9時00分から午前11時30分\n\n午後1時00分から午後4時30分（土日祝日除く）\n\n※上記、妊婦面接受付可能時間以外の時間帯をご希望の方は、事前に子育て支援課母子保健係（042-497-2077）までご連絡ください。"
+      },
+      "implementationPlace": {
+        "implementationName": "しあわせ未来センター",
+        "implementationAddress": "東京都清瀬市中里5-842"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "届け出る方：妊婦ご本人\n同時に妊婦面接を受けられた場合はその場で育児グッズをプレゼントします。\n\n届け出る方：代理の方\n「スマイルベビー妊婦面接」のご案内をお渡しします。\n後日、妊婦の方ご本人に予約をお取りいただき、しあわせ未来センターで妊婦面接となります。妊婦面接をお受けいただいた方へは育児グッズをプレゼントします。\n\n下記の「スマイルベビー妊婦面接予約専用フォーム」よりご予約ください。",
+      "procedureMethod": "【スマイルベビー妊婦面接の予約】\n\n下記、「スマイルベビー妊婦面接予約専用フォーム」よりご予約ください。\n\nご予約なく来所した場合も妊娠の届出及び母子健康手帳の交付は可能ですが、ご予約の方が優先となりますので、妊婦面接についてはお待ちいただくことや後日にさせていただく場合がありますので、ご了承ください。\n\nまた、予約時間の前後に他の予約の方がいらっしゃいますので、来所は予約時間通りにお願いいたします。ご予約時間より早くお越しの場合には、予約時間までお待ちいただくこともございますので、あらかじめご了承ください。また、ご予約時間より遅れる場合は母子保健係（042-497-2077）までご連絡ください。\n\n<妊婦面接受付可能時間>\n\n午前9時00分から午前11時30分\n\n午後1時00分から午後4時30分（土日祝日除く）\n\n※上記、妊婦面接受付可能時間以外の時間帯をご希望の方は、事前に子育て支援課母子保健係（042-497-2077）までご連絡ください。\n\n届け出る方：妊婦ご本人\n同時に妊婦面接を受けられた場合はその場で育児グッズをプレゼントします。\n\n届け出る方：代理の方\n「スマイルベビー妊婦面接」のご案内をお渡しします。\n後日、妊婦の方ご本人に予約をお取りいただき、しあわせ未来センターで妊婦面接となります。妊婦面接をお受けいただいた方へは育児グッズをプレゼントします。\n\n下記の「スマイルベビー妊婦面接予約専用フォーム」よりご予約ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/ninsinsyussan/ninsin/1005132/1006024.html",
+          "title": "妊娠の届出と母子健康手帳の交付について"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/ninsinsyussan/ninsin/1005147/1005154.html",
+        "title": "「スマイルベビー妊婦面接」を実施しています！"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/QzsJ/319583",
+          "title": "【スマイルベビー妊婦面接予約専用フォーム】"
+        }
+      ],
+      "contact": {
+        "contactName": "子育て支援課母子保健係",
+        "contactPhone": "042-497-2077",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "2048511",
+        "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階"
+      },
+      "area": {
+        "areaCode": "132217;清瀬市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132217+1+UM47",
+        "organization": "3000020132217",
+        "compartment": "子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-12-28",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "清瀬市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "6～7か月健康診査"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として6～7か月児健康診査を実施しています。",
+      "description": "6～7か月・9～10か月児健康診査\nお子さんが健やかに育つためには、定期的な健康診査が必要です\n東京都にお住まいの6～7か月、9～10か月のお子さんは、医療機関にて公費で健康診査が受けられる制度があります。6～7か月・9～10か月児健康診査の受診票は、市の3～4か月児健康診査時にお渡ししています。3～4か月児健診受診後に他の区市町村より転入された方は、6～7か月児健診及び9～10か月児健診の受診票を発行いたしますので、子育て支援課母子保健係までお越しください。\n\n受診の方法\n医療機関に予約が必要か確認のうえ、対象期間内に受診してください。\n\n対象期間\n6～7か月健康診査（ピンク色）・・・生後6か月0日～満8か月になる前日まで\n\n9～10か月健康診査（白色）・・・生後9か月0日～満11か月になる前日まで\n\n受診できる医療機関\n都内の契約医療機関で受診できます。市内の契約医療機関は下記の関連ファイルをご参照ください。下記の関連ファイルに掲載されていない医療機関での受診を希望される場合は、医療機関に直接お問合せください。\n\n清瀬市に転入された方へ\n前自治体で3～4か月児健康診査を受診した後に清瀬市に転入された方は、6～7か月・9～10か月児健康診査の受診票を発行いたしますので、母子保健係の窓口にお越しいただくか、下記の【6～7か月・9～10か月児健康診査受診票交付・再交付申請フォーム】から交付申請してください。受診票がお手元に届くまで、1～2週間程度かかります。お急ぎの場合は、母子保健係までお越しください。\n\n6～7か月・9～10か月児健康診査受診票交付・再交付申請フォーム（外部リンク）;https://logoform.jp/form/QzsJ/359363",
+      "target": {
+        "targetPersons": "東京都にお住まいの6～7か月、9～10か月のお子さん",
+        "lessThan": {
+          "targetAge": 0,
+          "targetAgeOfMonths": 8
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後6か月0日～満8か月になる前日まで"
+      },
+      "support": {
+        "description": "医療機関にて公費で健康診査が受けられる",
+        "monetarySupport": "医療機関にて公費で健康診査が受けられる",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "6～7か月健康診査（ピンク色）・・・生後6か月0日～満8か月になる前日まで"
+      },
+      "implementationPlace": {
+        "implementationName": "都内の契約医療機関で受診できます。市内の契約医療機関は下記の関連ファイルをご参照ください。下記の関連ファイルに掲載されていない医療機関での受診を希望される場合は、医療機関に直接お問合せください。",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "医療機関に予約が必要か確認のうえ、対象期間内に受診してください。",
+      "procedurePersons": null,
+      "procedureMethod": "医療機関に予約が必要か確認のうえ、対象期間内に受診してください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://logoform.jp/form/QzsJ/359363",
+          "title": "6～7か月・9～10か月児健康診査受診票交付・再交付申請フォーム（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/005/197/boshi.pdf",
+          "title": "清瀬市内乳児（6～7・9～10か月児）健康診査実施医療機関名簿 （PDF 61.4KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kodomokenkoukanri/kodomonokenkousinsa/1005197.html",
+        "title": "6~7か月・9~10か月児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て支援課母子保健係",
+        "contactPhone": "042-497-2077",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "2048511",
+        "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階"
+      },
+      "area": {
+        "areaCode": "132217;清瀬市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132217+1+UM50",
+        "organization": "3000020132217",
+        "compartment": "子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-02",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "清瀬市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の乳幼児健診",
+        "shortName": "乳幼児発達健康診査"
+      },
+      "summary": "赤ちゃんから小学校入学前までのお子さんの運動発達やことばの遅れ、落ち着きがない、友達と遊べないなどが気になるかたの相談をお受けしています。\n小児神経専門医の診察、心理相談員・作業療法士による相談を行い、必要な方には、紹介状を発行し療育機関等を紹介します。",
+      "description": "乳幼児発達健康診査（予約制）\n赤ちゃんから小学校入学前までのお子さんの運動発達やことばの遅れ、落ち着きがない、友達と遊べないなどが気になるかたの相談をお受けしています。\n小児神経専門医の診察、心理相談員・作業療法士による相談を行い、必要な方には、紹介状を発行し療育機関等を紹介します。",
+      "target": {
+        "targetPersons": "赤ちゃんから小学校入学前までのお子さん及び保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "小児神経専門医の診察、心理相談員・作業療法士による相談を行い、必要な方には、紹介状を発行し療育機関等を紹介します。",
+        "monetarySupport": null,
+        "materiallySupport": "小児神経専門医の診察、心理相談員・作業療法士による相談を行い、必要な方には、紹介状を発行し療育機関等を紹介します。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "参加ご希望の方は、事前に子育て支援課母子保健係担当までご連絡ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kiyose.lg.jp/kenkouiryouhukusi/kenkousyokuiku/kenkousoudan/1004180.html",
+        "title": "子どもの発育や健康の相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て支援課母子保健係",
+        "contactPhone": "042-497-2077",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "2048511",
+        "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階"
+      },
+      "area": {
+        "areaCode": "132217;清瀬市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132217+1+UM53",
+        "organization": "3000020132217",
+        "compartment": "子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-23",
+        "updater": "清瀬市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後ヘルパーの派遣",
+        "shortName": "清瀬市養育支援ヘルパー（育児支援ヘルパー）派遣事業"
+      },
+      "summary": "産前産後の体調不良などにより、家事や育児が困難なご家庭に、日常的な掃除・洗濯・食事の支度などの家事や、もく浴・おむつ交換・きょうだいのお世話などの育児を手伝うホームヘルパーを派遣します。",
+      "description": "清瀬市養育支援ヘルパー（育児支援ヘルパー）派遣事業\nページ番号1005397　 更新日 2024年5月20日印刷大きな文字で印刷\n日中、育児や家事の手助けをしてくれる人がおらず、産前産後、多子同時出産、心身の不調などでお困りの清瀬市在住の方に、家事・育児支援ヘルパーを派遣します。\n\n利用要件・支援の内容\n利用要件\n若年の妊婦等、妊娠期からの継続的な支援を特に必要とする家庭\n育児ノイローゼ等によって子育てに強い不安や孤立感を抱える家庭\n虐待のリスクを抱え、特に支援が必要と認められる家庭\n児童養護施設等から児童が家庭復帰した家庭　等\nその他、細かい内容が含まれますので、詳細につきましては子ども家庭支援センターまでお問い合わせください。\n\n支援の内容\n食事の準備、洗濯、掃除など日常の簡易な家事援助\n授乳、おむつ交換、沐浴等の援助\n上の子どもの世話\n育児に関する援助\n利用期間・利用時間および回数\n利用期間\n母子健康手帳が交付された日から、その子どもが12歳に達する日以後の最初の3月31日まで。\n\n利用時間および回数\n午前7時から午後8時まで（日曜日・祝日・年末年始を除く）\n一回につき2時間以上4時間以内\n半年で10回まで（多子同時出産の場合は、半年で20回まで）\n利用料\n2時間：1,000円\n3時間：1,500円\n4時間：2,000円\n\n注：市民税非課税世帯、生活保護世帯の方は、利用料の免除措置があります。\n注：利用を取り消す場合、規定のキャンセル料が発生します。（非課税世帯は対象外）\n申し込み方法・お問い合せ先\nご利用には事前申請及びコーディネート（自宅訪問）が必要です。\n申込申請時に、市・都民税課税（非課税）証明書等が必要となる場合があります。（緊急利用が必要な場合は、ご相談ください。）\n利用を希望される方の状況、希望するサービスによっては、お受けできない場合があります。\nその場合は、どのような援助方法があるか、ご一緒に考えていきますので、お気軽にご相談ください。",
+      "target": {
+        "targetPersons": "日中、育児や家事の手助けをしてくれる人がおらず、産前産後、多子同時出産、心身の不調などでお困りの清瀬市在住の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "母子健康手帳が交付された日から、その子どもが12歳に達する日以後の最初の3月31日まで。"
+      },
+      "support": {
+        "description": "食事の準備、洗濯、掃除など日常の簡易な家事援助\n授乳、おむつ交換、沐浴等の援助\n上の子どもの世話\n育児に関する援助",
+        "monetarySupport": null,
+        "materiallySupport": "食事の準備、洗濯、掃除など日常の簡易な家事援助\n授乳、おむつ交換、沐浴等の援助\n上の子どもの世話\n育児に関する援助"
+      },
+      "cost": null,
+      "costConditions": "2時間：1,000円\n3時間：1,500円\n4時間：2,000円",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "07:00",
+        "toHM": "20:00",
+        "condiutilizationConditionstions": "午前7時から午後8時まで（日曜日・祝日・年末年始を除く）\n一回につき2時間以上4時間以内"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "ご利用には事前申請及びコーディネート（自宅訪問）が必要です。",
+      "procedurePersons": null,
+      "procedureMethod": "ご利用には事前申請及びコーディネート（自宅訪問）が必要です。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatesoudan/1005397.html",
+        "title": "清瀬市養育支援ヘルパー（育児支援ヘルパー）派遣事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭支援センター子ども家庭支援係",
+        "contactPhone": "042-495-7701",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "2048511",
+        "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター2階"
+      },
+      "area": {
+        "areaCode": "132217;清瀬市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132217+1+UM785",
+        "organization": "3000020132217",
+        "compartment": "子ども家庭支援センター子ども家庭支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-20",
+      "odInformation": {
+        "updateDate": "2024-07-18",
+        "updater": "清瀬市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "清瀬市産前産後ヘルパー派遣事業実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査",
+        "shortName": "親子歯みがき教室"
+      },
+      "summary": "むし歯のない子に育てるために、歯が生え始める時期から知っておきたいこと、親と子のケア方法をお伝えします。",
+      "description": "親子歯みがき教室\nページ番号1012184　 更新日 2024年5月17日印刷大きな文字で印刷\n日付\n2024年6月14日（金曜日）\n2024年7月19日（金曜日）\n\n時間\n受付：個別予約　午前9時30分～11時30分まで　30分毎各3組\n＊予約可能な日時は下記申込みフォームにてご確認ください。\n\n場所\n清瀬市しあわせ未来センター\n対象市内在住の6か月～1歳6か月の乳幼児とその保護者定員15人費用無料申込み\n申込みフォーム（下記リンクよりお申し込みください）\n\n備考\n持ち物：母子健康手帳、親と子の歯ブラシ\n＊子の歯ブラシをまだ用意していない方は、持って来なくてもかまいません。\n申込みフォーム（6月分）（外部リンク）;https://logoform.jp/form/QzsJ/559034\n申込みフォーム（7月分）（外部リンク）;https://logoform.jp/form/QzsJ/603568\n「子どもがなかなか歯磨きをさせてくれない」\n「子どもにだけは歯の苦労をさせたくない！」\n「むし歯菌の感染が心配」\n「歯が生えてきたけど手入れの仕方がわからない」・・・という方へ。\n\nむし歯のない子に育てるために、歯が生え始める時期から知っておきたいポイントをお伝えします。\n\nはじめての歯ブラシの選び方\nどんな子でも必ず口を開ける仕上げ磨きのコツ\nジュースの甘味\n保護者のむし歯、歯周病を予防する歯みがき方法\n＊教室受講後、4歳までの親子歯科健診の予約を取ることができます。\n\n歯がまだ生えていない方も、大歓迎！\n\nパパ、ママのお口のお手入れで、お子さんへのむし歯菌感染を予防しましょう。\n\nイラスト：歯磨きしているワニ",
+      "target": {
+        "targetPersons": "市内在住の6か月～1歳6か月の乳幼児とその保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "市内在住の6か月～1歳6か月の乳幼児とその保護者"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "09:30",
+        "toYMD": null,
+        "toHM": "11:30",
+        "conditions": "日付　2024年8月30日（金曜日）\n2024年9月13日（金曜日）\n\n時間　受付：個別予約　午前9時30分～11時30分まで　30分毎各3組"
+      },
+      "implementationPlace": {
+        "implementationName": "しあわせ未来センター",
+        "implementationAddress": "東京都清瀬市中里5-842"
+      },
+      "capacity": "15人",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "申込みフォームよりお申し込みください",
+      "procedurePersons": null,
+      "procedureMethod": "申込みフォーム（下記リンクよりお申し込みください）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳、親と子の歯ブラシ\n＊子の歯ブラシをまだ用意していない方は、持って来なくてもかまいません。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/mokuteki/1012182/1012184.html",
+        "title": "親子歯みがき教室"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/QzsJ/504874",
+          "title": "申込みフォーム（6月分）（外部リンク）"
+        },
+        {
+          "uri": "https://logoform.jp/form/QzsJ/537144",
+          "title": "申込みフォーム（7月分）（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "子育て支援課母子保健係",
+        "contactPhone": "042-497-2077",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "2048511",
+        "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階"
+      },
+      "area": {
+        "areaCode": "132217;清瀬市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132217+1+UM792",
+        "organization": "3000020132217",
+        "compartment": "子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-17",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "清瀬市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "離乳食教室",
+        "shortName": "じいじ・ばあばのための離乳食教室"
+      },
+      "summary": "離乳食開始前または、離乳期のお孫さんをお持ちの祖父母等を対象に、離乳食を始める時のポイントやすすめ方についての講座を開催しています。管理栄養士による今と昔の離乳食の違いについての講話と相談を行います。",
+      "description": "じいじ・ばあばのための離乳食教室\n\nページ番号1012440　 更新日 2024年8月6日\n印刷大きな文字で印刷\nイベントカテゴリ： 講座・教室\n\nirasuto\n\n開催日　2025年1月30日（木曜日）\n\n時間　午前10時から午前11時30分\n\n場所　しあわせ未来センター　2階　クッキングスタジオ\n\n対象　離乳食開始前または、離乳期のお孫さんをお持ちの祖父母等\n\n定員　6組\n※定員となり次第、締め切りとさせていただきます。\n\n費用　無料\n\n持ち物　筆記用具\n\n申込　申込みフォーム(12月15日より）\n\n管理栄養士による今と昔の離乳食の違いについての講話と相談を行います。\n\n申込みフォーム(1月分)（外部リンク）;https://logoform.jp/form/QzsJ/686738\n\n地図を表示する（外部リンク）;https://maps.google.com/maps?q=35.786055,139.52605070000004\n\n関連ファイル\n令和6年度　じいじ・ばあばのための離乳食教室　日程表 （PDF 234.7KB）;https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/012/337/r6jiiji.pdf\nイベント情報をiPhone・iPad端末のカレンダーに取り込めます。\n\nカレンダーへの取り込みについて説明を読む",
+      "target": {
+        "targetPersons": "離乳食開始前または、離乳期のお孫さんをお持ちの祖父母等",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "離乳食開始前または、離乳期のお孫さん"
+      },
+      "support": {
+        "description": "管理栄養士による今と昔の離乳食の違いについての講話と相談を行います。",
+        "monetarySupport": null,
+        "materiallySupport": "管理栄養士による今と昔の離乳食の違いについての講話と相談"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": "2025-01-30",
+        "fromHM": "10:00",
+        "toYMD": "2025-01-30",
+        "toHM": "11:30",
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "しあわせ未来センター　2階　クッキングスタジオ",
+        "implementationAddress": null
+      },
+      "capacity": "6組",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "申込みフォーム(12月15日より）",
+      "procedurePersons": null,
+      "procedureMethod": "申込みフォーム(12月15日より）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "申込みフォーム(12月15日より）"
+      },
+      "electronicSubmission": true,
+      "belongings": "筆記用具",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/012/337/r6jiiji.pdf",
+          "title": "令和6年度　じいじ・ばあばのための離乳食教室　日程表 （PDF 234.7KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/mokuteki/1012383/1012440.html",
+        "title": "じいじ・ばあばのための離乳食教室"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/QzsJ/686738",
+          "title": "申込みフォーム(12月15日より）"
+        }
+      ],
+      "contact": {
+        "contactName": "子育て支援課母子保健係",
+        "contactPhone": "042-497-2077",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "2048511",
+        "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階"
+      },
+      "area": {
+        "areaCode": "132217;清瀬市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132217+1+UM798",
+        "organization": "3000020132217",
+        "compartment": "子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-08-06",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "清瀬市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法、食育基本法",
+        "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）、法第5条（子どもの食育における保護者、教育関係者等の役割）、21条 （地域における食生活の改善のための取組の推進）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "こども家庭センター",
+        "shortName": "子ども家庭支援センター"
+      },
+      "summary": "清瀬市の【子ども家庭支援センター】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+      "description": "清瀬市子ども家庭支援センターでは、18歳未満のお子さんと、その家庭に関するあらゆる相談をお受けしています。お子さん自身からの相談も受け付け、解決のお手伝いをします。¥n子育てをサポートする、様々な子育てサービスをご案内するなど、お悩みについての解決策を一緒に考える他、対応が出来る機関におつなぎすることもあります。¥nまた、子ども家庭支援センターでは、児童虐待に関する対応も行っております。「子どもに手をあげてしまうことがある」「カッとなって子どもの人格を否定する声かけをしてしまった」「虐待の恐れがある行為を見聞きした」等、少しでも気になることがございましたら、子ども家庭支援センターまでご連絡ください。児童相談所やその他関係機関等と連携を取りながら、問題の解決を図ります。",
+      "target": {
+        "targetPersons": "清瀬市在住の18歳未満のお子さんがいるご家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "しあわせ未来センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "日曜・祭日・年末・年始",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kiyose.lg.jp/shisetsu/kosodatesisetu/1001267.html",
+          "title": "子ども家庭支援センター"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/1005251.html",
+        "title": "子ども家庭支援センター"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.kiyose.lg.jp/cgi-bin/enquetes/cd1a9c7475ef4f75999a418afa75625d",
+          "title": "子ども家庭支援センターへのお問い合わせ"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども家庭支援センター子ども家庭支援係",
+        "contactPhone": "042-495-7701",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX：042-495-7711",
+        "zipCode": "2048511",
+        "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター2階"
+      },
+      "area": {
+        "areaCode": "132217;清瀬市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132217+1+UM799",
+        "organization": "3000020132217",
+        "compartment": "子ども家庭支援センター子ども家庭支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/07/18",
+      "odInformation": {
+        "updateDate": "2025-02-20",
+        "updater": "清瀬市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第10条の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦の歯科健診",
+        "shortName": "妊婦歯科健診"
+      },
+      "summary": "妊娠中や出産後は女性ホルモンの分泌の変化や食事回数の増加などから虫歯や歯周病になりやすく、進行しやすい時期です。こうした時期のお口の中の健康を維持するために、歯科健診をおすすめしています。",
+      "description": "日付\n月曜日または水曜日\n毎月5～6回\n\n＊予約可能な日時は下記申込みフォームにてご確認ください。\n\n時間\n受付：個別予約　午後1時15分または午後1時45分\n\n場所\n清瀬市しあわせ未来センター\n\n対象\n市内在住の妊婦\n\n定員\n各予約時間に1名費用無料申込み\n\n申込みフォーム（下記リンクよりお申し込みください）\n\n備考\n持ち物：母子健康手帳、歯ブラシ、コップ\n申込みフォーム（外部リンク）;https://logoform.jp/form/QzsJ/425612\n妊娠中の歯のお手入れで生まれてくる子のむし歯も予防しましょう！\n妊婦歯科健診は、親子歯科健診と同じ会場で行っています。\n15分間に1～2人の個別時間予約ですのでお待たせすることはありません。",
+      "target": {
+        "targetPersons": "市内在住の妊婦",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊婦歯科健診",
+        "monetarySupport": null,
+        "materiallySupport": "妊婦歯科健診"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "月曜日または水曜日\n\n毎月5～6回\n\n＊予約可能な日時は下記申込みフォームにてご確認ください。"
+      },
+      "implementationPlace": {
+        "implementationName": "しあわせ未来センター",
+        "implementationAddress": "東京都清瀬市中里5-842"
+      },
+      "capacity": "各予約時間に1名",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "午後1時15分または午後1時45分"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申込みフォーム（下記リンクよりお申し込みください）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳、歯ブラシ、コップ",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/ninsinsyussan/1012472.html",
+        "title": "妊婦歯科健診"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/QzsJ/425612",
+          "title": "妊婦歯科健診"
+        }
+      ],
+      "contact": {
+        "contactName": "子育て支援課母子保健係",
+        "contactPhone": "042-497-2077",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "2048511",
+        "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階"
+      },
+      "area": {
+        "areaCode": "132217;清瀬市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132217+1+UM8",
+        "organization": "3000020132217",
+        "compartment": "子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-18",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "清瀬市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第10条（保健指導）・第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自立支援医療制度（精神通院医療）",
+        "shortName": "自立支援医療費（精神通院）制度及び精神障害者保健福祉手帳制度"
+      },
+      "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+      "description": "自立支援医療費（精神通院）制度\n1.自立支援医療費（精神通院）支給認定申請書 ※障害福祉課にあります。\n2.診断書（東京都指定様式の自立支援医療診断書（精神通院）※障害福祉課にあります。\n3.健康保険証の写し\n・※社会保険の方は、患者本人のもの\n・※国民健康保険の方は、被保険者全員のもの（組合国保含む）\n・※後期高齢者医療の方は、被保険者全員のもの\n4.自立支援医療費受給者証（精神通院）（更新の場合）\n5.印鑑（申請者、提出者）\n6.個人番号（マイナンバー）に関する書類\n1.申請者本人が申請する場合\n1.個人番号カード\n2.個人番号通知カートと運転免許証・障害者手帳・パスポート等のいずれか（顔写真付 1点確認）\n3.個人番号通知カードと健康保険証＋年金手帳等（顔写真付の身分証明書がない場合 2点確認）\n2.代理人が申請者本人の代わりに申請する場合\n・申請者本人の個人番号カードまたは申請者本人の個人番号通知カード\n1.代理人の運転免許証・障害者手帳・パスポート等のいずれか（顔写真付 1点確認）\n2.代理人の健康保険証＋年金手帳等（顔写真付の身分証明書がない場合 2点確認）\n・委任状\n（指定の書式はありませんので、別の紙に同様の内容で記入いただくことも可能です）\n7.市民税（非）課税証明書\n※転入者のみ。ただし、マイナンバーで連携できる場合は不要です。\n詳細はお問い合わせください。\n精神障害者保健福祉手帳制度\n1.障害者手帳申請書 ※障害福祉課にあります。\n2.診断書（東京都指定様式の精神障害者保健福祉手帳用）または、障害者年金証明書等（精神疾患で受給している方）で年金コードのわかるものの写し。\n3,同意書（障害年金証書等で申請の場合）\n4,写真（縦4cm×横3cm）\n※脱帽（眼鏡可、サングラス、マスク不可）して、上半身の正面から申請日から1年以内に撮影したもの。\n5.精神障害者手帳の写し（更新の場合）\n6.印鑑（申請者、提出者）\n7.個人番号（マイナンバー）に関する書類\n※詳細は上記、「個人番号（マイナンバー）に関する書類」をご確認ください。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": " https://www.fukushi.metro.tokyo.lg.jp/shisetsu/jigyosyo/chusou/fukushitecho/techo_iryokikan",
+          "title": "精神障害者保健福祉手帳診断書（外部リンク）"
+        },
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/shisetsu/jigyosyo/chusou/jiritsushieniryo/jiritsu_iryokikan",
+          "title": "自立支援医療(精神通院)診断書（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kiyose.lg.jp/kenkouiryouhukusi/syougaisien/syougaisyajosei/1004257.html",
+        "title": "自立支援医療費（精神通院）制度及び精神障害者保健福祉手帳制度"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.kiyose.lg.jp/cgi-bin/enquetes/a3414304897346c0a6f48880314e51b4",
+          "title": "障害福祉課へのお問い合わせ"
+        }
+      ],
+      "contact": {
+        "contactName": "障害福祉課庶務係",
+        "contactPhone": "042-497-2072",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX：042-492-5139",
+        "zipCode": "2048511",
+        "contactAddress": "東京都清瀬市中里5-842　清瀬市役所1階"
+      },
+      "area": {
+        "areaCode": "132217;清瀬市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132217+1+UM824",
+        "organization": "3000020132217",
+        "compartment": "障害福祉課庶務係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023/10/24",
+      "odInformation": {
+        "updateDate": "2025-02-13",
+        "updater": "清瀬市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律",
+        "regulationArticle": "第58条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "025",
+          "027"
+        ],
+        "targetCode": [
+          "087",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "母子父子寡婦福祉資金",
+        "shortName": "女性福祉資金貸付制度"
+      },
+      "summary": "寡婦の方の経済的自立や、扶養しているお子さんの福祉増進のために、必要な資金をお貸しする制度です。",
+      "description": "母子家庭・父子家庭又は配偶者のいない女性の方への貸付金です。修学・就職・転宅等目的別に資金が分かれており、必要な額を各資金の限度額内でお貸ししています。\n\n（1）母子福祉資金・父子福祉資金貸付制度\n就学支度資金\n貸付金限度額\n入学する学校の種別により、限度額を設定\n（例）\n私立高校：420,000円\n国立大学：420,000円\n私立大学：590,000円\n据置期間\n貸付による修学終了後　6カ月\n償還期間20年以内\n貸付利率\n無利子\n摘要\n児童又は子が高校、短大、大学、専修学校等に入学するために必要な資金（入学金、施設費など）\n修学資金\n貸付金限度額\n学校の種別により、限度額を設定\n（例）\n私立高校：月額　45,000円\n私立短大：月額　93,500円\n私立大学：月額　108,500円\n据置期間\n貸付による修学終了後6か月\n償還期間\n20年以内\n貸付利率\n無利子\n摘要\n児童又は子が高校、短大、大学等において修学するのに必要な資金（授業料など）\n就職支度資金\n貸付金限度額\n100,000円\n据置期間\n貸付の日から1年間\n償還期間\n6年以内\n貸付利率\n無利子\n摘要\n就職するために直接必要な被服、履物等を購入する資金\n（保証人がいない場合は有利子）\n\n（注）貸付金の種類はこの他にも、事業開始資金・事業継続資金・技能習得資金・修業資金・医療介護資金・生活資金・住宅資金・転宅資金・結婚資金があります。\n\n対象となる方\n都内に6か月以上在住している母子家庭の母、父子家庭の父等で現在20歳未満の児童を扶養している方。また、貸付が自立につながると判断され、償還（返済）計画を立てることができる方が対象になります。\n\n（注）就学支度資金・修学資金・転宅資金については申込み時に都内にお住まいの方も対象になります。\n\n（2）女性福祉資金貸付制度\n技能習得資金\n貸付金限度額\n技能を習得する期間中（5年以内）\n月額　68,000円以内\n据置期間\n習得期間満了後1年間\n償還期間\n20年以内\n貸付利率\n無利子\n摘要\n就職するために必要な知識技能を習得するために必要な資金（授業料、教科書代など）\n医療介護資金\n貸付金限度額\n医療 340,000円以内（特別の場合480,000円）\n介護 500,000円以内\n据置期間\n医療または介護を受ける期間満了後6か月\n償還期間\n5年以内\n貸付利率\n無利子\n摘要\n女性または女性が扶養している子が医療を受けるのに必要な資金または女性が介護保険によるサービス（介護）を受けるために必要な資金。（保証人がない場合は有利子)\n就学支度資金\n貸付金限度額\n学校の種別により限度額を設定\n(例)\n私立高校：420,000円\n国立大学：420,000円\n私立大学：590,000円\n据置期間\n貸付による修学終了後6か月\n償還期間\n20年以内\n貸付利率\n無利子\n摘要\n女性または女性が扶養している子が入学するために必要な資金（入学金、施設費など）\n（注）貸付金の種類は、この他にも、事業開始資金・事業継続資金・就職支度資金・住宅資金・転宅資金・生活資金・結婚資金・修学資金があります。\n\n対象となる方\n都内に6か月以上在住の、配偶者がいない方で、親子・兄弟姉妹などを扶養している方。\n年間所得2,036,000円以下の方で、かつて母子家庭の母として20歳未満の子を扶養したことのある方、又は婚姻歴のある40歳以上の方。\nいずれも貸付が自立につながると判断され、償還（返済）計画を立てることができる方。\n\n（注）就学支度資金・修学資金・転宅資金については申込み時に都内にお住まいの方も対象になります。",
+      "target": {
+        "targetPersons": "都内に6か月以上在住の、配偶者がいない方で、親子・兄弟姉妹などを扶養している方。\n年間所得2,036,000円以下の方で、かつて母子家庭の母として20歳未満の子を扶養したことのある方、又は婚姻歴のある40歳以上の方。\nいずれも貸付が自立につながると判断され、償還（返済）計画を立てることができる方。\n\n（注）就学支度資金・修学資金・転宅資金については申込み時に都内にお住まいの方も対象になります。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "技能習得資金\n貸付金限度額\n技能を習得する期間中（5年以内）\n月額　68,000円以内\n据置期間\n習得期間満了後1年間\n償還期間\n20年以内\n貸付利率\n無利子\n摘要\n就職するために必要な知識技能を習得するために必要な資金（授業料、教科書代など）\n医療介護資金\n貸付金限度額\n医療 340,000円以内（特別の場合480,000円）\n介護 500,000円以内\n据置期間\n医療または介護を受ける期間満了後6か月\n償還期間\n5年以内\n貸付利率\n無利子\n摘要\n女性または女性が扶養している子が医療を受けるのに必要な資金または女性が介護保険によるサービス（介護）を受けるために必要な資金。（保証人がない場合は有利子)\n就学支度資金\n貸付金限度額\n学校の種別により限度額を設定\n(例)\n私立高校：420,000円\n国立大学：420,000円\n私立大学：590,000円\n据置期間\n貸付による修学終了後6か月\n償還期間\n20年以内\n貸付利率\n無利子\n摘要\n女性または女性が扶養している子が入学するために必要な資金（入学金、施設費など）\n（注）貸付金の種類は、この他にも、事業開始資金・事業継続資金・就職支度資金・住宅資金・転宅資金・生活資金・結婚資金・修学資金があります。",
+        "monetarySupport": "技能習得資金\n貸付金限度額\n技能を習得する期間中（5年以内）\n月額　68,000円以内\n据置期間\n習得期間満了後1年間\n償還期間\n20年以内\n貸付利率\n無利子\n摘要\n就職するために必要な知識技能を習得するために必要な資金（授業料、教科書代など）\n医療介護資金\n貸付金限度額\n医療 340,000円以内（特別の場合480,000円）\n介護 500,000円以内\n据置期間\n医療または介護を受ける期間満了後6か月\n償還期間\n5年以内\n貸付利率\n無利子\n摘要\n女性または女性が扶養している子が医療を受けるのに必要な資金または女性が介護保険によるサービス（介護）を受けるために必要な資金。（保証人がない場合は有利子)\n就学支度資金\n貸付金限度額\n学校の種別により限度額を設定\n(例)\n私立高校：420,000円\n国立大学：420,000円\n私立大学：590,000円\n据置期間\n貸付による修学終了後6か月\n償還期間\n20年以内\n貸付利率\n無利子\n摘要\n女性または女性が扶養している子が入学するために必要な資金（入学金、施設費など）\n（注）貸付金の種類は、この他にも、事業開始資金・事業継続資金・就職支度資金・住宅資金・転宅資金・生活資金・結婚資金・修学資金があります。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "１．都内に6か月以上在住の、配偶者がいない方で、親子・兄弟姉妹等を扶養している方。\n２．年間所得２，０３６，０００円以下の方で、かつて母子家庭の母として20際未満の子を扶養したことのある方、又は婚姻歴のある40歳以上の方。\nいずれも貸付が自立につながると判断され、償還（返済）計画を立てることができる方。",
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "生活福祉課庶務係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kosodatehojo/hitorioyakateihojo/1005318.html",
+        "title": "母子・父子・女性福祉資金"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "生活福祉課庶務係",
+        "contactPhone": "042-497-2058",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "2048511",
+        "contactAddress": "東京都清瀬市中里5-842　清瀬市役所1階"
+      },
+      "area": {
+        "areaCode": "132217;清瀬市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132217+2+UM28",
+        "organization": "3000020132217",
+        "compartment": "生活福祉課庶務係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-08-29",
+      "odInformation": {
+        "updateDate": "2024-07-10",
+        "updater": "清瀬市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子及び父子並びに寡婦福祉法",
+        "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "清瀬市の妊娠・出産に関する相談",
+        "shortName": "妊娠・出産に関するご相談"
+      },
+      "summary": "子育て支援課母子保健係では、妊娠・出産に関するご相談を随時お受けしております。子育て支援課母子保健係へお問い合わせください。",
+      "description": "相談窓口\n子育て支援課母子保健係\n子育て支援課母子保健係では、妊娠・出産に関するご相談を随時お受けしております。子育て支援課母子保健係へお問い合わせください。\n\n相談時間：平日の午前8時30分から午後5時\n\n妊娠相談ほっとライン\n東京都の相談サービスでは思いがけない妊娠などの妊娠SOSのご相談をお受けしております。土曜日や夜間にもご相談に応じています。\n\n※上記の窓口とも以下のような相談をお受けしております。\n\n思いがけず妊娠をしたが、結婚の予定はない。\n妊娠と気付かず、かなり週数が経ってしまった。\n妊娠をしたことを誰にも相談できない。\n妊娠をしたが、自分では育てられない。\n産もうかどうか迷っている。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "子育て支援課母子保健係では、妊娠・出産に関するご相談を随時お受けしております。子育て支援課母子保健係へお問い合わせください。",
+        "monetarySupport": null,
+        "materiallySupport": "子育て支援課母子保健係では、妊娠・出産に関するご相談を随時お受けしております。子育て支援課母子保健係へお問い合わせください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:30",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "相談時間：平日の午前8時30分から午後5時"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "子育て支援課母子保健係へお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-hotline.html",
+          "title": "妊娠相談ほっとライン（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/ninsinsyussan/ninsin/1005147/1005149.html",
+        "title": "妊娠・出産に関するご相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て支援課母子保健係",
+        "contactPhone": "042-497-2077",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "2048511",
+        "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階"
+      },
+      "area": {
+        "areaCode": "132217;清瀬市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132217+2+UM47",
+        "organization": "3000020132217",
+        "compartment": "子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "清瀬市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "9～10か月健康診査"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として9～10か月児健康診査を実施しています。",
+      "description": "6～7か月・9～10か月児健康診査\nお子さんが健やかに育つためには、定期的な健康診査が必要です\n東京都にお住まいの6～7か月、9～10か月のお子さんは、医療機関にて公費で健康診査が受けられる制度があります。6～7か月・9～10か月児健康診査の受診票は、市の3～4か月児健康診査時にお渡ししています。3～4か月児健診受診後に他の区市町村より転入された方は、6～7か月児健診及び9～10か月児健診の受診票を発行いたしますので、子育て支援課母子保健係までお越しください。\n\n受診の方法\n医療機関に予約が必要か確認のうえ、対象期間内に受診してください。\n\n対象期間\n6～7か月健康診査（ピンク色）・・・生後6か月0日～満8か月になる前日まで\n\n9～10か月健康診査（白色）・・・生後9か月0日～満11か月になる前日まで\n\n受診できる医療機関\n都内の契約医療機関で受診できます。市内の契約医療機関は下記の関連ファイルをご参照ください。下記の関連ファイルに掲載されていない医療機関での受診を希望される場合は、医療機関に直接お問合せください。\n\n清瀬市に転入された方へ\n前自治体で3～4か月児健康診査を受診した後に清瀬市に転入された方は、6～7か月・9～10か月児健康診査の受診票を発行いたしますので、母子保健係の窓口にお越しいただくか、下記の【6～7か月・9～10か月児健康診査受診票交付・再交付申請フォーム】から交付申請してください。受診票がお手元に届くまで、1～2週間程度かかります。お急ぎの場合は、母子保健係までお越しください。\n\n6～7か月・9～10か月児健康診査受診票交付・再交付申請フォーム（外部リンク）;https://logoform.jp/form/QzsJ/359363",
+      "target": {
+        "targetPersons": "東京都にお住まいの6～7か月、9～10か月のお子さん",
+        "lessThan": {
+          "targetAge": 0,
+          "targetAgeOfMonths": 11
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": 9
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後9か月0日～満11か月になる前日まで"
+      },
+      "support": {
+        "description": "医療機関にて公費で健康診査が受けられる",
+        "monetarySupport": "医療機関にて公費で健康診査が受けられる",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "9～10か月健康診査（白色）・・・生後9か月0日～満11か月になる前日まで"
+      },
+      "implementationPlace": {
+        "implementationName": "都内の契約医療機関で受診できます。市内の契約医療機関は下記の関連ファイルをご参照ください。下記の関連ファイルに掲載されていない医療機関での受診を希望される場合は、医療機関に直接お問合せください。",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "医療機関に予約が必要か確認のうえ、対象期間内に受診してください。",
+      "procedurePersons": null,
+      "procedureMethod": "医療機関に予約が必要か確認のうえ、対象期間内に受診してください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://logoform.jp/form/QzsJ/359363",
+          "title": "6～7か月・9～10か月児健康診査受診票交付・再交付申請フォーム（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/005/197/boshi.pdf",
+          "title": "清瀬市内乳児（6～7・9～10か月児）健康診査実施医療機関名簿 （PDF 61.4KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kodomokenkoukanri/kodomonokenkousinsa/1005197.html",
+        "title": "6~7か月・9~10か月児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て支援課母子保健係",
+        "contactPhone": "042-497-2077",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "2048511",
+        "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階"
+      },
+      "area": {
+        "areaCode": "132217;清瀬市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132217+2+UM50",
+        "organization": "3000020132217",
+        "compartment": "子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-02",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "清瀬市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査",
+        "shortName": "親子歯科健診"
+      },
+      "summary": "「むし歯が心配」「歯並びが気になる」「フッ素や歯磨剤の使い方を知りたい」「子どもが自分で歯磨きできるようにしたい」という方へ\n親子で受けられる歯科定期健診事業です。",
+      "description": "親子歯科健診\nページ番号1012029　 更新日 2024年4月24日印刷大きな文字で印刷\n親子で受けよう！歯科健診\nイラスト：猫の親子\n1歳6か月を過ぎると乳臼歯が生え、食べられるものも増えてきます。まだ自分では歯みがきができず、仕上げ磨きもまだまだ嫌がるのでむし歯が心配ですね。\nパパ、ママもなかなか歯科医院にいけない時期でもあります。\n親子で一緒に歯科定期健診を受けましょう。自分で磨けるようになる練習やフッ素塗布（無料・概ね3歳以降）も行ないます。\n\n対象\n市内在住の概ね1歳6か月から4歳の幼児と保護者\n\n親子歯みがき教室を受講した乳幼児と保護者\n\n日時\n月曜日または水曜日（月5～6回）、個別予約。\n午後：1時～3時15分　15分毎親子各1組から2組\n\n注：予約可能な日時はは下記申込みフォームにてご確認ください。\n\n場所\n清瀬市しあわせ未来センター\n\n申し込み\n申込みフォーム（下記リンクよりお申し込みください）\n申込みフォーム（外部リンク）;https://logoform.jp/form/QzsJ/428132",
+      "target": {
+        "targetPersons": "市内在住の概ね1歳6か月から4歳の幼児と保護者\n親子歯みがき教室を受講した乳幼児と保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 4,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "市内在住の概ね1歳6か月から4歳の幼児と保護者"
+      },
+      "support": {
+        "description": "親子で一緒に歯科定期健診を受けましょう。",
+        "monetarySupport": null,
+        "materiallySupport": "歯科定期健診"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "月曜日または水曜日（月5～6回）、個別予約。\n午後：1時～3時15分"
+      },
+      "implementationPlace": {
+        "implementationName": "しあわせ未来センター",
+        "implementationAddress": "東京都清瀬市中里5-842"
+      },
+      "capacity": "15分毎親子各1組から2組",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "申込みフォームよりお申し込みください",
+      "procedurePersons": null,
+      "procedureMethod": "申込みフォームよりお申し込みください",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳、親と子の歯ブラシ・コップ\n",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/kodomokenkoukanri/1012175/1012029.html",
+        "title": "親子歯科健診"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/QzsJ/428132",
+          "title": "親子歯科健診"
+        }
+      ],
+      "contact": {
+        "contactName": "子育て支援課母子保健係",
+        "contactPhone": "042-497-2077",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "2048511",
+        "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階"
+      },
+      "area": {
+        "areaCode": "132217;清瀬市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132217+2+UM792",
+        "organization": "3000020132217",
+        "compartment": "子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-24",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "清瀬市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "離乳食教室",
+        "shortName": "カンタンワンポイント離乳食"
+      },
+      "summary": "離乳食２回食が始まった６か月～１１か月くらいまでのお子さんと保護者が対象です。保護者同士や栄養士と離乳食の悩みや不安について気軽に話してみませんか？お友達づくりのきっかけにもなります。離乳食のデモンストレーションとすすめ方のお話をします。 ",
+      "description": "カンタンワンポイント離乳食\n\nページ番号1012384　 更新日 2024年7月10日\n印刷　大きな文字で印刷\nイベントカテゴリ： 講座・教室\n\nirasuto\n\n開催日　2024年9月11日（水曜日）\n\n時間　6か月から8か月児　午前9時45分から午前11時\n9か月から11か月児　午前11時から午後0時15分\n\n場所　しあわせ未来センター　2階　クッキングスタジオ\n\n対象6か月から11か月の乳児とその保護者\n\n定員　各時間帯5組（保護者の方のみの参加も可）\n\n費用　無料\n\n持ち物　母子健康手帳、お子さんのお出かけグッズ\n\n申込　申込みフォーム(9月1日より)\n\n管理栄養士による離乳食の調理実演と試食・相談を行います。\n※久しぶりに離乳食を作る方もご相談ください。\n\n申込みフォーム(9月分)（外部リンク）;https://logoform.jp/form/QzsJ/611528\n\n関連ファイル\n令和6年度　カンタンワンポイント離乳食　日程表 （PDF 171.1KB）;https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/012/141/r6kanntann.pdf\n\nイベント情報をiPhone・iPad端末のカレンダーに取り込めます。\n\nカレンダーへの取り込みについて説明を読む;https://www.city.kiyose.lg.jp/about/site/eventinput/index.html\n\n",
+      "target": {
+        "targetPersons": "6か月から11か月の乳児とその保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 11
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "6か月から11か月の乳児"
+      },
+      "support": {
+        "description": "管理栄養士による離乳食の調理実演と相談を行います。",
+        "monetarySupport": null,
+        "materiallySupport": "管理栄養士による離乳食の調理実演と相談"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": "2024-09-11",
+        "fromHM": null,
+        "toYMD": "2024-09-11",
+        "toHM": null,
+        "conditions": "6か月から8か月児　午前9時45分から午前11時\n9か月から11か月児　午前11時から午後0時15分"
+      },
+      "implementationPlace": {
+        "implementationName": "しあわせ未来センター　2階　クッキングスタジオ",
+        "implementationAddress": null
+      },
+      "capacity": "各時間帯5組",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "申込みフォーム(9月1日より)",
+      "procedurePersons": null,
+      "procedureMethod": "申込みフォーム(9月1日より)",
+      "procedurePeriod": {
+        "fromYMD": "2024-09-01",
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "申込みフォーム(9月1日より)"
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳、お子さんのお出かけグッズ",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/012/141/r6kanntann.pdf",
+          "title": "令和6年度　カンタンワンポイント離乳食　日程表 （PDF 171.1KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/mokuteki/1012383/1012384.html",
+        "title": "カンタンワンポイント離乳食"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/QzsJ/611528",
+          "title": "申込みフォーム(9月分)（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "子育て支援課母子保健係",
+        "contactPhone": "042-497-2077",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "2048511",
+        "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階"
+      },
+      "area": {
+        "areaCode": "132217;清瀬市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132217+2+UM798",
+        "organization": "3000020132217",
+        "compartment": "子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-17",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "清瀬市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法、食育基本法",
+        "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）、法第5条（子どもの食育における保護者、教育関係者等の役割）、21条 （地域における食生活の改善のための取組の推進）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査",
+        "shortName": "5・6歳児のむし歯予防教室"
+      },
+      "summary": "5歳、6歳ぐらいになると、下の前歯がグラグラし始め、永久歯への交換が始まります。\nまた、乳臼歯の奥に永久歯のかなめとなる六歳臼歯が出てきます。生えたばかりの永久歯は、まだやわらかく、むし歯になりやすいのです。\n大切な永久歯のために歯科健診、フッ素塗布（無料）を受けましょう！\nむし歯予防のお話しや自分歯磨きの練習もします。",
+      "description": "5・6歳児のむし歯予防教室\n\nページ番号1012186　 更新日 2024年7月29日\n印刷大きな文字で印刷\nイベントカテゴリ： 講座・教室 子ども・子育て\n\n開催日　2025年3月24日（月曜日）\n\n開催時間　午後1時 から 午後3時15分 まで\n15分毎に各1名\n\n開催場所　しあわせ未来センター\n\n対象　市内在住の5・6歳児\n\n内容　歯科健診、歯磨き練習、フッ素塗布（無料）\n\n申込み　申込みフォーム（下記リンクよりお申し込みください）\n\n費用　不要\n\n定員　10名\n\n持ち物　母子健康手帳、歯ブラシ、コップ\n\n申込フォーム　令和7年3月24日（月曜日）分（外部リンク）;https://logoform.jp/form/QzsJ/517880\n\nイラスト：歯みがきするワニ\n\nはじめまして永久歯！\nパパ、ママ、覚えていますか？初めて歯が抜けて永久歯が生えてきた頃のこと。5歳、6歳ぐらいになると、下の前歯がグラグラし始め、永久歯への交換が始まります。\n\nまた、乳臼歯の奥に永久歯のかなめとなる六歳臼歯が出てきます。生えたばかりの永久歯は、まだやわらかく、むし歯になりやすいのです。\n\n大切な永久歯のために歯科健診、フッ素塗布（無料）を受けましょう！\n\nむし歯予防のお話しや自分歯磨きの練習もします。\n\nイベント情報をiPhone・iPad端末のカレンダーに取り込めます。;カレンダーへの取り込みについて説明を読む;https://www.city.kiyose.lg.jp/about/site/eventinput/index.html",
+      "target": {
+        "targetPersons": "市内在住の5・6歳児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 6,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 5,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "市内在住の5・6歳児"
+      },
+      "support": {
+        "description": "歯科健診、歯磨き練習、フッ素塗布（無料）",
+        "monetarySupport": null,
+        "materiallySupport": "歯科健診、歯磨き練習、フッ素塗布（無料）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": "2025-03-24",
+        "fromHM": "13:00",
+        "toYMD": "2025-03-24",
+        "toHM": "15:15",
+        "conditions": "開催日　2025年3月24日（月曜日）\n\n開催時間　午後1時 から 午後3時15分 まで\n15分毎に各1名"
+      },
+      "implementationPlace": {
+        "implementationName": "しあわせ未来センター",
+        "implementationAddress": "東京都清瀬市中里5-842"
+      },
+      "capacity": "10名",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "申込みフォーム（下記リンクよりお申し込みください）\n令和7年3月24日（月曜日）分（外部リンク）;https://logoform.jp/form/QzsJ/517880",
+      "procedurePersons": null,
+      "procedureMethod": "申込みフォーム（下記リンクよりお申し込みください）\n令和7年3月24日（月曜日）分（外部リンク）;https://logoform.jp/form/QzsJ/517880",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳、歯ブラシ、コップ",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/mokuteki/1012182/1012186.html",
+        "title": "5・6歳児のむし歯予防教室"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/QzsJ/517880",
+          "title": "令和7年3月24日（月曜日）分（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "子育て支援課母子保健係",
+        "contactPhone": "042-497-2077",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "2048511",
+        "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階"
+      },
+      "area": {
+        "areaCode": "132217;清瀬市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132217+3+UM792",
+        "organization": "3000020132217",
+        "compartment": "子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-07-29",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "清瀬市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "離乳食教室",
+        "shortName": "ステップアップ幼児食"
+      },
+      "summary": "初めてのお誕生日を過ぎるとそろそろ離乳食も卒業ですね。\n保護者同士や栄養士と幼児食の悩みや不安について気軽に話してみませんか？\n幼児期の食事についての講話と調理デモの見学をしていただきます。 ",
+      "description": "ステップアップ幼児食\nページ番号1012402　 更新日 2024年5月15日印刷大きな文字で印刷\nイベントカテゴリ： 講座・教室\ngazou\n\n開催日\n2024年8月21日（水曜日）\n\n時間\n午前10時から午前11時15分\n\n場所\nしあわせ未来センター　2階　クッキングスタジオ\n\n対象\n1歳から1歳11か月の幼児とその保護者定員6組（保護者の方のみの参加も可）\n\n費用\n無料\n\n持ち物\n母子健康手帳、お子さんのお出かけグッズ\n\n申込\n申込みフォーム(8月1日より）\n\n管理栄養士による幼児食の調理実演と試食・相談を行います。\n\n申込みフォーム(8月分)（外部リンク）;https://logoform.jp/form/QzsJ/578643\n\n地図を表示する（外部リンク）;https://maps.google.com/maps?q=35.786055,139.52605070000004\n関連ファイル\n令和6年度　ステップアップ幼児食　日程表 （PDF 124.9KB）;https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/011/995/r6suteppu.pdf",
+      "target": {
+        "targetPersons": "1歳から1歳11か月の幼児とその保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 11
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1歳から1歳11か月の幼児"
+      },
+      "support": {
+        "description": "管理栄養士による幼児食の調理実演と試食・相談を行います。",
+        "monetarySupport": null,
+        "materiallySupport": "管理栄養士による幼児食の調理実演と試食・相談"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": "2024-08-21",
+        "fromHM": "10:00",
+        "toYMD": "2024-08-21",
+        "toHM": "11:15",
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "しあわせ未来センター　2階　クッキングスタジオ",
+        "implementationAddress": null
+      },
+      "capacity": "6組",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "申込みフォームよりお申し込みください",
+      "procedurePersons": null,
+      "procedureMethod": "申込みフォームよりお申し込みください",
+      "procedurePeriod": {
+        "fromYMD": "2024-08-01",
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "申込みフォーム(5月1日より）"
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳、お子さんのお出かけグッズ",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/011/995/r6suteppu.pdf",
+          "title": "令和6年度　ステップアップ幼児食　日程表 （PDF 124.9KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kiyose.lg.jp/kosodatekyouiku/mokuteki/1012383/1012402.html",
+        "title": "ステップアップ幼児食"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/QzsJ/503429",
+          "title": "ステップアップ幼児食（令和6年5月）"
+        }
+      ],
+      "contact": {
+        "contactName": "子育て支援課母子保健係",
+        "contactPhone": "042-497-2077",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "2048511",
+        "contactAddress": "東京都清瀬市中里5-842　しあわせ未来センター1階"
+      },
+      "area": {
+        "areaCode": "132217;清瀬市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132217+3+UM798",
+        "organization": "3000020132217",
+        "compartment": "子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-15",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "清瀬市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法、食育基本法",
+        "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）、法第5条（子どもの食育における保護者、教育関係者等の役割）、21条 （地域における食生活の改善のための取組の推進）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

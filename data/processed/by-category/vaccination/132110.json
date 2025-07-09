@@ -1,0 +1,2889 @@
+{
+  "version": "2025-07-09T05:55:17.821Z",
+  "areaCode": "132110",
+  "areaName": "小平市",
+  "category": "vaccination",
+  "count": 20,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "日本脳炎１期"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "こどもの予防接種\n定期予防接種について\n予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。\n接種に必要な予診票は、市が定めるスケジュールに沿って、住民登録がある住所へ郵送いたします。\n接種当日は、予診票に必要事項を記入しお持ちください。\n小平市以外で発行された予診票は使用できません。\n市内に住所のない方は、小平市の予診票は使用できません。\n予診票の交付申請について\n小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "target": {
+        "targetPersons": "生後６か月から７歳６か月に至るまで",
+        "lessThan": {
+          "targetAge": 7,
+          "targetAgeOfMonths": 6
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後６か月から７歳６か月に至るまで"
+      },
+      "support": {
+        "description": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。"
+      },
+      "cost": null,
+      "costConditions": "無料（償還払いの場合は、「市が定める上限額」と「実際の接種費用」のいずれか少ない方の金額）",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "市内指定医療機関（予防接種医療機関一覧（PDF 248.7KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "予診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "健康推進課の窓口（小平市健康センター1階）",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000031.pdf",
+          "title": "ワクチンの供給状況について（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf",
+          "title": "予防接種医療機関一覧（PDF 248.7KB）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000018.pdf",
+          "title": "日本脳炎ワクチン接種に関するＱ＆Ａ：【厚生労働省】（外部リンク）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou03/index_00002.html",
+          "title": "日本脳炎説明書（PDF 416.5KB）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html",
+          "title": "定期予防接種一覧（PDF 350.5KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html",
+        "title": "こどもの予防接種"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/085/085402.html",
+          "title": "子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」"
+        }
+      ],
+      "contact": {
+        "contactName": "健康推進課予防接種担当",
+        "contactPhone": "042-346-3700",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+10+UM54",
+        "organization": "2000020132110",
+        "compartment": "健康推進課予防接種担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-02",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "日本脳炎2期"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "こどもの予防接種\n定期予防接種について\n予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。\n接種に必要な予診票は、市が定めるスケジュールに沿って、住民登録がある住所へ郵送いたします。\n接種当日は、予診票に必要事項を記入しお持ちください。\n小平市以外で発行された予診票は使用できません。\n市内に住所のない方は、小平市の予診票は使用できません。\n予診票の交付申請について\n小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "target": {
+        "targetPersons": "９歳以上１３歳未満",
+        "lessThan": {
+          "targetAge": 13,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 9,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "９歳以上１３歳未満"
+      },
+      "support": {
+        "description": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。"
+      },
+      "cost": null,
+      "costConditions": "無料（償還払いの場合は、「市が定める上限額」と「実際の接種費用」のいずれか少ない方の金額）",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "市内指定医療機関（予防接種医療機関一覧（PDF 248.7KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "予診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "健康推進課の窓口（小平市健康センター1階）",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf",
+          "title": "予防接種医療機関一覧（PDF 248.7KB）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000018.pdf",
+          "title": "日本脳炎ワクチン接種に関するＱ＆Ａ：【厚生労働省】（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000031.pdf",
+          "title": "ワクチンの供給状況について（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html",
+          "title": "定期予防接種一覧（PDF 350.5KB）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou03/index_00002.html",
+          "title": "日本脳炎説明書（PDF 416.5KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html",
+        "title": "こどもの予防接種"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/085/085402.html",
+          "title": "子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」"
+        }
+      ],
+      "contact": {
+        "contactName": "健康推進課予防接種担当",
+        "contactPhone": "042-346-3700",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+11+UM54",
+        "organization": "2000020132110",
+        "compartment": "健康推進課予防接種担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-02",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "ジフテリア・破傷風 ２期"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "こどもの予防接種\n定期予防接種について\n予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。\n接種に必要な予診票は、市が定めるスケジュールに沿って、住民登録がある住所へ郵送いたします。\n接種当日は、予診票に必要事項を記入しお持ちください。\n小平市以外で発行された予診票は使用できません。\n市内に住所のない方は、小平市の予診票は使用できません。\n予診票の交付申請について\n小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "target": {
+        "targetPersons": "１１歳以上１３歳未満",
+        "lessThan": {
+          "targetAge": 13,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 11,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "１１歳以上１３歳未満"
+      },
+      "support": {
+        "description": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。"
+      },
+      "cost": null,
+      "costConditions": "無料（償還払いの場合は、「市が定める上限額」と「実際の接種費用」のいずれか少ない方の金額）",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "市内指定医療機関（予防接種医療機関一覧（PDF 248.7KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "予診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "健康推進課の窓口（小平市健康センター1階）",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000031.pdf",
+          "title": "ワクチンの供給状況について（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html",
+          "title": "定期予防接種一覧（PDF 350.5KB）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou03/index_00002.html",
+          "title": "ジフテリア・破傷風第2期説明書（PDF 416.5KB）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf",
+          "title": "予防接種医療機関一覧（PDF 248.7KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html",
+        "title": "こどもの予防接種"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/085/085402.html",
+          "title": "子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」"
+        }
+      ],
+      "contact": {
+        "contactName": "健康推進課予防接種担当",
+        "contactPhone": "042-346-3700",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+12+UM54",
+        "organization": "2000020132110",
+        "compartment": "健康推進課予防接種担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-02",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "ヒトパピローマウイルス感染症(子宮頸がん予防ワクチン）サーバリックス（２価）ガーダシル（４価）"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "こどもの予防接種\n定期予防接種について\n予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。\n接種に必要な予診票は、市が定めるスケジュールに沿って、住民登録がある住所へ郵送いたします。\n接種当日は、予診票に必要事項を記入しお持ちください。\n小平市以外で発行された予診票は使用できません。\n市内に住所のない方は、小平市の予診票は使用できません。\n予診票の交付申請について\n小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "target": {
+        "targetPersons": "小学６年生から高校１年生相当の\n年齢の女性",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "小学６年生から高校１年生相当の\n年齢の女性"
+      },
+      "support": {
+        "description": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。"
+      },
+      "cost": null,
+      "costConditions": "無料（償還払いの場合は、「市が定める上限額」と「実際の接種費用」のいずれか少ない方の金額）",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "市内指定医療機関（予防接種医療機関一覧（PDF 248.7KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "予診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "健康推進課の窓口（小平市健康センター1階）",
+      "relatedLink": [
+        {
+          "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou03/index_00002.html",
+          "title": "ヒトパピローマウイルス感染症（子宮頸がん予防ワクチン）（PDF 245.8KB）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000026.pdf",
+          "title": "子宮頸がん予防ワクチンに関するＱ＆Ａ：【厚生労働省】（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf",
+          "title": "予防接種医療機関一覧（PDF 248.7KB）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000031.pdf",
+          "title": "子宮頸がん予防(HPV)ワクチンのキャッチアップ接種"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html",
+          "title": "定期予防接種一覧（PDF 350.5KB）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/098/098813.html",
+          "title": "ワクチンの供給状況について（外部リンク）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou/hpv_qa.html",
+          "title": "HPVワクチンに関するリーフレット（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html",
+        "title": "こどもの予防接種"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/085/085402.html",
+          "title": "子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」"
+        }
+      ],
+      "contact": {
+        "contactName": "健康推進課予防接種担当",
+        "contactPhone": "042-346-3700",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+13+UM54",
+        "organization": "2000020132110",
+        "compartment": "健康推進課予防接種担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-02",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "ヒトパピローマウイルス感染症(子宮頸がん予防ワクチン）シルガード９（９価）"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "こどもの予防接種\n定期予防接種について\n予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。\n接種に必要な予診票は、市が定めるスケジュールに沿って、住民登録がある住所へ郵送いたします。\n接種当日は、予診票に必要事項を記入しお持ちください。\n小平市以外で発行された予診票は使用できません。\n市内に住所のない方は、小平市の予診票は使用できません。\n予診票の交付申請について\n小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "target": {
+        "targetPersons": "小学６年生から高校１年生相当の\n年齢の女性",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "小学６年生から高校１年生相当の\n年齢の女性"
+      },
+      "support": {
+        "description": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。"
+      },
+      "cost": null,
+      "costConditions": "無料（償還払いの場合は、「市が定める上限額」と「実際の接種費用」のいずれか少ない方の金額）",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "市内指定医療機関（予防接種医療機関一覧（PDF 248.7KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "予診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "健康推進課の窓口（小平市健康センター1階）",
+      "relatedLink": [
+        {
+          "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou/hpv_qa.html",
+          "title": "HPVワクチンに関するリーフレット（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000031.pdf",
+          "title": "子宮頸がん予防(HPV)ワクチンのキャッチアップ接種"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html",
+          "title": "定期予防接種一覧（PDF 350.5KB）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/098/098813.html",
+          "title": "ワクチンの供給状況について（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf",
+          "title": "予防接種医療機関一覧（PDF 248.7KB）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou03/index_00002.html",
+          "title": "ヒトパピローマウイルス感染症（子宮頸がん予防ワクチン）（PDF 245.8KB）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000026.pdf",
+          "title": "子宮頸がん予防ワクチンに関するＱ＆Ａ：【厚生労働省】（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html",
+        "title": "こどもの予防接種"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/085/085402.html",
+          "title": "子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」"
+        }
+      ],
+      "contact": {
+        "contactName": "健康推進課予防接種担当",
+        "contactPhone": "042-346-3700",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+14+UM54",
+        "organization": "2000020132110",
+        "compartment": "健康推進課予防接種担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-02",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊娠の届出・母子健康手帳の交付",
+        "shortName": "母子健康手帳の交付"
+      },
+      "summary": "妊娠がわかったら妊娠の届出をしてください。妊娠の届出をした妊婦さんに母子健康手帳を交付します。母子健康手帳は、妊娠からお子さんが小学校に入学するまでの、母と子の健康の記録です。育児、予防接種、健康診査などの際に必要となります。",
+      "description": "妊娠届を提出された方を対象に母子健康手帳や妊婦健康診査受診票等の交付、マタニティサポート面談を行っています。\nマタニティサポート面談を受けた方には、出産応援ギフトおよび育児パッケージをお渡しします。",
+      "target": {
+        "targetPersons": "妊婦の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "母子健康手帳や妊婦健康診査受診票等の交付、マタニティサポート面談を行っています。",
+        "monetarySupport": null,
+        "materiallySupport": "母子健康手帳や妊婦健康診査受診票等の交付、母子保健サービスの案内、妊娠・出産・子育てに関する相談を行っています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "妊婦本人,代理人",
+      "procedureMethod": "手続き窓口に来所",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "妊娠の確定診を受けたら早めに母子手帳をお受け取りください。"
+      },
+      "electronicSubmission": true,
+      "belongings": "妊婦本人が届け出する場合\nマイナンバーが確認できるもの（マイナンバーカード、通知カードなど）\n妊婦の本人確認ができるもの（マイナンバーカード、運転免許証、パスポートなど）\n\n代理人が届け出する場合\n妊婦本人のマイナンバーが確認できるもの\n委任状（受付窓口にあります。ページ下からダウンロードもできます。）\n代理人の本人確認ができるもの（マイナンバーカード、運転免許証、パスポートなど）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "|場所|曜日|時間帯|備考|\n|:----|:----|:----|:----|健康センター|月曜日～金曜日|午前８時３０分～午後５時|マタニティサポート面談は予約優先|\n|保険年金課（市役所1階）|土曜日|午前８時３０分～午後０時１５分|母子手帳交付のみ|\n|花小金井南公民館|火曜日|午前９時～午後４時|要予約|\n|小川西町地域センター|火曜日(午前)、木曜日（午後）|午前：９時～正午、午後：１時～午後４時|要予約|",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/008/008601.html",
+        "title": "妊娠した方は（母子健康手帳など）"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/8601/008601/att_0000007.png",
+          "title": "こだっこWeb予約"
+        }
+      ],
+      "contact": {
+        "contactName": "こども家庭センター母子保健担当",
+        "contactPhone": "042-346-3701",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM1",
+        "organization": "2000020132110",
+        "compartment": "こども家庭センター母子保健担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-22",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第15条（妊娠の届出）、第16条（母子健康手帳）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "077",
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児医療費（子ども医療費）の助成",
+        "shortName": "乳幼児医療費助成制度（マル乳）"
+      },
+      "summary": "子どもの保健対策を充実し、子育て世帯の経済的負担を軽減するため、お子さんが病気やけがなどにより健康保険を使って医療機関で受診した場合、保険診療の自己負担分の一部（2割または3割）を助成しています。",
+      "description": "乳幼児医療費助成制度（マル乳）\n小学校入学前の乳幼児が病院等で受診したときの医療費を助成します。この制度を受けるには、申請をして「医療証」の交付を受けることが必要です。\n\n(注)申請、各種変更手続きはこのページ下の関連リンクを参照ください。\n\n対象となる方\n小平市に住所のある0歳から6歳（小学校入学前まで）の乳幼児を養育している方。\n\n(注)所得制限はありません。\n\n(注)単身赴任等で保護者の住所が小平市以外の場合でも対象となります。 \n\n対象とならない乳幼児\n健康保険に加入していない\nひとり親家庭医療費助成（マル親）を受けている\n心身障害者医療費助成（マル障）を受けている\n児童福祉施設等に入所していて医療費の自己負担がない\n生活保護を受けている\n里親に委託されている\n助成内容\n乳幼児が病院等で受診したときの健康保険の適用がある医療費の自己負担分を助成します。（保険診療の自己負担がなくなります。）\n\n助成の対象となるもの\n病院や薬局などで診療を受けるとき、健康保険が適用されるもの。\n補装具などは健康保険が適用されたものあれば、助成の対象となります。\nマル都医療、養育医療、小児慢性疾患医療、自立支援医療などの医療費助成を受けていて、自己負担が生じるもの（自己負担額によっては、助成の対象とならない場合があります。）\n助成の対象とならないもの\n健康診断、予防接種、薬の容器代、検診料、診断書料、特定療養費（一定基準の病院などで紹介状なしで受診したとき）など、健康保険が適用されないもの。\n入院時の食事療養標準負担額。\n各種申請に必要な様式はこちら;https://www.city.kodaira.tokyo.jp/kurashi/010/010653.html\n\n関連リンク\nマル乳・マル子・マル青を申請するとき;https://www.city.kodaira.tokyo.jp/kurashi/009/009691.html医療証が届くまで、医療証の使い方;https://www.city.kodaira.tokyo.jp/kurashi/003/003715.html領収書での精算手続き;https://www.city.kodaira.tokyo.jp/kurashi/009/009679.html住所など変更があったときの手続き;https://www.city.kodaira.tokyo.jp/kurashi/009/009704.html医療証をなくしたとき;https://www.city.kodaira.tokyo.jp/kurashi/009/009684.html",
+      "target": {
+        "targetPersons": "小平市に住所のある0歳から6歳（小学校入学前まで）の乳幼児を養育している方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "小平市に住所のある0歳から6歳（小学校入学前まで）の乳幼児"
+      },
+      "support": {
+        "description": "乳幼児が病院等で受診したときの健康保険の適用がある医療費の自己負担分を助成します。（保険診療の自己負担がなくなります。）\n\n助成の対象となるもの\n病院や薬局などで診療を受けるとき、健康保険が適用されるもの。\n補装具などは健康保険が適用されたものあれば、助成の対象となります。\nマル都医療、養育医療、小児慢性疾患医療、自立支援医療などの医療費助成を受けていて、自己負担が生じるもの（自己負担額によっては、助成の対象とならない場合があります。）\n助成の対象とならないもの\n健康診断、予防接種、薬の容器代、検診料、診断書料、特定療養費（一定基準の病院などで紹介状なしで受診したとき）など、健康保険が適用されないもの。\n入院時の食事療養標準負担額。",
+        "monetarySupport": "乳幼児が病院等で受診したときの健康保険の適用がある医療費の自己負担分を助成します。（保険診療の自己負担がなくなります。）\n\n助成の対象となるもの\n病院や薬局などで診療を受けるとき、健康保険が適用されるもの。\n補装具などは健康保険が適用されたものあれば、助成の対象となります。\nマル都医療、養育医療、小児慢性疾患医療、自立支援医療などの医療費助成を受けていて、自己負担が生じるもの（自己負担額によっては、助成の対象とならない場合があります。）\n助成の対象とならないもの\n健康診断、予防接種、薬の容器代、検診料、診断書料、特定療養費（一定基準の病院などで紹介状なしで受診したとき）など、健康保険が適用されないもの。\n入院時の食事療養標準負担額。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "この制度を受けるには、申請をして「医療証」の交付を受けることが必要です。\n\n(注)申請、各種変更手続きはこのページ下の関連リンクを参照ください。\n各種申請に必要な様式はこちら;https://www.city.kodaira.tokyo.jp/kurashi/010/010653.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/009/009684.html",
+          "title": "医療証をなくしたとき"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/009/009679.html",
+          "title": "領収書での精算手続き"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/003/003715.html",
+          "title": "医療証が届くまで、医療証の使い方"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/009/009691.html",
+          "title": "マル乳・マル子・マル青を申請するとき"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/009/009704.html",
+          "title": "住所など変更があったときの手続き"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/000/000227.html",
+        "title": "乳幼児医療費助成制度（マル乳）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て支援課手当助成担当",
+        "contactPhone": "042-346-9544",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-9200",
+        "zipCode": "1878701",
+        "contactAddress": "小平市小川町2-1333　市役所2階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM23",
+        "organization": "2000020132110",
+        "compartment": "子育て支援課手当助成担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-02-13",
+      "odInformation": {
+        "updateDate": "2024-07-11",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "小平市乳幼児の医療費の助成に関する条例",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "ひとり親家庭医療費助成",
+        "shortName": "ひとり親家庭医療証（マル親医療証）"
+      },
+      "summary": "ひとり親家庭の母または父、および、そのお子さんの医療費に対して助成を行います。",
+      "description": "ひとり親家庭医療証（マル親医療証）\n離婚や死亡などによるひとり親家庭や、保護者に重度の障がいがある家庭に、医療費の一部を助成する制度です。この制度を受けるには、申請をして「医療証」の交付を受けることが必要です。所得制限があります。\n\n対象となる方\n次のいずれかに該当する児童(注)を養育している方とその児童。\n\n(注)18歳になった年度末までの児童（児童に一定以上の障がいがある場合は20歳未満まで）\n\n父母が離婚した\n父（母）が死亡した\n父（母）が生死不明\n父（母）に1年以上遺棄されている\n父（母）が裁判所からのDV保護命令を受けている\n父（母）が1年以上拘禁されている\n母が婚姻によらないで出生した\n父（母）に重度の障がい（身体障害者手帳1・2級程度）がある\n対象とならない方\n所得制限を超えている\n生活保護を受けている\n規定の施設に入所している\n里親に委託されている\n所得制限\nひとり親家庭医療費助成制度　所得制限額表\n|扶養親族等の数（人）|本人<br>所得限度額（円）|扶養義務者、配偶者<br>所得限度額（円）|\n|:----|:----|:----|\n|0|1，920，000|2，360，000|\n|1|2，300，000|2，740，000|\n|2|2，680，000|3，120，000|\n|3|3，060，000|3，500，000|\n|1人増すごとに|380，000円加算|380，000円加算|\n\n扶養義務者とは対象児童を含む直系血族及び兄弟姉妹のことで、同居した場合、所得審査の対象となります。\n養育費を受けている方は、その総額（1年間）の8割が所得に加算されます。\n所得とは、給与所得者は給与所得控除後の金額から8万円を引いた額、確定申告の方は収入額から必要経費と8万円を引いた額です。給与所得又は公的年金等に係る所得を有する場合は、給与所得の金額及び公的年金等に係る所得の合計額から、10万円を引いた額です。\n次の扶養親族がある方については、所得制限限度額に加算します。特定扶養親族等15万円（配偶者・扶養義務者については適用なし）、同一生計配偶者（70歳の者に限る）・老人扶養親族10万円（配偶者・扶養義務者については1人目は適用なし、2人目から6万円）\n次の控除がある場合は、所得から控除できます。雑損・医療費・小規模企業共済の相当額、配偶者特別控除の相当額、障害者控除27万円、特別障害者控除40万円、勤労学生控除27万円、寡婦控除27万円（受給者が母の場合は適用なし）、ひとり親控除35万円（受給者が父又は母の場合は適用なし）、租税特別措置法に規定される長期譲渡所得又は短期譲渡所得に係る特別控除。\n申請の方法\n申請者の状況により必要書類が異なりますので、子育て支援課までお問い合わせください。\n\n制度の内容\n助成内容\n医療証に記載されている方が、医療機関で受診したときの保険診療による自己負担分を助成するものです。\n\n(注)住民税が課税世帯の場合、1割の自己負担があります。この場合、医療証に「一部」の表示があります。\n\n助成の対象となるもの\n医療機関で受診するときに健康保険が適用される（保険証が使える）もの。\n補装具などは健康保険が適用されるものであれば、助成の対象となります。\n助成の対象とならないもの\n健康診断、予防接種、薬の容器代、文書料、選定療養費（一定以上の病院などで紹介状なく受診したとき）など、健康保険が適用されないもの。\n入院時の食事（生活）療養標準負担額。\n医療証の更新\n医療証の有効期間は最長で12月31日までとなっていますので、更新手続きが必要な方には　11月頃にお知らせします。\n\n医療証の使い方\n東京都内で受診する場合\n医療機関の窓口に「健康保険証」と「マル親医療証」を提示してください。この2つを提示することで助成を受けることができます。\n\n東京都以外で受診する場合、医療証が届く前に受診する場合\n医療機関の窓口に「健康保険証」のみ提示していただき、保険診療の自己負担分を一旦お支払いください。（東京都以外で受診する場合、医療証を提示しても助成ができません。）\n自己負担分については、領収書での精算手続きをしていただいた後、助成分を支給します。\n(注)手続きの方法は、ページ下の関連リンク「各種手続き」から、「領収書での精算手続き」をご覧ください。\n\n学校等（注）の管理下や通学通園中に負った傷病の場合\n学校等（注）を通して給付金が受けられる場合がありますので、学校等(注)に報告し、受診の際に学校等での傷病であることを医療機関に伝えてください。\n給付金申請の手続きが困難になりますので、医療証は使わずに受診してください。\n(注)学校等・・・幼稚園、保育園を含みます。\n\n一定以上の自己負担をしたとき\n医療証に「一部」の表示がある方は、自己負担限度額を超えた分について支給が受けられます。\n自己負担限度額\n外来　個人ごと　18，000円／月　(年間上限：144，000円）\n\n外来・入院　世帯ごと　57，600円／月（多数回該当：44，400円）\n\n(注)手続きの方法は、ページ下の関連リンク「各種手続き」から、「領収書での精算手続き」をご覧ください。\n\n関連リンク\nひとり親家庭医療費助成制度　各種手続き;https://www.city.kodaira.tokyo.jp/kurashi/010/010335.html",
+      "target": {
+        "targetPersons": "対象となる方\n次のいずれかに該当する児童(注)を養育している方とその児童。\n\n(注)18歳になった年度末までの児童（児童に一定以上の障がいがある場合は20歳未満まで）\n\n父母が離婚した\n父（母）が死亡した\n父（母）が生死不明\n父（母）に1年以上遺棄されている\n父（母）が裁判所からのDV保護命令を受けている\n父（母）が1年以上拘禁されている\n母が婚姻によらないで出生した\n父（母）に重度の障がい（身体障害者手帳1・2級程度）がある\n対象とならない方\n所得制限を超えている\n生活保護を受けている\n規定の施設に入所している\n里親に委託されている",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "18歳になった年度末までの児童（児童に一定以上の障がいがある場合は20歳未満まで）"
+      },
+      "support": {
+        "description": "医療証に記載されている方が、医療機関で受診したときの保険診療による自己負担分を助成するものです。\n\n(注)住民税が課税世帯の場合、1割の自己負担があります。この場合、医療証に「一部」の表示があります。\n\n助成の対象となるもの\n医療機関で受診するときに健康保険が適用される（保険証が使える）もの。\n補装具などは健康保険が適用されるものであれば、助成の対象となります。\n助成の対象とならないもの\n健康診断、予防接種、薬の容器代、文書料、選定療養費（一定以上の病院などで紹介状なく受診したとき）など、健康保険が適用されないもの。\n入院時の食事（生活）療養標準負担額。",
+        "monetarySupport": "医療証に記載されている方が、医療機関で受診したときの保険診療による自己負担分を助成するものです。\n\n(注)住民税が課税世帯の場合、1割の自己負担があります。この場合、医療証に「一部」の表示があります。\n\n助成の対象となるもの\n医療機関で受診するときに健康保険が適用される（保険証が使える）もの。\n補装具などは健康保険が適用されるものであれば、助成の対象となります。\n助成の対象とならないもの\n健康診断、予防接種、薬の容器代、文書料、選定療養費（一定以上の病院などで紹介状なく受診したとき）など、健康保険が適用されないもの。\n入院時の食事（生活）療養標準負担額。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申請者の状況により必要書類が異なりますので、子育て支援課までお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "東京都内で受診する場合\n医療機関の窓口に「健康保険証」と「マル親医療証」を提示してください。\n東京都以外で受診する場合、医療証が届く前に受診する場合\n医療機関の窓口に「健康保険証」のみ提示していただき、保険診療の自己負担分を一旦お支払いください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/010/010335.html",
+          "title": "ひとり親家庭医療費助成制度　各種手続き"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/010/010337.html",
+        "title": "ひとり親家庭医療証（マル親医療証）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て支援課手当助成担当",
+        "contactPhone": "042-346-9544",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-9200",
+        "zipCode": "1878701",
+        "contactAddress": "小平市小川町2-1333　市役所2階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM27",
+        "organization": "2000020132110",
+        "compartment": "子育て支援課手当助成担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-11-24",
+      "odInformation": {
+        "updateDate": "2024-07-11",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "小平市ひとり親家庭の医療費の助成に関する条例",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小平市の妊娠・出産に関する相談",
+        "shortName": "妊娠SOS相談"
+      },
+      "summary": "思いがけない妊娠に関する相談を受け付けています",
+      "description": "妊娠したけれど、どうしたらよいか分からないという方、ひとりで悩まず、ご相談ください。\n保健師、助産師が電話や面接で相談をお受けします。秘密は守られます。\n日時：月曜日から金曜日　午前8時30分から午後5時まで（祝日・年末年始を除く）\n\n電話：042-346-3701\n\n場所：小平市健康センター;https://www.city.kodaira.tokyo.jp/kurashi/001/001353.html（西武多摩湖線 青梅街道駅徒歩5分。小平市役所から徒歩3分）\n\n（注）都内にお住まいの方は東京都の相談窓口である、「東京都　妊娠相談ほっとライン（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/ninshin-hotline.html」電話：03-5339-1133 をご利用いただけます。\n\n一般社団法人全国妊娠SOSネットワーク（外部リンク）;https://zenninnet-sos.org/　\n\n例えば、このような相談をお受けしています\n「生理が遅れている。妊娠したかも…」\n\n「思いがけず妊娠してしまい、相談できる人がいない」\n\n「妊娠したが、自分では育てられない」\n\n「産みたいが出産の費用がない」\n\n「産もうかどうか迷っている」\n\n「妊娠中の体調が心配」\n\n…などの相談をお受けします。匿名でもけっこうです。秘密は守られます。一緒に考えていきましょう。 \n\n産婦人科で診察を受けるには\nまず、自分が受けたい場所（地域）の産婦人科を探しましょう。\n\n医療機関に電話をして、予約や診察時間・費用等を確認しましょう。\n\n医療機関を探すには（外部リンク）;http://www.himawari.metro.tokyo.jp/qq/qq13tomnlt.asp\n妊娠したかの検査、費用は医療機関によって異なります。健康保険は使えないので、全額自己負担になります。 \n妊娠・出産・育児にまつわるお金のこと\n妊娠中\n妊婦健診…健診費用を一部助成する「妊婦健康診査受診票」14回分を、母子健康手帳交付時にお渡しします。（詳しい費用などは各医療機関にお問い合わせください）\n入院助産制度…経済的な理由などで出産費が用意できない場合には、助産費を援助する入院助産の制度があります。[問合せ先：生活支援課　Tel：042-346-9545]\n出産\n出産育児一時金…健康保険から、42万円が支払われます（妊娠12週以降の流産・人工妊娠中絶を含む）。詳しくは加入している保険へお問い合わせください。（国民健康保険の方;https://www.city.kodaira.tokyo.jp/kurashi/002/002474.html）\n産科医療補償制度…この制度に加入している分娩機関での出産では、万一の際に補償を受けることができます。分娩時の何らかの理由により、重度の脳性まひになった赤ちゃんとご家族の経済的負担を補償する制度です。加入している医療機関にはシンボルマークが掲示されています。\n申請先は、公益財団法人 日本医療機能評価機構です。\n\n詳しくは、産科医療補償制度（公益財団法人 日本医療機能評価機構ホームページ）（外部リンク）;http://www.sanka-hp.jcqhc.or.jp/をご覧ください。\n\n【専用コールセンター】0120－330－637　午前9時～午後5時(土日祝除く)\n\n育児\n乳幼児健診;https://www.city.kodaira.tokyo.jp/kurashi/000/000211.html\n子どもの手当て、乳幼児医療 （コンテンツは公開終了しました）;https://www.city.kodaira.tokyo.jp/kurashi/042/042250.html#linkrot\n保育園;https://www.city.kodaira.tokyo.jp/kurashi/049/049317.html\n予防接種;https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html\n\nその他\nその他のお手続き、母子健康手帳の交付;https://www.city.kodaira.tokyo.jp/kurashi/008/008601.htmlなど。",
+      "target": {
+        "targetPersons": "妊娠・出産にとまどいのある方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "保健師、助産師が電話や面接で相談をお受けします。",
+        "monetarySupport": null,
+        "materiallySupport": "保健師、助産師が電話や面接で相談をお受けします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "小平市健康センター",
+        "implementationAddress": "小平市学園東町1-19-12"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:30",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "月曜日から金曜日　午前8時30分から午後5時まで"
+      },
+      "specificDate": null,
+      "holiday": "祝日・年末年始",
+      "utilization": null,
+      "procedurePersons": "小平市民の方",
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/001/001353.html",
+          "title": "小平市健康センター"
+        },
+        {
+          "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/ninshin-hotline.html",
+          "title": "東京都　妊娠相談ほっとライン（外部リンク）"
+        },
+        {
+          "uri": "http://www.himawari.metro.tokyo.jp/qq/qq13tomnlt.asp",
+          "title": "医療機関を探すには（外部リンク）"
+        },
+        {
+          "uri": "https://zenninnet-sos.org/",
+          "title": "一般社団法人全国妊娠SOSネットワーク（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/042/042250.html",
+        "title": "妊娠SOS相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健担当",
+        "contactPhone": "042-346-3701",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM47",
+        "organization": "2000020132110",
+        "compartment": "こども家庭センター母子保健担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "BCG"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "こどもの予防接種\n定期予防接種について\n予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。\n接種に必要な予診票は、市が定めるスケジュールに沿って、住民登録がある住所へ郵送いたします。\n接種当日は、予診票に必要事項を記入しお持ちください。\n小平市以外で発行された予診票は使用できません。\n市内に住所のない方は、小平市の予診票は使用できません。\n予診票の交付申請について\n小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "target": {
+        "targetPersons": "生後１歳に至るまで",
+        "lessThan": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後１歳に至るまで"
+      },
+      "support": {
+        "description": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。"
+      },
+      "cost": null,
+      "costConditions": "無料（償還払いの場合は、「市が定める上限額」と「実際の接種費用」のいずれか少ない方の金額）",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "健康センター",
+        "implementationAddress": "小平市学園東町1-19-12　小平市健康センター内"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "予診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "健康推進課の窓口（小平市健康センター1階）",
+      "relatedLink": [
+        {
+          "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou03/index_00002.html",
+          "title": "小平市健康センター BCG集団接種日程表（PDF 115.3KB）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000027.pdf",
+          "title": "ワクチンの供給状況について（外部リンク）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/bcg/",
+          "title": "結核とＢＣＧワクチン接種に関するＱ＆Ａ：【厚生労働省】（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000031.pdf",
+          "title": "定期予防接種一覧（PDF 350.5KB）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000013.pdf",
+          "title": "BCG説明書（PDF 330.2KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html",
+        "title": "こどもの予防接種"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/085/085402.html",
+          "title": "子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」"
+        }
+      ],
+      "contact": {
+        "contactName": "健康推進課予防接種担当",
+        "contactPhone": "042-346-3700",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM54",
+        "organization": "2000020132110",
+        "compartment": "健康推進課予防接種担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-02",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "任意予防接種",
+        "shortName": "任意予防接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。\nこのうち小平市では、次の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+      "description": "任意予防接種について\nおたふくかぜワクチン、季節性インフルエンザワクチン等の任意接種の対象となる予防接種については、医療機関に直接お問い合わせください。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "おたふくかぜワクチン、季節性インフルエンザワクチン等の任意接種の対象となる予防接種",
+        "monetarySupport": null,
+        "materiallySupport": "おたふくかぜワクチン、季節性インフルエンザワクチン等の任意接種の対象となる予防接種"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "おたふくかぜワクチン、季節性インフルエンザワクチン等の任意接種の対象となる予防接種については、医療機関に直接お問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html",
+        "title": "こどもの予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康推進課予防接種担当",
+        "contactPhone": "042-346-3700",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM55",
+        "organization": "2000020132110",
+        "compartment": "健康推進課予防接種担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-02",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の育児に関する金銭的支援",
+        "shortName": "多胎児家庭移動経費補助"
+      },
+      "summary": "母子保健事業や予防接種等のために外出する際のタクシー利用などに対する補助を行っています",
+      "description": "多胎児家庭支援事業の「移動経費補助」を実施しています。対象の方には、個別に通知します。\n3～4か月児健診、1歳6か月児健診の対象となっている多胎児のいるご家庭が対象で、健診での来所時にタクシー券として使えるこども商品券をお渡ししています。保健師との面談が必要です。",
+      "target": {
+        "targetPersons": "3～4か月児健診、1歳6か月児健診の対象となっている多胎児のいらっしゃるご家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "3～4か月児健診、1歳6か月児健診の対象となっている多胎児"
+      },
+      "support": {
+        "description": "小平市では多胎児家庭の皆様が安心して子育てができることを目的に、多胎児家庭支援事業の「移動経費補助」を実施しています。",
+        "monetarySupport": "多胎児家庭支援事業の「移動経費補助」としてこども商品券をお渡ししています。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "対象の方には、個別に通知します。",
+      "procedurePersons": null,
+      "procedureMethod": "補助を受けるには、保健師との面談が必要です。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/086/086373.html",
+        "title": "多胎児家庭支援事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健担当",
+        "contactPhone": "042-346-3701",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM58",
+        "organization": "2000020132110",
+        "compartment": "こども家庭センター母子保健担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-03",
+      "odInformation": {
+        "updateDate": "2024-07-08",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "小平市子育て世代包括支援センター事業実施要綱",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "小児の肺炎球菌感染症"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "こどもの予防接種\n定期予防接種について\n予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。\n接種に必要な予診票は、市が定めるスケジュールに沿って、住民登録がある住所へ郵送いたします。\n接種当日は、予診票に必要事項を記入しお持ちください。\n小平市以外で発行された予診票は使用できません。\n市内に住所のない方は、小平市の予診票は使用できません。\n予診票の交付申請について\n小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "target": {
+        "targetPersons": "生後２か月から５歳に至るまで",
+        "lessThan": {
+          "targetAge": 5,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後２か月から５歳に至るまで"
+      },
+      "support": {
+        "description": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。"
+      },
+      "cost": null,
+      "costConditions": "無料（償還払いの場合は、「市が定める上限額」と「実際の接種費用」のいずれか少ない方の金額）",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "市内指定医療機関（予防接種医療機関一覧（PDF 248.7KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "予診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "健康推進課の窓口（小平市健康センター1階）",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000029.pdf",
+          "title": "小児の肺炎球菌感染症説明書（PDF 262.3KB）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou03/index_00002.html",
+          "title": "ワクチンの供給状況について（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000031.pdf",
+          "title": "定期予防接種一覧（PDF 350.5KB）"
+        },
+        {
+          "uri": "http://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou28/qa_haienkyuukin.html",
+          "title": "小児用肺炎球菌ワクチンの切替えに関するＱ＆Ａ：【厚生労働省】（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf",
+          "title": "予防接種医療機関一覧（PDF 248.7KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html",
+        "title": "こどもの予防接種"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/085/085402.html",
+          "title": "子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」"
+        }
+      ],
+      "contact": {
+        "contactName": "健康推進課予防接種担当",
+        "contactPhone": "042-346-3700",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+2+UM54",
+        "organization": "2000020132110",
+        "compartment": "健康推進課予防接種担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-02",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "B型肝炎"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "こどもの予防接種\n定期予防接種について\n予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。\n接種に必要な予診票は、市が定めるスケジュールに沿って、住民登録がある住所へ郵送いたします。\n接種当日は、予診票に必要事項を記入しお持ちください。\n小平市以外で発行された予診票は使用できません。\n市内に住所のない方は、小平市の予診票は使用できません。\n予診票の交付申請について\n小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "target": {
+        "targetPersons": "１歳に至るまで",
+        "lessThan": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "１歳に至るまで"
+      },
+      "support": {
+        "description": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。"
+      },
+      "cost": null,
+      "costConditions": "無料（償還払いの場合は、「市が定める上限額」と「実際の接種費用」のいずれか少ない方の金額）",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "市内指定医療機関（予防接種医療機関一覧（PDF 248.7KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "予診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "健康推進課の窓口（小平市健康センター1階）",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000019.pdf",
+          "title": "B型肝炎説明書（PDF 306.8KB）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000031.pdf",
+          "title": "定期予防接種一覧（PDF 350.5KB）"
+        },
+        {
+          "uri": "http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000137555.html",
+          "title": "Ｂ型肝炎ワクチンに関するＱ＆Ａ【厚生労働省】（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf",
+          "title": "予防接種医療機関一覧（PDF 248.7KB）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou03/index_00002.html",
+          "title": "ワクチンの供給状況について（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html",
+        "title": "こどもの予防接種"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/085/085402.html",
+          "title": "子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」"
+        }
+      ],
+      "contact": {
+        "contactName": "健康推進課予防接種担当",
+        "contactPhone": "042-346-3700",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+3+UM54",
+        "organization": "2000020132110",
+        "compartment": "健康推進課予防接種担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-02",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "ロタウイルス感染症（ロタリックス）"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "こどもの予防接種\n定期予防接種について\n予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。\n接種に必要な予診票は、市が定めるスケジュールに沿って、住民登録がある住所へ郵送いたします。\n接種当日は、予診票に必要事項を記入しお持ちください。\n小平市以外で発行された予診票は使用できません。\n市内に住所のない方は、小平市の予診票は使用できません。\n予診票の交付申請について\n小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "target": {
+        "targetPersons": "出生６週０日後から２４週０日後",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "出生６週０日後から２４週０日後"
+      },
+      "support": {
+        "description": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。"
+      },
+      "cost": null,
+      "costConditions": "無料（償還払いの場合は、「市が定める上限額」と「実際の接種費用」のいずれか少ない方の金額）",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "市内指定医療機関（予防接種医療機関一覧（PDF 248.7KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "予診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "健康推進課の窓口（小平市健康センター1階）",
+      "relatedLink": [
+        {
+          "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou03/index_00002.html",
+          "title": "ロタウイルス感染症説明書（PDF 337.7KB）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000012.pdf",
+          "title": "定期予防接種一覧（PDF 350.5KB）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf",
+          "title": "予防接種医療機関一覧（PDF 248.7KB）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000031.pdf",
+          "title": "ワクチンの供給状況について（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html",
+        "title": "こどもの予防接種"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/085/085402.html",
+          "title": "子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」"
+        }
+      ],
+      "contact": {
+        "contactName": "健康推進課予防接種担当",
+        "contactPhone": "042-346-3700",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+4+UM54",
+        "organization": "2000020132110",
+        "compartment": "健康推進課予防接種担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-02",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "ロタウイルス感染症（ロタテック）"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "こどもの予防接種\n定期予防接種について\n予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。\n接種に必要な予診票は、市が定めるスケジュールに沿って、住民登録がある住所へ郵送いたします。\n接種当日は、予診票に必要事項を記入しお持ちください。\n小平市以外で発行された予診票は使用できません。\n市内に住所のない方は、小平市の予診票は使用できません。\n予診票の交付申請について\n小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "target": {
+        "targetPersons": "出生６週０日後から３２週０日後まで\n※初回接種は出生１４週６日まで",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "出生６週０日後から３２週０日後まで\n※初回接種は出生１４週６日まで"
+      },
+      "support": {
+        "description": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。"
+      },
+      "cost": null,
+      "costConditions": "無料（償還払いの場合は、「市が定める上限額」と「実際の接種費用」のいずれか少ない方の金額）",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "市内指定医療機関（予防接種医療機関一覧（PDF 248.7KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "予診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "健康推進課の窓口（小平市健康センター1階）",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000031.pdf",
+          "title": "ロタウイルス感染症説明書（PDF 337.7KB）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000012.pdf",
+          "title": "ワクチンの供給状況について（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf",
+          "title": "予防接種医療機関一覧（PDF 248.7KB）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html",
+          "title": "定期予防接種一覧（PDF 350.5KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html",
+        "title": "こどもの予防接種"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/085/085402.html",
+          "title": "子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」"
+        }
+      ],
+      "contact": {
+        "contactName": "健康推進課予防接種担当",
+        "contactPhone": "042-346-3700",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+5+UM54",
+        "organization": "2000020132110",
+        "compartment": "健康推進課予防接種担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-02",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "５種混合"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "こどもの予防接種\n定期予防接種について\n予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。\n接種に必要な予診票は、市が定めるスケジュールに沿って、住民登録がある住所へ郵送いたします。\n接種当日は、予診票に必要事項を記入しお持ちください。\n小平市以外で発行された予診票は使用できません。\n市内に住所のない方は、小平市の予診票は使用できません。\n予診票の交付申請について\n小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "target": {
+        "targetPersons": "生後２か月から７歳６か月に至るまで",
+        "lessThan": {
+          "targetAge": 7,
+          "targetAgeOfMonths": 6
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後２か月から７歳６か月に至るまで"
+      },
+      "support": {
+        "description": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。"
+      },
+      "cost": null,
+      "costConditions": "無料（償還払いの場合は、「市が定める上限額」と「実際の接種費用」のいずれか少ない方の金額）",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "市内指定医療機関（予防接種医療機関一覧（PDF 248.7KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "予診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "健康推進課の窓口（小平市健康センター1階）",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html",
+          "title": "定期予防接種一覧（PDF 350.5KB）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000031.pdf",
+          "title": "ワクチンの供給状況について（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000028.pdf",
+          "title": "5種混合説明書（PDF 406KB）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou03/index_00002.html",
+          "title": "4種混合説明書（PDF 326.8KB）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf",
+          "title": "予防接種医療機関一覧（PDF 248.7KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html",
+        "title": "こどもの予防接種"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/085/085402.html",
+          "title": "子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」"
+        }
+      ],
+      "contact": {
+        "contactName": "健康推進課予防接種担当",
+        "contactPhone": "042-346-3700",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+6+UM54",
+        "organization": "2000020132110",
+        "compartment": "健康推進課予防接種担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-02",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "麻しん風しん混合第１期"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "こどもの予防接種\n定期予防接種について\n予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。\n接種に必要な予診票は、市が定めるスケジュールに沿って、住民登録がある住所へ郵送いたします。\n接種当日は、予診票に必要事項を記入しお持ちください。\n小平市以外で発行された予診票は使用できません。\n市内に住所のない方は、小平市の予診票は使用できません。\n予診票の交付申請について\n小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "target": {
+        "targetPersons": "生後12か月から24か月に至るまで",
+        "lessThan": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 12
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後12か月から24か月に至るまで"
+      },
+      "support": {
+        "description": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。"
+      },
+      "cost": null,
+      "costConditions": "無料（償還払いの場合は、「市が定める上限額」と「実際の接種費用」のいずれか少ない方の金額）",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "市内指定医療機関（予防接種医療機関一覧（PDF 248.7KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "予診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "健康推進課の窓口（小平市健康センター1階）",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html",
+          "title": "定期予防接種一覧（PDF 350.5KB）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf",
+          "title": "予防接種医療機関一覧（PDF 248.7KB）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou03/index_00002.html",
+          "title": "麻しん風しん混合説明書（PDF 335.7KB）"
+        },
+        {
+          "uri": "http://www.mhlw.go.jp/qa/kenkou/hashika/index.html",
+          "title": "風疹Ｑ＆Ａ：【国立感染症研究所】（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000017.pdf",
+          "title": "麻しん（はしか）に関するＱ＆Ａ：【厚生労働省】（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000031.pdf",
+          "title": "ワクチンの供給状況について（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html",
+        "title": "こどもの予防接種"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/085/085402.html",
+          "title": "子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」"
+        }
+      ],
+      "contact": {
+        "contactName": "健康推進課予防接種担当",
+        "contactPhone": "042-346-3700",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+7+UM54",
+        "organization": "2000020132110",
+        "compartment": "健康推進課予防接種担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-02",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "麻しん風しん混合第２期"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "こどもの予防接種\n定期予防接種について\n予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。\n接種に必要な予診票は、市が定めるスケジュールに沿って、住民登録がある住所へ郵送いたします。\n接種当日は、予診票に必要事項を記入しお持ちください。\n小平市以外で発行された予診票は使用できません。\n市内に住所のない方は、小平市の予診票は使用できません。\n予診票の交付申請について\n小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "target": {
+        "targetPersons": "小学校就学前の1年間",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "小学校就学前の1年間"
+      },
+      "support": {
+        "description": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。"
+      },
+      "cost": null,
+      "costConditions": "無料（償還払いの場合は、「市が定める上限額」と「実際の接種費用」のいずれか少ない方の金額）",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "市内指定医療機関（予防接種医療機関一覧（PDF 248.7KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "予診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "健康推進課の窓口（小平市健康センター1階）",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html",
+          "title": "定期予防接種一覧（PDF 350.5KB）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou03/index_00002.html",
+          "title": "麻しん風しん混合説明書（PDF 335.7KB）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf",
+          "title": "予防接種医療機関一覧（PDF 248.7KB）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000031.pdf",
+          "title": "ワクチンの供給状況について（外部リンク）"
+        },
+        {
+          "uri": "http://www.mhlw.go.jp/qa/kenkou/hashika/index.html",
+          "title": "風疹Ｑ＆Ａ：【国立感染症研究所】（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000017.pdf",
+          "title": "麻しん（はしか）に関するＱ＆Ａ：【厚生労働省】（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html",
+        "title": "こどもの予防接種"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/085/085402.html",
+          "title": "子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」"
+        }
+      ],
+      "contact": {
+        "contactName": "健康推進課予防接種担当",
+        "contactPhone": "042-346-3700",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+8+UM54",
+        "organization": "2000020132110",
+        "compartment": "健康推進課予防接種担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-02",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "水痘"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "こどもの予防接種\n定期予防接種について\n予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。\n接種に必要な予診票は、市が定めるスケジュールに沿って、住民登録がある住所へ郵送いたします。\n接種当日は、予診票に必要事項を記入しお持ちください。\n小平市以外で発行された予診票は使用できません。\n市内に住所のない方は、小平市の予診票は使用できません。\n予診票の交付申請について\n小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "target": {
+        "targetPersons": "生後１２か月から３６か月に至るまで",
+        "lessThan": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 12
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後１２か月から３６か月に至るまで"
+      },
+      "support": {
+        "description": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種法に基づき、定期予防接種を実施しています。お子様の接種状況を、母子健康手帳で確認したうえで接種してください。"
+      },
+      "cost": null,
+      "costConditions": "無料（償還払いの場合は、「市が定める上限額」と「実際の接種費用」のいずれか少ない方の金額）",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "市内指定医療機関（予防接種医療機関一覧（PDF 248.7KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "小平市に転入された方、予診票を紛失等された方は、下記の方法で予診票の交付申請ができます。\n\n電話・アプリでのご申請の場合、予診票の郵送に1～2週間程度かかりますので、お急ぎの場合は窓口でのご申請をお願いします。\n\n窓口での申請\n母子健康手帳を持って健康推進課の窓口（小平市健康センター1階）にお越しください。その場で確認し、予診票をお渡しいたします。\n\n電話での交付申請\n母子健康手帳をお手元にご用意の上、健康推進課予防接種担当（042-346-3700）までお電話ください。\n\nアプリからの申請\n子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」;https://www.city.kodaira.tokyo.jp/kurashi/085/085402.htmlから交付申請ができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "予診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "健康推進課の窓口（小平市健康センター1階）",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html",
+          "title": "定期予防接種一覧（PDF 350.5KB）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000030.pdf",
+          "title": "予防接種医療機関一覧（PDF 248.7KB）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/26942/026942/att_0000031.pdf",
+          "title": "ワクチンの供給状況について（外部リンク）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou03/index_00002.html",
+          "title": "水痘説明書（PDF 335.7KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/026/026942.html",
+        "title": "こどもの予防接種"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/085/085402.html",
+          "title": "子育て支援アプリ「こだっこ予防接種＆子育て応援ナビ」"
+        }
+      ],
+      "contact": {
+        "contactName": "健康推進課予防接種担当",
+        "contactPhone": "042-346-3700",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+9+UM54",
+        "organization": "2000020132110",
+        "compartment": "健康推進課予防接種担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-02",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

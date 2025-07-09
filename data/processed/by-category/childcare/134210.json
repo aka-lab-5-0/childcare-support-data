@@ -1,0 +1,619 @@
+{
+  "version": "2025-07-09T05:55:17.837Z",
+  "areaCode": "134210",
+  "areaName": "小笠原村",
+  "category": "childcare",
+  "count": 5,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自のベビーシッター費用の助成",
+        "shortName": "小笠原村ベビーシッター利用支援事業(一時預かり利用支援事業)"
+      },
+      "summary": "ベビーシッターを利用する際の費用の一部を負担する制度です｡\nお子さんが病気で保育園や小学校に登園・登校させることが困難な時期に、ベビーシッターなどの派遣を受けた保護者に対し、派遣に要した費用の一部を助成することにより、保護者の経済的な負担の軽減をはかり、保護者の子育てと就労の両立を支援します。",
+      "description": "小笠原村ベビーシッター利用支援事業（一時預かり利用支援事業）\n日常生活上の突発的な事情等により一時的にベビーシッターによる保育を必要とする保護者が、指定の事業所を利用した際、ベビーシッターを利用する場合の利用料の一部を補助します。\n\n詳しくは、以下をご覧ください。\n\n小笠原村ベビーシッター利用支援事業（一時預かり利用支援事業）のご案内;https://www.vill.ogasawara.tokyo.jp/wp-content/uploads/sites/2/2024/02/573e83b00d8e2ee1d7765ada72d7ab01.pdf\n\n提出書類\n|村様式|①小笠原村ベビーシッター利用支援事業（一時預かり利用支援）補助金交付申請書ファイル;https://www.vill.ogasawara.tokyo.jp/wp-content/uploads/sites/2/2020/02/aebe7dc59ecab9081ffe70b6eb8e8865.docx<br>②ベビーシッター利用支援（一時預かり）利用内訳表ファイル;https://www.vill.ogasawara.tokyo.jp/wp-content/uploads/sites/2/2020/02/88576161a0afd432c4a98a5590868538.docx<br>③小笠原村ベビーシッター利用支援事業（一時預かり利用支援）補助金請求書;https://www.vill.ogasawara.tokyo.jp/wp-content/uploads/sites/2/2020/02/ff7ecbc2548cf5fee88d8748e047de5c.docx|\n|事業者発行|④ベビーシッター要件証明書<br>⑤領収書の原本<br>⑥利用明細書（ベビーシッターを利用した児童、利用日、利用時間及び料金の内訳が分かるもの）|\n|その他⑦【該当者のみ】クーポン利用や勤務先の福利厚生等で減額されたことがわかる書類の写し。|\n",
+      "target": {
+        "targetPersons": "申請をした日及びベビーシッターを利用した日に、児童とともに村内に居住\nし、日常生活上の突発的な事情や社会参加などにより、一時的にベビーシッタ\nーによる保育を必要とし、又はベビーシッターを活用した共同保育を必要とす\nる方 ※村内での利用が対象となります。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 6,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "満 6 歳になる年度の末日までの児童"
+      },
+      "support": {
+        "description": "日常生活上の突発的な事情等により一時的にベビーシッターによる保育を必要とする保護者が、指定の事業所を利用した際、ベビーシッターを利用する場合の利用料の一部を補助します。\n詳しくは、以下をご覧ください。\n\n小笠原村ベビーシッター利用支援事業（一時預かり利用支援事業）のご案内;https://www.vill.ogasawara.tokyo.jp/wp-content/uploads/sites/2/2024/02/573e83b00d8e2ee1d7765ada72d7ab01.pdf",
+        "monetarySupport": "児童一人 1 時間当たり 午前 7 時～午後 10 時 上限 2,500 円\n午後 10 時～午前 7 時 上限 3,500 円",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": "2024-04-01",
+        "fromHM": null,
+        "toYMD": "2025-03-31",
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "児童一人当たり年度内 144 時間\n（多胎児の場合は、児童一人当たり年 288 時間）"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "東京都の認定事業者一覧から事業者を選び、直接利用契約を行います。\n※小笠原村内で本事業の対象となるベビーシッターが登録されている事業者は、令和 6 年 4 月 1 日\n現在「株式会社キッズライン」に登録されている、「1 名」しかおりませんので、ご注意ください。\n「東京都のベビーシッター利用支援事業（一時預かり利用支援）を活用したい」旨を必ずお伝えください。\nベビーシッターを利用し、利用料金を直接事業者へ支払い、以下書類の交付を受けてください。\n●「ベビーシッター要件証明書」\n●領収書「利用した日時、児童名、シッター名、利用料の内訳が分かる書類」",
+      "procedurePersons": "ベビーシッターによる保育を必要とする保護者",
+      "procedureMethod": "以下の【提出書類】を揃えて、補助金を申請してください。\n① 小笠原村ベビーシッター利用支援事業（一時預かり利用支援）補助金交付申請書\n② ベビーシッター利用支援（一時預かり）利用内訳表\n③ 小笠原村ベビーシッター利用支援事業（一時預かり利用支援）補助金請求書\n④ ベビーシッター要件証明書\n⑤ 領収書の原本\n⑥ 利用明細書（ベビーシッターを利用した児童、利用日、利用時間及び料金の内訳が分かるもの）\n⑦ 【該当者のみ】クーポン利用や勤務先の福利厚生等で減額されたことがわかる書類の写し。\n※④～⑥は、ベビーシッター事業者が発行します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小笠原村村民課福祉係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/kosodate/",
+        "title": "子育て支援"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村村民課福祉係",
+        "contactPhone": "04998-2-3939",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+        "zipCode": "1002101",
+        "contactAddress": "東京都小笠原村父島字西町"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+1+UM25",
+        "organization": "6000020134210",
+        "compartment": "小笠原村村民課福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "小笠原村ベビーシッター利用支援事業（一時預かり利用支援）補助金交付要綱",
+        "regulationArticle": "第３条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子どものための教育・保育給付認定（1号・2号・3号）",
+        "shortName": "保育の必要性の認定基準"
+      },
+      "summary": "子ども・子育て支援新制度による給付を受ける幼稚園や認可保育園、認定こども園、地域型保育事業（小規模保育・家庭的保育・居宅訪問型保育・事業所内保育）を利用するには、お子さんの年齢や保育の必要性の有無、保育の必要量に応じた認定を受ける必要があります。\n\nまた、企業主導型保育（地域枠）については、お住まいの自治体から教育・保育給付認定を受けることで、「幼児教育・保育の無償化」による助成を受けることができます。",
+      "description": "入園のしおり;https://www.vill.ogasawara.tokyo.jp/wp-content/uploads/sites/2/2024/01/1bc571ee03ebbbcb591b1324c5153120.pdf",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小笠原村村民課福祉係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/hoikuen/",
+        "title": "保育園"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村村民課福祉係",
+        "contactPhone": "04998-2-3939",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+        "zipCode": "1002101",
+        "contactAddress": "東京都小笠原村父島字西町"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+1+UM71",
+        "organization": "6000020134210",
+        "compartment": "小笠原村村民課福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "子ども・子育て支援法",
+        "regulationArticle": "第19条（支給要件）・第20条（市町村の認定等）"
+      },
+      "tag": {
+        "categoryCode": [
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "認可保育所（保育園）の利用について",
+        "shortName": "保育園の利用"
+      },
+      "summary": "保育園とは、保護者が共に働いていたり病気などの理由で、昼間家庭において保育を受けられないお子さんを、保護者に代わって保育する児童福祉施設で、法的には「保育所」といいます。\n保育所（保育園）には、国が定めた設置基準をクリアし、都道府県知事に認可された保育所と、それ以外の保育所がありますが、ここでは認可された保育所についてご案内します。\n\n保育園では在園児を対象とした「延長保育」のほか、「一時預かり」や「病児保育」、「障害児保育」などを行っている園もあります。",
+      "description": "入園のしおり;https://www.vill.ogasawara.tokyo.jp/wp-content/uploads/sites/2/2024/01/1bc571ee03ebbbcb591b1324c5153120.pdf",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小笠原村村民課福祉係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/hoikuen/",
+        "title": "保育園"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村村民課福祉係",
+        "contactPhone": "04998-2-3939",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+        "zipCode": "1002101",
+        "contactAddress": "東京都小笠原村父島字西町"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+1+UM73",
+        "organization": "6000020134210",
+        "compartment": "小笠原村村民課福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第24条"
+      },
+      "tag": {
+        "categoryCode": [
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "延長保育",
+        "shortName": "延長保育"
+      },
+      "summary": "小笠原村内の保育園（保育所）や認定こども園、地域型保育施設では、保護者の勤務時間などにより、認定を受けた時間帯を超えて保育が必要なお子さんを対象に、別途料金を徴収のうえで、延長保育を実施しています。",
+      "description": "入園のしおり;https://www.vill.ogasawara.tokyo.jp/wp-content/uploads/sites/2/2024/01/1bc571ee03ebbbcb591b1324c5153120.pdf",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小笠原村村民課福祉係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/hoikuen/",
+        "title": "保育園"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村村民課福祉係",
+        "contactPhone": "04998-2-3939",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+        "zipCode": "1002101",
+        "contactAddress": "東京都小笠原村父島字西町"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+1+UM76",
+        "organization": "6000020134210",
+        "compartment": "小笠原村村民課福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "子ども・子育て支援法",
+        "regulationArticle": "第59条第2号"
+      },
+      "tag": {
+        "categoryCode": [
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "幼児教育・保育施設の保育料について",
+        "shortName": "保育料について"
+      },
+      "summary": "子ども・子育て支援新制度による給付を受ける幼稚園や認可保育園、認定こども園、地域型保育事業（小規模保育・家庭的保育・居宅訪問型保育・事業所内保育）の保育料（利用者負担額）は、国が定めた額を上限として、小笠原村が認定区分ごとに、世帯の所得状況、利用時間（標準時間・短時間）などに応じて定めた額となります。\nそれ以外の私学助成の幼稚園や認可外保育施設などの利用料は、施設ごとに定めた額になります。",
+      "description": "入園のしおり;https://www.vill.ogasawara.tokyo.jp/wp-content/uploads/sites/2/2024/01/1bc571ee03ebbbcb591b1324c5153120.pdf",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小笠原村村民課福祉係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/hoikuen/",
+        "title": "保育園"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村村民課福祉係",
+        "contactPhone": "04998-2-3939",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+        "zipCode": "1002101",
+        "contactAddress": "東京都小笠原村父島字西町"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+1+UM803",
+        "organization": "6000020134210",
+        "compartment": "小笠原村村民課福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "子ども・子育て支援法、児童福祉法",
+        "regulationArticle": "第27条～第30条の2、第24条"
+      },
+      "tag": {
+        "categoryCode": [
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

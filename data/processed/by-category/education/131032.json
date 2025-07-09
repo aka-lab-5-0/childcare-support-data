@@ -1,0 +1,819 @@
+{
+  "version": "2025-07-09T05:55:17.786Z",
+  "areaCode": "131032",
+  "areaName": "港区",
+  "category": "education",
+  "count": 6,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関する教室・講習会",
+        "shortName": "子育て講座・講演会"
+      },
+      "summary": "双子や三つ子など多胎児の、妊娠中や育児の悩みを話し合い、仲間作りの場となる様々な教室を開催しています。詳細は港区のホームページをご覧ください。",
+      "description": "子育て講座・講演会\n子どもたちが成長するのと同時に、お母さんやお父さんも成長しています。子ども家庭支援センターや保健所などでは、保護者のための講座や講習会を開催しています。\n\n募集・イベント情報;https://www.city.minato.tokyo.jp/kodomo/boshu/index.html\nイベントカレンダー;https://www.city.minato.tokyo.jp/cgi-bin/event_cal/cal_month.cgi",
+      "target": {
+        "targetPersons": "保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "保護者のための講座や講習会",
+        "monetarySupport": null,
+        "materiallySupport": "保護者のための講座や講習会"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.minato.tokyo.jp/cgi-bin/event_cal/cal_month.cgi",
+          "title": "イベントカレンダー"
+        },
+        {
+          "uri": "https://www.city.minato.tokyo.jp/kodomo/boshu/index.html",
+          "title": "募集・イベント情報"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.minato.tokyo.jp/kosodatesien/kosodate/manabu.html",
+        "title": "子育てについて学べるところ"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭支援部子ども家庭支援センター子ども家庭サービス係",
+        "contactPhone": "03-5962-7201",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "ファックス番号：03-5962-7205\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131032;港区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131032+1+UM103",
+        "organization": "8000020131032",
+        "compartment": "子ども家庭支援部子ども家庭支援センター子ども家庭サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-01-05",
+      "odInformation": {
+        "updateDate": "2024-07-08",
+        "updater": "港区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "学校教育法、児童福祉法",
+        "regulationArticle": "第24条、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "放課後子供教室",
+        "shortName": "放課ＧＯ→"
+      },
+      "summary": "放課後の時間に、小学校内又は小学校に併設された施設内で安全安心に過ごすことができる居場所を提供し、遊びや学習、スポーツなどの活動を行う事業です。",
+      "description": "放課後の時間に、小学校内又は小学校に併設された施設内で安全安心に過ごすことができる居場所を提供し、遊びや学習、スポーツなどの活動を行う事業です。\n初回登録し、事前に利用予定表を提出することで、無料で、平日17時まで利用できます。\n詳細については、港区ホームページ（https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/hokago-club.html）をご確認ください。",
+      "target": {
+        "targetPersons": "各小学校の在籍児童及び各小学校区域内の在住児童の1年生から6年生\n※放課ＧＯ→クラブこうなんは1年生のみ対象\n※放課ＧＯ→クラブあかさかは定員あり",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "無料",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "各区立小学校内又は区立小学校に併設された施設",
+        "implementationAddress": null
+      },
+      "capacity": "無し（放課ＧＯ→クラブあかさかは定員あり）",
+      "utilizationTime": {
+        "fromHM": "学校がある平日：放課後\n学校休業日の平日：9：00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "土曜日、日曜日、祝日、年末年始（12/29～1/3）",
+      "utilization": "登録を希望する施設に「参加登録申込書」を提出し、登録した上で、利用する前月までに翌月分の「利用予定表」を提出することで利用できます。",
+      "procedurePersons": "保護者",
+      "procedureMethod": "各放課ＧＯ→・放課ＧＯ→クラブ室で配布する「放課ＧＯ→参加登録申込書」に必要事項を記入していただき、各放課GO→・放課GO→クラブにお申し込みください。\n申込みは、随時行っています。\n詳細は、各放課GO→・放課GO→クラブにお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "各放課ＧＯ→・放課ＧＯ→クラブ",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/jisshiko.html",
+          "title": "放課ＧＯ→・放課ＧＯ→クラブ実施校一覧"
+        },
+        {
+          "uri": " https://www.city.minato.tokyo.jp/seishounenikusei/houkago.html",
+          "title": "放課後等の過ごし方"
+        },
+        {
+          "uri": "https://www.city.minato.tokyo.jp/kodomo/kodomo/kodomo/gakudoclub/index.html",
+          "title": "学童クラブ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/hokago-club.html",
+        "title": "放課ＧＯ→・放課ＧＯ→クラブとは"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "|「放課ＧＯ→（おだいば）」について|\n|　生涯学習スポーツ振興課生涯学習係|\n|　電話：03-3578-2744　ファックス：03-3578-2759|\n\n|「放課ＧＯ→・放課ＧＯ→クラブ」について|\n|　各地区総合支所管理課施設運営担当|\n|　　芝地区　　電話：03-3578-3191|\n|　　麻布地区　電話：03-5114-8805|\n|　　赤坂地区　電話：03-5413-7273|\n|　　高輪地区　電話：03-5421-7067|\n|　　芝浦港南地区　電話：03-6400-0033|",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131032;港区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131032+1+UM5028",
+        "organization": "8000020131032",
+        "compartment": "生涯学習スポーツ振興課生涯学習係,芝地区総合支所管理課施設運営担当,麻布地区総合支所管理課施設運営担当,赤坂地区総合支所管理課施設運営担当,高輪地区総合支所管理課施設運営担当,芝浦港南地区総合支所管理課施設運営担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/11/08",
+      "odInformation": {
+        "updateDate": "2025-02-04",
+        "updater": "港区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "放課後児童クラブ",
+        "shortName": "放課ＧＯ→"
+      },
+      "summary": "放課後児童クラブは、保護者が就労などにより、昼間家庭にいない小学校に就学しているお子さんに対し、適切な遊びおよび生活の場を与え、児童の健全な育成および保護者の就労と子育ての両立支援を図ることを目的としています。",
+      "description": "放課ＧＯ→・放課ＧＯ→クラブとは\n港区では、小学校の子どもたちが放課後等の時間に安心して安全に活動できる居場所として、「放課ＧＯ→」又は「放課ＧＯ→クラブ」を各区立小学校内に設置しています。\n\n放課後児童育成事業「放課ＧＯ→」は、小学校の子どもたちが放課後等の時間、安心して安全に活動できる居場所の提供として実施しており、各小学校区域内の在住児童の1年生から6年生であれば、誰でも無料で利用でき、定員もありません。\n\n一方、学童クラブを併設している「放課ＧＯ→」を「放課ＧＯ→クラブ」といいます。\n\n放課後児童健全育成事業「放課ＧＯ→クラブ」は、保護者の就労等の事情で、下校後に家庭での保護を受けられない児童の日常生活と健全育成の場です。「放課ＧＯ→クラブ」の入会には、面接・審査があるほか、定員があり、おやつ代もかかります。\n\n各放課ＧＯ→・放課ＧＯ→クラブでは、子どもたちは専門の指導員が見守る中で、学校の異なる友達とあそんだり、スポーツや自習をしながら放課後の時間を過ごしています。\n\nなお、各放課ＧＯ→・放課ＧＯ→クラブは、専門知識と経験を有する事業者への業務委託により運営されています。\n\n・放課GO→・放課GO→クラブイメージ図（PDF：284KB）;https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/documents/inejizu201504.pdf\n\n対象\n各小学校の在籍児童及び各小学校区域内の在住児童の1年生から6年生\n\n※ 放課ＧＯ→に定員はありません。\n\n※ 利用には登録が必要です。\n\n※ 学校の行事等により、お休みになる日もあります。\n\n・放課GO→・放課GO→クラブ配置図（PDF：109KB）;https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/documents/haichizu.pdf\n\n内容\n児童が自主的にスポーツや遊び、宿題などを行うフリータイムが基本活動です。\n\n基本活動の他に、月に数回、指導員等が講師となり、工作やレクリエーションなどのプログラムを行います。\n\n・放課GO→の1日の流れ（PDF：188KB）;https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/documents/houkagonagare.pdf\n\n・放課GO→クラブの1日の流れ（PDF：117KB）;https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/documents/ichinichinnonagare201604.pdf\n\n申込方法\n各放課ＧＯ→・放課ＧＯ→クラブ室で配布する「放課ＧＯ→参加登録申込書」又は「放課ＧＯ→クラブ参加登録申込書」に必要事項を記入していただき、各放課GO→・放課GO→クラブにお申し込みください。\n\n申込みは、随時行っています。\n\n詳細は、各放課GO→・放課GO→クラブにお問い合わせください。\n\n費用\n放課ＧＯ→の登録及び利用は、無料です。\n\n登録申込時、スポーツ安全保険の加入を希望する方は年間保険料800円をお支払いください。\n\n（スポーツ安全保険は、放課GO→・放課GO→クラブの活動中と帰宅時の事故に対する保険です。）\n\nまた、プログラムの内容により、材料費などの参加費が必要な場合があります。\n\n放課ＧＯ→クラブとは\n学童クラブを併設している「放課ＧＯ→」を「放課ＧＯ→クラブ」といいます。\n\n放課ＧＯ→クラブは、港区立小学校の施設を利用し、下校後、保護者の就労などの事情で、家庭での保護を受けられない児童の日常生活と健全育成の場です。\n\n放課ＧＯ→クラブへの入会は、面接、審査等があります。定員もあり、おやつ代がかかります。\n\n詳細は、各放課ＧＯ→クラブにお問い合わせください。\n\n放課ＧＯ→・放課ＧＯ→クラブ問い合わせ先\n・放課ＧＯ→・放課ＧＯ→クラブ実施校一覧;https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/jisshiko.html",
+      "target": {
+        "targetPersons": "各小学校の在籍児童及び各小学校区域内の在住児童の1年生から6年生",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 12,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 6,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1年生から6年生"
+      },
+      "support": {
+        "description": "放課後等の時間に安心して安全に活動できる居場所",
+        "monetarySupport": null,
+        "materiallySupport": "放課後等の時間に安心して安全に活動できる居場所"
+      },
+      "cost": null,
+      "costConditions": "放課ＧＯ→の登録及び利用は、無料です。\n\n登録申込時、スポーツ安全保険の加入を希望する方は年間保険料800円をお支払いください。\n\n（スポーツ安全保険は、放課GO→・放課GO→クラブの活動中と帰宅時の事故に対する保険です。）\n\nまた、プログラムの内容により、材料費などの参加費が必要な場合があります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "放課ＧＯ→・放課ＧＯ→クラブ実施校一覧;https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/jisshiko.html",
+        "implementationAddress": "放課ＧＯ→・放課ＧＯ→クラブ実施校一覧;https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/jisshiko.html"
+      },
+      "capacity": "放課ＧＯ→に定員はありません。",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "放課ＧＯ→・放課ＧＯ→クラブ実施校一覧;https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/jisshiko.html"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "各放課ＧＯ→・放課ＧＯ→クラブ室で配布する「放課ＧＯ→参加登録申込書」又は「放課ＧＯ→クラブ参加登録申込書」に必要事項を記入していただき、各放課GO→・放課GO→クラブにお申し込みください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "申込みは、随時行っています。\n\n詳細は、各放課GO→・放課GO→クラブにお問い合わせください。"
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "放課ＧＯ→・放課ＧＯ→クラブ実施校一覧;https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/jisshiko.html",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/documents/inejizu201504.pdf",
+          "title": "放課GO→・放課GO→クラブイメージ図"
+        },
+        {
+          "uri": "https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/documents/haichizu.pdf",
+          "title": "放課GO→・放課GO→クラブ配置図（PDF：109KB）"
+        },
+        {
+          "uri": "https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/jisshiko.html",
+          "title": "放課ＧＯ→・放課ＧＯ→クラブ実施校一覧"
+        },
+        {
+          "uri": "https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/documents/houkagonagare.pdf",
+          "title": "放課GO→の1日の流れ（PDF：188KB）"
+        },
+        {
+          "uri": "https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/documents/ichinichinnonagare201604.pdf",
+          "title": "放課GO→クラブの1日の流れ（PDF：117KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/hokago-club.html",
+        "title": "放課ＧＯ→・放課ＧＯ→クラブとは"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/Mt5V/422554",
+          "title": "電子申請（外部サイトへリンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "放課ＧＯ→・放課ＧＯ→クラブ実施校一覧;https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/jisshiko.html",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "放課ＧＯ→・放課ＧＯ→クラブ実施校一覧;https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/jisshiko.html\n放課ＧＯ→・放課ＧＯ→クラブ実施校一覧;https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/jisshiko.html",
+        "zipCode": null,
+        "contactAddress": "放課ＧＯ→・放課ＧＯ→クラブ実施校一覧;https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/jisshiko.html"
+      },
+      "area": {
+        "areaCode": "131032;港区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131032+1+UM79",
+        "organization": "8000020131032",
+        "compartment": "各地区総合支所管理課施設運営担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-02-21",
+      "odInformation": {
+        "updateDate": "2024-07-09",
+        "updater": "港区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第2項"
+      },
+      "tag": {
+        "categoryCode": [
+          "005"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小学校・中学校の就学援助費",
+        "shortName": "小学校入学前支給"
+      },
+      "summary": "経済的な理由により就学が困難と認められる、国公私立の小学校・中学校に通学する児童・生徒の保護者を対象に、学用品費、校外学習費などを支給します。",
+      "description": "新入学学用品費の入学前支給\n就学援助の支給費目のうち、新入学に必要な経費を援助する新入学学用品費については、小・中学校の入学前に支給しています。\n\nご希望の場合は下記事項をお読みの上、申請してください。\n\n小学校入学前支給\n今年度の新入学学用品費の入学前支給の詳細については、区ホームページまたはお知らせをご覧ください。\n\n支給を受けられる方\n以下のすべてに該当する方\n\n港区にお住まいの方（令和７年4月の小学校の入学前に区外に転出する方は申請できません）\nお子さまが令和７年4月に学校教育法１条に規定する小学校または義務教育学校の前期課程に入学予定の方\n令和６年度就学援助の準要保護に該当する方（詳しくはホームページををご参照ください。）\n※生活保護を受けている方は、生活保護費から同様の費用が支給されます。そのため、申請の必要はありません。\n\n注意事項\n令和７年4月に学校教育法第1条に規定する学校として認められていないインターナショナルスクール等に入学を予定している方や、入学前に港区外に転出する予定の方は申請しないでください。上記事実があった場合は、新入学学用品費を返還していただくことになります。\n入学後に引き続き就学援助の受給を希望される場合には、入学後も忘れずに申請してください（入学後の申請書類は別途案内されます）。\n世帯の状況や所得額によっては、年度により認定結果が異なります。あらかじめご了承ください。\n新入学学用品費の入学前支給を受けた場合、入学後に就学援助で準要保護認定とされても、新入学学用品費は支給されません。\n新入学学用品費を入学前に受給していない場合でも、入学後に就学援助を申請し、準要保護認定であった場合は、同様の金額を支給します。",
+      "target": {
+        "targetPersons": "以下のすべてに該当する方\n\n港区にお住まいの方（令和７年4月の小学校の入学前に区外に転出する方は申請できません）\nお子さまが令和７年4月に学校教育法１条に規定する小学校または義務教育学校の前期課程に入学予定の方\n令和６年度就学援助の準要保護に該当する方（詳しくはホームページをご参照ください。）\n※生活保護を受けている方は、生活保護費から同様の費用が支給されます。そのため、申請の必要はありません。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "お子さまが令和７年4月に学校教育法１条に規定する小学校または義務教育学校の前期課程に入学予定"
+      },
+      "support": {
+        "description": "今年度の新入学学用品費の入学前支給の詳細については、区ホームページをご覧ください。",
+        "monetarySupport": "今年度の新入学学用品費の入学前支給の詳細については、区ホームページをご覧ください。\n\n",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "保護者",
+      "procedureMethod": "オンライン申請（区ホームページまたはお知らせをご確認ください。）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "区ホームページまたはお知らせをご確認下さい。"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "教育委員会事務局学校教育部学務課学校運営支援係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.minato.tokyo.jp/gakkouuneishien/20171218.html",
+        "title": "新入学学用品費の入学前支給"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局学校教育部学務課学校運営支援係",
+        "contactPhone": "03-3578-2111",
+        "contactEx": "2731",
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "ファックス番号：03-3578-2759\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131032;港区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131032+2+UM126",
+        "organization": "8000020131032",
+        "compartment": "教育委員会事務局学校教育部学務課学校運営支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-12-20",
+      "odInformation": {
+        "updateDate": "2024-07-18",
+        "updater": "港区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "学校教育法",
+        "regulationArticle": "第19条"
+      },
+      "tag": {
+        "categoryCode": [
+          "005"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "放課後児童クラブ",
+        "shortName": "放課ＧＯ→クラブ"
+      },
+      "summary": "放課後児童クラブは、保護者が就労などにより、昼間家庭にいない小学校に就学しているお子さんに対し、適切な遊びおよび生活の場を与え、児童の健全な育成および保護者の就労と子育ての両立支援を図ることを目的としています。",
+      "description": "放課ＧＯ→・放課ＧＯ→クラブとは\n港区では、小学校の子どもたちが放課後等の時間に安心して安全に活動できる居場所として、「放課ＧＯ→」又は「放課ＧＯ→クラブ」を各区立小学校内に設置しています。\n\n放課後児童育成事業「放課ＧＯ→」は、小学校の子どもたちが放課後等の時間、安心して安全に活動できる居場所の提供として実施しており、各小学校区域内の在住児童の1年生から6年生であれば、誰でも無料で利用でき、定員もありません。\n\n一方、学童クラブを併設している「放課ＧＯ→」を「放課ＧＯ→クラブ」といいます。\n\n放課後児童健全育成事業「放課ＧＯ→クラブ」は、保護者の就労等の事情で、下校後に家庭での保護を受けられない児童の日常生活と健全育成の場です。「放課ＧＯ→クラブ」の入会には、面接・審査があるほか、定員があり、おやつ代もかかります。\n\n各放課ＧＯ→・放課ＧＯ→クラブでは、子どもたちは専門の指導員が見守る中で、学校の異なる友達とあそんだり、スポーツや自習をしながら放課後の時間を過ごしています。\n\nなお、各放課ＧＯ→・放課ＧＯ→クラブは、専門知識と経験を有する事業者への業務委託により運営されています。\n\n・放課GO→・放課GO→クラブイメージ図（PDF：284KB）;https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/documents/inejizu201504.pdf\n\n対象\n各小学校の在籍児童及び各小学校区域内の在住児童の1年生から6年生\n\n※ 放課ＧＯ→に定員はありません。\n\n※ 利用には登録が必要です。\n\n※ 学校の行事等により、お休みになる日もあります。\n\n・放課GO→・放課GO→クラブ配置図（PDF：109KB）;https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/documents/haichizu.pdf\n\n内容\n児童が自主的にスポーツや遊び、宿題などを行うフリータイムが基本活動です。\n\n基本活動の他に、月に数回、指導員等が講師となり、工作やレクリエーションなどのプログラムを行います。\n\n・放課GO→の1日の流れ（PDF：188KB）;https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/documents/houkagonagare.pdf\n\n・放課GO→クラブの1日の流れ（PDF：117KB）;https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/documents/ichinichinnonagare201604.pdf\n\n申込方法\n各放課ＧＯ→・放課ＧＯ→クラブ室で配布する「放課ＧＯ→参加登録申込書」又は「放課ＧＯ→クラブ参加登録申込書」に必要事項を記入していただき、各放課GO→・放課GO→クラブにお申し込みください。\n\n申込みは、随時行っています。\n\n詳細は、各放課GO→・放課GO→クラブにお問い合わせください。\n\n費用\n放課ＧＯ→の登録及び利用は、無料です。\n\n登録申込時、スポーツ安全保険の加入を希望する方は年間保険料800円をお支払いください。\n\n（スポーツ安全保険は、放課GO→・放課GO→クラブの活動中と帰宅時の事故に対する保険です。）\n\nまた、プログラムの内容により、材料費などの参加費が必要な場合があります。\n\n放課ＧＯ→クラブとは\n学童クラブを併設している「放課ＧＯ→」を「放課ＧＯ→クラブ」といいます。\n\n放課ＧＯ→クラブは、港区立小学校の施設を利用し、下校後、保護者の就労などの事情で、家庭での保護を受けられない児童の日常生活と健全育成の場です。\n\n放課ＧＯ→クラブへの入会は、面接、審査等があります。定員もあり、おやつ代がかかります。\n\n詳細は、各放課ＧＯ→クラブにお問い合わせください。\n\n放課ＧＯ→・放課ＧＯ→クラブ問い合わせ先\n・放課ＧＯ→・放課ＧＯ→クラブ実施校一覧;https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/jisshiko.html",
+      "target": {
+        "targetPersons": "各小学校の在籍児童及び各小学校区域内の在住児童の1年生から6年生",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 12,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 6,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1年生から6年生"
+      },
+      "support": {
+        "description": "放課後等の時間に安心して安全に活動できる居場所",
+        "monetarySupport": null,
+        "materiallySupport": "放課後等の時間に安心して安全に活動できる居場所"
+      },
+      "cost": null,
+      "costConditions": "おやつ代がかかります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "放課ＧＯ→・放課ＧＯ→クラブ実施校一覧;https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/jisshiko.html",
+        "implementationAddress": "放課ＧＯ→・放課ＧＯ→クラブ実施校一覧;https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/jisshiko.html"
+      },
+      "capacity": "放課ＧＯ→・放課ＧＯ→クラブ実施校一覧;https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/jisshiko.html",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "放課ＧＯ→・放課ＧＯ→クラブ実施校一覧;https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/jisshiko.html"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "各放課ＧＯ→・放課ＧＯ→クラブ室で配布する「放課ＧＯ→参加登録申込書」又は「放課ＧＯ→クラブ参加登録申込書」に必要事項を記入していただき、各放課GO→・放課GO→クラブにお申し込みください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "申込みは、随時行っています。\n\n詳細は、各放課GO→・放課GO→クラブにお問い合わせください。"
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "放課ＧＯ→・放課ＧＯ→クラブ実施校一覧;https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/jisshiko.html",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/documents/inejizu201504.pdf",
+          "title": "放課GO→・放課GO→クラブイメージ図"
+        },
+        {
+          "uri": "https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/documents/haichizu.pdf",
+          "title": "放課GO→・放課GO→クラブ配置図（PDF：109KB）"
+        },
+        {
+          "uri": "https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/documents/ichinichinnonagare201604.pdf",
+          "title": "放課GO→クラブの1日の流れ（PDF：117KB）"
+        },
+        {
+          "uri": "https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/jisshiko.html",
+          "title": "放課ＧＯ→・放課ＧＯ→クラブ実施校一覧"
+        },
+        {
+          "uri": "https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/documents/houkagonagare.pdf",
+          "title": "放課GO→の1日の流れ（PDF：188KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/hokago-club.html",
+        "title": "放課ＧＯ→・放課ＧＯ→クラブとは"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/Mt5V/422557l",
+          "title": "電子申請（外部サイトへリンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "放課ＧＯ→・放課ＧＯ→クラブ実施校一覧;https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/jisshiko.html",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "放課ＧＯ→・放課ＧＯ→クラブ実施校一覧;https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/jisshiko.html",
+        "zipCode": null,
+        "contactAddress": "放課ＧＯ→・放課ＧＯ→クラブ実施校一覧;https://www.city.minato.tokyo.jp/shougaigakushu/kodomo/shogai/hokago-club/jisshiko.html"
+      },
+      "area": {
+        "areaCode": "131032;港区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131032+2+UM79",
+        "organization": "8000020131032",
+        "compartment": "各地区総合支所管理課施設運営担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-02-21",
+      "odInformation": {
+        "updateDate": "2024-07-09",
+        "updater": "港区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第2項"
+      },
+      "tag": {
+        "categoryCode": [
+          "005"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小学校・中学校の就学援助費",
+        "shortName": "中学校入学前支給"
+      },
+      "summary": "経済的な理由により就学が困難と認められる、国公私立の小学校・中学校に通学する児童・生徒の保護者を対象に、学用品費、校外学習費などを支給します。",
+      "description": "新入学学用品費の入学前支給\n就学援助の支給費目のうち、新入学に必要な経費を援助する新入学学用品費については、小・中学校の入学前に支給しています。\n\nご希望の場合は下記事項をお読みの上、申請してください。\n\n中学校入学前支給\n支給を受けられる方\n小学校6年生児童の保護者のうち、就学援助の準要保護に認定されている方\n\n申請方法\n令和６年度就学援助の準要保護に認定されている方には、直接郵送でご案内します。\n\n上記以外の方で中学校入学前支給を希望する場合は下記問合せ先までご連絡ください。\n\n注意事項\n令和７年4月に学校教育法第1条に規定する学校として認められていないインターナショナルスクール等に入学を予定している方や、入学前に港区外に転出する予定の方は申請しないでください。上記事実があった場合は、新入学学用品費を返還していただくことになります。\n入学後に引き続き就学援助の受給を希望される場合には、入学後も忘れずに申請してください（入学後の申請書類は別途案内されます）。\n世帯の状況や所得額によっては、年度により認定結果が異なります。あらかじめご了承ください。\n新入学学用品費の入学前支給を受けた場合、入学後に就学援助で準要保護認定とされても、新入学学用品費は支給されません。\n新入学学用品費を入学前に受給していない場合でも、入学後に就学援助を申請し、準要保護認定であった場合は、同様の金額を支給します。",
+      "target": {
+        "targetPersons": "小学校6年生児童の保護者のうち、就学援助の準要保護に認定されている方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "小学校6年生"
+      },
+      "support": {
+        "description": "就学援助の支給費目のうち、新入学に必要な経費を援助する新入学学用品費",
+        "monetarySupport": "就学援助の支給費目のうち、新入学に必要な経費を援助する新入学学用品費",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "保護者",
+      "procedureMethod": "令和６年度就学援助の準要保護に認定されている方には、直接郵送でご案内します。\n\n上記以外の方で中学校入学前支給を希望する場合は下記問合せ先までご連絡ください。\n\nお問い合わせ\n\n所属課室：教育委員会事務局学校教育部学務課学校運営支援係\n\n電話番号：03-3578-2111（内線：2731）\n\nファックス番号：03-3578-2759\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "教育委員会事務局学校教育部学務課学校運営支援係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.minato.tokyo.jp/gakkouuneishien/20171218.html",
+        "title": "新入学学用品費の入学前支給"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局学校教育部学務課学校運営支援係",
+        "contactPhone": "03-3578-2111",
+        "contactEx": "2731",
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "ファックス番号：03-3578-2759\n\n外国語対応が必要な人、通訳オペレーター、区の職員の3人で会話ができます。\n\n多言語対応三者通話サービス;https://www.multilingualinterpretercallservice.city.minato.tokyo.jp/kokusai",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131032;港区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131032+3+UM126",
+        "organization": "8000020131032",
+        "compartment": "教育委員会事務局学校教育部学務課学校運営支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-12-20",
+      "odInformation": {
+        "updateDate": "2024-07-18",
+        "updater": "港区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "学校教育法",
+        "regulationArticle": "第19条"
+      },
+      "tag": {
+        "categoryCode": [
+          "005"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

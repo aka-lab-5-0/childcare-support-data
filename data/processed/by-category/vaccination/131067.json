@@ -1,0 +1,4224 @@
+{
+  "version": "2025-07-09T05:55:17.789Z",
+  "areaCode": "131067",
+  "areaName": "台東区",
+  "category": "vaccination",
+  "count": 31,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "平成7～18年度に生まれた方の日本脳炎の予防接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "日本脳炎の予防接種について\n日本脳炎の予防接種は、国からの通知により、ワクチン接種後に重い病気になった事例があったため、平成17年度から21年度までの間、予防接種予診票をお送りしていませんでした（積極的勧奨の差し控え）。\n現在新しいワクチンが開発され、日本脳炎の予防接種を十分に受ける機会を逃している可能性のある平成7年4月2日～平成19年4月1日にお生まれの方は、6ヶ月から20歳未満の間、いつでも日本脳炎の予防接種を受けることができるようになりました。\n\n日本脳炎の標準的な接種スケジュール\n1期接種（計3回）\n・初回接種：3歳のときに2回（1回目と2回目の間隔は6～28日）\n・追加接種：4歳のときに1回（初回接種後、おおむね1年の間隔をおいて）\n\n2期接種（1回）\n9歳のときに1回\n\nすでに1回または2回接種した方は、前回の接種から接種間隔が空いていても差し支えありません。残りの回数を（6日以上の間隔をあけて）接種してください。\n\n接種費用\n無料\n※平成7年4月2日～平成19年4月1日生まれの方は、6カ月～20歳未満の間、いつでも日本脳炎の定期予防接種を受けることができます。\n\n接種方法\n予防接種予診票と母子健康手帳をご持参の上、23区内協力医療機関で接種を受けてください。\n\n予防接種予診票の発行について\n窓口での発行をご希望の方\n台東保健所5階の保健予防課または浅草保健相談センター窓口で発行します。\n母子健康手帳をご持参ください。\n\n郵便での発行をご希望の方\n電子申請または電話で承りますので、下記までお問い合わせください。\n接種歴を確認いたしますので、母子健康手帳をお手元にご用意ください。\n\n関連情報\n新規ウィンドウで開きます。\n厚生労働省HP「日本脳炎」（外部サイト）;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou20/japanese_encephalitis.html",
+      "target": {
+        "targetPersons": "平成7年4月2日～平成19年4月1日にお生まれの方",
+        "lessThan": {
+          "targetAge": 20,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "平成7年4月2日～平成19年4月1日に生まれた20歳未満の方"
+      },
+      "support": {
+        "description": "４回までの不足回数分の接種",
+        "monetarySupport": null,
+        "materiallySupport": "４回までの不足回数分の接種"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "接種方法\n予防接種予診票と母子健康手帳をご持参の上、23区内協力医療機関で接種を受けてください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou20/japanese_encephalitis.html",
+          "title": "厚生労働省HP「日本脳炎」（外部サイト）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/nihonnouen/nihonnouenn0601.html",
+        "title": "平成7～18年度に生まれた方の日本脳炎の予防接種について"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13106&procCode=11002598",
+          "title": "予防接種予診票の交付受付"
+        }
+      ],
+      "contact": {
+        "contactName": "台東保健所　保健予防課予防担当",
+        "contactPhone": "03-3847-9471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1100015",
+        "contactAddress": "台東区東上野4丁目22番8号"
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+10+UM54",
+        "organization": "6000020131067",
+        "compartment": "台東保健所　保健予防課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-01-25",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "HPVワクチンを自費で接種された方に対する接種費用の助成（償還払い制度）"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "HPVワクチンの積極的な勧奨を差し控えていた期間に定期予防接種の接種機会を逃し、定期予防接種の接種期限（16歳になる年度（高校1年相当）の年度末）を過ぎてから、自費で接種を受けた方に、接種に要した費用を償還払いにより助成します。\n\n1.対象者\n以下の（1）～（4）すべてに該当する方\n\n（1）令和4年4月1日時点で台東区に住民登録がある\n\n（2）平成9年4月2日から平成17年4月1日までに生まれた女性\n\n（3）16歳になる年度（高校1年相当）の年度末までにHPVワクチンの定期予防接種を3回完了していない\n\n（4）17歳になる年度（高校2年相当）以降、令和4年3月31日までに、「サーバリックス(2価ワクチン)」または「ガーダシル(4価ワクチン)」の接種を自費で受けた\n\n　※「シルガード(9価ワクチン)」の接種を自費で受けた方は助成の対象外となります。\n\n2.申請方法\n「ヒトパピローマウイルス感染症に係る任意接種償還払い申請書」を記入の上、以下の書類を添えて、「〒110-0015 台東区東上野4丁目22番8号 台東保健所 保健予防課 予防担当宛」まで郵送でご提出いただくか、下記担当窓口までご持参の上、申請してください。\n\n（1）「本人確認書類（マイナンバーカード、運転免許証等）」のコピー　\n\n（2）「振込先口座の通帳またはキャッシュカード」のコピー\n\n（3）「接種記録の分かる書類（母子手帳の氏名・生年月日が分かるページとHPVワクチンの予防接種の記録のページまたは接種済の予診票）」のコピー\n➢お手元にない場合は、「ヒトパピローマウイルス感染症に係る任意接種償還払い申請用証明書」を接種を受けた医療機関に記入してもらい、そちらをご提出ください。\n\n※「ヒトパピローマウイルス感染症に係る任意接種償還払い申請用証明書」の発行に係る文書料は助成の対象外となります。(自己負担)\n\n（4）「接種費用の支払が証明できる書類（領収書及び支払明細書等）」の原本\n➢紛失等により提出できない場合も申請は可能です。\n\n申請様式\n「ヒトパピローマウイルス感染症に係る任意接種償還払い申請書」及び「ヒトパピローマウイルス感染症に係る任意接種償還払い申請用証明書」は、7月上旬に発送したHPVキャッチアップ接種の予診票に同封しております。また、以下よりダウンロードも可能です。\n\nヒトパピローマウイルス感染症に係る任意接種償還払い申請書（ワード：26KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/shikyuukeigan/hpvshoukan.files/HPV_shoukan_shinsei.docx\n\nヒトパピローマウイルス感染症に係る任意接種償還払い申請用証明書（ワード：15KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/shikyuukeigan/hpvshoukan.files/HPV_shoukan_shoumei.docx\n\n3.助成額\n接種費用の支払が証明できる書類の提出の有無により、以下の額を助成します。\n ||助成額|\n|:----|:----|\n|➀接種費用の支払が証明できる書類(上記2の(4))が提出できる方|接種費用の実費相当額　(ただし、台東区が定める額を上限とします。)|\n|➁接種費用の支払が証明できる書類(上記2の(4))が提出できない方|台東区が定める額|\n\n4.申請期間\n令和4年6月1日～令和7年3月31日まで\n\n5.申請先\n郵送または窓口\n〒110-0015\n台東区東上野4丁目22番8号\n台東保健所5階 保健予防課予防担当\n\n電話番号：03-3847-9471",
+      "target": {
+        "targetPersons": "以下の（1）～（4）すべてに該当する方（1）令和4年4月1日時点で台東区に住民登録がある\n\n（2）平成9年4月2日から平成17年4月1日までに生まれた女性\n\n（3）16歳になる年度（高校1年相当）の年度末までにHPVワクチンの定期予防接種を3回完了していない\n\n（4）17歳になる年度（高校2年相当）以降、令和4年3月31日までに、「サーバリックス(2価ワクチン)」または「ガーダシル(4価ワクチン)」の接種を自費で受けた\n\n　※「シルガード(9価ワクチン)」の接種を自費で受けた方は助成の対象外となります。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "（16歳になる年度（高校1年相当）の年度末）を過ぎてから、自費で接種を受けた方"
+      },
+      "support": {
+        "description": "自費で接種を受けた方に、接種に要した費用を償還払いにより助成",
+        "monetarySupport": "||助成額|\n|:----|:----|\n|➀接種費用の支払が証明できる書類(上記2の(4))が提出できる方|接種費用の実費相当額　(ただし、台東区が定める額を上限とします。)|\n|➁接種費用の支払が証明できる書類(上記2の(4))が提出できない方|\t台東区が定める額|\n",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": "「ヒトパピローマウイルス感染症に係る任意接種償還払い申請用証明書」の発行に係る文書料は助成の対象外となります。(自己負担)",
+      "implementationPeriod": {
+        "fromYMD": "2022-06-01",
+        "fromHM": null,
+        "toYMD": "2025-03-31",
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": "平成9年4月2日から平成17年4月1日までに生まれた女性",
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申請方法\n「ヒトパピローマウイルス感染症に係る任意接種償還払い申請書」を記入の上、以下の書類を添えて、「〒110-0015 台東区東上野4丁目22番8号 台東保健所 保健予防課 予防担当宛」まで郵送でご提出いただくか、下記担当窓口までご持参の上、申請してください。\n\n（1）「本人確認書類（マイナンバーカード、運転免許証等）」のコピー　\n\n（2）「振込先口座の通帳またはキャッシュカード」のコピー\n\n（3）「接種記録の分かる書類（母子手帳の氏名・生年月日が分かるページとHPVワクチンの予防接種の記録のページまたは接種済の予診票）」のコピー\n➢お手元にない場合は、「ヒトパピローマウイルス感染症に係る任意接種償還払い申請用証明書」を接種を受けた医療機関に記入してもらい、そちらをご提出ください。\n\n※「ヒトパピローマウイルス感染症に係る任意接種償還払い申請用証明書」の発行に係る文書料は助成の対象外となります。(自己負担)\n\n（4）「接種費用の支払が証明できる書類（領収書及び支払明細書等）」の原本\n➢紛失等により提出できない場合も申請は可能です。\n\n申請様式\n「ヒトパピローマウイルス感染症に係る任意接種償還払い申請書」及び「ヒトパピローマウイルス感染症に係る任意接種償還払い申請用証明書」は、7月上旬に発送したHPVキャッチアップ接種の予診票に同封しております。また、以下よりダウンロードも可能です。\nヒトパピローマウイルス感染症に係る任意接種償還払い申請書（ワード：26KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/shikyuukeigan/hpvshoukan.files/HPV_shoukan_shinsei.docx\nヒトパピローマウイルス感染症に係る任意接種償還払い申請用証明書（ワード：15KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/shikyuukeigan/hpvshoukan.files/HPV_shoukan_shoumei.docx",
+      "procedurePeriod": {
+        "fromYMD": "2022-06-01",
+        "fromHM": null,
+        "toYMD": "2025-03-31",
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "台東保健所5階 保健予防課予防担当",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/shikyuukeigan/hpvshoukan.html",
+        "title": "HPVワクチンを自費で接種された方に対する接種費用の助成（償還払い制度）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "台東保健所　保健予防課予防担当",
+        "contactPhone": "03-3847-9471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+11+UM54",
+        "organization": "6000020131067",
+        "compartment": "台東保健所　保健予防課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-07-13",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "キャッチアップ接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "無料で接種できるキャッチアップ接種期間は、2025年3月31日までの予定でしたが、経過措置として2022年4月1日から2025年3月31日までの間に1回以上接種を受けた方は、残りの接種回数の接種期限が2026年3月31日まで延長されます。キャッチアップ接種期間中にまだ一度も接種を受けていない方は、2025年3月31日までに接種を開始することをご検討ください。\n\n　HPV（ヒトパピローマウイルス）ワクチン（子宮頸がん予防ワクチン）接種は、国の勧告により、ワクチン接種後の副反応について十分に情報提供できない状況にあったことから、平成25年6月から令和3年度までの間、予防接種予診票をお送りしていませんでした（積極的な勧奨の差し控え）。\n　この間、国においてHPVワクチンの有効性及び安全性に関する評価、HPVワクチン接種後に生じた症状への対応、HPVワクチンについての情報提供の取組み等について継続的に議論が行われてきました。その結果、最新の知見を踏まえ、HPVワクチンの安全性について特段の懸念が認められないことが確認され、接種による有効性が副反応のリスクを明らかに上回ると認められたため、令和4年4月1日より積極的な勧奨を再開することが決定されました。\n　 積極的勧奨を差し控えていた期間に定期接種の対象であった方に対して、定期接種として無料でワクチンの接種を行う機会が設けられることとなりました（キャッチアップ接種）。\n\n　なお、接種の際には、HPVワクチンの効果と接種による副反応のリスクを十分に理解したうえで、医師とよく相談し接種を行ってください。\n\nキャッチアップ接種リーフレット（PDF：2,196KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/shikyuukeigan/hpvcatchup.files/catchup_leaflet.pdf\n\n　ワクチンに関する詳しい情報については、国のホームページをご覧ください。\n\n厚生労働省　ヒトパピローマウイルス感染症～子宮頸がん（子宮けいがん）とHPVワクチン（外部サイト）;https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou28/index.html\n\n対象者\n平成9年4月2日から平成20年4月1日までに生まれた女性で、過去にHPVワクチンの接種を合計3回受けていない方\n※2008(平成20)年4月2日から2009(平成21)年4月1日までに生まれた女性で、2025年3月31日までに1回以上の接種を受けた方も経過措置の対象となります。\n\n\n実施期間\n2022年4月1日から2025年3月31日までの3年間\nただし、経過措置として2022年4月1日から2025年3月31日までの間に1回以上接種を受けた方のみ、残りの接種回数の接種期限が2026年3月31日まで延長されます。\n※期限を過ぎると接種費用は全額自己負担になります。(最大10万円程度）\n\n費用\n無料\n\n接種方法\n東京23区内の協力医療機関で接種できます。接種には台東区が発行した予診票が必要です。（これまでに発行された予診票も引き続き使用できます。）\n予診票がお手元にない方は、郵送または電子申請で申請してください。申請後、1週間程度でご自宅へ郵送します。\n台東区内の協力医療機関（定期予防接種実施医療機関名簿）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/info/iryoukikanmeibo.html\n\n予診票がお手元にない方はこちら（予診票の発行申請）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/info/vsq_reissue.html\n\nワクチンの効果・副反応\n　ワクチンの効果や副反応等については、定期接種のページをご覧ください。\n\nHPV（ヒトパピローマウイルス）ワクチン（子宮頸がん予防ワクチン）接種;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/shikyuukeigan/hpvyobou.html\n\n　子宮頸がんは検診で容易に発見できるので、子宮頸がん予防には、ワクチン接種後も、20歳になったら定期的な検診を受けることが大切です。\n\n子宮頸がん検診（無料）;https://www.city.taito.lg.jp/kenkohukusi/kenko/kakusyukenkoshindan/gankensin/shikyukeigankenshin.html\n\n接種回数\n2回または3回\n※過去に接種したことがある場合は、不足している分を接種します。\n\n（1）サーバリックス（2価）\n標準接種間隔\n初回接種後1か月あけて2回目、初回から6か月以上あけて3回目を接種\n\n標準接種間隔での接種が難しい場合\n初回接種後1か月あけて2回目、初回接種から5か月以上かつ2回目の接種から2か月半以上あけて3回目を接種\n\n（2）ガーダシル（4価）\n標準接種間隔\n初回接種後2か月あけて2回目、初回から6か月以上あけて3回目を接種\n\n標準接種間隔での接種が難しい場合\n初回接種後1か月あけて2回目、2回目の接種から3か月以上あけて3回目を接種\n\n（3）シルガード9(9価)\n標準接種間隔\n【2回接種の場合】初回接種後6か月以上あけて2回目を接種\n\n【3回接種の場合】初回接種後2か月あけて2回目、初回から6か月あけて3回目を接種\n\n※15歳までにシルガード9で1回目の接種を開始し、2回目接種までの接種間隔を5カ月以上空けた場合のみ2回の接種で接種完了とすることが可能です。\n\n標準接種間隔での接種が難しい場合\n初回接種後1か月あけて2回目、2回目の接種から3か月以上あけて3回目を接種\n\nHPVワクチンを自費で接種した方への償還払いについて\n　積極的勧奨を差し控えていた期間に、HPVワクチンの定期予防接種の機会を逃した方で、自費で接種した方に対して、接種に要した費用を償還払いします。\n　償還払い制度の詳細は、以下のページよりご確認ください。\n\nHPVワクチンを自費で接種された方に対する接種費用の助成（償還払い制度）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/shikyuukeigan/hpvshoukan.html\n\nPDF形式のファイルを開くには、Adobe Acrobat Reader DC（旧Adobe Reader）が必要です。\nお持ちでない方は、Adobe社から無償でダウンロードできます。\nGet Adobe Acrobat Reader DCAdobe Acrobat Reader DCのダウンロードへ;https://get.adobe.com/jp/reader/\n\n関連情報\nHPV（ヒトパピローマウイルス）ワクチン（子宮頸がん予防ワクチン）接種;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/shikyuukeigan/hpvyobou.html\n\n厚生労働省　ヒトパピローマウイルス（HPV）ワクチンの接種を逃した方へ～キャッチアップ接種のご案内～（外部サイト）;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou/hpv_catch-up-vaccination.html",
+      "target": {
+        "targetPersons": "平成9年4月2日から平成21年4月1日までに生まれた女性で、過去にHPVワクチンの接種を合計3回受けていない方\n※キャッチアップ接種の実施期間中に定期接種の対象から新たに外れる方も順次対象となります。\n令和6年4月1日より平成19年度生まれの方がキャッチアップ接種の対象者となります",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "平成9年4月2日から平成21年4月1日までに生まれた女性"
+      },
+      "support": {
+        "description": "HPV（ヒトパピローマウイルス）ワクチン（子宮頸がん予防ワクチン）接種",
+        "monetarySupport": null,
+        "materiallySupport": "HPV（ヒトパピローマウイルス）ワクチン（子宮頸がん予防ワクチン）接種"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": "2022-04-01",
+        "fromHM": null,
+        "toYMD": "2025-03-31",
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "23区内の協力医療機関（定期予防接種実施医療機関名簿）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/info/iryoukikanmeibo.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "東京23区内の協力医療機関で接種できます。接種には台東区が発行した予診票が必要です。（これまでに発行された予診票も引き続き使用できます。）\n予診票がお手元にない方は、郵送または電子申請で申請してください。申請後、1週間程度でご自宅へ郵送します。\n台東区内の協力医療機関（定期予防接種実施医療機関名簿）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/info/iryoukikanmeibo.html\n\n予診票がお手元にない方はこちら（予診票の発行申請）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/info/vsq_reissue.html",
+      "procedurePeriod": {
+        "fromYMD": "2022-04-01",
+        "fromHM": null,
+        "toYMD": "2026-03-31",
+        "toHM": null,
+        "conditions": "2022年4月1日から2025年3月31日までの3年間\nただし、経過措置として2022年4月1日から2025年3月31日までの間に1回以上接種を受けた方のみ、残りの接種回数の接種期限が2026年3月31日まで延長されます。 "
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/shikyuukeigan/hpvyobou.html",
+          "title": "HPVワクチンを自費で接種された方に対する接種費用の助成（償還払い制度）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou/hpv_catch-up-vaccination.html",
+          "title": "HPV（ヒトパピローマウイルス）ワクチン（子宮頸がん予防ワクチン）接種"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/shikyuukeigan/hpvyobou.html",
+          "title": "予診票がお手元にない方はこちら（予診票の発行申請）"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/info/iryoukikanmeibo.html",
+          "title": "厚生労働省　ヒトパピローマウイルス感染症～子宮頸がん（子宮けいがん）とHPVワクチン（外部サイト）"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kenkohukusi/kenko/kakusyukenkoshindan/gankensin/shikyukeigankenshin.html",
+          "title": "HPV（ヒトパピローマウイルス）ワクチン（子宮頸がん予防ワクチン）接種"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_ihttps://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/info/vsq_reissue.htmlryou/yobousesshu/teiki/shikyuukeigan/hpvcatchup.files/catchup_leaflet.pdf",
+          "title": "キャッチアップ接種リーフレット（PDF：2"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou28/index.html",
+          "title": "196KB）"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/info/vsq_reissue.html",
+          "title": "台東区内の協力医療機関（定期予防接種実施医療機関名簿）"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/shikyuukeigan/hpvshoukan.html",
+          "title": "子宮頸がん検診（無料）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/shikyuukeigan/hpvcatchup.html",
+        "title": "平成9～19年度に生まれた女性のHPVワクチン予防接種について（キャッチアップ接種）"
+      },
+      "formLink": [
+        {
+          "uri": "http://taito.city-hc.jp/",
+          "title": "「おまかせ予防接種！ワクチン・ナビ」（外部サイト）"
+        }
+      ],
+      "contact": {
+        "contactName": "台東保健所　保健予防課予防担当",
+        "contactPhone": "03-3847-9471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+12+UM54",
+        "organization": "6000020131067",
+        "compartment": "台東保健所　保健予防課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-23",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "HPV（ヒトパピローマウイルス）ワクチン（子宮頸がん予防ワクチン）接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "HPVワクチン接種の積極的勧奨の再開について\n　HPV（ヒトパピローマウイルス）ワクチン（子宮頸がん予防ワクチン）接種は、国の勧告により、ワクチン接種後の副反応について十分に情報提供できない状況にあったことから、平成25年6月から令和3年度までの間、予防接種予診票をお送りしていませんでした（積極的な勧奨の差し控え）。\n　この間、国においてHPVワクチンの有効性及び安全性に関する評価、HPVワクチン接種後に生じた症状への対応、HPVワクチンについての情報提供の取組み等について継続的に議論が行われてきました。その結果、最新の知見を踏まえ、HPVワクチンの安全性について特段の懸念が認められないことが確認され、接種による有効性が副反応のリスクを明らかに上回ると認められたため、令和4年4月1日より積極的な勧奨を再開することが決定されました。\n\nなお、接種の際には、HPVワクチンの効果と接種による副反応のリスクを十分に理解したうえで、医師とよく相談し接種を行ってください。\n\nワクチンに関する情報については、国のホームページをご覧ください。\n\n厚生労働省　ヒトパピローマウイルス感染症～子宮頸がん（子宮けいがん）とHPVワクチン（外部サイト）;https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou28/index.html\n\n9価のHPVワクチンの定期接種が開始されます\n　令和5年4月1日より従来の2価・4価ワクチンに加えて、新たに9価ワクチンが、HPVワクチンの定期接種で用いられるようになりました。これまでに区からお渡しした予診票を使って、9価ワクチンの接種を受けることができます。\n\nHPVワクチンの効果\n　子宮がんのうち子宮の入口にできるがんが子宮頸がんです。日本では女性のおよそ300人に1人の方が、子宮頸がんで亡くなると推定されています。\n　子宮頸がんの主な発生原因はHPV（ヒトパピローマウイルス）で、HPVワクチンは、HPVの感染を予防するので、結果的に子宮頸がんが予防されます。\n　HPVが主に性交渉で感染することから、初回性交渉前に子宮頸がん予防ワクチンを接種することが推奨されています。\n　子宮頸がんは検診で容易に発見できるので、子宮頸がん予防には、ワクチン接種後も、20歳になったら定期的な検診を受けることが大切です。\n\n子宮頸がん検診（無料）;https://www.city.taito.lg.jp/kenkohukusi/kenko/kakusyukenkoshindan/gankensin/shikyukeigankenshin.html\n\n参考リンク\nがん情報サービス最新がん統計　https://ganjoho.jp/reg_stat/statistics/stat/summary.html（外部サイト）;https://ganjoho.jp/reg_stat/statistics/stat/summary.html\n\n子宮頸がん 基礎知識　https://ganjoho.jp/public/cancer/cervix_uteri/index.html（外部サイト）;https://ganjoho.jp/public/cancer/cervix_uteri/index.html\n\nHPVワクチン接種推進に向けた関連学術団体の見解　http://vaccine-kyogikai.umin.jp/pdf/20160418_HPV-vaccine-opinion.pdf（外部サイト）;http://vaccine-kyogikai.umin.jp/pdf/20160418_HPV-vaccine-opinion.pdf\n\nVPDを知って、子どもを守ろうの会　HPV（子宮頸がん予防）ワクチンの現状についての考え方　http://www.know-vpd.jp/news/2468.php（外部サイト）;http://www.know-vpd.jp/news/2468.php\n\n副反応\n局所反応（およそ10人に1人）\n接種した部位の痛み\n接種した部位が赤くなる\n接種した部位の腫れ\n全身反応\n筋肉痛、関節痛、頭痛、腹痛（およそ10人に1人）\nじんましん、めまい、発熱（10人に1人未満）\n重い副反応\nアナフィラキシー・ショック\n全身のじんましんや、嘔吐、呼吸困難、血圧低下などの激しい全身アレルギー症状（およそ96万接種に1回）\n\nギラン・バレー症候群\n急速に悪化する手足などの筋力低下、感覚鈍麻などの全身症状（およそ430万接種に1回）\n\n急性散在性脳脊髄炎（ADEM）\n発熱、頭痛、目が見えにくい、手足の筋力低下、感覚鈍麻などの全身症状（およそ430万接種に1回）\n\n複合性局所疼痛症候群（CRPS）\nさまざまな慢性の痛み（およそ860万接種に1回）\n\n血管迷走神経反射\n失神（頻度不明）\n接種後は医師の指示に従って、しばらく待機するようにしましょう。\n\n医薬品医療機器総合機構　重篤副作用疾患別対応マニュアル\nアナフィラキシー（外部サイト）;http://www.info.pmda.go.jp/juutoku/file/jfm0803003.pdf\n\nギラン・バレー症候群（外部サイト）;http://www.info.pmda.go.jp/juutoku/file/jfm0905002.pdf\n\n急性散在性脳脊髄炎（外部サイト）;http://www.info.pmda.go.jp/juutoku/file/jfm1104009.pdf\n\nワクチンの安全性\n厚生労働省の専門家会議では「これまでの副反応報告によって、その安全性において重大な懸念は認められない」とされています。\nWHO（世界保健機関）の専門委員会も、2015年12月17日に安全声明を出しています。\n\nGACVS Statement on Safety of HPV vaccines (English)（外部サイト）;http://www.who.int/vaccine_safety/committee/GACVS_HPV_statement_17Dec2015.pdf\n\n厚生科学審議会　予防接種・ワクチン分科会副反応検討部会（外部サイト）;http://www.mhlw.go.jp/stf/shingi/shingi-kousei.html?tid=284075\n\n対象者・費用\n対象者\n小学校6年生（12歳相当）から高校1年生（16歳相当）の女性\n\n標準接種期間\n中学校1年生（13歳相当）の年齢のときに2回または3回\n\n接種有効期限\n小学校6年生に相当する年度の当初から高校1年生に相当する年度の末日まで\n\n費用\n無料\n\nワクチン接種が受けられない方\n妊娠している方\n37.5度以上の熱がある方\n重篤な急性疾患にかかっている方\n免疫異常のある方\nワクチン成分に対するアレルギーのある方\n以前ワクチン接種後30分以内に、アナフィラキシー・ショックを起こしたことのある方\n医師が不適当な状態と判断した方\nワクチン接種を受ける際に医師との相談が必要な方\n妊娠している可能性のある方\n授乳中の方\n心臓病・腎臓病・肝臓病や、血液の病気、発育障害などの基礎疾患のある方\n以前ワクチン接種後2日以内に、発熱、発疹、じんましんなどがみられた方\n以前けいれんを起こしたことのある方\n接種回数\n（1）サーバリックス（2価）\n初回接種後1か月あけて2回目、初回から6か月以上あけて3回目を接種\n\n（2）ガーダシル（4価）\n初回接種後2か月あけて2回目、初回から6か月以上あけて3回目を接種\n\n（3）シルガード9（9価）\n【2回接種の場合】初回接種後6か月以上あけて2回目を接種\n\n【3回接種の場合】初回接種後2か月あけて2回目、初回から6か月あけて3回目を接種\n\n※15歳までにシルガード9で1回目の接種を開始し、2回目接種までの接種間隔を5カ月以上空けた場合のみ2回の接種で接種完了とすることが可能です。\n\n接種方法\n接種の前に、「子宮頸がん予防ワクチン（サーバリックス）の接種をご希望の方へ」、「HPVワクチン（ガーダシル）を接種される方へ」及び「HPVワクチン（シルガード9）を接種される方へ」をよく読んで、納得してから受けましょう。\n\nHPVワクチン（サーバリックス）の接種をご希望の方に（PDF：291KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/shikyuukeigan/hpvyobou.files/cervarix_exp.pdf\n\nHPVワクチン（ガーダシル）を接種される方へ（PDF：190KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/shikyuukeigan/hpvyobou.files/gardasil_exp.pdf\n\nHPVワクチン（シルガード9）を接種される方へ（PDF：245KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/shikyuukeigan/hpvyobou.files/hpv202303-info03.pdf.pdf\n\n通知時期\n標準接種期間の前の3月下旬\n\n接種場所\n区内の協力医療機関にて実施しています。\n日時は医療機関により異なりますので、事前にご確認ください。\n\nなお、23区内の指定医療機関でも接種することができます。希望される場合は、他区の保健所か医療機関へ直接お問い合わせください。\n当日は予診票と母子健康手帳を必ずご持参ください。\n接種当日\n予診票と母子健康手帳を、医療機関にお持ちください。\nなお、13歳以上の方は、予診票と同意書の両方に保護者が署名し、持参すれば保護者の同伴なしでも予防接種を受けることは可能ですが、接種後の失神について国などから特に注意喚起がされていますので、未成年者の予防接種の原則のとおり、保護者などの同伴をお勧めします。\n接種後\n予防接種を受けたあと30分間は、急な副反応が起こることがあるので、接種場所でお子さんの様子を観察しましょう。\n接種当日は、はげしい運動はやめましょう。\n入浴は差し支えありませんが、接種部位はこすらないように注意しましょう。\n接種後30分は、血管迷走神経反射と考えられる失神が起こることがあります。失神による転倒を防ぐために、接種後は医師の指示に従って、背もたれのある椅子などに体重を預けられるような場所で、なるべく立ち上がることを避けて、しばらく待機するようにしましょう。\nなお、痛みやしびれが2週間から4週間続いた場合は、速やかに医師の診察を受けてください。\n参考\n新規ウィンドウで開きます。\nヒトパピローマウイルス感染症の予防接種後に症状が生じた方に対する相談窓口について（外部サイト）;https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou28/madoguchi/index.html\n\n厚生労働省 ヒトパピローマウイルス感染症の予防接種後に生じた症状の診療に係る協力医療機関について（外部サイト）;http://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou28/medical_institution/index.html\n\n公益社団法人日本医師会 HPVワクチン接種後に生じた症状に対する診療の手引き（外部サイト）;https://www.med.or.jp/dl-med/teireikaiken/20150819_hpv.pdf\n\n予防接種による健康被害救済\n　予防接種による副反応により、生活に支障の出るような障害を残す等健康被害が生じた場合、予防接種法に基づく救済を受けることができます。\n　ただし、その健康被害が予防接種によるものなのか、国の審査会で審議し、予防接種によるものと認定された場合に限ります。\n　詳細は国のホームページをご覧ください。\n\n厚生労働省 予防接種健康被害救済制度について（外部サイト）;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_kenkouhigaikyuusai.html\n\n関連情報\n厚生労働省 予防接種情報（外部サイト）;http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/yobou-sesshu/index.html\n\nがん情報サービス がん種別リスク要因と予防法（外部サイト）;https://ganjoho.jp/public/pre_scr/cause_prevention/part_distinction.html\n\n一般社団法人日本ワクチン産業協会 予防接種に関するQ&A（外部サイト）;http://www.wakutin.or.jp/medical/index.html\n\n平成9～17年度に生まれた女性のHPVワクチン予防接種について（キャッチアップ接種）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/shikyuukeigan/hpvcatchup.html",
+      "target": {
+        "targetPersons": "小学校6年生（12歳相当）から高校1年生（16歳相当）の女性",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "小学校6年生（12歳相当）から高校1年生（16歳相当）"
+      },
+      "support": {
+        "description": "標準接種期間\n中学校1年生（13歳相当）の年齢のときに2回または3回",
+        "monetarySupport": null,
+        "materiallySupport": "標準接種期間\n中学校1年生（13歳相当）の年齢のときに2回または3回"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "接種場所\n区内の協力医療機関にて実施しています。\n日時は医療機関により異なりますので、事前にご確認ください。\n\nなお、23区内の指定医療機関でも接種することができます。希望される場合は、他区の保健所か医療機関へ直接お問い合わせください。\n当日は予診票と母子健康手帳を必ずご持参ください。\n接種当日\n予診票と母子健康手帳を、医療機関にお持ちください。\nなお、13歳以上の方は、予診票と同意書の両方に保護者が署名し、持参すれば保護者の同伴なしでも予防接種を受けることは可能ですが、接種後の失神について国などから特に注意喚起がされていますので、未成年者の予防接種の原則のとおり、保護者などの同伴をお勧めします。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "予診票と母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.med.or.jp/dl-med/teireikaiken/20150819_hpv.pdf",
+          "title": "公益社団法人日本医師会 HPVワクチン接種後に生じた症状に対する診療の手引き（外部サイト）"
+        },
+        {
+          "uri": "http://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou28/medical_institution/index.html",
+          "title": "厚生労働省 ヒトパピローマウイルス感染症の予防接種後に生じた症状の診療に係る協力医療機関について（外部サイト）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou28/madoguchi/index.html",
+          "title": "ヒトパピローマウイルス感染症の予防接種後に症状が生じた方に対する相談窓口について（外部サイト）"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/shikyuukeigan/hpvyobou.files/hpv202303-info03.pdf.pdf",
+          "title": "HPVワクチン（シルガード9）を接種される方へ（PDF：245KB）"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/shikyuukeigan/hpvyobou.files/gardasil_exp.pdf",
+          "title": "HPVワクチン（ガーダシル）を接種される方へ（PDF：190KB）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou28/index.html",
+          "title": "厚生労働省　ヒトパピローマウイルス感染症～子宮頸がん（子宮けいがん）とHPVワクチン（外部サイト）"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/shikyuukeigan/hpvyobou.files/cervarix_exp.pdf",
+          "title": "HPVワクチン（サーバリックス）の接種をご希望の方に（PDF：291KB）"
+        },
+        {
+          "uri": "https://ganjoho.jp/public/cancer/cervix_uteri/index.html",
+          "title": "子宮頸がん 基礎知識　https://ganjoho.jp/public/cancer/cervix_uteri/index.html（外部サイト）"
+        },
+        {
+          "uri": "http://www.wakutin.or.jp/medical/index.html",
+          "title": "一般社団法人日本ワクチン産業協会 予防接種に関するQ&A（外部サイト）"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kenkohukusi/kenko/kakusyukenkoshindan/gankensin/shikyukeigankenshin.html",
+          "title": "子宮頸がん検診（無料）"
+        },
+        {
+          "uri": "http://vaccine-kyogikai.umin.jp/pdf/20160418_HPV-vaccine-opinion.pdf",
+          "title": "HPVワクチン接種推進に向けた関連学術団体の見解　http://vaccine-kyogikai.umin.jp/pdf/20160418_HPV-vaccine-opinion.pdf（外部サイト）"
+        },
+        {
+          "uri": "https://ganjoho.jp/public/pre_scr/cause_prevention/part_distinction.html",
+          "title": "がん情報サービス がん種別リスク要因と予防法（外部サイト）"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/shikyuukeigan/hpvcatchup.html",
+          "title": "平成9～17年度に生まれた女性のHPVワクチン予防接種について（キャッチアップ接種）"
+        },
+        {
+          "uri": "https://ganjoho.jp/reg_stat/statistics/stat/summary.html",
+          "title": "がん情報サービス最新がん統計　https://ganjoho.jp/reg_stat/statistics/stat/summary.html（外部サイト）"
+        },
+        {
+          "uri": "http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/yobou-sesshu/index.html",
+          "title": "厚生労働省 予防接種情報（外部サイト）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_kenkouhigaikyuusai.html",
+          "title": "厚生労働省 予防接種健康被害救済制度について（外部サイト）"
+        },
+        {
+          "uri": "http://www.mhlw.go.jp/stf/shingi/shingi-kousei.html?tid=284075",
+          "title": "厚生科学審議会　予防接種・ワクチン分科会副反応検討部会（外部サイト）"
+        },
+        {
+          "uri": "http://www.who.int/vaccine_safety/committee/GACVS_HPV_statement_17Dec2015.pdf",
+          "title": "GACVS Statement on Safety of HPV vaccines (English)（外部サイト）"
+        },
+        {
+          "uri": "http://www.info.pmda.go.jp/juutoku/file/jfm1104009.pdf",
+          "title": "急性散在性脳脊髄炎（外部サイト）"
+        },
+        {
+          "uri": "http://www.info.pmda.go.jp/juutoku/file/jfm0905002.pdf",
+          "title": "ギラン・バレー症候群（外部サイト）"
+        },
+        {
+          "uri": "http://www.know-vpd.jp/news/2468.php",
+          "title": "\nVPDを知って、子どもを守ろうの会　HPV（子宮頸がん予防）ワクチンの現状についての考え方　http://www.know-vpd.jp/news/2468.php（外部サイト）"
+        },
+        {
+          "uri": "http://www.info.pmda.go.jp/juutoku/file/jfm0803003.pdf",
+          "title": "アナフィラキシー（外部サイト）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/shikyuukeigan/hpvyobou.html",
+        "title": "HPV（ヒトパピローマウイルス）ワクチン（子宮頸がん予防ワクチン）接種"
+      },
+      "formLink": [
+        {
+          "uri": "http://taito.city-hc.jp/",
+          "title": "「おまかせ予防接種！ワクチン・ナビ」（外部サイト）"
+        }
+      ],
+      "contact": {
+        "contactName": "台東保健所　保健予防課予防担当",
+        "contactPhone": "03-3847-9471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+13+UM54",
+        "organization": "6000020131067",
+        "compartment": "台東保健所　保健予防課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-21",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "ロタウイルスワクチン"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "令和2年10月1日から定期予防接種になりました。\n\n対象者\n令和2年8月1日以降に出生した者\n\n接種時期・接種回数\n2種類のワクチンがあり、接種時期・接種回数が異なります。\n効果・安全性に違いはありません。\n途中でワクチンを変えることはできません。同じワクチンで、決められた回数の接種をします。\nなお、ワクチンを変えなければならない特段の事情がある場合は、事前に下記問合せ先までご相談ください。\n\n|ワクチン名|ロタリックス|ロタテック|\n|:----|:----|:----|\n|接種対象期間|出生6週0日後～24週0日後|出生6週0日後～32週0日後|\n|接種回数・接種間隔|2回（27日以上の間隔をあける）|3回（27日以上の間隔をあける）|\n\n標準的な接種期間\n初回接種：生後2月から出生14週6日後まで\n出生15週0日後以降の初回接種は、安全性の観点からおすすめしません。\n\n通知時期\n生後1か月頃\n\n予防接種のスケジュール管理は「ワクチン・ナビ」をご利用ください。\n予防接種情報サービス　「おまかせ予防接種！ワクチン・ナビ」（通称「ワク・ナビ」）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/wakunabi.html",
+      "target": {
+        "targetPersons": "令和2年8月1日以降に出生した者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "出生6週0日後～24週0日後"
+      },
+      "support": {
+        "description": "ロタリックス 2回（27日以上の間隔をあける）",
+        "monetarySupport": null,
+        "materiallySupport": "ロタリックス 2回（27日以上の間隔をあける）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "予防接種のスケジュール管理は「ワクチン・ナビ」をご利用ください。\n予防接種情報サービス　「おまかせ予防接種！ワクチン・ナビ」（通称「ワク・ナビ」）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/wakunabi.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/wakunabi.html",
+          "title": "予防接種情報サービス　「おまかせ予防接種！ワクチン・ナビ」（通称「ワク・ナビ」）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/rota/rota.html",
+        "title": "ロタウイルスワクチン"
+      },
+      "formLink": [
+        {
+          "uri": "http://taito.city-hc.jp/",
+          "title": "「おまかせ予防接種！ワクチン・ナビ」（外部サイト）"
+        }
+      ],
+      "contact": {
+        "contactName": "台東保健所　保健予防課予防担当",
+        "contactPhone": "03-3847-9471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+14+UM54",
+        "organization": "6000020131067",
+        "compartment": "台東保健所　保健予防課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2020-10-01",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "ロタウイルスワクチン"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "令和2年10月1日から定期予防接種になりました。\n\n対象者\n令和2年8月1日以降に出生した者\n\n接種時期・接種回数\n2種類のワクチンがあり、接種時期・接種回数が異なります。\n効果・安全性に違いはありません。\n途中でワクチンを変えることはできません。同じワクチンで、決められた回数の接種をします。\nなお、ワクチンを変えなければならない特段の事情がある場合は、事前に下記問合せ先までご相談ください。\n\nワクチン名\tロタリックス\tロタテック\n接種対象期間\t出生6週0日後～24週0日後\t出生6週0日後～32週0日後\n接種回数・接種間隔\t2回（27日以上の間隔をあける）\t3回（27日以上の間隔をあける）\n\n標準的な接種期間\n初回接種：生後2月から出生14週6日後まで\n出生15週0日後以降の初回接種は、安全性の観点からおすすめしません。\n\n通知時期\n生後1か月頃\n\n予防接種のスケジュール管理は「ワクチン・ナビ」をご利用ください。\n予防接種情報サービス　「おまかせ予防接種！ワクチン・ナビ」（通称「ワク・ナビ」）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/wakunabi.html",
+      "target": {
+        "targetPersons": "令和2年8月1日以降に出生した者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "出生6週0日後～32週0日後"
+      },
+      "support": {
+        "description": "ロタテック 3回（27日以上の間隔をあける）",
+        "monetarySupport": null,
+        "materiallySupport": "ロタテック 3回（27日以上の間隔をあける）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "予防接種のスケジュール管理は「ワクチン・ナビ」をご利用ください。\n予防接種情報サービス　「おまかせ予防接種！ワクチン・ナビ」（通称「ワク・ナビ」）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/wakunabi.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/wakunabi.html",
+          "title": "予防接種情報サービス　「おまかせ予防接種！ワクチン・ナビ」（通称「ワク・ナビ」）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/rota/rota.html",
+        "title": "ロタウイルスワクチン"
+      },
+      "formLink": [
+        {
+          "uri": "http://taito.city-hc.jp/",
+          "title": "「おまかせ予防接種！ワクチン・ナビ」（外部サイト）"
+        }
+      ],
+      "contact": {
+        "contactName": "台東保健所　保健予防課予防担当",
+        "contactPhone": "03-3847-9471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+15+UM54",
+        "organization": "6000020131067",
+        "compartment": "台東保健所　保健予防課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2020-10-01",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "MR（麻しん風しん混合）ワクチン第1期"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "MR（麻しん風しん混合）ワクチン第1期\n接種期間\n1歳以上2歳未満の間に1回\n\n接種有効期限\n1歳以上2歳未満\n\n通知時期\n生後11か月頃\n\n関連情報\n18歳以下の麻しん風しん混合予防接種未接種者へ接種料を助成しています;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/mr/josei.html\n\n定期の接種期間を過ぎた場合も、18歳以下の方については接種費用の助成をおこなっております。\n\n風しん抗体検査・風しん予防接種の費用助成のお知らせ;https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/kansensho/kansenshoyobo/rexaminationviccine.html\n\n区内在住の満19歳以上の妊娠を希望する女性とその同居するパートナーの方へ風しんの抗体検査と予防接種の費用助成を行っております。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1歳以上2歳未満"
+      },
+      "support": {
+        "description": "1歳以上2歳未満の間に1回",
+        "monetarySupport": null,
+        "materiallySupport": "1歳以上2歳未満の間に1回"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/kansensho/kansenshoyobo/rexaminationviccine.html",
+          "title": "風しん抗体検査・風しん予防接種の費用助成のお知らせ"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/mr/josei.html",
+          "title": "18歳以下の麻しん風しん混合予防接種未接種者へ接種料を助成しています"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/mr/mr1.html",
+        "title": "MR（麻しん風しん混合）ワクチン第1期"
+      },
+      "formLink": [
+        {
+          "uri": "http://taito.city-hc.jp/",
+          "title": "「おまかせ予防接種！ワクチン・ナビ」（外部サイト）"
+        }
+      ],
+      "contact": {
+        "contactName": "台東保健所　保健予防課予防担当",
+        "contactPhone": "03-3847-9471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+16+UM54",
+        "organization": "6000020131067",
+        "compartment": "台東保健所　保健予防課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2015-11-30",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "MR（麻しん風しん混合）ワクチン第2期"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "接種期間\n5歳以上7歳未満のお子さんで、小学校就学前の1年間\n\n接種有効期限\n小学校入学前の4月1日から翌年3月31日まで\n\n通知時期\n接種期間の前の3月下旬\n\n関連情報\n18歳以下の麻しん風しん混合予防接種未接種者へ接種料を助成しています;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/mr/josei.html\n定期の接種期間を過ぎた場合も、18歳以下の方については接種費用の助成を行っております。\n\n風しん抗体検査・風しん予防接種の費用助成のお知らせ;https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/kansensho/kansenshoyobo/rexaminationviccine.html\n区内在住の満19歳以上の妊娠を希望する女性とその同居するパートナーの方へ風しんの抗体検査と予防接種の費用助成を行っています。",
+      "target": {
+        "targetPersons": "5歳以上7歳未満のお子さん",
+        "lessThan": {
+          "targetAge": 7,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 5,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "5歳以上7歳未満のお子さんで、小学校就学前の1年間"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/kansensho/kansenshoyobo/rexaminationviccine.html",
+          "title": "風しん抗体検査・風しん予防接種の費用助成のお知らせ"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/mr/josei.html",
+          "title": "18歳以下の麻しん風しん混合予防接種未接種者へ接種料を助成しています"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/mr/mr2.html",
+        "title": "MR（麻しん風しん混合）ワクチン第2期"
+      },
+      "formLink": [
+        {
+          "uri": "http://taito.city-hc.jp/",
+          "title": "「おまかせ予防接種！ワクチン・ナビ」（外部サイト）"
+        }
+      ],
+      "contact": {
+        "contactName": "台東保健所　保健予防課予防担当",
+        "contactPhone": "03-3847-9471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+17+UM54",
+        "organization": "6000020131067",
+        "compartment": "台東保健所　保健予防課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2015-11-30",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "18歳以下の麻しん風しん混合予防接種未接種者へ接種料を助成"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "台東区では、麻しん風しん予防接種を法定期間内の第1期(1歳から2歳の誕生日の前日)、第2期(5歳以上7歳未満で小学校就学前の1年間)に接種できなかった18歳以下の方で接種を希望する方を対象に、台東区独自で接種料の助成を行っています。\n　ご希望の方には、専用の予防接種予診票を発行いたしますので、下記までお問合せください。\n\n　特に麻しんは症状の重い病気です。第1期の麻しん風しん予防接種を受けそびれてしまった方は、是非この制度をご利用になり接種を受けてください。\n\n対象者\n以下の（1）及び（2）に該当する方\n（1）2歳以上18歳以下の者(麻しん風しん定期予防接種第2期の対象者を除く)\n（2）麻しん風しん定期予防接種を2回完了していない方で、かつ、麻しん風しん両方もしくはどちらかにかかったことがない者\n\n接種費用\n無料\n\n実施場所\n区内指定医療機関\n（台東区独自の制度ですので、区外では受けられません）\n\n麻しん風しん予防接種台東区単独助成協力医療機関名簿（令和5年10月2日時点）（PDF：296KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/mr/josei.files/MRkutan20231002.pdf\n\nPDF形式のファイルを開くには、Adobe Acrobat Reader DC（旧Adobe Reader）が必要です。\nお持ちでない方は、Adobe社から無償でダウンロードできます。\nGet Adobe Acrobat Reader DCAdobe Acrobat Reader DCのダウンロードへ\n\n関連情報\n風しん抗体検査・風しん予防接種の費用助成のお知らせ;https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/kansensho/kansenshoyobo/rexaminationviccine.html\n\n区内在住の満19歳以上の妊娠を希望する女性とその同居者の方へ風しんの抗体検査と予防接種の費用助成を行っています。\n\n風しんの追加的対策について;https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/kansensho/kansenshoyobo/fuusintuikataisaku.html\n\n昭和37年4月2日から昭和54年4月1日の間に生まれた男性は令和7年3月31日まで風しん抗体検査と予防接種を無料で受けられます。",
+      "target": {
+        "targetPersons": "以下の（1）及び（2）に該当する方\n（1）2歳以上18歳以下の者(麻しん風しん定期予防接種第2期の対象者を除く)\n（2）麻しん風しん定期予防接種を2回完了していない方で、かつ、麻しん風しん両方もしくはどちらかにかかったことがない者",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "2歳以上18歳以下の者"
+      },
+      "support": {
+        "description": "接種料の助成",
+        "monetarySupport": "接種料の助成",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "麻しん風しん予防接種台東区単独助成協力医療機関名簿（令和5年10月2日時点）（PDF：296KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/mr/josei.files/MRkutan20231002.pdf",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "ご希望の方には、専用の予防接種予診票を発行いたしますので、下記までお問合せください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/kansensho/kansenshoyobo/fuusintuikataisaku.html",
+          "title": "風しんの追加的対策について"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/mr/josei.files/MRkutan20231002.pdf",
+          "title": "麻しん風しん予防接種台東区単独助成協力医療機関名簿（令和5年10月2日時点）（PDF：296KB）"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/kansensho/kansenshoyobo/rexaminationviccine.html",
+          "title": "風しん抗体検査・風しん予防接種の費用助成のお知らせ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/mr/josei.html",
+        "title": "18歳以下の麻しん風しん混合予防接種未接種者へ接種料を助成しています"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13106&procCode=11002598",
+          "title": "予防接種予診票の交付受付"
+        }
+      ],
+      "contact": {
+        "contactName": "台東保健所　保健予防課予防担当",
+        "contactPhone": "03-3847-9471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+18+UM54",
+        "organization": "6000020131067",
+        "compartment": "台東保健所　保健予防課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-05",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "水痘（水ぼうそう）ワクチン"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "標準接種期間\n（1）1回目\n生後12か月から15か月未満\n\n（2）2回目\n1回目の接種終了後、6か月から12か月未満の間隔で接種\n\n接種有効期限\n1歳以上3歳未満\n\n通知時期\n生後11か月頃",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1歳以上3歳未満"
+      },
+      "support": {
+        "description": "（1）1回目\n生後12か月から15か月未満\n\n（2）2回目\n1回目の接種終了後、6か月から12か月未満の間隔で接種",
+        "monetarySupport": null,
+        "materiallySupport": "（1）1回目\n生後12か月から15か月未満\n\n（2）2回目\n1回目の接種終了後、6か月から12か月未満の間隔で接種"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/suitou/suitou.html",
+        "title": "水痘（水ぼうそう）ワクチン"
+      },
+      "formLink": [
+        {
+          "uri": "http://taito.city-hc.jp/",
+          "title": "「おまかせ予防接種！ワクチン・ナビ」（外部サイト）"
+        }
+      ],
+      "contact": {
+        "contactName": "台東保健所　保健予防課予防担当",
+        "contactPhone": "03-3847-9471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+19+UM54",
+        "organization": "6000020131067",
+        "compartment": "台東保健所　保健予防課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2015-11-30",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊娠の届出・母子健康手帳の交付",
+        "shortName": "母子健康手帳の交付"
+      },
+      "summary": "妊娠がわかったら妊娠の届出をしてください。妊娠の届出をした妊婦さんに母子健康手帳を交付します。母子健康手帳は、妊娠からお子さんが小学校に入学するまでの、母と子の健康の記録です。育児、予防接種、健康診査などの際に必要となります。",
+      "description": "妊娠届\n医師または助産師による妊娠確定の診断等※を受けた方は「 妊娠届出書」をご提出ください。\n※妊娠届出書は、医療機関で赤ちゃんの心拍の確認や妊娠の診断を受けた時にご提出ください。\n妊娠届出書には「妊娠週数」「出産予定日」「妊娠の診断を受けた医療機関名・所在地」等を記載していただきます。\n母子健康手帳は母と子の健康状態を記録するために必要なものです。妊娠届出書の提出はなるべく早く（11週ごろまでに）行いましょう。\n妊娠届出後には、『母子健康手帳』と妊婦健康診査受診票や各種お知らせの入った『母と子の保健バッグ』を提供します。\n対象者\n妊婦本人またはご家族\n\n届出方法\n窓口申請\n保健所、保健センター、区役所や区民事務所にて妊娠届出書を受付しています。\n\n妊娠届出書の用紙は窓口に備え付けています。\n台東区ホームページのダウンロードサービスからダウンロード;https://www.city.taito.lg.jp/benri/download/hokenservice/boshitecho.htmlすることもできます。\n≪届出時に必要なもの≫\n◆個人番号カードをお持ちの場合\n　　 個人番号カード\n◆個人番号カードをお持ちでない場合\n　　本人確認書類（本人確認書類についてはこちら;https://www.city.taito.lg.jp/kurashi/todokede/jyuminhyo/honninkakunin.htmlをご確認ください。）\n\n※妊婦以外の方（代理人）による届出の場合、代理人の本人確認書類が必要です。\n　なお、本人と別世帯の場合は、委任状が必要になります。\n\n　こちらからダウンロードしてください。\n　委任状（妊娠届出用：白紙）(ワード:94KB);https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/ninshin/todokede/boshikenkotecho.files/ninshintodokeyouininjou2.docx\n　委任状（妊娠届出用：白紙）(PDF:262KB);https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/ninshin/todokede/boshikenkotecho.files/ninsintodokeyouininjou.pdf\n\n<届出先>\n浅草保健相談センター庶務担当（浅草保健相談センター3階）\n台東区花川戸2丁目11番10号　電話：03-3844-8171　FAX：03-3844-8178\n\n台東保健所保健サービス課母子成人保健担当（台東保健所2階）\n台東区東上野4丁目22番8号　電話：03-3847-9447　FAX：03-3847-9467\n\n台東区役所 戸籍住民サービス課（台東区役所1階2番窓口）\n\n西部区民事務所（下谷3丁目）\n\n北部区民事務所（浅草4丁目）\n\n南部区民事務所（寿1丁目）\n\n西部区民事務所谷中分室（谷中5丁目）\n\n北部区民事務所清川分室（清川1丁目）\n\n区民事務所・区民事務所分室については、こちら;https://www.city.taito.lg.jp/kusei/shisetsu/kuyakusho/jimushocenter/index.htmlをご確認ください。\n\n電子申請による届出\n政府が運営するオンラインサービス「マイナポータル」より、電子申請による届出ができます。\n\nマイナポータルはこちら\n　電子申請（ぴったりサービス）（外部サイト）;https://myna.go.jp/SCK1501_02_001/SCK1501_02_001_Init.form\n\n※電子申請するためには、個人番号カードが必要です。\n　また、利用できるパソコン・スマートフォンに限りがあります。\n　詳しくは、「ぴったりサービス」ページ内の「よくある質問」をご参照ください。\n\n電子申請による届出についての注意事項\n届出内容を確認でき次第、母子健康手帳等を送付します。\nまた内容確認のため、電話させていただくことがございますので、ご了承ください。\n郵送のため、書類受理から、お手元に母子健康手帳が届くまでに、1週間程度かかります。\n余裕をもったうえでの届出をしていただけますよう、お願いします。\n\n「ゆりかご・たいとう面接」もぜひお受けください！\n台東区では安心して出産を迎えていただくために、すべての妊婦の方を対象にゆりかご・たいとう面接を行っています。\n面接では、保健師等がお話を伺い、妊娠期から子育て期にわたりその方にあったサービスを紹介したり、妊娠中の不安を軽減していただけるようサポートしています。\n詳しくは以下をご参照ください。\n\nゆりかご・たいとう面接（妊娠中の方の相談支援を行います）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/nenrei/ninshinki/soudan_shien/yurikago.html\n\n「赤ちゃんを迎える方へ（～保健センター・保健所からのお知らせ～）」\n妊婦や赤ちゃん、子育て家庭のみなさまに、様々なサービスのご紹介をしております。\n詳しくは下記のページをご確認ください。\n赤ちゃんを迎える方へ（保健センター・保健所からのお知らせ）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/ninshin/welcome_baby.html",
+      "target": {
+        "targetPersons": "妊婦本人またはご家族",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠届出後には、『母子健康手帳』と妊婦健康診査受診票や各種お知らせの入った『母と子の保健バッグ』を提供します。",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠届出後には、『母子健康手帳』と妊婦健康診査受診票や各種お知らせの入った『母と子の保健バッグ』を提供します。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "窓口申請保健所、保健センター、区役所や区民事務所にて妊娠届出書を受付しています。妊娠届出書の用紙は窓口に備え付けています。台東区ホームページのダウンロードサービスからダウンロード;https://www.city.taito.lg.jp/benri/download/hokenservice/boshitecho.htmlすることもできます。≪届出時に必要なもの≫◆個人番号カードをお持ちの場合個人番号カード◆個人番号カードをお持ちでない場合本人確認書類（本人確認書類についてはこちら;https://www.city.taito.lg.jp/kurashi/todokede/jyuminhyo/honninkakunin.htmlをご確認ください。）※妊婦以外の方（代理人）による届出の場合、代理人の本人確認書類が必要です。なお、本人と別世帯の場合は、委任状が必要になります。こちらからダウンロードしてください。委任状（妊娠届出用：白紙）(ワード:94KB);https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/ninshin/todokede/boshikenkotecho.files/ninshintodokeyouininjou2.docx委任状（妊娠届出用：白紙）(PDF:262KB);https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/ninshin/todokede/boshikenkotecho.files/ninsintodokeyouininjou.pdf\n\n電子申請による届出\n政府が運営するオンラインサービス「マイナポータル」より、電子申請による届出ができます。\n\nマイナポータルはこちら\n電子申請（ぴったりサービス）（外部サイト）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "浅草保健相談センター庶務担当（浅草保健相談センター3階）台東区花川戸2丁目11番10号　電話：03-3844-8171　FAX：03-3844-8178,台東保健所保健サービス課母子成人保健担当（台東保健所2階）台東区東上野4丁目22番8号　電話：03-3847-9447　FAX：03-3847-9467,台東区役所 戸籍住民サービス課（台東区役所1階2番窓口）,西部区民事務所（下谷3丁目）,北部区民事務所（浅草4丁目）,南部区民事務所（寿1丁目）,西部区民事務所谷中分室（谷中5丁目）,北部区民事務所清川分室（清川1丁目）区民事務所・区民事務所分室については、こちら;https://www.city.taito.lg.jp/kusei/shisetsu/kuyakusho/jimushocenter/index.htmlをご確認ください。",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/ninshin/welcome_baby.html",
+          "title": "赤ちゃんを迎える方へ（保健センター・保健所からのお知らせ）"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/nenrei/ninshinki/soudan_shien/yurikago.html",
+          "title": "ゆりかご・たいとう面接（妊娠中の方の相談支援を行います）"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/ninshin/todokede/boshikenkotecho.files/ninsintodokeyouininjou.pdf",
+          "title": "　委任状（妊娠届出用：白紙）(PDF:262KB)"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/ninshin/todokede/boshikenkotecho.files/ninshintodokeyouininjou2.docx",
+          "title": "委任状（妊娠届出用：白紙）(ワード:94KB)"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/ninshin/todokede/boshikenkotecho.html",
+        "title": "母子健康手帳の交付"
+      },
+      "formLink": [
+        {
+          "uri": "https://myna.go.jp/SCK1501_02_001/SCK1501_02_001_Init.form",
+          "title": "外部サイトへリンク　新規ウインドウで開きます。電子申請（ぴったりサービス）（外部サイト）"
+        }
+      ],
+      "contact": {
+        "contactName": "浅草保健相談センター",
+        "contactPhone": "03-3844-8171",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080700",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+1+UM1",
+        "organization": "6000020131067",
+        "compartment": "浅草保健相談センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-01",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第15条（妊娠の届出）、第16条（母子健康手帳）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "077",
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "新生児訪問",
+        "shortName": "こんにちは赤ちゃん訪問"
+      },
+      "summary": "台東区では、赤ちゃんが生まれたすべてのご家庭を保健師または助産師が訪問して、赤ちゃんの体重測定や育児相談、子育てサービスの紹介などを行います。",
+      "description": "台東区では、赤ちゃんが生まれたすべてのご家庭を保健師または助産師が訪問して、赤ちゃんの体重測定や育児相談、子育てサービスの紹介などを行っています。\n\n対象\n　区内在住の生後4か月を迎えるまでの赤ちゃんがいるご家庭\n\n利用方法\n赤ちゃんが生まれたあと、できれば2週間以内に下のリンク先から【出生通知書（赤ちゃん訪問連絡票）】の電子申請をお願いします。\n電子申請が難しい場合は、電話でも受け付けています。\n\n出生通知書が届き次第、事前にご連絡の上、訪問いたします。\n\n■里帰り先での赤ちゃん訪問を希望される場合は、出生通知書にその旨をご記入ください。\n■他の自治体から交付された母子健康手帳をお持ちの方は、電子申請をご利用ください。\n\n電子申請リンク先\n内容\n1.赤ちゃんの体重測定や育児のご相談\n2.産後の体調についてのご相談\n3.健診や予防接種のご案内\n4.子育てサービスのご紹介など",
+      "target": {
+        "targetPersons": "区内在住の生後4か月を迎えるまでの赤ちゃんがいるご家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "区内在住の生後4か月を迎えるまでの赤ちゃんがいるご家庭"
+      },
+      "support": {
+        "description": "1.赤ちゃんの体重測定や育児のご相談2.産後の体調についてのご相談3.健診や予防接種のご案内4.子育てサービスのご紹介など",
+        "monetarySupport": null,
+        "materiallySupport": "1.赤ちゃんの体重測定や育児のご相談2.産後の体調についてのご相談3.健診や予防接種のご案内4.子育てサービスのご紹介など"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "赤ちゃんが生まれたあと、できれば2週間以内に下のリンク先から【出生通知書（赤ちゃん訪問連絡票）】の電子申請をお願いします。電子申請が難しい場合は、電話でも受け付けています。出生通知書が届き次第、事前にご連絡の上、訪問いたします。■里帰り先での赤ちゃん訪問を希望される場合は、出生通知書にその旨をご記入ください。■他の自治体から交付された母子健康手帳をお持ちの方は、電子申請をご利用ください。電子申請リンク先;https://logoform.jp/form/sQhE/373938",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "赤ちゃんが生まれたあと、できれば2週間以内に下のリンク先から【出生通知書（赤ちゃん訪問連絡票）】の電子申請をお願いします。"
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/shussan/shinseijihomonshido.html",
+        "title": "こんにちは赤ちゃん訪問"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/sQhE/373938",
+          "title": "電子申請はこちら"
+        }
+      ],
+      "contact": {
+        "contactName": "浅草保健相談センター　母子健康包括支援担当",
+        "contactPhone": "03-3844-8177",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080700",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+1+UM13",
+        "organization": "6000020131067",
+        "compartment": "浅草保健相談センター　母子健康包括支援担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-11",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第11条（新生児の訪問指導）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児医療費（子ども医療費）の助成",
+        "shortName": "子ども医療費助成"
+      },
+      "summary": "児童が健康保険を使って医療機関で受診した場合、保険診療の自己負担分を助成します。",
+      "description": "子ども（0歳から高校生等相当年齢）が健康保険証を使って医療機関にかかった場合、医療機関に支払う医療費の自己負担金を助成します。\n　ただし、 健康保険の取り扱いができないもの（健康診断・予防接種・差額ベッド代・薬の容器代、特定医療機関でかかった初診時の特定療養費など）は、助成されません。\n　また、 他の医療費助成が受けられる場合も、その給付分については助成されません。\n\n1.医療費の助成を受けられる方は…\n　次のすべての要件を満たしていることが必要です。\n（1）対象の子どもが台東区内に住んでいること\n（2）対象の子どもが国民健康保険または各種社会保険に加入していること\n　※対象の子どもの年齢は、 出生から18歳到達後の最初の3月31日まで\n　高校生等相当年齢の方（15歳到達後の最初の4月1日から18歳到達後の最初の3月31日まで）は、令和5年4月より対象となります。\n　※健康保険未加入、生活保護受給中、児童福祉施設等に入所の子どもは対象となりません。\n\n2.医療費の助成を受けるには…\n　対象の子どもが加入している健康保険証をお持ちになり、申請してください。\n　申請の手続きが完了したら 「医療証」を交付いたします。\n　※現在、健康保険の加入手続き中の方でも申請はできます。\n\n3.助成の開始は…\n　医療費の助成は、出生日または転入日から開始します。\n　ただし、 申請日が出生日または転入日から 3ヶ月以上経過している場合は、申請月の1日から開始します。\n　高校生等相当年齢の方の助成開始は、令和5年4月1日または令和5年4月1日以降の転入日からとなります。\n\n4.医療証の有効期限は…\n　毎年「9月30日」です。\n10月1日からは、医療証が切り替わります（色が変わります）。\n　※小学校に入学する子どもは、4月に「（乳）医療証」から「（子）医療証」に切り替わります。\n　※15歳到達後最初の4月に、「（子）医療証」から「（青）医療証」に切り替わります。　\n　※高校3年生相当年齢の方は、10月の医療証切り替え後、18歳到達後最初の3月31日までが有効期間となります。\n\n　切替対象の方には、前月末までに新しい医療証を送付いたします。\n\n5.その他の医療費助成は…\n　大気汚染による健康障害、長期にわたる療養、原因不明の病気などで経済的負担の大きい場合、\n（1）大気汚染医療費助成制度;https://www.city.taito.lg.jp/kenkohukusi/iryo/sodaniryojosei/kenkohigai/taikiosenkaisei.html\n（2）育成医療;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/iryohijosei/ikuseiiryo.html\n（3）小児慢性疾患;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/iryohijosei/shonimanseisikkan.html\n　などの医療費助成を実施しています。\n　該当している方は、これらの医療費助成制度をご利用ください。\n　\n\n6.医療機関にかかる場合は…\n都内の医療機関の場合\n　医療機関の窓口に「 健康保険証 」と一緒に「 医療証 」を提示してください。\n（高額療養費が支給される場合は「限度額適用認定証」を提示してください。） 保険適用の自己負担分が助成されます。\n\n都外や、都内でも医療証を取り扱っていない医療機関の場合\n　医療機関の窓口で、いったん自己負担分をお支払いください。 その後、7の方法で助成します。\n\n7.自己負担金（保険適用分）を支払った場合は…\n　後日、子育て・若者支援課に申請することにより、自己負担分を銀行口座に振り込む方法で助成します。\n\n申請に必要なもの\n（1） 領収書の原本\n　（必ず「対象の子どもの名前」「保険点数」「保険分の金額」が明記されたもの）\n　（※レシートの場合も医療機関で「対象の子どもの名前」「保険点数」「保険分の金額」が明記されたものに限ります。）\n　（領収書の控えが必要な方は、コピーしてから原本を提出してください。）\n（2）医療証に記載されている保護者名義の預金通帳\n（3）印鑑 （朱肉で押せるもの）\n（4）子ども医療費助成の医療証\n（5）対象の子どもの健康保険証\n（6）（治療用装具購入の場合）健康保険組合の発行する支給額決定通知書（原本）および医師の診断書、意見書または作成指示書のいずれか（コピー可）\n\n※医療費を10割支払った場合の手続きについてはこちら(PDF:302KB);https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/iryohijosei/annai.files/ryouyouhi2.pdfをご確認下さい。\n※自己負担した分の金額が、20,000円を超える場合は、加入されている健康保険からの高額療養費・付加給付金などの給付金が支給される可能性があります。支給がある場合は、支給決定があった後の申請になります。詳しくは加入保険にお問い合わせください。\n※申請から振込まで 2ヶ月程度 かかります。 ご了承ください。\n※郵送による申請もできます。\n　申請書はこちら：　医療費助成申請書(エクセル:53KB);https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/iryohijosei/annai.files/joseihisikyu.xls　医療費助成申請書(PDF:153KB);https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/iryohijosei/annai.files/joseihisikyu.pdf\n\n8.入院時の食事代は…\n　医療機関に、いったんお支払いください。\n　後日、子育て・若者支援課に申請することにより、銀行口座に振り込む方法で助成します。　\n　申請に必要なものは、7と同じです。\n\n9.次の場合は、必ず届出をしてください。\n（1）住所や氏名が変わった場合\n（2）対象の子どもを養育している方（保護者等）が変わった場合\n（3）加入している健康保険が変わった場合\n（4）医療証を紛失したり、汚したりした場合\n\n※（1）、（2）については窓口にお越しください。\n　次の3点をお持ちください。\n　・医療証　・健康保険証　・印鑑\n　・その他、必要なものを追加でご提出いただく場合があります。\n\n※（3）、（4）については郵送による届出もできます。（対象の子どもの健康保険証のコピーを必ず添付してください）\n（3）の申請書はこちら：変更・消滅届(PDF:119KB) ;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/iryohijosei/annai.files/hokenhenkou.pdfもしくは変更・消滅届(エクセル:36KB);https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/iryohijosei/annai.files/hokenhenkou.xls　\n（4）の申請書はこちら：再交付申請書(PDF:121KB);https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/iryohijosei/annai.files/saikouhu.pdfもしくは再交付申請書(ワード:34KB);https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/iryohijosei/annai.files/saikouhu.doc\n\n10.電子申請について\n　マイナンバーカードを利用したマイナポータルを使って、各届出の電子申請の受付をしております。\n\n電子申請可能な手続き\n・交付申請（出生や転入で、新たに医療証を申請する場合）\n・再交付申請（医療証を紛失したり、汚したりした場合）\n・変更届（住所、氏名、および加入している健康保険が変わった場合）\n\n電子申請に必要なもの\n・マイナンバーカード（通知カードは不可）\n・パソコン端末と専用のリーダライタ　もしくは　マイナポータル対応のスマートフォン\n※各届出に必要な書類等は別途ご用意ください。\n\n新規ウィンドウで開きます。\nマイナポータルはこちら（外部サイト）;https://app.oss.myna.go.jp/Application/search?orgCode=13106\n\n11.医療証の返還は…\n　台東区外に転出するなどで資格がなくなった場合は、子育て・若者支援課に医療証をお返しください。（郵送可）\n\n詳しくは\n　医療証とともにお送りしてる小冊子をご覧下さい。\n\n申請・問合せ先\n〒110-8615\n台東区東上野4丁目5番6号\n台東区役所　子育て・若者支援課　給付担当\n電話：03-5246-1232（直通）　ファクス：03-5246-1289",
+      "target": {
+        "targetPersons": "1.医療費の助成を受けられる方は…　次のすべての要件を満たしていることが必要です。（1）対象の子どもが台東区内に住んでいること（2）対象の子どもが国民健康保険または各種社会保険に加入していること　※対象の子どもの年齢は、 出生から18歳到達後の最初の3月31日まで　高校生等相当年齢の方（15歳到達後の最初の4月1日から18歳到達後の最初の3月31日まで）は、令和5年4月より対象となります。　※健康保険未加入、生活保護受給中、児童福祉施設等に入所の子どもは対象となりません。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "出生から18歳到達後の最初の3月31日まで"
+      },
+      "support": {
+        "description": "台東区では、子ども（0歳から高校生等相当年齢）が健康保険証を使って医療機関にかかった場合、医療機関に支払う医療費の自己負担金を助成します。　ただし、 健康保険の取り扱いができないもの（健康診断・予防接種・差額ベッド代・薬の容器代、特定医療機関でかかった初診時の特定療養費など）は、助成されません。　また、 他の医療費助成が受けられる場合も、その給付分については助成されません。",
+        "monetarySupport": "子ども（0歳から高校生等相当年齢）が健康保険証を使って医療機関にかかった場合、医療機関に支払う医療費の自己負担金を助成",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": "※対象の子どもの年齢は、 出生から18歳到達後の最初の3月31日まで",
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "郵送や電子申請を受付しております\n子ども医療費助成の各届出について、郵送や電子申請を受付しております。郵送の場合、必要な書類等を郵送いたしますので、下記のお問い合わせ先までお電話ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "医療費の助成は、出生日または転入日から開始します。　ただし、 申請日が出生日または転入日から 3ヶ月以上経過している場合は、申請月の1日から開始します。　高校生等相当年齢の方の助成開始は、令和5年4月1日または令和5年4月1日以降の転入日からとなります。"
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "台東区役所　子育て・若者支援課　給付担当",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/iryohijosei/annai.files/saikouhu.pdf",
+          "title": "再交付申請書(PDF:121KB)"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/iryohijosei/annai.files/ryouyouhi2.pdf",
+          "title": "医療費を全額支払った方へ"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/iryohijosei/annai.files/saikouhu.doc",
+          "title": "再交付申請書(ワード:34KB)"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/iryohijosei/annai.files/hokenhenkou.xls",
+          "title": "変更・消滅届(エクセル:36KB)"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kenkohukusi/iryo/sodaniryojosei/kenkohigai/taikiosenkaisei.html",
+          "title": "大気汚染医療費助成制度"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/iryohijosei/annai.files/hokenhenkou.pdf",
+          "title": "変更・消滅届(PDF:119KB)"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/iryohijosei/shonimanseisikkan.html",
+          "title": "小児慢性疾患"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/iryohijosei/ikuseiiryo.html",
+          "title": "育成医療"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/iryohijosei/annai.html",
+        "title": "台東区子ども医療費助成"
+      },
+      "formLink": [
+        {
+          "uri": "https://app.oss.myna.go.jp/Application/search?orgCode=13106",
+          "title": "マイナポータルはこちら（外部サイト）"
+        }
+      ],
+      "contact": {
+        "contactName": "台東区役所　子育て・若者支援課　給付担当",
+        "contactPhone": "03-5246-1232",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1108615",
+        "contactAddress": "台東区東上野4丁目5番6号"
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+1+UM23",
+        "organization": "6000020131067",
+        "compartment": "子育て・若者支援課　給付担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "東京都台東区子どもの医療費の助成に関する条例",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "ひとり親家庭医療費助成",
+        "shortName": "ひとり親家庭等医療費助成"
+      },
+      "summary": "ひとり親家庭の親又は児童が健康保険を使って医療機関で受診した場合、保険診療の自己負担分の全部又は一部を助成します。",
+      "description": "郵送での申請を受付しております\n【お知らせ】 ひとり親家庭等医療費助成の各届出について、郵送でも申請を受付しております。必要な書類等を郵送いたしますので、下記のお問い合わせ先までお電話ください。\n\n『ひとり親家庭等医療費助成』のご案内\n　ひとり親家庭等医療費助成は、下記の状態にある18歳になった最初の3月31日まで（身体に中度以上の障害がある場合は20歳未満）の児童を養育している父、母、または養育者とその児童が健康保険証を使って医療機関にかかった場合、保険診療に係る自己負担分の全部または一部を助成するものです。\n　該当の方には、申請により 「（親）医療証」 が交付されます。 ただし、高校生等までの児童は、子ども医療費助成の（乳）医療証または（子）医療証もしくは（青）医療証が優先されます。\n　なお、 健康保険の取り扱いができないもの（健康診断、予防接種、差額ベッド代、薬の容器代、特定医療機関でかかった初診時の特定療養費、入院時の食事療養費及び生活療養費など）は、助成されません。\n\n該当される方\n父母が離婚した\n父または母が死亡した\n父または母に重度の障害がある\n父または母の生死が明らかでない\n父または母に1年以上遺棄されている\n父または母が裁判所からDV保護命令を受けた\n父または母が1年以上拘禁されている\n婚姻によらないで生まれた子\n※ただし、次のいずれかに該当する場合は、申請できません。\n\n健康保険に加入していない場合\n生活保護を受けている場合\n児童が児童福祉施設等に措置入所している場合\n1.申請に必要なもの\n申請者（保護者）および児童の健康保険の加入状況がわかるもの\n申請者（保護者）および児童の戸籍謄本（申請事由の記載のあるもの及び現在のもの）※1ヶ月以内発行のもの\n下記のうち、いずれかの書類\n　A：個人番号カード（写真のあるマイナンバーカード）\n　B：通知カード（写真のない番号のみが記載されたカード）及び本人確認ができるもの\n※本人確認書類の詳細についてはお問い合わせください。\n\n上記のほか、住民票、民生委員の調査書等が必要になる場合があります。\n2.所得制限\n　この医療費助成には、下表の所得制限があります。\n\n令和6年度（令和5年分）所得額\n|扶養人数|父母または養育者|配偶者・扶養義務者|\n|:----|:----|:----|\n|0人|2,160,000円未満|2,440,000円未満|\n|1人|2,540,000円未満|2,820,000円未満|\n|2人|2,920,000円未満|3,200,000円未満|\n|3人|3,330,000円未満|3,580,000円未満|\n\n※4人目以降1人につき38万円加算\n\n※社会保険料控除相当額（8万円）は、制限額に加算済です。\n※申請者が父または母の場合には、税法上の所得額に養育費の8割を加算して計算します。\n※扶養義務者とは、民法第877条第1項に定める扶養義務者です。\n\n3.助成の範囲\n　医療費の助成は、原則として 「申請を受付した日から」 となります。\n　また、助成される医療費の範囲は、受給世帯及び扶養義務者世帯の住民税課税状況により、次のように異なります。\n\n住民税課税世帯の方\n　保険診療の1割分を自己負担金として医療機関窓口で支払ってください。\n　1ヶ月の自己負担金の合計額が下記限度額を超えた場合は、超えた金額が助成対象になり、申請により払い戻しします。\n\n|:----|:----|:----|:----|\n|自己負担限度額（1ヶ月単位）|個人|外来|18,000円(年間上限144,000円)|\n|自己負担限度額（1ヶ月単位）|個人|入院|57,600円(多数回該当44,400円)|\n|自己負担限度額（1ヶ月単位）|世帯|外来、入院すべてを足した世帯全員の上限額|57,600円(多数回該当44,400円)|\n\n※年間上限と多数回該当につきましては担当までお問い合わせください。\n※入院時の食事療養費および生活療養費は、対象になりません。\n※払い戻しを受けるには、申請が必要になります。領収書は大切に保管してください。\n\n住民税非課税世帯の方\n　保険診療の自己負担金が全額助成されます。\n　ただし、入院時の食事療養費及び生活療養費は、助成の対象になりません。\n\n4.医療機関にかかる場合\n東京都内の医療機関で受診\n「健康保険の加入状況がわかるもの」 と 「（親）医療証」 を医療機関の窓口に提出してください。（高額療養費が支給される場合は「限度額適用認定証」を提出してください。）\n保険診療の自己負担金の全部または一部が助成されます。\n\n東京都外や都内でも医療証を取り扱っていない医療機関で受診\n「（親）医療証」は使えませんので、いったん医療機関に保険診療の自己負担金をお支払いください。\n\n5.医療費の自己負担金（保険適用分）を支払った場合\n　窓口でいったん立て替えた場合は後日、子育て・若者支援課に申請することにより、自己負担金（住民税課税世帯については、一部負担金を除いた額）を銀行口座振込みにより助成します。\n　領収書を1ヶ月単位でまとめて申請してください。\n\n申請に必要なもの\n・領収書 （受診者の氏名、保険点数又は保険分の金額が明記されたもの）\n・（親）医療証\n・健康保険の加入状況がわかるもの￥n・印鑑（スタンプ印を除く）\n・保護者名義の銀行等口座番号のわかるもの\n※申請からお振込みまで、おおよそ2～3ヶ月ほどかかります。\n※申請書は台東区ホームページから ダウンロード;https://www.city.taito.lg.jp/benri/download/kosodateshien/hitorioya.html （←ここをクリック）できます。\n\n医療費助成を受けるようになったら\n現況届\n　毎年11月 に受給資格確認のため現況届を提出していただきます。\n　現況届用紙等を郵送いたしますので、健康保険の加入状況がわかるものの写し等を添えて提出してください。\n　なお、児童扶養手当併給者は、8月の児童扶養手当現況届時に同時に提出となります。\n\n次の場合には、必ず届け出てください！\n・受給資格に該当しなくなった場合（婚姻など）\n・住所（転居・転出）及び氏名を変更した場合\n・加入している健康保険が変わった場合\n・その他、変更があった場合\n・紛失・汚破損により、医療証の再交付を必要とする場合\n※再交付については、郵送による申請もできます。申請書のダウンロードは、こちら(PDF:60KB);https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/iryohijosei/hitorioya.files/maruoya.pdf\n（保護者と対象児童の健康保険の加入状況がわかるもののコピーを必ず添付してください）\n\n医療証の返還\n　台東区外に転出したり、ひとり親家庭等ではなくなった等の理由で資格がなくなった時は、医療証を子育て・若者支援課にお返しください。（郵送可）\n\n申請・問合せ先\n〒110-8615　台東区東上野4丁目5番6号\n台東区役所　子育て・若者支援課　給付担当\n電話：03-5246-1232（直通）",
+      "target": {
+        "targetPersons": "ひとり親家庭等医療費助成は、下記の状態にある18歳になった最初の3月31日まで（身体に中度以上の障害がある場合は20歳未満）の児童を養育している父、母、または養育者とその児童が健康保険証を使って医療機関にかかった場合、保診療に係る自己負担分の全部または一部を助成するものです。　該当の方には、申請により 「（親）医療証」 が交付されます。 ただし、高校生等までの児童は、子ども医療費助成の（乳）医療証または（子）医療証もしくは（青）医療証が優先されます。　なお、 健康保険の取り扱いができないもの（健康診断、予防接種、差額ベッド代、薬の容器代、特定医療機関でかかった初診時の特定療養費、入院時の食事療養費及び生活療養費など）は、助成されません。該当される方父母が離婚した父または母が死亡した父または母に重度の障害がある父または母の生死が明らかでない父または母に1年以上遺棄されている父または母が裁判所からDV保護命令を受けた父または母が1年以上拘禁されている婚姻によらないで生まれた子※ただし、次のいずれかに該当する場合は、申請できません。健康保険に加入していない場合生活保護を受けている場合児童が児童福祉施設等に措置入所している場合",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "18歳になった最初の3月31日まで（身体に中度以上の障害がある児童の場合は20歳未満）"
+      },
+      "support": {
+        "description": "医療費の助成は、原則として 「申請を受付した日から」 となります。\n　また、助成される医療費の範囲は、受給世帯及び扶養義務者世帯の住民税課税状況により、次のように異なります。\n住民税課税世帯の方\n　保険診療の1割分を自己負担金として医療機関窓口で支払ってください。\n　1ヶ月の自己負担金の合計額が下記限度額を超えた場合は、超えた金額が助成対象になり、申請により払い戻しします。\n\n|:----|:----|:----|:----|\n|自己負担限度額（1ヶ月単位）|個人|外来|18,000円(年間上限144,000円)|\n|自己負担限度額（1ヶ月単位）|個人|入院|57,600円(多数回該当44,400円)|\n|自己負担限度額（1ヶ月単位）|世帯|外来、入院すべてを足した世帯全員の上限額|57,600円(多数回該当44,400円)|\n\n※年間上限と多数回該当につきましては担当までお問い合わせください。\n※入院時の食事療養費および生活療養費は、対象になりません。\n※払い戻しを受けるには、申請が必要になります。領収書は大切に保管してください。\n\n住民税非課税世帯の方\n　保険診療の自己負担金が全額助成されます。\n　ただし、入院時の食事療養費及び生活療養費は、助成の対象になりません。",
+        "monetarySupport": "医療費の助成",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": "18歳になった最初の3月31日まで（児童に中度以上の障害がある場合は20歳\n未満まで）",
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申請に必要なもの\n申請者（保護者）および児童の健康保険の加入状況がわかるもの\n申請者（保護者）および児童の戸籍謄本（申請事由の記載のあるもの及び現在のもの）※1ヶ月以内発行のもの\n下記のうち、いずれかの書類\n　A：個人番号カード（写真のあるマイナンバーカード）\n　B：通知カード（写真のない番号のみが記載されたカード）及び本人確認ができるもの\n※本人確認書類の詳細についてはお問い合わせください。\n\n上記のほか、住民票、民生委員の調査書等が必要になる場合があります。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "null\n",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "台東区役所　子育て・若者支援課　給付担当",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.taito.lg.jp/benri/download/kosodateshien/hitorioya.html",
+          "title": "ひとり親家庭等医療費助成制度"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/iryohijosei/hitorioya.files/maruoya.pdf",
+          "title": " ひとり親家庭等医療費助成制度医 療 証 再 交 付 申 請 書"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/iryohijosei/hitorioya.html",
+        "title": "ひとり親家庭等医療費助成"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "台東区役所　子育て・若者支援課　給付担当",
+        "contactPhone": "03-5246-1232",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1108615",
+        "contactAddress": "台東区東上野4丁目5番6号"
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+1+UM27",
+        "organization": "6000020131067",
+        "compartment": "子育て・若者支援課　給付担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2025-01-28",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "東京都台東区ひとり親家庭等の医療費助成に関する条例",
+        "regulationArticle": "第２条～第５条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "B型肝炎"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "平成28年10月1日から定期予防接種になりました。\n\n対象者\n平成28年4月1日以降に出生し、生後1歳に至るまでの間にある者\n\n接種方法\n3回接種（1歳になる前に3回の接種を終える必要があります。）\n\n標準的な接種期間\n1回目：生後2か月以降\n2回目：1回目の接種から27日以上の間隔をあける（生後3か月）\n3回目：1回目の接種から139日以上の間隔をあける（生後7～8か月）\n\n1回目の接種から3回目の接種を終えるまでには、おおよそ半年間かかります。\n1歳になってしまうと、定期接種の対象外となります。スケジュールをよくご確認いただき、予防接種を受けるようにしてください。\n\n通知時期\n生後1か月頃\n\n注意\n・任意接種としてすでに接種を受けた回数分は定期接種を受けたものとみなし、残りの回数分が対象となります。\n・母子感染予防のために抗HBs人免疫グロブリンと併用してB型肝炎ワクチンの接種を受ける場合は健康保険が適用されるため、定期接種の対象外となります。\n\nB型肝炎とは？B型肝炎ワクチンとは？\n・B型肝炎は、B型肝炎ウイルスの感染により起こる肝臓の病気です。\n・B型肝炎ウイルスへの感染は、一過性の感染で終わる場合と、そのまま感染している状態が続いていまう場合（この状態をキャリアといいます）があります。キャリアになると慢性肝炎になることがあり、そのうち一部の人では肝硬変や肝がんなどの命に関わる病気を引き起こすこともあります。\n・ワクチンを接種することで、体の中にB型肝炎ウイルスへの抵抗力（免疫）ができます。\n・免疫ができることで、一過性の肝炎を予防できるだけでなく、キャリアになることを予防でき、まわりの人への感染も防ぐことができます。\n（予防接種を受けてもお子さんの体質や体調によって免疫ができないことがあります。）\n\n予防接種のスケジュール管理は「ワクチン・ナビ」をご利用ください。\n予防接種情報サービス　「おまかせ予防接種！ワクチン・ナビ」（通称「ワク・ナビ」）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/wakunabi.html",
+      "target": {
+        "targetPersons": "平成28年4月1日以降に出生し、生後1歳に至るまでの間にある者",
+        "lessThan": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後1歳に至るまで"
+      },
+      "support": {
+        "description": "3回接種（1歳になる前に3回の接種を終える必要があります。）",
+        "monetarySupport": null,
+        "materiallySupport": "3回接種（1歳になる前に3回の接種を終える必要があります。）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "接種方法\n予防接種予診票と母子健康手帳をご持参の上、23区内協力医療機関で接種を受けてください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/bgatakanen/teikiyobousessyubgat.html",
+        "title": "B型肝炎"
+      },
+      "formLink": [
+        {
+          "uri": "http://taito.city-hc.jp/",
+          "title": "「おまかせ予防接種！ワクチン・ナビ」（外部サイト）"
+        }
+      ],
+      "contact": {
+        "contactName": "台東保健所　保健予防課予防担当",
+        "contactPhone": "03-3847-9471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+1+UM54",
+        "organization": "6000020131067",
+        "compartment": "台東保健所　保健予防課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2016-10-01",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "任意予防接種",
+        "shortName": "骨髄移植手術等により再接種した予防接種費用の助成"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。\nこのうち台東区では、次の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+      "description": "対象者\n20歳未満の区民で、骨髄移植手術等により既に接種済みの定期予防接種の予防効果が期待できないと医師に判断された方\n\n助成内容\n平成31年1月1日以降に接種した予防接種費用（上限あり）\n\n申請期限\n接種日より3年\n\n申請に必要なもの\n台東区予防接種再接種費用助成金交付申請書兼請求書\n定期予防接種の再接種に関する対象者該当理由書\n医療機関の領収書（原本・ワクチンごとの金額がわかるもの）\n予防接種済予診票又は予防接種の記録のある母子健康手帳\n印鑑（認印）※インキ浸透式スタンプは不可\n振込希望先を確認できるもの\n定期予防接種の再接種に関する対象者該当理由書（PDF：104KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/ninni/kotsuzui.files/riyuusyo.pdf\n予防接種再接種費用助成金交付申請書兼請求書（PDF：214KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/ninni/kotsuzui.files/sinnseisyo.pdf",
+      "target": {
+        "targetPersons": "20歳未満の区民で、骨髄移植手術等により既に接種済みの定期予防接種の予防効果が期待できないと医師に判断された方\n",
+        "lessThan": {
+          "targetAge": 20,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "20歳未満"
+      },
+      "support": {
+        "description": "助成内容 平成31年1月1日以降に接種した予防接種費用（上限あり）",
+        "monetarySupport": "予防接種費用の助成",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申請に必要なもの\n台東区予防接種再接種費用助成金交付申請書兼請求書\n定期予防接種の再接種に関する対象者該当理由書\n医療機関の領収書（原本・ワクチンごとの金額がわかるもの）\n予防接種済予診票又は予防接種の記録のある母子健康手帳\n印鑑（認印）※インキ浸透式スタンプは不可\n振込希望先を確認できるもの\n定期予防接種の再接種に関する対象者該当理由書（PDF：104KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/ninni/kotsuzui.files/riyuusyo.pdf\n予防接種再接種費用助成金交付申請書兼請求書（PDF：214KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/ninni/kotsuzui.files/sinnseisyo.pdf",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "申請期限\n接種日より3年"
+      },
+      "electronicSubmission": false,
+      "belongings": "1.台東区予防接種再接種費用助成金交付申請書兼請求書\n2.定期予防接種の再接種に関する対象者該当理由書\n3.医療機関の領収書（原本・ワクチンごとの金額がわかるもの）\n4.予防接種済予診票又は予防接種の記録のある母子健康手帳\n5.印鑑（認印）※インキ浸透式スタンプは不可\n6.振込希望先を確認できるもの",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/ninni/kotsuzui.html",
+        "title": "骨髄移植手術等により再接種した予防接種費用の助成を実施しています"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "台東保健所　保健予防課予防担当",
+        "contactPhone": "03-3847-9471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+1+UM55",
+        "organization": "6000020131067",
+        "compartment": "台東保健所　保健予防課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-12-28",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "小児任意予防接種費助成要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の育児に関する金銭的支援",
+        "shortName": "多胎児家庭向けタクシー利用料支給"
+      },
+      "summary": "３歳未満の多胎児（双子や三つ子など）を養育している家庭を支援するため、乳幼児健診等の母子保健事業を利用する際の、タクシー利用料金の一部を支給します。",
+      "description": "台東区では、多胎児（双子や三つ子など）を養育している家庭を支援するため、乳幼児健診等の母子保健事業を利用する際の、タクシー利用料金の一部を支給します。\n\n対象\n台東区民で3歳未満の多胎児を同一世帯で養育する保護者\n\n限度額\n1世帯あたり　年間最大24,000円（こども商品券にて支給）\n※年度途中での出生、転入や年度途中で3歳になる場合には、月額2,000円を差し引きした金額分のこども商品券を支給します。\n\n対象となる事業・費用\n多胎児の乳幼児健診・予防接種・産後ケア事業、多胎児家庭の交流会、相談事業等の母子保健事業を利用する場合や、保健所の保健師、子ども家庭支援センターの相談員等へ相談する場合の外出した際にかかる移動のためのタクシー利用料\n\n1　その他の対象となる事業\n　保健所で実施する「離乳食講習会」、「幼児食へのステップアップ教室」、「赤ちゃんのお口ふれあい教室」、「親子の歯ッピー教室」など\n\n2 対象外となる事業\n　電車やバス、自家用車等\n　子ども家庭支援センターのひろばの利用、図書館等の利用\n\n支給申請\n下記2点の申請方法があります。\n（1）下記リンク先または二次元コードからの電子申請\n（2）支給申請書を記入し、下記担当窓口へ持参または郵送\n\n新規ウィンドウで開きます。\n台東区多胎児家庭タクシー利用料支給申請（Logoフォーム）（外部サイト）;https://logoform.jp/form/sQhE/362569\n\n台東区多胎児家庭タクシー利用料支給申請（Logoフォーム）\nファイルダウンロード　新規ウインドウで開きます。多胎児家庭向けタクシー利用料支給申請書（PDF：109KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/takusi-riyoumuke.files/4tataizisinnseisyo.pdf\n\n利用状況報告\n申請年度末までに以下のどちらかの方法で利用状況報告書の提出が必要です。\n（1）下記リンク先または二次元コードからの電子提出\n（2）利用状況報告書を記入し、下記担当窓口へ持参または郵送\n\n新規ウィンドウで開きます。\n台東区多胎児家庭タクシー利用状況報告（Logoフォーム）（外部サイト）;https://logoform.jp/form/sQhE/412189\n\n台東区多胎児家庭タクシー利用状況報告（Logoフォーム）\nファイルダウンロード　新規ウインドウで開きます。多胎児家庭向けタクシー利用状況報告書（ワード：22KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/teate_josei/takusi-riyoumuke.files/tataizitaxi.docx",
+      "target": {
+        "targetPersons": "台東区民で３歳未満の多胎児を同一世帯で養育する保護者",
+        "lessThan": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "3歳未満"
+      },
+      "support": {
+        "description": "台東区民で３歳未満の多胎児を同一世帯で養育する保護者",
+        "monetarySupport": "１世帯あたり年間最大24,000円（こども商品券にて支給）",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "電子申請または子育て・若者支援課窓口へ申請書の持参、郵送",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "子育て・若者支援課　庶務担当",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodateky\nouiku/kosodate/mokutei/teate_josei/takusi-riyoumuke.html",
+        "title": "多胎児家庭向けタクシー利用料支給"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て・若者支援課庶務担当",
+        "contactPhone": "03-5246-1237",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1108615",
+        "contactAddress": "台東区東上野4丁目5番6号"
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+1+UM58",
+        "organization": "6000020131067",
+        "compartment": "子育て・若者支援課庶務担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "台東区多胎児家庭タクシー利用料支給要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "予防接種予診票がお手元にない方へ"
+      },
+      "summary": "台東区に転入された方や紛失、積極的勧奨の差し控え等により予防接種予診票がお手元にない方は、窓口または郵便で予診票を発行します。",
+      "description": "台東区に転入された方や紛失、積極的勧奨の差し控え等により予防接種予診票がお手元にない方は、窓口または郵便で予診票を発行します。\n※接種時期に合わせて保健予防課から郵送で個別通知しておりますので、通常はお申し出いただく必要はありません。\n　通知時期については、各ワクチンのページをご確認ください。\n\n窓口での発行をご希望の場合\n台東保健所5階の保健予防課または浅草保健相談センター窓口で発行します。\n母子健康手帳をご持参ください。\n\n郵便での発行をご希望の方\n電子申請\n新規ウィンドウで開きます。\n予防接種予診票の交付受付（外部サイト）;https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13106&procCode=11002598\n\n郵送またはFAX\n次の事項を記載し、母子健康手帳の予防接種の記録欄を添付の上、下記問い合わせ先まで送付ください。\n(1)お子さまのお名前\n(2)ご住所\n(3)電話番号\n(4)生年月日\n(5)発行を希望する予防接種の種類・回数\n(6)発行理由（例：紛失した）",
+      "target": {
+        "targetPersons": "予防接種予診票がお手元にない方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "予防接種予診票の交付",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "窓口での交付をご希望の場合　台東保健所5階の保健予防課または浅草保健相談センター窓口で発行します。\n母子健康手帳をご持参ください。郵送での交付をご希望の方　電子申請をご利用ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13106&procCode=11002598",
+          "title": "予防接種予診票の交付受付（外部サイト）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/info/vsq_reissue.html",
+        "title": "予防接種予診票がお手元にない方へ"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13106&procCode=11002598",
+          "title": "予防接種予診票の交付受付"
+        }
+      ],
+      "contact": {
+        "contactName": "台東保健所　保健予防課予防担当",
+        "contactPhone": "03-3847-9471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+20+UM54",
+        "organization": "6000020131067",
+        "compartment": "台東保健所　保健予防課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-02-25",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法、小児任意予防接種費助成要綱",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "台東区外の区市町村で定期予防接種を受けるには（予防接種依頼書の発行手続き）"
+      },
+      "summary": "事情により23区以外の市町村で接種を希望する場合、滞在先の市区町村長あてに台東区長が発行した「予防接種依頼書」が必要となります。予防接種依頼書を希望する場合は、まず滞在先の市区町村の予防接種担当部署へ下記の内容を確認してから、依頼書の発行申請を行ってください。",
+      "description": "23区内で定期予防接種を受ける場合\n　定期予防接種は、各区の協力医療機関であれば台東区の予防接種予診票を使って接種することができます。\n　接種する医療機関が、各区の協力医療機関かどうかわからない場合は、医療機関にお問い合わせください。\n\n23区外で定期予防接種を受ける場合\n\n事情により23区以外の市町村で接種を希望する場合、滞在先の市区町村長あてに台東区長が発行した「予防接種依頼書」が必要となります。\n　\n※予防接種依頼書とは・・・\n台東区長が予防接種の実施を他自治体に依頼するためのものです。\nこれにより、法定予防接種として接種を受けることができ、万が一重大な健康被害が発生した場合、予防接種法に基づく救済を受けることができます。\n\n予防接種依頼書を希望する場合は、まず滞在先の市区町村の予防接種担当部署へ下記の内容を確認してから、依頼書の発行申請を行ってください。\n\n手続きの流れ\n（1）滞在先自治体に以下のことを確認\n1.予防接種依頼書を自治体長宛に発行してよいか\n2.予防接種依頼書の送付先、接種方法、手続き等\n3.接種費用の有無\n\n※滞在先自治体が依頼書を受け付けない場合は、医療機関宛に発行します。\n　接種予定の医療機関に依頼書による接種ができるかお問い合わせください。\n\n（2）台東区に予防接種依頼書の発行を申請\n保健予防課窓口、電子申請または郵送で承ります。\n\n郵送の場合、母子健康手帳のお子さんの名前及び生年月日がわかるページ（出生届出済証のページ等）並びに予防接種の記録のページのコピーを申請書に添付してください。\n※予防接種依頼申請書は台東区ホームページよりダウンロードできます。\n※依頼書は申請書受付から発行するまでに1週間程度かかります。申請者が指定した送付先に郵送します。\n\n（3）滞在先にて接種実施\n予防接種の実施方法は市区町村（医療機関）によって異なります。確認をしてから予防接種を受けてください。\n※依頼書を医療機関宛に発行した場合、医療機関に予防接種費用をお支払いください。\n\n（4）予防接種助成金を申請（自費で接種した場合）\n予防接種にかかった費用の全部または一部を助成します。\n※予防接種助成金申請書は依頼書に同封します。\n\n手続きにあたっての注意点\n定期予防接種は住民登録地で接種することとなっています。依頼書による接種は、里帰り等の特別な事情がある場合に限ります。\n接種スケジュール等で、ご心配な方はお問い合わせください。\n\n申請先・お問い合わせ\n電子申請\n新規ウィンドウで開きます。\n予防接種依頼申請（外部サイト）;https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13106&procCode=11002586\n\n郵送または窓口\n〒110-0015\n台東区東上野4丁目22番8号\n台東保健所5階 保健予防課予防担当\n電話番号：03-3847-9471\n\nファイルダウンロード　新規ウインドウで開きます。予防接種依頼申請書（PDF：235KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/info/20131213115834532.files/iraisyo_20240701.pdf\n\nファイルダウンロード　新規ウインドウで開きます。【記入例】予防接種依頼申請書（PDF：696KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/info/20131213115834532.files/kinyurei_iraishinseisyo.pdf",
+      "target": {
+        "targetPersons": "事情により23区以外の市町村で定期接種を希望する場合",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "予防接種依頼書の交付",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "保健予防課窓口、電子申請または郵送で承ります。\n\n郵送の場合、母子健康手帳のお子さんの名前及び生年月日がわかるページ（出生届出済証のページ等）並びに予防接種の記録のページのコピーを申請書に添付してください。\n\n※予防接種依頼申請書は台東区ホームページよりダウンロードできます。\n\n※依頼書は申請書受付から発行するまでに1週間程度かかります。申請者が指定した送付先に郵送します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "台東保健所5階1番窓口\n　保健予防課予防担当",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/info/20131213115834532.html",
+        "title": "台東区外の区市町村で定期予防接種を受けるには（予防接種依頼書の発行手続き）"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13106&procCode=11002586",
+          "title": "予防接種依頼申請"
+        }
+      ],
+      "contact": {
+        "contactName": "台東保健所　保健予防課予防担当",
+        "contactPhone": "03-3847-9471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+21+UM54",
+        "organization": "6000020131067",
+        "compartment": "台東保健所　保健予防課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-07-10",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "長期にわたる療養等により定期の予防接種の機会を逃した方へ"
+      },
+      "summary": "長期にわたる療養等により定期の予防接種の機会を逃した方へ",
+      "description": "長期にわたる療養等により定期の予防接種の機会を逃した方へ\n定期の予防接種の対象者であった期間に、長期療養を必要とする疾病にかかる等の理由により、やむを得ず定期の予防接種を受けることができなかった方で、一定の要件を満たす場合、定期の予防接種対象期間を過ぎていても、定期の予防接種として受けることができます。\n\n接種対象者\n定期の予防接種の対象者であった期間に、長期にわたり療養を必要とする疾病にかかるなど特別な事情があり、やむを得ず定期の予防接種が受けられなかった区民\n\n「特別な事情」とは\n\n下記の「特別の事情に該当する疾病の例」にある疾病にかかった場合\n臓器移植手術を受けた後、免疫の機能を抑制する治療を受けた場合\n医学的知見に基づき、1または2に準ずると認められる場合\n災害、ワクチンの大幅な供給不足その他これに類する事由が発生した場合\n※4につきまして、該当する事由が現在ありません。\n\n接種期間\n定期の予防接種を受けることができない特別な事情がなくなったと認められる日から起算して2年以内（高齢者肺炎球菌については、1年）\n※ただし、BCGは4歳、ヒブは10歳、小児用肺炎球菌は6歳、4種混合は15歳に達するまで\n※ロタウイルス及びインフルエンザは本制度の対象になりません\n\n注意事項\n予防接種は申請後、必要書類が発行されてから受けてください。予防接種を先に受けてしまった場合、定期の予防接種として取り扱うことができず、費用の還付もありません。\n\n申請手順\n台東保健所保健予防課の窓口または郵送で理由書をお渡しします。\n主治医に理由書の記入を依頼し、保護者の方は保護者自署欄を記入してください。\n接種歴がわかるもの（母子健康手帳等）の写しとともに、台東保健所に提出してください。（郵送可）\n予防接種を受けるのに必要な予防接種予診票を発行し、接種医療機関一覧等とともに郵送します。\nファイルダウンロード　新規ウインドウで開きます。長期療養を必要とする疾病にかかった者等の定期接種に関する特例措置対象者該当理由書（PDF：122KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/info/choukiryouyou.files/tyoukiryouyou2019.pdf\n\nファイルダウンロード　新規ウインドウで開きます。特別の事情に該当する疾病の例（PDF：138KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/info/choukiryouyou.files/beppyou.pdf",
+      "target": {
+        "targetPersons": "長期にわたる療養等により定期の予防接種の機会を逃した方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "長期にわたる療養等により定期の予防接種の機会を逃した方"
+      },
+      "support": {
+        "description": "予防接種予診票の交付",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "接種歴がわかるもの（母子健康手帳等）の写し及び長期療養を必要とする疾病にかかった者等の定期接種に関する特例措置対象者該当理由書を提出する。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "接種歴がわかるもの（母子健康手帳等）の写し、長期療養を必要とする疾病にかかった者等の定期接種に関する特例措置対象者該当理由書",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "台東保健所5階1番窓口\n　保健予防課予防担当",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/info/choukiryouyou.files/pdfbeppyou.pdf",
+          "title": "特別の事情に該当する疾病の例\n"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/info/choukiryouyou.html",
+        "title": "長期にわたる療養等により定期の予防接種の機会を逃した方へ"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "台東保健所　保健予防課予防担当",
+        "contactPhone": "03-3847-9471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+22+UM54",
+        "organization": "6000020131067",
+        "compartment": "台東保健所　保健予防課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "インフルエンザ菌b型（ヒブ）ワクチン"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "標準接種期間\n（1）初回\n生後2か月以上7か月未満の間に接種を開始し、1歳未満の間に3回\n\n（2）追加\n初回接種終了後､7か月以上13か月未満の間隔をおいて1回\n\n接種有効期限\n生後2か月以上5歳未満\n\n通知時期\n（1）は生後1か月頃　（2）は生後10か月頃",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": 5,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後2か月以上5歳未満"
+      },
+      "support": {
+        "description": "（1）初回\n生後2か月以上7か月未満の間に接種を開始し、1歳未満の間に3回\n\n（2）追加\n初回接種終了後､7か月以上13か月未満の間隔をおいて1回\n",
+        "monetarySupport": null,
+        "materiallySupport": "（1）初回\n生後2か月以上7か月未満の間に接種を開始し、1歳未満の間に3回\n\n（2）追加\n初回接種終了後､7か月以上13か月未満の間隔をおいて1回\n"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "接種方法\n予防接種予診票と母子健康手帳をご持参の上、23区内協力医療機関で接種を受けてください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/hib/hib.html",
+        "title": "インフルエンザ菌b型（ヒブ）ワクチン"
+      },
+      "formLink": [
+        {
+          "uri": "http://taito.city-hc.jp/",
+          "title": "「おまかせ予防接種！ワクチン・ナビ」（外部サイト）"
+        }
+      ],
+      "contact": {
+        "contactName": "台東保健所　保健予防課予防担当",
+        "contactPhone": "03-3847-9471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+2+UM54",
+        "organization": "6000020131067",
+        "compartment": "台東保健所　保健予防課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2015-11-17",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "任意予防接種",
+        "shortName": "おたふくかぜワクチンの接種に係る費用を一部助成"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。\nこのうち台東区では、次の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+      "description": "おたふくかぜ予防接種は、任意予防接種であり、義務付けはありません。\n接種を希望される方は、医師とよく相談のうえ、接種してください。\n\n助成の内容\nおたふくかぜワクチンの1回目及び2回目接種に係る費用を一部助成します。\n※区発行の予診票を使用せずに接種を受けた方に対する予防接種費用の償還払い制度はございません。\n\n対象者\n平成29年4月2日以降に出生した区内在住の満1歳以上就学前のお子さん\n\n助成期間\n1歳以上小学校就学前の3月末日まで\n\n助成回数\n2回\n※既に2回のおたふくかぜ予防接種を受けた方、おたふくかぜに罹患したことがある方は対象外です。\n\n助成費用\n3,500円\n※接種費用のうち、1回当たり3,500円を区が負担します。\n※任意接種のため、接種費用は医療機関により異なります。残額は自己負担になります。\n\n助成方法\n対象者の方へ予診票を一斉送付します。届いた予診票を区内協力医療機関に持参の上、接種を受けてください。\n\n予診票の発送\n予診票の送付時期は以下のとおりです。\nなお、令和5年度の2回目接種対象者(平成29年4月2日～平成30年4月1日生まれのお子さま)には、令和5年7月末に予診票を送付しました。\n(1)1回目接種\n1歳を迎える前月\n(2)2回目接種\n5歳を迎える年度の3月末\n※予診票送付時期よりも早期での2回目接種をご希望の方は、個別に予診票を発行します。母子健康手帳をご用意の上、窓口にお越しいただくか、本ページ下部のリンクより電子申請をご利用ください\n\n接種場所\n接種できる医療機関は「おたふくかぜ予防接種台東区単独助成協力医療機関名簿」でご確認ください。\n医療機関によっては予約が必要な場合がございますので、あらかじめお問い合わせください。\n\n※台東区独自の制度ですので、区外では受けられません\n\nおたふくかぜ予防接種台東区単独助成協力医療機関名簿（令和6年5月21日時点）（PDF：271KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/ninni/otahukuhiyoujosei.files/otafuku_20240521.pdf\n\n予防接種による健康被害救済制度\nこの予防接種を受けることにより健康被害が生じた場合、独立行政法人医薬品医療機器総合機構法に基づく「医薬品副作用被害救済制度」「生物由来製品感染等被害救済制度」、及び区が加入している特別区自治体総合賠償保険による救済の対象となります。詳しくは下記担当にお問い合わせください。\n\nおたふくかぜとは\nおたふくかぜは、流行性耳下腺炎あるいはムンプスとも呼ばれ、ムンプスウイルスによって起こる全身性感染症です。\n2～3週間の潜伏期の後、耳下腺・顎下腺・舌下腺等の唾液腺の膨張と圧痛を主症状として発症します。\n周りの人に感染させる可能性がある期間は、発病数日前から耳下腺・顎下腺又は舌下腺の膨張が始まった後5日を経過するまでと考えられており、その間学校や保育所は出席停止となります。\n年長児や成人が罹患すると、症状が著名で、合併症の頻度が高くなります。\n合併症としては、髄膜炎、精巣炎、熱性けいれん、難聴・内耳炎・内耳障害、膵炎等があります。\n感音性難聴は発症した場合、高度の難聴として障害を残すことが多いと言われており、おたふくかぜの合併症として最も警戒すべきものの1つと考えられています。\n\n　接種時期\n　【参考】　日本小児科学会　推奨スケジュール\n　1歳になったら1回目を早めに、2回目は小学校入学前に接種する。\n　※MRワクチンと同じ接種スケジュールで受けることができます。\n\nお問い合わせ\n台東保健所　保健予防課予防担当\n\n電話：03-3847-9471\nファクス：03-3847-9424\n\nよくある質問\nメールによるお問い合わせ\n電子申請\n※台東区に転入された方や紛失等により予防接種予診票がお手元にない方は、予診票の交付受付を実施します。\n\n予防接種予診票の交付受付;https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13106&procCode=11002598",
+      "target": {
+        "targetPersons": "平成29年4月2日以降に出生した区内在住の満1歳以上就学前のお子さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1歳以上小学校就学前の3月末日まで"
+      },
+      "support": {
+        "description": "助成費用\n3,500円\n※接種費用のうち、1回当たり3,500円を区が負担します。\n※任意接種のため、接種費用は医療機関により異なります。残額は自己負担になります。",
+        "monetarySupport": "3,500円",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": "残額は自己負担",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "おたふくかぜ予防接種台東区単独助成協力医療機関名簿（令和6年5月21日時点）（PDF：271KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/ninni/otahukuhiyoujosei.files/otafuku_20240521.pdf",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "対象者の方へ予診票を一斉送付します。届いた予診票を区内協力医療機関に持参の上、接種を受けてください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/ninni/otahukuhiyoujosei.files/otafuku_20240521.pdf",
+          "title": "おたふくかぜ予防接種台東区単独助成協力医療機関名簿（令和6年5月21日時点）（PDF：271KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/ninni/otahukuhiyoujosei.html",
+        "title": "おたふくかぜワクチンの接種に係る費用を一部助成します"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13106&procCode=11002598",
+          "title": "予防接種予診票の交付受付"
+        }
+      ],
+      "contact": {
+        "contactName": "台東保健所　保健予防課予防担当",
+        "contactPhone": "03-3847-9471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+2+UM55",
+        "organization": "6000020131067",
+        "compartment": "台東保健所　保健予防課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-21",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "小児任意予防接種費助成要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "小児肺炎球菌ワクチン"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "標準接種期間\n（1）初回\n生後2か月以上7か月未満の間に接種を開始し、1歳未満の間に3回\n\n（2）追加\n初回接種終了後､60日以上あけて1歳以上1歳3か月未満の間に1回\n\n接種有効期限\n生後2か月以上5歳未満\n\n通知時期\n（1）は生後1か月頃　（2）は生後11か月頃",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": 5,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後2か月以上5歳未満"
+      },
+      "support": {
+        "description": "（1）初回\n生後2か月以上7か月未満の間に接種を開始し、1歳未満の間に3回\n\n（2）追加\n初回接種終了後､60日以上あけて1歳以上1歳3か月未満の間に1回\n",
+        "monetarySupport": null,
+        "materiallySupport": "（1）初回\n生後2か月以上7か月未満の間に接種を開始し、1歳未満の間に3回\n\n（2）追加\n初回接種終了後､60日以上あけて1歳以上1歳3か月未満の間に1回\n"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "接種方法\n予防接種予診票と母子健康手帳をご持参の上、23区内協力医療機関で接種を受けてください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/shouni_haienkyuukin/shouni_haienkyuukin.html",
+        "title": "小児肺炎球菌ワクチン"
+      },
+      "formLink": [
+        {
+          "uri": "http://taito.city-hc.jp/",
+          "title": "「おまかせ予防接種！ワクチン・ナビ」（外部サイト）"
+        }
+      ],
+      "contact": {
+        "contactName": "台東保健所　保健予防課予防担当",
+        "contactPhone": "03-3847-9471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+3+UM54",
+        "organization": "6000020131067",
+        "compartment": "台東保健所　保健予防課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2015-11-30",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "任意予防接種",
+        "shortName": "小児インフルエンザワクチン（一部助成しています）"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。\nこのうち台東区では、次の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+      "description": "小児インフルエンザ予防接種は、任意予防接種であり、義務付けはありません。\n接種を希望される方は、医師とよく相談のうえ、接種してください。\n\n一部助成について\n1回2,300円助成\n\n接種の方法\n生後6か月以上中学校3年生まで（令和5年度12月31日時点）\n13歳未満2回（2～4週間間隔）\n13歳以上1回\n\n対象の方には9月末に予診票を送付いたしました。\n予診票の紛失、再発行については下記までお問い合わせください。\n\n接種時期\n令和5年10月1日～令和6年2月29日\n\nワクチンの同時接種について\n　複数の予防接種を同時に同一の者に対して行う同時接種は、医師がその必要性を認め保護者が同意した場合に実施できます。なお、インフルエンザワクチンと新型コロナワクチンについては、接種間隔に関する規定が変更され、接種間隔の制限が無くなり、同時に接種することが可能になりました。\n\n接種場所\n接種できる医療機関は、「令和5年度台東区小児インフルエンザ予防接種実施協力医療機関一覧」でご確認ください。\n医療機関によっては予約が必要な場合もございますので、あらかじめお問い合わせください。\n令和5年度台東区小児インフルエンザ予防接種実施協力医療機関一覧（令和5年12月5日時点）（PDF：310KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/ninni/shouni_influenza.files/influ_junior__20231205.pdf\n\n※台東区独自の制度ですので、区外の医療機関では接種できません。\n\nお問い合わせ\n台東保健所　保健予防課予防担当\n\n電話：03-3847-9471\nファクス：03-3847-9424\n\nよくある質問\nメールによるお問い合わせ\n電子申請\n※台東区に転入された方や紛失等により予防接種予診票がお手元にない方は、予診票の交付受付を実施します。\n\n予防接種予診票の交付受付;https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13106&procCode=11002598",
+      "target": {
+        "targetPersons": "生後6か月以上中学校3年生まで（令和6年度12月31日時点）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後6か月以上中学校3年生まで"
+      },
+      "support": {
+        "description": "1回2,300円助成",
+        "monetarySupport": "2,300円",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": "2024-10-01",
+        "fromHM": null,
+        "toYMD": "2025-02-28",
+        "toHM": null,
+        "conditions": "令和6年10月1日～令和7年2月28日"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "接種できる医療機関は、「令和5年度台東区小児インフルエンザ予防接種実施協力医療機関一覧」でご確認ください。\n医療機関によっては予約が必要な場合もございますので、あらかじめお問い合わせください。\n\n令和5年度台東区小児インフルエンザ予防接種実施協力医療機関一覧（令和5年12月5日時点）（PDF：310KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/ninni/shouni_influenza.files/influ_junior__20231205.pdf\n\n※台東区独自の制度ですので、区外の医療機関では接種できません。",
+      "procedurePeriod": {
+        "fromYMD": "2024-10-01",
+        "fromHM": null,
+        "toYMD": "2025-02-28",
+        "toHM": null,
+        "conditions": "接種時期\n令和6年10月1日～令和7年2月28日"
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/ninni/shouni_influenza.html",
+        "title": "小児インフルエンザワクチン（一部助成しています）"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13106&procCode=11002598",
+          "title": "予防接種予診票の交付受付"
+        }
+      ],
+      "contact": {
+        "contactName": "台東保健所　保健予防課予防担当",
+        "contactPhone": "03-3847-9471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+3+UM55",
+        "organization": "6000020131067",
+        "compartment": "台東保健所　保健予防課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-12-07",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "小児任意予防接種費助成要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "DPT-IPV（四種混合：ジフテリア、百日咳、破傷風、不活化ポリオ）ワクチン第1期"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "令和6年4月1日より、既存の四種混合ワクチンとヒブワクチンの有効成分を混合したDPT-IPV-Hib(五種混合ワクチン)が定期予防接種で導入されますが、既に四種混合ワクチン・ヒブワクチンにて接種を開始している方は、同一ワクチンで接種を完了することが原則となります。\n\n標準接種期間\n（1）初回\n生後2か月以上1歳未満の間に3回\n\n（2）追加\n第1期初回接種終了後、12か月以上18か月未満の間隔をおいて1回\n\n接種有効期限\n生後2か月以上7歳6か月未満\n\n通知時期\n※令和6年2月以降に生まれたお子さんには、五種混合ワクチンの予診票をお送りしています。令和6年1月以前に生まれたお子さんで、四種混合ワクチン・ヒブワクチンの接種を開始していない方は、五種混合ワクチンにより接種を開始していただくことが可能です。五種混合ワクチンでの接種を希望される場合には、予防接種予診票を交付しますので、電子申請、電話、または台東保健所保健予防課窓口にてお申込みください。\n（1）は生後1か月頃　　\n（2）は1歳4か月頃\n\n新規ウィンドウで開きます。\n電子申請はこちらから（外部サイト）;https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1607299843042",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": 7,
+          "targetAgeOfMonths": 6
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後2か月以上7歳6か月未満"
+      },
+      "support": {
+        "description": "（1）初回\n生後2か月以上1歳未満の間に3回\n\n（2）追加\n第1期初回接種終了後、12か月以上18か月未満の間隔をおいて1回",
+        "monetarySupport": null,
+        "materiallySupport": "（1）初回\n生後2か月以上1歳未満の間に3回\n\n（2）追加\n第1期初回接種終了後、12か月以上18か月未満の間隔をおいて1回"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "接種方法\n予防接種予診票と母子健康手帳をご持参の上、23区内協力医療機関で接種を受けてください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/dpt-ipv_dpt_dt/DPT-IPVteiki.html",
+        "title": "DPT-IPV（四種混合：ジフテリア、百日咳、破傷風、不活化ポリオ）ワクチン第1期"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1607299843042",
+          "title": "電子申請はこちらから（外部サイト）"
+        }
+      ],
+      "contact": {
+        "contactName": "台東保健所　保健予防課予防担当",
+        "contactPhone": "03-3847-9471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+4+UM54",
+        "organization": "6000020131067",
+        "compartment": "台東保健所　保健予防課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-27",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "任意予防接種",
+        "shortName": "男性向けHPVワクチン任意接種費助成"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。\nこのうち台東区では、次の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+      "description": "8月1日から、男性向けHPV(ヒトパピローマウイルス)ワクチンの任意接種費用の助成事業を開始します。\nHPV(ヒトパピローマウイルス)ワクチンは、小学6年生から高校1年生相当の女性を対象に、予防接種法に基づく定期接種が行われています。男性もHPVワクチンを接種することにより、自身のHPV感染によるがんなどの疾病予防の他、性交渉によるHPV感染からパートナーを守ることにもつながります。\n\n新規ウィンドウで開きます。\n東京都保健医療局　HPVワクチンの男性接種について（外部サイト）;https://www.hokeniryo.metro.tokyo.lg.jp/kansen/hpvdansei.html\n\nワクチンの効果・副反応\n　ワクチンの効果や副反応等については、定期接種のページをご覧ください。\n\nHPV（ヒトパピローマウイルス）ワクチン（子宮頸がん予防ワクチン）接種;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/shikyuukeigan/hpvyobou.html\n\n接種対象者\n接種日現在、区内在住の小学6年生～高校1年生相当の男性\n※すでに3回のHPVワクチン接種を受けた方は助成の対象外となります。\n\n接種費用・助成回数\n無料・3回まで\n\n接種期限\n高校1年生相当年齢の3月31日まで（16歳となる日の属する年度末まで）\n※令和6年度高校1年生相当の方は、令和7年3月31日までとなりますので、接種を希望する方は、9月末までに1回目の接種を開始してください。\n　\n\n協力医療機関名簿\n区内の協力医療機関で接種できます。接種には台東区が発行した予診票が必要です。\n\nファイルダウンロード　新規ウインドウで開きます。男性向けHPVワクチン接種医療機関名簿(令和6年8月1日時点)（PDF：231KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/ninni/mensHPV.files/20240801_mensHPV.pdf\n\n助成開始時期\n8月1日（木曜日）\n\n助成対象ワクチン\n4価HPVワクチン　ガーダシル\n\n接種間隔・回数\n一般的な接種スケジュール;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/ninni/mensHPV.images/sukeju-ru.jpg\n接種スケジュール\n初回接種後、2か月以上間隔を空けて2回目を接種、2回目から4か月以上間隔を空けて3回目を接種。\n\n本制度の案内通知の発送について\n\n個別案内通知（外面）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/ninni/mensHPV.images/mensHPV_tsuuchi_soto.JPG\n\n個別案内通知（内面）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/ninni/mensHPV.images/mensHPV_tsuuchi_uchi.JPG\n中学1年生～高校1年生相当(平成20年4月2日～平成24年4月1日生まれ)の方に本制度の案内通知を発送します。(7月10日発送予定)\n案内通知の発送対象者ではありませんが、現在小学6年生の方も助成を受けて接種することが出来ます。接種を希望する方は、以下の「助成を受ける方法」、「予診票の申込」の項目をご確認ください。\n※小学6年生の方には、令和7年3月末に案内通知を発送予定です。\n\n助成を受ける方法\n(1)　助成を希望する方は、区に電子申請・電話等により予診票の交付を申し込みます。\n\n(2)　申込受付後、対象となる方に予診票を送付します。\n\n(3)　区から交付された予診票と母子健康手帳を持参の上、区内の協力医療機関で接種を受けます。\n\n予診票の申込\n以下のページから電子申請をご利用いただくか、お電話でお問い合わせください。\n\n新規ウィンドウで開きます。\n電子申請はこちらから（外部サイト）;https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13106&procCode=11002598",
+      "target": {
+        "targetPersons": "小学校6年生（12歳相当）から高校1年生（16歳相当）の男性",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "小学校6年生（12歳相当）から高校1年生（16歳相当）"
+      },
+      "support": {
+        "description": "無料で接種",
+        "monetarySupport": "接種料の助成",
+        "materiallySupport": "３回まで"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": "2024-08-01",
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "男性向けHPVワクチン接種医療機関名簿（令和6年8月1日時点）（PDF：231KB）;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/ninni/mensHPV.files/20240801_mensHPV.pdf",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "接種できる医療機関は、「男性向けHPVワクチン接種医療機関名簿」でご確認ください。\n医療機関によっては予約が必要な場合もございますので、あらかじめお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": "2024-07-05",
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "予診票と母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "台東保健所5階1番窓口\n　保健予防課予防担当",
+      "relatedLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13106&procCode=11002598",
+          "title": "電子申請はこちらから"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/shikyuukeigan/hpvyobou.html",
+          "title": "HPV（ヒトパピローマウイルス）ワクチン（子宮頸がん予防ワクチン）接種"
+        },
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/ninni/mensHPV.files/20240801_mensHPV.pdf",
+          "title": "男性向けHPVワクチン接種医療機関名簿(令和6年8月1日時点)"
+        },
+        {
+          "uri": "https://www.hokeniryo.metro.tokyo.lg.jp/kansen/hpvdansei.html",
+          "title": "東京都保健医療局　HPVワクチンの男性接種について"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/ninni/mensHPV.html",
+        "title": "男性向けHPVワクチン任意接種費助成が始まります"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13106&procCode=11002598",
+          "title": "予防接種予診票の交付受付"
+        }
+      ],
+      "contact": {
+        "contactName": "台東保健所　保健予防課予防担当",
+        "contactPhone": "03-3847-9471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+4+UM55",
+        "organization": "6000020131067",
+        "compartment": "台東保健所　保健予防課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-07-11",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "小児任意予防接種費助成要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "DPT-IPV-Hib（五種混合：ジフテリア、百日咳、破傷風、不活化ポリオ、Hib）ワクチン第1期"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "※令和6年4月1日より、これまでのDPT-IPV（四種混合ワクチン）にヒブを加えたDPT-IPV-Hib(五種混合ワクチン）が定期予防接種に導入されます。\n\n標準接種期間\n（1）初回\n生後2か月以上7か月未満の間に3回\n\n（2）追加接種\n第1期初回接種終了後、6か月以上18か月未満の間隔をおいて1回\n\n接種有効期限\n生後2か月以上7歳6か月未満\n\n通知時期\n（1）初回接種　生後1か月頃　\n（2）追加接種　生後10か月頃",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": 7,
+          "targetAgeOfMonths": 6
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後2か月以上7歳6か月未満"
+      },
+      "support": {
+        "description": "（1）初回\n生後2か月以上7か月未満の間に3回\n\n（2）追加接種\n第1期初回接種終了後、6か月以上18か月未満の間隔をおいて1回",
+        "monetarySupport": null,
+        "materiallySupport": "（1）初回\n生後2か月以上7か月未満の間に3回\n\n（2）追加接種\n第1期初回接種終了後、6か月以上18か月未満の間隔をおいて1回"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "接種方法\n予防接種予診票と母子健康手帳をご持参の上、23区内協力医療機関で接種を受けてください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/dpt-ipv_dpt_dt/dpt-ipv-hib1.html",
+        "title": "DPT-IPV-Hib（五種混合：ジフテリア、百日咳、破傷風、不活化ポリオ、Hib）ワクチン第1期"
+      },
+      "formLink": [
+        {
+          "uri": "http://taito.city-hc.jp/",
+          "title": "「おまかせ予防接種！ワクチン・ナビ」（外部サイト）"
+        }
+      ],
+      "contact": {
+        "contactName": "台東保健所　保健予防課予防担当",
+        "contactPhone": "03-3847-9471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+5+UM54",
+        "organization": "6000020131067",
+        "compartment": "台東保健所　保健予防課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-03",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "DT（二種混合：ジフテリア、破傷風）ワクチン第2期"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "標準接種期間\n11歳以上12歳未満の間に1回\n\n接種有効期限\n11歳以上13歳未満\n\n通知時期\n11歳頃",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": 13,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 11,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "11歳以上13歳未満"
+      },
+      "support": {
+        "description": "11歳以上12歳未満の間に1回",
+        "monetarySupport": null,
+        "materiallySupport": "11歳以上12歳未満の間に1回"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "接種方法\n予防接種予診票と母子健康手帳をご持参の上、23区内協力医療機関で接種を受けてください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/dpt-ipv_dpt_dt/dt2.html",
+        "title": "DT（二種混合：ジフテリア、破傷風）ワクチン第2期"
+      },
+      "formLink": [
+        {
+          "uri": "http://taito.city-hc.jp/",
+          "title": "「おまかせ予防接種！ワクチン・ナビ」（外部サイト）"
+        }
+      ],
+      "contact": {
+        "contactName": "台東保健所　保健予防課予防担当",
+        "contactPhone": "03-3847-9471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+6+UM54",
+        "organization": "6000020131067",
+        "compartment": "台東保健所　保健予防課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2015-11-30",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "BCGワクチン"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "平成28年4月より、23区内の協力医療機関で接種ができるようになりました。\n標準接種期間\n生後5か月以上8か月未満の間に1回\n\n接種有効期限\n1歳未満\n\n通知時期\n生後4か月頃",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1歳未満"
+      },
+      "support": {
+        "description": "生後5か月以上8か月未満の間に1回",
+        "monetarySupport": null,
+        "materiallySupport": "生後5か月以上8か月未満の間に1回"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "接種方法\n予防接種予診票と母子健康手帳をご持参の上、23区内協力医療機関で接種を受けてください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/bcg/bcg.html",
+        "title": "BCGワクチン"
+      },
+      "formLink": [
+        {
+          "uri": "http://taito.city-hc.jp/",
+          "title": "「おまかせ予防接種！ワクチン・ナビ」（外部サイト）"
+        }
+      ],
+      "contact": {
+        "contactName": "台東保健所　保健予防課予防担当",
+        "contactPhone": "03-3847-9471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+7+UM54",
+        "organization": "6000020131067",
+        "compartment": "台東保健所　保健予防課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2016-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "日本脳炎ワクチン第1期"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "標準接種期間\n(1)1期初回\n3歳以上4歳未満の間に2回\n\n(2)1期追加\n4歳以上5歳未満で、1期初回接種後おおむね1年経過した時期に1回\n\n接種有効期限\n生後6か月以上7歳6か月未満\n\n通知時期\n（1）は3歳頃　（2）は4歳頃\n※（1）について、通知時期より早めに接種されたい方は下記までお問い合わせください。\n\n平成19年4月2日～平成21年10月1日生まれで接種漏れのある方について\n日本脳炎1期（3回）の予防接種が終了していない方は、9歳以上13歳未満の期間に不足分の接種を受けることができます。母子健康手帳で接種回数を確認のうえ、下記までお問い合わせください。\n\n平成7～18年度に生まれた方の日本脳炎の予防接種について\n日本脳炎の予防接種を十分に受ける機会を逃している可能性のある平成7年4月2日～平成19年4月1日にお生まれの方は、以下のリンク先も合わせてご覧ください。\n\n平成7～18年度に生まれた方の日本脳炎の予防接種について;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/nihonnouen/nihonnouenn0601.html",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": 7,
+          "targetAgeOfMonths": 6
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後6か月以上7歳6か月未満"
+      },
+      "support": {
+        "description": "(1)1期初回\n3歳以上4歳未満の間に2回\n\n(2)1期追加\n4歳以上5歳未満で、1期初回接種後おおむね1年経過した時期に1回",
+        "monetarySupport": null,
+        "materiallySupport": "(1)1期初回\n3歳以上4歳未満の間に2回\n\n(2)1期追加\n4歳以上5歳未満で、1期初回接種後おおむね1年経過した時期に1回"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "接種方法\n予防接種予診票と母子健康手帳をご持参の上、23区内協力医療機関で接種を受けてください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/nihonnouen/nihonnouenn0601.html",
+          "title": "平成7～18年度に生まれた方の日本脳炎の予防接種について"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/nihonnouen/nihonnouen1.html",
+        "title": "日本脳炎ワクチン第1期"
+      },
+      "formLink": [
+        {
+          "uri": "http://taito.city-hc.jp/",
+          "title": "「おまかせ予防接種！ワクチン・ナビ」（外部サイト）"
+        }
+      ],
+      "contact": {
+        "contactName": "台東保健所　保健予防課予防担当",
+        "contactPhone": "03-3847-9471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+8+UM54",
+        "organization": "6000020131067",
+        "compartment": "台東保健所　保健予防課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-08-02",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "日本脳炎ワクチン第2期"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "標準接種期間\n9歳以上10歳未満の間に1回\n\n接種有効期限\n9歳以上13歳未満\n\n通知時期\n9歳頃\n\n平成7～18年度に生まれた方の日本脳炎の予防接種について\n日本脳炎の予防接種を十分に受ける機会を逃している可能性のある平成7年4月2日～平成19年4月1日にお生まれの方は、以下のリンク先も合わせてご覧ください。\n\n平成7～18年度に生まれた方の日本脳炎の予防接種について;https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/nihonnouen/nihonnouenn0601.html",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": 13,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 9,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "9歳以上13歳未満"
+      },
+      "support": {
+        "description": "9歳以上10歳未満の間に1回",
+        "monetarySupport": null,
+        "materiallySupport": "9歳以上10歳未満の間に1回"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "接種方法\n予防接種予診票と母子健康手帳をご持参の上、23区内協力医療機関で接種を受けてください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/nihonnouen/nihonnouenn0601.html",
+          "title": "平成7～18年度に生まれた方の日本脳炎の予防接種について"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/kenkou_iryou/yobousesshu/teiki/nihonnouen/nihonnouen2.html",
+        "title": "日本脳炎ワクチン第2期"
+      },
+      "formLink": [
+        {
+          "uri": "http://taito.city-hc.jp/",
+          "title": "「おまかせ予防接種！ワクチン・ナビ」（外部サイト）"
+        }
+      ],
+      "contact": {
+        "contactName": "台東保健所　保健予防課予防担当",
+        "contactPhone": "03-3847-9471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.taito.lg.jp/cgi-bin/formmail/formmail.cgi?d=080600",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131067;台東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131067+9+UM54",
+        "organization": "6000020131067",
+        "compartment": "台東保健所　保健予防課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-01-19",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "台東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

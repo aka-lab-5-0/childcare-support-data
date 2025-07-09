@@ -1,0 +1,999 @@
+{
+  "version": "2025-07-09T05:55:17.826Z",
+  "areaCode": "132195",
+  "areaName": "狛江市",
+  "category": "other",
+  "count": 8,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "児童館",
+        "shortName": "児童センター・児童館"
+      },
+      "summary": "児童館は、18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n狛江市の児童館には、小学校就学前のお子さんが安心して遊べるスペースがあり、またお子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、狛江市サイトや市報などでお知らせしています。）",
+      "description": "児童センター・児童館\n　児童センター・児童館は、地域の子どもたちが縦と横のつながりをもちながら自由に遊ぶ場です。その中から社会性や自主性を養い、情操を高め、健康の増進を図ることを目的としています。\n　市内には岩戸児童センター、和泉児童館、北部児童館（愛称：こまっこ児童館）があり、行事やクラブ活動、児童のつどいが盛んです。\n\n利用できる方\n狛江市内に居住する18歳未満の児童・生徒とその保護者の方\n（幼児については、必ず保護者の方が同伴してください）\n\n開館時間\n月曜日～土曜日、午前9時～午後7時\n\n※新型コロナウイルス感染症の5類移行に伴い、岩戸児童センター遊戯室の日曜開放は再開しました。\n\n休館日\n日曜日、祝日、年末年始\n\n施設\n岩戸児童センター\n　岩戸南3-15-1　電話03-3489-5414\n和泉児童館\n　中和泉3-12-6　電話03-3480-1441\n和泉児童館分室（寺前小学生クラブ） ※令和3年4月開所\n　元和泉1-23-3　電話03-5761-7720\n北部児童館（愛称：こまっこ児童館）\n　和泉本町3-31-19　電話03-3480-5701\n　※詳細は各児童センター・児童館へお問い合わせください。",
+      "target": {
+        "targetPersons": "狛江市内に居住する18歳未満の児童・生徒とその保護者の方\n（幼児については、必ず保護者の方が同伴してください）",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "狛江市内に居住する18歳未満の児童"
+      },
+      "support": {
+        "description": "児童センター・児童館は、地域の子どもたちが縦と横のつながりをもちながら自由に遊ぶ場です。その中から社会性や自主性を養い、情操を高め、健康の増進を図ることを目的としています。",
+        "monetarySupport": null,
+        "materiallySupport": "児童センター・児童館は、地域の子どもたちが縦と横のつながりをもちながら自由に遊ぶ場です。その中から社会性や自主性を養い、情操を高め、健康の増進を図ることを目的としています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "岩戸児童センター,和泉児童館,和泉児童館分室（寺前小学生クラブ）,北部児童館（愛称：こまっこ児童館）",
+        "implementationAddress": "岩戸南3-15-1,中和泉3-12-6,元和泉1-23-3,和泉本町3-31-19"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "19:00",
+        "condiutilizationConditionstions": "月曜日～土曜日"
+      },
+      "specificDate": null,
+      "holiday": "日曜日、祝日、年末年始",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/43,0,331,2051,html",
+        "title": "児童センター・児童館"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部　児童育成課保育・幼稚園担当,保育園等管理・運営支援担当,放課後対策推進担当",
+        "contactPhone": "03-3430-1280,03-6698-0762,03-3430-1281",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,105154,html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+1+UM108",
+        "organization": "8000020132195",
+        "compartment": "子ども家庭部　児童育成課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-09",
+      "odInformation": {
+        "updateDate": "2024-07-08",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "マタニティマーク",
+        "shortName": "マタニティマーク"
+      },
+      "summary": "狛江市では、妊娠の届出の際に、母子健康手帳と共にマタニティマーク入りキーホルダーをお渡ししています。",
+      "description": "マタニティマーク\n;https://www.city.komae.tokyo.jp/images/content/21941/h0301-1h.jpg\n妊産婦の方への思いやりをお願いします\n　マタニティマークは、妊娠初期の妊婦さんが周囲に妊娠していることを知らせるためのマークです。\n  各種交通機関における優先的な席の確保や受動喫煙の防止など、バスや電車内、飲食店など、街でこのマークを身につけている方を見かけたら、思いやりのある行動をお願いします。\n  未来のお母さんと赤ちゃんを皆さんの優しさでサポートしましょう。\n  市では、妊娠の届出をされた方へマタニティキーホルダー（「母と子の保健バッグ」の中に入っています）を無料で配布しています。\n\n関連情報\n　首都圏の鉄道会社２０社では、妊産婦の方へマタニティキーホルダーを配布しています。\n　詳しくは厚生労働省のホームページをご覧ください。\n   マタニティマーク（厚生労働省）;http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/kodomo_kosodate/boshi-hoken/maternity_mark.html",
+      "target": {
+        "targetPersons": "妊娠の届出をされた方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠の届出をされた方へマタニティキーホルダー（「母と子の保健バッグ」の中に入っています）を無料で配布しています。",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠の届出をされた方へマタニティキーホルダー（「母と子の保健バッグ」の中に入っています）を無料で配布しています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://warp.da.ndl.go.jp/info:ndljp/pid/12884654/www.mhlw.go.jp/bunya/kodomo/boshi-hoken12/index.html",
+          "title": "マタニティマーク（厚生労働省）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/43,21941,330,html",
+        "title": "マタニティマーク"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部　子ども家庭課母子保健係（あいとぴあセンター）",
+        "contactPhone": "03-5761-9200,03-5761-7990",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,132750,html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+1+UM2",
+        "organization": "8000020132195",
+        "compartment": "子ども家庭部　子ども家庭課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2017-03-07",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "令和6年度ママパパ学級"
+      },
+      "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、狛江市では産科医師、歯科医師、保健師、栄養士、助産師などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+      "description": "令和6年度ママパパ学級\n　妊娠中の生活と産後の過ごし方や赤ちゃんのお風呂の入れ方などを学びます。\n\n対象\n　第1子を妊娠中の方（できれば妊娠5～6カ月頃）とお父さんになられる方\n　※37週以降の妊婦さんは安全面に配慮して参加を控えさせていただいていますので、ご了承ください。\n\n内容\nママの体のケア編\n妊娠中の生活と妊婦体操（実技）、妊娠中の食事・妊娠中の歯のお手入れ、出産後の手続きや子育て支援事業説明\n日程\n　3編に分かれており、希望の内容を複数受講できます。\n|実施月|ママの体のケア編|みんなで話そう！<br>赤ちゃんのいる生活とお産編|赤ちゃんお世話編|\n|:----|:----|:----|:----|\n|令和6年4月|※実施なし|6日（土曜日）|27日（土曜日）|\n|5月|17日（金曜日）|※実施なし|25日（土曜日）|\n|6月|※実施なし|8日（土曜日）|29日（土曜日）|\n|7月|※実施なし|6日（土曜日）|27日（土曜日）|\n|8月|2日（金曜日）|※実施なし|31日（土曜日）|\n|9月|\t※実施なし|14日（土曜日）|28日（土曜日）|\n|10月|※実施なし|5日（土曜日）|26日（土曜日）|\n|11月|1日（金曜日）|※実施なし|30日（土曜日）|\n|12月|※実施なし|7日（土曜日）|14日（土曜日）|\n|令和7年1月|※実施なし|11日（土曜日）|25日（土曜日）|\n|2月|7日（金曜日）|※実施なし|22日（土曜日）|\n|3月|※実施なし\t|8日（土曜日）|22日（土曜日）|\n\n時間\nママの体のケア編\n午後1時10分～3時30分（受付時間：午後1時～1時10分）\n\nみんなで話そう！赤ちゃんのいる生活とお産編、赤ちゃんお世話編\n午前9時40分～正午（受付時間：午前9時30分～9時40分）\n\n会場\nあいとぴあセンター2階（当日会場案内をご確認ください）　　\nhttps://www.city.komae.tokyo.jp/images/content/131715/20160307-153604.jpg\n \n持ち物\n母子健康手帳・筆記用具・飲み物・バスタオル（赤ちゃんお世話編のみ）\n※各回ともに動きやすい服装でご参加ください。\n\n費用\n無料\n\n定員\n20組（予約制です。お電話でお申し込みください）\n\n服装\n3回通して、動きやすい服装（体操やストレッチができる服装）でご参加ください。",
+      "target": {
+        "targetPersons": "第1子を妊娠中の方（できれば妊娠5～6カ月頃）とお父さんになられる方\n　※37週以降の妊婦さんは安全面に配慮して参加を控えさせていただいていますので、ご了承ください。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠中の生活と産後の過ごし方や赤ちゃんのお風呂の入れ方などを学びます。\n内容\nママの体のケア編\n妊娠中の生活と妊婦体操（実技）、妊娠中の食事・妊娠中の歯のお手入れ、出産後の手続きや子育て支援事業説明\n\nみんなで話そう！赤ちゃんのいる生活とお産編\n赤ちゃんのいる生活（交流会）、たんぽぽスタート（ママと赤ちゃんの遊び場紹介）、お産と産後の過ごし方（リラックス法など実技）\n\n赤ちゃんお世話編\n赤ちゃんの沐浴、おむつ交換、あやし方、パパのための妊婦体験（実習）",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠中の生活と産後の過ごし方や赤ちゃんのお風呂の入れ方などを学びます。\n内容\nママの体のケア編\n妊娠中の生活と妊婦体操（実技）、妊娠中の食事・妊娠中の歯のお手入れ、出産後の手続きや子育て支援事業説明\n\nみんなで話そう！赤ちゃんのいる生活とお産編\n赤ちゃんのいる生活（交流会）、たんぽぽスタート（ママと赤ちゃんの遊び場紹介）、お産と産後の過ごし方（リラックス法など実技）\n\n赤ちゃんお世話編\n赤ちゃんの沐浴、おむつ交換、あやし方、パパのための妊婦体験（実習）"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "日程\n3編に分かれており、希望の内容を複数受講できます。\n|実施月|ママの体のケア編|みんなで話そう！<br>赤ちゃんのいる生活とお産編|赤ちゃんお世話編|\n|:----|:----|:----|:----|\n|令和6年4月|※実施なし|6日（土曜日）|27日（土曜日）|\n|5月|17日（金曜日）|※実施なし|25日（土曜日）|\n|6月|※実施なし|8日（土曜日）|29日（土曜日）|\n|7月|※実施なし|6日（土曜日）|27日（土曜日）|\n|8月|2日（金曜日）|※実施なし|31日（土曜日）|\n|9月|\t※実施なし|14日（土曜日）|28日（土曜日）|\n|10月|※実施なし|5日（土曜日）|26日（土曜日）|\n|11月|1日（金曜日）|※実施なし|30日（土曜日）|\n|12月|※実施なし|7日（土曜日）|14日（土曜日）|\n|令和7年1月|※実施なし|11日（土曜日）|25日（土曜日）|\n|2月|7日（金曜日）|※実施なし|22日（土曜日）|\n|3月|※実施なし\t|8日（土曜日）|22日（土曜日）|\n\n時間\nママの体のケア編\n午後1時10分～3時30分（受付時間：午後1時～1時10分）\n\nみんなで話そう！赤ちゃんのいる生活とお産編、赤ちゃんお世話編\n午前9時40分～正午（受付時間：午前9時30分～9時40分）"
+      },
+      "implementationPlace": {
+        "implementationName": "あいとぴあセンター2階",
+        "implementationAddress": null
+      },
+      "capacity": "20組",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "予約制です。お電話でお申し込みください",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳・筆記用具・飲み物・バスタオル（赤ちゃんお世話編のみ）\n※各回ともに動きやすい服装でご参加ください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "子ども家庭部　子ども家庭課",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/43,131715,330,html",
+        "title": "令和6年度ママパパ学級"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部　子ども家庭課母子保健係（あいとぴあセンター）",
+        "contactPhone": "03-5761-9200,03-5761-7990",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,132750,html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+1+UM31",
+        "organization": "8000020132195",
+        "compartment": "子ども家庭部　子ども家庭課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "6～7か月児健康診査、9～10か月児健康診査"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として乳幼児健康診査（6～7か月、9～10か月児）を実施しています。",
+      "description": null,
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/44,25161,337,html",
+        "title": null
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部　子ども家庭課母子保健係（あいとぴあセンター）",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+1+UM50",
+        "organization": "8000020132195",
+        "compartment": "子ども家庭部　子ども家庭課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+        "shortName": "産前産後期間に係る軽減"
+      },
+      "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分。多胎妊娠の場合は６カ月分）の均等割保険税と所得割保険税が免除されます。",
+      "description": "産前産後期間に係る軽減\n被保険者の方が出産した場合、その方の産前産後期間の国民健康保険税が軽減されます。\n詳細は、産前産後期間に係る保険税の軽減 [192KB pdfファイル];https://www.city.komae.tokyo.jp/index.cfm/41,93440,c,html/93440/20240123-164834.pdfをご覧ください。\n\n対象者\n令和5年11月1日以降に出産した狛江市国民健康保険被保険者の方\n（妊娠85日以上の出産が対象です。死産、流産、早産および人工妊娠中絶の場合も含みます）​\n\n軽減方法\n出産した被保険者がその年度に収める保険税の所得割額と均等割額から、出産予定月（または出産月）の前月から翌々月相当分が減額されます。\n軽減の対象期間（〇のある月が対象です）\n||3カ月前|2カ月前|1カ月前|出産予定月または出産月|1カ月後|2カ月後|3カ月後|\n|:----|:----|:----|:----|:----|:----|:----|:----|\n|単胎|||○|○|○|○||\n|多胎|○|○|○|○|○|○||\n※令和5年度においては、令和6年1月以降の期間の分のみ保険税が軽減されます。\n\n申請に必要な書類\n産前産後期間に係る保険税軽減届署 [33KB pdfファイル];https://www.city.komae.tokyo.jp/index.cfm/41,93440,c,html/93440/sanzensangotodoke20240514.pdf\n母子健康手帳の写しなど\n母子健康手帳見本 [177KB pdfファイル];https://www.city.komae.tokyo.jp/index.cfm/41,93440,c,html/93440/boshitecyou20240514.pdf\n※出産予定日の6カ月前から届出ができます。出産後の届出も可能です。\n※出産後に届出を行う場合、親子関係を明らかにする書類が必要です。",
+      "target": {
+        "targetPersons": "令和5年11月1日以降に出産した狛江市国民健康保険被保険者の方\n（妊娠85日以上の出産が対象です。死産、流産、早産および人工妊娠中絶の場合も含みます）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "出産した被保険者がその年度に収める保険税の所得割額と均等割額から、出産予定月（または出産月）の前月から翌々月相当分（多胎妊娠の場合、出産予定月（または出産月）の３カ月前から６カ月相当分）が減額されます。\n軽減の対象期間（〇のある月が対象です）\n||3カ月前|2カ月前|1カ月前|出産予定月または出産月|1カ月後|2カ月後|3カ月後|\n|:----|:----|:----|:----|:----|:----|:----|:----|\n|単胎|||○|○|○|○||\n|多胎|○|○|○|○|○|○||\n※令和5年度においては、令和6年1月以降の期間の分のみ保険税が軽減されます。",
+        "monetarySupport": "出産した被保険者がその年度に収める保険税の所得割額と均等割額から、出産予定月（または出産月）の前月から翌々月相当分（多胎妊娠の場合、出産予定月（または出産月）の３カ月前から６カ月相当分）が減額されます。\n軽減の対象期間（〇のある月が対象です）\n||3カ月前|2カ月前|1カ月前|出産予定月または出産月|1カ月後|2カ月後|3カ月後|\n|:----|:----|:----|:----|:----|:----|:----|:----|\n|単胎|||○|○|○|○||\n|多胎|○|○|○|○|○|○||\n※令和5年度においては、令和6年1月以降の期間の分のみ保険税が軽減されます。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申請に必要な書類\n産前産後期間に係る保険税軽減届署 [33KB pdfファイル];https://www.city.komae.tokyo.jp/index.cfm/41,93440,c,html/93440/sanzensangotodoke20240514.pdf\n母子健康手帳の写しなど\n母子健康手帳見本 [177KB pdfファイル];https://www.city.komae.tokyo.jp/index.cfm/41,93440,c,html/93440/boshitecyou20240514.pdf\n※出産予定日の6カ月前から届出ができます。出産後の届出も可能です。\n※出産後に届出を行う場合、親子関係を明らかにする書類が必要です。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産予定日の6カ月前から届出ができます。出産後の届出も可能です。"
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳の写しなど、出産後に届出を行う場合、親子関係を明らかにする書類",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "狛江市 福祉保健部 保険年金課 国民健康保険係",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.komae.tokyo.jp/index.cfm/41",
+          "title": "産前産後期間に係る保険税の軽減 [192KB pdfファイル]"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/41,93440,316,2011,html#anchor09",
+        "title": "保険税の軽減、減免について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　保険年金課　国民健康保険係",
+        "contactPhone": "03-3430-1271",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,96588,html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+1+UM5035",
+        "organization": "8000020132195",
+        "compartment": "福祉保健部　保険年金課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-06-07",
+      "odInformation": {
+        "updateDate": "2024-06-30",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003",
+          "015"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出生連絡票・低体重児出生届",
+        "shortName": "赤ちゃん誕生連絡票"
+      },
+      "summary": "赤ちゃんが生まれたら、母と子の保健バッグに入っている赤ちゃん誕生連絡票兼低出生体重児届出票を記入して、郵送または提出してください。赤ちゃん誕生連絡票兼低出生体重児届出票をもとに、「こんにちは赤ちゃん事業（乳幼児全戸訪問）」のご連絡をします。\nなお、法律（母子保健法）で2,500グラム未満のお子さんが出生した時は、保護者がその旨を速やかに届け出ることが義務づけられており、赤ちゃん誕生連絡票兼低出生体重児届出票はその届出を兼ねています。",
+      "description": null,
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/43,127193,330,html",
+        "title": null
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部　子ども家庭課母子保健係（あいとぴあセンター）",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+1+UM791",
+        "organization": "8000020132195",
+        "compartment": "子ども家庭部　子ども家庭課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第18条（低体重児の届出）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "077"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "授乳・おむつ替え施設（赤ちゃんの駅等）",
+        "shortName": "赤ちゃん・ふらっと"
+      },
+      "summary": "狛江市では、乳幼児を抱える子育て家庭が安心して外出できる環境づくりを進めるため、公共施設のほか民間施設の協力を得て「おむつ替え」や「授乳」ができる「赤ちゃん・ふらっと」を整備し、地域全体で子育てを支える仕組みづくりを進めています。\nまた、東京都でも都内の民間施設を含めて同事業を実施しており、指定施設には、入り口付近にそれぞれ案内標示を設置しています。",
+      "description": "https://www.city.komae.tokyo.jp/index.cfm/43,26103,330,html",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "乳幼児を連れて保護者が気軽に外出し、授乳やおむつ替えのために、ふらっと立ち寄れる場所（施設）です。",
+        "monetarySupport": null,
+        "materiallySupport": "乳幼児を連れて保護者が気軽に外出し、授乳やおむつ替えのために、ふらっと立ち寄れる場所（施設）です。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/43,26103,330,html",
+        "title": "赤ちゃん・ふらっと"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部　子ども若者政策課企画政策係,助成支援係",
+        "contactPhone": "03-3430-1276,03-3430-1277",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,105153,html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+1+UM800",
+        "organization": "8000020132195",
+        "compartment": "子ども家庭部　子ども若者政策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-06-01",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て支援パスポート",
+        "shortName": "子育て応援とうきょうパスポート"
+      },
+      "summary": "「子育て支援パスポート事業」は、子育てを応援しようとする社会的機運の醸成を目的として推進している事業であり、企業・店舗等が、子育て世帯や妊娠中の方がいる世帯に対して、様々なサービスを提供する仕組みです。",
+      "description": "子育て応援とうきょうパスポート（東京都事業）\n子育て応援とうきょうパスポート（東京都事業）については、東京都福祉局ホームページ（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/passport/passport01.htmlをご覧ください。",
+      "target": {
+        "targetPersons": "東京都福祉局ホームページ（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/passport/passport01.html",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "東京都福祉局ホームページ（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/passport/passport01.html",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/43,87236,331,html",
+        "title": "子育て応援とうきょうパスポート（東京都事業）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部　子ども若者政策課企画政策係,助成支援係",
+        "contactPhone": "03-3430-1276,03-3430-1277",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,105153,html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+1+UM802",
+        "organization": "8000020132195",
+        "compartment": "子ども家庭部　子ども若者政策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-07-03",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "少子化社会対策大綱（平成27年3月20日閣議決定）",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

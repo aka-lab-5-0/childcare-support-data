@@ -1,0 +1,998 @@
+{
+  "version": "2025-07-09T05:55:17.837Z",
+  "areaCode": "134015",
+  "areaName": "八丈町",
+  "category": "medical",
+  "count": 8,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦訪問",
+        "shortName": "妊婦訪問"
+      },
+      "summary": "妊産婦の方（妊娠中または出産後1年以内）を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、妊娠期間中や出産後の不安や悩みについての相談等を行います。",
+      "description": "③妊婦訪問\n 妊婦の方のご自宅に保健師等が訪問します。\n【申込場所】福祉健康課保健係\n【対象】妊娠中の方で体調や育児などに不安のある方や訪問希望のある方\n【お問合せ先】福祉健康課保健係 ℡ 04996-2-5570",
+      "target": {
+        "targetPersons": "妊娠中の方で体調や育児などに不安のある方や訪問希望のある方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊婦の方のご自宅に保健師等が訪問",
+        "monetarySupport": null,
+        "materiallySupport": "妊婦の方のご自宅に保健師等が訪問"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "福祉健康課保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "http://www.town.hachijo.tokyo.jp/kokasen/wp-content/uploads/2016/04/6ffc5a0436b28d855f1d36e25bd6c2bd.pdf",
+        "title": "はちじょう子育てガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM11",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2016-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条（妊産婦の訪問指導等）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て広場",
+        "shortName": "交流ひろば"
+      },
+      "summary": "市内の子育てひろばは、小学校就学前のお子さんが安心して遊べるスペースがあり、子育て中の親子が気軽に集い、仲間づくりを通して子育てに関する相談や情報交換等を行う機会を提供しています。また、お子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、八丈町サイトや市報などでお知らせしています。）",
+      "description": "（1）交流ひろば\n親子を対象にふれあいの場、交流の場として屋内ひろばを開放しています。また、毎週水曜日 10 時 30 分から催しを実施しています。\n【開放日時】月曜日～金曜日：8 時 45 分～17 時（祝日は除く）\n毎月第二土曜日：9 時～正午\n【対象】0 歳～未就学児\n【利用方法】子ども家庭支援センターでの利用登録が必要です。\n【利用料】無料\n【注意事項】①お子さんは保護者の方が見守ってください。\n②おやつや食べ物の持ち込みはご遠慮ください。\n③飲み物は保護者の方がご用意ください。\n④ごみやオムツ等はお持ち帰りください。\n⑤ご自宅のおもちゃ等の持ち込みはご遠慮ください。\n⑥貴重品はご自身で責任をもって管理してください。\n\n【お問合せ先】子ども家庭支援センター ℡ 04996-2-4300",
+      "target": {
+        "targetPersons": "0 歳～未就学児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "0 歳～未就学児"
+      },
+      "support": {
+        "description": "親子を対象にふれあいの場、交流の場として屋内ひろばを開放しています。",
+        "monetarySupport": null,
+        "materiallySupport": "親子を対象にふれあいの場、交流の場として屋内ひろばを開放しています。"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "子ども家庭支援センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "月曜日～金曜日：8 時 45 分～17 時（祝日は除く）\n毎月第二土曜日：9 時～正午"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "子ども家庭支援センターでの利用登録が必要です。\n【注意事項】①お子さんは保護者の方が見守ってください。\n②おやつや食べ物の持ち込みはご遠慮ください。\n③飲み物は保護者の方がご用意ください。\n④ごみやオムツ等はお持ち帰りください。\n⑤ご自宅のおもちゃ等の持ち込みはご遠慮ください。\n⑥貴重品はご自身で責任をもって管理してください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "http://www.town.hachijo.tokyo.jp/kokasen/wp-content/uploads/2016/04/6ffc5a0436b28d855f1d36e25bd6c2bd.pdf",
+        "title": "はちじょう子育てガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭支援センター",
+        "contactPhone": "04996-2-4300",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM112",
+        "organization": "3000020134015",
+        "compartment": "子ども家庭支援センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2016-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第6項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出産育児一時金",
+        "shortName": "出産育児一時金"
+      },
+      "summary": "国民健康保険に加入している方が出産したときは、その世帯主からの申請により、出産育児一時金を支給します。原則として直接支払制度により、医療機関に直接お支払いします。\nなお、直接支払制度に対応していない医療機関などで出産された場合も、「受取代理制度」や出産後の申請により、出産育児一時金の支給を受けることができます。",
+      "description": "③出産育児一時金\n八丈町国民健康保険の被保険者が出産された場合、出産育児一時金を 42 万円支給します。出産後、出産育児一時金についての通知文がご自宅に届きます。原則として出産育児一時金が病院等に直接支払われる仕組み（直接支払制度）になります。ただし、産科医療保障制度に加入する病院などにおいて出産した場合に限ります。\n【手続き場所】住民課医療年金係\n【必要書類】 ①出産（分娩）費用明細書\n②世帯主の印鑑\n③世帯主名義の金融機関口座番号\n【その他】出産費用が 42 万円未満の場合に手続きが必要になります。\n出産費用が 42 万円を超える場合は、その差額分は退院時に病院などにお支払ください。その他詳細についてはお問合せください。\n【お問合せ先】住民課医療年金係 ℡ 04996-2-1123",
+      "target": {
+        "targetPersons": "八丈町国民健康保険の被保険者が出産された場合",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "出産育児一時金を 42 万円支給します。",
+        "monetarySupport": "42万円",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "出産後、出産育児一時金についての通知文がご自宅に届きます。原則として出産育児一時金が病院等に直接支払われる仕組み（直接支払制度）になります。ただし、産科医療保障制度に加入する病院などにおいて出産した場合に限ります。\n出産費用が 42 万円未満の場合に手続きが必要になります。\n出産費用が 42 万円を超える場合は、その差額分は退院時に病院などにお支払ください。その他詳細についてはお問合せください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "①出産（分娩）費用明細書\n②世帯主の印鑑\n③世帯主名義の金融機関口座番号",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "住民課医療年金係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "http://www.town.hachijo.tokyo.jp/kokasen/wp-content/uploads/2016/04/6ffc5a0436b28d855f1d36e25bd6c2bd.pdf",
+        "title": "はちじょう子育てガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "住民課医療年金係",
+        "contactPhone": "04996-2-1123",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM19",
+        "organization": "3000020134015",
+        "compartment": "住民課医療年金係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2016-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民健康保険法",
+        "regulationArticle": "第58条(第二節　その他の給付)"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003",
+          "015"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "救急外来"
+      },
+      "summary": "八丈町では、夜間や日曜・祝日、年末年始に、市内の医療機関の協力のもと、当番制で診療を行っています。",
+      "description": "救急外来のご案内とお願い\n当院では、午後時間外の受診（午後の予約外来は除く）および当直帯での受診の際は、救急外来での対応を行っております。\n救急外来では原則として初期対応になり、長期間の処方や精密検査は常設診療科の外来受診にて行います（ただし、救急車対応や緊急性のある病状の場合はその限りではありません）。\n当直帯では医師１名が対応しているため、緊急性や重症度の高い患者様の診療中の場合には、しばらくお待ちいただくこともございます。何卒ご理解いただけますよう、よろしくお願い申し上げます。\nまた、体調不良で数日様子を見られてから当直帯に受診されることで治療に難渋する方もお見受けいたします。できるだけ早期に通常時間内にご受診いただくことをお勧めいたします。\n\n当直帯（平日午後17:15から翌日8:30、および休日）での受診の際には、まずは当院にお電話いただき、宿直事務から受診方法のご案内をさせていただきます。\nまた、新型コロナウイルスの院内感染を防ぐため、発熱や感冒様症状などについてご確認させていただきます。\nもし感染の疑いがあると当直医によって判断された場合、来院時の待機場所（自家用車内や救急外来前室など）をご案内いたします。\n何卒、ご協力をお願い申し上げます。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "救急外来",
+        "monetarySupport": null,
+        "materiallySupport": "救急外来"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "町立八丈病院",
+        "implementationAddress": "八丈町三根26番地11"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "17:15",
+        "toHM": "08:30",
+        "condiutilizationConditionstions": "当直帯（平日午後17:15から翌日8:30、および休日）"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "まずは当院にお電話いただき、宿直事務から受診方法のご案内をさせていただきます。\nまた、新型コロナウイルスの院内感染を防ぐため、発熱や感冒様症状などについてご確認させていただきます。\nもし感染の疑いがあると当直医によって判断された場合、来院時の待機場所（自家用車内や救急外来前室など）をご案内いたします。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "町立八丈病院",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/kakuka/kigyou/hospital_firstaid.html",
+        "title": "救急外来のご案内とお願い"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "町立八丈病院",
+        "contactPhone": "04996-2-1188",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1001511",
+        "contactAddress": "東京都八丈島八丈町三根26番地11"
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM45",
+        "organization": "3000020134015",
+        "compartment": "町立八丈病院",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "八丈町の妊娠・出産に関する相談",
+        "shortName": "妊婦相談"
+      },
+      "summary": "福祉健康課保健師が個別相談に対応",
+      "description": "④妊婦相談\n【対象】妊婦とその家族\n【相談先】福祉健康課保健係 ℡ 04996-2-5570\n子ども家庭支援センター ℡ 04996-2-4300\n町立八丈病院（産婦人科） ℡ 04996-2-1188",
+      "target": {
+        "targetPersons": "妊婦とその家族",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "http://www.town.hachijo.tokyo.jp/kokasen/wp-content/uploads/2016/04/6ffc5a0436b28d855f1d36e25bd6c2bd.pdf",
+        "title": "はちじょう子育てガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係,子ども家庭支援センター,町立八丈病院（産婦人科）",
+        "contactPhone": "04996-2-5570,04996-2-4300,04996-2-1188",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM47",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係,子ども家庭支援センター,町立八丈病院（産婦人科）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2016-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊娠・出産に関するその他のこと",
+        "shortName": "不妊・不育ホットライン"
+      },
+      "summary": "不妊、不育に悩む夫婦に対して、専門のカウンセラーが相談を行っています。",
+      "description": "⑥不妊・不育ホットライン\n不妊、不育に悩む夫婦に対して、専門のカウンセラーが相談を行っています。\n【相談日】毎週火曜日 午前 10 時～午後 4 時まで（祝日、年末年始を除く）\n【お問合せ先】 ℡ 03-3235-7455",
+      "target": {
+        "targetPersons": "不妊、不育に悩む夫婦",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "専門のカウンセラーが相談を行っています。",
+        "monetarySupport": null,
+        "materiallySupport": "専門のカウンセラーが相談を行っています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "16:00",
+        "condiutilizationConditionstions": "毎週火曜日 午前 10 時～午後 4 時まで（祝日、年末年始を除く）"
+      },
+      "specificDate": null,
+      "holiday": "祝日、年末年始",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "http://www.town.hachijo.tokyo.jp/kokasen/wp-content/uploads/2016/04/6ffc5a0436b28d855f1d36e25bd6c2bd.pdf",
+        "title": "はちじょう子育てガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": "03-3235-7455",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM48",
+        "organization": "3000020134015",
+        "compartment": null,
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2016-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "離乳食教室",
+        "shortName": "もぐもぐ離乳食"
+      },
+      "summary": "生後7~11か月前後のお子さんとその保護者を対象に、離乳食を始める時のポイントやすすめ方についての講座を開催しています。離乳食のいろいろな悩みに栄養士がお答えします。また、離乳食の作り方の実演や試食もあります。",
+      "description": "①もぐもぐ離乳食\nお子さまに時期に合った離乳食を調理、試食を行います。\n【開催日】年3 回（広報やホームページでお知らせします。）\n【対象】7～11か月児とその保護者\n【必要なもの】母子健康手帳、エプロン\n【会場】保健福祉センター\n\n※子どもの健康相談、子どもの食育は事前に電話予約が必要です。\n参加希望の際は、必ずお問合せください。\n【お問合せ先】福祉健康課保健係 ℡ 04996-2-5570",
+      "target": {
+        "targetPersons": "7～11か月児とその保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 11
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 7
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "お子さまに時期に合った離乳食を調理、試食を行います。",
+        "monetarySupport": null,
+        "materiallySupport": "お子さまに時期に合った離乳食を調理、試食を行います。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "年 3 回（広報やホームページでお知らせします。）"
+      },
+      "implementationPlace": {
+        "implementationName": "保健福祉センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "※子どもの健康相談、子どもの食育は事前に電話予約が必要です。\n参加希望の際は、必ずお問合せください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳、エプロン",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "http://www.town.hachijo.tokyo.jp/kokasen/wp-content/uploads/2016/04/6ffc5a0436b28d855f1d36e25bd6c2bd.pdf",
+        "title": "はちじょう子育てガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM798",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2016-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法、食育基本法",
+        "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）、法第5条（子どもの食育における保護者、教育関係者等の役割）、21条 （地域における食生活の改善のための取組の推進）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自立支援医療制度（精神通院医療）",
+        "shortName": "自立支援医療（精神通院医療）"
+      },
+      "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+      "description": "【必要書類】 詳細はお問合せください。",
+      "target": {
+        "targetPersons": "精神疾患で通院治療を受けている方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "医療費、薬代の自己負担分を助成します。",
+        "monetarySupport": "医療費、薬代の自己負担分を助成します。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "福祉健康課障がい福祉係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/publication/kosodate.pdf",
+        "title": "はちじょう子育てガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課障がい福祉係 ",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM824",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課障がい福祉係 ",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2025-02-26",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律",
+        "regulationArticle": "第58条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "025",
+          "027"
+        ],
+        "targetCode": [
+          "087",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

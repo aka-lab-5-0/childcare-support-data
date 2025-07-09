@@ -1,0 +1,3316 @@
+{
+  "version": "2025-07-09T05:55:17.821Z",
+  "areaCode": "132101",
+  "areaName": "小金井市",
+  "category": "medical",
+  "count": 25,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "図書館の児童サービス（ブックスタートなど）",
+        "shortName": "ブックスタート"
+      },
+      "summary": "ブックスタートとは、赤ちゃんとその保護者に絵本をプレゼントし、絵本を開く楽しい体験とともに、心ふれあうきっかけをつくる活動です。",
+      "description": "保健センターでの３～４か月検診時に、赤ちゃんと絵本を介してふれあい、楽しいひとときを持つことを支援するため、ブックスタート事業を行っています。\n詳しくはこども家庭センターにお問い合わせください。\nおしらせ;https://www.library.koganei.tokyo.jp/kids/news/",
+      "target": {
+        "targetPersons": "３～４か月",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": 3
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "保健センターでの３～４か月検診時"
+      },
+      "support": {
+        "description": "保健センターでの３～４か月検診時に、赤ちゃんと絵本を介してふれあい、楽しいひとときを持つことを支援するため、ブックスタート事業を行っています。\n詳しくはこども家庭センターにお問い合わせください。",
+        "monetarySupport": null,
+        "materiallySupport": "保健センターでの３～４か月検診時に、赤ちゃんと絵本を介してふれあい、楽しいひとときを持つことを支援するため、ブックスタート事業を行っています。\n詳しくはこども家庭センターにお問い合わせください。"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "保健センターでの３～４か月検診時"
+      },
+      "implementationPlace": {
+        "implementationName": "保健センター",
+        "implementationAddress": "保健センター　小金井市貫井北町5丁目18番18号"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "保健センターでの３～４か月検診時"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "保健センターでの３～４か月検診時",
+      "procedurePersons": "保健センターでの３～４か月検診時",
+      "procedureMethod": "詳しくはこども家庭センターにお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "詳しくはこども家庭センターにお問い合わせください。",
+      "relatedLink": [
+        {
+          "uri": "https://www.library.koganei.tokyo.jp/kids/tabid192.html",
+          "title": "おとなの方へ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.library.koganei.tokyo.jp/kids/tabid192.html",
+        "title": "おとなの方へ"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健係",
+        "contactPhone": "042-321-6296",
+        "contactEx": null,
+        "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840015",
+        "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM105",
+        "organization": "3000020132101",
+        "compartment": "こども家庭センター母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "第4次小金井市子ども読書活動推進計画",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て支援拠点・地域子育て支援センター",
+        "shortName": "こども家庭センター"
+      },
+      "summary": "小金井市では市内のこども家庭センターなどを子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+      "description": "こども家庭センター\n更新日：2024年5月28日\n\n　平成16年1月に開設した子ども家庭支援センターでは、子どもとそのご家庭を支援する地域の子育て支援機関として、相談事業や親子あそびひろばの運営を行ってきました。令和6年4月1日から、これまでの子ども家庭支援センターに母子保健事業を統合し、新たにこども家庭センターとして開設しました。\n　こども家庭センターでは、妊娠期から子育て期にわたる相談支援機能を一層充実させ、切れ目のない子育て支援を目指します。\n　「初めての妊娠で不安を感じている」「子どもの発育が気になる」「身近に子育ての相談できる人がいない」など、さまざまなご相談をお受けし、助言やサービスの紹介を行います。どうぞお気軽にご利用ください。\n\n子育て相談\nこども家庭センターでは、0歳から18歳までの子ども（妊娠期も含む）と、その家庭に関するあらゆる相談をお受けします。\n専門相談（こころの相談）も行っています。詳しくはお問合せください。\n（電話、FAX、面談、ひろばでも相談できます。）\n\n　「こども家庭センター」電話：042-321-3146\n\nこども家庭センター　親子あそびひろば　「ゆりかご」\n外部サイトへリンク　こども家庭センター「ゆりかご」ホームページ（外部サイト）; https://fukushi.unchusha.com/yurikago/\n\nどんなことをしているところ？\n「ひろばでの自由遊び」、「子育て講座」など活動や予定をご案内しています。\n（開館時間　火曜から土曜　午前10時から午後4時（年末年始、祝日を除く））\n親子あそびびろば「ゆりかご」のご利用について; https://www.city.koganei.lg.jp/smph/kosodatekyoiku/shisetsu/kodomokateisiensenta/yurikago-yoyaku1001.htmlをご確認ください。\n\n https://www.city.koganei.lg.jp/smph/kosodatekyoiku/shisetsu/kodomokateisiensenta/kodomosien.html\n\n「ゆりかご」電話：042-321-3141（直通）\n\n「ゆりかご」のひろばをご紹介\nちいさな子が遊ぶスペース、車好き、おままごと好き、動くの大好きな子たちがそれぞれ遊べるスペースがあります。のぞいてみてください。\n\n こども家庭センター　見取り図（PDF：167KB）; https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kodomosien.files/center.pdf\n\n注記：新型コロナウイルス感染拡大防止のため、館内では授乳・水分補給以外の飲食はできません。\n\n子育て支援サービス\n「育児支援ヘルパー」「子どもショートステイ」「ファミリー・サポート・センター」等、市内各種子育て情報については「子育て支援情報」; https://www.city.koganei.lg.jp/smph/kosodatekyoiku/434/kosodatesien/kosodatesienjouhou.htmlへ。\n「妊婦面談」「新生児訪問」「産後ケア」等、母子保健の情報については「母子保健事業; https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/bosihokenjigyo/index.html」へ。\n\n虐待相談・通報\n虐待かな？と思ったら、迷わずご連絡ください。\n\nこども家庭センター（市虐待相談窓口）\n　　　電話：042-321-3146\n　　　（月曜から金曜　午前8時30分から午後5時、土曜　午前9時から午後5時）\n\n児童相談所虐待対応ダイヤル（緊急時）\n　　　電話：189（いちはやく）　詳細は「児童相談所虐待対応ダイヤルについて; https://www.city.koganei.lg.jp/smph/kosodatekyoiku/shisetsu/ichihayakushuuchi.html」へ。\n\n小平児童相談所（市担当児童相談所）\n　　　電話：042-467-3711\n　　　（月曜から金曜　午前9時から午後5時45分）\n\n児童相談センター（上記以外、夜間・休日対応）\n　　　電話：03-5937-2330\n\n小金井警察署（緊急時）\n　　　電話：042-381-0110\n\n要保護児童対策地域協議会\n「支援の輪をつくり子どもを虐待から守りましょう」\n\n要保護児童対策地域協議会は、虐待・養育困難・非行などで支援を必要としている児童に対して、関係機関が連携して支援することを目的につくられました。\nネットワークを強化し、小金井市の子どもたちを支援していきましょう。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "こども家庭センター",
+        "implementationAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://fukushi.unchusha.com/yurikago/",
+          "title": "こども家庭センター「ゆりかご」ホームページ（外部サイト）"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/smph/kosodatekyoiku/shisetsu/kodomokateisiensenta/yurikago-yoyaku1001.html",
+          "title": "親子あそびびろば「ゆりかご」のご利用について"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kodomosien.files/center.pdf",
+          "title": "「子育て支援情報」"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/smph/kosodatekyoiku/434/kosodatesien/kosodatesienjouhou.html",
+          "title": "母子保健事業"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/bosihokenjigyo/index.html",
+          "title": "児童相談所虐待対応ダイヤルについて"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/smph/kosodatekyoiku/shisetsu/kodomokateisiensenta/kodomosien.html",
+        "title": "こども家庭センター"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センターこども家庭相談係",
+        "contactPhone": "042-321-3161,042-321-3146",
+        "contactEx": null,
+        "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": "電話：042-321-3161\n電話（相談）：042-321-3146",
+        "zipCode": "1840015",
+        "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM110",
+        "organization": "3000020132101",
+        "compartment": "こども家庭センターこども家庭相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-28",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法、児童福祉法",
+        "regulationArticle": "第6条の3第6項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関する相談窓口一覧",
+        "shortName": "子育てに関する相談窓口一覧"
+      },
+      "summary": "小金井市内の子育てに関する相談窓口の一覧です。",
+      "description": "のびのびこがねいっ子2023（分割版）子育て世代包括支援センター、相談窓口",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/434/kosodatesien/nobinobikoganeikko18.files/2023-11syougakkoutyugakkou.pdf",
+          "title": "11　小学校・中学校など"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/434/kosodatesien/nobinobikoganeikko18.files/2023-6akachangadekitara.pdf",
+          "title": "6　赤ちゃんができたら"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/434/kosodatesien/nobinobikoganeikko18.files/2023-4mosimo.pdf",
+          "title": "4　もしものとき"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/434/kosodatesien/nobinobikoganeikko18.files/2023-13hattatusyougai.pdf",
+          "title": "13　発達・障がい"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/434/kosodatesien/nobinobikoganeikko18.files/2023-12hitorioya.pdf",
+          "title": "12　ひとり親"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/434/kosodatesien/nobinobikoganeikko18.files/2023-10hoikusyoyoutien.pdf",
+          "title": "10　保育所・幼稚園など"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/434/kosodatesien/nobinobikoganeikko18.files/2023-5imadoki.pdf",
+          "title": "5　今どきの子育て"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/434/kosodatesien/nobinobikoganeikko18.files/2023-3odekake.pdf",
+          "title": "3　お出かけ情報（マップ・施設情報）"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/434/kosodatesien/nobinobikoganeikko18.files/2023-1hyousimokuji.pdf",
+          "title": "1　表紙、もくじ、巻頭特集"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/434/kosodatesien/nobinobikoganeikko18.files/2023-9shien.pdf",
+          "title": "9　子育て支援情報"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/434/kosodatesien/nobinobikoganeikko18.files/2023-8houkatusoudan.pdf",
+          "title": "8　子育て世代包括支援センター、相談窓口"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/434/kosodatesien/nobinobikoganeikko18.files/nobinobi2023.pdf",
+          "title": "子育てに関する総合冊子「のびのびこがねいっ子」\nのびのびこがねいっ子2023（一体版）"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/434/kosodatesien/nobinobikoganeikko18.files/2023-7umaretara.pdf",
+          "title": "7　赤ちゃんが生まれたら"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/434/kosodatesien/nobinobikoganeikko18.files/2023-2karenda.pdf",
+          "title": "2　子育てカレンダー"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/434/kosodatesien/nobinobikoganeikko18.files/2023-14sougoudenwa.pdf",
+          "title": "14　総合電話帳"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/smph/kosodatekyoiku/434/kosodatesien/nobinobikoganeikko18.html",
+        "title": "ご活用ください。「小金井市みんなで子育て応援ブック　のびのびこがねいっ子」"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て支援課子育て支援係",
+        "contactPhone": "042-387-9836",
+        "contactEx": null,
+        "contactEmail": "s050599(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM115",
+        "organization": "3000020132101",
+        "compartment": "子育て支援課子育て支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小金井市の子育てに関する相談",
+        "shortName": "子育て総合相談"
+      },
+      "summary": "市や都では、子育て相談をお受けしています。ひとりで抱えずにご利用ください。",
+      "description": "子育て相談 ひとりで抱えずご利用ください。\n更新日：2024年4月1日\n市や都では、子育て相談をお受けしています。ひとりで抱えずにご利用ください。\n\n市の相談窓口\n・こども家庭センター; https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kodomosien.html\n子育て総合相談\n日時：午前8時30分から午後5時（月曜から金曜）、午前9時から午後5時（土曜）\n電話：042-321-3146\n注記：臨床心理士による専門相談「こころの相談」も行っています。電話でもご相談可能です。（月に1回から2回、要予約）\n母子けんこう相談\n日時：午前8時30分から午後5時（月曜から金曜）\n電話：042-321-6296\n\n・親子あそびひろば「ゆりかご」; https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/yurikago-yoyaku1001.html\n日時：午前10時から午後4時（火曜から土曜）\n電話：042-321-3141\n\n注記：各児童館; https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/jidokan/jidoukan2/jidoukanriyou/jidoukan2023.htmlでも相談受けています。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "子育て総合相談\n日時：午前8時30分から午後5時（月曜から金曜）、午前9時から午後5時（土曜）\n電話：042-321-3146\n注記：臨床心理士による専門相談「こころの相談」も行っています。電話でもご相談可能です。（月に1回から2回、要予約）",
+        "monetarySupport": null,
+        "materiallySupport": "子育て総合相談\n日時：午前8時30分から午後5時（月曜から金曜）、午前9時から午後5時（土曜）\n電話：042-321-3146\n注記：臨床心理士による専門相談「こころの相談」も行っています。電話でもご相談可能です。（月に1回から2回、要予約）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "こども家庭センター",
+        "implementationAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "午前8時30分から午後5時（月曜から金曜）、午前9時から午後5時（土曜）"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "臨床心理士による専門相談「こころの相談」も行っています。電話でもご相談可能です。（月に1回から2回、要予約）"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kodomosien.html",
+          "title": "こども家庭センター"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/yurikago-yoyaku1001.html",
+          "title": "親子あそびひろば「ゆりかご」"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/jidokan/jidoukan2/jidoukanriyou/jidoukan2023.html",
+          "title": "各児童館"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kosodatesoudan.html",
+        "title": "子育て相談 ひとりで抱えずご利用ください。"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センターこども家庭相談係",
+        "contactPhone": "042-321-3146",
+        "contactEx": null,
+        "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840015",
+        "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM119",
+        "organization": "3000020132101",
+        "compartment": "こども家庭センターこども家庭相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "新生児訪問",
+        "shortName": "赤ちゃん訪問"
+      },
+      "summary": "新生児（生後４か月まで）を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談・子育てサービス等の紹介などを行います。",
+      "description": "新生児訪問（赤ちゃん訪問）\n更新日：2024年4月1日\n\n小金井市では、生後120日までの赤ちゃんのいるすべての家庭を対象に、助産師や保健師が訪問します。\n赤ちゃんが生まれましたら、「赤ちゃん連絡票（出生通知票）」を必ずご提出ください。\n\n対象\n小金井市に住民登録があり、生後120日までの乳児のいる世帯\n\n内容\n赤ちゃんの体重測定等を行い、発育をご家族と一緒に確認します。\n育児に関する不安や気になることについて伺い、よい方法を一緒に考えます。\n産後のお母さんの体調を伺い、子育て支援情報をお伝えします。\n申込方法\n下記の「赤ちゃん連絡票」をこども家庭センターへお送りください。後日、助産師または保健師が訪問日等について電話をいたします（携帯電話等、こども家庭センター以外の電話番号から連絡する場合もあります。）。\n注記：「赤ちゃん連絡票」は、母子健康手帳の交付時に返信用封筒と併せてお渡ししています。\n\n 赤ちゃん連絡票（出生通知票）（PDF：119KB）;https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/bosihokenjigyo/sinseijihoumon.files/akachiyanrenraku.pdf",
+      "target": {
+        "targetPersons": "小金井市に住民登録があり、生後120日までの乳児のいる世帯",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "小金井市に住民登録があり、生後120日までの乳児のいる世帯"
+      },
+      "support": {
+        "description": "内容\n赤ちゃんの体重測定等を行い、発育をご家族と一緒に確認します。\n育児に関する不安や気になることについて伺い、よい方法を一緒に考えます。\n産後のお母さんの体調を伺い、子育て支援情報をお伝えします。",
+        "monetarySupport": null,
+        "materiallySupport": "赤ちゃんの体重測定等を行い、発育をご家族と一緒に確認します。\n育児に関する不安や気になることについて伺い、よい方法を一緒に考えます。\n産後のお母さんの体調を伺い、子育て支援情報をお伝えします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "下記の「赤ちゃん連絡票」をこども家庭センターへお送りください。後日、助産師または保健師が訪問日等について電話をいたします（携帯電話等、こども家庭センター以外の電話番号から連絡する場合もあります。）。\n注記：「赤ちゃん連絡票」は、母子健康手帳の交付時に返信用封筒と併せてお渡ししています。\n\n 赤ちゃん連絡票（出生通知票）（PDF：119KB）;https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/bosihokenjigyo/sinseijihoumon.files/akachiyanrenraku.pdf",
+      "procedurePersons": null,
+      "procedureMethod": "下記の「赤ちゃん連絡票」をこども家庭センターへお送りください。後日、助産師または保健師が訪問日等について電話をいたします（携帯電話等、こども家庭センター以外の電話番号から連絡する場合もあります。）。\n注記：「赤ちゃん連絡票」は、母子健康手帳の交付時に返信用封筒と併せてお渡ししています。\n\n 赤ちゃん連絡票（出生通知票）（PDF：119KB）;https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/bosihokenjigyo/sinseijihoumon.files/akachiyanrenraku.pdf",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "こども家庭センター母子保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/bosihokenjigyo/sinseijihoumon.html",
+        "title": "新生児訪問（赤ちゃん訪問）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健係",
+        "contactPhone": "042-321-6296",
+        "contactEx": null,
+        "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840015",
+        "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM13",
+        "organization": "3000020132101",
+        "compartment": "こども家庭センター母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第11条（新生児の訪問指導）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "母子父子寡婦福祉資金",
+        "shortName": "母子及び父子福祉資金・女性福祉資金貸付事業"
+      },
+      "summary": "母子家庭の母、父子家庭の父、および寡婦の方の経済的自立や、扶養しているお子さんの福祉増進のために、必要な資金をお貸しする制度です。",
+      "description": "母子及び父子福祉資金・女性福祉資金貸付事業\n更新日：2023年11月17日\n\n償還中の皆様へ\n一部金融機関で納付書による収納取扱停止や収納代理金融機関指定取り消しがございます。\n詳しくはこちらをご確認ください。\n\n 一部金融機関の納付書による収納取扱停止及び収納代理金融機関指定取り消しについて（PDF：42KB）;https://www.city.koganei.lg.jp/kosodatekyoiku/434/kosodatekaigi/fukushishikin.files/syuunoudairishiteinominaoshi.pdf\n\n母子及び父子福祉資金\nひとり親家庭の経済的自立と生活の安定を図るための貸付け制度です。\n貸付にあたっては審査を行います。審査によってはお貸しできない場合があります。\nまずは、小金井市子育て支援課の母子・父子自立支援員にご相談ください。\nご相談後に申込みに必要な書類等をご案内します。\n\n対象者\n　都内に6か月以上住んでいて20歳未満の子を扶養している母子家庭の母または父子家庭の父\n\n貸付金の種類\n　修学資金、就学支度資金、転宅資金、事業開始資金、事業継続資金等。\n\n償還方法\n　償還期間は、貸付金の種類により、3年以内から20年以内です。\n注記：詳しくは、子育て支援課子育て支援係へお問い合わせください。\n\n連帯保証人\n　一定の職業を持ち、また独立して生計を営んでいる方で、この資金に対して他の保証をしていない方が原則一人必要です。\n\n外部サイトへリンク　新規ウィンドウで開きます。東京都母子及び父子福祉資金ホームページ;https://www.fukushi.metro.tokyo.lg.jp/kodomo/hitorioya_shien/keizai/boshi.html\n\n女性福祉資金貸付事業\n女性の経済的自立と生活の安定を図るための貸付け制度です。\n貸付にあたっては審査を行います。審査によってはお貸しできない場合があります。\nまずは、小金井市子育て支援課の母子・父子自立支援員にご相談ください。\nご相談後に申込みに必要な書類等をご案内します。\n\n対象者\n　都内に6か月以上お住いの配偶者がいない女性で\n　1.親・子・兄弟姉妹などを扶養している方（所得制限なし）\n　2.親・子・兄弟姉妹などを扶養していない方は年間所得が2,036,000円以下で次のいずれかに該当する方\n　　（1）かつて母子家庭の母として子を扶養していたことのある方\n　　（2）婚姻歴のある40歳以上の方\n\n貸付金の種類\n　修学資金、就学支度資金、転宅資金、事業開始資金、事業継続資金等。\n\n償還方法\n　償還期間は、貸付金の種類により、3年以内から20年以内です。\n注記：詳しくは、子育て支援課子育て支援係へお問い合わせください。\n\n保証人\n　独立して生計を営んでいる方で、この資金に対して他の保証をしていない方が原則一人必要です。\n\n外部サイトへリンク　新規ウィンドウで開きます。東京都女性福祉資金ホームページ;https://www.fukushi.metro.tokyo.lg.jp/kodomo/hitorioya_shien/keizai/zyosei.html",
+      "target": {
+        "targetPersons": "都内に6か月以上住んでいて20歳未満の子を扶養している母子家庭の母または父子家庭の父",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "修学資金、就学支度資金、転宅資金、事業開始資金、事業継続資金等。",
+        "monetarySupport": "修学資金、就学支度資金、転宅資金、事業開始資金、事業継続資金等。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": "連帯保証人\n　一定の職業を持ち、また独立して生計を営んでいる方で、この資金に対して他の保証をしていない方が原則一人必要です。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "貸付にあたっては審査を行います。審査によってはお貸しできない場合があります。\nまずは、小金井市子育て支援課の母子・父子自立支援員にご相談ください。\nご相談後に申込みに必要な書類等をご案内します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "子育て支援課子育て支援係",
+      "relatedLink": [
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/hitorioya_shien/keizai/boshi.html",
+          "title": "東京都母子及び父子福祉資金ホームページ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/smph/kosodatekyoiku/434/kosodatekaigi/fukushishikin.html",
+        "title": "母子及び父子福祉資金・女性福祉資金貸付事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て支援課子育て支援係",
+        "contactPhone": "042-387-9836",
+        "contactEx": null,
+        "contactEmail": "s050599(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM28",
+        "organization": "3000020132101",
+        "compartment": "子育て支援課手当助成係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-11-17",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子及び父子並びに寡婦福祉法",
+        "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "両親学級"
+      },
+      "summary": "妊婦さんとそのご家族が安心して赤ちゃんを迎えられるように、小金井市では助産師、保健師、管理栄養士、歯科衛生士などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+      "description": "両親学級\n更新日：2024年4月1日\n\n対象\n初めて出産する妊婦さんとパートナーの方\n（妊婦さん・パートナーの方が同日に参加する場合に限り、2人で参加可能です。別々の日程でのご参加はできません。）\n\n注記：妊娠週数は、概ね16週から27週を目安にご参加ください。それ以外の週数でもご参加可能です。\n注記：令和4年度に1人しか参加できなかったため、参加していない方が1人で参加する場合は受付いたします。ただし、第2子以降の出産の場合は対象外です。\n\n会場\n小金井市保健センター\n（武蔵小金井駅北口　5番バス乗り場から、京王バス小平団地行き「学芸大正門」下車すぐ）\n\n注記：駐車場の数は限りがありますので、公共交通機関のご利用をお願いいたします。\n\n持ち物\n母子健康手帳、筆記用具、A4サイズのテキスト等を配布しますので資料が入るカバンや袋\n\n注記：体温調節のできる服装でお越しください。\n注記：保健センター内に売店や自動販売機はございませんので、必要な方は飲食物をお持ちください。\n\n申込方法\n原則、実施日の前月1日午前8時30分（1日が土曜・日曜・祝日の場合は翌開庁日）より、電話で受け付けます。\n受付開始日は、各回ごとに市報でもお知らせします。\n\n内容\n沐浴実習、助産師・保健師・管理栄養士・歯科衛生士による講義\n注記：沐浴実習は、ご家族でどちらか1人の体験となります。\n\n実施日\nhttps://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/bosihokenjigyo/ryousin.html\n時間\n当日、検温や手の消毒等を行いますので、開始時刻前にはお越しいただくようお願いします。\nまた、参加人数や進行状況により、終了時間が前後する場合がございます。\n\n土曜日\n午前9時30分から正午頃まで\n\n注記：受付は午前9時15分から行います。\n\n平日\n午前10時から午後0時30分頃まで\n\n注記：受付は午前9時45分から行います。\n\n定員（申込順）\n各回44人\n\n両親学級の内容を紹介します\n両親学級でお配りしている資料や、沐浴のやり方等を紹介しています。ぜひ参考にしてみてください。（「両親学級の内容をご紹介します」のページへ。）;https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/bosihokenjigyo/ryoushingakkyuusiryo.html\nまた、ご不明な点や相談したいことなどがありましたらこども家庭センターまでご連絡ください。\n\nオンライン　プレファミリー講座（旧両親学級）について\n東京都看護協会がオンラインによるプレファミリー講座を実施しております。\n\n外部サイトへリンク　新規ウィンドウで開きます。プレファミリー講座のページ;https://www.tna.or.jp/tomin/jisedai/parentsclass/about/",
+      "target": {
+        "targetPersons": "初めて出産する妊婦さんとパートナーの方\n（妊婦さん・パートナーの方が同日に参加する場合に限り、2人で参加可能です。別々の日程でのご参加はできません。）\n\n注記：妊娠週数は、概ね16週から27週を目安にご参加ください。それ以外の週数でもご参加可能です。\n注記：令和4年度に1人しか参加できなかったため、参加していない方が1人で参加する場合は受付いたします。ただし、第2子以降の出産の場合は対象外です。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "小金井市保健センター",
+        "implementationAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "capacity": "各回44人",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "当日、検温や手の消毒等を行いますので、開始時刻前にはお越しいただくようお願いします。\nまた、参加人数や進行状況により、終了時間が前後する場合がございます。\n\n土曜日\n午前9時30分から正午頃まで\n\n注記：受付は午前9時15分から行います。\n\n平日\n午前10時から午後0時30分頃まで\n\n注記：受付は午前9時45分から行います。"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "原則、実施日の前月1日午前8時30分（1日が土曜・日曜・祝日の場合は翌開庁日）より、電話で受け付けます。\n受付開始日は、各回ごとに市報でもお知らせします。",
+      "procedurePersons": null,
+      "procedureMethod": "原則、実施日の前月1日午前8時30分（1日が土曜・日曜・祝日の場合は翌開庁日）より、電話で受け付けます。\n受付開始日は、各回ごとに市報でもお知らせします。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "原則、実施日の前月1日午前8時30分（1日が土曜・日曜・祝日の場合は翌開庁日）より、電話で受け付けます。\n受付開始日は、各回ごとに市報でもお知らせします。"
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳、筆記用具、A4サイズのテキスト等を配布しますので資料が入るカバンや袋\n\n注記：体温調節のできる服装でお越しください。\n注記：保健センター内に売店や自動販売機はございませんので、必要な方は飲食物をお持ちください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "こども家庭センター母子保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/bosihokenjigyo/ryousin.html",
+        "title": "両親学級"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健係",
+        "contactPhone": "042-321-6296",
+        "contactEx": null,
+        "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840015",
+        "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM31",
+        "organization": "3000020132101",
+        "compartment": "こども家庭センター母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+        "shortName": "ファーストバースデーサポート事業"
+      },
+      "summary": "市内在住の1歳を迎えるお子さんがいるご家庭の子育てを応援するために、子育てアンケートを送付し、子育て支援の情報提供やご家庭の困りごと等相談支援を行います。アンケート返信のあった方を対象に、電子ギフトを配付しています。",
+      "description": "ファーストバースデーサポート事業\n更新日：2024年4月1日\n\n市内在住の1歳を迎えるお子さんがいるご家庭の子育てを応援するために、電子ギフトを配付して、子育て支援の情報提供、ご家庭の状況把握や相談支援を行います。\n\n対象\n市内に住所を有する1歳に達する子ども（以下「1歳児」という。）を育てる世帯に属する者\n\n注記：事業開始年度が令和3年度のため、令和2年4月1日生まれ以降の1歳児の方が対象となります。\n\n育児パッケージの内容\n令和6年3月31日以前に１歳を迎えられた対象のお子様\n\n電子ギフト（第1子：1万円、第2子：2万円、第3子以降：3万円）\n\n令和6年4月1日以降に1歳を迎えられた対象のお子様\n\n電子ギフト（第1子：6万円、第2子：7万円、第3子以降：8万円）\n\n注記：第何子の数え方は、申請日時点で、同じ世帯の住民票に住民登録があり、家計を同一にし、養育している18歳未満のお子さんの人数に対し、対象者が何番目の子どもに当たるかで決定します。\n\nまた、東京都発行の「体罰などによらない子育てハンドブック」、「とうきょう子育て応援ブック」等も送付いたします。\n\n配付方法\n（1）対象者へ\n\n　 　こども家庭センターよりお知らせ\n\n　　「子育てアンケート」のご案内を送付します。\n\n　　 注記：1歳に達する月の月末に対象者へ送付いたします。\n\n（2）「子育てアンケート」のご案内のＱＲコードからアンケートに回答いただくと電子ギフトが受け取れます。\n\n（3）保健師より「子育てアンケート」の内容に応じて、お電話にて子育て相談・子育てサービスの情報提供を行 います。\n\n ファーストバースデーサポート事業チラシ（PDF：125KB）;https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/bosihokenjigyo/D0506153943495.files/fasutobas6.4.pdf",
+      "target": {
+        "targetPersons": "市内に住所を有する1歳に達する子ども（以下「1歳児」という。）を育てる世帯に属する者\n注記：事業開始年度が令和3年度のため、令和2年4月1日生まれ以降の1歳児の方が対象となります。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "事業開始年度が令和3年度のため、令和2年4月1日生まれ以降の1歳児の方が対象となります。"
+      },
+      "support": {
+        "description": "令和6年3月31日以前に１歳を迎えられた対象のお子様\n\n電子ギフト（第1子：1万円、第2子：2万円、第3子以降：3万円）\n\n令和6年4月1日以降に1歳を迎えられた対象のお子様\n\n電子ギフト（第1子：6万円、第2子：7万円、第3子以降：8万円）\n\n注記：第何子の数え方は、申請日時点で、同じ世帯の住民票に住民登録があり、家計を同一にし、養育している18歳未満のお子さんの人数に対し、対象者が何番目の子どもに当たるかで決定します。\n\nまた、東京都発行の「体罰などによらない子育てハンドブック」、「とうきょう子育て応援ブック」等も送付いたします。",
+        "monetarySupport": "令和6年3月31日以前に１歳を迎えられた対象のお子様\n\n電子ギフト（第1子：1万円、第2子：2万円、第3子以降：3万円）\n\n令和6年4月1日以降に1歳を迎えられた対象のお子様\n\n電子ギフト（第1子：6万円、第2子：7万円、第3子以降：8万円）",
+        "materiallySupport": "東京都発行の「体罰などによらない子育てハンドブック」、「とうきょう子育て応援ブック」等も送付いたします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "（1）対象者へ\n\n　 　こども家庭センターよりお知らせ\n\n　　「子育てアンケート」のご案内を送付します。\n\n　　 注記：1歳に達する月の月末に対象者へ送付いたします。\n\n（2）「子育てアンケート」のご案内のＱＲコードからアンケートに回答いただくと電子ギフトが受け取れます。\n\n（3）保健師より「子育てアンケート」の内容に応じて、お電話にて子育て相談・子育てサービスの情報提供を行います。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "こども家庭センター母子保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/bosihokenjigyo/D0506153943495.html",
+        "title": "ファーストバースデーサポート事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健係",
+        "contactPhone": "042-321-6296",
+        "contactEx": null,
+        "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840015",
+        "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM34",
+        "organization": "3000020132101",
+        "compartment": "こども家庭センター母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小金井市の妊娠・出産に関する相談",
+        "shortName": "子育て総合相談"
+      },
+      "summary": "市や都では、子育て相談をお受けしています。ひとりで抱えずにご利用ください。",
+      "description": "子育て相談 ひとりで抱えずご利用ください。\n更新日：2024年4月1日\n市や都では、子育て相談をお受けしています。ひとりで抱えずにご利用ください。\n\n市の相談窓口\n・こども家庭センター;https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kodomosien.html\n子育て総合相談\n日時：午前8時30分から午後5時（月曜から金曜）、午前9時から午後5時（土曜）\n電話：042-321-3146\n注記：臨床心理士による専門相談「こころの相談」も行っています。電話でもご相談可能です。（月に1回から2回、要予約）\n母子けんこう相談\n日時：午前8時30分から午後5時（月曜から金曜）\n電話：042-321-6296\n\n・親子あそびひろば「ゆりかご」;https://fukushi.unchusha.com/yurikago/\n日時：午前10時から午後4時（火曜から土曜）\n電話：042-321-3141\n\n注記：各児童館;https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/jidokan/jidoukan2/jidoukanriyou/jidoukan2023.htmlでも相談受けています。\n\n都の電話・ライン相談;https://www.city.koganei.lg.jp/kosodatekyoiku/434/tokyoLINEsoudan.html\n・LINE相談　子ゴコロ―親ゴコロ相談@東京\n日時：平日は午前9時から午後11時\n　　　土曜・日曜・祝日は午前9時から午後5時\n注記：平日の受付は午後10時30分まで\n\n・よいこに電話相談室\n日時：平日は午前9時から午後9時\n　　　土曜・日曜・祝日は午前9時から午後5時\n電話：03-3366-4152\n注記：聴覚言語障がい者用FAX：03-3366-6036\n\n・体罰などによらない子育てについて\n　東京都では、体罰によらない子育てを推進しています。時間や心に余裕がないときはイライラしてしまうことがありますね。そのイライラを上手く逃すヒントが載っています。\n東京OSEKKAI化計画　「体罰などによらない子育てって、何？」（外部サイト）;https://www.fukushi.metro.tokyo.lg.jp/osekkai//taibatsuhabatsu/",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "日時：午前8時30分から午後5時（月曜から金曜）、午前9時から午後5時（土曜）"
+      },
+      "implementationPlace": {
+        "implementationName": "こども家庭センター",
+        "implementationAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "午前8時30分から午後5時（月曜から金曜）、午前9時から午後5時（土曜）"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "こども家庭センター",
+      "relatedLink": [
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/osekkai//taibatsuhabatsu/",
+          "title": "「体罰などによらない子育てって、何？」"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/434/tokyoLINEsoudan.html",
+          "title": "都の電話・ライン相談"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kosodatesoudan.html",
+        "title": "子育て相談 ひとりで抱えずご利用ください。"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センターこども家庭相談係",
+        "contactPhone": "042-321-3161",
+        "contactEx": null,
+        "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840015",
+        "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM47",
+        "organization": "3000020132101",
+        "compartment": "こども家庭センターこども家庭相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月未満児）",
+        "shortName": "「3から4か月児・1歳6か月児・3歳児健康診査」"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として3ら4か月児健康診査を実施しています。",
+      "description": "乳幼児健診\n更新日：2024年4月22日\n\n健康診査を実施し、疾病の早期発見を図るとともに、乳幼児の健全育成及び保護者への育児支援を図ります。小金井市では、3から4か月児、6から7か月児、9から10か月児、1歳6か月児、3歳児の計5回公費で受診できます。\n\n「3から4か月児・1歳6か月児・3歳児健康診査」\n　対象のお子さまには、健診実施月の前々月下旬頃にお知らせをお送りします。\n指定された日時での受診が難しい方はこども家庭センターまでお問い合わせください。\n\n 令和6年度乳幼児健康診査日程表（PDF：168KB）;https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/bosihokenjigyo/nyuuyoujikensin.files/r0604nyukennittei.pdf\n\n「6から7か月児・9から10か月児健康診査」\n\n　該当の月齢の間に、受診票と母子健康手帳をもって都内契約医療機関で受診します。\n6から7か月健診は、7か月児中まで、9から10か月児健診は、10か月児中まで受診できます。\n（受診期間の例：4月10日生まれの場合、6から7か月児健診は10月10日から12月9日の間で受診できます）\n\n　受診票は、3から4か月児健診の受診票と一緒に郵送しています。受診票をお持ちでない方は、こども家庭センターまでお問い合わせください。\n\n 6・9か月児健診小金井市内実施医療機関一覧（PDF：171KB）;https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/bosihokenjigyo/nyuuyoujikensin.files/69kennsinnkikan.pdf",
+      "target": {
+        "targetPersons": "3から4か月児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": 3
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "3から4か月児"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "対象のお子さまには、健診実施月の前々月下旬頃にお知らせをお送りします。\n指定された日時での受診が難しい方はこども家庭センターまでお問い合わせください。"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "対象のお子さまには、健診実施月の前々月下旬頃にお知らせをお送りします。\n指定された日時での受診が難しい方はこども家庭センターまでお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "こども家庭センター母子保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/bosihokenjigyo/nyuuyoujikensin.html",
+        "title": "乳幼児健診"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健係",
+        "contactPhone": "042-321-6296",
+        "contactEx": null,
+        "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840015",
+        "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM49",
+        "organization": "3000020132101",
+        "compartment": "こども家庭センター母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-22",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "「6から7か月児・9から10か月児健康診査」"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として6か月から７か月児及び9か月から10か月児を対象に医療機関にて乳幼児健康診査を実施しています。",
+      "description": "乳幼児健診\n更新日：2024年4月22日\n\n健康診査を実施し、疾病の早期発見を図るとともに、乳幼児の健全育成及び保護者への育児支援を図ります。小金井市では、3から4か月児、6から7か月児、9から10か月児、1歳6か月児、3歳児の計5回公費で受診できます。\n\n「3から4か月児・1歳6か月児・3歳児健康診査」\n　対象のお子さまには、健診実施月の前々月下旬頃にお知らせをお送りします。\n指定された日時での受診が難しい方はこども家庭センターまでお問い合わせください。\n\n 令和6年度乳幼児健康診査日程表（PDF：168KB）;https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/bosihokenjigyo/nyuuyoujikensin.files/r0604nyukennittei.pdf\n\n「6から7か月児・9から10か月児健康診査」\n\n　該当の月齢の間に、受診票と母子健康手帳をもって都内契約医療機関で受診します。\n6から7か月健診は、7か月児中まで、9から10か月児健診は、10か月児中まで受診できます。\n（受診期間の例：4月10日生まれの場合、6から7か月児健診は10月10日から12月9日の間で受診できます）\n\n　受診票は、3から4か月児健診の受診票と一緒に郵送しています。受診票をお持ちでない方は、こども家庭センターまでお問い合わせください。\n\n 6・9か月児健診小金井市内実施医療機関一覧（PDF：171KB）;https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/bosihokenjigyo/nyuuyoujikensin.files/69kennsinnkikan.pdf",
+      "target": {
+        "targetPersons": "6から7か月児・９から10か月児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "6から7か月児・9から10か月児"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "該当の月齢の間に、受診票と母子健康手帳をもって都内契約医療機関で受診します。\n6から7か月健診は、7か月児中まで、9から10か月児健診は、10か月児中まで受診できます。\n（受診期間の例：4月10日生まれの場合、6から7か月児健診は10月10日から12月9日の間で受診できます）"
+      },
+      "implementationPlace": {
+        "implementationName": "都内契約医療機関",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "該当の月齢の間に、受診票と母子健康手帳をもって都内契約医療機関で受診します。\n6から7か月健診は、7か月児中まで、9から10か月児健診は、10か月児中まで受診できます。\n（受診期間の例：4月10日生まれの場合、6から7か月児健診は10月10日から12月9日の間で受診できます）\n\n　受診票は、3から4か月児健診の受診票と一緒に郵送しています。受診票をお持ちでない方は、こども家庭センターまでお問い合わせください。",
+      "procedurePersons": null,
+      "procedureMethod": "該当の月齢の間に、受診票と母子健康手帳をもって都内契約医療機関で受診します。\n6から7か月健診は、7か月児中まで、9から10か月児健診は、10か月児中まで受診できます。\n（受診期間の例：4月10日生まれの場合、6から7か月児健診は10月10日から12月9日の間で受診できます）\n\n　受診票は、3から4か月児健診の受診票と一緒に郵送しています。受診票をお持ちでない方は、こども家庭センターまでお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "受診票と母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "こども家庭センター母子保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/bosihokenjigyo/nyuuyoujikensin.html",
+        "title": "乳幼児健診"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健係",
+        "contactPhone": "042-321-6296",
+        "contactEx": null,
+        "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840015",
+        "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM50",
+        "organization": "3000020132101",
+        "compartment": "こども家庭センター母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-22",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "1歳6か月児健康診査",
+        "shortName": "「3から4か月児・1歳6か月児・3歳児健康診査」"
+      },
+      "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。小金井市では1歳6か月児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。ことばや理解の様子を確認し、必要に応じて心理士等とこどもの成長発達について相談ができます。",
+      "description": "乳幼児健診\n更新日：2024年4月22日\n\n健康診査を実施し、疾病の早期発見を図るとともに、乳幼児の健全育成及び保護者への育児支援を図ります。小金井市では、3から4か月児、6から7か月児、9から10か月児、1歳6か月児、3歳児の計5回公費で受診できます。\n\n「3から4か月児・1歳6か月児・3歳児健康診査」\n　対象のお子さまには、健診実施月の前々月下旬頃にお知らせをお送りします。\n指定された日時での受診が難しい方はこども家庭センターまでお問い合わせください。\n\n 令和6年度乳幼児健康診査日程表（PDF：168KB）;https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/bosihokenjigyo/nyuuyoujikensin.files/r0604nyukennittei.pdf\n\n「6から7か月児・9から10か月児健康診査」\n\n　該当の月齢の間に、受診票と母子健康手帳をもって都内契約医療機関で受診します。\n6から7か月健診は、7か月児中まで、9から10か月児健診は、10か月児中まで受診できます。\n（受診期間の例：4月10日生まれの場合、6から7か月児健診は10月10日から12月9日の間で受診できます）\n\n　受診票は、3から4か月児健診の受診票と一緒に郵送しています。受診票をお持ちでない方は、こども家庭センターまでお問い合わせください。\n\n 6・9か月児健診小金井市内実施医療機関一覧（PDF：171KB）;https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/bosihokenjigyo/nyuuyoujikensin.files/69kennsinnkikan.pdf",
+      "target": {
+        "targetPersons": "1歳6か月児、",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1歳6か月児"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "対象のお子さまには、健診実施月の前々月下旬頃にお知らせをお送りします。\n指定された日時での受診が難しい方はこども家庭センターまでお問い合わせください。"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "対象のお子さまには、健診実施月の前々月下旬頃にお知らせをお送りします。\n指定された日時での受診が難しい方はこども家庭センターまでお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "こども家庭センター母子保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/bosihokenjigyo/nyuuyoujikensin.html",
+        "title": "乳幼児健診"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健係",
+        "contactPhone": "042-321-6296",
+        "contactEx": null,
+        "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840015",
+        "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM51",
+        "organization": "3000020132101",
+        "compartment": "こども家庭センター母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-22",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "3歳児健康診査",
+        "shortName": "「3から4か月児・1歳6か月児・3歳児健康診査」"
+      },
+      "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。小金井市では3歳児健康診査を実施しています。歯科健診や視力・聴覚・尿検査等を実施し、必要に応じ各種相談に応じています。こどもの成長発達や社会性について、心理士等と相談ができます。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "乳幼児健診\n更新日：2024年4月22日\n\n健康診査を実施し、疾病の早期発見を図るとともに、乳幼児の健全育成及び保護者への育児支援を図ります。小金井市では、3から4か月児、6から7か月児、9から10か月児、1歳6か月児、3歳児の計5回公費で受診できます。\n\n「3から4か月児・1歳6か月児・3歳児健康診査」\n　対象のお子さまには、健診実施月の前々月下旬頃にお知らせをお送りします。\n指定された日時での受診が難しい方はこども家庭センターまでお問い合わせください。\n\n 令和6年度乳幼児健康診査日程表（PDF：168KB）;https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/bosihokenjigyo/nyuuyoujikensin.files/r0604nyukennittei.pdf\n\n「6から7か月児・9から10か月児健康診査」\n\n　該当の月齢の間に、受診票と母子健康手帳をもって都内契約医療機関で受診します。\n6から7か月健診は、7か月児中まで、9から10か月児健診は、10か月児中まで受診できます。\n（受診期間の例：4月10日生まれの場合、6から7か月児健診は10月10日から12月9日の間で受診できます）\n\n　受診票は、3から4か月児健診の受診票と一緒に郵送しています。受診票をお持ちでない方は、こども家庭センターまでお問い合わせください。\n\n 6・9か月児健診小金井市内実施医療機関一覧（PDF：171KB）;https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/bosihokenjigyo/nyuuyoujikensin.files/69kennsinnkikan.pdf",
+      "target": {
+        "targetPersons": "3歳児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "3歳児"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "対象のお子さまには、健診実施月の前々月下旬頃にお知らせをお送りします。\n指定された日時での受診が難しい方はこども家庭センターまでお問い合わせください。"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "対象のお子さまには、健診実施月の前々月下旬頃にお知らせをお送りします。\n指定された日時での受診が難しい方はこども家庭センターまでお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "こども家庭センター母子保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/bosihokenjigyo/nyuuyoujikensin.html",
+        "title": "乳幼児健診"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健係",
+        "contactPhone": "042-321-6296",
+        "contactEx": null,
+        "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840015",
+        "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM52",
+        "organization": "3000020132101",
+        "compartment": "こども家庭センター母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-22",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査",
+        "shortName": "乳幼児歯科相談室"
+      },
+      "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+      "description": "乳幼児歯科相談室\n更新日：2024年3月5日\n\nむし歯予防教室（幼児）\n「お知らせ」\n・令和6年3月7日（木曜）・令和6年3月14日（木曜）・令和6年3月21日（木曜）\n・令和6年4月4日（木曜）・令和6年4月11日（木曜）・令和6年4月18日（木曜）・令和6年4月25日（木曜）\n\n（対象者）\n　1歳から概ね2歳6か月児\n　注記：転入者で年齢を超えている場合はご相談下さい。\n（内容）\n　むし歯予防の話、栄養・食事の話、ブラッシング指導、個別相談など\n　注記：新型コロナウイルス感染症対策のため、一部内容を変更して行っております。\n\n（場所）\n　小金井市保健センター\n\n（申込方法）\n　市報掲載の申込開始日から、電話で健康課までお申し込みください。\n\n歯科健康診査\n「お知らせ」\n・令和6年3月7日（木曜）・令和6年3月14日（木曜）・令和6年3月21日（木曜）\n・令和6年4月4日（木曜）・令和6年4月11日（木曜）・令和6年4月18日（木曜）・令和6年4月25日（木曜）\n\n（対象者）\n　むし歯予防教室を受講した幼児\n\n（内容）\n　歯科健康診査、歯科保健指導、ブラッシング指導、個別相談など\n　注記：新型コロナウイルス感染症対策のため、一部内容を変更して行っております。\n\n（とき）\n　むし歯予防教室と同日実施（むし歯予防教室後、そのまま受診できます。）\n\n（申込方法）\n　むし歯予防教室受講時にお申し込みください。\n\n予防処置\n「お知らせ」\n・令和6年3月4日（月曜）・令和6年3月7日（木曜）・令和6年3月14日（木曜）・令和6年3月21日（木曜）・令和6年3月22日（金曜）・令和6年3月25日（月曜）\n・令和6年4月4日（木曜）・令和6年4月8日（月曜）・令和6年4月11日（木曜）・令和6年4月18日（木曜）・令和6年4月25日（木曜）\n\n（対象者）\n　歯科健康診査受診時に、歯科医師が必要と判断した幼児（希望者）\n\n（内容）\n　必要に応じて、フッ素塗布、フッ化ジアンミン銀溶液塗布、歯石除去、歯口清掃、歯科保健指導など\n　注記：新型コロナウイルス感染症対策のため、一部内容を変更して行っております。\n\n（とき）\n　歯科健康診査受診後、個別に予約してください。\n\n（場所）\n　小金井市保健センター\n\n（申込方法）\n　歯科健康診査受診時にお申し込みください。\n\n むし歯予防教室日程表（PDF：151KB）; https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/sikahokenjigyo/sikasoudansitu.files/r5bosi.pdf\n\n注記：「各種教室」の欄をご覧ください。\n\n 予防処置料金のご案内（PDF：122KB）; https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/sikahokenjigyo/sikasoudansitu.files/YOBOUSYOTIRYOUKINNHYOU.pdf",
+      "target": {
+        "targetPersons": "1歳から概ね2歳6か月児\n注記：転入者で年齢を超えている場合はご相談下さい。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 0
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "むし歯予防教室を受講した幼児"
+      },
+      "support": {
+        "description": "歯科健康診査、歯科保健指導、ブラッシング指導、個別相談など",
+        "monetarySupport": null,
+        "materiallySupport": "歯科健康診査、歯科保健指導、ブラッシング指導、個別相談など"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/sikahokenjigyo/nyuyojisikasodansitu.html"
+      },
+      "implementationPlace": {
+        "implementationName": "小金井市保健センター",
+        "implementationAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "むし歯予防教室（幼児）\n（申込方法）\n　市報掲載の申込開始日から、電話で健康課までお申し込みください。\n歯科健康診査\n（対象者）\n　むし歯予防教室を受講した幼児\n（とき）\n　むし歯予防教室と同日実施（むし歯予防教室後、そのまま受診できます。）\n（申込方法）\n　むし歯予防教室受講時にお申し込みください。",
+      "procedurePersons": null,
+      "procedureMethod": "むし歯予防教室（幼児）\n（申込方法）\n　市報掲載の申込開始日から、電話で健康課までお申し込みください。\n歯科健康診査\n（対象者）\n　むし歯予防教室を受講した幼児\n（とき）\n　むし歯予防教室と同日実施（むし歯予防教室後、そのまま受診できます。）\n（申込方法）\n　むし歯予防教室受講時にお申し込みください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "むし歯予防教室\n　市報掲載の申込開始日から、電話で健康課までお申し込みください。\n歯科健康診査\n　むし歯予防教室受講時にお申し込みください。"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "健康課健康係",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/sikahokenjigyo/sikasoudansitu.files/r5bosi.pdf",
+          "title": "むし歯予防教室日程表"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/sikahokenjigyo/sikasoudansitu.files/YOBOUSYOTIRYOUKINNHYOU.pdf",
+          "title": " 予防処置料金のご案内"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/sikahokenjigyo/sikasoudansitu.html",
+        "title": "乳幼児歯科相談室"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康課健康係",
+        "contactPhone": "042-321-1240",
+        "contactEx": null,
+        "contactEmail": "s050499(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840015",
+        "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM792",
+        "organization": "3000020132101",
+        "compartment": "健康課健康係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-05",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後期間の国民年金保険料免除",
+        "shortName": "産前産後期間の国民年金保険料免除"
+      },
+      "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+      "description": "産前産後期間の国民年金保険料が免除となります¥n更新日：2020年10月19日¥n出産前後の一定期間の国民年金保険料は届出により免除されます。\n¥n出産の範囲は、妊娠85日（4か月）以上の分娩（死産・流産、早産、人工妊娠中絶含む）となります。¥n免除期間¥n出産予定日または出産日が属する月の前月から4か月間（多胎の場合は、出産日または出産予定日が属する月の3か月前から6か月間）¥n産前産後期間として承認された免除期間は、保険料を納付したものとして、老齢年金額に反映されます¥n対象者¥n国民年金第1号被保険者（自営業・自由業・学生・無職の方）¥n必要書類¥nご本人確認書類（マイナンバーカード、運転免許証など）、年金手帳、母子健康手帳、または医療機関が発行した証明書など¥n詳細についてはお問い合わせください¥n申請方法¥n必要書類を持参のうえ直接、保険年金課国民年金係までお越しください。",
+      "target": {
+        "targetPersons": "国民年金第1号被保険者（自営業・自由業・学生・無職の方）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "出産の範囲は、妊娠85日（4か月）以上の分娩（死産・流産、早産、人工妊娠中絶含む）"
+      },
+      "support": {
+        "description": "免除期間¥n出産予定日または出産日が属する月の前月から4か月間（多胎の場合は、出産日または出産予定日が属する月の3か月前から6か月間）¥n産前産後期間として承認された免除期間は、保険料を納付したものとして、老齢年金額に反映されます",
+        "monetarySupport": "免除期間¥n出産予定日または出産日が属する月の前月から4か月間（多胎の場合は、出産日または出産予定日が属する月の3か月前から6か月間）¥n産前産後期間として承認された免除期間は、保険料を納付したものとして、老齢年金額に反映されます",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "必要書類を持参のうえ直接、保険年金課国民年金係までお越しください",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "ご本人確認書類（マイナンバーカード、運転免許証など）、年金手帳、母子健康手帳、または医療機関が発行した証明書など\n詳細についてはお問い合わせください",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "保険年金課国民年金係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/smph/kurashi/426/mennzyonouhuyuuyo/2019-03-27-2.html",
+        "title": "産前産後期間の国民年金保険料が免除となります"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保険年金課国民年金係",
+        "contactPhone": "042-387-9844",
+        "contactEx": null,
+        "contactEmail": "s030499(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM793",
+        "organization": "3000020132101",
+        "compartment": "保険年金課国民年金係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2020-10-19",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民年金法",
+        "regulationArticle": "第88条の2（保険料の納付義務）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "016"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "離乳食教室",
+        "shortName": "離乳食教室"
+      },
+      "summary": "2回食(６～7か月児)、3回食(８～11か月児)、完了食(12か月～1歳3か月児)のお子さんとその保護者を対象に、離乳食のポイントやすすめ方についての講座を開催しています。離乳食のいろいろな悩みに栄養士がお答えします。また、離乳食の作り方の実演や試食もあります。",
+      "description": "食育・栄養教室\n更新日：2024年4月4日\n小金井市では、乳幼児の保護者の方を対象に、食べることの大切さや正しい食知識の普及を図るため食育事業を実施しています。\n\n場所（全講座共通）\n保健センター2階\n\n申込方法（全講座共通）\n市報に掲載の受付開始日から、電話でこども家庭センターへ（全て先着順）\n\n注記：受付は午前8時30分から午後5時までです。\n\n1　離乳食教室\n離乳食の始め方(1回食）につきましては、3‐4か月健診の中で行っています。\n\n日程\nhttps://www.city.koganei.lg.jp/smph/kenkofukuhsi/shokuiku/eiyousoudansitu.html\n\n時間\n2回食：午後2時30分から午後3時45分まで\n3回食：午後1時30分から午後2時45分まで\n完了食：午前9時40分から午前10時25分まで午前10時40分から午前11時25分まで\n対象\n2回食：概ね6か月から7か月児の保護者\n3回食：概ね8か月から11か月児の保護者\n完了食：概ね1歳から1歳3か月児の保護者\n注記：対象児も一緒に参加できますが、対象児以外のお子さんのご参加は安全確保のためご遠慮ください。\n\nその他\n対象児も一緒に参加する場合、保護者と一緒にマットの上でお話を聞いていただく形式となります。\n\n2　こどもクッキング\n日時・対象者\nこどもクッキングに初めて参加する方が対象となります。\n\n令和6年度予定\n|日程|時間|対象者|\n|45485|午前10時から正午まで|3歳から5歳児とその保護者|\n|45553|午後2時から午後4時まで|2歳から3歳児とその保護者|\n|45642|午後2時から午後4時まで|3歳から5歳児とその保護者|\n|45716|午前10時から正午まで|2歳から3歳児とその保護者|\n\n内容\n栄養講義と調理体験、試食",
+      "target": {
+        "targetPersons": "離乳食の始め方(1回食）につきましては、3‐4か月健診の中で行っています。\n2回食：概ね6か月から7か月児の保護者\n3回食：概ね8か月から11か月児の保護者\n完了食：概ね1歳から1歳3か月児の保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "離乳食の始め方(1回食）につきましては、3‐4か月健診の中で行っています。\n2回食：概ね6か月から7か月児の保護者\n3回食：概ね8か月から11か月児の保護者\n完了食：概ね1歳から1歳3か月児の保護者"
+      },
+      "support": {
+        "description": "小金井市では、乳幼児の保護者の方を対象に、食べることの大切さや正しい食知識の普及を図るため食育事業を実施しています。離乳食教室",
+        "monetarySupport": null,
+        "materiallySupport": "離乳食教室"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "日程\nhttps://www.city.koganei.lg.jp/smph/kenkofukuhsi/shokuiku/eiyousoudansitu.html\n時間\n2回食：午後2時30分から午後3時45分まで\n3回食：午後1時30分から午後2時45分まで\n完了食：午前9時40分から午前10時25分まで午前10時40分から午前11時25分まで"
+      },
+      "implementationPlace": {
+        "implementationName": "保健センター2階",
+        "implementationAddress": "小金井市貫井北町5丁目18番18号"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "日程\nhttps://www.city.koganei.lg.jp/smph/kenkofukuhsi/shokuiku/eiyousoudansitu.html\n時間\n2回食：午後2時30分から午後3時45分まで\n3回食：午後1時30分から午後2時45分まで\n完了食：午前9時40分から午前10時25分まで午前10時40分から午前11時25分まで"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "市報に掲載の受付開始日から、電話でこども家庭センターへ（全て先着順）\n注記：受付は午前8時30分から午後5時までです。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": "17:00",
+        "conditions": "8時半～17時"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "こども家庭センター母子保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/kenkofukuhsi/shokuiku/eiyousoudansitu.html",
+        "title": "食育・栄養教室"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健係",
+        "contactPhone": "042-321-6296",
+        "contactEx": null,
+        "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840015",
+        "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM798",
+        "organization": "3000020132101",
+        "compartment": "こども家庭センター母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-04",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法、食育基本法",
+        "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）、法第5条（子どもの食育における保護者、教育関係者等の役割）、21条 （地域における食生活の改善のための取組の推進）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "こども家庭センター",
+        "shortName": "こども家庭センター"
+      },
+      "summary": "小金井市の【こども家庭センター】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+      "description": "こども家庭センター\n\n　平成16年1月に開設した子ども家庭支援センターでは、子どもとそのご家庭を支援する地域の子育て支援機関として、相談事業や親子あそびひろばの運営を行ってきました。これまでの子ども家庭支援センターに母子保健事業を統合し、新たにこども家庭センターとして開設しました。\n　こども家庭センターでは、妊娠期から子育て期にわたる相談支援機能を一層充実させ、切れ目のない子育て支援を目指します。\n　「初めての妊娠で不安を感じている」「子どもの発育が気になる」「身近に子育ての相談できる人がいない」など、さまざまなご相談をお受けし、助言やサービスの紹介を行います。どうぞお気軽にご利用ください。\n\n子育て相談\nこども家庭センターでは、に関するあらゆる相談をお受けします。\n専門相談（こころの相談）も行っています。詳しくはお問合せください。\n（電話、FAX、面談、ひろばでも相談できます。）\n\n「こども家庭センター」電話：042-321-3146\n\n親子あそびひろば　「ゆりかご」\n\nどんなことをしているところ？\n「ひろばでの自由遊び」、「子育て講座」など活動や予定をご案内しています。\n新規ウインドウで開きます。親子あそびびろば「ゆりかご」のご利用について;https://www.city.koganei.lg.jp/smph/kosodatekyoiku/shisetsu/kodomokateisiensenta/yurikago-yoyaku1001.htmlをご確認ください。\n\n「ゆりかご」のひろばをご紹介\nちいさな子が遊ぶスペース、車好き、おままごと好き、動くの大好きな子たちがそれぞれ遊べるスペースがあります。のぞいてみてください。\n\n地域子育て相談事業のご案内\n親子あそびひろば「ゆりかご」では、令和6年9月3日より、専門の子育て支援員による地域子育て相談事業を始めます。ひろばを利用している未就学児親子のほかにも、妊産婦や18歳未満の児童本人、そのご家族からの子育てに関する様々なご相談をお受けします。\n地域のかかりつけ相談機関として、お気軽にご利用ください。\n\n「ゆりかご」電話：042-321-3141（直通）\n\n子育て支援サービス\n「育児支援ヘルパー」「子どもショートステイ」「ファミリー・サポート・センター」等、市内各種子育て情報については「子育て支援情報;https://www.city.koganei.lg.jp/smph/kosodatekyoiku/434/kosodatesien/kosodatesienjouhou.html」へ。\n\n母子保健事業\n「妊婦面談」「新生児訪問」「産後ケア」等、母子保健の情報については「母子保健事業;https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/bosihokenjigyo/index.html」へ\n\n虐待相談・通報\n虐待かな？と思ったら、迷わずご連絡ください。\n\nこども家庭センター（市虐待相談窓口）\n電話：042-321-3146\n　　　（月曜から金曜　午前8時30分から午後5時、土曜　午前9時から午後5時）\n\n児童相談所虐待対応ダイヤル（緊急時）\n電話：189（いちはやく）詳細は「児童相談所虐待対応ダイヤルについて;https://www.city.koganei.lg.jp/smph/kosodatekyoiku/shisetsu/ichihayakushuuchi.html」へ。\n\n小平児童相談所（市担当児童相談所）\n電話：042-467-3711　\n（月曜から金曜　午前9時から午後5時）\n\n児童相談センター（上記以外、夜間・休日対応）\n電話：03-5937-2305\n\n小金井警察署（緊急時）\n電話：042-381-0110\n\n要保護児童対策地域協議会\n「支援の輪をつくり子どもを虐待から守りましょう」\n\n要保護児童対策地域協議会は、虐待・養育困難・非行などで支援を必要としている児童に対して、関係機関が連携して支援することを目的につくられました。\nネットワークを強化し、小金井市の子どもたちを支援していきましょう。",
+      "target": {
+        "targetPersons": "0歳から18歳までの子ども（妊娠期も含む）と、その家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": "2024/04/01",
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "こども家庭センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "開館時間　火曜から土曜　午前10時から午後4時（年末年始、祝日を除く）,月曜から金曜　午前8時30分から午後5時、土曜　午前9時から午後5時"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kodomosien.files/yurikago2024011.pdf",
+          "title": "ゆりかご令和6年11月予定表"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kodomosien.files/center.pdf",
+          "title": "こども家庭センター　見取り図"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/smph/kosodatekyoiku/shisetsu/ichihayakushuuchi.html",
+          "title": "児童相談所虐待対応ダイヤルについて"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/bosihokenjigyo/index.html",
+          "title": "母子保健事業"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/smph/kosodatekyoiku/434/kosodatesien/kosodatesienjouhou.html",
+          "title": "子育て支援情報"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/smph/kosodatekyoiku/shisetsu/kodomokateisiensenta/yurikago-syokuji.html",
+          "title": "ゆりかごでの昼食のご利用について"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kodomosien.files/yurikago2024012.pdf",
+          "title": "ゆりかご令和6年12月予定表"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/smph/kosodatekyoiku/shisetsu/kodomokateisiensenta/yurikago-yoyaku1001.html",
+          "title": "親子あそびびろば「ゆりかご」のご利用について"
+        },
+        {
+          "uri": "https://fukushi.unchusha.com/yurikago/",
+          "title": "親子あそびひろば 「ゆりかご」ホームページ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/smph/kosodatekyoiku/shisetsu/kodomokateisiensenta/kodomosien.html",
+        "title": "こども家庭センター"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センターこども家庭相談係",
+        "contactPhone": "電話：042-321-3161\n電話（相談）：042-321-3146",
+        "contactEx": null,
+        "contactEmail": "s050899@koganei-shi.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840015",
+        "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM799",
+        "organization": "3000020132101",
+        "compartment": "こども家庭センターこども家庭相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/11/28",
+      "odInformation": {
+        "updateDate": "2025/02/12",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第10条の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自立支援医療制度（精神通院医療）",
+        "shortName": "自立支援医療費制度（精神通院医療）"
+      },
+      "summary": "精神疾患のため通院による継続的な治療を受ける場合の負担軽減を図る制度です。通常医療保険では医療費の3割が自己負担となりますが、自立支援医療費制度（精神通院医療）を併用することで、自己負担は原則1割に軽減されます。",
+      "description": "自立支援医療費制度（精神通院医療）\n\n精神疾患のため通院による継続的な治療を受ける場合の負担軽減を図る制度で、通常医療保険では医療費の3割が自己負担となりますが、自立支援医療費制度（精神通院医療）を併用することで、自己負担は原則1割に軽減されます。\n\n制度を利用するためには、申請が必要になります。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "自立支援医療費制度（精神通院医療）を併用した場合、自己負担は原則1割に軽減されます。",
+        "monetarySupport": "自己負担は原則1割に軽減",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "自立生活支援課窓口での申請が必要です。\n申請に基づき東京都で審査を行い、認定された場合は東京都知事から「自立支援医療受給者証（精神通院）」が交付されます。\n受診の際、受給者証に記載されている医療機関、薬局等で「自立支援医療受給者証（精神通院）」を提示してください。",
+      "procedurePersons": null,
+      "procedureMethod": "小金井市自立生活支援課の窓口に、必要書類を提出してください。\n必要書類は申請方法により異なりますので、事前にホームページを確認いただくか、小金井市自立生活支援課お問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "有効期限は原則１年です。更新を希望する場合、有効期限の3か月前から手続できます。"
+      },
+      "electronicSubmission": false,
+      "belongings": "診断書、申請書、医療保険の資格情報がわかるもの、マイナンバーカードその他必要書類。\n必要書類は申請方法により異なりますので、事前にホームページを確認いただくか、小金井市自立生活支援課お問い合わせください。\n申請書・診断書の様式は、自立生活支援課の窓口にあります。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "自立生活支援課",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koganei.lg.jp/kenkofukuhsi/shogaishafukushi/iryohijosei/jiritsu.files/seisin-zi-annai.pdf",
+          "title": " 自立支援医療費（精神通院医療）について（申請のご案内など）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/shogaishafukushi/iryohijosei/jiritsu.html",
+        "title": "自立支援医療費制度（精神通院医療）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "自立生活支援課相談支援係",
+        "contactPhone": "電話：042-387-9841",
+        "contactEx": null,
+        "contactEmail": "s050299@koganei-shi.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM824",
+        "organization": "3000020132101",
+        "compartment": "自立生活支援課相談支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/12/05",
+      "odInformation": {
+        "updateDate": "2025/02/20",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律",
+        "regulationArticle": "第58条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "025",
+          "027"
+        ],
+        "targetCode": [
+          "087",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊産婦向け健診",
+        "shortName": "産婦健康診査（住民税非課税世帯・生活保護世帯）"
+      },
+      "summary": "小金井市では、妊婦健康診査を14回まで無料で受けられる受診票に加えて、超音波検査を５回まで無料で受けられる受診券をお渡ししています。",
+      "description": "1か月児健康診査・産婦健康診査（住民税非課税世帯・生活保護世帯）\n更新日：2024年4月1日\n\n　出産後1か月児の健診を希望される場合は、任意の医療機関で有料での受診となりますが、生活保護または住民税非課税世帯の方は、「保健指導票」の交付を受けることができます。\n　保健指導票を使用すると、指定医療機関で健診や保健指導の一定項目を公費負担で受けることができます。\n\n（対象者）\n住民税非課税世帯または生活保護世帯の産婦・新生児\n（同じ世帯の全員が住民税非課税または生活保護受給の方）\n\n（申請方法）\n　対象となる産婦の方は、次の書類をこども家庭センターにお持ちください。\n（1）　保健指導票交付申請書（用紙はこども家庭センターにあります）\n（2）　世帯分の住民税非課税証明書または生活保護受給証明書\n（3）　母子健康手帳\n\n（指定医療機関）\n都内指定医療機関\n（桜町病院、武蔵野赤十字病院、東京都立多摩総合医療センター、公立昭和病院など。これ以外の医療機関については、こども家庭センターまたは当該医療機関にお問い合わせください。）",
+      "target": {
+        "targetPersons": "住民税非課税世帯または生活保護世帯の産婦・新生児\n（同じ世帯の全員が住民税非課税または生活保護受給の方）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "住民税非課税世帯または生活保護世帯の産婦・新生児\n（同じ世帯の全員が住民税非課税または生活保護受給の方）"
+      },
+      "support": {
+        "description": "出産後1か月児の健診を希望される場合は、任意の医療機関で有料での受診となりますが、生活保護または住民税非課税世帯の方は、「保健指導票」の交付を受けることができます。\n　保健指導票を使用すると、指定医療機関で健診や保健指導の一定項目を公費負担で受けることができます。",
+        "monetarySupport": "出産後1か月児の健診を希望される場合は、任意の医療機関で有料での受診となりますが、生活保護または住民税非課税世帯の方は、「保健指導票」の交付を受けることができます。\n　保健指導票を使用すると、指定医療機関で健診や保健指導の一定項目を公費負担で受けることができます。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "（指定医療機関）\n都内指定医療機関\n（桜町病院、武蔵野赤十字病院、東京都立多摩総合医療センター、公立昭和病院など。これ以外の医療機関については、こども家庭センターまたは当該医療機関にお問い合わせください。）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "出産後1か月児の健診を希望される場合は、任意の医療機関で有料での受診となりますが、生活保護または住民税非課税世帯の方は、「保健指導票」の交付を受けることができます。\n　保健指導票を使用すると、指定医療機関で健診や保健指導の一定項目を公費負担で受けることができます。",
+      "procedurePersons": null,
+      "procedureMethod": "（申請方法）\n　対象となる産婦の方は、次の書類をこども家庭センターにお持ちください。\n（1）　保健指導票交付申請書（用紙はこども家庭センターにあります）\n（2）　世帯分の住民税非課税証明書または生活保護受給証明書\n（3）　母子健康手帳",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "対象となる産婦の方は、次の書類をこども家庭センターにお持ちください。\n（1）　保健指導票交付申請書（用紙はこども家庭センターにあります）\n（2）　世帯分の住民税非課税証明書または生活保護受給証明書\n（3）　母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "こども家庭センター母子保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/bosihokenjigyo/hokensidouhyou.html",
+        "title": "1か月児健康診査・産婦健康診査（住民税非課税世帯・生活保護世帯）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健係",
+        "contactPhone": "042-321-6296",
+        "contactEx": null,
+        "contactEmail": "メールアドレス：s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840015",
+        "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM9",
+        "organization": "3000020132101",
+        "compartment": "こども家庭センター母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小金井市の子育てに関する相談",
+        "shortName": "母子けんこう相談"
+      },
+      "summary": "こども家庭センター母子保健係では、保健師・管理栄養士・歯科衛生士がこども及び妊産婦等の健康に関するご相談をお受けしています。",
+      "description": "子育て相談 ひとりで抱えずご利用ください。\n更新日：2024年4月1日\n市や都では、子育て相談をお受けしています。ひとりで抱えずにご利用ください。\n\n市の相談窓口\n・こども家庭センター; https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kodomosien.html\n子育て総合相談\n日時：午前8時30分から午後5時（月曜から金曜）、午前9時から午後5時（土曜）\n電話：042-321-3146\n注記：臨床心理士による専門相談「こころの相談」も行っています。電話でもご相談可能です。（月に1回から2回、要予約）\n母子けんこう相談\n日時：午前8時30分から午後5時（月曜から金曜）\n電話：042-321-6296\n\n・親子あそびひろば「ゆりかご」; https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/yurikago-yoyaku1001.html\n日時：午前10時から午後4時（火曜から土曜）\n電話：042-321-3141\n\n注記：各児童館; https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/jidokan/jidoukan2/jidoukanriyou/jidoukan2023.htmlでも相談受けています。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "母子けんこう相談\n日時：午前8時30分から午後5時（月曜から金曜）\n電話：042-321-6296",
+        "monetarySupport": null,
+        "materiallySupport": "母子けんこう相談\n日時：午前8時30分から午後5時（月曜から金曜）\n電話：042-321-6296"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "こども家庭センター",
+        "implementationAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:30",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "午前8時30分から午後5時（月曜から金曜）"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kodomosien.html",
+          "title": "こども家庭センター"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/yurikago-yoyaku1001.html",
+          "title": "親子あそびひろば「ゆりかご」"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/jidokan/jidoukan2/jidoukanriyou/jidoukan2023.html",
+          "title": "各児童館"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kosodatesoudan.html",
+        "title": "子育て相談 ひとりで抱えずご利用ください。"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センターこども家庭相談係",
+        "contactPhone": "042-321-3146",
+        "contactEx": null,
+        "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840015",
+        "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+2+UM119",
+        "organization": "3000020132101",
+        "compartment": "こども家庭センターこども家庭相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小金井市の妊娠・出産に関する相談",
+        "shortName": "母子けんこう相談"
+      },
+      "summary": "こども家庭センター母子保健係では、保健師・管理栄養士・歯科衛生士がこども及び妊産婦等の健康に関するご相談をお受けしています。",
+      "description": "子育て相談 ひとりで抱えずご利用ください。\n更新日：2024年4月1日\n市や都では、子育て相談をお受けしています。ひとりで抱えずにご利用ください。\n\n市の相談窓口\n・こども家庭センター;https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kodomosien.html\n子育て総合相談\n日時：午前8時30分から午後5時（月曜から金曜）、午前9時から午後5時（土曜）\n電話：042-321-3146\n注記：臨床心理士による専門相談「こころの相談」も行っています。電話でもご相談可能です。（月に1回から2回、要予約）\n母子けんこう相談\n日時：午前8時30分から午後5時（月曜から金曜）\n電話：042-321-6296\n\n・親子あそびひろば「ゆりかご」;https://fukushi.unchusha.com/yurikago/\n日時：午前10時から午後4時（火曜から土曜）\n電話：042-321-3141\n\n注記：各児童館;https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/jidokan/jidoukan2/jidoukanriyou/jidoukan2023.htmlでも相談受けています。\n\n都の電話・ライン相談;https://www.city.koganei.lg.jp/kosodatekyoiku/434/tokyoLINEsoudan.html\n・LINE相談　子ゴコロ―親ゴコロ相談@東京\n日時：平日は午前9時から午後11時\n　　　土曜・日曜・祝日は午前9時から午後5時\n注記：平日の受付は午後10時30分まで\n\n・よいこに電話相談室\n日時：平日は午前9時から午後9時\n　　　土曜・日曜・祝日は午前9時から午後5時\n電話：03-3366-4152\n注記：聴覚言語障がい者用FAX：03-3366-6036\n\n・体罰などによらない子育てについて\n　東京都では、体罰によらない子育てを推進しています。時間や心に余裕がないときはイライラしてしまうことがありますね。そのイライラを上手く逃すヒントが載っています。\n東京OSEKKAI化計画　外部サイトへリンク　「体罰などによらない子育てって、何？」（外部サイト）;https://www.fukushi.metro.tokyo.lg.jp/osekkai//taibatsuhabatsu/",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": "17:00",
+        "conditions": "午前8時30分から午後5時（月曜から金曜）"
+      },
+      "implementationPlace": {
+        "implementationName": "こども家庭センター",
+        "implementationAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:30",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "午前8時30分から午後5時（月曜から金曜）"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "こども家庭センター",
+      "relatedLink": [
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/osekkai//taibatsuhabatsu/",
+          "title": "「体罰などによらない子育てって、何？」"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/434/tokyoLINEsoudan.html",
+          "title": "都の電話・ライン相談"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kosodatesoudan.html",
+        "title": "子育て相談 ひとりで抱えずご利用ください。"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センターこども家庭相談係",
+        "contactPhone": "042-321-3161",
+        "contactEx": null,
+        "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840015",
+        "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+2+UM47",
+        "organization": "3000020132101",
+        "compartment": "こども家庭センターこども家庭相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小金井市の子育てに関する相談",
+        "shortName": "親子あそびひろば「ゆりかご」"
+      },
+      "summary": "市や都では、子育て相談をお受けしています。ひとりで抱えずにご利用ください。",
+      "description": "子育て相談 ひとりで抱えずご利用ください。\n更新日：2024年4月1日\n市や都では、子育て相談をお受けしています。ひとりで抱えずにご利用ください。\n\n市の相談窓口\n・こども家庭センター; https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kodomosien.html\n子育て総合相談\n日時：午前8時30分から午後5時（月曜から金曜）、午前9時から午後5時（土曜）\n電話：042-321-3146\n注記：臨床心理士による専門相談「こころの相談」も行っています。電話でもご相談可能です。（月に1回から2回、要予約）\n母子けんこう相談\n日時：午前8時30分から午後5時（月曜から金曜）\n電話：042-321-6296\n\n・親子あそびひろば「ゆりかご」; https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/yurikago-yoyaku1001.html\n日時：午前10時から午後4時（火曜から土曜）\n電話：042-321-3141\n\n注記：各児童館; https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/jidokan/jidoukan2/jidoukanriyou/jidoukan2023.htmlでも相談受けています。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "親子あそびひろば「ゆりかご」\n日時：午前10時から午後4時（火曜から土曜）\n電話：042-321-3141",
+        "monetarySupport": null,
+        "materiallySupport": "親子あそびひろば「ゆりかご」\n日時：午前10時から午後4時（火曜から土曜）\n電話：042-321-3141"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "こども家庭センター",
+        "implementationAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "16:00",
+        "condiutilizationConditionstions": "午前10時から午後4時（火曜から土曜）"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/jidokan/jidoukan2/jidoukanriyou/jidoukan2023.html",
+          "title": "各児童館"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kodomosien.html",
+          "title": "こども家庭センター"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/yurikago-yoyaku1001.html",
+          "title": "親子あそびひろば「ゆりかご」"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kosodatesoudan.html",
+        "title": "子育て相談 ひとりで抱えずご利用ください。"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センターこども家庭相談係",
+        "contactPhone": "042-321-3146",
+        "contactEx": null,
+        "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840015",
+        "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+3+UM119",
+        "organization": "3000020132101",
+        "compartment": "こども家庭センターこども家庭相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小金井市の妊娠・出産に関する相談",
+        "shortName": "親子あそびひろば「ゆりかご」"
+      },
+      "summary": "市や都では、子育て相談をお受けしています。ひとりで抱えずにご利用ください。",
+      "description": "子育て相談 ひとりで抱えずご利用ください。\n更新日：2024年4月1日\n市や都では、子育て相談をお受けしています。ひとりで抱えずにご利用ください。\n\n市の相談窓口\n・こども家庭センター;https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kodomosien.html\n子育て総合相談\n日時：午前8時30分から午後5時（月曜から金曜）、午前9時から午後5時（土曜）\n電話：042-321-3146\n注記：臨床心理士による専門相談「こころの相談」も行っています。電話でもご相談可能です。（月に1回から2回、要予約）\n母子けんこう相談\n日時：午前8時30分から午後5時（月曜から金曜）\n電話：042-321-6296\n\n・親子あそびひろば「ゆりかご」;https://fukushi.unchusha.com/yurikago/\n日時：午前10時から午後4時（火曜から土曜）\n電話：042-321-3141\n\n注記：各児童館;https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/jidokan/jidoukan2/jidoukanriyou/jidoukan2023.htmlでも相談受けています。\n\n都の電話・ライン相談;https://www.city.koganei.lg.jp/kosodatekyoiku/434/tokyoLINEsoudan.html\n・LINE相談　子ゴコロ―親ゴコロ相談@東京\n日時：平日は午前9時から午後11時\n　　　土曜・日曜・祝日は午前9時から午後5時\n注記：平日の受付は午後10時30分まで\n\n・よいこに電話相談室\n日時：平日は午前9時から午後9時\n　　　土曜・日曜・祝日は午前9時から午後5時\n電話：03-3366-4152\n注記：聴覚言語障がい者用FAX：03-3366-6036\n\n・体罰などによらない子育てについて\n　東京都では、体罰によらない子育てを推進しています。時間や心に余裕がないときはイライラしてしまうことがありますね。そのイライラを上手く逃すヒントが載っています。\n東京OSEKKAI化計画　外部サイトへリンク　「体罰などによらない子育てって、何？」（外部サイト）;https://www.fukushi.metro.tokyo.lg.jp/osekkai//taibatsuhabatsu/",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "10:00",
+        "toYMD": null,
+        "toHM": "16:00",
+        "conditions": "午前10時から午後4時（火曜から土曜）"
+      },
+      "implementationPlace": {
+        "implementationName": "こども家庭センター",
+        "implementationAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "16:00",
+        "condiutilizationConditionstions": "午前10時から午後4時（火曜から土曜）"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "こども家庭センター",
+      "relatedLink": [
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/osekkai//taibatsuhabatsu/",
+          "title": "「体罰などによらない子育てって、何？」"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/434/tokyoLINEsoudan.html",
+          "title": "都の電話・ライン相談"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kosodatesoudan.html",
+        "title": "子育て相談 ひとりで抱えずご利用ください。"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センターこども家庭相談係",
+        "contactPhone": "042-321-3161",
+        "contactEx": null,
+        "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840015",
+        "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+3+UM47",
+        "organization": "3000020132101",
+        "compartment": "こども家庭センターこども家庭相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小金井市の子育てに関する相談",
+        "shortName": "各児童館"
+      },
+      "summary": "市や都では、子育て相談をお受けしています。ひとりで抱えずにご利用ください。",
+      "description": "子育て相談 ひとりで抱えずご利用ください。\n更新日：2024年4月1日\n市や都では、子育て相談をお受けしています。ひとりで抱えずにご利用ください。\n\n市の相談窓口\n・こども家庭センター; https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kodomosien.html\n子育て総合相談\n日時：午前8時30分から午後5時（月曜から金曜）、午前9時から午後5時（土曜）\n電話：042-321-3146\n注記：臨床心理士による専門相談「こころの相談」も行っています。電話でもご相談可能です。（月に1回から2回、要予約）\n母子けんこう相談\n日時：午前8時30分から午後5時（月曜から金曜）\n電話：042-321-6296\n\n・親子あそびひろば「ゆりかご」; https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/yurikago-yoyaku1001.html\n日時：午前10時から午後4時（火曜から土曜）\n電話：042-321-3141\n\n注記：各児童館; https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/jidokan/jidoukan2/jidoukanriyou/jidoukan2023.htmlでも相談受けています。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "各児童館でも相談受けています",
+        "monetarySupport": null,
+        "materiallySupport": "各児童館でも相談受けています"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "各児童館",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/yurikago-yoyaku1001.html",
+          "title": "親子あそびひろば「ゆりかご」"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/jidokan/jidoukan2/jidoukanriyou/jidoukan2023.html",
+          "title": "各児童館"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kodomosien.html",
+          "title": "こども家庭センター"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kosodatesoudan.html",
+        "title": "子育て相談 ひとりで抱えずご利用ください。"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センターこども家庭相談係",
+        "contactPhone": "042-321-3146",
+        "contactEx": null,
+        "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840015",
+        "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+4+UM119",
+        "organization": "3000020132101",
+        "compartment": "こども家庭センターこども家庭相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小金井市の妊娠・出産に関する相談",
+        "shortName": "各児童館でも相談受けています。"
+      },
+      "summary": "市や都では、子育て相談をお受けしています。ひとりで抱えずにご利用ください。",
+      "description": "子育て相談 ひとりで抱えずご利用ください。\n更新日：2024年4月1日\n市や都では、子育て相談をお受けしています。ひとりで抱えずにご利用ください。\n\n市の相談窓口\n・こども家庭センター;https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kodomosien.html\n子育て総合相談\n日時：午前8時30分から午後5時（月曜から金曜）、午前9時から午後5時（土曜）\n電話：042-321-3146\n注記：臨床心理士による専門相談「こころの相談」も行っています。電話でもご相談可能です。（月に1回から2回、要予約）\n母子けんこう相談\n日時：午前8時30分から午後5時（月曜から金曜）\n電話：042-321-6296\n\n・親子あそびひろば「ゆりかご」;https://fukushi.unchusha.com/yurikago/\n日時：午前10時から午後4時（火曜から土曜）\n電話：042-321-3141\n\n注記：各児童館;https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/jidokan/jidoukan2/jidoukanriyou/jidoukan2023.htmlでも相談受けています。\n\n都の電話・ライン相談;https://www.city.koganei.lg.jp/kosodatekyoiku/434/tokyoLINEsoudan.html\n・LINE相談　子ゴコロ―親ゴコロ相談@東京\n日時：平日は午前9時から午後11時\n　　　土曜・日曜・祝日は午前9時から午後5時\n注記：平日の受付は午後10時30分まで\n\n・よいこに電話相談室\n日時：平日は午前9時から午後9時\n　　　土曜・日曜・祝日は午前9時から午後5時\n電話：03-3366-4152\n注記：聴覚言語障がい者用FAX：03-3366-6036\n\n・体罰などによらない子育てについて\n　東京都では、体罰によらない子育てを推進しています。時間や心に余裕がないときはイライラしてしまうことがありますね。そのイライラを上手く逃すヒントが載っています。\n東京OSEKKAI化計画　外部サイトへリンク「体罰などによらない子育てって、何？」（外部サイト）;https://www.fukushi.metro.tokyo.lg.jp/osekkai//taibatsuhabatsu/",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "各児童館",
+      "relatedLink": [
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/osekkai//taibatsuhabatsu/",
+          "title": "「体罰などによらない子育てって、何？」"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/434/tokyoLINEsoudan.html",
+          "title": "都の電話・ライン相談"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/kosodatesoudan.html",
+        "title": "子育て相談 ひとりで抱えずご利用ください。"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センターこども家庭相談係",
+        "contactPhone": "042-321-3161",
+        "contactEx": null,
+        "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840015",
+        "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+4+UM47",
+        "organization": "3000020132101",
+        "compartment": "こども家庭センターこども家庭相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

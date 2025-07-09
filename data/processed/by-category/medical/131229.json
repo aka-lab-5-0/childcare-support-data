@@ -1,0 +1,4092 @@
+{
+  "version": "2025-07-09T05:55:17.811Z",
+  "areaCode": "131229",
+  "areaName": "葛飾区",
+  "category": "medical",
+  "count": 30,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "図書館の児童サービス（ブックスタートなど）",
+        "shortName": "ブックスタート事業"
+      },
+      "summary": "子育て支援部及び健康部と連携し、保健所・保健センター等での３～４か月健診時に、絵本の入った「ブックスタートパック」を配付する。",
+      "description": null,
+      "target": {
+        "targetPersons": "区内在住の3～4か月児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 3
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "絵本が入った「ブックスタートパック」を差し上げています。",
+        "monetarySupport": null,
+        "materiallySupport": "絵本・アドバイスブックレット"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "保健所・保健センター等での３～４か月健診時に、絵本の入った「ブックスタートパック」を配付",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "３～４か月健診に必要なもの",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "保健所・保健センター等",
+      "relatedLink": [
+        {
+          "uri": "https://www.lib.city.katsushika.lg.jp",
+          "title": "葛飾区立図書館（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/event/1000116/1031777.html",
+        "title": "ブックスタート事業・セカンドブック事業のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局中央図書館事業推進係",
+        "contactPhone": "03-3607-9201",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1250042",
+        "contactAddress": "葛飾区金町6-2-1　ヴィナシス金町ブライトコート3階"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+1+UM105",
+        "organization": "1000020131229",
+        "compartment": "教育委員会事務局中央図書館事業推進係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-14",
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦訪問",
+        "shortName": "妊娠後期訪問事業"
+      },
+      "summary": "助産師や保健師がご出産前にご家庭に訪問し、現在の暮らしに沿ったご相談をお受けします。一緒にご家庭の様子を確認しながら、安心して出産を迎えられるようサポートします。",
+      "description": null,
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "妊娠7か月頃を目安に、区から「妊娠8か月アンケート」を送付します。アンケートで訪問を希望する旨をご回答ください。お手元にアンケートが届かない場合は母子保健係（03-3602-1387）へご連絡ください。\n\n窓口での面談を希望する場合\n訪問ではなく窓口での相談を希望される方は、区役所子育て支援窓口（4階401番）、保健センター等で面談することができます。\nお送りした妊娠8か月アンケートのご案内を参考に、お電話でご予約ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "子ども家庭支援課母子保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1002076.html",
+        "title": "妊娠後期訪問事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭支援課母子保健係",
+        "contactPhone": "03-3602-1387",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1250062",
+        "contactAddress": "葛飾区青戸4-15-14　子ども総合センター内"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+1+UM11",
+        "organization": "1000020131229",
+        "compartment": "子ども家庭支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条（妊産婦の訪問指導等）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て支援拠点・地域子育て支援センター",
+        "shortName": "子ども未来プラザ・児童館・子どもセンター"
+      },
+      "summary": "葛飾区では区内の子ども未来プラザ・児童館・子どもセンターなどを子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+      "description": null,
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1030355/1002337/index.html",
+        "title": "子ども未来プラザ・児童館・子どもセンター"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て政策課 管理係",
+        "contactPhone": "03-5654-8293",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1248555",
+        "contactAddress": "葛飾区立石5-13-1　葛飾区役所4階　401番子育て支援窓口"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+1+UM110",
+        "organization": "1000020131229",
+        "compartment": "子育て政策課 管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第6項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関する相談窓口一覧",
+        "shortName": "子育て支援・相談"
+      },
+      "summary": "子育てに関する相談窓口の一覧です。",
+      "description": null,
+      "target": {
+        "targetPersons": "0～3歳のお子さんと保護者の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kurashi/1000061/1003783/index.html",
+        "title": "子育てに関する相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+1+UM115",
+        "organization": "1000020131229",
+        "compartment": null,
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "医療法",
+        "regulationArticle": "第30条の4第2項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "082"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "葛飾区の子育てに関する相談",
+        "shortName": "青少年の生活相談"
+      },
+      "summary": "葛飾区の子育てに関する相談",
+      "description": null,
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "区民相談室（区役所2階）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": "16:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "相談日が祝日及び年末年始と重なった場合はお休みです。",
+      "utilization": "午後3時30分までに受け付けをしてください。\nメールでの相談は行っておりません。\n【保護司】第1・3月曜日：午後1時から午後4時まで\n【保護観察官】第2・4月曜日：午前10時から午後4時まで\n予約電話：03-3597-0131\n保護観察所へつながります。「葛飾区の青少年の生活相談の件」とお伝えのうえ、ご予約ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kurashi/1000061/1003783/1003814.html",
+        "title": "青少年の生活相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "区民相談室",
+        "contactPhone": "03-5654-8612～8615",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1248555",
+        "contactAddress": "葛飾区立石5-13-1　葛飾区役所2階　209番窓口"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+1+UM119",
+        "organization": "1000020131229",
+        "compartment": "区民相談室",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-01",
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "001",
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "082"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児全戸訪問事業（こんにちは赤ちゃん事業)",
+        "shortName": "こんにちは赤ちゃん訪問事業"
+      },
+      "summary": "生後4か月未満のお子さんのいるすべてのご家庭を訪問し、赤ちゃんの体重の計測や、育児の悩みなど、いろいろなご相談に応じます。",
+      "description": null,
+      "target": {
+        "targetPersons": "4か月になるまでの乳児のいるご家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "母子健康手帳交付時に「出生通知票（白いハガキ）」をお渡ししています。赤ちゃんがお生まれになったら、出生通知票に必要事項を記入し郵送してください。\n出生通知票を紛失した場合などは、母子保健係（03-3602-1387）へお電話ください。\nまた、赤ちゃんの体重が2,500グラム未満の場合は出生通知票が低体重児届を兼ねていますので、忘れずにお届けください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.katsushika.lg.jp/faq/1030271/1007657/1008235/1008377.html",
+          "title": "こんにちは赤ちゃん訪問を希望しています。出生通知票はどのように出せばいいですか。"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1024614.html",
+        "title": "こんにちは赤ちゃん訪問事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭支援課母子保健係",
+        "contactPhone": "03-3602-1387",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1250062",
+        "contactAddress": "葛飾区青戸4-15-14　子ども総合センター内"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+1+UM14",
+        "organization": "1000020131229",
+        "compartment": "子ども家庭支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-24",
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第4項、第21条の9、第 21条の10の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "089"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出産育児一時金",
+        "shortName": "出産育児一時金"
+      },
+      "summary": "国民健康保険に加入している方が出産したときは、その世帯主からの申請により、出産育児一時金を支給します。原則として直接支払制度により、医療機関に直接お支払いします。出産費用が出産育児一時金の額を超えなかった場合は差額分を申請により支給します。妊娠12週（85日）以降であれば、死産・流産でも申請により支給します。\nなお、直接支払制度に対応していない医療機関などで出産された場合も、「受取代理制度」や出産後の申請により、出産育児一時金の支給を受けることができます。",
+      "description": null,
+      "target": {
+        "targetPersons": "国民健康保険の被保険者である出産した方（出産日に加入している方）\n他の健康保険に本人として１年以上加入し、退職後半年以内に出産した場合は、加入していた健康保険に申請できます。（その場合国保からは支給されません。）。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "出産育児一時金を支給。出産費用が出産育児一時金の額を超えなかった場合は差額を支給。",
+        "monetarySupport": "出産育児一時金を支給。出産費用が出産育児一時金の額を超えなかった場合は差額を支給。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "直接支払制度を利用する場合は、医療機関に申請確認してください。\n出産育児一時金の額を超えなかった場合は差額分を国保年金課給付係への申請により支給します。\n直接支払制度に対応していない医療機関などで出産された場合も、「受取代理制度」や出産後の国保年金課給付係への申請により、出産育児一時金の支給を受けることができます。\n\n提出期限\n出産された日の翌日から２年以内に申請してください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "（１）出産した方の保険証またはマイナンバーカード\n（２）母子手帳\n（３）直接支払制度を利用する旨記載した合意文書\n（４）医療機関などから交付される領収・明細書\n（５）出産当時の世帯主の口座番号のわかるもの\n※死産・流産の場合は医師の証明書も必要です。\n※海外出産は出生証明書（原本）と和訳、出産した方の帰国日のわかるパスポート（原本）も必要です。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "国保年金課給付係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kurashi/1000049/1001690/1001740.html",
+        "title": "出産育児一時金"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "国保年金課給付係",
+        "contactPhone": "03-5654-8212",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1248555",
+        "contactAddress": "葛飾区立石5-13-1　葛飾区役所3階　315番窓口"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+1+UM19",
+        "organization": "1000020131229",
+        "compartment": "国保年金課給付係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民健康保険法",
+        "regulationArticle": "第58条第1項"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "015"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "休日・夜間の診療"
+      },
+      "summary": "葛飾区では、夜間や日曜・祝日、年末年始に、区内の医療機関の協力のもと、当番制で診療を行っています。\nなお、小児（15歳以下）のお子さんの救急の時は、小児科救急当番医をご利用ください。",
+      "description": null,
+      "target": {
+        "targetPersons": "休日・夜間に病気になった方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001801/index.html",
+        "title": "休日・夜間の診療"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "地域保健課庶務係",
+        "contactPhone": "03-3602-1231",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1250062",
+        "contactAddress": "葛飾区青戸4-15-14　健康プラザかつしか内"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+1+UM45",
+        "organization": "1000020131229",
+        "compartment": "地域保健課庶務係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-29",
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "医療法",
+        "regulationArticle": "第30条の4第2項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "082"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "葛飾区の妊娠・出産に関する相談",
+        "shortName": "ゆりかご葛飾"
+      },
+      "summary": "葛飾区では、妊娠・出産・子育て支援事業「ゆりかご葛飾」を実施しています。\n妊婦さんやパートナーの方が安心して出産を迎えていただくため、保健師・助産師などが出産や子育てに関する様々なご相談をお受けしています。",
+      "description": null,
+      "target": {
+        "targetPersons": "葛飾区に住民登録があり、親子健康手帳（母子健康手帳）の交付を受けた妊婦の方。パートナーの方も一緒にご来所いただけます。\n（妊娠届出および親子健康手帳（母子健康手帳）の交付は「ゆりかご面接」と同時に手続きできます）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊婦さんやパートナーの方が安心して出産を迎えていただくため、保健師・助産師などが面接の時間をいただき、出産や子育てに関する様々なご相談をお受けしています。また、面接を通して、サポートプラン「葛飾区ゆりかごプラン」「これからパパになるあなたへ～ママとお子さんのためにできること」をお渡しします。\n\n「ゆりかご面接」を受けていただくと、出産応援ギフト（5万円分）と妊娠子育て応援券（1万円分）をその場で申請できます。\n\n※妊娠子育て応援券は、多胎児を妊娠している方には、胎児1人当たり1万円分を交付します",
+        "monetarySupport": "「ゆりかご面接」を受けていただくと、出産応援ギフト（5万円分）と妊娠子育て応援券（1万円分）をその場で申請できます。\n\n※妊娠子育て応援券は、多胎児を妊娠している方には、胎児1人当たり1万円分を交付します",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "「ゆりかご面接」にご予約なく来所された場合は、親子健康手帳（母子健康手帳）の交付のみとなることがあります。ぜひご予約の上、お越しください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "・親子健康手帳（母子健康手帳）\n・官公署発行の写真付の本人確認資料1点（免許証、マイナンバーカード、パスポート、在留カードなど）※写真付の本人確認資料をお持ちでない場合は、健康保険証、年金手帳など2点",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kurashi/1000061/1003783/1002446.html",
+          "title": "出産子育て応援事業～あなたの出産・子育て応援します～"
+        },
+        {
+          "uri": "https://www.youtube.com/watch?v=WXmBBNBRW84",
+          "title": "葛飾区公式YouTubeマタニティサロン「産後の生活」（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1016732.html",
+          "title": "マタニティサロン"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1030308/1021015.html",
+          "title": "宿泊ケア（詳細はこちらをクリック）"
+        },
+        {
+          "uri": "https://www.youtube.com/watch?v=w3SVciMEDYU",
+          "title": "葛飾区公式YouTubeマタニティサロン「授乳の仕方」（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1015907.html",
+          "title": "マタニティパス"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1030308/1025945.html",
+          "title": "産婦健康診査（詳細はこちらをクリック）"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1030308/1021023.html",
+          "title": "デイケア（詳細はこちらをクリック）"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1030308/1020863.html",
+          "title": "産後ケア（詳細はこちらをクリック）"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1030902.html",
+          "title": "葛飾区出産・子育て応援ギフト給付事業（国の出産・子育て応援交付金事業）について"
+        },
+        {
+          "uri": "https://www.youtube.com/watch?v=cxNSkcEje2g",
+          "title": "葛飾区公式YouTubeパパ向け動画 パパがカギを握る！～ママの体と心の変化を知ろう～（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1030308/1021018.html",
+          "title": "乳房ケア（詳細はこちらをクリック）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1014924.html",
+        "title": "ゆりかご葛飾"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/Ehiz/127816",
+          "title": "新水元児童館　予約フォーム（外部リンク）"
+        },
+        {
+          "uri": "https://logoform.jp/form/Ehiz/117415",
+          "title": "青戸予約フォーム　予約フォーム（外部リンク）"
+        },
+        {
+          "uri": "https://logoform.jp/form/Ehiz/122381",
+          "title": "金町保健センター　予約フォーム（外部リンク）"
+        },
+        {
+          "uri": "https://logoform.jp/form/Ehiz/122385",
+          "title": "水元保健センター　予約フォーム（外部リンク）"
+        },
+        {
+          "uri": "https://logoform.jp/form/Ehiz/134261",
+          "title": "にこわ新小岩　予約フォーム（外部リンク）"
+        },
+        {
+          "uri": "https://logoform.jp/form/Ehiz/138612",
+          "title": "区役所　子育て支援窓口　予約フォーム（外部リンク）"
+        },
+        {
+          "uri": "https://logoform.jp/form/Ehiz/127819",
+          "title": "子ども未来プラザ鎌倉　予約フォーム（外部リンク）"
+        },
+        {
+          "uri": "https://logoform.jp/form/Ehiz/127828",
+          "title": "小菅児童館　予約フォーム（外部リンク）"
+        },
+        {
+          "uri": "https://logoform.jp/form/Ehiz/127818",
+          "title": "南新宿児童館 予約フォーム（外部リンク）"
+        },
+        {
+          "uri": "https://logoform.jp/form/Ehiz/127827",
+          "title": "子ども未来プラザ東四つ木　予約フォーム（外部リンク）"
+        },
+        {
+          "uri": "https://logoform.jp/form/Ehiz/127826",
+          "title": "白鳥児童館　予約フォーム（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "青戸保健センター保健サービス係",
+        "contactPhone": "03-3602-1284",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1250062",
+        "contactAddress": "葛飾区青戸4-15-14　健康プラザかつしか内"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+1+UM47",
+        "organization": "1000020131229",
+        "compartment": "青戸保健センター保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-05",
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "082"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月未満児）",
+        "shortName": "乳幼児健康診査"
+      },
+      "summary": "乳幼児健診は、お子さんの健康状態を定期的に確認し、相談する大切な機会です。葛飾区では【３～４か月児健診】を実施しています。",
+      "description": null,
+      "target": {
+        "targetPersons": "生後3～4か月の乳児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 3
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "対象者の方に生後2～3か月頃を目安に順次個別に通知します。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "詳細は通知にてご案内します。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/002/099/r6nyuken.pdf",
+          "title": "令和6年度　乳児健康診査　日程・受付時間 （PDF 353.9KB）"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/002/099/r6kaijokennsin.pdf",
+          "title": "健康診査会場 （PDF 86.7KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001804/1002099.html",
+        "title": "乳幼児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "青戸保健センター保健サービス係",
+        "contactPhone": "03-3602-1284",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1250062",
+        "contactAddress": "葛飾区青戸4-15-14　健康プラザかつしか内"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+1+UM49",
+        "organization": "1000020131229",
+        "compartment": "青戸保健センター保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-31",
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "乳幼児健康診査"
+      },
+      "summary": "乳幼児健診は、お子さんの健康状態を定期的に確認し、相談する大切な機会です。葛飾区では【9か月児健康診査】を実施しています。",
+      "description": null,
+      "target": {
+        "targetPersons": "生後9か月から11か月になる日の2日前までの乳児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": 11
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 9
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "11か月になる日の2日前まで"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "乳児健康診査（3～4か月児健康診査）にお越しいただいた際に、受診票と医療機関名簿をお渡しします。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "受診票、母子健康手帳、健康保険証、乳幼児医療証",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/002/099/6.9iryokikan060524.pdf",
+          "title": "6か月児、9か月児健康診査　実施医療機関一覧 （PDF 78.8KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001804/1002099.html",
+        "title": "乳幼児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "青戸保健センター 保健サービス係",
+        "contactPhone": "03-3602-1284",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1250062",
+        "contactAddress": "葛飾区青戸4-15-14　健康プラザかつしか内"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+1+UM50",
+        "organization": "1000020131229",
+        "compartment": "青戸保健センター 保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-31",
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "伴走型相談支援",
+        "shortName": "伴走型相談支援"
+      },
+      "summary": "伴走型相談支援とは、妊娠期から全ての妊婦・子育て家庭に寄り添い、切れ目のない支援を行うため、面談などを通して出産・育児に関する不安をお伺いし、必要な支援につなげるものです。葛飾区では、妊娠初期のゆりかご面接、妊娠後期の妊娠8か月アンケート・妊娠後期訪問、出産後のこんにちは赤ちゃん訪問等を実施します。",
+      "description": null,
+      "target": {
+        "targetPersons": "葛飾区に住民登録のある妊婦・子育て家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1031538.html\n",
+          "title": "かつしか出産応援給付金について"
+        },
+        {
+          "uri": "https://www.cfa.go.jp/policies/shussan-kosodate/",
+          "title": "（子ども家庭庁HP）妊婦・子育て家庭への伴走型相談支援と経済的支援の一体的実施（出産・子育て応援交付金）（外部リンク）"
+        },
+        {
+          "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/shussan/tokyo_shussankosodateouen.html\n",
+          "title": "令和5年度給付分　東京都出産・子育て応援事業 ～赤ちゃんファーストを継続します～（外部リンク）"
+        },
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/tokyo_shussanouen.html\n",
+          "title": "令和4年度給付分　東京都出産応援事業 ～コロナに負けない！～（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1015907.html\n",
+          "title": "マタニティパスについて"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1014924.html\n",
+          "title": "ゆりかご面接について"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1024614.html\n",
+          "title": "こんにちは赤ちゃん訪問について"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1002076.html\n",
+          "title": "妊娠後期訪問について"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1031528.html\n",
+          "title": "妊娠8か月アンケートについて"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1030902.html",
+        "title": "葛飾区出産・子育て応援ギフト給付事業（国の出産・子育て応援交付金事業）について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭支援課母子保健係",
+        "contactPhone": "03-3602-1387",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1250062",
+        "contactAddress": "葛飾区青戸4-15-14　子ども総合センター内"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+1+UM5011",
+        "organization": "1000020131229",
+        "compartment": "子ども家庭支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-22",
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "母子家庭等就業・自立支援センター",
+        "shortName": "ひとり親家庭の相談"
+      },
+      "summary": "ひとり親家庭の相談を実施しています。",
+      "description": null,
+      "target": {
+        "targetPersons": "ひとり親家庭の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002341/1002472.html",
+        "title": "ひとり親家庭の相談など"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て応援課ひとり親家庭相談係",
+        "contactPhone": "03-5654-8276",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1248555",
+        "contactAddress": "葛飾区立石5-13-1　葛飾区役所4階　401番子育て支援窓口"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+1+UM5027",
+        "organization": "1000020131229",
+        "compartment": "子育て応援課ひとり親家庭相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2025-02-14",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "1歳6か月児健康診査",
+        "shortName": "1歳6か月児健康診査"
+      },
+      "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。葛飾区では1歳6か月児健康診査を実施しています。\n各健診会場で歯科健診を行います。契約医療機関で内科健診を行います。",
+      "description": null,
+      "target": {
+        "targetPersons": "1歳6か月から2歳の誕生日の2日前までの幼児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "区内の契約医療機関",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "（1）歯科健康診査\n対象者の方に1歳5か月～6か月を目安に順次個別に通知します。\n\n（2）内科健康診査\n対象者の方に1歳5か月～6か月を目安に順次個別に通知します。\n受診票は歯科健康診査の通知に同封します。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "（1）歯科健康診査\n詳細は個別の通知にてご案内します。\n\n（2）内科健康診査\n1歳6か月児健康診査受診票、母子健康手帳、健康保険証",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/002/099/1.6iryokikan0523.pdf",
+          "title": "1歳6か月児健康診査（内科） 実施医療機関一覧 （PDF 78.4KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001804/1002099.html",
+        "title": "乳幼児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "青戸保健センター保健サービス係",
+        "contactPhone": "03-3602-1284",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1250062",
+        "contactAddress": "葛飾区青戸4-15-14　健康プラザかつしか内"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+1+UM51",
+        "organization": "1000020131229",
+        "compartment": "青戸保健センター保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-31",
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "3歳児健康診査",
+        "shortName": "3歳児健康診査"
+      },
+      "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。葛飾区では3歳児健康診査を実施しています。\n内科と歯科の診察があります。",
+      "description": null,
+      "target": {
+        "targetPersons": "満3歳を超え、満4歳に達しない幼児",
+        "lessThan": {
+          "targetAge": 4,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "各地域の健康診査会場 ※詳細は個別通知をご覧ください。",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "対象者の方に順次個別に通知します。\n※新型コロナウイルスの感染拡大の影響で、現在3歳4か月頃を目安にお呼び出ししております。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "詳細は個別の通知にてご案内します。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/002/099/30-3kenshichoryoku.pdf",
+          "title": "視聴力検査について （PDF 125.3KB）"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/002/099/r63ken.pdf",
+          "title": "令和6年度　3歳児健康診査　日程・受付時間 （PDF 368.7KB）"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/002/099/r6kaijokennsin.pdf",
+          "title": "健康診査会場 （PDF 86.7KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001804/1002099.html",
+        "title": "乳幼児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "青戸保健センター保健サービス係",
+        "contactPhone": "03-3602-1284",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1250062",
+        "contactAddress": "葛飾区青戸4-15-14　健康プラザかつしか内"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+1+UM52",
+        "organization": "1000020131229",
+        "compartment": "青戸保健センター保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-31",
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の乳幼児健診",
+        "shortName": "5歳児健康診査"
+      },
+      "summary": "お子さんの成長を支える5歳児健康診査を実施しています。",
+      "description": null,
+      "target": {
+        "targetPersons": "今年度に5歳の誕生日を迎えるお子さんが対象です（令和2年4月2日～令和3年4月1日生まれのお子さん）。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 5,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 5,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "<5歳児健康診査の主な流れ>\n保護者アンケート調査\n4月9日（水曜日）に区からアンケート用紙を送付しておりますので、同封の返信用封筒で、4月28日（月曜日）までにご返送ください。\n\n※未提出の方は、お早めにお出しください。\n\n≪アンケートの結果で保護者の心配の度合いが低い場合≫\n・5歳児健康診査は終了です。\n・終了した場合でも、相談を受けられます。希望される方は、アンケート提出時に、相談会希望のチェック欄に印をつけてください。また、相談内容も併せてご記入ください。\n\n≪アンケートの結果で保護者の心配の度合いが高い場合≫\n・医師の診察・発達支援専門員による集団遊びの観察をご案内します。\n・園での集団遊びの日程は、園に掲示されますので、なるべくお休みしないで登園ください。\n・4月29日（火曜日）以降に提出された場合は、子ども総合センター集団遊びの観察をご案内いたします。\n・医師の診察については、8月～9月に区内の委託医療機関で診察を受けていただきます。\n・発達支援専門員による集団遊びの観察結果から、保護者の方と一緒に、お子さんの対応について考えてまいります。\n\\\n・区外の園に通われているお子さん、園に通っていらっしゃらないお子さんなどについては、子ども総合センター集団遊びの観察をご案内します。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.katsushika.lg.jp/faq/1030278/1007663/1008615/1008753.html",
+          "title": "集団遊びの観察では、どんなことをしますか？"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/faq/1030278/1007663/1008615/1008755.html",
+          "title": "集団遊びの観察の日に、園をおやすみしたらどうなりますか？"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/faq/1030278/1007663/1008615/1008752.html",
+          "title": "アンケートで「保護者の心配の度合いが高い」ということは、どのようなことでしょうか？"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/faq/1030278/1007663/1008615/1008754.html",
+          "title": "5歳児健診の結果が送られてきません"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/faq/1030278/1007663/1008615/1014633.html",
+          "title": "「保護者の心配の度合いが高い」と判断された場合、どのような支援が受けられるのでしょうか？"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/faq/1030278/1007663/1008615/1008751.html",
+          "title": "アンケートの結果で「保護者の心配の度合いが低い」と、集団遊びの観察はないのですか？"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001804/1035206.html",
+          "title": "青戸保健センター 「転入等で目の屈折検査をまだお受けになっていない未就学のお子さんへ」"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/014/638/sikaku5saijikennsi.pdf",
+          "title": "子どもの視覚発達について （PDF 271.3KB）"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/faq/1030278/1007663/1008615/1014630.html",
+          "title": "医師の診察はどのようなことをするのでしょうか？"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/014/638/5saijikennkousinnsa.pdf",
+          "title": "5歳児健康診査の流れ （PDF 229.1KB）"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/faq/1030278/1007663/1008615/1008750.html",
+          "title": "保護者アンケートの個人情報の取り扱いに関する同意事項に署名しなくてはならないのでしょうか？"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001804/1014638.html",
+        "title": "保護者アンケート（5歳児健康診査）を行っています"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭支援課 発達相談係",
+        "contactPhone": "03-3602-1388",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1250062",
+        "contactAddress": "葛飾区青戸4-15-14　子ども総合センター内"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+1+UM53",
+        "organization": "1000020131229",
+        "compartment": "子ども家庭支援課 発達相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-15",
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（2歳児歯科健康診査）",
+        "shortName": "すくすく歯育て歯科健康診査（2歳児 歯科健診）"
+      },
+      "summary": "２歳は奥歯が生えるなど口の中が大きく変化し、飲み物や食べ物の種類が増えるため、むし歯になりやすい時期です。むし歯の原因となるミュータンス菌は、徐々に身近な人たちからお子さんに感染することが分かってきており、子どものミュータンス菌が主に母親由来のことが多いことから母子伝播という言葉も使われています。この健診は、歯科健診とあわせて予防処置が受けられます。継続的に受診していくことで、お子さんの健やかな歯と口を守り育てていきましょう。",
+      "description": null,
+      "target": {
+        "targetPersons": "子どもは3歳までに2回受けられます。\n①2歳児とその母親★\n★母親の受診が難しい場合は健康推進課にご相談ください。\n②2歳児のみ\n※対象者には受診券等を、原則2歳の誕生月下旬に郵送します。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "受診期間内に受診を希望する歯科医療機関に電話等で事前予約をする\nその際に「葛飾区すくすく歯育て歯科健康診査を希望」と伝えてください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "◆すくすく歯育て歯科健康診査受診券\n◆親子健康手帳（母子健康手帳）\n◆住所・氏名・生年月日が確認できるもの",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.katsushika.lg.jp/faq/1030271/1007657/1008223/1008283.html",
+          "title": "乳幼児歯科健診・歯の健康教室について知りたいのですが。"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1019946/index.html",
+          "title": "歯科保健"
+        },
+        {
+          "uri": "https://www.jpa-web.org/dcms_media/other/2saimiman_qanda20200609.pdf",
+          "title": "2歳未満の子どもにマスクは不要、むしろ危険！（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001804/1023236.html",
+        "title": "すくすく歯育て歯科健康診査（2歳児 歯科健診）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部健康推進課　歯科保健担当係",
+        "contactPhone": "03-3602-1268",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1250062",
+        "contactAddress": "葛飾区青戸4-15-14　健康プラザかつしか内"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+1+UM792",
+        "organization": "1000020131229",
+        "compartment": "健康部健康推進課　歯科保健担当係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-02",
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦の歯科健診",
+        "shortName": "妊婦歯科健康診査"
+      },
+      "summary": "妊娠中はホルモンバランスの変化等により歯周病やむし歯が発生・進行しやすくなります。特に歯周病は早産や低体重児出産のリスクが高くなることがわかっています。また、母親の口腔環境は生まれてくるお子さんの口腔環境に大きな影響を与えます。歯科健診を行うことで妊婦の歯と口の健康づくりをすすめるとともに、生まれてくるお子さんの健全な発育と口腔衛生の向上を図ります。",
+      "description": null,
+      "target": {
+        "targetPersons": "妊娠中の区民",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "受診期間内に受診を希望する歯科医療機関に電話等で事前予約をする\nその際に「葛飾区妊婦歯科健康診査を希望」と伝えてください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "◆妊婦歯科健康診査受診券＊\n　＊親子健康手帳（母子健康手帳）の取得時に配布する「母と子の保健\n　　バック」に同封しています。受診時に必要であるため、お持ちでな\n　　い方は下記の問い合わせまでご連絡ください。\n◆親子健康手帳（母子健康手帳）\n◆住所・指名・生年月日が確認できるもの",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1019946/1034045.html",
+          "title": "【随時更新】葛飾区妊婦歯科健康診査実施歯科医療機関一覧"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001804/1002103.html",
+          "title": "子どもの歯科健診、歯の健康教室のご案内"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1030183/1001793/1020210.html",
+          "title": "妊娠中の口の健康"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1002071.html",
+          "title": "妊娠届出と母子健康手帳の交付"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1019946/index.html",
+          "title": "歯科保健（口の健康に関する情報と歯科事業のご案内）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001803/1002079.html",
+        "title": "妊婦歯科健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部健康推進課　歯科保健担当係",
+        "contactPhone": "03-3602-1268",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1250062",
+        "contactAddress": "葛飾区青戸4-15-14 健康プラザかつしか内"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+1+UM8",
+        "organization": "1000020131229",
+        "compartment": "健康部健康推進課　歯科保健担当係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-12",
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第10条（保健指導）・第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自立支援医療制度（精神通院医療）",
+        "shortName": "自立支援医療費（精神通院医療）制度"
+      },
+      "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+      "description": null,
+      "target": {
+        "targetPersons": "精神疾患の治療のために通院をされている方（年齢、診療科は問いません）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "通常、医療保険では医療費の3割が自己負担となりますが、自立支援医療費制度を併用いただいた場合、精神通院に係る医療費（診療及び薬代）の自己負担が原則1割に軽減されます。",
+        "monetarySupport": "精神通院に係る医療費（診療及び薬代）の自己負担が原則1割に軽減",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "　区内6カ所ある申請窓口のいずれかでのお手続きをお願いします。,申請書類の郵送をご希望の方はお電話、郵便または下記フォームからご依頼ください。\n\n精神手帳・自立支援医療（精神通院）申請書類郵送申込フォーム（外部リンク）新しいウィンドウで開きます;https://logoform.jp/form/Ehiz/409768\n郵便でご依頼の場合は申請書類の郵送を希望されている旨のお手紙に、\n1.受診者本人の氏名・住所・生年月日\n2.依頼者の氏名・電話番号\n3.申請の種類（新規、更新など）\n4.申請書類の送付先住所・宛名\n　を記入して送りください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "更新申請は毎年必要で、有効期限が切れる月を含めた3カ月前から更新手続きが出来ます。\n　（例）　4月末に有効期限が切れる方⇒2月から申請受付を開始"
+      },
+      "electronicSubmission": false,
+      "belongings": "申請に必要な書類\n申請内容に応じて、提出いただく書類が異なります。必要書類を確認のうえ、不足書類の無いようご準備ください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "葛飾区保健所（健康プラザかつしか内）.金町保健センター,新小岩保健センター,水元保健センター,高砂区民事務所（高砂地区センター内）,堀切区民事務所（堀切地区センター内）",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.katsushika.lg.jp/institution/1030223/1006702/1006705.html",
+          "title": "施設案内葛飾区保健所（健康プラザかつしか内）"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1001792/1013136/1013089.html",
+          "title": "新規・更新・再開"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1001792/1013136/1035514.html",
+          "title": "他県転入"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/institution/1030223/1006702/1006710.html",
+          "title": "施設案内水元保健センター"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1001792/1013136/1013134.html",
+          "title": "受給者証の再交付"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/institution/public/1006690/1006695.html",
+          "title": "施設案内堀切区民事務所（堀切地区センター内）"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1001792/1013136/1013133.html",
+          "title": "医療機関等の追加"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1001792/1013136/1013132.html",
+          "title": "所得区分の変更"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/institution/1030223/1006702/1006708.html",
+          "title": "施設案内新小岩保健センター"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1001792/1013136/1013104.html",
+          "title": "健康保険の変更"
+        },
+        {
+          "uri": "https://logoform.jp/form/Ehiz/409768",
+          "title": "精神手帳・自立支援医療（精神通院）申請書類郵送申込フォーム"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/institution/public/1006690/1006694.html",
+          "title": "施設案内高砂区民事務所（高砂地区センター内）"
+        },
+        {
+          "uri": "http://www.fukushihoken.metro.tokyo.jp/shougai/jigyo/shougaifukushi/iryoshiteijoho_s.html",
+          "title": "東京都　自立支援（精神通院）指定医療機関"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1001792/1013136/1013103.html",
+          "title": "医療機関等の変更"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/institution/1030223/1006702/1006706.html",
+          "title": "施設案内金町保健センター"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1001792/1013136/1013129.html",
+          "title": "自立支援（精神通院）の住所・氏名の変更"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/013/136/shotoku.pdf",
+          "title": "所得区分概念図"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kenkou/1001792/1013136/index.html",
+        "title": "自立支援医療費（精神通院医療）制度"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健予防課保健予防係",
+        "contactPhone": "電話：03-3602-1274",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1250062",
+        "contactAddress": "葛飾区青戸4-15-14　健康プラザかつしか内"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+1+UM824",
+        "organization": "1000020131229",
+        "compartment": "保健予防課保健予防係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2025-02-12",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律",
+        "regulationArticle": "第58条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "025",
+          "027"
+        ],
+        "targetCode": [
+          "087",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "図書館の児童サービス（ブックスタートなど）",
+        "shortName": "セカンドブック事業"
+      },
+      "summary": "子育て支援部及び健康部と連携し、「３歳児健診のお知らせ」に「セカンドブック引換券」を同封する。その引換券を持参し、図書館に来館した方に、３歳児向け絵本１冊を手渡す。",
+      "description": null,
+      "target": {
+        "targetPersons": "区内在住の3歳児",
+        "lessThan": {
+          "targetAge": 4,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "3歳のお子さんを対象に図書館で絵本を手渡すとともに、「おはなし会」や「絵本の読み聞かせ」をご案内しています。",
+        "monetarySupport": null,
+        "materiallySupport": "絵本・リーフレット"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "18:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "「セカンドブック引換券」・親子健康手帳（母子健康手帳）を持参し、図書館に来館",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "09:00",
+        "toYMD": null,
+        "toHM": "18:00",
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "セカンドブック引換券・親子健康手帳（母子健康手帳）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "図書館",
+      "relatedLink": [
+        {
+          "uri": "https://www.lib.city.katsushika.lg.jp",
+          "title": "葛飾区立図書館（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/event/1000116/1031777.html",
+        "title": "ブックスタート事業・セカンドブック事業のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局中央図書館事業推進係",
+        "contactPhone": "03-3607-9201",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1250042",
+        "contactAddress": "葛飾区金町6-2-1　ヴィナシス金町ブライトコート3階"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+2+UM105",
+        "organization": "1000020131229",
+        "compartment": "教育委員会事務局中央図書館事業推進係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-14",
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "葛飾区の子育てに関する相談",
+        "shortName": "子育てに関する相談"
+      },
+      "summary": "子育てに関する相談窓口の一覧です。",
+      "description": null,
+      "target": {
+        "targetPersons": "子ども、保護者など",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kurashi/1000061/1003783/index.html",
+        "title": "子育てに関する相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+2+UM119",
+        "organization": "1000020131229",
+        "compartment": null,
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "082"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "乳幼児健康診査"
+      },
+      "summary": "乳幼児健診は、お子さんの健康状態を定期的に確認し、相談する大切な機会です。葛飾区では【6か月児健康診査】を実施しています。",
+      "description": null,
+      "target": {
+        "targetPersons": "生後6か月から8か月になる日の2日前までの乳児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": 8
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "8か月になる日の2日前まで"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "乳児健康診査（3～4か月児健康診査）にお越しいただいた際に、受診票と医療機関名簿をお渡しします。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "受診票、母子健康手帳、健康保険証、乳幼児医療証",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.katsushika.lg.jp/_res/projects/default_project/_page_/001/002/099/6.9iryokikan060524.pdf",
+          "title": "6か月児、9か月児健康診査　実施医療機関一覧 （PDF 78.8KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001804/1002099.html",
+        "title": "乳幼児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "青戸保健センター保健サービス係",
+        "contactPhone": "03-3602-1284",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1250062",
+        "contactAddress": "葛飾区青戸4-15-14　健康プラザかつしか内"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+2+UM50",
+        "organization": "1000020131229",
+        "compartment": "青戸保健センター保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-31",
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（1歳児歯科健康診査）",
+        "shortName": "ハッピーバースデイすくすく歯科健診（1歳児 歯科健診）"
+      },
+      "summary": "乳幼児期は「かむ・飲み込む」などの口の機能の基礎が作られる重要な時期です。\n歯が生え始め離乳食も進んでくるこの時期に、歯科健診、歯科保健指導を行いむし歯予防などのポイントをアドバイスし子どもの健やかな歯と口を育てます。また、希望者には育児相談を行い、育児不安などを解消します。",
+      "description": null,
+      "target": {
+        "targetPersons": "1歳児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 5
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "◆各保健センター（青戸・新小岩・金町・水元）\n◆南綾瀬地区センター\n◆子ども未来プラザ鎌倉\n◆子ども未来プラザ東四つ木",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "対象者全員にご案内を郵送します。（発送：1歳の誕生月）\n詳しくは、ご案内をご確認ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "◆親子健康手帳（母子健康手帳）\n◆ご案内用紙（アンケートを記入してご持参ください。）\n◆お子さんの歯ブラシ（普段使用しているものがあれば）\n◆バスタオル（歯科健診時にお子さんの背中に敷きます。）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1019946/index.html",
+          "title": "歯科保健"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1030183/1001793/1001896.html",
+          "title": "2.乳幼児期の口の健康"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001804/1023756.html",
+        "title": "ハッピーバースデイすくすく歯科健診（1歳児 歯科健診）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部健康推進課　歯科保健担当係",
+        "contactPhone": "03-3602-1268",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1250062",
+        "contactAddress": "葛飾区青戸4-15-14　健康プラザかつしか内"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+2+UM792",
+        "organization": "1000020131229",
+        "compartment": "健康部健康推進課　歯科保健担当係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "葛飾区の子育てに関する相談",
+        "shortName": "受け付ける相談の種類"
+      },
+      "summary": "葛飾区の子育てに関する相談",
+      "description": null,
+      "target": {
+        "targetPersons": "18歳未満の子どもに関する相談を、本人、家族、学校、地域の方など、どなたからでも",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "児童相談所相談窓口",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:30",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "まずはお電話でご相談ください。（平日8時30分～17時）",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "葛飾区児童相談所",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.katsushika.lg.jp/institution/1030224/1032184.html",
+          "title": "葛飾区児童相談所"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kurashi/1000061/1003783/1032187/1032264.html",
+        "title": "受け付ける相談の種類"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "児童相談課　相談係",
+        "contactPhone": "03-5698-0303",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1240012",
+        "contactAddress": "葛飾区立石2-30-1"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+3+UM119",
+        "organization": "1000020131229",
+        "compartment": "児童相談課　相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-01",
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第12条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "005"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "082"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子どもの歯科健診、歯科相談",
+        "shortName": "子どもの歯科健診、歯科相談"
+      },
+      "summary": "3歳までのお子さんの歯科健診、歯科相談を実施しています。なお、お子さんの口の中に関することでご相談等がありましたら、健康推進課までお問い合わせください。",
+      "description": null,
+      "target": {
+        "targetPersons": "3歳までのお子さん",
+        "lessThan": {
+          "targetAge": 4,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 10
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "各保健センター等、指定の歯科医療機関",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1030183/1001793/1001896.html",
+          "title": "2.乳幼児期のお口の健康"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1019946/index.html",
+          "title": "歯科保健"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kenkou/1000050/1001804/1002103.html",
+        "title": "子どもの歯科健診、歯科相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部健康推進課　歯科保健担当係",
+        "contactPhone": "03-3602-1268",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1250062",
+        "contactAddress": "葛飾区青戸4-15-14　健康プラザかつしか内"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+3+UM792",
+        "organization": "1000020131229",
+        "compartment": "健康部健康推進課　歯科保健担当係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-01",
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "葛飾区の子育てに関する相談",
+        "shortName": "子ども総合センター　メール相談"
+      },
+      "summary": "子ども総合センター　メール相談",
+      "description": null,
+      "target": {
+        "targetPersons": "区内に住む18歳未満のお子さんとその家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "相談方法\n相談フォームに必要事項を記載して送信してください。子ども総合センターに直接送られます。\n\n回答方法\n一般的な相談や情報提供については、メールで回答します。個人情報にかかわる相談や、深刻な相談については、メールの回答はできません。必要に応じて、お電話か対面での相談になります。\n\n回答日数\nご相談を確認した際に受信確認メールを送ります。回答に日数を要する場合はその際に回答予定日をお伝えします。\n\nご注意\n１.子ども総合センターの業務は、祝日・年末年始を除く、月曜日から土曜日の午前8時30分から午後5時までですので、すぐに返信できない場合がありますが、予めご了承ください。\n2.添付ファイルは受け付けません。もし送られてきても開封できませんので、ご了承ください。\n3.なお、ウイルス感染等を避けるため、お問い合わせメールにURLが記載されている場合、区では参照しません。恐れ入りますが、本文中でお問い合わせ内容が分かるようにご記入ください。\n4.メール相談は、葛飾区にお住まいの方及びその関係者からとさせていただきます。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.katsushika.lg.jp/institution/1030224/1007107/1007145.html",
+          "title": "子ども総合センター"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kurashi/1000061/1003783/1003812.html",
+        "title": "子ども総合センター　メール相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭支援課子ども家庭第一係",
+        "contactPhone": "03-3602-1386",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "（児童虐待通報相談）電話：03-3602-1389",
+        "zipCode": "1250062",
+        "contactAddress": "葛飾区青戸4-15-14　子ども総合センター内"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+4+UM119",
+        "organization": "1000020131229",
+        "compartment": "子ども家庭支援課子ども家庭第一係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-02-13",
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "005"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "082"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "葛飾区の子育てに関する相談",
+        "shortName": "少年相談（非行など）"
+      },
+      "summary": "都内には8か所の少年センターがあり、子供の非行などの問題でお悩みの方や、いじめや犯罪等の被害にあい、精神的ショックを受けている少年のために、心理専門の職員が「秘密厳守」、「無料」でご相談に応じます。",
+      "description": null,
+      "target": {
+        "targetPersons": "少年",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "江戸川少年センター",
+        "implementationAddress": "江戸川区中央3-4-4"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:30",
+        "toHM": "17:15",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kurashi/1000061/1003783/1003815.html",
+        "title": "少年相談（非行など）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "総合教育センター教育支援課 指導主事",
+        "contactPhone": "03-5668-7608",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1250053",
+        "contactAddress": "葛飾区鎌倉2-12-1"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+5+UM119",
+        "organization": "1000020131229",
+        "compartment": "総合教育センター教育支援課 指導主事",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2018-04-28",
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "005"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "082"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "葛飾区の子育てに関する相談",
+        "shortName": "子どもの発達相談・ことばの相談"
+      },
+      "summary": "子どもの発達相談・ことばの相談",
+      "description": null,
+      "target": {
+        "targetPersons": "小学校入学前までのお子さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:30",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "来所でのご相談は予約制になります。まずはお電話でお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "子ども家庭支援課（子ども総合センター）発達相談係",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kosodate/1030198/1002465.html",
+          "title": "連携ファイル（私の紹介・アイリスシート）のダウンロードができます。"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/institution/1030224/1007107/1007145.html",
+          "title": "子ども総合センター"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kurashi/1000061/1003783/1003813.html",
+        "title": "子どもの発達相談・ことばの相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭支援課　発達相談係",
+        "contactPhone": "03-3602-1388",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1250062",
+        "contactAddress": "葛飾区青戸4-15-14　子ども総合センター内"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+6+UM119",
+        "organization": "1000020131229",
+        "compartment": "子ども家庭支援課　発達相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-05-10",
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "発達障害者支援法",
+        "regulationArticle": "第5条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "082"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "葛飾区の子育てに関する相談",
+        "shortName": "子ども総合センターの相談"
+      },
+      "summary": "子ども総合センターの相談",
+      "description": null,
+      "target": {
+        "targetPersons": "区内に住む18歳未満のお子さんとその家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:30",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "祝日・年末年始",
+      "utilization": "相談の方法と時間相談は、電話相談のほか、子ども総合センター面接室での面接相談、ご家庭への訪問やお近くの児童館などへ出向いた上での面接相談も可能です。面接相談を希望される方は、上記の問い合わせ先までご連絡の上、面接日の予約をしてください。電話相談では、匿名での相談も受け付けます。また、メール相談も行っています。メール相談を希望される方は、下記の「子ども総合センター　メール相談」をご覧ください。子ども総合センター　メール相談;https://www.city.katsushika.lg.jp/kurashi/1000061/1003783/1003812.html",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.katsushika.lg.jp/kosodate/1000056/1002333/1002382.html",
+          "title": "ショートステイ・トワイライトステイ事業のご案内"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/institution/1030224/1007107/1007145.html",
+          "title": "子ども総合センター"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/faq/1030278/1007663/1008615/1008766.html",
+          "title": "近隣から子どもの泣き声や大人のどなり声が聞こえたり、夜中に子どもが外に出されていたりする。虐待ではないかと心配しているのですが、どうしたらいいですか。"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/faq/1030270/1007668/1009239/1009291.html",
+          "title": "差別や偏見などの人権侵害を受けたことに関する相談窓口はありますか。"
+        },
+        {
+          "uri": "https://www.city.katsushika.lg.jp/faq/1030278/1007663/1008615/1008765.html",
+          "title": "子どものことで悩みがありますが、相談できるところはありますか。"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kurashi/1000061/1003783/1003810.html",
+        "title": "子ども総合センターの相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭支援課子ども家庭第一係",
+        "contactPhone": "03-3602-1386",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "（児童虐待通報相談）電話：03-3602-1389",
+        "zipCode": "1250062",
+        "contactAddress": "葛飾区青戸4-15-14　子ども総合センター内"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+7+UM119",
+        "organization": "1000020131229",
+        "compartment": "子ども家庭支援課子ども家庭第一係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2012-05-21",
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "005"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "082"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "葛飾区の子育てに関する相談",
+        "shortName": "親子のための相談LINE"
+      },
+      "summary": "葛飾区の子育てに関する相談",
+      "description": null,
+      "target": {
+        "targetPersons": "子ども（18歳未満）とその保護者の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.mhlw.go.jp/oyako-line/",
+          "title": "「親子のための相談LINE」（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.katsushika.lg.jp/kurashi/1000061/1003783/1032852.html",
+        "title": "親子のための相談LINE"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "児童相談課相談係",
+        "contactPhone": "03-5698-0303",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1240012",
+        "contactAddress": "葛飾区立石2-30-1"
+      },
+      "area": {
+        "areaCode": "131229;葛飾区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131229+8+UM119",
+        "organization": "1000020131229",
+        "compartment": "児童相談課相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-01",
+      "odInformation": {
+        "updateDate": "2025/04/01",
+        "updater": "葛飾区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "005"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "082"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

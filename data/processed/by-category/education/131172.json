@@ -1,0 +1,258 @@
+{
+  "version": "2025-07-09T05:55:17.806Z",
+  "areaCode": "131172",
+  "areaName": "北区",
+  "category": "education",
+  "count": 2,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+        "shortName": "赤ちゃん訪問（新生児訪問）"
+      },
+      "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+      "description": "王子・赤羽・滝野川の各健康支援センターでは、赤ちゃん訪問（新生児訪問）を行っています。\n生まれたばかりの赤ちゃんとの生活は、ママ・パパにとってわからない事がたくさん出てくると思います。\n\n「出生通知票」を提出いただいた方には、地区担当の健康支援センターから赤ちゃん訪問のご連絡をしています。\n以下のどちらかの方法で提出ください。\n\n里帰り先への赤ちゃん訪問をご希望される場合は、お電話でお問い合わせください。\n\n各健康支援センターの担当地区\n王子健康支援センター　\n王子・豊島・堀船・東十条・王子本町・岸町・中十条・十条台・十条仲原・上十条\n\n赤羽健康支援センター　\n神谷・赤羽・西が丘・赤羽西・志茂・岩淵町・赤羽台・赤羽南・赤羽北・浮間・桐ヶ丘\n\n滝野川健康支援センター　\n滝野川・西ヶ原・栄町・上中里・中里・昭和町・田端新町・東田端・田端",
+      "target": {
+        "targetPersons": "乳児健診（3～4か月児健診）前までの赤ちゃん。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "乳児健診（3～4か月児健診）前"
+      },
+      "support": {
+        "description": "赤ちゃんとの生活や育児に慣れない時期に、保健師や助産師がご自宅にうかがい、わからない事や心配な事にお答えします。赤ちゃんの体重測定や母乳相談もできます。",
+        "monetarySupport": null,
+        "materiallySupport": "赤ちゃんとの生活や育児に慣れない時期に、保健師や助産師がご自宅にうかがい、わからない事や心配な事にお答えします。赤ちゃんの体重測定や母乳相談もできます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "・母と子の保健バッグの中の「出生通知票」のハガキに記入し郵送する\n・「出生通知票」の電子フォームに入力し提出する→電子フォーム（外部サイトへリンク）;https://logoform.jp/form/VNHo/534969",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kita.tokyo.jp/k-suishin/kosodate/ninshin/shinsei.html",
+        "title": "赤ちゃん訪問（新生児訪問）～子育て応援団事業～"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/VNHo/534969",
+          "title": "北区　出生通知票"
+        }
+      ],
+      "contact": {
+        "contactName": "健康部保健サービス課王子健康支援センター,健康部保健サービス課赤羽健康支援センター,健康部保健サービス課滝野川健康支援センター",
+        "contactPhone": "健康部保健サービス課王子健康支援センター　電話番号：03-3919-7588,健康部保健サービス課赤羽健康支援センター　電話番号：03-3903-6481,健康部保健サービス課滝野川健康支援センター　電話番号：03-3915-0184",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": "健康部保健サービス課王子健康支援センター　東京都北区東十条2-7-3　北区保健所1階,健康部保健サービス課赤羽健康支援センター　東京都北区赤羽南1-13-1　赤羽会館6階,健康部保健サービス課滝野川健康支援センター　東京都北区西ヶ原1-19-12"
+      },
+      "area": {
+        "areaCode": "131172;北区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131172+1+UM14",
+        "organization": "8000020131172",
+        "compartment": null,
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/04/26",
+      "odInformation": {
+        "updateDate": "2025/03/04",
+        "updater": "北区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第21条の10の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "放課後子供教室",
+        "shortName": "放課後子ども総合プラン『わくわく☆ひろば』"
+      },
+      "summary": "地域住民の参画を得て、放課後等に全ての児童を対象として、学習や体験・交流といった多様な活動を行っています。",
+      "description": "放課後子ども総合プラン『わくわく☆ひろば』\n平日の放課後や土曜日、夏休みなどの長期休業期間中に、小学校を会場に子どもたちの安全・安心な活動場所（居場所）を提供しています。わくわく☆ひろばでは、学童クラブの児童と一般の児童が一緒に自由遊びや集団遊び、体験活動や季節行事などを行います。\n\n詳しくは「令和7年度わくわく☆ひろば利用のご案内」;https://www.city.kita.tokyo.jp/k-wakuwaku/kosodate/plan/documents/wakuwakupamphlet.pdfや「わくわく☆ひろばパンフレット」;https://www.city.kita.tokyo.jp/k-wakuwaku/kosodate/plan/documents/r7wakuwakupamphlet.pdfをご覧ください。\n\n一般登録早朝・夕方利用\n一般登録実施時間前後の早朝・夕方の時間帯、保護者が就労等で留守になる家庭の児童に、安全・安心な居場所を提供することを目的としています。\n\n詳しくは「一般登録早朝・夕方利用とは」;https://www.city.kita.tokyo.jp/k-wakuwaku/kosodatekyoiku/plan/gakudo/tokure-02.htmlをご覧ください。\n\n学童クラブ\n保護者が就労等で昼間留守になる家庭の児童の安全を図るとともに、異年齢集団の良さを活かした健全な遊び、基本的生活習慣を身につけることを目的としています。\n\n詳しくは「学童クラブとは」;https://www.city.kita.tokyo.jp/k-wakuwaku/kosodatekyoiku/plan/gakudo/gakudou.htmlをご覧ください。\n\nわくわく☆ひろば一覧\n|名称|所在地|電話番号|運営方式　|\n|:----|:----|:----|:----|\n|わくわく王子ひろば（外部サイトへリンク）;https://www.mommy-int.co.jp/afterschoolcare/ouji/|王子2-7-40（王子小学校内）|03-3911-1910|委託　|\n|わくわく王一ひろば（外部サイトへリンク）;https://www.mommy-int.co.jp/afterschoolcare/ouichi/|王子5-14-18（王子第一小学校内）|03-3927-2111|委託|\n| | | | |\n|わくわく王二ひろば（外部サイトへリンク）;https://www.mommy-int.co.jp/afterschoolcare/wakuwakuooni/|王子本町2-2-5（王子第二小学校内）|03-3905-6630|委託|\n|わくわく王三ひろば（外部サイトへリンク）;https://www.seirouin.or.jp/oji-3/|上十条5-2-3（王子第三小学校内）|03-3908-6803|委託|\n|わくわく王五ひろば;https://www.city.kita.tokyo.jp/k-wakuwaku/kosodatekyoiku/plan/ogo.html|上十条2-18-17（王子第五小学校内）|03-3905-4880|直営|\n|わくわく豊川ひろば（外部サイトへリンク）;https://www.seirouin.or.jp/toyokawa/|豊島3-10-23（豊川小学校内）|03-5390-0151|委託|\n|わくわく堀船ひろば（外部サイトへリンク）;http://wakuwakuhiroba.jp/horihunahiroba/|堀船2-11-9（堀船小学校内）|03-3912-2876|委託|\n|わくわく柳田ひろば（外部サイトへリンク）;https://www.mommy-int.co.jp/afterschoolcare/wakuwakuyanagida/|豊島2-11-20（柳田小学校内）|03-3911-6022|委託|\n|わくわく東十条ひろば;https://www.city.kita.tokyo.jp/k-wakuwaku/kosodatekyoiku/plan/higasijyujyo.html|東十条3-14-23（東十条小学校内）|03-3927-5701|直営|\n|わくわくとしま若葉ひろば（外部サイトへリンク）;https://www.mommy-int.co.jp/afterschoolcare/toshimawakaba/|豊島5-3-30（としま若葉小学校内）|03-3912-9020|委託|\n|わくわく十条ひろば（外部サイトへリンク）;https://www.mommy-int.co.jp/afterschoolcare/jyujyo/|中十条3-1-6（十条小学校内）|03-3909-8836|委託|\n|わくわく赤羽ひろば（外部サイトへリンク）;https://www.mommy-int.co.jp/afterschoolcare/wakuwakuakabane/|赤羽1-24-6（赤羽小学校内）|03-3901-7922|委託|\n|わくわく岩淵ひろば（外部サイトへリンク）;https://www.nihonhoiku.co.jp/blog/wakuiwabuchi/|岩淵町6-6（岩淵小学校内）|03-3901-2611|委託|\n|わくわくなでしこひろば;https://www.city.kita.tokyo.jp/k-wakuwaku/kosodatekyoiku/plan/nadeshiko.html|志茂1-34-17（なでしこ小学校内）;|03-3901-3626|直営|\n|わくわく四岩ひろば（外部サイトへリンク）;https://www.mommy-int.co.jp/afterschoolcare/wakuwakuyoniwa/|赤羽3-24-23（第四岩淵小学校内）|03-3903-2020|委託|\n|わくわく梅木ひろば（外部サイトへリンク）;https://www.seirouin.or.jp/umenoki/|西が丘2-21-15（梅木小学校内）|03-3908-7770|委託|\n|わくわく都の北ひろば;https://www.city.kita.tokyo.jp/k-wakuwaku/kosodate/plan/wakuwakumiyakonokita.html|神谷2-30-1（都の北学園内）|03-3903-0400|直営|\n|わくわく桐ケ丘郷ひろば（外部サイトへリンク）;https://www.seirouin.or.jp/kirigaoka/|桐ケ丘1-10-23（桐ケ丘郷小学校内）|03-3906-9274|委託|\n|わくわく袋ひろば（外部サイトへリンク）;https://www.nihonhoiku.co.jp/blog/wakufukuro/|赤羽北2-15-3（袋小学校内）|03-3907-6277|委託|\n|わくわく八幡ひろば（外部サイトへリンク）;https://www.like-kd.co.jp/academy/establishment/club/hachiman/index.html|赤羽台3-18-5（八幡小学校内）|03-3907-0361|委託|\n| |浮間3-4-27（浮間小学校内）|03-3967-5811|ひろば|\n| | | |直営|\n|わくわく浮間ひろば;https://www.city.kita.tokyo.jp/k-wakuwaku/kosodatekyoiku/plan/ukima.html| | |学童クラブ　|\n| | | |委託|\n|わくわく西浮間ひろば（外部サイトへリンク）;https://www.nihonhoiku.co.jp/blog/wakunishiukima/|浮間2-7-1（西浮間小学校内）|03-3960-3580|委託|\n|わくわく赤西ひろば（外部サイトへリンク）;https://www.nihonhoiku.co.jp/blog/wakuakanishi/|赤羽台2-1-34（赤羽台西小学校内）|03-3900-5620|委託|\n|わくわく西が丘ひろば;https://www.city.kita.tokyo.jp/k-wakuwaku/kosodatekyoiku/plan/nishigaoka.html|西が丘1-12-14（西が丘小学校内）|03-3905-3023|直営|\n|わくわく滝野川ひろば;https://www.city.kita.tokyo.jp/k-wakuwaku/kosodatekyoiku/plan/takinogawa.html|西ケ原1-18-10（滝野川小学校内）|03-3910-4121|ひろば|\n| | | |直営|\n| | | |学童クラブ|\n| | | |委託|\n|わくわく滝二ひろば（外部サイトへリンク）;http://wakuwakuhiroba.jp/takinihiroba/|滝野川6-19-4（滝野川第二小学校内）|03-3918-3770|委託|\n|わくわく滝三ひろば（外部サイトへリンク）;http://wakuwakuhiroba.jp/takisanhiroba/|滝野川1-12-27（滝野川第三小学校内）|03-3918-9901|委託|\n|わくわく滝四ひろば（外部サイトへリンク）;https://www.seirouin.or.jp/taki4/|東田端2-5-23（滝野川第四小学校内）|03-3809-0152|委託|\n|わくわく滝五ひろば;https://www.city.kita.tokyo.jp/k-wakuwaku/kosodatekyoiku/plan/takigo.html|昭和町3-3-12（滝野川第五小学校内）|03-3894-7411|直営|\n|わくわく西ケ原ひろば;https://www.city.kita.tokyo.jp/k-wakuwaku/kosodatekyoiku/plan/nishigahara.html|西ケ原4-19-21（西ケ原小学校内）|03-3918-3720|ひろば|\n| | | |直営|\n| | | |学童クラブ|\n| | | |委託|\n|わくわく谷端ひろば（外部サイトへリンク）;http://wakuwakuhiroba.jp/yabatahiroba/|滝野川7-12-17（谷端小学校内）|03-3918-0918|委託|\n|わくわく田端ひろば（外部サイトへリンク）;https://secure02.red.shared-server.net/www.seirouin.or.jp/tabata/|田端5-4-1（田端小学校内）|03-3827-0322|委託|\n|わくわく滝野川もみじひろば（外部サイトへリンク）;https://www.nihonhoiku.co.jp/blog/wakutakimomiji/|滝野川3-72-1（滝野川もみじ小学校内）|03-3915-5100|委託|\n\n『わくわく☆ひろば』は学校管理外の事業です。\n北区子ども未来部子どもわくわく課の責任のもと管理運営しています。\n\n添付ファイル\nわくわく☆ひろばパンフレット;https://www.city.kita.tokyo.jp/k-wakuwaku/kosodate/plan/documents/r7wakuwakupamphlet.pdf\nわくわく☆ひろば（一般登録）登録申込書;https://www.city.kita.tokyo.jp/k-wakuwaku/kosodate/plan/documents/r6wakuwakutourokuyoushi.pdf",
+      "target": {
+        "targetPersons": "子どもたち",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "平日の放課後や土曜日、夏休みなどの長期休業期間中"
+      },
+      "implementationPlace": {
+        "implementationName": "わくわく王子ひろば,わくわく王一ひろば,わくわく王二ひろば,わくわく王三ひろば,わくわく王五ひろば,わくわく豊川ひろば,わくわく堀船ひろば,わくわく柳田ひろば,わくわく東十条ひろば,わくわくとしま若葉ひろば,わくわく十条ひろば,わくわく赤羽ひろば,わくわく岩淵ひろば,わくわくなでしこひろば,わくわく四岩ひろば,わくわく梅木ひろば,わくわく都の北ひろば,わくわく桐ケ丘郷ひろば,わくわく袋ひろば,わくわく八幡ひろば,わくわく浮間ひろば,わくわく西浮間ひろば,わくわく赤西ひろば,わくわく西が丘ひろば,わくわく滝野川ひろば,わくわく滝二ひろば,わくわく滝三ひろば,わくわく滝四ひろば,わくわく滝五ひろば,わくわく西ケ原ひろば,わくわく谷端ひろば,わくわく田端ひろば,わくわく滝野川もみじひろば",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kita.tokyo.jp/k-wakuwaku/kosodate/plan/wakuwaku.html",
+        "title": "放課後子ども総合プラン『わくわく☆ひろば』"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども未来部子どもわくわく課運営支援係",
+        "contactPhone": "03-3908-9361",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1148546",
+        "contactAddress": "東京都北区滝野川2-52-10（旧滝野川中学校）北区役所滝野川分庁舎1階1番"
+      },
+      "area": {
+        "areaCode": "131172;北区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131172+1+UM5028",
+        "organization": "8000020131172",
+        "compartment": "子ども未来部子どもわくわく課運営支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/11/27",
+      "odInformation": {
+        "updateDate": "2025/03/04",
+        "updater": "北区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

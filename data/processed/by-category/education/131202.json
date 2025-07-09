@@ -1,0 +1,402 @@
+{
+  "version": "2025-07-09T05:55:17.809Z",
+  "areaCode": "131202",
+  "areaName": "練馬区",
+  "category": "education",
+  "count": 3,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "出産費貸付制度",
+        "shortName": "福祉資金の貸付（生活福祉資金）"
+      },
+      "summary": "所得の少ない世帯や障害者のいる世帯などに対して、分娩入院経費および出産に伴って必要となる経費の貸付を行います。（貸付には条件があります。）",
+      "description": "福祉資金の貸付（生活福祉資金）\n現在のページ\nトップページくらし・手続き人権・男女共同参画・その他福祉生活に困ったとき福祉資金の貸付（生活福祉資金）\nページ番号：904-304-383\n\n更新日：2019年4月17日\n\n対象\n　所得の少ない世帯、障害者や介護を要する高齢者のいる世帯が対象となります。\n※各資金には、それぞれに貸付の条件・基準が定められています。\n\n種類\n教育支援費、転居費、療費、介護費、出産、葬儀費など\n\n利子\n教育支援費、連帯保証人有は無利子、連帯保証人無は年利率1．5％\n\n関連情報\t\n練馬区社会福祉協議会各種資金の貸付（外部サイト）　;https://www.neri-shakyo.com/service/loan_advisement",
+      "target": {
+        "targetPersons": "所得の少ない世帯、障害者や介護を要する高齢者のいる世帯が対象となります。\n※各資金には、それぞれに貸付の条件・基準が定められています。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "福祉資金の貸付",
+        "monetarySupport": "福祉資金の貸付",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": "教育支援費、連帯保証人有は無利子、連帯保証人無は年利率1．5％",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "練馬区社会福祉協議会生活福祉係\n〒176-0012　練馬区豊玉北5丁目14番6号　新練馬ビル5階\n電話：03-3991-5560",
+      "relatedLink": [
+        {
+          "uri": "https://www.tcsw.tvac.or.jp/shikin/documents/hukushishikinnogoannnai.pdf",
+          "title": "詳細・パンフレット（東京都社会福祉協議会ホームページ）（外部サイト）"
+        },
+        {
+          "uri": "https://www.neri-shakyo.com/service/loan_advisement",
+          "title": "各種資金の貸付相談"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.nerima.tokyo.jp/kurashi/jinken/komatta/hukusisikinn.html\n",
+        "title": "福祉資金の貸付（生活福祉資金）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "練馬区社会福祉協議会\n生活福祉係",
+        "contactPhone": "03-3991-5560",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.nerima.tokyo.jp/cgi-bin/formmail/formmail.cgi?d=060010070000,https://www.city.nerima.tokyo.jp/cgi-bin/formmail/formmail.cgi?d=060010080000,https://www.city.nerima.tokyo.jp/cgi-bin/formmail/formmail.cgi?d=060010090000,https://www.city.nerima.tokyo.jp/cgi-bin/formmail/formmail.cgi?d=060010100000",
+        "contactComment": null,
+        "zipCode": "1760012",
+        "contactAddress": "練馬区豊玉北5丁目14番6号　新練馬ビル5階"
+      },
+      "area": {
+        "areaCode": "131202;練馬区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020131202+1+UM20",
+        "organization": "3000020131202",
+        "compartment": "練馬総合福祉事務所,光が丘総合福祉事務所,石神井総合福祉事務所,大泉総合福祉事務所",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2019-04-17",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "練馬区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "練馬区国民健康保険高額療養費資金および出産費資金貸付条例",
+        "regulationArticle": "条例全体"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "放課後子供教室",
+        "shortName": "ひろば事業（児童放課後等居場所づくり事業,ねりっこひろば）"
+      },
+      "summary": "地域住民の参画を得て、放課後等に主に当該小学校に在籍し、事前に登録した児童を対象として、学習や体験・交流といった多様な活動を行っています。",
+      "description": "児童の遊び場の確保や異年齢児の交流、読書の推進を目的として、\n放課後帰宅せずに参加できる「安全・安心な居場所」を学校施設内に確保する事業です。\nねりっこクラブ実施校で実施する「ねりっこひろば」と学校応援団によるひろば事業があります。",
+      "target": {
+        "targetPersons": "ねりっこひろばは、実施校の全児童で事前登録した児童および、実施校のねりっこ学童クラブ入会児童が対象です。\n学校応援団によるひろば事業は、当該小学校に在学し、事前登録した児童が対象です。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "小学生"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "補償制度料（500円）",
+      "costConditions": "年額",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "ねりっこひろば\n授業のある日：放課後～午後5時\n授業のない日：午前 9時～午後5時（夏休み等の長期休業中）\n※冬期は午後４時30分まで\n\n学校応援団のひろば事業\n授業のある平日放課後～午後5時\n※冬季は4時30分まで"
+      },
+      "specificDate": null,
+      "holiday": "ねりっこひろば\n授業のない土曜、日曜、祝休日、年末年始等\n\n学校応援団のひろば事業\n土日祝日、夏休み等の長期休業中",
+      "utilization": "出欠や帰宅時間については、登校前に児童と保護者で必ず約束してください。\n授業終了後、家に帰らず直接ひろばに参加することができます。\nねりっこひろばは、長期休業中等授業のない日は、一日を通して、参加することができます。また、一度家に帰ってから遊びに来ることもできます。\n",
+      "procedurePersons": null,
+      "procedureMethod": "事前登録が必要です。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "ねりっこひろば\n各ねりっこひろば\n\n学校応援団のひろば事業\n各学校応援団",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/nerikkoclub/nerikkounnei.html",
+          "title": "ねりっこクラブの運営について"
+        },
+        {
+          "uri": "https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/oendan/hirobadukuri.files/r6_hiroba.pdf",
+          "title": "学校応援団によるひろば事業実施校"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/nerikkoclub/index.html,https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/nerikkoclub/gaiyou.html,https://www.city.nerima.tokyo.jp/kankomoyoshi/shogaigakushu/oendan/hirobadukuri.html",
+        "title": "ねりっこクラブ（練馬型放課後児童対策事業）,ねりっこクラブ事業概要,ひろば事業（児童放課後等居場所づくり事業）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭部　子育て支援課　放課後対策第一係,学校応援団・開放係",
+        "contactPhone": "電話：03-5984-1519（直通）,03-5984-1057（直通） ",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1768501",
+        "contactAddress": "練馬区豊玉北6-12-1"
+      },
+      "area": {
+        "areaCode": "131202;練馬区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020131202+1+UM5028",
+        "organization": "3000020131202",
+        "compartment": "こども家庭部　子育て支援課　放課後対策第一係,学校応援団・開放係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2025/03/07",
+        "updater": "練馬区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て支援パスポート",
+        "shortName": "子育て応援とうきょうパスポート"
+      },
+      "summary": "「子育て支援パスポート事業」は、子育てを応援しようとする社会的機運の醸成を目的として推進している事業であり、企業・店舗等が、子育て世帯や妊娠中の方がいる世帯に対して、様々なサービスを提供する仕組みです。",
+      "description": "子育て応援とうきょうパスポート\n現在のページ\nトップページ子育て・教育子育て子育て応援とうきょうパスポート\nページ番号：788-042-997\n\n更新日：2023年5月10日\n\n　東京都は、子育てを応援しようとする社会的気運の醸成を目的として企業・店舗等が、善意により、子育て世代や妊婦の方に対して様々なサービスを提供する仕組み「子育て応援パスポート事業」を、平成28年10月から実施しています。\n\n　協賛ステッカーの貼ってある協賛店では、粉ミルクのお湯やおむつ替えスペースの提供といった乳幼児向けのサービスや、商品の割引等様々なサービスをご提供します。\n\nご利用にあたって\n　子育て世帯・妊婦の方がサービスを利用するには、東京都が発行するパスポートが必要となります。パスポートは、チラシに付いているものと、サイトからスマートフォンなどにダウンロードするデジタルパスポートがあります。\n　このパスポートには、全国共通マークが記載されており、子育て世帯は都内だけでなく、全国の協賛店等でサービスの提供を受けることができます。\n\n　詳細は東京都の子育て情報サイト「とうきょう子育てスイッチ」で公表しています。\n\n詳しい内容について\n詳しくは下記リンクをご覧ください。\n\nとうきょう子育てスイッチ（外部サイト）　;https://kosodateswitch.metro.tokyo.lg.jp/\n\n子育て応援とうきょうパスポート事業（東京都福祉保健局）（外部サイト）　;http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/passport/passport01.html\n\nパスポート付きちらし配布場所（練馬区内）\n練馬区では下記の場所でパスポート付きチラシを配布しています。必要事項を記入し切り離してご利用ください。\n\n練馬区役所本庁舎 10階　子育て支援課庶務係\n練馬区豊玉北5丁目28番3号　子ども家庭支援センター\n練馬区立各児童館",
+      "target": {
+        "targetPersons": "子育て世代や妊婦の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "協賛ステッカーの貼ってある協賛店では、粉ミルクのお湯やおむつ替えスペースの提供といった乳幼児向けのサービスや、商品の割引等様々なサービスをご提供します",
+        "monetarySupport": null,
+        "materiallySupport": "協賛ステッカーの貼ってある協賛店では、粉ミルクのお湯やおむつ替えスペースの提供といった乳幼児向けのサービスや、商品の割引等様々なサービスをご提供します"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "子育て世帯・妊婦の方がサービスを利用するには、東京都が発行するパスポートが必要となります。パスポートは、チラシに付いているものと、サイトからスマートフォンなどにダウンロードするデジタルパスポートがあります。\n　このパスポートには、全国共通マークが記載されており、子育て世帯は都内だけでなく、全国の協賛店等でサービスの提供を受けることができます。\n\n　詳細は東京都の子育て情報サイト「とうきょう子育てスイッチ」で公表しています。\nとうきょう子育てスイッチ（外部サイト）　;https://kosodateswitch.metro.tokyo.lg.jp/\n\n子育て応援とうきょうパスポート事業（東京都福祉保健局）（外部サイト）　;http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/passport/passport01.html",
+      "procedureMethod": "ご利用にあたって\n　子育て世帯・妊婦の方がサービスを利用するには、東京都が発行するパスポートが必要となります。パスポートは、チラシに付いているものと、サイトからスマートフォンなどにダウンロードするデジタルパスポートがあります。\n　このパスポートには、全国共通マークが記載されており、子育て世帯は都内だけでなく、全国の協賛店等でサービスの提供を受けることができます。\n\n　詳細は東京都の子育て情報サイト「とうきょう子育てスイッチ」で公表しています。\n\n詳しい内容について\n詳しくは下記リンクをご覧ください。\n\nとうきょう子育てスイッチ（外部サイト）　;https://kosodateswitch.metro.tokyo.lg.jp/\n\n子育て応援とうきょうパスポート事業（東京都福祉保健局）（外部サイト）　;http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/passport/passport01.html\n\nパスポート付きちらし配布場所（練馬区内）\n練馬区では下記の場所でパスポート付きチラシを配布しています。必要事項を記入し切り離してご利用ください。\n\n練馬区役所本庁舎 10階　子育て支援課庶務係\n練馬区豊玉北5丁目28番3号　子ども家庭支援センター\n練馬区立各児童館",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "東京都が発行するパスポートが必要となります。パスポートは、チラシに付いているものと、サイトからスマートフォンなどにダウンロードするデジタルパスポートがあります。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "練馬区役所本庁舎 10階　子育て支援課庶務係,練馬区豊玉北5丁目28番3号　子ども家庭支援センター,練馬区立各児童館",
+      "relatedLink": [
+        {
+          "uri": "https://kosodateswitch.metro.tokyo.lg.jp/",
+          "title": "とうきょう子育てスイッチ（外部サイト）　"
+        },
+        {
+          "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/passport/passport01.html",
+          "title": "子育て応援とうきょうパスポート事業（東京都福祉保健局）（外部サイト）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.nerima.tokyo.jp/kosodatekyoiku/kodomo/kosooutokyopassport.html",
+        "title": "子育て応援とうきょうパスポート"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭部　子育て支援課　庶務係",
+        "contactPhone": "03-5984-5817",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.nerima.tokyo.jp/cgi-bin/formmail/formmail.cgi?d=060030010000",
+        "contactComment": "ファクス：03-5984-1220",
+        "zipCode": "1768501",
+        "contactAddress": "東京都練馬区豊玉北6丁目12番1号"
+      },
+      "area": {
+        "areaCode": "131202;練馬区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020131202+1+UM802",
+        "organization": "3000020131202",
+        "compartment": "こども家庭部　子育て支援課　庶務係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-05-10",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "練馬区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "少子化社会対策大綱（平成27年3月20日閣議決定）",
+        "regulationArticle": "対策大綱全体"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

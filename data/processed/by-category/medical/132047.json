@@ -1,0 +1,4409 @@
+{
+  "version": "2025-07-09T05:55:17.815Z",
+  "areaCode": "132047",
+  "areaName": "三鷹市",
+  "category": "medical",
+  "count": 34,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "先天性代謝異常等検査",
+        "shortName": "先天性代謝異常の健康診査"
+      },
+      "summary": "東京都ではフェニルケトン尿症等の先天性代謝異常や先天性甲状腺機能低下症（クレチン症）などの内分泌疾患を早期に発見するために、先天性代謝異常等検査を行っています。\nこれらの疾患を放っておくと、生まれた時は健康に見えても、身体障害や知的障害が発生したり、時には生命の危険にさらされたりする場合もあります。しかし、疾患を早期に発見し、適切な治療を続けることで、障害などの発生を未然に防ぐことができます。",
+      "description": "東京都では、赤ちやんの病気の早期発見のために、先天性代謝異常等の病気の検査を行っています\n都内で出産されるかた\n先天性代謝異常等検査申し込み書は医療機関に置いてあります。\n保護者のかたは、出産された病院に用意されている申し込み書に記入の上、検査を受けることができます\n検査の費用は公費負担となりますが、採血料等は保護者のかたの負担となります。\n東京都外で出産されるかた\n申し込み方法や費用については、出産予定の医療機関、または各道府県庁等の母子保健事業担当係に直接お問い合わせください\n関連リンク\n東京都福祉局　先天性代謝異常等検査（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/taisyaijou.html",
+      "target": {
+        "targetPersons": "保護者のかた",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "検査の費用は公費負担となります",
+        "monetarySupport": "検査の費用は公費負担となります",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": "検査の費用は公費負担となりますが、採血料等は保護者のかたの負担となります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "保護者のかた",
+      "procedureMethod": "都内で出産されるかた\n先天性代謝異常等検査申し込み書は医療機関に置いてあります。\n保護者のかたは、出産された病院に用意されている申し込み書に記入の上、検査を受けることができます\n検査の費用は公費負担となりますが、採血料等は保護者のかたの負担となります。\n東京都外で出産されるかた\n申し込み方法や費用については、出産予定の医療機関、または各道府県庁等の母子保健事業担当係に直接お問い合わせください\n関連リンク\n東京都福祉局　先天性代謝異常等検査（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/taisyaijou.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "都内で出産されるかた\n医療機関\n東京都外で出産されるかた\n申し込み方法や費用については、出産予定の医療機関、または各道府県庁等の母子保健事業担当係に直接お問い合わせください",
+      "relatedLink": [
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/taisyaijou.html",
+          "title": "東京都福祉局　先天性代謝異常等検査（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/001/001048.html",
+        "title": "先天性代謝異常の健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 母子保健係",
+        "contactPhone": "0422-46-3254",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+        "contactComment": null,
+        "zipCode": "1810004",
+        "contactAddress": "東京都三鷹市新川六丁目37番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+1+UM10",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部 子ども家庭課 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-07-28",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "図書館の児童サービス（ブックスタートなど）",
+        "shortName": "こんにちは赤ちゃん（乳児家庭全戸訪問）事業"
+      },
+      "summary": "ブックスタートとは、赤ちゃんとその保護者に絵本をプレゼントし、絵本を開く楽しい体験とともに、心ふれあうきっかけをつくる活動です。",
+      "description": "こんにちは赤ちゃん（乳児家庭全戸訪問）事業\nおおむね生後4か月までの赤ちゃんがいる家庭を地域の民生・児童委員が訪問します\nお住まいの地域の民生・児童委員;https://www.city.mitaka.lg.jp/c_service/043/043087.htmlが子育て支援に関する情報を提供し、お子さんの誕生を祝う「ブックスタート（外部リンク）;https://www.library.mitaka.tokyo.jp/kidscontents?8&pid=71（はじめての絵本）事業」の絵本をお届けします。\n\n赤ちゃんのいる家庭と地域をつなぐ最初の機会です\n民生・児童委員は地域を見守る頼れる存在です。\n子育ての不安や悩みも相談できます。\n\n訪問日のお知らせが届きます\n生後2か月を過ぎた頃、訪問日のお知らせが届くのをお待ちください。\n申し込みの必要はありません。",
+      "target": {
+        "targetPersons": "おおむね生後4か月までの赤ちゃんがいる家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "おおむね生後4か月までの赤ちゃん"
+      },
+      "support": {
+        "description": "子育て支援に関する情報を提供し、お子さんの誕生を祝う「ブックスタート（外部リンク）;https://www.library.mitaka.tokyo.jp/kidscontents?8&pid=71（はじめての絵本）事業」の絵本をお届けします。",
+        "monetarySupport": null,
+        "materiallySupport": "子育て支援に関する情報を提供し、お子さんの誕生を祝う「ブックスタート（外部リンク）;https://www.library.mitaka.tokyo.jp/kidscontents?8&pid=71（はじめての絵本）事業」の絵本をお届けします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "生後2か月を過ぎた頃、訪問日のお知らせが届くのをお待ちください。",
+      "procedurePersons": null,
+      "procedureMethod": "申し込みの必要はありません。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.mitaka.lg.jp/c_service/043/043087.html",
+          "title": "民生・児童委員"
+        },
+        {
+          "uri": "https://www.library.mitaka.tokyo.jp/kidscontents?8&pid=71",
+          "title": "ブックスタート（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/104/104004.html",
+        "title": "こんにちは赤ちゃん（乳児家庭全戸訪問）事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 子ども家庭支援センターりぼん",
+        "contactPhone": "0422-40-5925",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+        "contactComment": null,
+        "zipCode": "1818505",
+        "contactAddress": "東京都三鷹市下連雀九丁目11番7号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+1+UM105",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部子ども家庭課子ども家庭支援センターりぼん",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-07-25",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦訪問",
+        "shortName": "産前・産後の相談"
+      },
+      "summary": "妊産婦の方（妊娠中または出産後1年以内）を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、妊娠期間中や出産後の不安や悩みについての相談等を行います。",
+      "description": "産前・産後のご家庭をサポートします！\n　三鷹市では、妊娠期から子育て期にわたり、妊婦さんや産後のお母さんお父さんとそのご家族を切れ目なく応援しています。\n\n　妊娠中や出産直後は赤ちゃんを迎える喜びと同時に、お母さんのお身体やお気持ち、赤ちゃんを取り巻く家族のかたちも変化していきます。お母さん、お父さんの気持ちに寄り添いながら、ご相談に応じます。\n\n　「赤ちゃんを迎える準備はこれで十分かな？」「赤ちゃんのおむつ替えや抱っこは上手にできているかな？」「赤ちゃんとの過ごし方を知りたい！」など、気になることをお気軽にご相談ください。\n\n利用できる方\n市内在住の妊産婦とその家族\n\n費用\n無料\n\n内容\n保健師、助産師が自宅に訪問またはお電話で、妊娠・出産や子育てに関する相談をお受けします。\n\nゆっくりお話を聞いたり、一緒に考えたり、市内の子育て支援サービスの紹介もいたします。\n\n三鷹市総合保健センター(電話 0422-46-3254)",
+      "target": {
+        "targetPersons": "市内在住の妊産婦とその家族",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠・出産や子育てに関する相談をお受けします。",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠・出産や子育てに関する相談をお受けします。"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "市内在住の妊産婦とその家族",
+      "procedureMethod": "保健師、助産師が自宅に訪問またはお電話で、妊娠・出産や子育てに関する相談をお受けします。\n\nゆっくりお話を聞いたり、一緒に考えたり、市内の子育て支援サービスの紹介もいたします。\n\n三鷹市総合保健センター(電話 0422-46-3254)",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産日より1年間"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "三鷹市総合保健センター(電話 0422-46-3254)",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/092/092586.html",
+        "title": "産前・産後の相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 母子保健係",
+        "contactPhone": "0422-46-3254",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+        "contactComment": null,
+        "zipCode": "1810004",
+        "contactAddress": "東京都三鷹市新川六丁目37番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+1+UM11",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部 子ども家庭課 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-11-15",
+      "odInformation": {
+        "updateDate": "2024-07-09",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条（妊産婦の訪問指導等）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て支援拠点・地域子育て支援センター",
+        "shortName": "親子ひろば"
+      },
+      "summary": "三鷹市では市内の「親子ひろば」などを子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+      "description": "親子ひろばについて\n「親子ひろば」は、主に乳幼児を持つ地域の子育て家庭を支援するための場所です。\n\n子どもや親同士が気軽に集い、和やかな雰囲気の中で語り合うことができます。\n\nまた各親子ひろばでは、月に1回程度、育児講座などを開催しています。\n\n施設一覧\n三鷹市内親子ひろば一覧\n|名称|住所|電話番号|\n|:----|:----|:----|\n|親子ひろばぴっぴ|井の頭5-23-8|45-4558|\n|東多世代交流センター|牟礼2-13-19|44-2150|\n|つくつくひろば|新川1-10-20|03-5384-2441|\n|HOT・ホッと・きらきら|新川6-7-8|71-2211|\n|親子ひろばひよこ|新川6-37-1<br>三鷹中央防災公園・元気創造プラザ1階|45-1122|\n|ちきんえっぐ|井口1-23-9|30-5923|\n|むらさき子どもひろば|下連雀1-25-2|49-5500|\n|子育てひろばあおいとり|下連雀2-18-12|090-1800-1470|\n|親子ひろばひまわり|下連雀3-30-12<br>三鷹市中央通りタウンプラザ3階|79-5441|\n|子育て広場　「モモ」|下連雀3-45-16<br>びゅうリエット三鷹3階|26-9270|\n|こども家庭支援センター<br>すくすくひろば|下連雀4-19-6|45-7710|\n|子育てひろばポピンズ<br>三鷹下連雀|下連雀5-1-1-E2|26-6765|\n|子育てひろばひだまり|下連雀7-6-18|49-2671|\n|つぎあてポッケ|大沢1-16-26|34-0040|\n|しいのみクラブ|大沢4-8-8|32-4103|\n|子育てひろば　てくてく|深大寺1-3-3|26-4381|\n|西多世代交流センター|深大寺2-3-5|31-6039|\n\n「子育て支援サイトみたかきっずナビ」から施設の詳細を検索することができます。\n\n下記リンク先よりご確認ください。\n\n施設情報・おでかけマップ（外部リンク）;https://kosodate-mitaka.mchh.jp/Facility",
+      "target": {
+        "targetPersons": "主に乳幼児を持つ地域の子育て家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "「親子ひろば」は、主に乳幼児を持つ地域の子育て家庭を支援するための場所です。\n\n子どもや親同士が気軽に集い、和やかな雰囲気の中で語り合うことができます。\n\nまた各親子ひろばでは、月に1回程度、育児講座などを開催しています。",
+        "monetarySupport": null,
+        "materiallySupport": "「親子ひろば」は、主に乳幼児を持つ地域の子育て家庭を支援するための場所です。\n\n子どもや親同士が気軽に集い、和やかな雰囲気の中で語り合うことができます。\n\nまた各親子ひろばでは、月に1回程度、育児講座などを開催しています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "三鷹市内親子ひろば一覧\n|名称|住所|電話番号|\n|:----|:----|:----|\n|親子ひろばぴっぴ|井の頭5-23-8|45-4558|\n|東多世代交流センター|牟礼2-13-19|44-2150|\n|つくつくひろば|新川1-10-20|03-5384-2441|\n|HOT・ホッと・きらきら|新川6-7-8|71-2211|\n|親子ひろばひよこ|新川6-37-1<br>三鷹中央防災公園・元気創造プラザ1階|45-1122|\n|ちきんえっぐ|井口1-23-9|30-5923|\n|むらさき子どもひろば|下連雀1-25-2|49-5500|\n|子育てひろばあおいとり|下連雀2-18-12|090-1800-1470|\n|親子ひろばひまわり|下連雀3-30-12<br>三鷹市中央通りタウンプラザ3階|79-5441|\n|子育て広場　「モモ」|下連雀3-45-16<br>びゅうリエット三鷹3階|26-9270|\n|こども家庭支援センター<br>すくすくひろば|下連雀4-19-6|45-7710|\n|子育てひろばポピンズ<br>三鷹下連雀|下連雀5-1-1-E2|26-6765|\n|子育てひろばひだまり|下連雀7-6-18|49-2671|\n|つぎあてポッケ|大沢1-16-26|34-0040|\n|しいのみクラブ|大沢4-8-8|32-4103|\n|子育てひろば　てくてく|深大寺1-3-3|26-4381|\n|西多世代交流センター|深大寺2-3-5|31-6039|\n\n「子育て支援サイトみたかきっずナビ」から施設の詳細を検索することができます。\n\n下記リンク先よりご確認ください。\n\n施設情報・おでかけマップ（外部リンク）",
+        "implementationAddress": "三鷹市内親子ひろば一覧\n|名称|住所|電話番号|\n|:----|:----|:----|\n|親子ひろばぴっぴ|井の頭5-23-8|45-4558|\n|東多世代交流センター|牟礼2-13-19|44-2150|\n|つくつくひろば|新川1-10-20|03-5384-2441|\n|HOT・ホッと・きらきら|新川6-7-8|71-2211|\n|親子ひろばひよこ|新川6-37-1<br>三鷹中央防災公園・元気創造プラザ1階|45-1122|\n|ちきんえっぐ|井口1-23-9|30-5923|\n|むらさき子どもひろば|下連雀1-25-2|49-5500|\n|子育てひろばあおいとり|下連雀2-18-12|090-1800-1470|\n|親子ひろばひまわり|下連雀3-30-12<br>三鷹市中央通りタウンプラザ3階|79-5441|\n|子育て広場　「モモ」|下連雀3-45-16<br>びゅうリエット三鷹3階|26-9270|\n|こども家庭支援センター<br>すくすくひろば|下連雀4-19-6|45-7710|\n|子育てひろばポピンズ<br>三鷹下連雀|下連雀5-1-1-E2|26-6765|\n|子育てひろばひだまり|下連雀7-6-18|49-2671|\n|つぎあてポッケ|大沢1-16-26|34-0040|\n|しいのみクラブ|大沢4-8-8|32-4103|\n|子育てひろば　てくてく|深大寺1-3-3|26-4381|\n|西多世代交流センター|深大寺2-3-5|31-6039|\n\n「子育て支援サイトみたかきっずナビ」から施設の詳細を検索することができます。\n\n下記リンク先よりご確認ください。\n\n施設情報・おでかけマップ（外部リンク）"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://kosodate-mitaka.mchh.jp/Facility",
+          "title": "施設情報・おでかけマップ（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/106/106081.html",
+        "title": "親子ひろば（地域子育て支援拠点事業）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課",
+        "contactPhone": "0422-45-3031",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+        "contactComment": null,
+        "zipCode": "1810004",
+        "contactAddress": "東京都三鷹市新川六丁目37番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+1+UM110",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部 子ども家庭課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-01-29",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法、児童福祉法",
+        "regulationArticle": "第6条の3第6項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "三鷹市の子育てに関する相談",
+        "shortName": "子どもと家庭に関する総合相談"
+      },
+      "summary": "子ども家庭支援センターりぼんでは、子どもと家庭に関する総合相談など、あらゆる相談に応じます。",
+      "description": "子どもと家庭に関する総合相談など、あらゆる相談に応じます\n所在地\n〒181-8505\n三鷹市下連雀九丁目11番7号\n教育センター　2階\n周辺の地図情報(三鷹市わがまちマップ)（外部リンク）;http://www2.wagmap.jp/mitakacity/APIDetail/Gate?API=1&linkid=322c7ee9-9ee1-4de1-b005-b0dd4256827f&mid=4\n\n電話番号\n0422-40-5925\n\n対象\n0歳から18歳未満の児童及びその保護者。\n\n内容\n相談\n子どもと家庭に関する総合相談。あらゆる相談に応じます。無料で相談できます。\n\nショートステイ事業などの受付・調整\nショートステイ事業などの相談・受付・調整をおこなっています。そのほかのサービス提供の相談にも応じています。\n\n利用時間\n月曜日～金曜日 午前8時30分～午後5時\n\n休館日\n土曜日、日曜日、祝日、年末年始",
+      "target": {
+        "targetPersons": "0歳から18歳未満の児童及びその保護者",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "0歳から18歳未満の児童"
+      },
+      "support": {
+        "description": "相談\n子どもと家庭に関する総合相談。あらゆる相談に応じます。無料で相談できます。\n\nショートステイ事業などの受付・調整\nショートステイ事業などの相談・受付・調整をおこなっています。そのほかのサービス提供の相談にも応じています。",
+        "monetarySupport": null,
+        "materiallySupport": "相談\n子どもと家庭に関する総合相談。あらゆる相談に応じます。無料で相談できます。\n\nショートステイ事業などの受付・調整\nショートステイ事業などの相談・受付・調整をおこなっています。そのほかのサービス提供の相談にも応じています。"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "子ども家庭支援センター りぼん",
+        "implementationAddress": "三鷹市下連雀九丁目11番7号\n教育センター　2階\n周辺の地図情報(三鷹市わがまちマップ)（外部リンク）"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:30",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "月曜日～金曜日 午前8時30分～午後5時"
+      },
+      "specificDate": null,
+      "holiday": "土曜日、日曜日、祝日、年末年始",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "http://www2.wagmap.jp/mitakacity/APIDetail/Gate?API=1&linkid=322c7ee9-9ee1-4de1-b005-b0dd4256827f&mid=4",
+          "title": "周辺の地図情報(三鷹市わがまちマップ)（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/085/085325.html",
+        "title": "子ども家庭支援センター りぼん"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 子ども家庭支援センターりぼん",
+        "contactPhone": "0422-40-5925",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+        "contactComment": null,
+        "zipCode": "1818505",
+        "contactAddress": "東京都三鷹市下連雀九丁目11番7号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+1+UM119",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部 子ども家庭課 子ども家庭支援センターりぼん",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-20",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関するその他のこと",
+        "shortName": "東京都児童虐待を防止するためのLINE相談窓口"
+      },
+      "summary": "東京都では、子育ての悩みや困っていることなどについてLINEで相談を行っています。",
+      "description": "困っていること、子育ての悩みLINEで相談してみませんか\n（子ゴコロ・親ゴコロ相談＠東京）\n子育ての悩みや困っていることなど、ひとりで抱え込まず、気軽に相談してください。\n\n相談対応時間\n平日\n午前9時～午後11時（受付は午後10時30分まで）\n\n土曜日・日曜日・祝日\n午前9時～午後5時　\n\nLINE公式アカウント名                      \n子ゴコロ・親ゴコロ相談＠東京                                                  \n\n対象は？\n都内にお住まいのお子さんと保護者のかたです。\n虐待の通告も受けるの？\n児童相談所全国共通ダイヤル189をご利用ください。\n画像：「子ゴコロ・親ゴコロ相談＠東京」に友だち登録するための二次元コード;https://www.city.mitaka.lg.jp/c_service/081/images/img_81188_2_1_thumb.jpg\nこちらのQRコードからアクセスできます\n\nどうやったら利用できるの？\n右記QRコードを読み取り、友だち登録をして、相談してください。\nお問い合わせ\n福祉保健局少子社会対策部計画課 03-5320-4137\n\n関連リンク\n東京都ホームページ\n児童虐待を防止するためのLINE相談「子ゴコロ・親ゴコロ相談＠東京」（外部リンク）;htttps://www.fukushihoken.metro.tokyo.lg.jp/kodomo/katei/linesoudan.html",
+      "target": {
+        "targetPersons": "都内にお住まいのお子さんと保護者のかた",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "平日\n午前9時～午後11時（受付は午後10時30分まで）\n\n土曜日・日曜日・祝日\n午前9時～午後5時　"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "都内にお住まいのお子さんと保護者のかた",
+      "procedureMethod": "LINE公式アカウント名                      \n子ゴコロ・親ゴコロ相談＠東京                                                  \n\n対象は？\n都内にお住まいのお子さんと保護者のかたです。\n虐待の通告も受けるの？\n児童相談所全国共通ダイヤル189をご利用ください。\nhttps://www.city.mitaka.lg.jp/c_service/081/images/img_81188_2_1_thumb.jpg\nこちらのQRコードからアクセスできます\n\nどうやったら利用できるの？\n右記QRコードを読み取り、友だち登録をして、相談してください。\nお問い合わせ\n福祉保健局少子社会対策部計画課 03-5320-4137\n\n関連リンク\n東京都ホームページ\n児童虐待を防止するためのLINE相談「子ゴコロ・親ゴコロ相談＠東京」（外部リンク）;htttps://www.fukushihoken.metro.tokyo.lg.jp/kodomo/katei/linesoudan.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "平日\n午前9時～午後11時（受付は午後10時30分まで）\n\n土曜日・日曜日・祝日\n午前9時～午後5時　"
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "福祉保健局少子社会対策部計画課 03-5320-4137",
+      "relatedLink": [
+        {
+          "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/katei/linesoudan.html",
+          "title": "児童虐待を防止するためのLINE相談「子ゴコロ・親ゴコロ相談＠東京」（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/081/081188.html",
+        "title": "東京都児童虐待を防止するためのLINE相談窓口"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.mitaka.lg.jp/c_service/081/images/img_81188_2_1_thumb.jpg",
+          "title": "子ゴコロ・親ゴコロ相談＠東京 "
+        }
+      ],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 子ども家庭支援センターりぼん",
+        "contactPhone": "0422-40-5925",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+        "contactComment": null,
+        "zipCode": "1818505",
+        "contactAddress": "東京都三鷹市下連雀九丁目11番7号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+1+UM120",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部 子ども家庭課 子ども家庭支援センターりぼん",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2020-05-18",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "新生児訪問",
+        "shortName": "新生児訪問"
+      },
+      "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+      "description": "三鷹市総合保健センターでは、赤ちゃんが生まれた全てのご家庭を助産師・保健師が訪問します\n赤ちゃんがお生まれになったら、速やかに出生連絡票に入力してください。出生届や出生連絡票をもとにご連絡いたします。\n\nお受けいただいたご家庭にすこやかギフト（子育て支援サービスや育児用品などに交換ができるポイント10万円相当）をお渡しします。\n\n注意事項\n・早めの訪問をご希望のかたはお電話ください。\n・市外にお引越しされたかたはご利用になれません。\n対象\n市内在住の生後90日以内までの乳児がいるすべての家庭\n\n実施期間\n出生後90日以内\n\n訪問の流れについて\n出生届や母子健康手帳に閉じ込まれている「出生連絡票」に入力いただき、それをもとに生後15日以降にお電話いたします。\n連絡がない場合やご転入のかたは、お問い合わせください。\n\n出生連絡票\n母子健康手帳に閉じこまれている「出生連絡票」に入力ください。\n\n三鷹市外の母子健康手帳をお持ちのかたは、出生連絡票入力フォーム（外部リンク）;https://logoform.jp/form/ejBZ/371222から入力ください。\n\nその他\n以下のかたは、総合保健センターにご連絡ください。\n\n・市民のかたで他の市町村での訪問を希望されるかた\n・三鷹市に里帰りされているかたで、滞在中に訪問を希望されるかた\nお問い合わせ先\n三鷹市総合保健センター\n\n電話　0422-46-3254",
+      "target": {
+        "targetPersons": "市内在住の生後90日以内までの乳児がいるすべての家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 3
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "出生後90日以内"
+      },
+      "support": {
+        "description": "お受けいただいたご家庭にすこやかギフト（子育て支援サービスや育児用品などに交換ができるポイント10万円相当）をお渡しします。",
+        "monetarySupport": "お受けいただいたご家庭にすこやかギフト（子育て支援サービスや育児用品などに交換ができるポイント10万円相当）をお渡しします。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出生後90日以内"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "市内在住の生後90日以内までの乳児がいるすべての家庭",
+      "procedureMethod": "赤ちゃんがお生まれになったら、速やかに出生連絡票に入力してください。出生届や出生連絡票をもとにご連絡いたします。\n\nお受けいただいたご家庭にすこやかギフト（子育て支援サービスや育児用品などに交換ができるポイント10万円相当）をお渡しします。\n\n注意事項\n・早めの訪問をご希望のかたはお電話ください。\n・市外にお引越しされたかたはご利用になれません。\n対象\n市内在住の生後90日以内までの乳児がいるすべての家庭\n\n実施期間\n出生後90日以内\n\n訪問の流れについて\n出生届や母子健康手帳に閉じ込まれている「出生連絡票」に入力いただき、それをもとに生後15日以降にお電話いたします。\n連絡がない場合やご転入のかたは、お問い合わせください。\n\n出生連絡票\n母子健康手帳に閉じこまれている「出生連絡票」に入力ください。\n\n三鷹市外の母子健康手帳をお持ちのかたは、出生連絡票入力フォーム（外部リンク）;https://logoform.jp/form/ejBZ/371222から入力ください。\n\nその他\n以下のかたは、総合保健センターにご連絡ください。\n\n・市民のかたで他の市町村での訪問を希望されるかた\n・三鷹市に里帰りされているかたで、滞在中に訪問を希望されるかた\nお問い合わせ先\n三鷹市総合保健センター\n\n電話　0422-46-3254",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出生後90日以内"
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "三鷹市総合保健センター",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/001/001050.html",
+        "title": "新生児訪問のご案内"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/ejBZ/371222",
+          "title": "出生連絡票入力フォーム（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 母子保健係",
+        "contactPhone": "0422-46-3254",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+        "contactComment": null,
+        "zipCode": "1810004",
+        "contactAddress": "東京都三鷹市新川六丁目37番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+1+UM13",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部 子ども家庭課 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-01",
+      "odInformation": {
+        "updateDate": "2024-07-09",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第11条（新生児の訪問指導）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+        "shortName": "こんにちは赤ちゃん（乳児家庭全戸訪問）事業"
+      },
+      "summary": "おおむね生後4か月までの乳児がいる家庭に地域の民生・児童委員が訪問し、子育ての不安や悩みを伺い、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要な家庭に対し適切なサービスの提供につなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+      "description": "こんにちは赤ちゃん（乳児家庭全戸訪問）事業\n作成・発信部署：\n\n公開日：2023年7月25日 \n\nこんにちは赤ちゃん（乳児家庭全戸訪問）事業\n\n赤ちゃんのいる家庭と地域をつなぐ最初の機会です\n民生・児童委員は地域を見守る頼れる存在です。\n子育ての不安や悩みも相談できます。\n\n訪問日のお知らせが届きます",
+      "target": {
+        "targetPersons": "おおむね生後4か月までの赤ちゃんがいる家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "お住まいの地域の民生・児童委員;https://www.city.mitaka.lg.jp/c_service/043/043087.htmlが子育て支援に関する情報を提供し、お子さんの誕生を祝う「ブックスタート（外部リンク）;https://www.library.mitaka.tokyo.jp/kidscontents?8&pid=71（はじめての絵本）事業」の絵本をお届けします。",
+        "monetarySupport": null,
+        "materiallySupport": "「ブックスタート（外部リンク）（はじめての絵本）事業」の絵本"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "家庭",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "生後2か月を過ぎた頃、訪問日のお知らせが届くのをお待ちください。\n申し込みの必要はありません。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+          "title": "子ども政策部　子ども家庭課"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/104/104004.html",
+        "title": "こんにちは赤ちゃん（乳児家庭全戸訪問）事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 子ども家庭支援センターりぼん",
+        "contactPhone": "電話：0422-40-5925",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1818505",
+        "contactAddress": "東京都三鷹市下連雀九丁目11番7号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+1+UM14",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部 子ども家庭課 子ども家庭支援センターりぼん",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023/07/25",
+      "odInformation": {
+        "updateDate": "2025/02/25",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第21条の10の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出産育児一時金",
+        "shortName": "出産育児一時金"
+      },
+      "summary": "国民健康保険に加入している方が出産したときは、その世帯主からの申請により、出産育児一時金を支給します。原則として直接支払制度により、医療機関に直接お支払いします。\nなお、直接支払制度に対応していない医療機関などで出産された場合も、「受取代理制度」や出産後の申請により、出産育児一時金の支給を受けることができます。",
+      "description": "出産育児一時金の金額について\n　三鷹市国民健康保険（国保）の被保険者が出産した場合に、出産育児一時金が50万円支給されます。妊娠85日以上であれば、死産・流産・人工妊娠中絶でも支給されます。なお、出産したかたが次の条件を満たす場合は、退職前に加入していた健康保険組合等から支給を受けることができます。健康保険組合等から支給を受けたときは、国保からは支給されません。\n\n　[1] 退職前の健康保険組合等をやめてから6カ月以内の出産であること。\n\n　[2] [1]の健康保険組合等に本人として1年以上加入していたこと。\n\n出産育児一時金直接支払制度\n　この制度は、被保険者のかたが直接支払制度を採用している医療機関等で手続きをすることにより、国保から医療機関等に直接、出産育児一時金が支払われる制度です。\n　退院時のお支払いは出産費用から50万円（産科医療補償制度※に加入していない医療機関等については48万8千円）を差し引いた額で済むようになりました。\n\n　これにより、市役所への手続きが不要となり、まとまった出産費用を事前にご用意いただかなくても、安心して出産できるようになりました。\n　詳しくは、医療機関等の窓口でマイナ保険証（保険証利用登録されたマイナンバーカード）、資格確認書、資格情報のお知らせなどを提示し、申請手続きを行ってください。\n\n※産科医療補償制度とは\n　この制度は、分娩に関連して発生した脳性まひの児に対する補償制度で、妊産婦の皆様が安心して出産できるよう病院、診療所や助産所が加入する制度です。\n\n注意事項\n・直接支払制度を採用していない医療機関等があります。\n・直接支払制度利用の場合で出産費用が50万円未満だった場合は、その差額を申請できます。申請方法は、後日世帯主あてに届く直接支払制度利用による出産育児一時金支給決定通知書をご確認ください。\n出産育児一時金受取代理制度\n　出産育児一時金の「直接支払制度」を採用していない医療機関等でも「受取代理制度」を行なっている場合があります。この制度は出産育児一時金の支給額を限度に医療機関等に対し、市が直接出産費用を支払うことができるものです。\n　ただし、「直接支払制度」と異なり、市への申請手続きが必要となります。また、「受取代理制度」に対応している医療機関等も限られますので、利用を希望される場合は医療機関等でご確認ください。\n\n出産育児一時金の直接支払制度や受取代理制度に対応していない医療機関等で出産する場合、または出産育児一時金直接支払制度や受取代理制度を利用しない場合\n　出産育児一時金の直接支払制度や受取代理制度に対応していない医療機関等では、その旨を窓口に掲示しています。対応していない医療機関等で出産するかた、または直接支払制度や受取代理制度をご利用にならないかたは、\n\n1.医療機関等と直接支払制度を利用しない旨の合意文書を交わし\n2.ご自身で出産費用を全額支払い\n3.医療機関等から交付される出産費用の領収書を添えて保険課に申請してください。\n　後日、市から世帯主の口座へ出産育児一時金を振り込みます。\n　なお、出産費用の準備が困難なかたは、出産資金貸付制度がありますので、関連リンクをご覧ください。\n\n申請に必要なもの\n　印鑑（海外で出産されたかたのみ）・被保険者資格が確認できるもの（マイナポータルの健康保険証の画面提示、資格確認書、資格情報のお知らせなど）・出産の確認ができるもの（出生証明書、母子健康手帳など）・世帯主の預金通帳（またはカード）・医療機関等から交付される直接支払制度に関する合意文書・医療機関等から交付される出産費用の領収書\n　（妊娠85日以降に死産・流産・人工妊娠中絶の場合は、医師の証明書をお持ちください）\n\n時効について\n　出産日の翌日から2年を過ぎると時効により支給されませんのでご注意ください。\n\n関連リンク\n出産資金貸付制度について;https://www.city.mitaka.lg.jp/c_service/000/000435.html\n出産育児一時金が50万円に変わります;https://www.city.mitaka.lg.jp/c_service/102/102049.html",
+      "target": {
+        "targetPersons": "三鷹市国民健康保険（国保）の被保険者が出産した場合",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "出産育児一時金が50万円支給されます。妊娠85日以上であれば、死産・流産・人工妊娠中絶でも支給されます。なお、出産したかたが次の条件を満たす場合は、退職前に加入していた健康保険組合等から支給を受けることができます。健康保険組合等から支給を受けたときは、国保からは支給されません。\n\n　[1] 退職前の健康保険組合等をやめてから6カ月以内の出産であること。\n\n　[2] [1]の健康保険組合等に本人として1年以上加入していたこと。",
+        "monetarySupport": "出産育児一時金が50万円支給されます。妊娠85日以上であれば、死産・流産・人工妊娠中絶でも支給されます。なお、出産したかたが次の条件を満たす場合は、退職前に加入していた健康保険組合等から支給を受けることができます。健康保険組合等から支給を受けたときは、国保からは支給されません。\n\n　[1] 退職前の健康保険組合等をやめてから6カ月以内の出産であること。\n\n　[2] [1]の健康保険組合等に本人として1年以上加入していたこと。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "出産育児一時金直接支払制度\n　この制度は、被保険者のかたが直接支払制度を採用している医療機関等で手続きをすることにより、国保から医療機関等に直接、出産育児一時金が支払われる制度です。\n　退院時のお支払いは出産費用から50万円（産科医療補償制度※に加入していない医療機関等については48万8千円）を差し引いた額で済むようになりました。\n\n　これにより、市役所への手続きが不要となり、まとまった出産費用を事前にご用意いただかなくても、安心して出産できるようになりました。\n　詳しくは、医療機関等の窓口でマイナ保険証（保険証利用登録宇されたマイナンバーカード）、資格確認書、資格情報のお知らせなどを提示し、申請手続きを行ってください。\n\n※産科医療補償制度とは\n　この制度は、分娩に関連して発生した脳性まひの児に対する補償制度で、妊産婦の皆様が安心して出産できるよう病院、診療所や助産所が加入する制度です。\n\n注意事項\n・直接支払制度を採用していない医療機関等があります。\n・直接支払制度利用の場合で出産費用が50万円未満だった場合は、その差額を申請できます。申請方法は、後日世帯主あてに届く直接支払制度利用による出産育児一時金支給決定通知書をご確認ください。\n出産育児一時金受取代理制度\n　出産育児一時金の「直接支払制度」を採用していない医療機関等でも「受取代理制度」を行なっている場合があります。この制度は出産育児一時金の支給額を限度に医療機関等に対し、市が直接出産費用を支払うことができるものです。\n　ただし、「直接支払制度」と異なり、市への申請手続きが必要となります。また、「受取代理制度」に対応している医療機関等も限られますので、利用を希望される場合は医療機関等でご確認ください。\n\n出産育児一時金の直接支払制度や受取代理制度に対応していない医療機関等で出産する場合、または出産育児一時金直接支払制度や受取代理制度を利用しない場合\n　出産育児一時金の直接支払制度や受取代理制度に対応していない医療機関等では、その旨を窓口に掲示しています。対応していない医療機関等で出産するかた、または直接支払制度や受取代理制度をご利用にならないかたは、\n\n1.医療機関等と直接支払制度を利用しない旨の合意文書を交わし\n2.ご自身で出産費用を全額支払い\n3.医療機関等から交付される出産費用の領収書を添えて保険課に申請してください。\n　後日、市から世帯主の口座へ出産育児一時金を振り込みます。\n　なお、出産費用の準備が困難なかたは、出産資金貸付制度がありますので、関連リンクをご覧ください。\n\n申請に必要なもの\n　印鑑（海外で出産されたかたのみ）・被保険者資格が確認できるもの（マイナポータルの健康保険証の画面提示、資格確認書、資格情報のお知らせなど）・出産の確認ができるもの（出生証明書、母子健康手帳など）・世帯主の預金通帳（またはカード）・医療機関等から交付される直接支払制度に関する合意文書・医療機関等から交付される出産費用の領収書\n　（妊娠85日以降に死産・流産・人工妊娠中絶の場合は、医師の証明書をお持ちください）\n\n時効について\n　出産日の翌日から2年を過ぎると時効により支給されませんのでご注意ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "時効について\n　出産日の翌日から2年を過ぎると時効により支給されませんのでご注意ください。"
+      },
+      "electronicSubmission": false,
+      "belongings": "印鑑（海外で出産されたかたのみ）・被保険者資格が確認できるもの（マイナポータルの健康保険証の画面提示、資格確認書、資格情報のお知らせなど）・出産の確認ができるもの（出生証明書、母子健康手帳など）・世帯主の預金通帳（またはカード）・医療機関等から交付される直接支払制度に関する合意文書・医療機関等から交付される出産費用の領収書\n　（妊娠85日以降に死産・流産・人工妊娠中絶の場合は、医師の証明書をお持ちください）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.mitaka.lg.jp/c_service/000/000435.html",
+          "title": "出産資金貸付制度について"
+        },
+        {
+          "uri": "https://www.city.mitaka.lg.jp/c_service/102/102049.html",
+          "title": "出産育児一時金が50万円に変わります"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/016/016039.html",
+        "title": "出産育児一時金について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "市民部 保険課 国保給付係",
+        "contactPhone": "0422-29-9215",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/hoken/index.html",
+        "contactComment": null,
+        "zipCode": "1818555",
+        "contactAddress": "東京都三鷹市野崎一丁目1番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+1+UM19",
+        "organization": "8000020132047",
+        "compartment": "市民部保険課国保給付係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/12/02",
+      "odInformation": {
+        "updateDate": "2024-07-08",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民健康保険法",
+        "regulationArticle": "第58条(第二節　その他の給付)"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003",
+          "015"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出産費貸付制度",
+        "shortName": "出産資金貸付制度"
+      },
+      "summary": "出産予定日前に出産費用の支払いが必要な方を対象に、出産育児一時金8割に相当する額を限度として出産費用の貸し付けを無利子で行います。",
+      "description": "子育て支援のための制度の内容\n　子育て支援のため、出産資金貸付があります。\n　国民健康保険加入世帯は、出産に必要な費用の一部を出産前に無利子で借りることができます。\n　希望されるかたは、以下に記載した内容を確認していただき必要なものを持参のうえ窓口にお越しください。\n\n支給要件\n　下記の対象者がいる場合、国民健康保険の世帯の世帯主に貸付をします。\n\n対象者\n　出産育児一時金直接支払制度をご利用にならず、次のいずれかの要件を満たす国民健康保険の被保険者。\n\n1.出産予定日が1カ月以内のかた\n2.妊娠4カ月以降のかたで、医療機関等から診療費用の請求を受けたかた。または請求された費用を支払われたかた。\n貸付金の額\n　上限40万円の範囲で必要な金額。\n\n返済方法\n　借り受けた金額は、出産後に支給される出産育児一時金（50万円）の一部を充当することにより返済していただきます。\n\n申請手続きについて\n　下記をお持ちのうえ、市役所1階9番保険課の窓口にお越しください。\n\n・出産育児一時金直接支払制度を利用していない旨の記載のある医療機関等の発行する指定文書\n・母子手帳\n・上記、対象者の2に該当するかたは、診療費用の内訳が記載された請求書または領収書\n・世帯主の金融機関口座がわかるもの\n・被保険者資格が確認できるもの（マイナポータルの健康保険証の画面提示、資格確認書、資格情報のお知らせなど）\n関連リンク\n出産育児一時金について;https://www.city.mitaka.lg.jp/c_service/016/016039.html\n出産育児一時金が50万円に変わります;https://www.city.mitaka.lg.jp/c_service/102/102049.html",
+      "target": {
+        "targetPersons": "出産育児一時金直接支払制度をご利用にならず、次のいずれかの要件を満たす国民健康保険の被保険者。\n\n1.出産予定日が1カ月以内のかた\n2.妊娠4カ月以降のかたで、医療機関等から診療費用の請求を受けたかた。または請求された費用を支払われたかた。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "上限40万円の範囲で必要な金額。\n\n返済方法\n　借り受けた金額は、出産後に支給される出産育児一時金（50万円）の一部を充当することにより返済していただきます。",
+        "monetarySupport": "上限40万円の範囲で必要な金額。\n\n返済方法\n　借り受けた金額は、出産後に支給される出産育児一時金（50万円）の一部を充当することにより返済していただきます。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "出産育児一時金直接支払制度をご利用にならず、次のいずれかの要件を満たす国民健康保険の被保険者。\n\n1.出産予定日が1カ月以内のかた\n2.妊娠4カ月以降のかたで、医療機関等から診療費用の請求を受けたかた。または請求された費用を支払われたかた。",
+      "procedureMethod": "下記をお持ちのうえ、市役所1階9番保険課の窓口にお越しください。\n\n・出産育児一時金直接支払制度を利用していない旨の記載のある医療機関等の発行する指定文書\n・母子手帳\n・上記、対象者の2に該当するかたは、診療費用の内訳が記載された請求書または領収書\n・世帯主の金融機関口座がわかるもの\n・被保険者資格が確認できるもの（マイナポータルの健康保険証の画面提示、資格確認書、資格情報のお知らせなど）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "・出産育児一時金直接支払制度を利用していない旨の記載のある医療機関等の発行する指定文書\n・母子手帳\n・上記、対象者の2に該当するかたは、診療費用の内訳が記載された請求書または領収書\n・世帯主の金融機関口座がわかるもの\n・被保険者資格が確認できるもの（マイナポータルの健康保険証の画面提示、資格確認書、資格情報のお知らせなど）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "市役所1階9番保険課の窓口",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.mitaka.lg.jp/c_service/102/102049.html",
+          "title": "出産育児一時金が50万円に変わります"
+        },
+        {
+          "uri": "https://www.city.mitaka.lg.jp/c_service/016/016039.html",
+          "title": "出産育児一時金について"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/000/000435.html",
+        "title": "出産資金貸付制度をご利用ください"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "市民部 保険課 国保給付係",
+        "contactPhone": "0422-29-9215",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/hoken/index.html",
+        "contactComment": null,
+        "zipCode": "1818555",
+        "contactAddress": "東京都三鷹市野崎一丁目1番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+1+UM20",
+        "organization": "8000020132047",
+        "compartment": "市民部保険課国保給付係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/12/02",
+      "odInformation": {
+        "updateDate": "2024-07-08",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "三鷹市国民健康保険高額療養資金及び出産資金貸付基金条例",
+        "regulationArticle": "第７条(第３章　出産資金）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "三鷹市の妊娠・出産に関する相談",
+        "shortName": "産前・産後の相談"
+      },
+      "summary": "三鷹市では、保健師、助産師が自宅に訪問またはお電話で、妊娠・出産や子育てに関する相談を行います。",
+      "description": "産前・産後のご家庭をサポートします！\n　三鷹市では、妊娠期から子育て期にわたり、妊婦さんや産後のお母さんお父さんとそのご家族を切れ目なく応援しています。\n\n　妊娠中や出産直後は赤ちゃんを迎える喜びと同時に、お母さんのお身体やお気持ち、赤ちゃんを取り巻く家族のかたちも変化していきます。お母さん、お父さんの気持ちに寄り添いながら、ご相談に応じます。\n\n　「赤ちゃんを迎える準備はこれで十分かな？」「赤ちゃんのおむつ替えや抱っこは上手にできているかな？」「赤ちゃんとの過ごし方を知りたい！」など、気になることをお気軽にご相談ください。\n\n利用できる方\n市内在住の妊産婦とその家族\n\n費用\n無料\n\n内容\n保健師、助産師が自宅に訪問またはお電話で、妊娠・出産や子育てに関する相談をお受けします。\n\nゆっくりお話を聞いたり、一緒に考えたり、市内の子育て支援サービスの紹介もいたします。\n\n三鷹市総合保健センター(電話 0422-46-3254)",
+      "target": {
+        "targetPersons": "市内在住の妊産婦とその家族",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "保健師、助産師が自宅に訪問またはお電話で、妊娠・出産や子育てに関する相談をお受けします。",
+        "monetarySupport": null,
+        "materiallySupport": "保健師、助産師が自宅に訪問またはお電話で、妊娠・出産や子育てに関する相談をお受けします。"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "市内在住の妊産婦とその家族",
+      "procedureMethod": "保健師、助産師が自宅に訪問またはお電話で、妊娠・出産や子育てに関する相談をお受けします。\n\nゆっくりお話を聞いたり、一緒に考えたり、市内の子育て支援サービスの紹介もいたします。\n\n三鷹市総合保健センター(電話 0422-46-3254)",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産日より1年間"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "三鷹市総合保健センター(電話 0422-46-3254)",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/092/092586.html",
+        "title": "産前・産後の相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 母子保健係",
+        "contactPhone": "0422-46-3254",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+        "contactComment": null,
+        "zipCode": "1810004",
+        "contactAddress": "東京都三鷹市新川六丁目37番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+1+UM47",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部子ども家庭課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-11-15",
+      "odInformation": {
+        "updateDate": "2024-07-09",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊娠・出産に関するその他のこと",
+        "shortName": "妊娠相談ほっとライン(お母さん、お父さんのこころの相談)"
+      },
+      "summary": "東京都では、妊娠に関する様々な悩みを抱える方からの相談に看護師などの専門職が対応し、内容によっては適切な関係機関の紹介も行います。",
+      "description": "妊娠がつらい、産後うつかなと思ったら\n妊娠するとホルモンバランスの変化を受け、気持ちが落ち込み、こころが不安定になることがあります。また、赤ちゃんが産まれ、幸せになれると楽しみにしていたのに、つらく、しんどい悲しい気持ちを感じたり、そう感じてしまうことに罪悪感を感じたり…子育て中は思い悩むことがたくさんあります。\n\nそんなあなたの気持ちをそっときかせてください。\n\nお母さん・お父さんのこころの相談\n夫婦・家族との関係がうまくいかない、子どもにつらくあたってしまい子育てがむなしい、しんどいなど…どんなことでもお気軽にご相談ください。\n\n三鷹市総合保健センター 0422-46-3254(平日午前8時30分～午後5時)\n\n妊娠相談ほっとライン\n・思いがけない妊娠、予定外の妊娠にとまどっている方\n・妊娠したかもしれないと不安になっている方\n・妊娠中の体調で悩んでいる方\n・出産費用が心配な方\n・家族やパートナーとの関係で悩んでいる方\n東京都では妊娠に関する様々な悩みを抱える方からの相談に看護師などの専門職が対応し、内容によっては適切な関係機関の紹介も行います。都内にお住まいの方を対象に、匿名で相談できます。\n\n詳しくは東京都「妊娠相談ほっとライン（外部リンク）;http://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/ninshin-hotline.html」をご確認ください。\n\nこころといのちのほっとライン　\n　0570-087478(年中無休午後2時～翌日午前5時30分)　\n\n下記のPDFの相談窓口一覧(LINE相談あり)もご参照ください。\n\n添付ファイル\n東京都こころといのちの相談窓口一覧\n東京都こころといのちの相談窓口一覧（PDF 981KB）;https://www.city.mitaka.lg.jp/c_service/088/attached/attach_88260_1.pdf",
+      "target": {
+        "targetPersons": "・思いがけない妊娠、予定外の妊娠にとまどっている方\n・妊娠したかもしれないと不安になっている方\n・妊娠中の体調で悩んでいる方\n・出産費用が心配な方\n・家族やパートナーとの関係で悩んでいる方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "東京都では妊娠に関する様々な悩みを抱える方からの相談に看護師などの専門職が対応し、内容によっては適切な関係機関の紹介も行います。都内にお住まいの方を対象に、匿名で相談できます。\n\n詳しくは東京都「妊娠相談ほっとライン（外部リンク）;http://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/ninshin-hotline.html」をご確認ください。",
+        "monetarySupport": null,
+        "materiallySupport": "東京都では妊娠に関する様々な悩みを抱える方からの相談に看護師などの専門職が対応し、内容によっては適切な関係機関の紹介も行います。都内にお住まいの方を対象に、匿名で相談できます。\n\n詳しくは東京都「妊娠相談ほっとライン（外部リンク）;http://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/ninshin-hotline.html」をご確認ください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "・思いがけない妊娠、予定外の妊娠にとまどっている方\n・妊娠したかもしれないと不安になっている方\n・妊娠中の体調で悩んでいる方\n・出産費用が心配な方\n・家族やパートナーとの関係で悩んでいる方",
+      "procedureMethod": "詳しくは東京都「妊娠相談ほっとライン（外部リンク）;http://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/ninshin-hotline.html」をご確認ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/ninshin-hotline.html",
+          "title": "妊娠相談ほっとライン（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/088/088260.html",
+        "title": "妊娠や子育てがつらいと思ったら"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 母子保健係",
+        "contactPhone": "0422-46-3254",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+        "contactComment": null,
+        "zipCode": "1810004",
+        "contactAddress": "東京都三鷹市新川六丁目37番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+1+UM48",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部子ども家庭課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-01-31",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月未満児）",
+        "shortName": "3～4カ月児健康診査"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として3か月児健康診査を実施しています。",
+      "description": "3～4カ月児健診(集団健診)\n来所される方へ\n\n来所される方には、以下の点についてご理解、ご協力をお願いいたします。\n\n・健診を受けるお子さんや付き添いの保護者の方に、37.5℃以上の発熱や風邪症状がある場合は、受診をお控えください。\n・会場の都合により、最小人数での来所にご協力ください。\n・ご来所の際には、受付前の手洗いにご協力をお願いいたします。\n対象者\n3～6カ月未満の乳児\n\n健診内容\n計測、内科健診、育児・授乳・栄養相談など\n\n申し込み方法\n対象者には生後3カ月になる月に個別に受診票を郵送します。申し込みはいりません。\n転入のかた、紛失したかた、期間内に来所できないかたはご連絡ください。\n（6～7カ月健診・9～10カ月健診の受診票も一緒に同封します。）\n\n受診場所\n三鷹市総合保健センター\n\nベビーカーの置き場は屋外です。健診会場には乗り入れできませんので、ご了承ください。ご事情があるかたは、健診時にご相談ください。\n\n受付時間\n午後1時から午後1時50分まで\n\n問い合わせ先\n三鷹市総合保健センター（0422-46-3254）",
+      "target": {
+        "targetPersons": "3～6カ月未満の乳児",
+        "lessThan": {
+          "targetAge": 6,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "3～6カ月未満の乳児"
+      },
+      "support": {
+        "description": "計測、内科健診、育児・授乳・栄養相談など",
+        "monetarySupport": null,
+        "materiallySupport": "計測、内科健診、育児・授乳・栄養相談など"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "三鷹市総合保健センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "対象者には生後3カ月になる月に個別に受診票を郵送します。",
+      "procedurePersons": null,
+      "procedureMethod": "申し込み方法\n対象者には生後3カ月になる月に個別に受診票を郵送します。申し込みはいりません。\n転入のかた、紛失したかた、期間内に来所できないかたはご連絡ください。\n（6～7カ月健診・9～10カ月健診の受診票も一緒に同封します。）\n\n受診場所\n三鷹市総合保健センター\n\nベビーカーの置き場は屋外です。健診会場には乗り入れできませんので、ご了承ください。ご事情があるかたは、健診時にご相談ください。\n\n受付時間\n午後1時から午後1時50分まで\n\n問い合わせ先\n三鷹市総合保健センター（0422-46-3254）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "13:00",
+        "toYMD": null,
+        "toHM": "13:50",
+        "conditions": "受付時間\n午後1時から午後1時50分まで"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "三鷹市総合保健センター（0422-46-3254）",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/078/078430.html",
+        "title": "3～4カ月児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 母子保健係",
+        "contactPhone": "0422-46-3254",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+        "contactComment": null,
+        "zipCode": "1810004",
+        "contactAddress": "東京都三鷹市新川六丁目37番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+1+UM49",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部子ども家庭課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-07",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "6～7カ月児健康診査"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として乳幼児健康診査（6か月から12か月児）を実施しています。",
+      "description": "6～7カ月児健康診査・9～10カ月児健康診査(個別健診）\n対象者\n・6～7カ児健康診査は、6～8カ月未満の乳児\n\n・9～10カ月健康診査は、9～11カ月未満の乳児\n\n健診内容\n　計測、内科健診など\n\n申し込み方法\n・現在市民のかたは、3～4カ月児健康診査のご案内と一緒に受診票を郵送しますので、申し込みはご不要です。\n\n・都内からの転入のかたで、受診票をお持ちのかたは、その受診票を使用できます。\n\n・都外からの転入者のかたや、受診票を紛失したかたは総合保健センターへご連絡ください。　\n\n実施場所\n三鷹市乳幼児健康診査協力医一覧表;https://www.city.mitaka.lg.jp/c_service/076/076807.html\n\n問い合わせ先\n三鷹市総合保健センター(0422-46-3254)\n\n関連リンク\n三鷹市総合保健センター（三鷹中央防災公園・元気創造プラザ2階）（外部リンク）;https://www.mitakagenki-plaza.jp/",
+      "target": {
+        "targetPersons": "6～8カ月未満の乳児",
+        "lessThan": {
+          "targetAge": 8,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 6,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "6～8カ月未満の乳児"
+      },
+      "support": {
+        "description": "計測、内科健診など",
+        "monetarySupport": null,
+        "materiallySupport": "計測、内科健診など"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "三鷹市乳幼児健康診査協力医一覧表;https://www.city.mitaka.lg.jp/c_service/076/076807.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "現在市民のかたは、3～4カ月児健康診査のご案内と一緒に受診票を郵送します",
+      "procedurePersons": null,
+      "procedureMethod": "申し込み方法\n・現在市民のかたは、3～4カ月児健康診査のご案内と一緒に受診票を郵送しますので、申し込みはご不要です。\n\n・都内からの転入のかたで、受診票をお持ちのかたは、その受診票を使用できます。\n\n・都外からの転入者のかたや、受診票を紛失したかたは総合保健センターへご連絡ください。　\n\n実施場所\n三鷹市乳幼児健康診査協力医一覧表;https://www.city.mitaka.lg.jp/c_service/076/076807.html\n\n問い合わせ先\n三鷹市総合保健センター(0422-46-3254)\n\n関連リンク\n三鷹市総合保健センター（三鷹中央防災公園・元気創造プラザ2階）（外部リンク）;https://www.mitakagenki-plaza.jp/",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "三鷹市総合保健センター(0422-46-3254)",
+      "relatedLink": [
+        {
+          "uri": "https://www.mitakagenki-plaza.jp/",
+          "title": "三鷹市総合保健センター（三鷹中央防災公園・元気創造プラザ2階）（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.mitaka.lg.jp/c_service/076/076807.html",
+          "title": "三鷹市乳幼児健康診査協力医一覧表"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/081/081743.html",
+        "title": "6～7カ月児健康診査・9～10カ月児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 母子保健係",
+        "contactPhone": "0422-46-3254",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+        "contactComment": null,
+        "zipCode": "1810004",
+        "contactAddress": "東京都三鷹市新川六丁目37番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+1+UM50",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部子ども家庭課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-07",
+      "odInformation": {
+        "updateDate": "2024-07-10",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+        "shortName": "産前産後期間の国民健康保険税軽減"
+      },
+      "summary": "国民健康保険被保険者が出産する場合、産前産後期間相当分（４ヶ月分、多胎の場合は６ヶ月分）の均等割保険税と所得割保険税が免除されます。",
+      "description": "国民健康保険被保険者のかたが出産するまたは出産した場合、そのかたの産前産後期間相当分の国民健康保険税（保険税）が減額されます。減額されるためには原則として手続きが必要です。\n\n対象となるかた\n三鷹市の国民健康保険被保険者で、出産するまたは出産したかた（出産被保険者）\n\n・妊娠85日以上の出産が対象です（死産、流産、早産及び人工妊娠中絶の場合も含みます）。\n・令和5年11月1日以降の出産が対象となりますが、減額の対象期間は令和6年1月以降となります。\n減額の対象期間（産前産後期間）について\n出産予定日の属する月（出産予定月）または出産日が属する月（出産月）の前月から出産予定月または出産月の翌々月まで（4カ月分）\n\n補足\n多胎妊娠の場合は、出産予定月または出産月の3カ月前から出産予定月または出産月の翌々月まで（6カ月分）\n減額の対象期間（〇のある月が対象です）\n||3カ月前|2カ月前|1カ月前|出産予定月<br>または出産月|1カ月後|2カ月後|3カ月後|\n|:----|:----|:----|:----|:----|:----|:----|:----|\n|単胎のかた|||〇|〇|〇|〇||\n|多胎のかた|〇|〇|〇|〇|〇|〇||\n\n・令和5年度においては、令和6年1月以降の期間の分だけ、保険税が減額されます。\n・減額の対象となるのは、出産被保険者の産前産後期間相当分の保険税です。\n・減額前の保険税が限度額を超過している世帯で、減額後も限度額を超過している場合、保険税額が変更とならない場合があります。\n・減額の対象期間が年度をまたぐ場合、それぞれの年度ごとの対象期間分の保険税が減額されます。\n（例）年度をまたぐ場合\n単胎妊娠で出産予定日が令和7年3月の場合、減額の対象期間は令和7年2月から令和7年5月となります。令和6年度の保険税額から出産被保険者の令和7年2月・3月分相当額の保険税が減額され、令和7年度の保険税額から出産被保険者の令和7年4月・5月分相当額の保険税が減額されます。\n届出方法\n出産予定日の6カ月前より、保険課窓口（市役所本庁舎1階9番窓口）または郵送で手続きができます。出産後の届出も可能です。（遡っての減額には限りがあるため、お早目のご提出をお願いいたします。）\n\n注意事項\n市政窓口では手続きできません。\n届出時に必要なもの\n1.産前産後期間に係る国民健康保険税軽減届出書\n2.出産被保険者の国民健康保険被保険者証\n3.母子健康手帳等（出産被保険者の氏名・生年月日と出産（予定）日が確認できるもの、多胎妊娠の場合はそれを確認できるもの、出産後の届出の場合は出産被保険者と当該出産に係る子との関係を確認できるもの）\n4.届出されるかたの本人確認ができるもの（マイナンバーカード、運転免許証等）\n5.世帯主と出産被保険者の個人番号確認書類（マイナンバーカード等）\n6.同一世帯以外の方が届出を記載する場合は委任状\n補足\n・1の届出書は保険課窓口にもご用意があります。\n・3の母子健康手帳等は、出産被保険者の氏名・生年月日がわかるページと出産予定日または出産日がわかるページが必要となります。\n・郵送の場合は1の届出書（本ページ下部に添付）にご記入のうえ、その他添付書類はコピーの同封をお願いします。母子健康手帳等については、確認が必要な事項の記載箇所以外はマスキングしていただいて構いません。（本ページ下部に添付している母子健康手帳提出例をご参照ください。）\n補足事項\n・ご提出後、不備等なければ、翌月か翌々月に減額後の納税通知書が届きます。減額後の納税通知書が届くまでは、先に届いている納税通知書の金額・納期でのお支払いをお願いいたします。\n・保険税が納め過ぎとなった場合、納税通知書発送から約2週間後に納税課より還付通知書をお送りします。その際、未納がある場合はその税に充当することがあります。\n・出産予定日と実際の出産日が異なる月となった場合であっても、修正の届出は必要ありません。ご希望の場合はご相談ください。\n添付ファイル\n産前産後期間に係る国民健康保険税軽減届出書\n産前産後期間に係る国民健康保険税軽減届出書（PDF 410KB）;https://www.city.mitaka.lg.jp/c_service/106/attached/attach_106814_1.pdf\n産前産後期間に係る国民健康保険税軽減届出書（記載例）\n産前産後期間に係る国民健康保険税軽減届出書（記載例）（PDF 437KB）;https://www.city.mitaka.lg.jp/c_service/106/attached/attach_106814_2.pdf\n母子健康手帳提出例\n母子健康手帳提出例（PDF 445KB）;https://www.city.mitaka.lg.jp/c_service/106/attached/attach_106814_3.pdf\n産前産後保険税軽減リーフレット\n産前産後保険税軽減リーフレット（PDF 602KB）;https://www.city.mitaka.lg.jp/c_service/106/attached/attach_106814_4.pdf",
+      "target": {
+        "targetPersons": "三鷹市の国民健康保険被保険者で、出産するまたは出産したかた（出産被保険者）\n\n・妊娠85日以上の出産が対象です（死産、流産、早産及び人工妊娠中絶の場合も含みます）。\n・令和5年11月1日以降の出産が対象となりますが、減額の対象期間は令和6年1月以降となります。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "産前産後期間相当分の国民健康保険税（保険税）が減額\n\n減額の対象期間（産前産後期間）について\n出産予定日の属する月（出産予定月）または出産日が属する月（出産月）の前月から出産予定月または出産月の翌々月まで（4カ月分）\n\n補足\n多胎妊娠の場合は、出産予定月または出産月の3カ月前から出産予定月または出産月の翌々月まで（6カ月分）\n減額の対象期間（〇のある月が対象です）\n||3カ月前|2カ月前|1カ月前|出産予定月<br>または出産月|1カ月後|2カ月後|3カ月後|\n|:----|:----|:----|:----|:----|:----|:----|:----|\n|単胎のかた|||〇|〇|〇|〇||\n|多胎のかた|〇|〇|〇|〇|〇|〇||\n\n・令和5年度においては、令和6年1月以降の期間の分だけ、保険税が減額されます。\n・減額の対象となるのは、出産被保険者の産前産後期間相当分の保険税です。\n・減額前の保険税が限度額を超過している世帯で、減額後も限度額を超過している場合、保険税額が変更とならない場合があります。\n・減額の対象期間が年度をまたぐ場合、それぞれの年度ごとの対象期間分の保険税が減額されます。\n（例）年度をまたぐ場合\n単胎妊娠で出産予定日が令和7年3月の場合、減額の対象期間は令和7年2月から令和7年5月となります。令和6年度の保険税額から出産被保険者の令和7年2月・3月分相当額の保険税が減額され、令和7年度の保険税額から出産被保険者の令和7年4月・5月分相当額の保険税が減額されます。",
+        "monetarySupport": "産前産後期間相当分の国民健康保険税（保険税）が減額\n\n減額の対象期間（産前産後期間）について\n出産予定日の属する月（出産予定月）または出産日が属する月（出産月）の前月から出産予定月または出産月の翌々月まで（4カ月分）\n\n補足\n多胎妊娠の場合は、出産予定月または出産月の3カ月前から出産予定月または出産月の翌々月まで（6カ月分）\n減額の対象期間（〇のある月が対象です）\n||3カ月前|2カ月前|1カ月前|出産予定月<br>または出産月|1カ月後|2カ月後|3カ月後|\n|:----|:----|:----|:----|:----|:----|:----|:----|\n|単胎のかた|||〇|〇|〇|〇||\n|多胎のかた|〇|〇|〇|〇|〇|〇||\n\n・令和5年度においては、令和6年1月以降の期間の分だけ、保険税が減額されます。\n・減額の対象となるのは、出産被保険者の産前産後期間相当分の保険税です。\n・減額前の保険税が限度額を超過している世帯で、減額後も限度額を超過している場合、保険税額が変更とならない場合があります。\n・減額の対象期間が年度をまたぐ場合、それぞれの年度ごとの対象期間分の保険税が減額されます。\n（例）年度をまたぐ場合\n単胎妊娠で出産予定日が令和7年3月の場合、減額の対象期間は令和7年2月から令和7年5月となります。令和6年度の保険税額から出産被保険者の令和7年2月・3月分相当額の保険税が減額され、令和7年度の保険税額から出産被保険者の令和7年4月・5月分相当額の保険税が減額されます。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "届出方法\n出産予定日の6カ月前より、保険課窓口（市役所本庁舎1階9番窓口）または郵送で手続きができます。出産後の届出も可能です。（遡っての減額には限りがあるため、お早目のご提出をお願いいたします。）\n\n注意事項\n市政窓口では手続きできません。\n届出時に必要なもの\n1.産前産後期間に係る国民健康保険税軽減届出書\n2.出産被保険者の国民健康保険被保険者証\n3.母子健康手帳等（出産被保険者の氏名・生年月日と出産（予定）日が確認できるもの、多胎妊娠の場合はそれを確認できるもの、出産後の届出の場合は出産被保険者と当該出産に係る子との関係を確認できるもの）\n4.届出されるかたの本人確認ができるもの（マイナンバーカード、運転免許証等）\n5.世帯主と出産被保険者の個人番号確認書類（マイナンバーカード等）\n6.同一世帯以外の方が届出を記載する場合は委任状\n補足\n・1の届出書は保険課窓口にもご用意があります。\n・3の母子健康手帳等は、出産被保険者の氏名・生年月日がわかるページと出産予定日または出産日がわかるページが必要となります。\n・郵送の場合は1の届出書（本ページ下部に添付）にご記入のうえ、その他添付書類はコピーの同封をお願いします。母子健康手帳等については、確認が必要な事項の記載箇所以外はマスキングしていただいて構いません。（本ページ下部に添付している母子健康手帳提出例をご参照ください。）\n\n添付ファイル\n産前産後期間に係る国民健康保険税軽減届出書\n産前産後期間に係る国民健康保険税軽減届出書（PDF 410KB）;https://www.city.mitaka.lg.jp/c_service/106/attached/attach_106814_1.pdf\n産前産後期間に係る国民健康保険税軽減届出書（記載例）\n産前産後期間に係る国民健康保険税軽減届出書（記載例）（PDF 437KB）;https://www.city.mitaka.lg.jp/c_service/106/attached/attach_106814_2.pdf\n母子健康手帳提出例\n母子健康手帳提出例（PDF 445KB）;https://www.city.mitaka.lg.jp/c_service/106/attached/attach_106814_3.pdf\n産前産後保険税軽減リーフレット\n産前産後保険税軽減リーフレット（PDF 602KB）;https://www.city.mitaka.lg.jp/c_service/106/attached/attach_106814_4.pdf",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産予定日の6カ月前より、保険課窓口（市役所本庁舎1階9番窓口）または郵送で手続きができます。出産後の届出も可能です。（遡っての減額には限りがあるため、お早目のご提出をお願いいたします。）"
+      },
+      "electronicSubmission": false,
+      "belongings": "1.産前産後期間に係る国民健康保険税軽減届出書\n2.出産被保険者の国民健康保険被保険者証\n3.母子健康手帳等（出産被保険者の氏名・生年月日と出産（予定）日が確認できるもの、多胎妊娠の場合はそれを確認できるもの、出産後の届出の場合は出産被保険者と当該出産に係る子との関係を確認できるもの）\n4.届出されるかたの本人確認ができるもの（マイナンバーカード、運転免許証等）\n5.世帯主と出産被保険者の個人番号確認書類（マイナンバーカード等）\n6.同一世帯以外の方が届出を記載する場合は委任状\n補足\n・1の届出書は保険課窓口にもご用意があります。\n・3の母子健康手帳等は、出産被保険者の氏名・生年月日がわかるページと出産予定日または出産日がわかるページが必要となります。\n・郵送の場合は1の届出書（本ページ下部に添付）にご記入のうえ、その他添付書類はコピーの同封をお願いします。母子健康手帳等については、確認が必要な事項の記載箇所以外はマスキングしていただいて構いません。（本ページ下部に添付している母子健康手帳提出例をご参照ください。）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "保険課窓口（市役所本庁舎1階9番窓口）または郵送",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.mitaka.lg.jp/c_service/106/attached/attach_106814_3.pdf",
+          "title": "母子健康手帳提出例（PDF 445KB）"
+        },
+        {
+          "uri": "https://www.city.mitaka.lg.jp/c_service/106/attached/attach_106814_4.pdf",
+          "title": "産前産後保険税軽減リーフレット（PDF 602KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/106/106814.html",
+        "title": "産前産後期間の国民健康保険税軽減について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "市民部 保険課 国保加入係",
+        "contactPhone": "0422-29-9216",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/hoken/index.html",
+        "contactComment": null,
+        "zipCode": "1818555",
+        "contactAddress": "東京都三鷹市野崎一丁目1番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+1+UM5035",
+        "organization": "8000020132047",
+        "compartment": "市民部 保険課 国保加入係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-11",
+      "odInformation": {
+        "updateDate": "2024-07-08",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003",
+          "015"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "1歳6か月児健康診査",
+        "shortName": "1歳6カ月児健康診査"
+      },
+      "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。三鷹市では1歳6か月児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "対象のかたにはご案内を郵送いたします\n健診内容\n（1）歯科健康診査（集団健診）・育児相談\n歯科健診、発育・発達の確認、育児・栄養相談など。\n\n受診場所\n三鷹市総合保健センター\n\n補足\nベビーカーの置き場所は屋外です。健診会場には乗り入れできませんので、ご了承ください。ご事情があるかたは、健診時にご相談ください。\n対象者\n1歳6カ月から2歳になる前日まで\n\n・1歳6カ月になる月にご案内を郵送いたします。2歳になる前日まで受診が可能ですが、ご案内後早めの受診を推奨しております。ご案内の日程で受けられない場合は、日程の変更等承りますので、総合保健センターにご連絡ください。\n・お子さんの発達や、子育てについてご心配があるかたは、総合保健センターまでご相談ください。\n来所されるかたへ\n来所される皆様には、以下の点についてご理解、ご協力をお願いいたします。\n\n・健診を受けるお子さんや付き添いの保護者のかたに、37.5℃以上の発熱や風邪症状がある場合は、受診をお控えください。\n・会場の都合により、最小限の人数での来所にご協力ください。\n・特別な配慮が必要なかたは、事前にご相談ください。\n・ご来所の際には受付前の手洗いにご協力をお願いいたします。\n（2）一般健康診査(個別健診)\n一般健康診査(個別健診)については、協力医療機関に予約の上、受診してください。　\n\n内科健診、身体計測など\n\n受診場所\n三鷹市協力医療機関で受診\n\n詳しくは「三鷹市乳幼児健康診査協力医一覧」をご確認ください。\n\n受診期間\n　1歳6カ月から2歳になる前日まで\n\n子育て支援プログラムについて\n市では、1歳6カ月児頃の子どもの育ちの理解を深め、この時期に大切にしてほしい親子の関わりについて学ぶ「子育て講座と遊びのプログラム」を開催しています。\n健診の通知の中にご案内が入っていますので、ご確認のうえ、お申し込みください。\n\n申し込み方法\n健診時に申込み用紙をご提出ください。\n\n関連リンク\n三鷹市総合保健センター（三鷹中央防災公園・元気創造プラザ2階）（外部リンク）;https://www.mitakagenki-plaza.jp/",
+      "target": {
+        "targetPersons": "1歳6カ月から2歳になる前日まで\n\n・1歳6カ月になる月にご案内を郵送いたします。2歳になる前日まで受診が可能ですが、ご案内後早めの受診を推奨しております。ご案内の日程で受けられない場合は、日程の変更等承りますので、総合保健センターにご連絡ください。\n・お子さんの発達や、子育てについてご心配があるかたは、総合保健センターまでご相談ください。",
+        "lessThan": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1歳6カ月から2歳になる前日まで"
+      },
+      "support": {
+        "description": "（1）歯科健康診査（集団健診）・育児相談\n歯科健診、発育・発達の確認、育児・栄養相談など。\n\n（2）一般健康診査(個別健診)\n内科健診、身体計測など",
+        "monetarySupport": null,
+        "materiallySupport": "（1）歯科健康診査（集団健診）・育児相談\n歯科健診、発育・発達の確認、育児・栄養相談など。\n\n（2）一般健康診査(個別健診)\n内科健診、身体計測など"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "（1）歯科健康診査（集団健診）・育児相談\n三鷹市総合保健センター\n\n（2）一般健康診査(個別健診)\n三鷹市協力医療機関で受診\n\n詳しくは「三鷹市乳幼児健康診査協力医一覧;https://www.city.mitaka.lg.jp/c_service/076/076807.html」をご確認ください。\n\n関連リンク\n三鷹市総合保健センター（三鷹中央防災公園・元気創造プラザ2階）（外部リンク）;https://www.mitakagenki-plaza.jp/",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "1歳6カ月になる月にご案内を郵送いたします。",
+      "procedurePersons": null,
+      "procedureMethod": "（1）歯科健康診査（集団健診）・育児相談\n受診場所\n三鷹市総合保健センター\n\n補足\nベビーカーの置き場所は屋外です。健診会場には乗り入れできませんので、ご了承ください。ご事情があるかたは、健診時にご相談ください。\n\n・2歳になる前日まで受診が可能ですが、ご案内後早めの受診を推奨しております。ご案内の日程で受けられない場合は、日程の変更等承りますので、総合保健センターにご連絡ください。\n・お子さんの発達や、子育てについてご心配があるかたは、総合保健センターまでご相談ください。\n来所されるかたへ\n来所される皆様には、以下の点についてご理解、ご協力をお願いいたします。\n\n・健診を受けるお子さんや付き添いの保護者のかたに、37.5℃以上の発熱や風邪症状がある場合は、受診をお控えください。\n・会場の都合により、最小限の人数での来所にご協力ください。\n・特別な配慮が必要なかたは、事前にご相談ください。\n・ご来所の際には受付前の手洗いにご協力をお願いいたします。\n（2）一般健康診査(個別健診)\n一般健康診査(個別健診)については、協力医療機関に予約の上、受診してください。　\n\n受診場所\n三鷹市協力医療機関で受診\n\n詳しくは「三鷹市乳幼児健康診査協力医一覧」をご確認ください。\n\n子育て支援プログラムについて\n市では、1歳6カ月児頃の子どもの育ちの理解を深め、この時期に大切にしてほしい親子の関わりについて学ぶ「子育て講座と遊びのプログラム」を開催しています。\n健診の通知の中にご案内が入っていますので、ご確認のうえ、お申し込みください。\n\n申し込み方法\n健診時に申込み用紙をご提出ください。\n\n関連リンク\n三鷹市総合保健センター（三鷹中央防災公園・元気創造プラザ2階）（外部リンク）;https://www.mitakagenki-plaza.jp/",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "1歳6カ月から2歳になる前日まで"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "（1）歯科健康診査（集団健診）・育児相談\n三鷹市総合保健センター\n\n（2）一般健康診査(個別健診)\n三鷹市協力医療機関で受診\n\n詳しくは「三鷹市乳幼児健康診査協力医一覧;https://www.city.mitaka.lg.jp/c_service/076/076807.html」をご確認ください。\n\n関連リンク\n三鷹市総合保健センター（三鷹中央防災公園・元気創造プラザ2階）（外部リンク）;https://www.mitakagenki-plaza.jp/",
+      "relatedLink": [
+        {
+          "uri": "https://www.mitakagenki-plaza.jp/",
+          "title": "三鷹市総合保健センター（三鷹中央防災公園・元気創造プラザ2階）（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.mitaka.lg.jp/c_service/076/076807.html",
+          "title": "三鷹市乳幼児健康診査協力医一覧"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/078/078602.html",
+        "title": "1歳6カ月児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 母子保健係",
+        "contactPhone": "0422-46-3254",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+        "contactComment": null,
+        "zipCode": "1810004",
+        "contactAddress": "東京都三鷹市新川六丁目37番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+1+UM51",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部子ども家庭課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-06",
+      "odInformation": {
+        "updateDate": "2024-07-09",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "3歳児健康診査",
+        "shortName": "3歳児健康診査"
+      },
+      "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。三鷹市では3歳児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "3歳児健康診査（集団健診）\n来所されるかたへ以下の点についてご理解、ご協力をお願いいたします。\n\n・健診を受けるお子さんや付き添いの保護者の方に37.5℃以上の発熱や風邪症状がある場合は、受診をお控えください。\n・会場の都合により、最小限の人数での来所にご協力ください。可能な限り、お子さま1人に対して、保護者のかた1人の付き添いをお願いしております。（特別な配慮が必要なかたは、来所時にご相談ください）\n・ご来所の際には、受付前の手洗いにご協力をお願いいたします。\n・ご案内している時間どおりにお越しください。早く来ていただいても受付はできませんので、ご注意ください。受付時間の変更を希望される場合は、必ず事前にご連絡ください。\n対象者\n3～4歳未満の幼児\n3歳になる月にご案内を郵送します。4歳になる前日まで受診が可能ですが、ご案内後早めの受診を推奨しております。\nお子さんの発達や、子育てについてご心配がある方は、総合保健センターまでご相談ください。\n\n健診内容\n内科健診、歯科健診、計測、視力・聴力・尿検査、育児・栄養相談など\n\n申し込み方法\n対象者には個別に受診票を郵送します。申し込みはいりません。\n転入のかた、紛失したかた、案内した日時に来所できないかたはご連絡ください。\n\n受診場所\n三鷹市総合保健センター;https://www.city.mitaka.lg.jp/c_sections/kenkou/index.html\nベビーカーの置き場は屋外です。健診会場には乗り入れできませんので、ご了承ください。ご事情があるかたは、健診時にご相談ください。\n\n受付時間\n午後0時45分から午後1時45分まで\n感染予防のため、分散受付を実施しております。案内している時間どおりにお越しください。\n早く来ていただいても受付はできませんので、ご注意ください。受付時間の変更を希望される場合は、必ず事前にご連絡ください。\n\n尿検査に関して\n健診当日、尿が取れず検査ができなかった場合でも、お子さまが4歳になるまでは尿検査のみを後から受けていただくことが可能です。その場合、3歳児健康診査開催日の指定の時間に来所していただくこととなります。来所の際は、事前に保健センターまでお電話ください。\n尿検査を行う目的は、腎臓や尿路系の異常等を早期発見し、適切な治療につなげることです。尿検査では、潜血・たん白・糖の有無を調べています。異常があってもすぐに病気であるわけではありませんが、小学校入学前までに尿検査を受けていただける大切な機会になっておりますので、ぜひ検査をお受けください。\n\n関連リンク\n三鷹市総合保健センター（三鷹中央防災公園・元気創造プラザ2階）（外部リンク）;https://www.mitakagenki-plaza.jp/",
+      "target": {
+        "targetPersons": "3～4歳未満の幼児\n3歳になる月にご案内を郵送します。4歳になる前日まで受診が可能ですが、ご案内後早めの受診を推奨しております。\nお子さんの発達や、子育てについてご心配がある方は、総合保健センターまでご相談ください。",
+        "lessThan": {
+          "targetAge": 4,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "3～4歳未満の幼児"
+      },
+      "support": {
+        "description": "内科健診、歯科健診、計測、視力・聴力・尿検査、育児・栄養相談など",
+        "monetarySupport": null,
+        "materiallySupport": "内科健診、歯科健診、計測、視力・聴力・尿検査、育児・栄養相談など"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "三鷹市総合保健センター;https://www.city.mitaka.lg.jp/c_sections/kenkou/index.html\nベビーカーの置き場は屋外です。健診会場には乗り入れできませんので、ご了承ください。ご事情があるかたは、健診時にご相談ください。",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "対象者には個別に受診票を郵送します。",
+      "procedurePersons": null,
+      "procedureMethod": "来所されるかたへ以下の点についてご理解、ご協力をお願いいたします。\n\n・健診を受けるお子さんや付き添いの保護者の方に37.5℃以上の発熱や風邪症状がある場合は、受診をお控えください。\n・会場の都合により、最小限の人数での来所にご協力ください。可能な限り、お子さま1人に対して、保護者のかた1人の付き添いをお願いしております。（特別な配慮が必要なかたは、来所時にご相談ください）\n・ご来所の際には、受付前の手洗いにご協力をお願いいたします。\n・ご案内している時間どおりにお越しください。早く来ていただいても受付はできませんので、ご注意ください。受付時間の変更を希望される場合は、必ず事前にご連絡ください。\n\n申し込み方法\n対象者には個別に受診票を郵送します。申し込みはいりません。\n転入のかた、紛失したかた、案内した日時に来所できないかたはご連絡ください。\n\n受診場所\n三鷹市総合保健センター;https://www.city.mitaka.lg.jp/c_sections/kenkou/index.html\nベビーカーの置き場は屋外です。健診会場には乗り入れできませんので、ご了承ください。ご事情があるかたは、健診時にご相談ください。\n\n尿検査に関して\n健診当日、尿が取れず検査ができなかった場合でも、お子さまが4歳になるまでは尿検査のみを後から受けていただくことが可能です。その場合、3歳児健康診査開催日の指定の時間に来所していただくこととなります。来所の際は、事前に保健センターまでお電話ください。\n尿検査を行う目的は、腎臓や尿路系の異常等を早期発見し、適切な治療につなげることです。尿検査では、潜血・たん白・糖の有無を調べています。異常があってもすぐに病気であるわけではありませんが、小学校入学前までに尿検査を受けていただける大切な機会になっておりますので、ぜひ検査をお受けください。\n\n関連リンク\n三鷹市総合保健センター（三鷹中央防災公園・元気創造プラザ2階）（外部リンク）;https://www.mitakagenki-plaza.jp/",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "12:45",
+        "toYMD": null,
+        "toHM": "13:45",
+        "conditions": "午後0時45分から午後1時45分まで\n感染予防のため、分散受付を実施しております。案内している時間どおりにお越しください。\n早く来ていただいても受付はできませんので、ご注意ください。受付時間の変更を希望される場合は、必ず事前にご連絡ください。"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "三鷹市総合保健センター;https://www.city.mitaka.lg.jp/c_sections/kenkou/index.html",
+      "relatedLink": [
+        {
+          "uri": "https://www.mitakagenki-plaza.jp/",
+          "title": "三鷹市総合保健センター（三鷹中央防災公園・元気創造プラザ2階）（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/078/078594.html",
+        "title": "3歳児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 母子保健係",
+        "contactPhone": "0422-46-3254",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+        "contactComment": null,
+        "zipCode": "1810004",
+        "contactAddress": "東京都三鷹市新川六丁目37番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+1+UM52",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部 子ども家庭課 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-05-08",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の乳幼児健診",
+        "shortName": "経過観察健康診査・発達健康診査"
+      },
+      "summary": "三鷹市では、専門医による発育・発達の健診及び相談や理学療法士による運動発達面の相談などを行っています。",
+      "description": "健診内容\n専門医による発育・発達の健診及び相談や理学療法士による運動発達面の相談など\n\n申し込み方法\n　予約制です。\n　総合保健センター(0422-46-3254)へご連絡ください。　\n\n関連リンク\n三鷹市総合保健センター（三鷹中央防災公園・元気創造プラザ2階）（外部リンク）;https://www.mitakagenki-plaza.jp/",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "専門医による発育・発達の健診及び相談や理学療法士による運動発達面の相談など",
+        "monetarySupport": null,
+        "materiallySupport": "専門医による発育・発達の健診及び相談や理学療法士による運動発達面の相談など"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "予約制です。\n　総合保健センター(0422-46-3254)へご連絡ください。　\n\n関連リンク\n三鷹市総合保健センター（三鷹中央防災公園・元気創造プラザ2階）（外部リンク）;https://www.mitakagenki-plaza.jp/",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "総合保健センター(0422-46-3254)",
+      "relatedLink": [
+        {
+          "uri": "https://www.mitakagenki-plaza.jp/",
+          "title": "三鷹市総合保健センター（三鷹中央防災公園・元気創造プラザ2階）（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/078/078595.html",
+        "title": "経過観察健康診査・発達健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 母子保健係",
+        "contactPhone": "0422-46-3254",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+        "contactComment": null,
+        "zipCode": "1810004",
+        "contactAddress": "東京都三鷹市新川六丁目37番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+1+UM53",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部子ども家庭課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-07",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（１～４歳児歯科健康診査）",
+        "shortName": "幼児歯科健診"
+      },
+      "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。2歳児歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+      "description": "個別通知される集団健診とは別に、ご希望のかたが受けられる予約制の歯科健診です\n内容\n歯科医師によるお口の健診と、歯科衛生士による個別相談\n\n対象\n三鷹市民のお子さん\n1歳から4歳1カ月未満までご利用できます。\n\nお申し込み\nお電話または窓口でお申し込みください。\n\n三鷹市総合保健センター\n\n電話　0422-24-8266\n\n日程\n初めてご利用のかたは「新規」の受付時間で予約してください。オレンジ色の「むし歯予防のお約束票」をお持ちのかたは「継続」の受付時間で予約してください。\n\n午前\n・新規受付\n1.午前9時30分から午前9時40分まで\n2.午前10時から10時10分まで\n・継続受付\n1.午前10時30分から午前10時40分まで\n2.午前11時から11時10分まで\n午後\n・新規受付\n1. 午後1時から午後1時10分まで\n\n・継続受付\n1.午後1時30分から午後1時40分まで\n2.午後2時10分から午後2時20分まで\n令和6年度 幼児歯科健診\n\n||月|火曜日|木曜日|\n|:----|:----|:----|:----|\n|令和6年|4月|9日（午前・午後）<br>23日（午前・午後）|11日（午後）<br>25日（午後）|\n||5月|14日（午前）<br>28日（午前・午後）\t|9日（午後）<br>23日（午後）|\n||6月|11日（午前）<br>25日（午前）|13日（午後）<br>27日（午後）|\n||7月|9日（午前・午後）<br>23日（午前・午後）|11日（午後）<br>25日（午後）|\n||8月|6日（午前）<br>27日（午前）|8日（午後）<br>22日（午後）|\n||9月|10日（午前・午後）<br>24日（午前）|12日（午後）<br>26日（午後）|\n||10月|8日（午前）<br>22日（午前）|10日（午後）<br>24日（午後）|\n||11月|12日（午前）<br>26日（午前）|14日（午後）<br>28日（午後）|\n||12月|3日（午前）<br>24日（午前）|12日（午後）<br>26日（午後）|\n|令和7年|1月|14日（午前）<br>28日（午前）|9日（午後）<br>16日（午前）|\n||2月|4日（午前）<br>25日（午前・午後）|13日（午後）<br>27日（午後）|\n||3月|11日（午前）<br>25日（午前・午後）|6日（午前）<br>13日（午後）|\n\n持ち物　\n新規のかた\n・幼児歯科健診の予約票\n「幼児歯科健診の予約票」はお持ちのかたのみご持参ください\n・歯ブラシ\n・コップ\n・タオル\n継続のかた\n・むし歯予防のお約束票\n・歯ブラシ\n・コップ\n・タオル\n会場\n三鷹市総合保健センター;https://www.city.mitaka.lg.jp/c_sections/kenkou/index.html\n\n注意事項\nべビーカーは元気創造プラザ2階北側の所定の場所に置いてください。健診会場には乗り入れできませんので、ご了承ください。ご事情があるかたは、健診時にご相談ください。\n予防処置\nフッ素塗布対象は、保健センターで実施する歯科健診で、歯科医師が必要と認めたお子さんです。フッ素塗布については、下記の添付ファイルをご確認ください。\n\n持ち物\n・歯ブラシ2本（普段使用している歯ブラシ1本、新品の歯ブラシ1本）\n・コップ\n・タオル\n来所されるかたへ\n以下の点についてご理解とご協力をお願いいたします。\n\n・幼児歯科健診を受けるお子さんや付き添いの保護者のかたに37.5度以上の発熱や風邪症状がある場合は、受診をお控えください。\n・ご来所の際には手洗いにご協力をお願いいたします。\n添付ファイル\nフッ素塗布について（PDF 91KB）;https://www.city.mitaka.lg.jp/c_service/084/attached/attach_84862_1.pdf",
+      "target": {
+        "targetPersons": "三鷹市民のお子さん\n1歳から4歳1カ月未満までご利用できます。",
+        "lessThan": {
+          "targetAge": 4,
+          "targetAgeOfMonths": 1
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1歳から4歳1カ月未満まで"
+      },
+      "support": {
+        "description": "歯科医師によるお口の健診と、歯科衛生士による個別相談",
+        "monetarySupport": null,
+        "materiallySupport": "歯科医師によるお口の健診と、歯科衛生士による個別相談"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "令和6年度 幼児歯科健診\n\n||月|火曜日|木曜日|\n|:----|:----|:----|:----|\n|令和6年|4月|9日（午前・午後）<br>23日（午前・午後）|11日（午後）<br>25日（午後）|\n||5月|14日（午前）<br>28日（午前・午後）\t|9日（午後）<br>23日（午後）|\n||6月|11日（午前）<br>25日（午前）|13日（午後）<br>27日（午後）|\n||7月|9日（午前・午後）<br>23日（午前・午後）|11日（午後）<br>25日（午後）|\n||8月|6日（午前）<br>27日（午前）|8日（午後）<br>22日（午後）|\n||9月|10日（午前・午後）<br>24日（午前）|12日（午後）<br>26日（午後）|\n||10月|8日（午前）<br>22日（午前）|10日（午後）<br>24日（午後）|\n||11月|12日（午前）<br>26日（午前）|14日（午後）<br>28日（午後）|\n||12月|3日（午前）<br>24日（午前）|12日（午後）<br>26日（午後）|\n|令和7年|1月|14日（午前）<br>28日（午前）|9日（午後）<br>16日（午前）|\n||2月|4日（午前）<br>25日（午前・午後）|13日（午後）<br>27日（午後）|\n||3月|11日（午前）<br>25日（午前・午後）|6日（午前）<br>13日（午後）|\n"
+      },
+      "implementationPlace": {
+        "implementationName": "三鷹市総合保健センター;https://www.city.mitaka.lg.jp/c_sections/kenkou/index.html\n\n注意事項\nべビーカーは元気創造プラザ2階北側の所定の場所に置いてください。健診会場には乗り入れできませんので、ご了承ください。ご事情があるかたは、健診時にご相談ください。",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "お申し込み\nお電話または窓口でお申し込みください。\n\n三鷹市総合保健センター\n\n電話　0422-24-8266\n\n会場\n\n三鷹市総合保健センター;https://www.city.mitaka.lg.jp/c_sections/kenkou/index.html\n\n注意事項\nべビーカーは元気創造プラザ2階北側の所定の場所に置いてください。健診会場には乗り入れできませんので、ご了承ください。ご事情があるかたは、健診時にご相談ください。\n予防処置\nフッ素塗布対象は、保健センターで実施する歯科健診で、歯科医師が必要と認めたお子さんです。フッ素塗布については、下記の添付ファイルをご確認ください。\n\n持ち物\n・歯ブラシ2本（普段使用している歯ブラシ1本、新品の歯ブラシ1本）\n・コップ\n・タオル\n来所されるかたへ\n以下の点についてご理解とご協力をお願いいたします。\n\n・幼児歯科健診を受けるお子さんや付き添いの保護者のかたに37.5度以上の発熱や風邪症状がある場合は、受診をお控えください。\n・ご来所の際には手洗いにご協力をお願いいたします。\n添付ファイル\nフッ素塗布について（PDF 91KB）;https://www.city.mitaka.lg.jp/c_service/084/attached/attach_84862_1.pdf",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "初めてご利用のかたは「新規」の受付時間で予約してください。オレンジ色の「むし歯予防のお約束票」をお持ちのかたは「継続」の受付時間で予約してください。\n\n午前\n新規受付\n1.午前9時30分から午前9時40分まで\n2.午前10時から10時10分まで\n継続受付\n1.午前10時30分から午前10時40分まで\n2.午前11時から11時10分まで\n午後\n新規受付\n1. 午後1時から午後1時10分まで\n\n継続受付\n1.午後1時30分から午後1時40分まで\n2.午後2時10分から午後2時20分まで"
+      },
+      "electronicSubmission": false,
+      "belongings": "新規のかた\n・幼児歯科健診の予約票\n「幼児歯科健診の予約票」はお持ちのかたのみご持参ください\n・歯ブラシ\n・コップ\n・タオル\n継続のかた\n・むし歯予防のお約束票\n・歯ブラシ\n・コップ\n・タオル",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "三鷹市総合保健センター\n\n電話　0422-24-8266",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.mitaka.lg.jp/c_service/084/attached/attach_84862_1.pdf",
+          "title": "フッ素塗布について（PDF 91KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/084/084862.html",
+        "title": "幼児歯科健診"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 母子保健係",
+        "contactPhone": "0422-24-8266",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+        "contactComment": null,
+        "zipCode": "1810004",
+        "contactAddress": "東京都三鷹市新川六丁目37番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+1+UM792",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部 子ども家庭課 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "離乳食教室",
+        "shortName": "離乳食・幼児食講習会"
+      },
+      "summary": "生後５か月～２歳前後のお子さんとその保護者を対象に、離乳食を始める時のポイントやすすめ方についての講座を開催しています。離乳食のいろいろな悩みに栄養士がお答えします。",
+      "description": "内容\n離乳食講習会\n・ステップ1\n　離乳食（1回食）の始めかたの話\n・ステップ2\n　離乳食（2回食）のすすめかたとお口の発達の話\n・ステップ3\n　離乳食（3回食）のすすめかたとお口の発達の話\n・1歳からのごはん\n　1歳ごろの食事のポイントと家族の健康の話\n幼児食講習会\n2歳からのごはん\n\n2歳ごろの食事と食育のポイントの話\n\n対象\nご参加いただける教室はお子さまの誕生月で異なります。詳しくは下記の添付ファイル「離乳食講習会チラシ」「2歳からのごはんチラシ」をご確認ください。\n\n対象外で受講をご希望の場合はご相談ください。\n\n日時\n令和6年度　離乳食・幼児食講習会\n\nhttps://www.city.mitaka.lg.jp/c_service/071/071384.html\n\n下記の申し込みフォームからご予約できます。希望日の前日までにご予約ください。\n\nステップ1　申し込みフォーム（外部リンク）;https://logoform.jp/form/ejBZ/411974\nステップ2　申し込みフォーム（外部リンク）;https://logoform.jp/form/ejBZ/429584\nステップ3　申し込みフォーム（外部リンク）;https://logoform.jp/form/ejBZ/447271\n1歳からのごはん　申し込みフォーム（外部リンク）;https://logoform.jp/form/ejBZ/463476\n2歳からのごはん　申し込みフォーム（外部リンク）;https://logoform.jp/form/ejBZ/463481\n会場\n元気創造プラザ2階 三鷹市総合保健センター\n\n来所されるかたへ\n以下の点についてご理解とご協力をお願いいたします。\n\n・講座を受講されるかたに37.5℃以上の発熱や風邪症状がある場合は、受講をお控\nえください。\n・ご来所の際には手洗いのご協力をお願いいたします。\n・ベビーカーは元気創造プラザ2階北側の所定の場所に置いてください。講習会会場\nには乗り入れできませんので、ご了承ください。ご事情があるかたは、ご相談くだ\nさい。\nパンフレット\n下記リンクから離乳食・幼児食講習会の内容をまとめたパンフレットをダウンロードできます。\n\n離乳食(1回食)のすすめかたはステップ1;https://www.city.mitaka.lg.jp/c_service/081/081755.htmlをご覧ください。\n離乳食(2回食)のすすめかたはステップ2;https://www.city.mitaka.lg.jp/c_service/081/081767.htmlをご覧ください。\n離乳食(3回食)のすすめかたはステップ3;https://www.city.mitaka.lg.jp/c_service/082/082470.htmlをご覧ください。\n離乳食(完了期)のすすめかたは1歳からのごはん;https://www.city.mitaka.lg.jp/c_service/085/085739.htmlをご覧ください。\n幼児食(2歳前後)のすすめかたは2歳からのごはん;https://www.city.mitaka.lg.jp/c_service/085/085740.htmlをご覧ください。\n添付ファイル\n令和6年度　離乳食講習会　チラシ（PDF 222KB）;https://www.city.mitaka.lg.jp/c_service/071/attached/attach_71384_1.pdf\n令和6年度　2歳からのごはん　チラシ（PDF 207KB）;https://www.city.mitaka.lg.jp/c_service/071/attached/attach_71384_2.pdf\n乳児ボツリヌス症について（PDF 610KB）;https://www.city.mitaka.lg.jp/c_service/071/attached/attach_71384_12.pdf",
+      "target": {
+        "targetPersons": "ご参加いただける教室はお子さまの誕生月で異なります。詳しくは下記の添付ファイル「離乳食講習会チラシ」「2歳からのごはんチラシ」をご確認ください。\n\n対象外で受講をご希望の場合はご相談ください。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "https://www.city.mitaka.lg.jp/c_service/071/071384.html"
+      },
+      "implementationPlace": {
+        "implementationName": "元気創造プラザ2階 三鷹市総合保健センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "離乳食講習会\n・ステップ1\n　離乳食（1回食）の始めかたの話\n・ステップ2\n　離乳食（2回食）のすすめかたとお口の発達の話\n・ステップ3\n　離乳食（3回食）のすすめかたとお口の発達の話\n・1歳からのごはん\n　1歳ごろの食事のポイントと家族の健康の話\n幼児食講習会\n2歳からのごはん\n\n2歳ごろの食事と食育のポイントの話\n\n下記の申し込みフォームからご予約できます。希望日の前日までにご予約ください。\n\n・ステップ1　申し込みフォーム（外部リンク）;https://logoform.jp/form/ejBZ/411974\n・ステップ2　申し込みフォーム（外部リンク）;https://logoform.jp/form/ejBZ/429584\n・ステップ3　申し込みフォーム（外部リンク）;https://logoform.jp/form/ejBZ/447271\n・1歳からのごはん　申し込みフォーム（外部リンク）:https://logoform.jp/form/ejBZ/463476\n・2歳からのごはん　申し込みフォーム（外部リンク）;https://logoform.jp/form/ejBZ/463481\n\n会場\n元気創造プラザ2階 三鷹市総合保健センター\n\n来所されるかたへ\n以下の点についてご理解とご協力をお願いいたします。\n\n・講座を受講されるかたに37.5℃以上の発熱や風邪症状がある場合は、受講をお控\nえください。\n・ご来所の際には手洗いのご協力をお願いいたします。\n・ベビーカーは元気創造プラザ2階北側の所定の場所に置いてください。講習会会場\nには乗り入れできませんので、ご了承ください。ご事情があるかたは、ご相談くだ\nさい。\nパンフレット\n下記リンクから離乳食・幼児食講習会の内容をまとめたパンフレットをダウンロードできます。\n\n・離乳食(1回食)のすすめかたはステップ1;https://www.city.mitaka.lg.jp/c_service/081/081755.htmlをご覧ください。\n・離乳食(2回食)のすすめかたはステップ2;https://www.city.mitaka.lg.jp/c_service/081/081767.htmlをご覧ください。\n・離乳食(3回食)のすすめかたはステップ3;https://www.city.mitaka.lg.jp/c_service/082/082470.htmlをご覧ください。\n・離乳食(完了期)のすすめかたは1歳からのごはん;https://www.city.mitaka.lg.jp/c_service/085/085739.htmlをご覧ください。\n・幼児食(2歳前後)のすすめかたは2歳からのごはん;https://www.city.mitaka.lg.jp/c_service/085/085740.htmlをご覧ください。\n添付ファイル\n令和6年度　離乳食講習会　チラシ（PDF 222KB）;https://www.city.mitaka.lg.jp/c_service/071/attached/attach_71384_1.pdf\n令和6年度　2歳からのごはん　チラシ（PDF 207KB）;https://www.city.mitaka.lg.jp/c_service/071/attached/attach_71384_2.pdf\n乳児ボツリヌス症について（PDF 610KB）;https://www.city.mitaka.lg.jp/c_service/071/attached/attach_71384_12.pdf",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "希望日の前日までにご予約ください。"
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "元気創造プラザ2階 三鷹市総合保健センター",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.mitaka.lg.jp/c_service/071/attached/attach_71384_2.pdf",
+          "title": "令和6年度　2歳からのごはん　チラシ（PDF 207KB）"
+        },
+        {
+          "uri": "https://www.city.mitaka.lg.jp/c_categories/index03002005.html",
+          "title": "食育に関する内容"
+        },
+        {
+          "uri": "https://www.city.mitaka.lg.jp/c_service/071/attached/attach_71384_1.pdf",
+          "title": "令和6年度　離乳食講習会　チラシ（PDF 222KB）"
+        },
+        {
+          "uri": "https://www.city.mitaka.lg.jp/c_service/071/attached/attach_71384_12.pdf",
+          "title": "乳児ボツリヌス症について（PDF 610KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/071/071384.html",
+        "title": "離乳食・幼児食講習会のお知らせ"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/ejBZ/463481",
+          "title": "・2歳からのごはん　申し込みフォーム（外部リンク）"
+        },
+        {
+          "uri": "https://logoform.jp/form/ejBZ/411974",
+          "title": "・ステップ1　申し込みフォーム（外部リンク）"
+        },
+        {
+          "uri": "https://logoform.jp/form/ejBZ/429584",
+          "title": "・ステップ2　申し込みフォーム（外部リンク）"
+        },
+        {
+          "uri": "https://logoform.jp/form/ejBZ/447271",
+          "title": "・ステップ3　申し込みフォーム（外部リンク）"
+        },
+        {
+          "uri": "https://logoform.jp/form/ejBZ/463476",
+          "title": "・1歳からのごはん　申し込みフォーム（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 母子保健係",
+        "contactPhone": "0422-24-8266",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+        "contactComment": null,
+        "zipCode": "1810004",
+        "contactAddress": "東京都三鷹市新川六丁目37番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+1+UM798",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部 子ども家庭課 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-16",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法、食育基本法",
+        "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）、法第5条（子どもの食育における保護者、教育関係者等の役割）、21条 （地域における食生活の改善のための取組の推進）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "こども家庭センター",
+        "shortName": "子ども家庭支援センター りぼん"
+      },
+      "summary": "三鷹市の【子ども家庭支援センター りぼん】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+      "description": "子ども家庭支援センター りぼん\n作成・発信部署：\n\n公開日：2020年3月30日\n\n子どもと家庭に関する総合相談など、あらゆる相談に応じます\n所在地\n〒181-8505\n\n電話番号\n0422-40-5925\n\n内容\n相談\n子どもと家庭に関する総合相談。あらゆる相談に応じます。相談できます。\n\nショートステイ事業などの受付・調整\nショートステイ事業などの相談・受付・調整をおこなっています。そのほかのサービス提供の相談にも応じています。\n\n利用時間\n\n休館日",
+      "target": {
+        "targetPersons": "対象\n0歳から18歳未満の児童及びその保護者。",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "無料",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "子ども家庭支援センター りぼん",
+        "implementationAddress": "三鷹市下連雀九丁目11番7号\n教育センター　2階"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:30",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "月曜日～金曜日"
+      },
+      "specificDate": null,
+      "holiday": "土曜日、日曜日、祝日、年末年始",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+          "title": "子ども政策部　子ども家庭課"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/085/085325.html",
+        "title": "子ども家庭支援センター りぼん"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 子ども家庭支援センターりぼん",
+        "contactPhone": "電話：0422-40-5925",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1818505",
+        "contactAddress": "東京都三鷹市下連雀九丁目11番7号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+1+UM799",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部 子ども家庭課 子ども家庭支援センターりぼん",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023/06/20",
+      "odInformation": {
+        "updateDate": "2025/02/25",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第10条の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関するサポート",
+        "shortName": "ふたご家庭の移動を支援"
+      },
+      "summary": "三鷹市では、ふたご家庭の外出を支援するために、タクシー乗車などで使える「子ども商品券」をお渡しします。",
+      "description": "対象・支援内容　　　　　　　　　　　　　　　　　　　　　　　　　　　　\nふたご家庭の外出を支援するために、タクシー乗車などで使える「子ども商品券」をお渡しします。\n\n対象：三鷹市に住民登録があり、0・1・2歳のふたご・みつごのいる世帯。\n対象のご家庭には「案内はがき」を郵送します。届かない場合はお問い合わせください。\n\n支援内容：保健師等が対象のお子さんにもお会いし、現在の生活の様子や困りごとなどをお伺いしております。困りごとがある時にはお気軽にご相談ください。面接を受けていただいたかたには、1世帯当たり、年間24,000円分のこども商品券をお渡しします。\n\n申請方法\n総合保健センターに面接の予約をしてください。\n\n問い合わせ先\n三鷹市総合保健センター\n\n〒181-0004　東京都三鷹市新川六丁目37番1号\n電話　0422-46-3254\n\n関連リンク\nふたご家庭等支援事業について;https://www.city.mitaka.lg.jp/c_service/091/091202.html\nふたごの親の交流会（年間予定）;https://www.city.mitaka.lg.jp/c_service/090/090967.html",
+      "target": {
+        "targetPersons": "三鷹市に住民登録があり、0・1・2歳のふたご・みつごのいる世帯",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "三鷹市に住民登録があり、0・1・2歳のふたご・みつごのいる世帯"
+      },
+      "support": {
+        "description": "保健師等が対象のお子さんにもお会いし、現在の生活の様子や困りごとなどをお伺いしております。困りごとがある時にはお気軽にご相談ください。面接を受けていただいたかたには、1世帯当たり、年間24,000円分のこども商品券をお渡しします。",
+        "monetarySupport": "保健師等が対象のお子さんにもお会いし、現在の生活の様子や困りごとなどをお伺いしております。困りごとがある時にはお気軽にご相談ください。面接を受けていただいたかたには、1世帯当たり、年間24,000円分のこども商品券をお渡しします。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "対象のご家庭には「案内はがき」を郵送します。届かない場合はお問い合わせください。",
+      "procedurePersons": "三鷹市に住民登録があり、0・1・2歳のふたご・みつごのいる世帯",
+      "procedureMethod": "申請方法\n総合保健センターに面接の予約をしてください。\n\n問い合わせ先\n三鷹市総合保健センター\n\n〒181-0004　東京都三鷹市新川六丁目37番1号\n電話　0422-46-3254",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "三鷹市総合保健センター",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.mitaka.lg.jp/c_service/091/091202.html",
+          "title": "ふたご家庭等支援事業について"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/087/087944.html",
+        "title": "ふたご家庭の移動を支援します！"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課",
+        "contactPhone": "0422-45-3031",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+        "contactComment": null,
+        "zipCode": "1810004",
+        "contactAddress": "東京都三鷹市新川六丁目37番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+2+UM106",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部 子ども家庭課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-22",
+      "odInformation": {
+        "updateDate": "2024-07-10",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "三鷹市の妊娠・出産に関する相談",
+        "shortName": "お母さん・お父さんのこころの相談"
+      },
+      "summary": "三鷹市では、お母さん・お父さんを対象に子どもにつらくあたってしまい子育てがむなしい、しんどいなどの相談に対応しています。",
+      "description": "妊娠がつらい、産後うつかなと思ったら\n妊娠するとホルモンバランスの変化を受け、気持ちが落ち込み、こころが不安定になることがあります。また、赤ちゃんが産まれ、幸せになれると楽しみにしていたのに、つらく、しんどい悲しい気持ちを感じたり、そう感じてしまうことに罪悪感を感じたり…子育て中は思い悩むことがたくさんあります。\n\nそんなあなたの気持ちをそっときかせてください。\n\nお母さん・お父さんのこころの相談\n夫婦・家族との関係がうまくいかない、子どもにつらくあたってしまい子育てがむなしい、しんどいなど…どんなことでもお気軽にご相談ください。\n\n三鷹市総合保健センター 0422-46-3254(平日午前8時30分～午後5時)\n\n妊娠相談ほっとライン\n・思いがけない妊娠、予定外の妊娠にとまどっている方\n・妊娠したかもしれないと不安になっている方\n・妊娠中の体調で悩んでいる方\n・出産費用が心配な方\n・家族やパートナーとの関係で悩んでいる方\n東京都では妊娠に関する様々な悩みを抱える方からの相談に看護師などの専門職が対応し、内容によっては適切な関係機関の紹介も行います。都内にお住まいの方を対象に、匿名で相談できます。\n\n詳しくは東京都「妊娠相談ほっとライン（外部リンク）;http://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/ninshin-hotline.html」をご確認ください。\n\nこころといのちのほっとライン　\n　0570-087478(年中無休午後2時～翌日午前5時30分)　\n\n下記のPDFの相談窓口一覧(LINE相談あり)もご参照ください。\n\n添付ファイル\n東京都こころといのちの相談窓口一覧\n東京都こころといのちの相談窓口一覧（PDF 981KB）;https://www.city.mitaka.lg.jp/c_service/088/attached/attach_88260_1.pdf",
+      "target": {
+        "targetPersons": "お母さん・お父さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "子どもにつらくあたってしまい子育てがむなしい、しんどいなど…どんなことでもお気軽にご相談ください。",
+        "monetarySupport": null,
+        "materiallySupport": "子どもにつらくあたってしまい子育てがむなしい、しんどいなど…どんなことでもお気軽にご相談ください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "お母さん・お父さん",
+      "procedureMethod": "子どもにつらくあたってしまい子育てがむなしい、しんどいなど…どんなことでもお気軽にご相談ください。\n\n三鷹市総合保健センター 0422-46-3254(平日午前8時30分～午後5時)",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": "17:00",
+        "conditions": "平日午前8時30分～午後5時"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "三鷹市総合保健センター",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/088/088260.html",
+        "title": "妊娠や子育てがつらいと思ったら"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 母子保健係",
+        "contactPhone": "0422-46-3254",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+        "contactComment": null,
+        "zipCode": "1810004",
+        "contactAddress": "東京都三鷹市新川六丁目37番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+2+UM47",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部子ども家庭課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-01-31",
+      "odInformation": {
+        "updateDate": "2024-07-09",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊娠・出産に関するその他のこと",
+        "shortName": "こころといのちのほっとライン"
+      },
+      "summary": "東京都では、年中無休でこころといのちに関する電話相談を実施しています。",
+      "description": "妊娠がつらい、産後うつかなと思ったら\n妊娠するとホルモンバランスの変化を受け、気持ちが落ち込み、こころが不安定になることがあります。また、赤ちゃんが産まれ、幸せになれると楽しみにしていたのに、つらく、しんどい悲しい気持ちを感じたり、そう感じてしまうことに罪悪感を感じたり…子育て中は思い悩むことがたくさんあります。\n\nそんなあなたの気持ちをそっときかせてください。\n\nお母さん・お父さんのこころの相談\n夫婦・家族との関係がうまくいかない、子どもにつらくあたってしまい子育てがむなしい、しんどいなど…どんなことでもお気軽にご相談ください。\n\n三鷹市総合保健センター 0422-46-3254(平日午前8時30分～午後5時)\n\n妊娠相談ほっとライン\n・思いがけない妊娠、予定外の妊娠にとまどっている方\n・妊娠したかもしれないと不安になっている方\n・妊娠中の体調で悩んでいる方\n・出産費用が心配な方\n・家族やパートナーとの関係で悩んでいる方\n東京都では妊娠に関する様々な悩みを抱える方からの相談に看護師などの専門職が対応し、内容によっては適切な関係機関の紹介も行います。都内にお住まいの方を対象に、匿名で相談できます。\n\n詳しくは東京都「妊娠相談ほっとライン（外部リンク）;http://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/ninshin-hotline.html」をご確認ください。\n\nこころといのちのほっとライン　\n　0570-087478(年中無休午後2時～翌日午前5時30分)　\n\n下記のPDFの相談窓口一覧(LINE相談あり)もご参照ください。\n\n添付ファイル\n東京都こころといのちの相談窓口一覧\n東京都こころといのちの相談窓口一覧（PDF 981KB）;https://www.city.mitaka.lg.jp/c_service/088/attached/attach_88260_1.pdf",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "0570-087478(年中無休午後2時～翌日午前5時30分)　\n\n下記のPDFの相談窓口一覧(LINE相談あり)もご参照ください。\n\n添付ファイル\n東京都こころといのちの相談窓口一覧\n東京都こころといのちの相談窓口一覧（PDF 981KB）;https://www.city.mitaka.lg.jp/c_service/088/attached/attach_88260_1.pdf",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "14:00",
+        "toYMD": null,
+        "toHM": "05:30",
+        "conditions": "年中無休午後2時～翌日午前5時30分"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.mitaka.lg.jp/c_service/088/attached/attach_88260_1.pdf",
+          "title": "東京都こころといのちの相談窓口一覧（PDF 981KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/088/088260.html",
+        "title": "妊娠や子育てがつらいと思ったら"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 母子保健係",
+        "contactPhone": "0422-46-3254",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+        "contactComment": null,
+        "zipCode": "1810004",
+        "contactAddress": "東京都三鷹市新川六丁目37番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+2+UM48",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部子ども家庭課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-01-31",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "9～10カ月児健康診査"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として乳幼児健康診査（6か月から12か月児）を実施しています。",
+      "description": "6～7カ月児健康診査・9～10カ月児健康診査(個別健診）\n対象者\n・6～7カ児健康診査は、6～8カ月未満の乳児\n\n・9～10カ月健康診査は、9～11カ月未満の乳児\n\n健診内容\n　計測、内科健診など\n\n申し込み方法\n・現在市民のかたは、3～4カ月児健康診査のご案内と一緒に受診票を郵送しますので、申し込みはご不要です。\n\n・都内からの転入のかたで、受診票をお持ちのかたは、その受診票を使用できます。\n\n・都外からの転入者のかたや、受診票を紛失したかたは総合保健センターへご連絡ください。　\n\n実施場所\n三鷹市乳幼児健康診査協力医一覧表;https://www.city.mitaka.lg.jp/c_service/076/076807.html\n\n問い合わせ先\n三鷹市総合保健センター(0422-46-3254)\n\n関連リンク\n三鷹市総合保健センター（三鷹中央防災公園・元気創造プラザ2階）（外部リンク）;https://www.mitakagenki-plaza.jp/",
+      "target": {
+        "targetPersons": "9～11カ月未満の乳児",
+        "lessThan": {
+          "targetAge": 11,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 9,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "9～11カ月未満の乳児"
+      },
+      "support": {
+        "description": "計測、内科健診など",
+        "monetarySupport": null,
+        "materiallySupport": "計測、内科健診など"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "三鷹市乳幼児健康診査協力医一覧表;https://www.city.mitaka.lg.jp/c_service/076/076807.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "現在市民のかたは、3～4カ月児健康診査のご案内と一緒に受診票を郵送します",
+      "procedurePersons": null,
+      "procedureMethod": "申し込み方法\n・現在市民のかたは、3～4カ月児健康診査のご案内と一緒に受診票を郵送しますので、申し込みはご不要です。\n\n・都内からの転入のかたで、受診票をお持ちのかたは、その受診票を使用できます。\n\n・都外からの転入者のかたや、受診票を紛失したかたは総合保健センターへご連絡ください。　\n\n実施場所\n三鷹市乳幼児健康診査協力医一覧表;https://www.city.mitaka.lg.jp/c_service/076/076807.html\n\n問い合わせ先\n三鷹市総合保健センター(0422-46-3254)\n\n関連リンク\n三鷹市総合保健センター（三鷹中央防災公園・元気創造プラザ2階）（外部リンク）;https://www.mitakagenki-plaza.jp/",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "三鷹市総合保健センター(0422-46-3254)",
+      "relatedLink": [
+        {
+          "uri": "https://www.mitakagenki-plaza.jp/",
+          "title": "三鷹市総合保健センター（三鷹中央防災公園・元気創造プラザ2階）（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.mitaka.lg.jp/c_service/076/076807.html",
+          "title": "三鷹市乳幼児健康診査協力医一覧表"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/081/081743.html",
+        "title": "6～7カ月児健康診査・9～10カ月児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 母子保健係",
+        "contactPhone": "0422-46-3254",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+        "contactComment": null,
+        "zipCode": "1810004",
+        "contactAddress": "東京都三鷹市新川六丁目37番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+2+UM50",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部子ども家庭課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-07",
+      "odInformation": {
+        "updateDate": "2024-07-10",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "こども家庭センター",
+        "shortName": "子ども家庭課母子保健係"
+      },
+      "summary": "三鷹市では、妊娠期から子育て期にわたり保護者の心身の健康や育児に関する様々な悩みに対応するため、妊娠期から切れ目ない支援を行っています。",
+      "description": "総合保健センター\n作成・発信部署：\n\n公開日：2024年３月１日\n\n三鷹市では、地域で安心して出産・子育てができるよう、「ゆりかご面接」を行っています。ゆりかご面接では、妊婦の方のからだやこころの相談から地域の利用できる機関やサービス、地域のひろば等を紹介しています。\n\n妊娠８か月頃には、アンケートを送りますのでご回答いただきご様子をお知らせください。ゆりかご面接2回目では、出産準備や産後のことを具体的に考え始める時期になりますので、出産に向けての心配や不安を軽減できるようご相談を受けています。さらに、産後ケアの申請も行っています。　\n\n総合保健センター（電話0422-46-3254）",
+      "target": {
+        "targetPersons": "対象\n妊婦",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "総合保健センター",
+        "implementationAddress": "東京都三鷹市新川六丁目37番1号\n三鷹中央防災公園・元気創造プラザ　２階"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:30",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "月曜日～金曜日"
+      },
+      "specificDate": null,
+      "holiday": "土曜日・日曜日・祝日、年末年始",
+      "utilization": "面接は予約制です。予約方法はホームページをご覧ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳、子育てガイド",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+          "title": "子ども政策部　子ども家庭課"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/056/056266.html",
+        "title": "ゆりかご面接"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 子ども家庭支援センター母子保健係",
+        "contactPhone": "電話：0422-46‐3254",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1810004",
+        "contactAddress": "東京都三鷹市新川六丁目37番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+2+UM799",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部 子ども家庭課 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2025/02/01",
+      "odInformation": {
+        "updateDate": "2025/02/25",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第22条"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て支援拠点・地域子育て支援センター",
+        "shortName": "子ども家庭支援センター りぼん"
+      },
+      "summary": "三鷹市では市内の「子ども家庭支援センター りぼん」などを子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+      "description": "子どもと家庭に関する総合相談など、あらゆる相談に応じます\n所在地\n〒181-8505\n三鷹市下連雀九丁目11番7号\n教育センター　2階\n周辺の地図情報(三鷹市わがまちマップ)（外部リンク）;http://www2.wagmap.jp/mitakacity/APIDetail/Gate?API=1&linkid=322c7ee9-9ee1-4de1-b005-b0dd4256827f&mid=4\n\n電話番号\n0422-40-5925\n\n対象\n0歳から18歳未満の児童及びその保護者。\n\n内容\n相談\n子どもと家庭に関する総合相談。あらゆる相談に応じます。無料で相談できます。\n\nショートステイ事業などの受付・調整\nショートステイ事業などの相談・受付・調整をおこなっています。そのほかのサービス提供の相談にも応じています。\n\n利用時間\n月曜日～金曜日 午前8時30分～午後5時\n\n休館日\n土曜日、日曜日、祝日、年末年始",
+      "target": {
+        "targetPersons": "0歳から18歳未満の児童及びその保護者",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "0歳から18歳未満の児童"
+      },
+      "support": {
+        "description": "相談\n子どもと家庭に関する総合相談。あらゆる相談に応じます。無料で相談できます。\n\nショートステイ事業などの受付・調整\nショートステイ事業などの相談・受付・調整をおこなっています。そのほかのサービス提供の相談にも応じています。",
+        "monetarySupport": null,
+        "materiallySupport": "相談\n子どもと家庭に関する総合相談。あらゆる相談に応じます。無料で相談できます。\n\nショートステイ事業などの受付・調整\nショートステイ事業などの相談・受付・調整をおこなっています。そのほかのサービス提供の相談にも応じています。"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "子ども家庭支援センター りぼん",
+        "implementationAddress": "三鷹市下連雀九丁目11番7号\n教育センター　2階\n周辺の地図情報(三鷹市わがまちマップ)（外部リンク）"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:30",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "月曜日～金曜日 午前8時30分～午後5時"
+      },
+      "specificDate": null,
+      "holiday": "土曜日、日曜日、祝日、年末年始",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "http://www2.wagmap.jp/mitakacity/APIDetail/Gate?API=1&linkid=322c7ee9-9ee1-4de1-b005-b0dd4256827f&mid=4",
+          "title": "周辺の地図情報(三鷹市わがまちマップ)（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/085/085325.html",
+        "title": "子ども家庭支援センター りぼん"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 子ども家庭支援センターりぼん",
+        "contactPhone": "0422-40-5925",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+        "contactComment": null,
+        "zipCode": "1818505",
+        "contactAddress": "東京都三鷹市下連雀九丁目11番7号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+3+UM110",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部 子ども家庭課 子ども家庭支援センターりぼん",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-20",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法、児童福祉法",
+        "regulationArticle": "第6条の3第6項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "ひとり親家庭ホームヘルプサービス事業",
+        "shortName": "ひとり親家庭ホームヘルプサービス事業"
+      },
+      "summary": "三鷹市では、日常生活を営むのに著しく支障があるひとり親家庭に対してホームヘルパーを派遣し、日常の世話など必要な援助や自立に向けた支援を行います。",
+      "description": "子ども政策部 子育て支援課 相談支援係",
+      "target": {
+        "targetPersons": "市内に居住する義務教育終了前の児童を扶養しているひとり親家庭で、次のいずれかに該当するため、家事・育児などの日常生活に支障をきたしている家庭\n\n1.ひとり親家庭となってから2年以内であり、生活環境が激変したため、日常生活を営むのに支障が生じており、支援を必要としている場合\n2.ひとり親家庭の親が技能の習得のため、職業能力開発センターなどに通学している場合\n3.ひとり親家庭の親が就職活動、母子自立支援プログラムに基づいた活動を行う場合など自立の促進に必要があると認められる場合\n4.ひとり親家庭の親又は義務教育終了前の児童に係る疾病、出産、看護、事故、災害、冠婚葬祭、学校などの公的行事の参加など社会通念上必要と認められる事由がある場合\n5.乳幼児又は小学校に就学する児童を養育しているひとり親家庭の親が就業上の理由により、帰宅時間が遅くなるなどの場合（所定内労働時間の就業を除く。）\n6.その他ひとり親家庭のためにホームヘルプサービスが必要と認められる場合",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "次に掲げるもののうち、必要と認められるもの\n\n1.食事の世話\n2.住居の掃除及び整理整とん\n3.被服の洗濯及び補修\n4.育児\n5.その他必要な用務",
+        "monetarySupport": null,
+        "materiallySupport": "次に掲げるもののうち、必要と認められるもの\n\n1.食事の世話\n2.住居の掃除及び整理整とん\n3.被服の洗濯及び補修\n4.育児\n5.その他必要な用務"
+      },
+      "cost": null,
+      "costConditions": "所得に応じて費用負担があります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "・月12回まで\n・午前7時から午後10時までのうち、1時間を単位として1時間以上8時間以内"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "市内に居住する義務教育終了前の児童を扶養しているひとり親家庭で、次のいずれかに該当するため、家事・育児などの日常生活に支障をきたしている家庭\n\n1.ひとり親家庭となってから2年以内であり、生活環境が激変したため、日常生活を営むのに支障が生じており、支援を必要としている場合\n2.ひとり親家庭の親が技能の習得のため、職業能力開発センターなどに通学している場合\n3.ひとり親家庭の親が就職活動、母子自立支援プログラムに基づいた活動を行う場合など自立の促進に必要があると認められる場合\n4.ひとり親家庭の親又は義務教育終了前の児童に係る疾病、出産、看護、事故、災害、冠婚葬祭、学校などの公的行事の参加など社会通念上必要と認められる事由がある場合\n5.乳幼児又は小学校に就学する児童を養育しているひとり親家庭の親が就業上の理由により、帰宅時間が遅くなるなどの場合（所定内労働時間の就業を除く。）\n6.その他ひとり親家庭のためにホームヘルプサービスが必要と認められる場合",
+      "procedureMethod": "申請方法\n利用をご希望のかたは、子育て支援課相談支援係までご相談ください。\n\n申請時に必要な書類は次のとおりです。\n・ひとり親家庭ホームヘルパー派遣申請書\n・所得証明書（所得額、扶養の状況、控除額のわかるもの）\n・在職証明書\n手続の際は、社会保障・税番号（マイナンバー）の記載・提示が必要です\nひとり家庭ホームヘルパー派遣の申請手続では、平成28年1月以降、社会保障・税番号（マイナンバー）の記載・提示とマイナンバー法に基づく本人確認が必要です。\n\n個人番号カードをお持ちのかたは1枚で本人確認が完了します。くわしくは、「社会保障・税番号（マイナンバー）制度における本人確認について」;https://www.city.mitaka.lg.jp/c_service/055/055945.htmlをご覧ください。\n\n申請に必要な書類\n「個人番号カード(裏面)」や「通知カード」など番号を確認できる書類\n本人確認のできる書類(「個人番号カード(表面)」のほか、運転免許証や旅券(パスポート)など）\nお問い合わせ先\n子育て支援課相談支援係(市役所本庁舎4階)\n電話　0422-45-1151\n\n(内線2754・2755)",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "申請時に必要な書類は次のとおりです。\n・ひとり親家庭ホームヘルパー派遣申請書\n・所得証明書（所得額、扶養の状況、控除額のわかるもの）\n・在職証明書\n手続の際は、社会保障・税番号（マイナンバー）の記載・提示が必要です\nひとり家庭ホームヘルパー派遣の申請手続では、平成28年1月以降、社会保障・税番号（マイナンバー）の記載・提示とマイナンバー法に基づく本人確認が必要です。\n\n個人番号カードをお持ちのかたは1枚で本人確認が完了します。くわしくは、「社会保障・税番号（マイナンバー）制度における本人確認について」;https://www.city.mitaka.lg.jp/c_service/055/055945.htmlをご覧ください。\n\n申請に必要な書類\n・「個人番号カード(裏面)」や「通知カード」など番号を確認できる書類\n・本人確認のできる書類(「個人番号カード(表面)」のほか、運転免許証や旅券(パスポート)など）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "子育て支援課相談支援係(市役所本庁舎4階)",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.mitaka.lg.jp/c_service/055/055945.html",
+          "title": "社会保障・税番号（マイナンバー）制度における本人確認について"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/048/048560.html",
+        "title": "ひとり親家庭ホームヘルパー派遣"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども政策部 子育て支援課 相談支援係",
+        "contactPhone": "0422-45-1151",
+        "contactEx": "2754,2755",
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kosodate/index.html",
+        "contactComment": null,
+        "zipCode": "1818555",
+        "contactAddress": "東京都三鷹市野崎一丁目1番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+4+UM106",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部 子育て支援課 相談支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-04-05",
+      "odInformation": {
+        "updateDate": "2024-07-08",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "三鷹市ひとり親家庭ホームヘルプサービス事業実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "三鷹市の子育てに関する相談",
+        "shortName": "子育て相談室"
+      },
+      "summary": "三鷹市では、インターネットによる子育て相談を行っています。",
+      "description": "インターネットによる相談を受け付けています\n子育てのこと一人で悩んでいないで思いきって相談してみませんか？\n子育ての専門家があなたの相談にお答えします。\n詳しくは、三鷹市子育て支援サイト「みたかきっずナビ」アプリからの子育て相談（外部リンク）;https://kosodate-mitaka.mchh.jp/LGArticle/Index/3696?subGroupId=15&rootGroupId=5」をご確認ください。\n\nお問い合わせ・相談先\n子ども家庭支援センターのびのびひろば\n電話 0422-40-5925\nファクス 0422-76-6819\n受付時間 午前8時30分～午後7時(日曜日・祝日・年末年始を除く）",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "子育てのこと一人で悩んでいないで思いきって相談してみませんか？\n子育ての専門家があなたの相談にお答えします。",
+        "monetarySupport": null,
+        "materiallySupport": "子育てのこと一人で悩んでいないで思いきって相談してみませんか？\n子育ての専門家があなたの相談にお答えします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "インターネットによる相談を受け付けています\n子育てのこと一人で悩んでいないで思いきって相談してみませんか？\n子育ての専門家があなたの相談にお答えします。\n詳しくは、三鷹市子育て支援サイト「みたかきっずナビ」アプリからの子育て相談（外部リンク）」;https://kosodate-mitaka.mchh.jp/LGArticle/Index/3696?subGroupId=15&rootGroupId=5をご確認ください。\n\nお問い合わせ・相談先\n子ども家庭支援センターのびのびひろば\n電話 0422-40-5925\nファクス 0422-76-6819\n受付時間 午前8時30分～午後7時(日曜日・祝日・年末年始を除く）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": "19:00",
+        "conditions": "受付時間 午前8時30分～午後7時(日曜日・祝日・年末年始を除く）"
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "子ども家庭支援センターのびのびひろば",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/001/001099.html",
+        "title": "子育て相談室"
+      },
+      "formLink": [
+        {
+          "uri": "https://kosodate-mitaka.mchh.jp/LGArticle/Index/3696?subGroupId=15&rootGroupId=5",
+          "title": "「みたかきっずナビ」アプリからの子育て相談（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども政策部 子ども育成課",
+        "contactPhone": "0422-29-9672,0422-29-9673,0422-29-9674",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomo/index.html",
+        "contactComment": null,
+        "zipCode": "1818555",
+        "contactAddress": "東京都三鷹市野崎一丁目1番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+4+UM119",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部 子ども育成課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-02-03",
+      "odInformation": {
+        "updateDate": "2024-07-09",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関するサポート",
+        "shortName": "小さく生まれたお子さんとその親の交流会"
+      },
+      "summary": "三鷹市では、小さく生まれたお子さん（おおよそ出生時体重2,000グラム以下）と親の交流会を行います。",
+      "description": "小さく生まれたお子さんとその親の交流会\n小さく生まれたお子さんと親の交流会を行います。日々の子育てについて情報交換をしたり、小さく生まれたからこそ感じる思いを話しませんか？\n\n不安や悩みを分かち合い、子どもたちの成長を一緒に見守っていきましょう。参加者同士の交流以外にも心理相談員による発達のお話や親子遊びも紹介します。\n\n日時\n・6月28日（金曜日）\n・11月19日（火曜日）\nいずれも午前10時～11時45分（受付は午前9時45分から）\n\n場所\n三鷹中央防災公園・元気創造プラザ\n\n2階\n三鷹市総合保健センター\n\n内容\n心理相談員によるお話（お子さんの発達や育児について）や保健師による遊びの紹介、参加者同士の情報交換など。\n\n募集定員など\n対象\n三鷹市在住の就学前の小さく生まれたお子さん（おおよそ出生時体重2,000グラム以下）とその保護者（先着10組）\n\n持ち物\nおむつなど、必要なもの\n\nその他\n・対象となるお子さんも同室で参加していただきます。\n・対象のお子さんの兄弟姉妹も参加可能です。\n申し込み\n電子申請\nこちらのフォーム（外部リンク）;https://logoform.jp/form/ejBZ/562891から必要事項を入力してください。\n\n(電子申請の申し込みは2日前まで受け付けます)\n\n開催日の前日の申し込み、キャンセルはお電話でご連絡ください。\n\n問い合わせ\n平日の午前9時～午後5時の間に保健センターへお電話ください。\n\n三鷹市総合保健センター　\n\n電話　0422-46-3254",
+      "target": {
+        "targetPersons": "三鷹市在住の就学前の小さく生まれたお子さん（おおよそ出生時体重2,000グラム以下）とその保護者（先着10組）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "心理相談員によるお話（お子さんの発達や育児について）や保健師による遊びの紹介、参加者同士の情報交換など。",
+        "monetarySupport": null,
+        "materiallySupport": "心理相談員によるお話（お子さんの発達や育児について）や保健師による遊びの紹介、参加者同士の情報交換など。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "10:00",
+        "toYMD": null,
+        "toHM": "11:45",
+        "conditions": "・6月28日（金曜日）\n・11月19日（火曜日）\nいずれも午前10時～11時45分（受付は午前9時45分から）"
+      },
+      "implementationPlace": {
+        "implementationName": "三鷹中央防災公園・元気創造プラザ\n\n2階\n三鷹市総合保健センター",
+        "implementationAddress": null
+      },
+      "capacity": "先着10組",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "三鷹市在住の就学前の小さく生まれたお子さん（おおよそ出生時体重2,000グラム以下）とその保護者",
+      "procedureMethod": "日時\n・6月28日（金曜日）\n・11月19日（火曜日）\nいずれも午前10時～11時45分（受付は午前9時45分から）\n\n場所\n三鷹中央防災公園・元気創造プラザ\n\n2階\n三鷹市総合保健センター\n\n募集定員など\n対象\n三鷹市在住の就学前の小さく生まれたお子さん（おおよそ出生時体重2,000グラム以下）とその保護者（先着10組）\n\n持ち物\nおむつなど、必要なもの\n\nその他\n対象となるお子さんも同室で参加していただきます。\n対象のお子さんの兄弟姉妹も参加可能です。\n\n申し込み\n電子申請\nこちらのフォーム（外部リンク）;https://logoform.jp/form/ejBZ/562891から必要事項を入力してください。\n\n(電子申請の申し込みは2日前まで受け付けます)\n\n開催日の前日の申し込み、キャンセルはお電話でご連絡ください。\n\n問い合わせ\n平日の午前9時～午後5時の間に保健センターへお電話ください。\n\n三鷹市総合保健センター　\n\n電話　0422-46-3254",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "09:00",
+        "toYMD": null,
+        "toHM": "17:00",
+        "conditions": "(電子申請の申し込みは2日前まで受け付けます)\n\n開催日の前日の申し込み、キャンセルはお電話でご連絡ください。\n\n問い合わせ\n平日の午前9時～午後5時の間に保健センターへお電話ください。"
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "三鷹市総合保健センター",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/100/100717.html",
+        "title": "小さく生まれたお子さんとその親の交流会"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/ejBZ/562891",
+          "title": "こちらのフォーム（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 母子保健係",
+        "contactPhone": "0422-46-3254",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+        "contactComment": null,
+        "zipCode": "1810004",
+        "contactAddress": "東京都三鷹市新川六丁目37番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+5+UM106",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部 子ども家庭課 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-02",
+      "odInformation": {
+        "updateDate": "2024-05-17",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "三鷹市の子育てに関する相談",
+        "shortName": "ヤングケアラー"
+      },
+      "summary": "「三鷹市子ども家庭支援センターりぼん」などでは、ヤングケアラーに関する相談を受け付けています。",
+      "description": "ヤングケアラー\n ヤングケアラーとは\n家族にケアを要する人がいる場合に、大人が担うようなケア責任を引き受け、家事や家族の世話、介護、感情面のサポートなどを行っている18歳未満の子どもをヤングケアラーといいます。ケアが必要な人は、主に、障がいや病気のある親や高齢の祖父母ですが、きょうだいやほかの親族の場合もあります。\n\n画像：ヤングケアラーイラスト（拡大画像へのリンク）;https://www.city.mitaka.lg.jp/c_service/101/images/img_101473_1_1_thumb.jpg\nⒸ一般社団法人日本ケアラー連盟ホームページより引用\n\n（画像クリックで拡大　90KB）\n\nヤングケアラーは家庭内の問題であることから、他人に相談しづらく、また、子ども自身や家族にヤングケアラーであるという認識がない場合も多く表面化しにくいものです。\n「もしかしたら、あの子はヤングケアラーかもしれない」と周囲に気になるお子さんがいたときは、下記の相談窓口にご相談ください。\nまた、お子さん自身が家族の世話などで悩んだり困ったときにもご相談ください。\n\n主な相談窓口\n三鷹市子ども家庭支援センターりぼん\n電話 0422-40-5925(平日午前8時30分～午後5時)\n\n杉並児童相談所\n電話 03-5370-6001(平日午前9時～午後5時)\n\n児童相談所虐待対応ダイヤル(全国共通ダイヤル)\n電話 189 いちはやく(24時間年中無休)\n\n 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　\n\n関連リンク\n「ヤングケアラー」を知っていますか？（こども家庭庁ホームページ）（外部リンク）;https://www.mhlw.go.jp/young-carer/\n「ヤングケアラーとは」（東京都福祉保健局ホームページ）（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/young-carer.html",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "三鷹市子ども家庭支援センターりぼん,杉並児童相談所,児童相談所虐待対応ダイヤル(全国共通ダイヤル)",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "三鷹市子ども家庭支援センターりぼん\n電話 0422-40-5925(平日午前8時30分～午後5時)\n\n杉並児童相談所\n電話 03-5370-6001(平日午前9時～午後5時)\n\n児童相談所虐待対応ダイヤル(全国共通ダイヤル)\n電話 189 いちはやく(24時間年中無休)"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "「もしかしたら、あの子はヤングケアラーかもしれない」と周囲に気になるお子さんがいたときは、下記の相談窓口にご相談ください。\nまた、お子さん自身が家族の世話などで悩んだり困ったときにもご相談ください。\n\n主な相談窓口\n三鷹市子ども家庭支援センターりぼん\n電話 0422-40-5925(平日午前8時30分～午後5時)\n\n杉並児童相談所\n電話 03-5370-6001(平日午前9時～午後5時)\n\n児童相談所虐待対応ダイヤル(全国共通ダイヤル)\n電話 189 いちはやく(24時間年中無休)",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "三鷹市子ども家庭支援センターりぼん\n電話 0422-40-5925(平日午前8時30分～午後5時)\n\n杉並児童相談所\n電話 03-5370-6001(平日午前9時～午後5時)\n\n児童相談所虐待対応ダイヤル(全国共通ダイヤル)\n電話 189 いちはやく(24時間年中無休)"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "三鷹市子ども家庭支援センターりぼん,杉並児童相談所,児童相談所虐待対応ダイヤル(全国共通ダイヤル)",
+      "relatedLink": [
+        {
+          "uri": "https://www.mhlw.go.jp/young-carer/",
+          "title": "「ヤングケアラー」を知っていますか？（こども家庭庁ホームページ）（外部リンク）"
+        },
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/kosodate/young-carer.html",
+          "title": "「ヤングケアラーとは」（東京都福祉保健局ホームページ）（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/101/101473.html",
+        "title": "ヤングケアラー"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 子ども家庭支援センターりぼん",
+        "contactPhone": "0422-40-5925",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+        "contactComment": null,
+        "zipCode": "1818505",
+        "contactAddress": "東京都三鷹市下連雀九丁目11番7号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+5+UM119",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部 子ども家庭課 子ども家庭支援センターりぼん",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-10",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "三鷹市の妊娠・出産に関する相談",
+        "shortName": "ゆりかご面接"
+      },
+      "summary": "三鷹市では、地域で安心して出産・子育てができるよう、助産師・保健師などが「ゆりかご面接」を行っています。",
+      "description": "来所される皆さまには、手洗いのご協力をお願いしています。\n\n妊婦さんを応援する「ゆりかご面接（妊婦面接）」　\n地域で安心して出産・子育てができるよう、助産師・保健師などが「ゆりかご面接」を行っています。\n\n初回のゆりかご面接を受けられたかたには、こども商品券1万円分と出産応援ギフト「ゆりかごギフト」（子育て支援サービスや育児用品などに交換できるポイント5万円相当）をお渡しします。ご妊娠中のかたは、面接をお受けください。（お渡しする封筒には「東京都　赤ちゃんファースト」と明記されています）\n\nまた、ご希望のかたには、妊娠8カ月を過ぎた頃に2回目のゆりかご面接も受けていただけます。\n\n妊娠中は心配ごとや知りたい情報も変化していきます。いつでもご相談ください。\n\n対象\nすべての妊婦（三鷹市に住民票があるかた）\n\n予約方法\n下記のフォームから、面接希望日の前日までにご予約ください。\n\nゆりかご面接・ゆりかごプラス申請面接 予約フォーム\n\n令和6年度（令和6年4月1日から予約分）（外部リンク）;https://logoform.jp/form/ejBZ/515175\n面接日前日からのキャンセルは電話でのみ受け付けます。\n\n面接について\n面接時間\n30分から1時間程度\n\n予約枠\n1.午前9時30分から\n2.午前10時30分から\n3.午後1時から\n4.午後2時から\n5.午後3時から\n面接内容\n・妊娠中の過ごしかた、出産の準備について\n・妊娠中や産後の子育てサービス、地域の情報について\n・妊娠中の気持ちや身体の相談　など\n持ち物\n・母子健康手帳\n・子育てガイド\n・お渡しした資料を持ち帰る袋\n面接場所\n三鷹市総合保健センター;https://www.city.mitaka.lg.jp/c_sections/kenkou/index.html\n\n三鷹市新川六丁目37番1号\n三鷹中央防災公園・元気創造プラザ2階\n\n電話　0422-46-3254\n\n添付ファイル\nYurikago counselling（英語版案内）（Word 149KB）;https://www.city.mitaka.lg.jp/c_service/056/attached/attach_56266_1.docx",
+      "target": {
+        "targetPersons": "すべての妊婦（三鷹市に住民票があるかた）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "地域で安心して出産・子育てができるよう、助産師・保健師などが「ゆりかご面接」を行っています。\n\nまた、ご希望のかたには、妊娠8カ月を過ぎた頃に2回目のゆりかご面接も受けていただけます。",
+        "monetarySupport": "初回のゆりかご面接を受けられたかたには、こども商品券1万円分と出産応援ギフト「ゆりかごギフト」（子育て支援サービスや育児用品などに交換できるポイント5万円相当）をお渡しします。ご妊娠中のかたは、面接をお受けください。（お渡しする封筒には「東京都　赤ちゃんファースト」と明記されています）",
+        "materiallySupport": "地域で安心して出産・子育てができるよう、助産師・保健師などが「ゆりかご面接」を行っています。\n\nまた、ご希望のかたには、妊娠8カ月を過ぎた頃に2回目のゆりかご面接も受けていただけます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "面接時間\n30分から1時間程度\n\n予約枠\n1.午前9時30分から\n2.午前10時30分から\n3.午後1時から\n4.午後2時から\n5.午後3時から"
+      },
+      "implementationPlace": {
+        "implementationName": "元気創造プラザ2階　三鷹市総合保健センター",
+        "implementationAddress": "三鷹市新川六丁目37番1号"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "すべての妊婦（三鷹市に住民票があるかた）",
+      "procedureMethod": "予約方法\n下記のフォームから、面接希望日の前日までにご予約ください。\n\nゆりかご面接・ゆりかごプラス申請面接 予約フォーム\n\n令和6年度（令和6年4月1日から予約分）（外部リンク）;https://logoform.jp/form/ejBZ/515175\n面接日前日からのキャンセルは電話でのみ受け付けます。\n\n面接について\n面接時間\n30分から1時間程度\n\n予約枠\n1.午前9時30分から\n2.午前10時30分から\n3.午後1時から\n4.午後2時から\n5.午後3時から\n面接内容\n・妊娠中の過ごしかた、出産の準備について\n・妊娠中や産後の子育てサービス、地域の情報について\n・妊娠中の気持ちや身体の相談　など\n持ち物\n・母子健康手帳\n・子育てガイド\n・お渡しした資料を持ち帰る袋\n面接場所\n三鷹市総合保健センター;https://www.city.mitaka.lg.jp/c_sections/kenkou/index.html\n\n三鷹市新川六丁目37番1号\n三鷹中央防災公園・元気創造プラザ2階\n\n電話　0422-46-3254\n\n添付ファイル\nYurikago counselling（英語版案内）（Word 149KB）;https://www.city.mitaka.lg.jp/c_service/056/attached/attach_56266_1.docx",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "面接希望日の前日までにご予約ください。"
+      },
+      "electronicSubmission": true,
+      "belongings": "・母子健康手帳・子育てガイド\n・子育てガイド\n・お渡しした資料を持ち帰る袋",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "三鷹市総合保健センター",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.mitaka.lg.jp/c_service/056/attached/attach_56266_1.docx",
+          "title": "英語版案内"
+        },
+        {
+          "uri": "https://www.city.mitaka.lg.jp/c_sections/kenkou/index.html",
+          "title": "三鷹市総合保健センター"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/056/056266.html",
+        "title": "妊婦さんを応援！「ゆりかご面接」"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/ejBZ/515175",
+          "title": "令和6年度（令和6年4月1日から予約分）（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 母子保健係",
+        "contactPhone": "0422-46-3254",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+        "contactComment": null,
+        "zipCode": "1810004",
+        "contactAddress": "東京都三鷹市新川六丁目37番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+5+UM47",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部子ども家庭課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-26",
+      "odInformation": {
+        "updateDate": "2024-07-09",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "三鷹市の子育てに関する相談",
+        "shortName": "産前・産後の相談"
+      },
+      "summary": "三鷹市では、保健師、助産師が自宅に訪問またはお電話で、妊娠・出産や子育てに関する相談を行います。",
+      "description": "産前・産後のご家庭をサポートします！\n　三鷹市では、妊娠期から子育て期にわたり、妊婦さんや産後のお母さんお父さんとそのご家族を切れ目なく応援しています。\n\n　妊娠中や出産直後は赤ちゃんを迎える喜びと同時に、お母さんのお身体やお気持ち、赤ちゃんを取り巻く家族のかたちも変化していきます。お母さん、お父さんの気持ちに寄り添いながら、ご相談に応じます。\n\n　「赤ちゃんを迎える準備はこれで十分かな？」「赤ちゃんのおむつ替えや抱っこは上手にできているかな？」「赤ちゃんとの過ごし方を知りたい！」など、気になることをお気軽にご相談ください。\n\n利用できる方\n市内在住の妊産婦とその家族\n\n費用\n無料\n\n内容\n保健師、助産師が自宅に訪問またはお電話で、妊娠・出産や子育てに関する相談をお受けします。\n\nゆっくりお話を聞いたり、一緒に考えたり、市内の子育て支援サービスの紹介もいたします。\n\n三鷹市総合保健センター(電話 0422-46-3254)",
+      "target": {
+        "targetPersons": "市内在住の妊産婦とその家族",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "保健師、助産師が自宅に訪問またはお電話で、妊娠・出産や子育てに関する相談をお受けします。\n\nゆっくりお話を聞いたり、一緒に考えたり、市内の子育て支援サービスの紹介もいたします。",
+        "monetarySupport": null,
+        "materiallySupport": "保健師、助産師が自宅に訪問またはお電話で、妊娠・出産や子育てに関する相談をお受けします。\n\nゆっくりお話を聞いたり、一緒に考えたり、市内の子育て支援サービスの紹介もいたします。"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "市内在住の妊産婦とその家族",
+      "procedureMethod": "保健師、助産師が自宅に訪問またはお電話で、妊娠・出産や子育てに関する相談をお受けします。\n\nゆっくりお話を聞いたり、一緒に考えたり、市内の子育て支援サービスの紹介もいたします。\n\n三鷹市総合保健センター(電話 0422-46-3254)",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産日より1年間"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "三鷹市総合保健センター",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/092/092586.html",
+        "title": "産前・産後の相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 母子保健係",
+        "contactPhone": "0422-46-3254",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+        "contactComment": null,
+        "zipCode": "1810004",
+        "contactAddress": "東京都三鷹市新川六丁目37番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+6+UM119",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部 子ども家庭課 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-11-15",
+      "odInformation": {
+        "updateDate": "2024-07-09",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "三鷹市の子育てに関する相談",
+        "shortName": "お母さん・お父さんのこころの相談"
+      },
+      "summary": "三鷹市では、お母さん・お父さんを対象に子どもにつらくあたってしまい子育てがむなしい、しんどいなどの相談に対応しています。",
+      "description": "妊娠がつらい、産後うつかなと思ったら\n妊娠するとホルモンバランスの変化を受け、気持ちが落ち込み、こころが不安定になることがあります。また、赤ちゃんが産まれ、幸せになれると楽しみにしていたのに、つらく、しんどい悲しい気持ちを感じたり、そう感じてしまうことに罪悪感を感じたり…子育て中は思い悩むことがたくさんあります。\n\nそんなあなたの気持ちをそっときかせてください。\n\nお母さん・お父さんのこころの相談\n夫婦・家族との関係がうまくいかない、子どもにつらくあたってしまい子育てがむなしい、しんどいなど…どんなことでもお気軽にご相談ください。\n\n三鷹市総合保健センター 0422-46-3254(平日午前8時30分～午後5時)\n\n妊娠相談ほっとライン\n・思いがけない妊娠、予定外の妊娠にとまどっている方\n・妊娠したかもしれないと不安になっている方\n・妊娠中の体調で悩んでいる方\n・出産費用が心配な方\n・家族やパートナーとの関係で悩んでいる方\n東京都では妊娠に関する様々な悩みを抱える方からの相談に看護師などの専門職が対応し、内容によっては適切な関係機関の紹介も行います。都内にお住まいの方を対象に、匿名で相談できます。\n\n詳しくは東京都「妊娠相談ほっとライン（外部リンク）;http://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/ninshin-hotline.html」をご確認ください。\n\nこころといのちのほっとライン　\n　0570-087478(年中無休午後2時～翌日午前5時30分)　\n\n下記のPDFの相談窓口一覧(LINE相談あり)もご参照ください。\n\n添付ファイル\n東京都こころといのちの相談窓口一覧\n東京都こころといのちの相談窓口一覧（PDF 981KB）;https://www.city.mitaka.lg.jp/c_service/088/attached/attach_88260_1.pdf",
+      "target": {
+        "targetPersons": "お母さん・お父さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "子どもにつらくあたってしまい子育てがむなしい、しんどいなど…どんなことでもお気軽にご相談ください。",
+        "monetarySupport": null,
+        "materiallySupport": "子どもにつらくあたってしまい子育てがむなしい、しんどいなど…どんなことでもお気軽にご相談ください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "お母さん・お父さん",
+      "procedureMethod": "子どもにつらくあたってしまい子育てがむなしい、しんどいなど…どんなことでもお気軽にご相談ください。\n\n三鷹市総合保健センター 0422-46-3254(平日午前8時30分～午後5時)",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": "17:00",
+        "conditions": "平日午前8時30分～午後5時"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "三鷹市総合保健センター",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.mitaka.lg.jp/c_service/088/088260.html",
+        "title": "妊娠や子育てがつらいと思ったら"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども政策部 子ども家庭課 母子保健係",
+        "contactPhone": "0422-46-3254",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.mitaka.lg.jp/c_sections/kodomokatei/index.html",
+        "contactComment": null,
+        "zipCode": "1810004",
+        "contactAddress": "東京都三鷹市新川六丁目37番1号"
+      },
+      "area": {
+        "areaCode": "132047;三鷹市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132047+7+UM119",
+        "organization": "8000020132047",
+        "compartment": "子ども政策部子ども家庭課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-01-31",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "三鷹市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

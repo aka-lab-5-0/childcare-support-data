@@ -1,0 +1,550 @@
+{
+  "version": "2025-07-09T05:55:17.823Z",
+  "areaCode": "132136",
+  "areaName": "東村山市",
+  "category": "other",
+  "count": 4,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "児童館",
+        "shortName": "児童館"
+      },
+      "summary": "児童館は、18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n東村山市の児童館には、小学校就学前のお子さんが安心して遊べるスペースがあり、またお子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、東村山市サイトや市報などでお知らせしています。）",
+      "description": "児童館の案内\n\n行事案内;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/yatteru/index.html\n秋津児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/akitsu/index.html\n本町児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/honcho/index.html\n栄町児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/sakae/index.html\n富士見児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/fujimi/index.html\n北山児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/kitayama/index.html\n児童館紹介リーフレット;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/rehuretto.html\n5館共通の案内;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/kyoutuannai.html",
+      "target": {
+        "targetPersons": "5館共通の案内;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/kyoutuannai.html",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "5館共通の案内;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/kyoutuannai.html"
+      },
+      "support": {
+        "description": "児童館の案内\n\n行事案内;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/yatteru/index.html\n秋津児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/akitsu/index.html\n本町児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/honcho/index.html\n栄町児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/sakae/index.html\n富士見児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/fujimi/index.html\n北山児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/kitayama/index.html\n児童館紹介リーフレット;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/rehuretto.html\n5館共通の案内;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/kyoutuannai.html",
+        "monetarySupport": null,
+        "materiallySupport": "児童館の案内\n\n行事案内;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/yatteru/index.html\n秋津児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/akitsu/index.html\n本町児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/honcho/index.html\n栄町児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/sakae/index.html\n富士見児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/fujimi/index.html\n北山児童館;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/kitayama/index.html\n児童館紹介リーフレット;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/rehuretto.html\n5館共通の案内;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/kyoutuannai.html"
+      },
+      "cost": null,
+      "costConditions": "5館共通の案内;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/kyoutuannai.html",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "秋津児童館,本町児童館,栄町児童館,富士見児童館,北山児童館",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "児童館で遊べる時間\nあそべる日\tあそべる時間\n月曜日から金曜日\n（ただし、学校休業日は除く）\n\n午前9時30分から午後5時45分\n土曜日・夏季・冬季・春季の休業日\n（ただし、日曜日・祝日を除く）\n\n午前9時から午後5時45分\n日曜日・祝日・振替休日\n児童館の行事はありませんが、施設の一部が使えます\n\n午前9時から午後5時"
+      },
+      "specificDate": null,
+      "holiday": "日曜日・祝日・振替休日・年末年始（12月29日から1月3日）\n（富士見児童館のみ上記のほか、月曜日が祝日と重なった場合は休館します）",
+      "utilization": "5館共通の案内;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/kyoutuannai.html",
+      "procedurePersons": null,
+      "procedureMethod": "5館共通の案内;https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/kyoutuannai.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "秋津児童館,本町児童館,栄町児童館,富士見児童館,北山児童館",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/sakae/index.html",
+          "title": "栄町児童館"
+        },
+        {
+          "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/akitsu/index.html",
+          "title": "秋津児童館"
+        },
+        {
+          "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/kitayama/index.html",
+          "title": "北山児童館"
+        },
+        {
+          "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/fujimi/index.html",
+          "title": "富士見児童館"
+        },
+        {
+          "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/honcho/index.html",
+          "title": "本町児童館"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/jidokan/jidoukan_info/index.html",
+        "title": "児童館の案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": "042-393-5111",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1898501",
+        "contactAddress": "東京都東村山市本町1丁目2番地3"
+      },
+      "area": {
+        "areaCode": "132136;東村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132136+1+UM108",
+        "organization": "1000020132136",
+        "compartment": "子ども家庭部児童課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "東村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小児科救急",
+        "shortName": "小児平日準夜応急診療"
+      },
+      "summary": "東村山市では、市内の小児科医がローテーションを組んで、休日や夜間に、赤ちゃんやお子さんが救急の際の診療を行っています。",
+      "description": "小児平日準夜応急診療\n〔小平市・東村山市・清瀬市・東久留米市・西東京市〕　地域の5医師会の協力により、2施設で実施。\n\n表\n https://www.city.higashimurayama.tokyo.jp/kurashi/bosai/kyukyu/kyukyu.html\n\n（注記）診療の対象は、15歳以下のかたです。\n（注記1）医師の診療の結果、点滴等の処置、入院等を必要とする場合は、他病院への紹介となります。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "小児平日準夜応急診療\n〔小平市・東村山市・清瀬市・東久留米市・西東京市〕　地域の5医師会の協力により、2施設で実施。\n\n表\n https://www.city.higashimurayama.tokyo.jp/kurashi/bosai/kyukyu/kyukyu.html\n\n（注記）診療の対象は、15歳以下のかたです。\n（注記1）医師の診療の結果、点滴等の処置、入院等を必要とする場合は、他病院への紹介となります。",
+        "monetarySupport": null,
+        "materiallySupport": "小児平日準夜応急診療\n〔小平市・東村山市・清瀬市・東久留米市・西東京市〕　地域の5医師会の協力により、2施設で実施。\n\n表\n https://www.city.higashimurayama.tokyo.jp/kurashi/bosai/kyukyu/kyukyu.html\n\n（注記）診療の対象は、15歳以下のかたです。\n（注記1）医師の診療の結果、点滴等の処置、入院等を必要とする場合は、他病院への紹介となります。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "https://www.city.higashimurayama.tokyo.jp/kurashi/bosai/kyukyu/kyukyu.html",
+        "implementationAddress": "https://www.city.higashimurayama.tokyo.jp/kurashi/bosai/kyukyu/kyukyu.html"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "https://www.city.higashimurayama.tokyo.jp/kurashi/bosai/kyukyu/kyukyu.html"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "〔小平市・東村山市・清瀬市・東久留米市・西東京市〕　地域の5医師会の協力により、2施設で実施。\n\n表\n https://www.city.higashimurayama.tokyo.jp/kurashi/bosai/kyukyu/kyukyu.html\n\n（注記）診療の対象は、15歳以下のかたです。\n（注記1）医師の診療の結果、点滴等の処置、入院等を必要とする場合は、他病院への紹介となります。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashimurayama.tokyo.jp/kurashi/bosai/kyukyu/kyukyu.html",
+        "title": "救急診療"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康福祉部健康増進課",
+        "contactPhone": "042-393-5111",
+        "contactEx": "3504～3507",
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashimurayama.tokyo.jp/formmail.html?_div=024000&_pageid=1383&_name=健康福祉部健康増進課",
+        "contactComment": "ファクス：042-395-2131",
+        "zipCode": "1898501",
+        "contactAddress": "東村山市本町1丁目2番地3"
+      },
+      "area": {
+        "areaCode": "132136;東村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132136+1+UM114",
+        "organization": "1000020132136",
+        "compartment": "健康福祉部健康増進課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-07-03",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "東村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "救急医療対策事業実施要綱",
+        "regulationArticle": "要綱全体"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+        "shortName": "産前産後期間の国民健康保険税の免除"
+      },
+      "summary": "令和6年1月1日より産前産後期間相当分の国民健康保険税の所得割額と均等割額が免除されます。少子化傾向が続く中で子育て世帯のさらなる経済的負担の軽減、次世代育成支援を行うことを目的としています。",
+      "description": "産前産後期間の国民健康保険税の免除について\n令和6年1月1日より産前産後期間相当分の国民健康保険税の所得割額と均等割額が免除されます。少子化傾向が続く中で子育て世帯のさらなる経済的負担の軽減、次世代育成支援を行うことを目的としています。\n\n免除対象となるかた\n令和5年11月1日以降に出産する国民健康保険被保険者のかた\n（注記）出産とは妊娠85日以上の分娩をいいます。（死産、流産、早産および人工妊娠中絶の別は問いません）\n\n免除内容\nその年度に納める保険税の所得割額と均等割額から、出産日（出産予定日）の属する月の前月から出産日（出産予定日）の属する月の翌々月相当分（4か月相当分）が減額されます。\n多胎妊娠の場合は出産日（出産予定日）の属する月の3か月前から6か月相当分が減額されます。\n（注記）免除期間相当分の所得割保険税と均等割保険税が年額から減額されます。減額後の金額を納期が到来していない期数で振り分けるため、免除期間に支払う保険税が0円になるとは限りません。\n\n〈免除期間の例〉\n\nなお、令和5年度においては免除期間のうち令和6年1月以降の期間の分だけ、保険税が減額されます。\n\n令和5年11月に出産した場合、令和6年1月相当分の保険税が減額されます。令和6年1月より前の期間については減額の対象とはなりません。\n申請方法\n下記書類を市役所本庁舎1階8番の保険年金課までお持ち下さい。\n\n出産日（出産予定日）と多胎妊娠の場合はその事実が確認できる書類（母子健康手帳等）　　\n（注記）出産後に届出を行う場合、出生証明書等の出産日および身分関係を明らかにする書類が必要です。\n\nマイナンバーカード（お持ちでないかたはマイナンバーが確認できる書類および運転免許証等の身元確認書類の2点）\n産前産後期間に係る国民健康保険税免除届出書（保険年金課窓口またはホームページ）\n産前産後期間に係る国民健康保険税免除届出書（PDF：314KB）\n\n受付期間\n出産予定日の6か月前から届け出ができます。出産後の届け出も可能です。",
+      "target": {
+        "targetPersons": "令和5年11月1日以降に出産する国民健康保険被保険者のかた\n（注記）出産とは妊娠85日以上の分娩をいいます。（死産、流産、早産および人工妊娠中絶の別は問いません）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "免除内容\n・その年度に納める保険税の所得割額と均等割額から、出産日（出産予定日）の属する月の前月から出産日（出産予定日）の属する月の翌々月相当分（4か月相当分）が減額されます。\n・多胎妊娠の場合は出産日（出産予定日）の属する月の3か月前から6か月相当分が減額されます。\n（注記）免除期間相当分の所得割保険税と均等割保険税が年額から減額されます。減額後の金額を納期が到来していない期数で振り分けるため、免除期間に支払う保険税が0円になるとは限りません。\n\n・なお、令和5年度においては免除期間のうち令和6年1月以降の期間の分だけ、保険税が減額されます。\n\n・令和5年11月に出産した場合、令和6年1月相当分の保険税が減額されます。令和6年1月より前の期間については減額の対象とはなりません。",
+        "monetarySupport": "免除内容\n・その年度に納める保険税の所得割額と均等割額から、出産日（出産予定日）の属する月の前月から出産日（出産予定日）の属する月の翌々月相当分（4か月相当分）が減額されます。\n・多胎妊娠の場合は出産日（出産予定日）の属する月の3か月前から6か月相当分が減額されます。\n（注記）免除期間相当分の所得割保険税と均等割保険税が年額から減額されます。減額後の金額を納期が到来していない期数で振り分けるため、免除期間に支払う保険税が0円になるとは限りません。\n\n・なお、令和5年度においては免除期間のうち令和6年1月以降の期間の分だけ、保険税が減額されます。\n\n・令和5年11月に出産した場合、令和6年1月相当分の保険税が減額されます。令和6年1月より前の期間については減額の対象とはなりません。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": "令和5年11月1日以降に出産する国民健康保険被保険者のかた\n（注記）出産とは妊娠85日以上の分娩をいいます。（死産、流産、早産および人工妊娠中絶の別は問いません）",
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "令和5年11月1日以降に出産する国民健康保険被保険者のかた",
+      "procedureMethod": "下記書類を市役所本庁舎1階8番の保険年金課までお持ち下さい。\n\n・出産日（出産予定日）と多胎妊娠の場合はその事実が確認できる書類（母子健康手帳等）　　\n（注記）出産後に届出を行う場合、出生証明書等の出産日および身分関係を明らかにする書類が必要です。\n\n・マイナンバーカード（お持ちでないかたはマイナンバーが確認できる書類および運転免許証等の身元確認書類の2点）\n\n・産前産後期間に係る国民健康保険税免除届出書（保険年金課窓口またはホームページ）\n\n産前産後期間に係る国民健康保険税免除届出書（PDF：314KB）;https://www.city.higashimurayama.tokyo.jp/kurashi/zei/kokuho/hoken/hokenzei/files/sanzensangomenzyotodokedesyo.pdf",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産予定日の6か月前から届け出ができます。出産後の届け出も可能です。"
+      },
+      "electronicSubmission": false,
+      "belongings": "出産日（出産予定日）と多胎妊娠の場合はその事実が確認できる書類（母子健康手帳等）　　\n（注記）出産後に届出を行う場合、出生証明書等の出産日および身分関係を明らかにする書類が必要です。\n\nマイナンバーカード（お持ちでないかたはマイナンバーが確認できる書類および運転免許証等の身元確認書類の2点）\n産前産後期間に係る国民健康保険税免除届出書（保険年金課窓口またはホームページ）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "市役所本庁舎1階8番の保険年金課",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.higashimurayama.tokyo.jp/shisetsu/shi/shi/index.html",
+          "title": "市役所本庁舎"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashimurayama.tokyo.jp/kurashi/zei/kokuho/hoken/hokenzei/sanzensangomenzyo.html",
+        "title": "産前産後期間の国民健康保険税の免除について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康福祉部保険年金課",
+        "contactPhone": "042-393-5111",
+        "contactEx": "年金係：3520　国保税係：3519　国保給付係：3518　高齢者医療係：3517",
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashimurayama.tokyo.jp/formmail.html?_div=017000&_pageid=39850&_name=健康福祉部保険年金課",
+        "contactComment": null,
+        "zipCode": "1898501",
+        "contactAddress": "東村山市本町1丁目2番地3"
+      },
+      "area": {
+        "areaCode": "132136;東村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132136+1+UM5035",
+        "organization": "1000020132136",
+        "compartment": "健康福祉部保険年金課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-12-26",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "東村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003",
+          "015"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後期間の国民年金保険料免除",
+        "shortName": "出産前後の国民年金保険料免除"
+      },
+      "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+      "description": "産前産後期間の国民年金保険料が免除されます\n平成31年4月1日より、産前産後期間の国民年金保険料の免除制度が始まります。免除申請の届出をすることにより産前産後の免除期間は保険料を納付した期間とみなされ、老齢基礎年金の受給額に反映されます。出産予定日または出産日（注1）が属する月の前月から4ヶ月間（多胎妊娠の場合は、出産予定日または出産日が属する月の3ヶ月前から6ヶ月間）が免除対象期間となります。詳細は日本年金機構のホームページ外部サイト;https://www.nenkin.go.jp/service/kokunen/menjo/20180810.htmlへのリンクでも確認できますのであわせてご覧ください。手続きの際に本人確認ができる書類の案内は、こんなときには届出を;https://www.city.higashimurayama.tokyo.jp/kurashi/zei/nenkin/todokede.htmlでご確認ください。\n\n（注1）出産とは、妊娠85日（4ヶ月）以上の出産を言います。（死産、流産、早産、人工妊娠中絶された方を含む）",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "産前産後期間の国民年金保険料が免除されます\n平成31年4月1日より、産前産後期間の国民年金保険料の免除制度が始まります。免除申請の届出をすることにより産前産後の免除期間は保険料を納付した期間とみなされ、老齢基礎年金の受給額に反映されます。出産予定日または出産日（注1）が属する月の前月から4ヶ月間（多胎妊娠の場合は、出産予定日または出産日が属する月の3ヶ月前から6ヶ月間）が免除対象期間となります。詳細は日本年金機構のホームページ外部サイト;https://www.nenkin.go.jp/service/kokunen/menjo/20180810.htmlへのリンクでも確認できますのであわせてご覧ください。手続きの際に本人確認ができる書類の案内は、こんなときには届出を;https://www.city.higashimurayama.tokyo.jp/kurashi/zei/nenkin/todokede.htmlでご確認ください。\n\n（注1）出産とは、妊娠85日（4ヶ月）以上の出産を言います。（死産、流産、早産、人工妊娠中絶された方を含む）",
+        "monetarySupport": "産前産後期間の国民年金保険料が免除されます\n平成31年4月1日より、産前産後期間の国民年金保険料の免除制度が始まります。免除申請の届出をすることにより産前産後の免除期間は保険料を納付した期間とみなされ、老齢基礎年金の受給額に反映されます。出産予定日または出産日（注1）が属する月の前月から4ヶ月間（多胎妊娠の場合は、出産予定日または出産日が属する月の3ヶ月前から6ヶ月間）が免除対象期間となります。詳細は日本年金機構のホームページ外部サイト;https://www.nenkin.go.jp/service/kokunen/menjo/20180810.htmlへのリンクでも確認できますのであわせてご覧ください。手続きの際に本人確認ができる書類の案内は、こんなときには届出を;https://www.city.higashimurayama.tokyo.jp/kurashi/zei/nenkin/todokede.htmlでご確認ください。\n\n（注1）出産とは、妊娠85日（4ヶ月）以上の出産を言います。（死産、流産、早産、人工妊娠中絶された方を含む）",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "詳細は日本年金機構のホームページ外部サイト;https://www.nenkin.go.jp/service/kokunen/menjo/20180810.htmlへのリンクでも確認できますのであわせてご覧ください。手続きの際に本人確認ができる書類の案内は、こんなときには届出を;https://www.city.higashimurayama.tokyo.jp/kurashi/zei/nenkin/todokede.htmlでご確認ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.nenkin.go.jp/oshirase/taisetu/2023/202302/0220.html",
+          "title": "国民年金保険料のスマートフォンアプリによる電子（キャッシュレス）決済がはじまりました（外部リンク）"
+        },
+        {
+          "uri": "https://www.nenkin.go.jp/service/jukyu/roureinenkin/kuriage-kurisage/20140421-02.html",
+          "title": "日本年金機構ホームページ（外部リンク）"
+        },
+        {
+          "uri": "https://www.nenkin.go.jp/oshirase/taisetu/2024/202403/030103.html",
+          "title": "国民年金保険料の口座振替・クレジットカード納付での前納について、年度の途中からまとめて振替（立替）できるようになります。"
+        },
+        {
+          "uri": "https://www.city.higashimurayama.tokyo.jp/kurashi/zei/nenkin/todokede.html",
+          "title": "、こんなときには届出を"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashimurayama.tokyo.jp/kurashi/zei/nenkin/kaisei.html",
+        "title": "年金インフォメーション"
+      },
+      "formLink": [
+        {
+          "uri": "https://myna.go.jp/",
+          "title": "マイナポータル"
+        }
+      ],
+      "contact": {
+        "contactName": "健康福祉部保険年金課",
+        "contactPhone": "042-393-5111",
+        "contactEx": "年金係：3520　国保税係：3519　国保給付係：3518　高齢者医療係：3517",
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashimurayama.tokyo.jp/formmail.html?_div=017000&_pageid=1952&_name=健康福祉部保険年金課",
+        "contactComment": "ファクス：042-393-6846",
+        "zipCode": "1898501",
+        "contactAddress": "東村山市本町1丁目2番地3"
+      },
+      "area": {
+        "areaCode": "132136;東村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132136+1+UM793",
+        "organization": "1000020132136",
+        "compartment": "健康福祉部保険年金課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-06-14",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "東村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民年金法",
+        "regulationArticle": "第88条の2（保険料の納付義務）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "016"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "version": "2025-07-09T05:55:17.836Z",
+  "areaCode": "133621",
+  "areaName": "利島村",
+  "category": "financial",
+  "count": 3,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊娠・出産に関する金銭的支援",
+        "shortName": "出産助成金"
+      },
+      "summary": "利島村では分娩施設を設置することが困難な状況であるため、住民が利島村以外で出産する場合の費用の一部を助成しています。出産に係る経済的負担を軽減し、母子福祉の増進を図ることを目的としています。",
+      "description": "利島村では分娩施設を設置することが困難な状況であるため、住民が利島村以外で出産する場合の費用の一部を助成しています。出産に係る経済的負担を軽減し、母子福祉の増進を図ることを目的としています。 助成金額は出生児1人につき500,000円。 受給対象者は、当村に住所を有し、かつ現に在住している妊娠中の女性で、出産後引き続き1年以上当村に在住することが確実と見込まれる方。\n※出産とは流産を含む妊娠後85日以上の出産のことをいいます。",
+      "target": {
+        "targetPersons": "当村に住所を有し、かつ現に在住している妊娠中の女性で、出産後引き続き1年以上当村に在住することが確実と見込まれる方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "助成金額は出生児1人につき500,000円。",
+        "monetarySupport": "出生児1人につき500,000円",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.toshimamura.org/life/marriage/birth.html#midashi-3",
+        "title": "出産助成金"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "利島村役場　住民課",
+        "contactPhone": "04992-9-0013",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133621;利島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133621+1+UM22",
+        "organization": "1000020133621",
+        "compartment": "住民課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-08",
+        "updater": "利島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第10条（保健指導）・第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児医療費（子ども医療費）の助成",
+        "shortName": "乳幼児医療助成"
+      },
+      "summary": "子どもの保健対策を充実し、子育て世帯の経済的負担を軽減するため、お子さんが病気やけがなどにより健康保険を使って医療機関で受診した場合、保険診療の自己負担分（2割または3割）の一部を助成しています。",
+      "description": "助成対象　義務教育就学前までの乳幼児（6歳に達する日以降の最初の3月31日まで）を養育している者\n助成範囲　各種医療保険の自己負担分\n助成方法　医療証と保険証を医療機関の窓口に提示し受診する。なお、都外の医療機関で受診するときは自己負担分を支払い、後で住民課窓口に申請する。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.toshimamura.org/life/pension/welfare.html",
+        "title": "健康・福祉・各種医療制度"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "利島村役場　住民課",
+        "contactPhone": "04992-9-0013",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133621;利島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133621+1+UM23",
+        "organization": "1000020133621",
+        "compartment": "住民課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-08",
+        "updater": "利島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "利島村乳幼児の医療費の助成に関する条例",
+        "regulationArticle": "条例全般"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "ひとり親家庭医療費助成",
+        "shortName": "ひとり親家族等医療助成"
+      },
+      "summary": "ひとり親家庭の母または父、および、そのお子さんの医療費に対して助成を行います。",
+      "description": "助成対象　義務教育就学前までの乳幼児（6歳に達する日以降の最初の3月31日まで）を養育している者\n助成範囲　各種医療保険の自己負担分\n助成方法　児童を監護しているひとり親家庭の母または父など\n助成範囲　各医療保険の自己負担分から一部負担金等相当額を差し引いた額を助成。\n助成方法　医療証と保険証を医療機関の窓口に提示し受診する。なお、都外の医療機関で受診するときは自己負担分を支払い、後で住民課窓口に申請する。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.toshimamura.org/life/pension/welfare.html",
+        "title": "健康・福祉・各種医療制度"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "利島村役場　住民課",
+        "contactPhone": "04992-9-0013",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133621;利島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133621+1+UM27",
+        "organization": "1000020133621",
+        "compartment": "住民課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-08",
+        "updater": "利島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "利島村ひとり親家庭医療費助成に関する条例",
+        "regulationArticle": "条例全般"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

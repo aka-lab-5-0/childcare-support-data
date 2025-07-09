@@ -1,0 +1,3827 @@
+{
+  "version": "2025-07-09T05:55:17.822Z",
+  "areaCode": "132128",
+  "areaName": "日野市",
+  "category": "medical",
+  "count": 28,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦訪問",
+        "shortName": "妊婦訪問"
+      },
+      "summary": "妊産婦の方（妊娠中または出産後1年以内）を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、妊娠期間中や出産後の不安や悩みについての相談等を行います。",
+      "description": "妊婦訪問\nこのページの情報をツイッターでツイートできますこのページの情報をフェイスブックでシェアできますこのページの情報をラインでシェアできますページID1003904　 更新日 令和3年4月1日\n印刷　大きな文字で印刷\n\n妊娠おめでとうございます。\n妊娠届出書等に基づき、助産師・保健師が家庭に訪問し保健指導を実施しています。\n日野市ではこれからお母さん、お父さんになられる方の身体や心の不安をやわらげ、健やかな赤ちゃんの誕生を応援しています。\n\n（対象）20才未満の妊婦、35才以上で初妊婦、双子以上の妊婦、外国人の妊婦など\n\n（申込）子ども家庭支援センター母子保健係に電話で申込",
+      "target": {
+        "targetPersons": "20才未満の妊婦、35才以上で初妊婦、双子以上の妊婦、外国人の妊婦など",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "20才未満の妊婦、35才以上で初妊婦"
+      },
+      "support": {
+        "description": "助産師・保健師が家庭に訪問し保健指導を実施",
+        "monetarySupport": null,
+        "materiallySupport": "助産師・保健師が家庭に訪問し保健指導を実施"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "子ども家庭支援センター母子保健係に電話で申込",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/kosodate/ninshin/kenshin/1003904.html",
+        "title": "妊婦訪問"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども部　子ども家庭支援センター　母子保健係",
+        "contactPhone": "042-843-3663",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120303",
+        "contactComment": "ファクス：042-586-1855",
+        "zipCode": "1910016",
+        "contactAddress": "東京都日野市神明1丁目13番地の2　子ども包括支援センター2階"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+1+UM11",
+        "organization": "1000020132128",
+        "compartment": "子ども部　子ども家庭支援センター　母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条（妊産婦の訪問指導等）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て広場",
+        "shortName": "あさひがおか児童館子育て広場事業"
+      },
+      "summary": "市内の子育てひろばは、小学校就学前のお子さんが安心して遊べるスペースがあり、子育て中の親子が気軽に集い、仲間づくりを通して子育てに関する相談や情報交換等を行う機会を提供しています。また、お子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、日野市サイトや市報などでお知らせしています。）",
+      "description": "あさひがおか児童館　子育て広場事業\nページID1004000　 更新日 平成30年2月27日\n\n市内の基幹型児童館3館では子育て広場事業を行っています。子育て広場として乳幼児専用のスペースを設けてあり、相談員もおります。子育てについて「こんな事はどこに聞けばいいんだろう」「相談というには大げさかも」などと思う内容でも、気軽に職員までお話をしてください。（必要があれば、もちろんしっかりと聞くこともできますし、専門の機関におつなぎすることもできます）\n\n子育てひろば開設日時\n月曜日から土曜日　午前10時から午後4時まで\n子育て相談受付日時\n月曜日から金曜日　午前10時から午後4時まで\n相談電話番号 042-586-1184\n\n写真：赤ちゃんWECOMEほっとスペース\nあかちゃんほっとスペース\nあさひがおか児童館の乳幼児専用室です。\n\n授乳室、おむつ交換ベット、乳幼児用トイレ、乳幼児の本の貸し出し、おむつ袋の配布、また、冬には床暖房もあり、のんびりくつろぎながらお子さんと過ごすことができますよ。\n\n写真：おむつ袋写真：幼児向けの絵本\n上の写真は、おむつ袋と乳幼児向けの絵本です。\n「肩を張らずに気軽に話しができること」を大切にしています。職員まで声をかけてくださいね。\n子育ての嬉しいことや大変なこと・・・分かち合いましょう",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "子育て広場として乳幼児専用のスペースを設けてあり、相談員もおります。",
+        "monetarySupport": null,
+        "materiallySupport": "子育て広場として乳幼児専用のスペースを設けてあり、相談員もおります。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "子育てひろば開設日時\n月曜日から土曜日　午前10時から午後4時まで\n子育て相談受付日時\n月曜日から金曜日　午前10時から午後4時まで"
+      },
+      "implementationPlace": {
+        "implementationName": "基幹型児童館3館",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/kosodate/1008312/jidokan/asahigaioa/1004000.html",
+        "title": "あさひがおか児童館　子育て広場事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども部子育て課あさひがおか児童館",
+        "contactPhone": "042-583-4346",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120113",
+        "contactComment": null,
+        "zipCode": "1910065",
+        "contactAddress": "東京都日野市旭が丘2の42の5"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+1+UM112",
+        "organization": "1000020132128",
+        "compartment": "子ども部子育て課あさひがおか児童館",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2018-02-27",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第6項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関する相談窓口一覧",
+        "shortName": "子育て相談窓口"
+      },
+      "summary": "日野市内の子育てに関する相談窓口の一覧です。",
+      "description": "https://www.city.hino.lg.jp/kosodate/shien/soudan/1003960.html",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.hino.lg.jp/kosodate/shien/hiroba/1000937.html",
+          "title": "子育てひろばの利用方法について"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/kosodate/shien/soudan/1003960.html",
+        "title": "子育て相談窓口"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども部子ども家庭支援センター地域支援係・相談援護係",
+        "contactPhone": "042-506-2151,042-506-2152",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120300",
+        "contactComment": "直通電話：地域支援係　042-506-2151,相談援護係　042-506-2152",
+        "zipCode": "1910016",
+        "contactAddress": "東京都日野市神明1丁目13番地の2子ども包括支援センター2階"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+1+UM115",
+        "organization": "1000020132128",
+        "compartment": "子ども部子ども家庭支援センター地域支援係・相談援護係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-01-09",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "日野市の子育てに関する相談",
+        "shortName": "子どもと家庭の問題に関する総合相談窓口"
+      },
+      "summary": "子ども家庭支援センターでは妊産婦の方や0歳から18歳までの子どもに関する相談、子育ての悩みや不安、家庭の問題の相談など、電話や面談でお受けしています。総合的な相談窓口としてご利用・ご相談ください。",
+      "description": "子どもと家庭の問題に関する総合相談窓口\nページID1003959　 更新日 平成30年2月21日\n\n子ども家庭支援センターでは妊産婦の方や0歳から18歳までの子どもに関する相談、子育ての悩みや不安、家庭の問題の相談など、電話や面談でお受けしています。総合的な相談窓口としてご利用・ご相談ください。\n\n子ども家庭支援センター　電話：042-599-6670 （月曜から土曜　午前9時から午後5時 日曜・祝日・年末年始はお休み）\n\n子ども家庭支援ネットワーク連絡協議会\n子どもと家庭の相談・総合的支援、子どもの虐待防止など、子どもと家庭への支援を進めるために、子ども家庭支援センターが中心となって「子ども家庭支援ネットワーク連絡協議会」を作り、関係機関との協力を深め、連携の強化を図っています。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊産婦の方や0歳から18歳までの子どもに関する相談、子育ての悩みや不安、家庭の問題の相談など、電話や面談でお受けしています。",
+        "monetarySupport": null,
+        "materiallySupport": "妊産婦の方や0歳から18歳までの子どもに関する相談、子育ての悩みや不安、家庭の問題の相談など、電話や面談でお受けしています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "月曜から金曜　午前9時から午後5時"
+      },
+      "specificDate": null,
+      "holiday": "土曜・日曜・祝日・年末年始",
+      "utilization": "電話や面談",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/kosodate/shien/soudan/1003959.html",
+        "title": "子どもと家庭の問題に関する総合相談窓口"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども部子ども家庭支援センター地域支援係・相談援護係",
+        "contactPhone": "042-506-2151,042-506-2152",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120300",
+        "contactComment": "直通電話：地域支援係　042-506-2151,相談援護係　042-506-2152",
+        "zipCode": "1910016",
+        "contactAddress": "東京都日野市神明1丁目13番地の2子ども包括支援センター2階"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+1+UM119",
+        "organization": "1000020132128",
+        "compartment": "子ども部子ども家庭支援センター地域支援係・相談援護係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2018-02-21",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "新生児訪問",
+        "shortName": "産婦・新生児訪問"
+      },
+      "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+      "description": "産婦・新生児訪問\nこのページの情報をツイッターでツイートできますこのページの情報をフェイスブックでシェアできますこのページの情報をラインでシェアできますページID1003906　 更新日 令和6年4月22日\n印刷　大きな文字で印刷\n\n産婦・新生児訪問\n赤ちゃん訪問届（出生通知票）の申請に基づき、3～4カ月児健康診査前のお子さんがいる全ての家庭に対し、助産師・保健師がご自宅に訪問し保健指導を行います。\n\nなお、日野市の赤ちゃん訪問は、日野市保健師のほか、八南助産師会などに委託して実施しています。\n\n八南助産師会（外部リンク）;https://hachinan-midwife.com/20161026-2/\n申請について\n申請の流れ\n「赤ちゃん訪問届（出生通知票）」のハガキをお持ちの方は、ハガキの投函をお願いします。ハガキを投函いただいた方は以下の申請は不要です。\n新規でAITELのアカウント登録をする場合は、以下の「新規アカウント登録手続きについて」のリンク先でご確認ください。なお、アカウント名は『生まれたお子様のお名前』で登録をお願いします。\n下記リンク先から「日野市母子保健予約システムAITEL」にアクセス\n右上の「ログイン」をクリックし、『ログインID』（数字12ケタ）と設定した『パスワード』でログイン\n「Web問診・アンケート・届出」をクリックし、「赤ちゃん訪問届（出生通知票）」をクリック\n設問に回答し、”回答内容の確認”画面で入力内容に間違いがなければ「登録する」をクリックし申請完了\n\n新規アカウント登録手続きについて;https://www.city.hino.lg.jp/kosodate/shien/1025683.html\n日野市母子保健予約システムAITEL（外部リンク）;https://www.aitel-reservation.jp/hinocity-tokyo/\n申請時の注意事項\n|タイミング|申請方法|\n|:----|:----|\n|出生日から出生の翌月15日までの間で申請する場合|新規でアカウント登録をして電子申請|\n|出生の翌月15日以降で申請する場合|出生月の翌々月初旬に郵送される3～4か児健康診査の通知に記載のアカウントで電子申請|\n|出生の翌月15日以降で早めの訪問を希望する場合|子ども家庭支援センター母子保健係（042-843-3663）に電話連絡|\nWebサイトにアクセスしたら、サイトは”ブックマーク”または”お気に入り登録”を必ずお願いします。\nすでに保護者名にて登録済みの場合でも、改めてお子さんのお名前で新規登録をお願いします。なお、メールアドレスは、すでに登録済みのメールアドレスでもご利用いただけます。\n別の母子保健事業で、すでにお子さんのお名前でアカウント登録している場合は、すでに登録したアカウントをご使用ください。\nサイトから届くメールアドレス（hino_boshi@aitel-reservation.jp）が受信できるか事前にお持ちのスマートフォンの設定内容をご確認ください。\n申請で不明な点がありましたら、子ども家庭支援センター母子保健係（042-843-3663）までご連絡ください。\n通信料は利用者様の負担となります。Wi-Fi環境でのご利用を推奨します。\n産婦・新生児訪問全体の注意事項\n申請がない場合、母子の健康状態の確認のため、ご自宅に訪問する場合があります。\n赤ちゃん訪問は、出産・子育て応援交付金事業の”子育て応援ギフト（10万円相当のギフトカード）”の支給条件となります。\n日野市で妊婦面接を受けず転入した場合や里帰りで日野市に帰省されている場合は、子ども家庭支援センター母子保健係までご連絡ください。\n里帰り先などでの訪問を希望される場合は、訪問を希望される区市町村に事前にお問い合わせください。\n感染症予防のため、家庭訪問対象者(同居者含む)と家庭訪問時同席者が、発熱(37.5度以上)・咳・強いだるさなどの症状がある場合は、解熱後または症状が治まってから再訪問日の約束を取っていただくようお願いいたします。\n家庭訪問中のマスクの着用は個人の判断となりますが、厚生労働省より、屋内における他者と身体的距離（2m以上を目安）が取れない場合はマスクの着用が推奨されております。また、可能な範囲での換気にご協力をお願いいたします。\n訪問約束日時に変更がある場合は、早めに訪問する助産師・保健師にご連絡ください。",
+      "target": {
+        "targetPersons": "3～4カ月児健康診査前のお子さんがいる全ての家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "3～4カ月児健康診査前のお子さん"
+      },
+      "support": {
+        "description": "助産師・保健師がご自宅に訪問し保健指導を行います。",
+        "monetarySupport": null,
+        "materiallySupport": "助産師・保健師がご自宅に訪問し保健指導を行います。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申請について\n申請の流れ\n「赤ちゃん訪問届（出生通知票）」のハガキをお持ちの方は、ハガキの投函をお願いします。ハガキを投函いただいた方は以下の申請は不要です。\n新規でAITELのアカウント登録をする場合は、以下の「新規アカウント登録手続きについて」のリンク先でご確認ください。なお、アカウント名は『生まれたお子様のお名前』で登録をお願いします。\n下記リンク先から「日野市母子保健予約システムAITEL」にアクセス\n右上の「ログイン」をクリックし、『ログインID』（数字12ケタ）と設定した『パスワード』でログイン\n「Web問診・アンケート・届出」をクリックし、「赤ちゃん訪問届（出生通知票）」をクリック\n設問に回答し、”回答内容の確認”画面で入力内容に間違いがなければ「登録する」をクリックし申請完了\n\n新規アカウント登録手続きについて;https://www.city.hino.lg.jp/kosodate/shien/1025683.html\n日野市母子保健予約システムAITEL（外部リンク）;https://www.aitel-reservation.jp/hinocity-tokyo/\n申請時の注意事項\n|タイミング|申請方法|\n|:----|:----|\n|出生日から出生の翌月15日までの間で申請する場合|新規でアカウント登録をして電子申請|\n|出生の翌月15日以降で申請する場合|出生月の翌々月初旬に郵送される3～4か児健康診査の通知に記載のアカウントで電子申請|\n|出生の翌月15日以降で早めの訪問を希望する場合|子ども家庭支援センター母子保健係（042-843-3663）に電話連絡|\n\nWebサイトにアクセスしたら、サイトは”ブックマーク”または”お気に入り登録”を必ずお願いします。\nすでに保護者名にて登録済みの場合でも、改めてお子さんのお名前で新規登録をお願いします。なお、メールアドレスは、すでに登録済みのメールアドレスでもご利用いただけます。\n別の母子保健事業で、すでにお子さんのお名前でアカウント登録している場合は、すでに登録したアカウントをご使用ください。\nサイトから届くメールアドレス（hino_boshi@aitel-reservation.jp）が受信できるか事前にお持ちのスマートフォンの設定内容をご確認ください。\n申請で不明な点がありましたら、子ども家庭支援センター母子保健係（042-843-3663）までご連絡ください。\n通信料は利用者様の負担となります。Wi-Fi環境でのご利用を推奨します。\n産婦・新生児訪問全体の注意事項\n申請がない場合、母子の健康状態の確認のため、ご自宅に訪問する場合があります。\n赤ちゃん訪問は、出産・子育て応援交付金事業の”子育て応援ギフト（10万円相当のギフトカード）”の支給条件となります。\n日野市で妊婦面接を受けず転入した場合や里帰りで日野市に帰省されている場合は、子ども家庭支援センター母子保健係までご連絡ください。\n里帰り先などでの訪問を希望される場合は、訪問を希望される区市町村に事前にお問い合わせください。\n感染症予防のため、家庭訪問対象者(同居者含む)と家庭訪問時同席者が、発熱(37.5度以上)・咳・強いだるさなどの症状がある場合は、解熱後または症状が治まってから再訪問日の約束を取っていただくようお願いいたします。\n家庭訪問中のマスクの着用は個人の判断となりますが、厚生労働省より、屋内における他者と身体的距離（2m以上を目安）が取れない場合はマスクの着用が推奨されております。また、可能な範囲での換気にご協力をお願いいたします。\n訪問約束日時に変更がある場合は、早めに訪問する助産師・保健師にご連絡ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.hino.lg.jp/kosodate/shien/1025683.html",
+          "title": "新規アカウント登録手続きについて"
+        },
+        {
+          "uri": "https://hachinan-midwife.com/20161026-2/",
+          "title": "八南助産師会（外部リンク）"
+        },
+        {
+          "uri": "https://www.aitel-reservation.jp/hinocity-tokyo/",
+          "title": "日野市母子保健予約システムAITEL（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/kosodate/ninshin/kenshin/1003906.html",
+        "title": "産婦・新生児訪問"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.aitel-reservation.jp/hinocity-tokyo/",
+          "title": "日野市母子保健予約システムAITEL"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども部　子ども家庭支援センター　母子保健係",
+        "contactPhone": "042-843-3663",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120303",
+        "contactComment": "ファクス：042-586-1855",
+        "zipCode": "1910016",
+        "contactAddress": "東京都日野市神明1丁目13番地の2　子ども包括支援センター2階"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+1+UM13",
+        "organization": "1000020132128",
+        "compartment": "子ども部　子ども家庭支援センター　母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-22",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第11条（新生児の訪問指導）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産後ケア事業",
+        "shortName": "日野市産後ケア事業　訪問型"
+      },
+      "summary": "出産を終えた退院後、お母さんと赤ちゃんの生活リズムづくりや、心身の安定を図るため、ご自宅に助産師が訪問することで、母子の心身ケアと育児サポートを行います。",
+      "description": "日野市産後ケア事業\nこのページの情報をツイッターでツイートできますこのページの情報をフェイスブックでシェアできますこのページの情報をラインでシェアできますページID1014499　 更新日 令和6年5月27日\n印刷　大きな文字で印刷\n\n「日野市産後ケア事業」のご案内\n「産後ケア事業」とは？\n日野市では、出産を終え、お家に戻ってからの生活で家族からの支援が受けにくい方や、赤ちゃんのお世話や自分の体のことで悩んでいる方に、助産師のサポートを提供しています。\n「出産後、自宅に帰っても家族などの手伝いがなくて不安」「体調が優れない」「授乳がうまくいかない」など、出産後のサポートが必要なお母さんが、自宅や施設で休息や授乳、育児に関する助産師のケアを受けることができるサービスです。\n\n　利用できる方\n日野市民であり、かつ、産後1年未満（通所型・宿泊型は施設により異なる）のお母さんと赤ちゃんで産後ケアを必要とする方。\n\n※お母さんまたは赤ちゃんが感染性疾患にり患、または感染が強く疑われる場合のほか、医師による医療行為を必要とする場合は利用できないことがあります。\n\n産後ケア内容\nお母さんのケアニーズに合わせて、産後ケアを提供します。\n\nお母さんのケア（健康状態のチェック、乳房ケア、通所型・宿泊型の食事の提供など）\n赤ちゃんのケア（体重・健康状態のチェックなど）\n育児の相談 （授乳、沐浴、スキンケアなどの助言）\n育児サポート （休息、心身のケアなど）\n　利用料金・回数など\n訪問型・通所型・宿泊型いずれもご利用いただけます。\n\n産後ケア内容\n|種類|訪問型|通所型|宿泊型|\n|:----|:----|:----|:----|\n|内容|助産師の訪問によりケアを受けられます|病院・助産院で日帰りのケアを受けられます|病院・助産院に宿泊しケアを受けられます|\n|利用期間|産後1年未満| 産後4カ月未満（永井産婦人科病院）<br>産後7カ月未満（かなざわ助産院）|産後30日未満（永井産婦人科病院）※1<br>産後1カ月未満（日野市立病院・いわさレディースクリニック）※2<br>産後4カ月未満（かなざわ助産院）|\n|利用料金|1回　1,500円|1回　3,000円|1泊2日　6,000円|\n|利用時間|2時間以内<br>（午前9時～午後5時）|6時間以内<br>（午前10時～午後4時）|施設が指定する時間|\n|実施場所|ご自宅|かなざわ助産院（日野市）<br>永井産婦人科病院（立川市）|日野市立病院<br>かなざわ助産院（日野市）<br>永井産婦人科病院（立川市）<br>いわさレディースクリニック（八王子市）|\n|利用回数|原則として「通所型」と合わせて7回まで<br>（1日1回）|原則として「訪問型」と合わせて7回まで<br>（1日1回）|1泊2日を3回まで（連泊可）|\n|利用可能日|月曜日から金曜日<br>（年末年始・祝日を除く）|施設が指定する日|施設が指定する日|\n\n各病院、助産院については、感染症や空き部屋の状況等によって予約日程のご希望に添えないことがございます。ご了承ください。\n住民税非課税世帯・生活保護世帯・ひとり親世帯は自己負担額が減免されます。\n多胎児の場合、通所型・宿泊型をご利用時2人目からの利用料金は公費で負担します。\n※1　永井産婦人科病院での、出産のご入院から継続して利用するプラン（ダイレクトプラン）はご利用できません。詳しくは病院ホームページをご確認下さい。\n\n※2　日野市立病院、いわさレディースクリニックは自院で出産された方のみのご利用になります。\n\n「訪問型」の助産師の紹介 （PDF 304.5KB）;https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/014/499/zyosanshi.pdf\n「産後ケア事業」の利用方法\n申請について\n申請方法\n新規でAITELのアカウント登録をする場合は、以下の「新規アカウント登録手続きについて」のリンク先でご確認ください。\n下記リンク先から「日野市母子保健予約システムAITEL」にアクセス\n右上の「ログイン」をクリックし、『ログインID』（数字12ケタ）と設定した『パスワード』でログイン\n「Web問診・アンケート・届出」をクリックし、「産後ケア申請」をクリック\n設問に回答し、”回答内容の確認”画面で入力内容に間違いがなければ「登録する」をクリックし申請完了\n※別途、利用料免除証明書（生活保護受給証明書、非課税証明書、母子家庭の出産に伴う産後ケア事業利用証明書）を提出する方は子ども家庭支援センター母子保健係に持参、もしくは郵送\n\n新規アカウント登録手続きについて;https://www.city.hino.lg.jp/kosodate/shien/1025683.html\n日野市母子保健予約システムAITEL（外部リンク）;https://www.aitel-reservation.jp/hinocity-tokyo/\n申請時の注意事項\n申請後、承認されるまで1週間程度かかります。早めに申請してください。\nWebサイトにアクセスしたら、サイトは”ブックマーク”または”お気に入り登録”を必ずお願いします。\nサイトから届くメールアドレス（hino_boshi@aitel-reservation.jp）が受信できるか事前にお持ちのスマートフォンの設定内容をご確認ください。\n申請で不明な点がありましたら、子ども家庭支援センター母子保健係（042-843-3663）までご連絡ください。\n通信料は利用者様の負担となります。Wi-Fi環境でのご利用を推奨します。\n利用の決定\n利用（予約）方法\n申請内容を確認したのち、「利用承認通知書」をご自宅に郵送\n利用承認通知書に同封の資料を参考に、希望する施設または助産師に直接電話で予約\n※利用期間と回数は「利用承認通知書」に書かれています。必ずご確認をお願いします。\n\n産後ケア当日の手続き\n利用日の前日に、利用予定施設または助産師から確認の連絡\n産後ケアの利用\n利用料金を利用ごとに施設または助産師に直接支払い、領収書を受け取る\n施設または助産師から「利用承認通知書」に事業者印をもらう\n※訪問型利用の場合、ケア終了後「産後ケア事業利用確認書」に署名をしてください。\n\n※通所型、宿泊型を利用する場合は、施設から指定された持ち物のほか「利用承認通知書」を必ずお持ちください。\n\n※無断キャンセルはご遠慮ください。当日、キャンセルされた場合は1回(1泊)利用したものとみなすことがあります。\n\nお問い合わせ\n日野市子ども包括支援センターみらいく2階 子ども家庭支援センター母子保健係 \n※市役所本庁舎とは、別の建物になります。\n日野市神明1-13-2\n\n施設案内：子ども包括支援センター　みらいく;https://www.city.hino.lg.jp/shisetsu/shiyakusho/desakli/1026332.html\nイラスト：ひのった、こべりー、うんちゃん",
+      "target": {
+        "targetPersons": "日野市民であり、かつ、産後1年未満（通所型・宿泊型は施設により異なる）のお母さんと赤ちゃんで産後ケアを必要とする方。\n\n※お母さんまたは赤ちゃんが感染性疾患にり患、または感染が強く疑われる場合のほか、医師による医療行為を必要とする場合は利用できないことがあります。",
+        "lessThan": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "産後1年未満"
+      },
+      "support": {
+        "description": "助産師の訪問によりケアを受けられます",
+        "monetarySupport": null,
+        "materiallySupport": "助産師の訪問によりケアを受けられます"
+      },
+      "cost": "1500",
+      "costConditions": "1回　1,500円",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "ご自宅",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "2時間以内（午前9時～午後5時）"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申請について\n申請方法\n新規でAITELのアカウント登録をする場合は、以下の「新規アカウント登録手続きについて」のリンク先でご確認ください。\n下記リンク先から「日野市母子保健予約システムAITEL」にアクセス\n右上の「ログイン」をクリックし、『ログインID』（数字12ケタ）と設定した『パスワード』でログイン\n「Web問診・アンケート・届出」をクリックし、「産後ケア申請」をクリック\n設問に回答し、”回答内容の確認”画面で入力内容に間違いがなければ「登録する」をクリックし申請完了\n※別途、利用料免除証明書（生活保護受給証明書、非課税証明書、母子家庭の出産に伴う産後ケア事業利用証明書）を提出する方は子ども家庭支援センター母子保健係に持参、もしくは郵送\n\n新規アカウント登録手続きについて;https://www.city.hino.lg.jp/kosodate/shien/1025683.html\n日野市母子保健予約システムAITEL（外部リンク）;https://www.aitel-reservation.jp/hinocity-tokyo/\n　申請時の注意事項\n申請後、承認されるまで1週間程度かかります。早めに申請してください。\nWebサイトにアクセスしたら、サイトは”ブックマーク”または”お気に入り登録”を必ずお願いします。\nサイトから届くメールアドレス（hino_boshi@aitel-reservation.jp）が受信できるか事前にお持ちのスマートフォンの設定内容をご確認ください。\n申請で不明な点がありましたら、子ども家庭支援センター母子保健係（042-843-3663）までご連絡ください。\n通信料は利用者様の負担となります。Wi-Fi環境でのご利用を推奨します。\n利用の決定\n利用（予約）方法\n申請内容を確認したのち、「利用承認通知書」をご自宅に郵送\n利用承認通知書に同封の資料を参考に、希望する施設または助産師に直接電話で予約\n※利用期間と回数は「利用承認通知書」に書かれています。必ずご確認をお願いします。\n\n産後ケア当日の手続き\n利用日の前日に、利用予定施設または助産師から確認の連絡\n産後ケアの利用\n利用料金を利用ごとに施設または助産師に直接支払い、領収書を受け取る\n施設または助産師から「利用承認通知書」に事業者印をもらう\n※訪問型利用の場合、ケア終了後「産後ケア事業利用確認書」に署名をしてください。\n\n※通所型、宿泊型を利用する場合は、施設から指定された持ち物のほか「利用承認通知書」を必ずお持ちください。\n\n※無断キャンセルはご遠慮ください。当日、キャンセルされた場合は1回(1泊)利用したものとみなすことがあります。\n\nお問い合わせ\n日野市子ども包括支援センターみらいく2階 子ども家庭支援センター母子保健係 \n※市役所本庁舎とは、別の建物になります。\n日野市神明1-13-2\n\n施設案内：子ども包括支援センター　みらいく;https://www.city.hino.lg.jp/shisetsu/shiyakusho/desakli/1026332.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.hino.lg.jp/shisetsu/shiyakusho/desakli/1026332.html",
+          "title": "施設案内：子ども包括支援センター　みらいく"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/kosodate/shien/1025683.html",
+          "title": "新規アカウント登録手続きについて"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/014/499/zyosanshi.pdf",
+          "title": "「訪問型」の助産師の紹介 （PDF 304.5KB）"
+        },
+        {
+          "uri": "https://www.aitel-reservation.jp/hinocity-tokyo/",
+          "title": "日野市母子保健予約システムAITEL（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/kosodate/ninshin/care/1014499.html",
+        "title": "日野市産後ケア事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども部　子ども家庭支援センター　母子保健係",
+        "contactPhone": "042-843-3663",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120303",
+        "contactComment": "ファクス：042-586-1855",
+        "zipCode": "1910016",
+        "contactAddress": "東京都日野市神明1丁目13番地の2　子ども包括支援センター2階"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+1+UM15",
+        "organization": "1000020132128",
+        "compartment": "子ども部　子ども家庭支援センター　母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-27",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条の2（産後ケア事業）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "ママパパクラス（両親学級）保健・栄養コース\n保健（1）・栄養（妊娠中の話）"
+      },
+      "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、日野市では産科医師、歯科医師、保健師、栄養士、助産師などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+      "description": "令和6年度　ママパパクラス（両親学級）保健・栄養、沐浴コース\nこのページの情報をツイッターでツイートできますこのページの情報をフェイスブックでシェアできますこのページの情報をラインでシェアできますページID1013948　 更新日 令和6年5月31日\n印刷　大きな文字で印刷\n\nママパパクラスについて\nご妊娠おめでとうございます。日野市では妊婦さんおよびご家族を対象に、妊娠・出産・育児についての教室（保健・栄養コース、沐浴コース）を開催しています。\n\nなお、ママパパクラス各コースのお申し込みは、日野市に住民票がある方が対象となっております。日野市に住民票がない方で、参加をご希望の方は、事前に母子保健係にお問い合わせください。\n\n【問い合わせ】子ども家庭支援センター　母子保健係　電話042-843-3663　ファクス042-586-1855\n\n令和6年度ママパパクラスチラシ （PDF 395.5KB）;https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/013/948/mamapapakurasu2024.pdf\n保健・栄養コース\n妊娠期や出産、産後の生活について助産師や保健師、栄養士がお話します。\n\n保健（1）・栄養（妊娠中の話）、保健（2）（産後の話）の2コースあります。\n\n受講順は前後しても構いません。また、どちらかひとつのみの参加でも大丈夫です。\n\n保健（1）・栄養（妊娠中の話）\n会場\n子ども包括支援センター「みらいく」3F多目的室\n\n対象・定員\n30人(おおむね16週～27週の妊婦とその家族)\n\n時間・内容\n妊娠・出産についての講話（保健師・助産師）　午後2時00分～午後3時00分\n\n妊娠中の食生活についての講話（栄養士）　午後3時00分～午後3時30分\n\n※ベビーフードの試食付き\n\n持ち物母子健康手帳、筆記用具、飲み物等費用\n無料\n\n申し込み期日開催日の4日前まで（定員になり次第終了）\n保健（2）（産後の話）\n会場\n子ども包括支援センター「みらいく」3F多目的室\n\n対象・定員\n30人(おおむね16週～27週の妊婦とその家族。）\n\n時間・内容\n産後の生活について講話（保健師）　午後2時00分～午後3時00分\n\n※産後に使えるサービス、赤ちゃんとの生活についてお話します。\n\n体験タイム(妊婦ジャケット、赤ちゃん人形の抱っこ　等)　午後3時00分～午後3時30分\n\n持ち物\n母子健康手帳、筆記用具、飲み物等、お持ちの方は妊娠出産ガイドブックと保湿剤。\n\n※妊娠出産ガイドブックは妊婦面接の際にお渡ししています。お持ちでない方には当日配布いたします。\n\n※保湿剤は赤ちゃんの保湿の目安をお伝えする際に使用します。ご自宅で使用中のものでかまいません。お持ちでない方は、当日会場でお貸しいたします。\n\n費用\n無料\n\n申し込み期日開催日の4日前まで（定員になり次第終了）\n沐浴コース（沐浴体験）\n赤ちゃんのお風呂の入れ方について（時間予約制）\n\n対象・定員\n28組(おおむね16週～27週の妊婦とその家族)\n\n予約時間9時25分～、9時40分～、9時55分～、10時10分～、10時25分～、10時40分～、の全6回のうちどれか\n※申請時、予約時間をお選びください。なお、空き状況によってはご希望に添えない場合もございます。\n\n※妊婦のみ、もしくは夫婦での参加（最大2名まで可とします）\n\n所要時間約60分持ち物\n母子健康手帳、筆記用具、飲み物\n\n会場\n子ども包括支援センター「みらいく」3F多目的室\n\n申し込み期日開催日の3日前まで（定員になり次第終了）\n子ども包括支援センター「みらいく」;https://www.city.hino.lg.jp/shisetsu/shiyakusho/desakli/1026332.htmlf\n申し込み方法　\n予約の流れ　\n新規で予約する場合\n新規でAITELのアカウント登録をする場合は、以下の「新規アカウント登録手続きについて」のリンク先でご確認ください。\n下記リンク先から「日野市母子保健予約システムAITEL」にアクセス\n\n右上の「ログイン」をクリックし、『ログインID』（数字12ケタ）と設定した『パスワード』でログイン\n\n「検索・予約」をクリックし、予約したいコースを選択（”保健・栄養”、”保健　産後の話”、”沐浴”のいずれか）\n質問に回答し、「入力完了」をクリック\n日程の検索画面に切り替わったら、ページ中央部にある「検索する」をクリック\nページ下部に日にちと場所が表示されるため、希望する日にちと場所を選択\n表示される受付時間を選択（”×”と表示されている場合はすでに定員に達しているため予約不可）\n「申し込みに進む」をクリック\n申し込み内容に間違いがないか確認し、「申し込む」をクリックし完了（内容に修正がある場合は「修正する」をクリック）\n※定員になり次第受付を締め切らせていただきます。ご了承ください。\n\n日程を変更する場合\n「予約の確認・変更・キャンセル」をクリック\n予約している事業名をクリック（予約がある事業のみ表示。予約がない場合は”予約済の検診がありません。”と表示されます。）\n「変更する」をクリック\n変更したい日程を検索する\n変更日時を選択すると、変更前の情報と変更後の情報が表示されるため、内容を確認し「申し込みに進む」をクリック\n変更内容の確認画面が表示され、問題なければ「変更する」をクリックし完了\n変更完了のメールが登録したメールアドレスに届く\n日程をキャンセルする場合\n「予約の確認・変更・キャンセル」をクリック\n予約している事業名をクリック（予約がある事業のみ表示。予約がない場合は”予約済の検診がありません。”と表示されます。）\n「キャンセルする」をクリック\nキャンセル内容の確認画面が表示されるため、内容を確認し「はい」をクリックし完了\nキャンセル完了のメールが登録したメールアドレスに届く\n新規アカウント登録手続きについて;https://www.city.hino.lg.jp/kosodate/shien/1025683.html\nママパパクラス AITEL 参加申し込み手順 （PDF 431.3KB）;https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/013/948/mamapapaaitel2024.pdf\n日野市母子保健予約システム　AITEL（外部リンク）;https://www.aitel-reservation.jp/hinocity-tokyo/\n予約時の注意事項\nWebサイトにアクセスしたら、サイトは”ブックマーク”または”お気に入り登録”を必ずお願いします。\n今後、他の母子保健事業の利用にあたり、お子さんのお名前で新規登録をする際のメールアドレスは、すでに登録済みのメールアドレスでもご利用いただけます。\nサイトから届くメールアドレス（hino_boshi@aitel-reservation.jp）が受信できるか事前にお持ちのスマートフォンの設定内容をご確認ください。\n申請で不明な点がありましたら、子ども家庭支援センター母子保健係（042-843-3663）までご連絡ください。\n通信料は利用者様の負担となります。Wi-Fi環境でのご利用を推奨します。\n全体の注意事項\n保健・栄養コースの当日キャンセルの際は子ども家庭支援センター　母子保健係（042-843-3663）まで必ずご連絡ください。なお、沐浴コースは当日キャンセルの連絡不要です。\n体調にご不安のある方、発熱（37.5度以上）や風邪症状のある方は、参加をお控えいただきますようお願いいたします。\n悪天候（大雨・大雪等）の場合も、原則として予定通り教室を実施いたしますが、無理なさらず予約変更をご検討ください。\n子ども包括支援センター「みらいく」専用の駐車場には限りがございます。あらかじめご了承ください。なお、路上駐車等しないようお願いいたします。\n\n令和6年度　日程表\n保健・栄養コース\n\n|コース名|保健(1)・栄養<br>妊娠・出産について|保健(2)<br>産後の生活について|\n|:----|:----|:----|\n|4月|実施しません|実施しません|\n|5月|13日（月曜日）|20日（月曜日）|\n|6月|17日（月曜日）|24日（月曜日）|\n|7月|22日（月曜日）|29日（月曜日）|\n|8月|19日（月曜日）|26日（月曜日）|\n|9月|9日（月曜日）|30日（月曜日）|\n|10月|21日（月曜日）|28日（月曜日）|\n|11月|18日（月曜日）|25日（月曜日）|\n|12月|16日（月曜日）|23日（月曜日）|\n|1月|20日（月曜日）|27日（月曜日）|\n|2月|実施しません|実施しません|\n|3月|17日（月曜日）|24日（月曜日）|\n\n沐浴コース（沐浴体験）\n沐浴コースは出産予定月をご確認ください。（予定月以外でご希望の場合は子ども家庭支援センター母子保健係へご相談ください） \n\n|月|日にち|出産予定月|\n|:----|:----|:----|\n|4月|27日（土曜日）|7月8月9月|\n|5月|12日（日曜日）|8月9月10月|\n|6月|22日（土曜日）|9月10月11月|\n|7月|28日（日曜日）|10月11月12月|\n|8月|24日（土曜日）|11月12月1月|\n|9月|21日（土曜日）|12月1月2月|\n|10月|26日（土曜日）|1月2月3月|\n|11月|24日（日曜日）|2月3月4月|\\|12月|21日（土曜日）|3月4月5月|\n|1月|26日（日曜日）|4月5月6月|\n|2月|22日（土曜日）|5月6月7月|\n|3月|23日（日曜日）|6月7月8月|\nママパパ向けの情報配信について\nお風呂の入れ方や妊娠中の生活やお産について、妊娠中の食事や栄養についての情報をご案内させていただきます。\n\n公益社団法人 東京都助産師会 八南分会（妊娠中の生活やお産について）（外部リンク）;https://hachinan-midwife.com/2020-はちなん　ママ応援プロジェクト/\n妊娠・授乳期の食事;https://www.city.hino.lg.jp/fukushi/kenko/1016810/shokuiku/1007759/1007769.html\n東京都妊娠相談ホットライン（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-hotline.html\n東京助産師会　（外部リンク）;https://www.youtube.com/channel/UCyx2_vJ6qmw8YkA_yc7sRJQ\n赤ちゃん＆子育てインフォ　公益財団法人母子衛生研究会（外部リンク）;https://www.mcfh.or.jp/\n赤ちゃんの入浴（沐浴）の方法　公益財団法人母子衛生研究会（外部リンク）;https://www.youtube.com/watch?v=TCBELVTDFp8\n日野市立図書館 これからお子さんを迎える方へ（外部リンク）;https://www.lib.city.hino.lg.jp/forkids/forpregnancy.html\n妊婦歯科健診について\n歯科健診については、下記ホームページをご確認ください。\n\n妊婦歯科健康診査;https://www.city.hino.lg.jp/kosodate/ninshin/kenshin/1008202.html",
+      "target": {
+        "targetPersons": "妊婦さんおよびご家族\n\nなお、ママパパクラス各コースのお申し込みは、日野市に住民票がある方が対象となっております。日野市に住民票がない方で、参加をご希望の方は、事前に母子保健係にお問い合わせください。\n\n【問い合わせ】子ども家庭支援センター　母子保健係　電話042-843-3663　ファクス042-583-2400\n\n令和6年度ママパパクラスチラシ （PDF 395.5KB）;https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/013/948/mamapapakurasu2024.pdf",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠期や出産、産後の生活について助産師や保健師、栄養士がお話します。",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠期や出産、産後の生活について助産師や保健師、栄養士がお話します。"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "子ども包括支援センター「みらいく」3F多目的室",
+        "implementationAddress": "東京都日野市神明1丁目13番地の2"
+      },
+      "capacity": "30人(おおむね16週～27週の妊婦とその家族)",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "妊娠・出産についての講話（保健師・助産師）　午後2時00分～午後3時00分\n\n妊娠中の食生活についての講話（栄養士）　午後3時00分～午後3時30分\n\n※ベビーフードの試食付き"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申し込み方法　\n予約の流れ　\n新規で予約する場合\n新規でAITELのアカウント登録をする場合は、以下の「新規アカウント登録手続きについて」のリンク先でご確認ください。\n下記リンク先から「日野市母子保健予約システムAITEL」にアクセス\n\n右上の「ログイン」をクリックし、『ログインID』（数字12ケタ）と設定した『パスワード』でログイン\n\n「検索・予約」をクリックし、予約したいコースを選択（”保健・栄養”、”保健　産後の話”、”沐浴”のいずれか）\n質問に回答し、「入力完了」をクリック\n日程の検索画面に切り替わったら、ページ中央部にある「検索する」をクリック\nページ下部に日にちと場所が表示されるため、希望する日にちと場所を選択\n表示される受付時間を選択（”×”と表示されている場合はすでに定員に達しているため予約不可）\n「申し込みに進む」をクリック\n申し込み内容に間違いがないか確認し、「申し込む」をクリックし完了（内容に修正がある場合は「修正する」をクリック）\n※定員になり次第受付を締め切らせていただきます。ご了承ください。\n\n日程を変更する場合\n「予約の確認・変更・キャンセル」をクリック\n予約している事業名をクリック（予約がある事業のみ表示。予約がない場合は”予約済の検診がありません。”と表示されます。）\n「変更する」をクリック\n変更したい日程を検索する\n変更日時を選択すると、変更前の情報と変更後の情報が表示されるため、内容を確認し「申し込みに進む」をクリック\n変更内容の確認画面が表示され、問題なければ「変更する」をクリックし完了\n変更完了のメールが登録したメールアドレスに届く\n日程をキャンセルする場合\n「予約の確認・変更・キャンセル」をクリック\n予約している事業名をクリック（予約がある事業のみ表示。予約がない場合は”予約済の検診がありません。”と表示されます。）\n「キャンセルする」をクリック\nキャンセル内容の確認画面が表示されるため、内容を確認し「はい」をクリックし完了\nキャンセル完了のメールが登録したメールアドレスに届く\n新規アカウント登録手続きについて;https://www.city.hino.lg.jp/kosodate/shien/1025683.html\nママパパクラス AITEL 参加申し込み手順 （PDF 431.3KB）;https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/013/948/mamapapaaitel2024.pdf\n日野市母子保健予約システム　AITEL（外部リンク）;https://www.aitel-reservation.jp/hinocity-tokyo/\n予約時の注意事項\nWebサイトにアクセスしたら、サイトは”ブックマーク”または”お気に入り登録”を必ずお願いします。\n今後、他の母子保健事業の利用にあたり、お子さんのお名前で新規登録をする際のメールアドレスは、すでに登録済みのメールアドレスでもご利用いただけます。\nサイトから届くメールアドレス（hino_boshi@aitel-reservation.jp）が受信できるか事前にお持ちのスマートフォンの設定内容をご確認ください。\n申請で不明な点がありましたら、子ども家庭支援センター母子保健係（042-843-3663）までご連絡ください。\n通信料は利用者様の負担となります。Wi-Fi環境でのご利用を推奨します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "開催日の4日前まで（定員になり次第終了）"
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳、筆記用具、飲み物等",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.hino.lg.jp/kosodate/shien/1025683.html",
+          "title": "新規アカウント登録手続きについて"
+        },
+        {
+          "uri": "https://www.lib.city.hino.lg.jp/forkids/forpregnancy.html",
+          "title": "日野市立図書館 これからお子さんを迎える方へ（外部リンク）"
+        },
+        {
+          "uri": "https://www.aitel-reservation.jp/hinocity-tokyo/",
+          "title": "日野市母子保健予約システム　AITEL（外部リンク）"
+        },
+        {
+          "uri": "https://hachinan-midwife.com/2020-はちなん　ママ応援プロジェクト/",
+          "title": "公益社団法人 東京都助産師会 八南分会（妊娠中の生活やお産について）（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/shisetsu/shiyakusho/desakli/1026332.html",
+          "title": "子ども包括支援センター「みらいく」"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/kosodate/ninshin/kenshin/1008202.html",
+          "title": "妊婦歯科健康診査"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/013/948/mamapapakurasu2024.pdf",
+          "title": "令和6年度ママパパクラスチラシ （PDF 395.5KB）"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/013/948/mamapapaaitel2024.pdf",
+          "title": "ママパパクラス AITEL 参加申し込み手順 （PDF 431.3KB）"
+        },
+        {
+          "uri": "https://www.youtube.com/channel/UCyx2_vJ6qmw8YkA_yc7sRJQ",
+          "title": "東京助産師会　（外部リンク）"
+        },
+        {
+          "uri": "https://www.youtube.com/watch?v=OOE7pvcP_bg",
+          "title": "赤ちゃんの入浴（沐浴）の方法　公益財団法人母子衛生研究会（外部リンク）"
+        },
+        {
+          "uri": "https://www.mcfh.or.jp/",
+          "title": "赤ちゃん＆子育てインフォ　公益財団法人母子衛生研究会（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/fukushi/kenko/1016810/shokuiku/1007759/1007769.html",
+          "title": "妊娠・授乳期の食事"
+        },
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-hotline.html",
+          "title": "東京都妊娠相談ホットライン（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/kosodate/ninshin/kenshin/1013948.html",
+        "title": "令和6年度　ママパパクラス（両親学級）保健・栄養、沐浴コース"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.aitel-reservation.jp/hinocity-tokyo/",
+          "title": "日野市母子保健予約システムAITEL"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども部　子ども家庭支援センター　母子保健係",
+        "contactPhone": "042-843-3663",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120303",
+        "contactComment": "ファクス：042-586-1855",
+        "zipCode": "1910016",
+        "contactAddress": "東京都日野市神明1丁目13番地の2　子ども包括支援センター2階"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+1+UM31",
+        "organization": "1000020132128",
+        "compartment": "子ども部　子ども家庭支援センター　母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-31",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "休日準夜診療所案内"
+      },
+      "summary": "日野市では、夜間や日曜・祝日、年末年始に、市内の医療機関の協力のもと、当番制で診療を行っています。\n",
+      "description": "休日準夜診療所案内\nこのページの情報をツイッターでツイートできますこのページの情報をフェイスブックでシェアできますこのページの情報をラインでシェアできますページID1007100　 更新日 令和1年10月16日\n印刷　大きな文字で印刷\n\n休日夜間診療（土曜・日曜日、祝日、年末年始の午後7時30分から午後10時30分） を行う休日準夜診療所のご案内です。\n\n必ず保険証をご持参下さい。また来院前には電話連絡をお願いします。\n\n休日準夜診療所\n地図：休日準夜診療所案内図\n診療日：土曜日・日曜日、祝日、年末年始\n診療時間：午後7時30分から午後10時30分 \n（受け付けは午後10時20分まで）\n診療科目：内科・小児科\n場所：日野市多摩平3-1-12医師会館1階 \n電話：042-584-1661\nこのページに関するお問い合わせ\n健康福祉部　健康課\n直通電話：042-581-4111\nファクス：042-583-2400\n〒191-0011\n東京都日野市日野本町1丁目6番地の2　生活保健センター\n健康福祉部健康課へのお問い合わせは専用フォームをご利用ください。 ",
+      "target": {
+        "targetPersons": "年齢制限なし",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "年齢制限なし"
+      },
+      "support": {
+        "description": "土曜日・日曜日、祝日、年末年始の午後7時30分から午後10時30分の夜間診療を行う",
+        "monetarySupport": null,
+        "materiallySupport": "土曜日・日曜日、祝日、年末年始の午後7時30分から午後10時30分の夜間診療を行う"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "休日準夜診療所",
+        "implementationAddress": "日野市多摩平3-1-12医師会館1階"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "19:30",
+        "toHM": "22:30",
+        "condiutilizationConditionstions": "診療時間：午後7時30分から午後10時30分\n（受け付けは午後10時20分まで）"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "来院前には電話連絡をお願いします。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "保険証",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/kurashi/annzen/iryo/1007100.html",
+        "title": "休日準夜診療所案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康福祉部　健康課",
+        "contactPhone": "042-581-4111",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G110500",
+        "contactComment": "ファクス：042-583-2400",
+        "zipCode": "1910011",
+        "contactAddress": "東京都日野市日野本町1丁目6番地の2　生活保健センター"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+1+UM45",
+        "organization": "1000020132128",
+        "compartment": "健康福祉部　健康課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2019-10-16",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第20条の2（医療施設の整備）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "日野市の妊娠・出産に関する相談",
+        "shortName": "日野市子ども家庭支援センター母子保健係"
+      },
+      "summary": "妊娠や出産に関する困りごとや悩みは、人それぞれです。どんな”ささいな”ことでも、一人で抱え込まずに誰かに相談しましょう。",
+      "description": "妊娠の困りごと・悩みごとの相談\nこのページの情報をツイッターでツイートできますこのページの情報をフェイスブックでシェアできますこのページの情報をラインでシェアできますページID1016180　 更新日 令和5年4月11日\n印刷　大きな文字で印刷\n\n妊娠や出産に関して困っている、悩んでいる・・・どうすればいいの？\n妊娠したかもしれない・・・どうすればいい？\n妊娠したけど何からすればいいかわからない\n妊娠してから体調がすぐれない\n思いがけない、予定外の妊娠で悩んでいるけどどうすればいいの？\n出産したいけど、お金がないのでどうしたらいい？\n産んでも育てていくことが難しい\n妊娠や出産に関する困りごとや悩みは、人それぞれです。どんな”ささいな”ことでも、一人で抱え込まずに誰かに相談しましょう。\n\n日野市にお住まいの方は、まずは子ども家庭支援センター母子保健係までご相談ください。\n\n相談窓口\n（1）日野市子ども家庭支援センター母子保健係\n保健師・助産師などの専門職がおりますので、お気軽にご相談ください。お電話でも相談できます。\n\nまた、オンラインでも相談できます。詳しくは以下のホームページをご覧ください。\n\n電話番号042-843-3663（日野市にお住まいの方は、左記までご相談ください。）受付時間月曜日から金曜日（祝日を除く）午前8時30分から午後5時15分まで\n（2）東京都「妊娠相談ホットライン」\n電話番号\n03-5339-1133\n\n受付時間月曜日から日曜日（元旦はお休み）午前10時から午後10時まで相談方法電話やメール\n東京都妊娠相談ほっとライン（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-hotline.html\n（3）東京都「妊娠したかも相談＠東京」\n受付時間\n24時間いつでも\n\n相談方法ラインのチャットボット形式での相談\n妊娠したかも相談＠東京（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-line-tokyo.html\n（4）「助産師によるオンライン相談」\nコロナ禍で不安を抱える妊産婦を対象に、助産師によるオンライン相談を実施します\n\n実施期間令和5年4月1日（土曜日）から令和6年3月31日（日曜日）まで対象者都内在住の妊産婦の方利用方法事前予約が必要です。専用サイトからご予約ください。予約は、相談希望日の1カ月前から2日前まで可能です。相談方法Web会議システムを利用し、助産師がオンラインでご相談に応じます。開設時間\n月曜日から土曜日 午前9時から午後7時まで、日曜日及び祝日 午前11時から午後4時まで\n\n専用予約サイト（外部リンク）;https://coubic.com/jmat/834046\n東京都助産師によるオンライン相談（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninsanpu-online.html\n（5）NPO法人ピッコラーレ「にんしんSOS東京」\n電話番号03-4285-9870受付時間\n電話　年中無休、午後4時から午前0時（受付は午後11時まで）\nメール　年中無休、24時間受付\n相談方法\n電話・メール\n\nにんしんSOS東京（外部リンク）;https://nsost.jp/?gclid=EAIaIQobChMIqufPuuCc-AIVB8FMAh0bxAYzEAAYASAAEgIJ7PD_BwE",
+      "target": {
+        "targetPersons": "日野市にお住まいの方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠の困りごと・悩みごとの相談",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠の困りごと・悩みごとの相談"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "日野市子ども家庭支援センター母子保健係",
+        "implementationAddress": "東京都日野市神明1丁目13番地の2　子ども包括支援センター2階"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:30",
+        "toHM": "17:15",
+        "condiutilizationConditionstions": "月曜日から金曜日（祝日を除く）午前8時30分から午後5時15分まで"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "保健師・助産師などの専門職がおりますので、お気軽にご相談ください。お電話でも相談できます。\n電話番号042-843-3663（日野市にお住まいの方は、左記までご相談ください。）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/kosodate/ninshin/1016172.html",
+        "title": "妊娠の困りごと・悩みごとの相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども部　子ども家庭支援センター　母子保健係",
+        "contactPhone": "042-843-3663",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120303",
+        "contactComment": "ファクス：042-586-1855",
+        "zipCode": "1910016",
+        "contactAddress": "東京都日野市神明1丁目13番地の2　子ども包括支援センター2階"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+1+UM47",
+        "organization": "1000020132128",
+        "compartment": "子ども部　子ども家庭支援センター　母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-11",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月未満児）",
+        "shortName": "3カ月から4カ月児・産婦健康診査"
+      },
+      "summary": "お子さん並びにお母さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として3か月～4か月児健康診査、産婦健康診査を実施しています。",
+      "description": "子どもの健康診査\nこのページの情報をツイッターでツイートできますこのページの情報をフェイスブックでシェアできますこのページの情報をラインでシェアできますページID1003912　 更新日 令和6年5月23日\n印刷　大きな文字で印刷\n\n感染症対策について、受診される方へのご理解とご協力のお願い\n【感染症対策について】\n\n来所の際には、手洗い、咳エチケット等の感染対策にご協力ください。\n健診対象のお子様や付き添いの方が、発熱（37.5度以上）等の体調不良がある場合には、無理をなさらず、次回以降の受診への変更をご検討ください。また、感染性の疾患で医療機関を受診された（または、受診される）場合は、医師に集団健診について参加の可否を確認していただくようお願いいたします。\n会場では、各箇所に消毒液を設置し適宜換気を行っています。また、人との距離を保てるよう会場を広く取り、密にならないよう受付時間を設定しています。少人数でのご参加にご協力をお願いいたします。なお、ご事情のある方は、事前に母子保健係へお問い合わせください。\n 【問い合わせ】子ども家庭支援センター母子保健係　電話042-843-3663\n\n乳幼児健康診査について\n日野市では、下表にある乳幼児健康診査を無料で行っています。\nお子さまの健康状態を確認する大切な健康診査なので、必ず受けましょう。\n\n|健診名|内容|対象時期|実施場所|備考|\n|:----|:----|:----|:----|:----|\n|3カ月から4カ月児・産婦健康診査|一般健康診査、健康相談、育児等に関する情報提供、親子交流|3カ月から4カ月児・産婦|生活・保健センター|個別に通知します|\n|6カ月から7カ月児健診|一般健康診査|6カ月から7カ月児|都内委託医療機関|3カ月から4カ月児健康診査の個別通知に受診票を同封します|\n|9カ月から10カ月児健診|一般健康診査|9カ月から10カ月児|都内委託医療機関|3カ月から4カ月児健康診査の個別通知に受診票を同封します|\n|1歳6カ月児健康診査|一般健康診査、歯科健康診査、健康相談、育児等に関する情報提供、遊びの広場|1歳6カ月児|生活・保健センター|個別に通知します|\n|3歳児健康診査|一般健康診査、歯科健康診査、尿検査、目の検査、健康相談、育児等に関する情報提供|3歳児|生活・保健センター|個別に通知します|\n6から7カ月児健康診査、9から10カ月児健康診査は日野市内実施医療機関一覧をご覧ください。\n\n日野市内実施医療機関一覧 （PDF 319.7KB）;https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/003/912/iryoukikan202405.pdf\n日野市に転入された方\n日野市に転入された方等で、6から7カ月及び9から10カ月児健康診査受診票をお持ちでない方は、子ども家庭支援センター母子保健係（子ども包括支援センターみらいく2階）で交付の申請ができます。なお、東京都内からの転入の場合は、前住所地で交付を受けた受診票を継続して使用することができます。 \n転入された時期により、3から4カ月児・産婦健康診査、1歳6カ月児健康診査、3歳児健康診査の通知発送が間に合わない場合があります。対象の方でまだ受診されていない場合は、子ども家庭支援センター母子保健係（042-843-3663）へご連絡ください。",
+      "target": {
+        "targetPersons": "3か月から4か月児・産婦",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 3
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "3カ月から4カ月児"
+      },
+      "support": {
+        "description": "一般健康診査、健康相談、育児等に関する情報提供、親子交流",
+        "monetarySupport": null,
+        "materiallySupport": "一般健康診査、健康相談、育児等に関する情報提供、親子交流"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "生活・保健センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "個別に通知します",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/kosodate/kenko/kenshin/1003912.html",
+        "title": "子どもの健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども部　子ども家庭支援センター　母子保健係",
+        "contactPhone": "042-843-3663",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120303",
+        "contactComment": "ファクス：042-586-1855",
+        "zipCode": "1910016",
+        "contactAddress": "東京都日野市神明1丁目13番地の2　子ども包括支援センター2階"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+1+UM49",
+        "organization": "1000020132128",
+        "compartment": "子ども部　子ども家庭支援センター　母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-23",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "6カ月から7カ月児健診"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として6か月から7か月児乳幼児健康診査を都内委託医療機関にて実施しています。",
+      "description": "子どもの健康診査\nこのページの情報をツイッターでツイートできますこのページの情報をフェイスブックでシェアできますこのページの情報をラインでシェアできますページID1003912　 更新日 令和6年5月23日\n印刷　大きな文字で印刷\n\n感染症対策について、受診される方へのご理解とご協力のお願い\n【感染症対策について】\n\n来所の際には、手洗い、咳エチケット等の感染対策にご協力ください。\n健診対象のお子様や付き添いの方が、発熱（37.5度以上）等の体調不良がある場合には、無理をなさらず、次回以降の受診への変更をご検討ください。また、感染性の疾患で医療機関を受診された（または、受診される）場合は、医師に集団健診について参加の可否を確認していただくようお願いいたします。\n会場では、各箇所に消毒液を設置し適宜換気を行っています。また、人との距離を保てるよう会場を広く取り、密にならないよう受付時間を設定しています。少人数でのご参加にご協力をお願いいたします。なお、ご事情のある方は、事前に母子保健係へお問い合わせください。\n 【問い合わせ】子ども家庭支援センター母子保健係　電話042-843-3663\n\n乳幼児健康診査について\n日野市では、下表にある乳幼児健康診査を無料で行っています。\nお子さまの健康状態を確認する大切な健康診査なので、必ず受けましょう。\n\n|健診名|内容|対象時期|実施場所|備考|\n|:----|:----|:----|:----|:----|\n|3カ月から4カ月児・産婦健康診査|一般健康診査、健康相談、育児等に関する情報提供、親子交流|3カ月から4カ月児・産婦|生活・保健センター|個別に通知します|\n|6カ月から7カ月児健診|一般健康診査|6カ月から7カ月児|都内委託医療機関|3カ月から4カ月児健康診査の個別通知に受診票を同封します|\n|9カ月から10カ月児健診|一般健康診査|9カ月から10カ月児|都内委託医療機関|3カ月から4カ月児健康診査の個別通知に受診票を同封します|\n|1歳6カ月児健康診査|一般健康診査、歯科健康診査、健康相談、育児等に関する情報提供、遊びの広場|1歳6カ月児|生活・保健センター|個別に通知します|\n|3歳児健康診査|一般健康診査、歯科健康診査、尿検査、目の検査、健康相談、育児等に関する情報提供|3歳児|生活・保健センター|個別に通知します|\n6から7カ月児健康診査、9から10カ月児健康診査は日野市内実施医療機関一覧をご覧ください。\n\n日野市内実施医療機関一覧 （PDF 319.7KB）;https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/003/912/iryoukikan202405.pdf\n日野市に転入された方\n日野市に転入された方等で、6から7カ月及び9から10カ月児健康診査受診票をお持ちでない方は、子ども家庭支援センター母子保健係（子ども包括支援センターみらいく2階）で交付の申請ができます。なお、東京都内からの転入の場合は、前住所地で交付を受けた受診票を継続して使用することができます。 \n転入された時期により、3から4カ月児・産婦健康診査、1歳6カ月児健康診査、3歳児健康診査の通知発送が間に合わない場合があります。対象の方でまだ受診されていない場合は、子ども家庭支援センター母子保健係（042-843-3663）へご連絡ください。",
+      "target": {
+        "targetPersons": "6か月から7か月児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 7
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "6カ月から7カ月児"
+      },
+      "support": {
+        "description": "一般健康診査",
+        "monetarySupport": null,
+        "materiallySupport": "一般健康診査"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "都内委託医療機関;https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/003/912/iryoukikan202405.pdf",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "3カ月から4カ月児健康診査の個別通知に受診票を同封します",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/003/912/iryoukikan202405.pdf",
+          "title": "日野市内実施医療機関一覧 （PDF 319.7KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/kosodate/kenko/kenshin/1003912.html",
+        "title": "子どもの健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども部　子ども家庭支援センター　母子保健係",
+        "contactPhone": "042-843-3663",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120303",
+        "contactComment": "ファクス：042-586-1855",
+        "zipCode": "1910016",
+        "contactAddress": "東京都日野市神明1丁目13番地の2　子ども包括支援センター2階"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+1+UM50",
+        "organization": "1000020132128",
+        "compartment": "子ども部　子ども家庭支援センター　母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-23",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "1歳6か月児健康診査",
+        "shortName": "1歳6カ月児健康診査"
+      },
+      "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。日野市では1歳6か月児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "子どもの健康診査\nこのページの情報をツイッターでツイートできますこのページの情報をフェイスブックでシェアできますこのページの情報をラインでシェアできますページID1003912　 更新日 令和6年5月23日\n印刷　大きな文字で印刷\n\n感染症対策について、受診される方へのご理解とご協力のお願い\n【感染症対策について】\n\n来所の際には、手洗い、咳エチケット等の感染対策にご協力ください。\n健診対象のお子様や付き添いの方が、発熱（37.5度以上）等の体調不良がある場合には、無理をなさらず、次回以降の受診への変更をご検討ください。また、感染性の疾患で医療機関を受診された（または、受診される）場合は、医師に集団健診について参加の可否を確認していただくようお願いいたします。\n会場では、各箇所に消毒液を設置し適宜換気を行っています。また、人との距離を保てるよう会場を広く取り、密にならないよう受付時間を設定しています。少人数でのご参加にご協力をお願いいたします。なお、ご事情のある方は、事前に母子保健係へお問い合わせください。\n 【問い合わせ】子ども家庭支援センター母子保健係　電話042-843-3663\n\n乳幼児健康診査について\n日野市では、下表にある乳幼児健康診査を無料で行っています。\nお子さまの健康状態を確認する大切な健康診査なので、必ず受けましょう。\n\n|健診名|内容|対象時期|実施場所|備考|\n|:----|:----|:----|:----|:----|\n|3カ月から4カ月児・産婦健康診査|一般健康診査、健康相談、育児等に関する情報提供、親子交流|3カ月から4カ月児・産婦|生活・保健センター|個別に通知します|\n|6カ月から7カ月児健診|一般健康診査|6カ月から7カ月児|都内委託医療機関|3カ月から4カ月児健康診査の個別通知に受診票を同封します|\n|9カ月から10カ月児健診|一般健康診査|9カ月から10カ月児|都内委託医療機関|3カ月から4カ月児健康診査の個別通知に受診票を同封します|\n|1歳6カ月児健康診査|一般健康診査、歯科健康診査、健康相談、育児等に関する情報提供、遊びの広場|1歳6カ月児|生活・保健センター|個別に通知します|\n|3歳児健康診査|一般健康診査、歯科健康診査、尿検査、目の検査、健康相談、育児等に関する情報提供|3歳児|生活・保健センター|個別に通知します|\n6から7カ月児健康診査、9から10カ月児健康診査は日野市内実施医療機関一覧をご覧ください。\n\n日野市内実施医療機関一覧 （PDF 319.7KB）;https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/003/912/iryoukikan202405.pdf\n日野市に転入された方\n日野市に転入された方等で、6から7カ月及び9から10カ月児健康診査受診票をお持ちでない方は、子ども家庭支援センター母子保健係（子ども包括支援センターみらいく2階）で交付の申請ができます。なお、東京都内からの転入の場合は、前住所地で交付を受けた受診票を継続して使用することができます。 \n転入された時期により、3から4カ月児・産婦健康診査、1歳6カ月児健康診査、3歳児健康診査の通知発送が間に合わない場合があります。対象の方でまだ受診されていない場合は、子ども家庭支援センター母子保健係（042-843-3663）へご連絡ください。",
+      "target": {
+        "targetPersons": "1歳6か月児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1歳6カ月児"
+      },
+      "support": {
+        "description": "一般健康診査、歯科健康診査、健康相談、育児等に関する情報提供、遊びの広場",
+        "monetarySupport": null,
+        "materiallySupport": "一般健康診査、歯科健康診査、健康相談、育児等に関する情報提供、遊びの広場"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "生活・保健センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "個別に通知します",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/kosodate/kenko/kenshin/1003912.html",
+        "title": "子どもの健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども部　子ども家庭支援センター　母子保健係",
+        "contactPhone": "042-843-3663",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120303",
+        "contactComment": "ファクス：042-586-1855",
+        "zipCode": "1910016",
+        "contactAddress": "東京都日野市神明1丁目13番地の2　子ども包括支援センター2階"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+1+UM51",
+        "organization": "1000020132128",
+        "compartment": "子ども部　子ども家庭支援センター　母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-23",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "3歳児健康診査",
+        "shortName": "3歳児健康診査"
+      },
+      "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。日野市では3歳児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "子どもの健康診査\nこのページの情報をツイッターでツイートできますこのページの情報をフェイスブックでシェアできますこのページの情報をラインでシェアできますページID1003912　 更新日 令和6年5月23日\n印刷　大きな文字で印刷\n\n感染症対策について、受診される方へのご理解とご協力のお願い\n【感染症対策について】\n\n来所の際には、手洗い、咳エチケット等の感染対策にご協力ください。\n健診対象のお子様や付き添いの方が、発熱（37.5度以上）等の体調不良がある場合には、無理をなさらず、次回以降の受診への変更をご検討ください。また、感染性の疾患で医療機関を受診された（または、受診される）場合は、医師に集団健診について参加の可否を確認していただくようお願いいたします。\n会場では、各箇所に消毒液を設置し適宜換気を行っています。また、人との距離を保てるよう会場を広く取り、密にならないよう受付時間を設定しています。少人数でのご参加にご協力をお願いいたします。なお、ご事情のある方は、事前に母子保健係へお問い合わせください。\n 【問い合わせ】子ども家庭支援センター母子保健係　電話042-843-3663\n\n乳幼児健康診査について\n日野市では、下表にある乳幼児健康診査を無料で行っています。\nお子さまの健康状態を確認する大切な健康診査なので、必ず受けましょう。\n\n|健診名|内容|対象時期|実施場所|備考|\n|:----|:----|:----|:----|:----|\n|3カ月から4カ月児・産婦健康診査|一般健康診査、健康相談、育児等に関する情報提供、親子交流|3カ月から4カ月児・産婦|生活・保健センター|個別に通知します|\n|6カ月から7カ月児健診|一般健康診査|6カ月から7カ月児|都内委託医療機関|3カ月から4カ月児健康診査の個別通知に受診票を同封します|\n|9カ月から10カ月児健診|一般健康診査|9カ月から10カ月児|都内委託医療機関|3カ月から4カ月児健康診査の個別通知に受診票を同封します|\n|1歳6カ月児健康診査|一般健康診査、歯科健康診査、健康相談、育児等に関する情報提供、遊びの広場|1歳6カ月児|生活・保健センター|個別に通知します|\n|3歳児健康診査|一般健康診査、歯科健康診査、尿検査、目の検査、健康相談、育児等に関する情報提供|3歳児|生活・保健センター|個別に通知します|\n6から7カ月児健康診査、9から10カ月児健康診査は日野市内実施医療機関一覧をご覧ください。\n\n日野市内実施医療機関一覧 （PDF 319.7KB）;https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/003/912/iryoukikan202405.pdf\n日野市に転入された方\n日野市に転入された方等で、6から7カ月及び9から10カ月児健康診査受診票をお持ちでない方は、子ども家庭支援センター母子保健係（子ども包括支援センターみらいく2階）で交付の申請ができます。なお、東京都内からの転入の場合は、前住所地で交付を受けた受診票を継続して使用することができます。 \n転入された時期により、3から4カ月児・産婦健康診査、1歳6カ月児健康診査、3歳児健康診査の通知発送が間に合わない場合があります。対象の方でまだ受診されていない場合は、子ども家庭支援センター母子保健係（042-843-3663）へご連絡ください。",
+      "target": {
+        "targetPersons": "3歳児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "3歳児"
+      },
+      "support": {
+        "description": "一般健康診査、歯科健康診査、尿検査、目の検査、健康相談、育児等に関する情報提供",
+        "monetarySupport": null,
+        "materiallySupport": "一般健康診査、歯科健康診査、尿検査、目の検査、健康相談、育児等に関する情報提供"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "生活・保健センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "個別に通知します",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/kosodate/kenko/kenshin/1003912.html",
+        "title": "子どもの健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども部　子ども家庭支援センター　母子保健係",
+        "contactPhone": "042-843-3663",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120303",
+        "contactComment": "ファクス：042-586-1855",
+        "zipCode": "1910016",
+        "contactAddress": "東京都日野市神明1丁目13番地の2　子ども包括支援センター2階"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+1+UM52",
+        "organization": "1000020132128",
+        "compartment": "子ども部　子ども家庭支援センター　母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-23",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（3歳児歯科健康診査）",
+        "shortName": "乳幼児健康診査（3歳児）"
+      },
+      "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。3歳児歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+      "description": "乳幼児健康診査（3歳児）\nページID1003913　 更新日 令和6年3月29日\n\n感染症対策について、受診される方へのご理解とご協力のお願い\n【感染症対策について】\n\n来所の際には、手洗い、咳エチケット等の感染対策にご協力ください\n健診対象のお子様や付き添いの方が、発熱（37.5度以上）等の体調不良がある場合には、無理をなさらず、次回以降の受診への変更をご検討ください。また、感染性の疾患で医療機関を受診された（または、受診される）場合は、医師に集団健診について参加の可否を確認していただくようお願いいたします\n会場では、各箇所に消毒液を設置し適宜換気を行っています。また、人との距離を保てるよう会場を広く取り、密にならないよう受付時間を設定しています。少人数でのご参加にご協力をお願いいたします。なお、ご事情のある方は、事前に母子保健係へお問い合わせください。\n【問い合わせ】子ども家庭支援センター母子保健係　電話042-843-3663\n\n対象\n3歳から4歳未満のお子さま\n\n内容\n尿検査、目と耳の検査、問診、医師・歯科医師による診察など\n\n日時\n対象の方には個別に通知いたします。\n\n当日に尿検査ができず、後日再提出をご案内させていただいた方は、3歳児健康診査実施日の12時35分～午後1時35分の間にお越しください。\n\n会場\n生活・保健センター\n\n※会場である生活・保健センターの駐車場には限りがございます。ご都合によりお車でお越しになる際には、お時間に余裕をもって、当施設の駐車場または周辺の有料駐車場等をご利用いただき、それ以外にはお停めになりませんようお願いいたします。\n\n生活・保健センター（施設案内のページ）;https://www.city.hino.lg.jp/shisetsu/shiyakusho/desakli/1000917.html\nその他\n健診日の変更や健診アンケートの回答入力は、個別にお送りする通知をご確認ください。\n日野市に転入された方は、転入された時期により、3歳児健康診査の通知発送が間に合わない場合があります。対象の方でまだ受診されていない場合は、子ども家庭支援センター母子保健係（042-843-3663）へご連絡ください。",
+      "target": {
+        "targetPersons": "3歳から4歳未満のお子さま",
+        "lessThan": {
+          "targetAge": 4,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "3歳から4歳未満のお子さま"
+      },
+      "support": {
+        "description": "尿検査、目と耳の検査、問診、医師・歯科医師による診察など",
+        "monetarySupport": null,
+        "materiallySupport": "尿検査、目と耳の検査、問診、医師・歯科医師による診察など"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "対象の方には個別に通知いたします。\n\n当日に尿検査ができず、後日再提出をご案内させていただいた方は、3歳児健康診査実施日の12時35分～午後1時35分の間にお越しください。"
+      },
+      "implementationPlace": {
+        "implementationName": "生活・保健センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "健診日の変更や健診アンケートの回答入力は、個別にお送りする通知をご確認ください。\n日野市に転入された方は、転入された時期により、3歳児健康診査の通知発送が間に合わない場合があります。対象の方でまだ受診されていない場合は、子ども家庭支援センター母子保健係（042-843-3663）へご連絡ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.hino.lg.jp/shisetsu/shiyakusho/desakli/1000917.html",
+          "title": "生活・保健センター（施設案内のページ）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/kosodate/kenko/kenshin/1003913.html",
+        "title": "乳幼児健康診査（3歳児）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康福祉部健康課",
+        "contactPhone": "042-581-4111",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120303",
+        "contactComment": null,
+        "zipCode": "1910011",
+        "contactAddress": "東京都日野市日野本町1丁目6番地の2生活保健センター"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+1+UM792",
+        "organization": "1000020132128",
+        "compartment": "健康福祉部健康課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-29",
+      "odInformation": {
+        "updateDate": "2024-08-01",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "こども家庭センター",
+        "shortName": "子ども家庭支援センター"
+      },
+      "summary": "日野市の【子ども家庭支援センター】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+      "description": "子ども家庭支援センター\n所在地\n東京都日野市神明1の13の2　子ども包括支援センター2階\n\n電話\n地域支援係：042-506-2151\n\n相談援護係：042-506-2152\n\n母子保健係：042-843-3663\n\nEメール\n子ども家庭支援センター地域支援係・相談援護係：\n\n子ども家庭支援センター母子保健係：\n\n地域子ども家庭支援センター万願寺（メールはありません）\n地域子ども家庭支援センター多摩平（メールはありません）\n\n業務内容\n【地域支援係】\n\n子育て講座・子育て情報発信に関すること\n子育てひろば、地域支援活動・子育てパートナー事業に関すること\nファミリー・サポート・センター事業に関すること\n【相談援護係】\n\n子どもと家庭の問題や子育て相談、児童虐待防止に関すること\n子ども家庭支援センターの在宅サービスに関すること\n子ども家庭支援ネットワーク連絡協議会に関すること\n養育家庭制度に関すること\n【母子保健係】\n\n母子の健康づくりに関すること\n乳幼児及び妊産婦の健康診査に関すること\n母子の保健事業に関すること\n妊娠届の受付及び母子健康手帳の交付に関すること\n子育て世代包括支援センター事業に関すること\nほか",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "子ども家庭支援センター",
+        "implementationAddress": "東京都日野市神明1の13の2　子ども包括支援センター2階"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/shisei/profile/soshiki/kodomo/1004716.html",
+        "title": "子ども家庭支援センター"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども部　子ども家庭支援センター　地域支援係・相談援護係・母子保健係",
+        "contactPhone": "直通電話：地域支援係　042-506-2151\n相談援護係　042-506-2152\n母子保健係　042-843-3663",
+        "contactEx": null,
+        "contactEmail": "地域支援係・相談援護係　hohoemi@city.hino.lg.jp,母子保健係　hohoemi_boshi@city.hino.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1910016",
+        "contactAddress": "東京都日野市神明1丁目13番地の2　子ども包括支援センター2階"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+1+UM799",
+        "organization": "1000020132128",
+        "compartment": "子ども部　子ども家庭支援センター　地域支援係・相談援護係,子ども部　子ども家庭支援センター　母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/05/29",
+      "odInformation": {
+        "updateDate": "2025/02/25",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法,児童福祉法",
+        "regulationArticle": "第22条,第10条の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自立支援医療制度（精神通院医療）",
+        "shortName": "自立支援医療制度（精神通院医療）"
+      },
+      "summary": "精神疾患のための通院による治療を受ける場合、医療費の自己負担額を軽減する制度が自立支援医療制度（精神通院医療）です。",
+      "description": "自立支援医療制度（精神通院医療）\nこのページの情報をツイッターでツイートできます;https://twitter.com/intent/tweet?text=%E8%87%AA%E7%AB%8B%E6%94%AF%E6%8F%B4%E5%8C%BB%E7%99%82%E5%88%B6%E5%BA%A6%EF%BC%88%E7%B2%BE%E7%A5%9E%E9%80%9A%E9%99%A2%E5%8C%BB%E7%99%82%EF%BC%89&url=https%3A%2F%2Fwww.city.hino.lg.jp%2Ffukushi%2Fnanbyo%2Fservice%2Fkyufu%2F1003713.htmlこのページの情報をフェイスブックでシェアできます;https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.city.hino.lg.jp%2Ffukushi%2Fnanbyo%2Fservice%2Fkyufu%2F1003713.html&t=%E8%87%AA%E7%AB%8B%E6%94%AF%E6%8F%B4%E5%8C%BB%E7%99%82%E5%88%B6%E5%BA%A6%EF%BC%88%E7%B2%BE%E7%A5%9E%E9%80%9A%E9%99%A2%E5%8C%BB%E7%99%82%EF%BC%89このページの情報をラインでシェアできます;https://line.me/R/msg/text/?%E8%87%AA%E7%AB%8B%E6%94%AF%E6%8F%B4%E5%8C%BB%E7%99%82%E5%88%B6%E5%BA%A6%EF%BC%88%E7%B2%BE%E7%A5%9E%E9%80%9A%E9%99%A2%E5%8C%BB%E7%99%82%EF%BC%89%0d%0ahttps%3A%2F%2Fwww.city.hino.lg.jp%2Ffukushi%2Fnanbyo%2Fservice%2Fkyufu%2F1003713.htmlページID1003713\n印刷　大きな文字で印刷\n\n精神疾患のための通院による治療を受ける場合、医療費に継続的な負担がかかります。そのような方々のために通院医療費の負担軽減を図る制度が、障害者総合支援法に基づく「自立支援医療費制度（精神通院医療）」です。なお、この制度は、精神障害者保健福祉手帳の有無は問いません。\n\n※指定医療機関で行う往診・デイケア・訪問看護・てんかんの診療及び薬代等も対象となります。\n\n※市民税の所得割額が23万5千円以上の場合は、ご病気の状況により該当とならない場合もあります。\n\n自己負担（原則1割）について\n自己負担は原則1割ですが、利用者本人の収入や世帯の所得、疾患等に応じて月額負担上限額が設定されています。\n\n所得区分など\n|所得区分|所得の条件|負担上限月額|\n|:----|:----|:----|\n|生活保護|生活保護世帯|0円|\n|低所得1|市民税非課税世帯|2,500円|\n| |本人収入80万円以下の方（公的年金収入等含む）| |\n|低所得2|市民税非課税世帯|5,000円|\n| |本人収入80万円を超える方（公的年金収入等含む）| |\n|中間所得層1|市民税所得割額が合計3万3千円未満の世帯|5,000円|\n| |高額治療継続者（重度かつ継続）に該当する方| |\n| |※（重度かつ継続）に非該当の方は、負担上限月額は無く、自己負担は医療費の1割| |\n|中間所得層2|市民税所得割額が合計3万3千円から23万5千円未満の世帯|10,000円|\n| |高額治療継続者（重度かつ継続）に該当する方| |\n| |※（重度かつ継続）に非該当の方は、負担上限月額は無く、自己負担は医療費の1割| |\n|一定所得以上|市民税所得割額が合計23万5千円以上の世帯|20,000円|\n| |高額治療継続者（重度かつ継続）に該当する方| |\n| |※（重度かつ継続）に非該当の方は、この制度は受けられません| |\n\n※「世帯」の単位＝住民票上の家族ではなく、同じ医療保険に加入している家族を、同一世帯とします。異なる医療保険に加入している家族の方は別世帯となります。\n\n※「世帯」の所得＝社会保険の方の場合、被保険者本人の所得により区分されます。\n\n※「重度かつ継続」＝統合失調症、躁うつ病・うつ病、てんかん、認知症等の脳機能障害もしくは薬物関連障害（依存症等）の者又は、集中・継続的な医療を要する者として精神医療に一定以上の経験を有する医師が判断した者\n\n精神障害者保健福祉手帳との同時申請について\n精神障害者保健福祉手帳と自立支援医療費制度を同時に申請する場合は、手帳用診断書のみで申請が可能です。（「高額治療継続者（重度かつ継続）」として申請をする場合は、別途「意見書」が必要な場合があります）年金証書等の写しによる同時申請はできません。\n\n※同時申請で精神障害者保健福祉手帳と自立支援医療の更新申請を行う場合については、精神障害者保健福祉手帳と自立支援医療費制度の更新可能期間が一致している場合のみ可能です。\n\n精神障害者保健福祉手帳（精神障害）\n自立支援医療受給者証と精神障害者保健福祉手帳の有効期間終了日を合わせることができます\n自立支援医療と精神障害者保健福祉手帳の有効期間終了日が異なるために同時申請ができない場合は、次回以降の申請において同時申請が可能になるように、自立支援医療受給者証（精神通院）の有効期間を短縮して精神障害者保健福祉手帳の有効期間終了日に合わせることができます。\n\n※「認定期間短縮にかかわる承諾書」の提出と精神障害者保健福祉手帳の有効期間が1年未満（申請時点）であることが適用条件となります。\n\n精神障害者保健福祉手帳をお持ちの方\n精神障害者保健福祉手帳（診断書に基づいて交付されたものに限る）の交付を受けている方が、「高額治療継続者（重度かつ継続）」に該当しない新規申請（再開申請を含む）を行う場合には、精神障害者保健福祉手帳の写しを添付すれば、診断書の提出は必要ありません。\n\n※「高額治療継続者（重度かつ継続）」を申請する場合は、意見書を添付してください。\n\nなお、上記の精神障害者保健福祉手帳の写しの添付による新規申請（再開申請を含む）については、「診断書不要の扱い」となり、次回の更新申請の際には、自立支援医療診断書（精神通院）の提出が必要となります。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "通常、医療保険では医療費の3割が自己負担となりますが、この制度を併用した場合、自己負担は原則1割に軽減されます。",
+        "monetarySupport": "自己負担は原則1割に軽減",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申請方法\n申請窓口は日野市役所1階障害福祉課です。必要書類の書式をお渡ししますので、まずは障害福祉課へお越しください。\n\n申請にかかる所要時間は、約20分程度です。\n\n時間は目安です。窓口の混雑状況や個々の状況により、時間がかかる場合があります。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "申請に必要なもの　※詳しくはお問い合わせください\n自立支援医療費支給認定申請書（所定の書式が障害福祉課にあり）\n自立支援医療診断書（医師が記載）（所定の書式が障害福祉課にあり） （2年に1度）\n自立支援医療受給者証（更新の方のみ）\n保険証（国民健康保険・後期高齢者医療：同一世帯内で受診者と同種類の保険証をお持ちの方全員分、社会保険・共済：受診者本人分）\n課税・非課税証明書（日野市に税情報が無い方※詳細は問い合わせを）\n印鑑\nマイナンバーが確認できるもの（マイナンバーカード、通知カード、マイナンバーが記載されて住民票）\n本人確認書類\n有効期間を過ぎてしまってからの申請は「再開申請」となり、自立支援医療診断書（精神通院）の提出が必要となります。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "日野市役所1階障害福祉課",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.hino.lg.jp/fukushi/nanbyo/techo/1003666.html",
+          "title": "精神障害者保健福祉手帳（精神障害）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/fukushi/nanbyo/service/kyufu/1003713.html",
+        "title": "自立支援医療制度（精神通院医療）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康福祉部　障害福祉課",
+        "contactPhone": "直通電話：福祉係 042-514-8485　援護係 042-514-8489　差別解消推進係 042-514-8991\n代表電話：042-585-1111",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1918686",
+        "contactAddress": "東京都日野市神明1丁目12番地の1　日野市役所1階"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+1+UM824",
+        "organization": "1000020132128",
+        "compartment": "健康福祉部　障害福祉課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/07/31",
+      "odInformation": {
+        "updateDate": "2025/02/25",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律",
+        "regulationArticle": "第58条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "025",
+          "027"
+        ],
+        "targetCode": [
+          "087",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て広場",
+        "shortName": "地域子ども家庭支援センターの子育てひろば（万願寺「にこにこ」、多摩平「はぴはぴ」）"
+      },
+      "summary": "市内の子育てひろばは、小学校就学前のお子さんが安心して遊べるスペースがあり、子育て中の親子が気軽に集い、仲間づくりを通して子育てに関する相談や情報交換等を行う機会を提供しています。また、お子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、日野市サイトや市報などでお知らせしています。）",
+      "description": "地域子ども家庭支援センターの子育てひろば（万願寺「にこにこ」、多摩平「はぴはぴ」）\n1．ご利用方法\n地域子ども家庭支援センター万願寺「にこにこ」・多摩平「はぴはぴ」の子育てひろばは事前予約制となっております。各ひろばにて利用できる組数や時間帯などに違いがありますので、下記を参照ください。\n\n利用対象者：日野市内在住のおおむね0歳から3歳までのお子さんと保護者、養育者\n\nご実家等に滞在中の方などはお問い合わせください。\n\nまた、ご予約は「日野市子育て予約システム」によるWeb予約となります。\n予約ページや利用についての詳細は以下のページをご確認ください。\n\n日野市子育て予約システム;https://www.city.hino.lg.jp/kosodate/shien/1019091/1017450.html\n以下のページにて、ご利用上の注意事項を掲載しております。\nご利用の際に、ご参照ください。\n\n地域子ども家庭支援センター万願寺「にこにこ」\n利用時間　午前10時00分から午後4時00分まで（換気、清掃及び受付時間含む）\n\n1日3回に分け、各回1時間30分のご利用となります。\n\n終了後は換気、清掃等のため次回開始まで時間を空けております。\n\n利用組数　各回13組まで\n\n万願寺「にこにこ」　利用時間　（平日／土曜、日曜共通）\n|各回10組まで|開始|終了|時間|\n|:----|:----|:----|:----|\n|（1）|午前10時15分|午前11時45分|1時間30分|\n|（2）|午後0時30分|午後2時00分|1時間30分|\n|（3）|午後2時15分|午後3時45分|1時間30分|\n地域子ども家庭支援センター多摩平「はぴはぴ」\n利用時間　午前10時00分から午後5時00分まで（換気、清掃及び受付時間含む）\n\n　1日4回に分け、各回1時間30分のご利用となります。\n\n終了後は換気、清掃等のため次回開始まで時間を空けております。\n\n利用組数　各回10組まで\n\n多摩平「はぴはぴ」　利用時間　（平日）\n|各回8組まで|開始|終了|時間|\n|:----|:----|:----|:----|\n|（1）|午前10時00分|午前11時30分|1時間30分|\n|（2）|午前11時45分|午後1時15分|1時間30分|\n|（3）|午後1時30分|午後3時00分|1時間30分|\n|（4）|午後3時15分|午後4時45分|1時間30分|\n多摩平「はぴはぴ」　利用時間　（土曜、日曜）\n|各回8組まで|開始|終了|時間|\n|:----|:----|:----|:----|\n|（1）|午前10時00分|午前11時30分|1時間30分|\n|（2）|午後1時00分|午後2時30分|1時間30分|\n|（3）|午後3時00分|午後4時30分|1時間30分|\n3．その他\n37.5℃（子ども）、37.0℃（大人）の発熱または咳などの風邪症状のある方は、ご利用をご遠慮いただきますようお願いします。\n当日の混雑状況については、随時「ぽけっとなび」（下記リンク参照）にて配信しています。\n事前予約制について、今後の感染状況等に応じて変更になった場合は、随時市のホームページおよび「ぽけっとなび」に掲載いたします。\n相談は随時受け付けております。お電話または来所時にご相談ください。\n計測については、個別で対応させていただきます。ご希望の方は職員にお申し付けください。なお、状況によってご希望に添えない場合もございますので、ご了承ください。\nご利用に際し、ご質問などございましたら、利用予定のひろばへご連絡ください。\n子育てひろば混雑状況等\n子育てモバイルサービス「ぽけっとなび」（外部リンク）;https://hino.city-hc.jp/\n【予約・問い合わせ先】\n地域子ども家庭支援センター万願寺「にこにこ」\n電話　042-586-1312\n予約受付日時　月曜日から日曜日（火曜日・祝日を除く）午前9時30分から午後4時30分まで\n\n地域子ども家庭支援センター多摩平「はぴはぴ」\n電話　042-589-1260\n予約受付日時　火曜日から日曜日（月曜日・祝日を除く）午前10時から午後5時まで\n\n子ども家庭支援センター\n電話042-506-2151\n受付日時 月曜日から金曜日（土曜日・日曜日・祝日を除く）午前9時00分から午後5時45分まで",
+      "target": {
+        "targetPersons": "日野市内在住のおおむね0歳から3歳までのお子さんと保護者、養育者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "日野市内在住のおおむね0歳から3歳までのお子さん"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "各ひろばにて利用できる組数や時間帯などに違いがありますので、下記を参照ください。\n\n地域子ども家庭支援センター万願寺「にこにこ」\n利用時間　午前10時00分から午後4時00分まで（換気、清掃及び受付時間含む）\n\n1日3回に分け、各回1時間30分のご利用となります。\n\n終了後は換気、清掃等のため次回開始まで時間を空けております。\n\n利用組数　各回13組まで\n\n万願寺「にこにこ」　利用時間　（平日／土曜、日曜共通）\n|各回10組まで|開始|終了|時間|\n|:----|:----|:----|:----|\n|（1）|午前10時15分|午前11時45分|1時間30分|\n|（2）|午後0時30分|午後2時00分|1時間30分|\n|（3）|午後2時15分|午後3時45分|1時間30分|\n地域子ども家庭支援センター多摩平「はぴはぴ」\n利用時間　午前10時00分から午後5時00分まで（換気、清掃及び受付時間含む）\n\n　1日4回に分け、各回1時間30分のご利用となります。\n\n終了後は換気、清掃等のため次回開始まで時間を空けております。\n\n利用組数　各回10組まで\n\n多摩平「はぴはぴ」　利用時間　（平日）\n|各回8組まで|開始|終了|時間|\n|:----|:----|:----|:----|\n|（1）|午前10時00分|午前11時30分|1時間30分|\n|（2）|午前11時45分|午後1時15分|1時間30分|\n|（3）|午後1時30分|午後3時00分|1時間30分|\n|（4）|午後3時15分|午後4時45分|1時間30分|\n多摩平「はぴはぴ」　利用時間　（土曜、日曜）\n|各回8組まで|開始|終了|時間|\n|:----|:----|:----|:----|\n|（1）|午前10時00分|午前11時30分|1時間30分|\n|（2）|午後1時00分|午後2時30分|1時間30分|\n|（3）|午後3時00分|午後4時30分|1時間30分|\n"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "地域子ども家庭支援センター万願寺「にこにこ」・多摩平「はぴはぴ」の子育てひろばは事前予約制となっております。\nご予約は「日野市子育て予約システム」によるWeb予約となります。\n予約ページや利用についての詳細は以下のページをご確認ください。\n\n日野市子育て予約システム;https://www.city.hino.lg.jp/kosodate/shien/1019091/1017450.html",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://hino.city-hc.jp/",
+          "title": "子育てモバイルサービス「ぽけっとなび」（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/kosodate/shien/hiroba/1000937.html",
+        "title": "子育てひろばの利用方法について"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.hino.lg.jp/kosodate/shien/1019091/1017450.html",
+          "title": "日野市子育て予約システム"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども部子ども家庭支援センター地域支援係・相談援護係",
+        "contactPhone": "042-506-2151,042-506-2152",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120300",
+        "contactComment": "地域支援係　042-506-2151,相談援護係　042-506-2152",
+        "zipCode": "1910016",
+        "contactAddress": "東京都日野市神明1丁目13番地の2子ども包括支援センター2階"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+2+UM112",
+        "organization": "1000020132128",
+        "compartment": "子ども部子ども家庭支援センター地域支援係・相談援護係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-31",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第6項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "日野市の子育てに関する相談",
+        "shortName": "子どもの発達や学校生活に関する相談"
+      },
+      "summary": "子どもの発達や学校の生活について、不安や心配がありましたらお気軽にご相談ください。",
+      "description": "子どもの発達や学校生活に関する相談\nページID1004081　 更新日 令和5年6月26日\n\n子どもの発達や学校の生活について、不安や心配がありましたらお気軽にご相談ください。\n\nことばが遅い\nおちつきがない\n友達と一緒に遊べない\n友達に手が出てしまう\n切り替えに時間がかかる\n癇癪（かんしゃく）がある\n集団行動ができない\n手先が不器用\n人の気持ちを理解しにくい\n自分の気持ちを上手に伝えられない\n勉強が遅れがち\n学校に行きたくない\n友人関係が苦手\n性的マイノリティに関する相談（専門機関ではありませんが、お話をお伺いします。）\nまずはお電話ください。保健師、社会福祉士、精神保健福祉士、教育の専門家等がご相談に応じます。\n内容に応じて、心理相談、言語相談、医療相談、就学・進学相談、入級・転学相談のご予約をとります。\n\n就学・進学・転学等に関するご相談;https://www.city.hino.lg.jp/kosodate/gakko/shien/1004083.html\nその他、子どもの育ちや発達に不安のある方への支援;https://www.city.hino.lg.jp/kosodate/shien/hattatsu/index.html\n電話\nエール(発達・教育支援センター) 電話042-589-8877",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "子どもの発達や学校の生活について、不安や心配がありましたらお気軽にご相談ください。\n保健師、社会福祉士、精神保健福祉士、教育の専門家等がご相談に応じます。\n内容に応じて、 心理相談、言語相談、医療相談、就学・進学相談、入級・転学相談のご予約をとります。",
+        "monetarySupport": null,
+        "materiallySupport": "子どもの発達や学校の生活について、不安や心配がありましたらお気軽にご相談ください。\n保健師、社会福祉士、精神保健福祉士、教育の専門家等がご相談に応じます。\n内容に応じて、 心理相談、言語相談、医療相談、就学・進学相談、入級・転学相談のご予約をとります。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "まずはお電話ください。保健師、社会福祉士、精神保健福祉士、教育の専門家等がご相談に応じます。\n内容に応じて、 心理相談、言語相談、医療相談、就学・進学相談、入級・転学相談のご予約をとります。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.hino.lg.jp/kosodate/shien/hattatsu/index.html",
+          "title": "その他、子どもの育ちや発達に不安のある方への支援"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/kosodate/gakko/shien/1004083.html",
+          "title": "就学・進学・転学等に関するご相談"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/kosodate/shien/soudan/1004081.html",
+        "title": "子どもの発達や学校生活に関する相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "エール（発達・教育支援センター）",
+        "contactPhone": "042-589-8877",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G200000",
+        "contactComment": null,
+        "zipCode": "1910065",
+        "contactAddress": "東京都日野市旭が丘2の42の8"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+2+UM119",
+        "organization": "1000020132128",
+        "compartment": "エール（発達・教育支援センター）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-26",
+      "odInformation": {
+        "updateDate": "2024-06-27",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産後ケア事業",
+        "shortName": "日野市産後ケア事業　通所型"
+      },
+      "summary": "出産を終えた退院後、お母さんと赤ちゃんの生活リズムづくりや、心身の安定を図るため、施設においてショートステイ（宿泊）やデイサービス（日帰り）で、助産師などが母子の心身ケアと育児サポートを行います。",
+      "description": "日野市産後ケア事業\nこのページの情報をツイッターでツイートできますこのページの情報をフェイスブックでシェアできますこのページの情報をラインでシェアできますページID1014499　 更新日 令和6年5月27日\n印刷　大きな文字で印刷\n\n「日野市産後ケア事業」のご案内\n「産後ケア事業」とは？\n日野市では、出産を終え、お家に戻ってからの生活で家族からの支援が受けにくい方や、赤ちゃんのお世話や自分の体のことで悩んでいる方に、助産師のサポートを提供しています。\n「出産後、自宅に帰っても家族などの手伝いがなくて不安」「体調が優れない」「授乳がうまくいかない」など、出産後のサポートが必要なお母さんが、自宅や施設で休息や授乳、育児に関する助産師のケアを受けることができるサービスです。\n\n　利用できる方\n日野市民であり、かつ、産後1年未満（通所型・宿泊型は施設により異なる）のお母さんと赤ちゃんで産後ケアを必要とする方。\n\n※お母さんまたは赤ちゃんが感染性疾患にり患、または感染が強く疑われる場合のほか、医師による医療行為を必要とする場合は利用できないことがあります。\n\n産後ケア内容\nお母さんのケアニーズに合わせて、産後ケアを提供します。\n\nお母さんのケア（健康状態のチェック、乳房ケア、通所型・宿泊型の食事の提供など）\n赤ちゃんのケア（体重・健康状態のチェックなど）\n育児の相談 （授乳、沐浴、スキンケアなどの助言）\n育児サポート （休息、心身のケアなど）\n　利用料金・回数など\n訪問型・通所型・宿泊型いずれもご利用いただけます。\n\n産後ケア内容\n|種類|訪問型|通所型|宿泊型|\n|:----|:----|:----|:----|\n|内容|助産師の訪問によりケアを受けられます|病院・助産院で日帰りのケアを受けられます|病院・助産院に宿泊しケアを受けられます|\n|利用期間|産後1年未満| 産後4カ月未満（永井産婦人科病院）<br>産後7カ月未満（かなざわ助産院）|産後30日未満（永井産婦人科病院）※1<br>産後1カ月未満（日野市立病院・いわさレディースクリニック）※2<br>産後4カ月未満（かなざわ助産院）|\n|利用料金|1回　1,500円|1回　3,000円|1泊2日　6,000円|\n|利用時間|2時間以内<br>（午前9時～午後5時）|6時間以内<br>（午前10時～午後4時）|施設が指定する時間|\n|実施場所|ご自宅|かなざわ助産院（日野市）<br>永井産婦人科病院（立川市）|日野市立病院<br>かなざわ助産院（日野市）<br>永井産婦人科病院（立川市）<br>いわさレディースクリニック（八王子市）|\n|利用回数|原則として「通所型」と合わせて7回まで<br>（1日1回）|原則として「訪問型」と合わせて7回まで<br>（1日1回）|1泊2日を3回まで（連泊可）|\n|利用可能日|月曜日から金曜日<br>（年末年始・祝日を除く）|施設が指定する日|施設が指定する日|\n\n各病院、助産院については、感染症や空き部屋の状況等によって予約日程のご希望に添えないことがございます。ご了承ください。\n住民税非課税世帯・生活保護世帯・ひとり親世帯は自己負担額が減免されます。\n多胎児の場合、通所型・宿泊型をご利用時2人目からの利用料金は公費で負担します。\n※1　永井産婦人科病院での、出産のご入院から継続して利用するプラン（ダイレクトプラン）はご利用できません。詳しくは病院ホームページをご確認下さい。\n\n※2　日野市立病院、いわさレディースクリニックは自院で出産された方のみのご利用になります。\n\n「訪問型」の助産師の紹介 （PDF 304.5KB）;https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/014/499/zyosanshi.pdf\n「産後ケア事業」の利用方法\n申請について\n申請方法\n新規でAITELのアカウント登録をする場合は、以下の「新規アカウント登録手続きについて」のリンク先でご確認ください。\n下記リンク先から「日野市母子保健予約システムAITEL」にアクセス\n右上の「ログイン」をクリックし、『ログインID』（数字12ケタ）と設定した『パスワード』でログイン\n「Web問診・アンケート・届出」をクリックし、「産後ケア申請」をクリック\n設問に回答し、”回答内容の確認”画面で入力内容に間違いがなければ「登録する」をクリックし申請完了\n※別途、利用料免除証明書（生活保護受給証明書、非課税証明書、母子家庭の出産に伴う産後ケア事業利用証明書）を提出する方は子ども家庭支援センター母子保健係に持参、もしくは郵送\n\n新規アカウント登録手続きについて;https://www.city.hino.lg.jp/kosodate/shien/1025683.html\n日野市母子保健予約システムAITEL（外部リンク）;https://www.aitel-reservation.jp/hinocity-tokyo/\n申請時の注意事項\n申請後、承認されるまで1週間程度かかります。早めに申請してください。\nWebサイトにアクセスしたら、サイトは”ブックマーク”または”お気に入り登録”を必ずお願いします。\nサイトから届くメールアドレス（hino_boshi@aitel-reservation.jp）が受信できるか事前にお持ちのスマートフォンの設定内容をご確認ください。\n申請で不明な点がありましたら、子ども家庭支援センター母子保健係（042-843-3663）までご連絡ください。\n通信料は利用者様の負担となります。Wi-Fi環境でのご利用を推奨します。\n利用の決定\n利用（予約）方法\n申請内容を確認したのち、「利用承認通知書」をご自宅に郵送\n利用承認通知書に同封の資料を参考に、希望する施設または助産師に直接電話で予約\n※利用期間と回数は「利用承認通知書」に書かれています。必ずご確認をお願いします。\n\n産後ケア当日の手続き\n利用日の前日に、利用予定施設または助産師から確認の連絡\n産後ケアの利用\n利用料金を利用ごとに施設または助産師に直接支払い、領収書を受け取る\n施設または助産師から「利用承認通知書」に事業者印をもらう\n※訪問型利用の場合、ケア終了後「産後ケア事業利用確認書」に署名をしてください。\n\n※通所型、宿泊型を利用する場合は、施設から指定された持ち物のほか「利用承認通知書」を必ずお持ちください。\n\n※無断キャンセルはご遠慮ください。当日、キャンセルされた場合は1回(1泊)利用したものとみなすことがあります。\n\nお問い合わせ\n日野市子ども包括支援センターみらいく2階 子ども家庭支援センター母子保健係 \n※市役所本庁舎とは、別の建物になります。\n日野市神明1-13-2\n\n施設案内：子ども包括支援センター　みらいく;https://www.city.hino.lg.jp/shisetsu/shiyakusho/desakli/1026332.html\nイラスト：ひのった、こべりー、うんちゃん",
+      "target": {
+        "targetPersons": "日野市民であり、かつ、産後1年未満（通所型・宿泊型は施設により異なる）のお母さんと赤ちゃんで産後ケアを必要とする方。\n\n※お母さんまたは赤ちゃんが感染性疾患にり患、または感染が強く疑われる場合のほか、医師による医療行為を必要とする場合は利用できないことがあります。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "産後4カ月未満（永井産婦人科病院）\n産後7カ月未満（かなざわ助産院）"
+      },
+      "support": {
+        "description": "病院・助産院で日帰りのケアを受けられます",
+        "monetarySupport": null,
+        "materiallySupport": "病院・助産院で日帰りのケアを受けられます"
+      },
+      "cost": "3000",
+      "costConditions": "1回　3,000円",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "かなざわ助産院（日野市）\n永井産婦人科病院（立川市）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "16:00",
+        "condiutilizationConditionstions": "6時間以内（午前10時～午後4時）"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申請について\n申請方法\n新規でAITELのアカウント登録をする場合は、以下の「新規アカウント登録手続きについて」のリンク先でご確認ください。\n下記リンク先から「日野市母子保健予約システムAITEL」にアクセス\n右上の「ログイン」をクリックし、『ログインID』（数字12ケタ）と設定した『パスワード』でログイン\n「Web問診・アンケート・届出」をクリックし、「産後ケア申請」をクリック\n設問に回答し、”回答内容の確認”画面で入力内容に間違いがなければ「登録する」をクリックし申請完了\n※別途、利用料免除証明書（生活保護受給証明書、非課税証明書、母子家庭の出産に伴う産後ケア事業利用証明書）を提出する方は子ども家庭支援センター母子保健係に持参、もしくは郵送\n\n新規アカウント登録手続きについて;https://www.city.hino.lg.jp/kosodate/shien/1025683.html\n日野市母子保健予約システムAITEL（外部リンク）;https://www.aitel-reservation.jp/hinocity-tokyo/\n　申請時の注意事項\n申請後、承認されるまで1週間程度かかります。早めに申請してください。\nWebサイトにアクセスしたら、サイトは”ブックマーク”または”お気に入り登録”を必ずお願いします。\nサイトから届くメールアドレス（hino_boshi@aitel-reservation.jp）が受信できるか事前にお持ちのスマートフォンの設定内容をご確認ください。\n申請で不明な点がありましたら、子ども家庭支援センター母子保健係（042-843-3663）までご連絡ください。\n通信料は利用者様の負担となります。Wi-Fi環境でのご利用を推奨します。\n利用の決定\n利用（予約）方法\n申請内容を確認したのち、「利用承認通知書」をご自宅に郵送\n利用承認通知書に同封の資料を参考に、希望する施設または助産師に直接電話で予約\n※利用期間と回数は「利用承認通知書」に書かれています。必ずご確認をお願いします。\n\n産後ケア当日の手続き\n利用日の前日に、利用予定施設または助産師から確認の連絡\n産後ケアの利用\n利用料金を利用ごとに施設または助産師に直接支払い、領収書を受け取る\n施設または助産師から「利用承認通知書」に事業者印をもらう\n※訪問型利用の場合、ケア終了後「産後ケア事業利用確認書」に署名をしてください。\n\n※通所型、宿泊型を利用する場合は、施設から指定された持ち物のほか「利用承認通知書」を必ずお持ちください。\n\n※無断キャンセルはご遠慮ください。当日、キャンセルされた場合は1回(1泊)利用したものとみなすことがあります。\n\nお問い合わせ\n日野市子ども包括支援センターみらいく2階 子ども家庭支援センター母子保健係 \n※市役所本庁舎とは、別の建物になります。\n日野市神明1-13-2\n\n施設案内：子ども包括支援センター　みらいく;https://www.city.hino.lg.jp/shisetsu/shiyakusho/desakli/1026332.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.hino.lg.jp/shisetsu/shiyakusho/desakli/1026332.html",
+          "title": "施設案内：子ども包括支援センター　みらいく"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/kosodate/shien/1025683.html",
+          "title": "新規アカウント登録手続きについて"
+        },
+        {
+          "uri": "https://www.aitel-reservation.jp/hinocity-tokyo/",
+          "title": "日野市母子保健予約システムAITEL（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/014/499/zyosanshi.pdf",
+          "title": "「訪問型」の助産師の紹介 （PDF 304.5KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/kosodate/ninshin/care/1014499.html",
+        "title": "日野市産後ケア事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども部　子ども家庭支援センター　母子保健係",
+        "contactPhone": "042-843-3663",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120303",
+        "contactComment": "ファクス：042-586-1855",
+        "zipCode": "1910016",
+        "contactAddress": "東京都日野市神明1丁目13番地の2　子ども包括支援センター2階"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+2+UM15",
+        "organization": "1000020132128",
+        "compartment": "子ども部　子ども家庭支援センター　母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-27",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条の2（産後ケア事業）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "ママパパクラス（両親学級）保健・栄養コース\n保健（2）（産後の話）"
+      },
+      "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、日野市では産科医師、歯科医師、保健師、栄養士、助産師などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+      "description": "令和6年度　ママパパクラス（両親学級）保健・栄養、沐浴コース\nこのページの情報をツイッターでツイートできますこのページの情報をフェイスブックでシェアできますこのページの情報をラインでシェアできますページID1013948　 更新日 令和6年5月31日\n印刷　大きな文字で印刷\n\nママパパクラスについて\nご妊娠おめでとうございます。日野市では妊婦さんおよびご家族を対象に、妊娠・出産・育児についての教室（保健・栄養コース、沐浴コース）を開催しています。\n\nなお、ママパパクラス各コースのお申し込みは、日野市に住民票がある方が対象となっております。日野市に住民票がない方で、参加をご希望の方は、事前に母子保健係にお問い合わせください。\n\n【問い合わせ】子ども家庭支援センター　母子保健係　電話042-843-3663　ファクス042-586-1855\n\n令和6年度ママパパクラスチラシ （PDF 395.5KB）;https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/013/948/mamapapakurasu2024.pdf\n保健・栄養コース\n妊娠期や出産、産後の生活について助産師や保健師、栄養士がお話します。\n\n保健（1）・栄養（妊娠中の話）、保健（2）（産後の話）の2コースあります。\n\n受講順は前後しても構いません。また、どちらかひとつのみの参加でも大丈夫です。\n\n保健（1）・栄養（妊娠中の話）\n会場\n子ども包括支援センター「みらいく」3F多目的室\n\n対象・定員\n30人(おおむね16週～27週の妊婦とその家族)\n\n時間・内容\n妊娠・出産についての講話（保健師・助産師）　午後2時00分～午後3時00分\n\n妊娠中の食生活についての講話（栄養士）　午後3時00分～午後3時30分\n\n※ベビーフードの試食付き\n\n持ち物母子健康手帳、筆記用具、飲み物等費用\n無料\n\n申し込み期日開催日の4日前まで（定員になり次第終了）\n保健（2）（産後の話）\n会場\n子ども包括支援センター「みらいく」3F多目的室\n\n対象・定員\n30人(おおむね16週～27週の妊婦とその家族。）\n\n時間・内容\n産後の生活について講話（保健師）　午後2時00分～午後3時00分\n\n※産後に使えるサービス、赤ちゃんとの生活についてお話します。\n\n体験タイム(妊婦ジャケット、赤ちゃん人形の抱っこ　等)　午後3時00分～午後3時30分\n\n持ち物\n母子健康手帳、筆記用具、飲み物等、お持ちの方は妊娠出産ガイドブックと保湿剤。\n\n※妊娠出産ガイドブックは妊婦面接の際にお渡ししています。お持ちでない方には当日配布いたします。\n\n※保湿剤は赤ちゃんの保湿の目安をお伝えする際に使用します。ご自宅で使用中のものでかまいません。お持ちでない方は、当日会場でお貸しいたします。\n\n費用\n無料\n\n申し込み期日開催日の4日前まで（定員になり次第終了）\n沐浴コース（沐浴体験）\n赤ちゃんのお風呂の入れ方について（時間予約制）\n\n対象・定員\n28組(おおむね16週～27週の妊婦とその家族)\n\n予約時間9時25分～、9時40分～、9時55分～、10時10分～、10時25分～、10時40分～、の全6回のうちどれか\n※申請時、予約時間をお選びください。なお、空き状況によってはご希望に添えない場合もございます。\n\n※妊婦のみ、もしくは夫婦での参加（最大2名まで可とします）\n\n所要時間約60分持ち物\n母子健康手帳、筆記用具、飲み物\n\n会場\n子ども包括支援センター「みらいく」3F多目的室\n\n申し込み期日開催日の3日前まで（定員になり次第終了）\n子ども包括支援センター「みらいく」;https://www.city.hino.lg.jp/shisetsu/shiyakusho/desakli/1026332.htmlf\n申し込み方法　\n予約の流れ　\n新規で予約する場合\n新規でAITELのアカウント登録をする場合は、以下の「新規アカウント登録手続きについて」のリンク先でご確認ください。\n下記リンク先から「日野市母子保健予約システムAITEL」にアクセス\n\n右上の「ログイン」をクリックし、『ログインID』（数字12ケタ）と設定した『パスワード』でログイン\n\n「検索・予約」をクリックし、予約したいコースを選択（”保健・栄養”、”保健　産後の話”、”沐浴”のいずれか）\n質問に回答し、「入力完了」をクリック\n日程の検索画面に切り替わったら、ページ中央部にある「検索する」をクリック\nページ下部に日にちと場所が表示されるため、希望する日にちと場所を選択\n表示される受付時間を選択（”×”と表示されている場合はすでに定員に達しているため予約不可）\n「申し込みに進む」をクリック\n申し込み内容に間違いがないか確認し、「申し込む」をクリックし完了（内容に修正がある場合は「修正する」をクリック）\n※定員になり次第受付を締め切らせていただきます。ご了承ください。\n\n日程を変更する場合\n「予約の確認・変更・キャンセル」をクリック\n予約している事業名をクリック（予約がある事業のみ表示。予約がない場合は”予約済の検診がありません。”と表示されます。）\n「変更する」をクリック\n変更したい日程を検索する\n変更日時を選択すると、変更前の情報と変更後の情報が表示されるため、内容を確認し「申し込みに進む」をクリック\n変更内容の確認画面が表示され、問題なければ「変更する」をクリックし完了\n変更完了のメールが登録したメールアドレスに届く\n日程をキャンセルする場合\n「予約の確認・変更・キャンセル」をクリック\n予約している事業名をクリック（予約がある事業のみ表示。予約がない場合は”予約済の検診がありません。”と表示されます。）\n「キャンセルする」をクリック\nキャンセル内容の確認画面が表示されるため、内容を確認し「はい」をクリックし完了\nキャンセル完了のメールが登録したメールアドレスに届く\n新規アカウント登録手続きについて;https://www.city.hino.lg.jp/kosodate/shien/1025683.html\nママパパクラス AITEL 参加申し込み手順 （PDF 431.3KB）;https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/013/948/mamapapaaitel2024.pdf\n日野市母子保健予約システム　AITEL（外部リンク）;https://www.aitel-reservation.jp/hinocity-tokyo/\n予約時の注意事項\nWebサイトにアクセスしたら、サイトは”ブックマーク”または”お気に入り登録”を必ずお願いします。\n今後、他の母子保健事業の利用にあたり、お子さんのお名前で新規登録をする際のメールアドレスは、すでに登録済みのメールアドレスでもご利用いただけます。\nサイトから届くメールアドレス（hino_boshi@aitel-reservation.jp）が受信できるか事前にお持ちのスマートフォンの設定内容をご確認ください。\n申請で不明な点がありましたら、子ども家庭支援センター母子保健係（042-843-3663）までご連絡ください。\n通信料は利用者様の負担となります。Wi-Fi環境でのご利用を推奨します。\n全体の注意事項\n保健・栄養コースの当日キャンセルの際は子ども家庭支援センター　母子保健係（042-843-3663）まで必ずご連絡ください。なお、沐浴コースは当日キャンセルの連絡不要です。\n体調にご不安のある方、発熱（37.5度以上）や風邪症状のある方は、参加をお控えいただきますようお願いいたします。\n悪天候（大雨・大雪等）の場合も、原則として予定通り教室を実施いたしますが、無理なさらず予約変更をご検討ください。\n子ども包括支援センター「みらいく」専用の駐車場には限りがございます。あらかじめご了承ください。なお、路上駐車等しないようお願いいたします。\n\n令和6年度　日程表\n保健・栄養コース\n\n|コース名|保健(1)・栄養<br>妊娠・出産について|保健(2)<br>産後の生活について|\n|:----|:----|:----|\n|4月|実施しません|実施しません|\n|5月|13日（月曜日）|20日（月曜日）|\n|6月|17日（月曜日）|24日（月曜日）|\n|7月|22日（月曜日）|29日（月曜日）|\n|8月|19日（月曜日）|26日（月曜日）|\n|9月|9日（月曜日）|30日（月曜日）|\n|10月|21日（月曜日）|28日（月曜日）|\n|11月|18日（月曜日）|25日（月曜日）|\n|12月|16日（月曜日）|23日（月曜日）|\n|1月|20日（月曜日）|27日（月曜日）|\n|2月|実施しません|実施しません|\n|3月|17日（月曜日）|24日（月曜日）|\n\n沐浴コース（沐浴体験）\n沐浴コースは出産予定月をご確認ください。（予定月以外でご希望の場合は子ども家庭支援センター母子保健係へご相談ください） \n\n|月|日にち|出産予定月|\n|:----|:----|:----|\n|4月|27日（土曜日）|7月8月9月|\n|5月|12日（日曜日）|8月9月10月|\n|6月|22日（土曜日）|9月10月11月|\n|7月|28日（日曜日）|10月11月12月|\n|8月|24日（土曜日）|11月12月1月|\n|9月|21日（土曜日）|12月1月2月|\n|10月|26日（土曜日）|1月2月3月|\n|11月|24日（日曜日）|2月3月4月|\\|12月|21日（土曜日）|3月4月5月|\n|1月|26日（日曜日）|4月5月6月|\n|2月|22日（土曜日）|5月6月7月|\n|3月|23日（日曜日）|6月7月8月|\nママパパ向けの情報配信について\nお風呂の入れ方や妊娠中の生活やお産について、妊娠中の食事や栄養についての情報をご案内させていただきます。\n\n公益社団法人 東京都助産師会 八南分会（妊娠中の生活やお産について）（外部リンク）;https://hachinan-midwife.com/2020-はちなん　ママ応援プロジェクト/\n妊娠・授乳期の食事;https://www.city.hino.lg.jp/fukushi/kenko/1016810/shokuiku/1007759/1007769.html\n東京都妊娠相談ホットライン（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-hotline.html\n東京助産師会　（外部リンク）;https://www.youtube.com/channel/UCyx2_vJ6qmw8YkA_yc7sRJQ\n赤ちゃん＆子育てインフォ　公益財団法人母子衛生研究会（外部リンク）;https://www.mcfh.or.jp/\n赤ちゃんの入浴（沐浴）の方法　公益財団法人母子衛生研究会（外部リンク）;https://www.youtube.com/watch?v=TCBELVTDFp8\n日野市立図書館 これからお子さんを迎える方へ（外部リンク）;https://www.lib.city.hino.lg.jp/forkids/forpregnancy.html\n妊婦歯科健診について\n歯科健診については、下記ホームページをご確認ください。\n\n妊婦歯科健康診査;https://www.city.hino.lg.jp/kosodate/ninshin/kenshin/1008202.html",
+      "target": {
+        "targetPersons": "妊婦さんおよびご家族\n\nなお、ママパパクラス各コースのお申し込みは、日野市に住民票がある方が対象となっております。日野市に住民票がない方で、参加をご希望の方は、事前に母子保健係にお問い合わせください。\n\n【問い合わせ】子ども家庭支援センター　母子保健係　電話042-843-3663　ファクス042-583-2400\n\n令和6年度ママパパクラスチラシ （PDF 395.5KB）;https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/013/948/mamapapakurasu2024.pdf",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠期や出産、産後の生活について助産師や保健師、栄養士がお話します。",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠期や出産、産後の生活について助産師や保健師、栄養士がお話します。"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "子ども包括支援センター「みらいく」3F多目的室",
+        "implementationAddress": "東京都日野市神明1丁目13番地の2"
+      },
+      "capacity": "30人(おおむね16週～27週の妊婦とその家族。）",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "産後の生活について講話（保健師）　午後2時00分～午後3時00分\n\n※産後に使えるサービス、赤ちゃんとの生活についてお話します。\n\n体験タイム(妊婦ジャケット、赤ちゃん人形の抱っこ　等)　午後3時00分～午後3時30分"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申し込み方法　\n予約の流れ　\n新規で予約する場合\n新規でAITELのアカウント登録をする場合は、以下の「新規アカウント登録手続きについて」のリンク先でご確認ください。\n下記リンク先から「日野市母子保健予約システムAITEL」にアクセス\n\n右上の「ログイン」をクリックし、『ログインID』（数字12ケタ）と設定した『パスワード』でログイン\n\n「検索・予約」をクリックし、予約したいコースを選択（”保健・栄養”、”保健　産後の話”、”沐浴”のいずれか）\n質問に回答し、「入力完了」をクリック\n日程の検索画面に切り替わったら、ページ中央部にある「検索する」をクリック\nページ下部に日にちと場所が表示されるため、希望する日にちと場所を選択\n表示される受付時間を選択（”×”と表示されている場合はすでに定員に達しているため予約不可）\n「申し込みに進む」をクリック\n申し込み内容に間違いがないか確認し、「申し込む」をクリックし完了（内容に修正がある場合は「修正する」をクリック）\n※定員になり次第受付を締め切らせていただきます。ご了承ください。\n\n日程を変更する場合\n「予約の確認・変更・キャンセル」をクリック\n予約している事業名をクリック（予約がある事業のみ表示。予約がない場合は”予約済の検診がありません。”と表示されます。）\n「変更する」をクリック\n変更したい日程を検索する\n変更日時を選択すると、変更前の情報と変更後の情報が表示されるため、内容を確認し「申し込みに進む」をクリック\n変更内容の確認画面が表示され、問題なければ「変更する」をクリックし完了\n変更完了のメールが登録したメールアドレスに届く\n日程をキャンセルする場合\n「予約の確認・変更・キャンセル」をクリック\n予約している事業名をクリック（予約がある事業のみ表示。予約がない場合は”予約済の検診がありません。”と表示されます。）\n「キャンセルする」をクリック\nキャンセル内容の確認画面が表示されるため、内容を確認し「はい」をクリックし完了\nキャンセル完了のメールが登録したメールアドレスに届く\n新規アカウント登録手続きについて;https://www.city.hino.lg.jp/kosodate/shien/1025683.html\nママパパクラス AITEL 参加申し込み手順 （PDF 431.3KB）;https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/013/948/mamapapaaitel2024.pdf\n日野市母子保健予約システム　AITEL（外部リンク）;https://www.aitel-reservation.jp/hinocity-tokyo/\n予約時の注意事項\nWebサイトにアクセスしたら、サイトは”ブックマーク”または”お気に入り登録”を必ずお願いします。\n今後、他の母子保健事業の利用にあたり、お子さんのお名前で新規登録をする際のメールアドレスは、すでに登録済みのメールアドレスでもご利用いただけます。\nサイトから届くメールアドレス（hino_boshi@aitel-reservation.jp）が受信できるか事前にお持ちのスマートフォンの設定内容をご確認ください。\n申請で不明な点がありましたら、子ども家庭支援センター母子保健係（042-843-3663）までご連絡ください。\n通信料は利用者様の負担となります。Wi-Fi環境でのご利用を推奨します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "開催日の4日前まで（定員になり次第終了）"
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳、筆記用具、飲み物等、お持ちの方は妊娠出産ガイドブックと保湿剤。\n\n※妊娠出産ガイドブックは妊婦面接の際にお渡ししています。お持ちでない方には当日配布いたします。\n\n※保湿剤は赤ちゃんの保湿の目安をお伝えする際に使用します。ご自宅で使用中のものでかまいません。お持ちでない方は、当日会場でお貸しいたします。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/013/948/mamapapaaitel2024.pdf",
+          "title": "ママパパクラス AITEL 参加申し込み手順 （PDF 431.3KB）"
+        },
+        {
+          "uri": "https://www.mcfh.or.jp/",
+          "title": "赤ちゃん＆子育てインフォ　公益財団法人母子衛生研究会（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/kosodate/shien/1025683.html",
+          "title": "新規アカウント登録手続きについて"
+        },
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-hotline.html",
+          "title": "東京都妊娠相談ホットライン（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/kosodate/ninshin/kenshin/1008202.html",
+          "title": "妊婦歯科健康診査"
+        },
+        {
+          "uri": "https://www.aitel-reservation.jp/hinocity-tokyo/",
+          "title": "日野市母子保健予約システム　AITEL（外部リンク）"
+        },
+        {
+          "uri": "https://www.youtube.com/watch?v=OOE7pvcP_bg",
+          "title": "赤ちゃんの入浴（沐浴）の方法　公益財団法人母子衛生研究会（外部リンク）"
+        },
+        {
+          "uri": "https://www.lib.city.hino.lg.jp/forkids/forpregnancy.html",
+          "title": "日野市立図書館 これからお子さんを迎える方へ（外部リンク）"
+        },
+        {
+          "uri": "https://www.youtube.com/channel/UCyx2_vJ6qmw8YkA_yc7sRJQ",
+          "title": "東京助産師会　（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/013/948/mamapapakurasu2024.pdf",
+          "title": "令和6年度ママパパクラスチラシ （PDF 395.5KB）"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/shisetsu/shiyakusho/desakli/1026332.html",
+          "title": "子ども包括支援センター「みらいく」"
+        },
+        {
+          "uri": "https://hachinan-midwife.com/2020-はちなん　ママ応援プロジェクト/",
+          "title": "公益社団法人 東京都助産師会 八南分会（妊娠中の生活やお産について）（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/fukushi/kenko/1016810/shokuiku/1007759/1007769.html",
+          "title": "妊娠・授乳期の食事"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/kosodate/ninshin/kenshin/1013948.html",
+        "title": "令和6年度　ママパパクラス（両親学級）保健・栄養、沐浴コース"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.aitel-reservation.jp/hinocity-tokyo/",
+          "title": "日野市母子保健予約システムAITEL"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども部　子ども家庭支援センター　母子保健係",
+        "contactPhone": "042-843-3663",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120303",
+        "contactComment": "ファクス：042-586-1855",
+        "zipCode": "1910016",
+        "contactAddress": "東京都日野市神明1丁目13番地の2　子ども包括支援センター2階"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+2+UM31",
+        "organization": "1000020132128",
+        "compartment": "子ども部　子ども家庭支援センター　母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-31",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "日野市の妊娠・出産に関する相談",
+        "shortName": "東京都「妊娠相談ホットライン」"
+      },
+      "summary": "妊娠や出産に関する困りごとや悩みは、人それぞれです。どんな”ささいな”ことでも、一人で抱え込まずに誰かに相談しましょう。",
+      "description": "妊娠の困りごと・悩みごとの相談\nこのページの情報をツイッターでツイートできますこのページの情報をフェイスブックでシェアできますこのページの情報をラインでシェアできますページID1016180　 更新日 令和5年4月11日\n印刷　大きな文字で印刷\n\n妊娠や出産に関して困っている、悩んでいる・・・どうすればいいの？\n妊娠したかもしれない・・・どうすればいい？\n妊娠したけど何からすればいいかわからない\n妊娠してから体調がすぐれない\n思いがけない、予定外の妊娠で悩んでいるけどどうすればいいの？\n出産したいけど、お金がないのでどうしたらいい？\n産んでも育てていくことが難しい\n妊娠や出産に関する困りごとや悩みは、人それぞれです。どんな”ささいな”ことでも、一人で抱え込まずに誰かに相談しましょう。\n\n日野市にお住まいの方は、まずは子ども家庭支援センター母子保健係までご相談ください。\n\n相談窓口\n（1）日野市子ども家庭支援センター母子保健係\n保健師・助産師などの専門職がおりますので、お気軽にご相談ください。お電話でも相談できます。\n\nまた、オンラインでも相談できます。詳しくは以下のホームページをご覧ください。\n\n電話番号042-843-3663（日野市にお住まいの方は、左記までご相談ください。）受付時間月曜日から金曜日（祝日を除く）午前8時30分から午後5時15分まで\n（2）東京都「妊娠相談ホットライン」\n電話番号\n03-5339-1133\n\n受付時間月曜日から日曜日（元旦はお休み）午前10時から午後10時まで相談方法電話やメール\n東京都妊娠相談ほっとライン（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-hotline.html\n（3）東京都「妊娠したかも相談＠東京」\n受付時間\n24時間いつでも\n\n相談方法ラインのチャットボット形式での相談\n妊娠したかも相談＠東京（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-line-tokyo.html\n（4）「助産師によるオンライン相談」\nコロナ禍で不安を抱える妊産婦を対象に、助産師によるオンライン相談を実施します\n\n実施期間令和5年4月1日（土曜日）から令和6年3月31日（日曜日）まで対象者都内在住の妊産婦の方利用方法事前予約が必要です。専用サイトからご予約ください。予約は、相談希望日の1カ月前から2日前まで可能です。相談方法Web会議システムを利用し、助産師がオンラインでご相談に応じます。開設時間\n月曜日から土曜日 午前9時から午後7時まで、日曜日及び祝日 午前11時から午後4時まで\n\n専用予約サイト（外部リンク）;https://coubic.com/jmat/834046\n東京都助産師によるオンライン相談（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninsanpu-online.html\n（5）NPO法人ピッコラーレ「にんしんSOS東京」\n電話番号03-4285-9870受付時間\n電話　年中無休、午後4時から午前0時（受付は午後11時まで）\nメール　年中無休、24時間受付\n相談方法\n電話・メール\n\nにんしんSOS東京（外部リンク）;https://nsost.jp/?gclid=EAIaIQobChMIqufPuuCc-AIVB8FMAh0bxAYzEAAYASAAEgIJ7PD_BwE",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠の困りごと・悩みごとの相談",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠の困りごと・悩みごとの相談"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "22:00",
+        "condiutilizationConditionstions": "月曜日から日曜日（元旦はお休み）午前10時から午後10時まで"
+      },
+      "specificDate": null,
+      "holiday": "元日",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "電話やメール",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-hotline.html",
+          "title": "東京都妊娠相談ほっとライン（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/kosodate/ninshin/1016172.html",
+        "title": "妊娠の困りごと・悩みごとの相談"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-hotline.html",
+          "title": "東京都妊娠相談ほっとライン"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども部　子ども家庭支援センター　母子保健係",
+        "contactPhone": "042-843-3663",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120303",
+        "contactComment": "ファクス：042-586-1855",
+        "zipCode": "1910016",
+        "contactAddress": "東京都日野市神明1丁目13番地の2　子ども包括支援センター2階"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+2+UM47",
+        "organization": "1000020132128",
+        "compartment": "子ども部　子ども家庭支援センター　母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-11",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "9カ月から10カ月児健診"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として9か月から10か月児乳幼児健康診査を都内委託医療機関にて実施しています。",
+      "description": "子どもの健康診査\nこのページの情報をツイッターでツイートできますこのページの情報をフェイスブックでシェアできますこのページの情報をラインでシェアできますページID1003912　 更新日 令和6年5月23日\n印刷　大きな文字で印刷\n\n感染症対策について、受診される方へのご理解とご協力のお願い\n【感染症対策について】\n\n来所の際には、手洗い、咳エチケット等の感染対策にご協力ください。\n健診対象のお子様や付き添いの方が、発熱（37.5度以上）等の体調不良がある場合には、無理をなさらず、次回以降の受診への変更をご検討ください。また、感染性の疾患で医療機関を受診された（または、受診される）場合は、医師に集団健診について参加の可否を確認していただくようお願いいたします。\n会場では、各箇所に消毒液を設置し適宜換気を行っています。また、人との距離を保てるよう会場を広く取り、密にならないよう受付時間を設定しています。少人数でのご参加にご協力をお願いいたします。なお、ご事情のある方は、事前に母子保健係へお問い合わせください。\n 【問い合わせ】子ども家庭支援センター母子保健係　電話042-843-3663\n\n乳幼児健康診査について\n日野市では、下表にある乳幼児健康診査を無料で行っています。\nお子さまの健康状態を確認する大切な健康診査なので、必ず受けましょう。\n\n|健診名|内容|対象時期|実施場所|備考|\n|:----|:----|:----|:----|:----|\n|3カ月から4カ月児・産婦健康診査|一般健康診査、健康相談、育児等に関する情報提供、親子交流|3カ月から4カ月児・産婦|生活・保健センター|個別に通知します|\n|6カ月から7カ月児健診|一般健康診査|6カ月から7カ月児|都内委託医療機関|3カ月から4カ月児健康診査の個別通知に受診票を同封します|\n|9カ月から10カ月児健診|一般健康診査|9カ月から10カ月児|都内委託医療機関|3カ月から4カ月児健康診査の個別通知に受診票を同封します|\n|1歳6カ月児健康診査|一般健康診査、歯科健康診査、健康相談、育児等に関する情報提供、遊びの広場|1歳6カ月児|生活・保健センター|個別に通知します|\n|3歳児健康診査|一般健康診査、歯科健康診査、尿検査、目の検査、健康相談、育児等に関する情報提供|3歳児|生活・保健センター|個別に通知します|\n6から7カ月児健康診査、9から10カ月児健康診査は日野市内実施医療機関一覧をご覧ください。\n\n日野市内実施医療機関一覧 （PDF 319.7KB）;https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/003/912/iryoukikan202405.pdf\n日野市に転入された方\n日野市に転入された方等で、6から7カ月及び9から10カ月児健康診査受診票をお持ちでない方は、子ども家庭支援センター母子保健係（子ども包括支援センターみらいく2階）で交付の申請ができます。なお、東京都内からの転入の場合は、前住所地で交付を受けた受診票を継続して使用することができます。 \n転入された時期により、3から4カ月児・産婦健康診査、1歳6カ月児健康診査、3歳児健康診査の通知発送が間に合わない場合があります。対象の方でまだ受診されていない場合は、子ども家庭支援センター母子保健係（042-843-3663）へご連絡ください。",
+      "target": {
+        "targetPersons": "9か月から10か月児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 10
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 9
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "9カ月から10カ月児"
+      },
+      "support": {
+        "description": "一般健康診査",
+        "monetarySupport": null,
+        "materiallySupport": "一般健康診査"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "都内委託医療機関;https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/003/912/iryoukikan202405.pdf",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "3カ月から4カ月児健康診査の個別通知に受診票を同封します",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/003/912/iryoukikan202405.pdf",
+          "title": "日野市内実施医療機関一覧 （PDF 319.7KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/kosodate/kenko/kenshin/1003912.html",
+        "title": "子どもの健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども部　子ども家庭支援センター　母子保健係",
+        "contactPhone": "042-843-3663",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120303",
+        "contactComment": "ファクス：042-586-1855",
+        "zipCode": "1910016",
+        "contactAddress": "東京都日野市神明1丁目13番地の2　子ども包括支援センター2階"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+2+UM50",
+        "organization": "1000020132128",
+        "compartment": "子ども部　子ども家庭支援センター　母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-23",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て広場",
+        "shortName": "その他の子育てひろば"
+      },
+      "summary": "市内の子育てひろばは、小学校就学前のお子さんが安心して遊べるスペースがあり、子育て中の親子が気軽に集い、仲間づくりを通して子育てに関する相談や情報交換等を行う機会を提供しています。また、お子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、日野市サイトや市報などでお知らせしています。）",
+      "description": "その他の子育てひろば\n2か所の地域子ども家庭支援センター（万願寺、多摩平）の子育てひろばのほかにも、乳幼児とその保護者の方が立ち寄り、遊んだり、相談したり、情報を得たりできる子育てひろばがあります。それぞれ特色があり、利用形態も異なりますが、身近な交流の場、情報収集の場としてぜひご利用ください。（いずれも祝日・年末年始はお休み）\nそれぞれのひろばの状況に応じた感染拡大予防等の対応をとらせていただくことがあります。事前にそれぞれの施設にお問い合わせのうえご利用ください。\n\n次世代育成型子育てひろば程久保あかいやね;https://www.city.hino.lg.jp/shisetsu/hoiku/kosodate/1005758.html\n次世代育成型子育てひろば平山ぽっかぽか（平山季重ふれあい館内）;https://www.city.hino.lg.jp/shisetsu/hoiku/kosodate/1005759.html\n次世代育成型子育てひろば至誠スマイル;https://www.city.hino.lg.jp/shisetsu/hoiku/kosodate/1005763.html\n子育てひろば　みんなのはらっぱ万願寺;https://www.city.hino.lg.jp/shisetsu/hoiku/kosodate/1005764.html\n子育てひろば　みんなのはらっぱ南平;https://www.city.hino.lg.jp/shisetsu/hoiku/kosodate/1005765.html\n子育てひろば　みんなのはらっぱ豊田;https://www.city.hino.lg.jp/shisetsu/hoiku/kosodate/1019245.html\n駅前ミニ子育て応援施設モグモグ;https://www.city.hino.lg.jp/shisetsu/hoiku/kosodate/1005762.html\n基幹型あさひがおか児童館;https://www.city.hino.lg.jp/shisetsu/hoiku/jidoukan/1005721.html\n基幹型さかえまち児童館;https://www.city.hino.lg.jp/shisetsu/hoiku/jidoukan/1005722.html\n基幹型ひらやま児童館;https://www.city.hino.lg.jp/shisetsu/hoiku/jidoukan/1005723.html",
+      "target": {
+        "targetPersons": "乳幼児とその保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "日野市内在住のおおむね0歳から3歳までのお子さん"
+      },
+      "support": {
+        "description": "乳幼児とその保護者の方が立ち寄り、遊んだり、相談したり、情報を得たりできる子育てひろば",
+        "monetarySupport": null,
+        "materiallySupport": "乳幼児とその保護者の方が立ち寄り、遊んだり、相談したり、情報を得たりできる子育てひろば"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "子ども包括支援センターみらいく,次世代育成型子育てひろば程久保あかいやね;https://www.city.hino.lg.jp/shisetsu/hoiku/kosodate/1005758.html,次世代育成型子育てひろば平山ぽっかぽか（平山季重ふれあい館内）;https://www.city.hino.lg.jp/shisetsu/hoiku/kosodate/1005759.html,次世代育成型子育てひろば至誠スマイル;https://www.city.hino.lg.jp/shisetsu/hoiku/kosodate/1005763.html,子育てひろば　みんなのはらっぱ万願寺;https://www.city.hino.lg.jp/shisetsu/hoiku/kosodate/1005764.html,子育てひろば　みんなのはらっぱ南平;https://www.city.hino.lg.jp/shisetsu/hoiku/kosodate/1005765.html,子育てひろば　みんなのはらっぱ豊田;https://www.city.hino.lg.jp/shisetsu/hoiku/kosodate/1019245.html,駅前ミニ子育て応援施設モグモグ;https://www.city.hino.lg.jp/shisetsu/hoiku/kosodate/1005762.html,基幹型あさひがおか児童館;https://www.city.hino.lg.jp/shisetsu/hoiku/jidoukan/1005721.html,基幹型さかえまち児童館;https://www.city.hino.lg.jp/shisetsu/hoiku/jidoukan/1005722.html,基幹型ひらやま児童館;https://www.city.hino.lg.jp/shisetsu/hoiku/jidoukan/1005723.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "祝日・年末年始はお休み",
+      "utilization": "事前にそれぞれの施設にお問い合わせのうえご利用ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.hino.lg.jp/shisetsu/hoiku/jidoukan/1005723.html",
+          "title": "基幹型ひらやま児童館"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/shisetsu/hoiku/kosodate/1005758.html",
+          "title": "次世代育成型子育てひろば程久保あかいやね"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/shisetsu/hoiku/kosodate/1005763.html",
+          "title": "次世代育成型子育てひろば至誠スマイル"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/shisetsu/hoiku/jidoukan/1005721.html",
+          "title": "基幹型あさひがおか児童館"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/shisetsu/hoiku/kosodate/1005764.html",
+          "title": "子育てひろば　みんなのはらっぱ万願寺"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/shisetsu/hoiku/kosodate/1005765.html",
+          "title": "子育てひろば　みんなのはらっぱ南平"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/shisetsu/hoiku/kosodate/1005759.html",
+          "title": "次世代育成型子育てひろば平山ぽっかぽか（平山季重ふれあい館内）"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/shisetsu/hoiku/jidoukan/1005722.html",
+          "title": "基幹型さかえまち児童館"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/shisetsu/hoiku/kosodate/1005762.html",
+          "title": "駅前ミニ子育て応援施設モグモグ"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/shisetsu/hoiku/kosodate/1019245.html",
+          "title": "子育てひろば　みんなのはらっぱ豊田"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/kosodate/shien/hiroba/1000937.html",
+        "title": "子育てひろばの利用方法について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども部子ども家庭支援センター地域支援係・相談援護係",
+        "contactPhone": "042-506-2151,042-506-2152",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120300",
+        "contactComment": "地域支援係　042-506-2151,相談援護係　042-506-2152",
+        "zipCode": "1910016",
+        "contactAddress": "東京都日野市神明1丁目13番地の2子ども包括支援センター2階"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+3+UM112",
+        "organization": "1000020132128",
+        "compartment": "子ども部子ども家庭支援センター地域支援係・相談援護係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-31",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第6項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産後ケア事業",
+        "shortName": "日野市産後ケア事業　宿泊型"
+      },
+      "summary": "出産を終えた退院後、お母さんと赤ちゃんの生活リズムづくりや、心身の安定を図るため、施設においてショートステイ（宿泊）やデイサービス（日帰り）で、助産師などが母子の心身ケアと育児サポートを行います。",
+      "description": "日野市産後ケア事業\nこのページの情報をツイッターでツイートできますこのページの情報をフェイスブックでシェアできますこのページの情報をラインでシェアできますページID1014499　 更新日 令和6年5月27日\n印刷　大きな文字で印刷\n\n「日野市産後ケア事業」のご案内\n「産後ケア事業」とは？\n日野市では、出産を終え、お家に戻ってからの生活で家族からの支援が受けにくい方や、赤ちゃんのお世話や自分の体のことで悩んでいる方に、助産師のサポートを提供しています。\n「出産後、自宅に帰っても家族などの手伝いがなくて不安」「体調が優れない」「授乳がうまくいかない」など、出産後のサポートが必要なお母さんが、自宅や施設で休息や授乳、育児に関する助産師のケアを受けることができるサービスです。\n\n　利用できる方\n日野市民であり、かつ、産後1年未満（通所型・宿泊型は施設により異なる）のお母さんと赤ちゃんで産後ケアを必要とする方。\n\n※お母さんまたは赤ちゃんが感染性疾患にり患、または感染が強く疑われる場合のほか、医師による医療行為を必要とする場合は利用できないことがあります。\n\n産後ケア内容\nお母さんのケアニーズに合わせて、産後ケアを提供します。\n\nお母さんのケア（健康状態のチェック、乳房ケア、通所型・宿泊型の食事の提供など）\n赤ちゃんのケア（体重・健康状態のチェックなど）\n育児の相談 （授乳、沐浴、スキンケアなどの助言）\n育児サポート （休息、心身のケアなど）\n　利用料金・回数など\n訪問型・通所型・宿泊型いずれもご利用いただけます。\n\n産後ケア内容\n|種類|訪問型|通所型|宿泊型|\n|:----|:----|:----|:----|\n|内容|助産師の訪問によりケアを受けられます|病院・助産院で日帰りのケアを受けられます|病院・助産院に宿泊しケアを受けられます|\n|利用期間|産後1年未満| 産後4カ月未満（永井産婦人科病院）<br>産後7カ月未満（かなざわ助産院）|産後30日未満（永井産婦人科病院）※1<br>産後1カ月未満（日野市立病院・いわさレディースクリニック）※2<br>産後4カ月未満（かなざわ助産院）|\n|利用料金|1回　1,500円|1回　3,000円|1泊2日　6,000円|\n|利用時間|2時間以内<br>（午前9時～午後5時）|6時間以内<br>（午前10時～午後4時）|施設が指定する時間|\n|実施場所|ご自宅|かなざわ助産院（日野市）<br>永井産婦人科病院（立川市）|日野市立病院<br>かなざわ助産院（日野市）<br>永井産婦人科病院（立川市）<br>いわさレディースクリニック（八王子市）|\n|利用回数|原則として「通所型」と合わせて7回まで<br>（1日1回）|原則として「訪問型」と合わせて7回まで<br>（1日1回）|1泊2日を3回まで（連泊可）|\n|利用可能日|月曜日から金曜日<br>（年末年始・祝日を除く）|施設が指定する日|施設が指定する日|\n\n各病院、助産院については、感染症や空き部屋の状況等によって予約日程のご希望に添えないことがございます。ご了承ください。\n住民税非課税世帯・生活保護世帯・ひとり親世帯は自己負担額が減免されます。\n多胎児の場合、通所型・宿泊型をご利用時2人目からの利用料金は公費で負担します。\n※1　永井産婦人科病院での、出産のご入院から継続して利用するプラン（ダイレクトプラン）はご利用できません。詳しくは病院ホームページをご確認下さい。\n\n※2　日野市立病院、いわさレディースクリニックは自院で出産された方のみのご利用になります。\n\n「訪問型」の助産師の紹介 （PDF 304.5KB）;https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/014/499/zyosanshi.pdf\n「産後ケア事業」の利用方法\n申請について\n申請方法\n新規でAITELのアカウント登録をする場合は、以下の「新規アカウント登録手続きについて」のリンク先でご確認ください。\n下記リンク先から「日野市母子保健予約システムAITEL」にアクセス\n右上の「ログイン」をクリックし、『ログインID』（数字12ケタ）と設定した『パスワード』でログイン\n「Web問診・アンケート・届出」をクリックし、「産後ケア申請」をクリック\n設問に回答し、”回答内容の確認”画面で入力内容に間違いがなければ「登録する」をクリックし申請完了\n※別途、利用料免除証明書（生活保護受給証明書、非課税証明書、母子家庭の出産に伴う産後ケア事業利用証明書）を提出する方は子ども家庭支援センター母子保健係に持参、もしくは郵送\n\n新規アカウント登録手続きについて;https://www.city.hino.lg.jp/kosodate/shien/1025683.html\n日野市母子保健予約システムAITEL（外部リンク）;https://www.aitel-reservation.jp/hinocity-tokyo/\n申請時の注意事項\n申請後、承認されるまで1週間程度かかります。早めに申請してください。\nWebサイトにアクセスしたら、サイトは”ブックマーク”または”お気に入り登録”を必ずお願いします。\nサイトから届くメールアドレス（hino_boshi@aitel-reservation.jp）が受信できるか事前にお持ちのスマートフォンの設定内容をご確認ください。\n申請で不明な点がありましたら、子ども家庭支援センター母子保健係（042-843-3663）までご連絡ください。\n通信料は利用者様の負担となります。Wi-Fi環境でのご利用を推奨します。\n利用の決定\n利用（予約）方法\n申請内容を確認したのち、「利用承認通知書」をご自宅に郵送\n利用承認通知書に同封の資料を参考に、希望する施設または助産師に直接電話で予約\n※利用期間と回数は「利用承認通知書」に書かれています。必ずご確認をお願いします。\n\n産後ケア当日の手続き\n利用日の前日に、利用予定施設または助産師から確認の連絡\n産後ケアの利用\n利用料金を利用ごとに施設または助産師に直接支払い、領収書を受け取る\n施設または助産師から「利用承認通知書」に事業者印をもらう\n※訪問型利用の場合、ケア終了後「産後ケア事業利用確認書」に署名をしてください。\n\n※通所型、宿泊型を利用する場合は、施設から指定された持ち物のほか「利用承認通知書」を必ずお持ちください。\n\n※無断キャンセルはご遠慮ください。当日、キャンセルされた場合は1回(1泊)利用したものとみなすことがあります。\n\nお問い合わせ\n日野市子ども包括支援センターみらいく2階 子ども家庭支援センター母子保健係 \n※市役所本庁舎とは、別の建物になります。\n日野市神明1-13-2\n\n施設案内：子ども包括支援センター　みらいく;https://www.city.hino.lg.jp/shisetsu/shiyakusho/desakli/1026332.html\nイラスト：ひのった、こべりー、うんちゃん",
+      "target": {
+        "targetPersons": "日野市民であり、かつ、産後1年未満（通所型・宿泊型は施設により異なる）のお母さんと赤ちゃんで産後ケアを必要とする方。\n\n※お母さんまたは赤ちゃんが感染性疾患にり患、または感染が強く疑われる場合のほか、医師による医療行為を必要とする場合は利用できないことがあります。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "産後30日未満（永井産婦人科病院）※1\n産後1カ月未満（日野市立病院・いわさレディースクリニック）※2\n産後4カ月未満（かなざわ助産院）\n\n※1　永井産婦人科病院での、出産のご入院から継続して利用するプラン（ダイレクトプラン）はご利用できません。詳しくは病院ホームページをご確認下さい。\n\n※2　日野市立病院、いわさレディースクリニックは自院で出産された方のみのご利用になります。"
+      },
+      "support": {
+        "description": "病院・助産院に宿泊しケアを受けられます",
+        "monetarySupport": null,
+        "materiallySupport": "病院・助産院に宿泊しケアを受けられます"
+      },
+      "cost": "6000",
+      "costConditions": "1泊2日　6,000円",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "日野市立病院\nかなざわ助産院（日野市）\n永井産婦人科病院（立川市）\nいわさレディースクリニック（八王子市）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "施設が指定する時間"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申請について\n申請方法\n新規でAITELのアカウント登録をする場合は、以下の「新規アカウント登録手続きについて」のリンク先でご確認ください。\n下記リンク先から「日野市母子保健予約システムAITEL」にアクセス\n右上の「ログイン」をクリックし、『ログインID』（数字12ケタ）と設定した『パスワード』でログイン\n「Web問診・アンケート・届出」をクリックし、「産後ケア申請」をクリック\n設問に回答し、”回答内容の確認”画面で入力内容に間違いがなければ「登録する」をクリックし申請完了\n※別途、利用料免除証明書（生活保護受給証明書、非課税証明書、母子家庭の出産に伴う産後ケア事業利用証明書）を提出する方は子ども家庭支援センター母子保健係に持参、もしくは郵送\n\n新規アカウント登録手続きについて;https://www.city.hino.lg.jp/kosodate/shien/1025683.html\n日野市母子保健予約システムAITEL（外部リンク）;https://www.aitel-reservation.jp/hinocity-tokyo/\n　申請時の注意事項\n申請後、承認されるまで1週間程度かかります。早めに申請してください。\nWebサイトにアクセスしたら、サイトは”ブックマーク”または”お気に入り登録”を必ずお願いします。\nサイトから届くメールアドレス（hino_boshi@aitel-reservation.jp）が受信できるか事前にお持ちのスマートフォンの設定内容をご確認ください。\n申請で不明な点がありましたら、子ども家庭支援センター母子保健係（042-843-3663）までご連絡ください。\n通信料は利用者様の負担となります。Wi-Fi環境でのご利用を推奨します。\n利用の決定\n利用（予約）方法\n申請内容を確認したのち、「利用承認通知書」をご自宅に郵送\n利用承認通知書に同封の資料を参考に、希望する施設または助産師に直接電話で予約\n※利用期間と回数は「利用承認通知書」に書かれています。必ずご確認をお願いします。\n\n産後ケア当日の手続き\n利用日の前日に、利用予定施設または助産師から確認の連絡\n産後ケアの利用\n利用料金を利用ごとに施設または助産師に直接支払い、領収書を受け取る\n施設または助産師から「利用承認通知書」に事業者印をもらう\n※訪問型利用の場合、ケア終了後「産後ケア事業利用確認書」に署名をしてください。\n\n※通所型、宿泊型を利用する場合は、施設から指定された持ち物のほか「利用承認通知書」を必ずお持ちください。\n\n※無断キャンセルはご遠慮ください。当日、キャンセルされた場合は1回(1泊)利用したものとみなすことがあります。\n\nお問い合わせ\n日野市子ども包括支援センターみらいく2階 子ども家庭支援センター母子保健係 \n※市役所本庁舎とは、別の建物になります。\n日野市神明1-13-2\n\n施設案内：子ども包括支援センター　みらいく;https://www.city.hino.lg.jp/shisetsu/shiyakusho/desakli/1026332.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.hino.lg.jp/shisetsu/shiyakusho/desakli/1026332.html",
+          "title": "施設案内：子ども包括支援センター　みらいく"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/kosodate/shien/1025683.html",
+          "title": "新規アカウント登録手続きについて"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/014/499/zyosanshi.pdf",
+          "title": "「訪問型」の助産師の紹介 （PDF 304.5KB）"
+        },
+        {
+          "uri": "https://www.aitel-reservation.jp/hinocity-tokyo/",
+          "title": "日野市母子保健予約システムAITEL（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/kosodate/ninshin/care/1014499.html",
+        "title": "日野市産後ケア事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども部　子ども家庭支援センター　母子保健係",
+        "contactPhone": "042-843-3663",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120303",
+        "contactComment": "ファクス：042-586-1855",
+        "zipCode": "1910016",
+        "contactAddress": "東京都日野市神明1丁目13番地の2　子ども包括支援センター2階"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+3+UM15",
+        "organization": "1000020132128",
+        "compartment": "子ども部　子ども家庭支援センター　母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-27",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条の2（産後ケア事業）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "ママパパクラス（両親学級）沐浴コース（沐浴体験）"
+      },
+      "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、日野市では産科医師、歯科医師、保健師、栄養士、助産師などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+      "description": "令和6年度　ママパパクラス（両親学級）保健・栄養、沐浴コース\nこのページの情報をツイッターでツイートできますこのページの情報をフェイスブックでシェアできますこのページの情報をラインでシェアできますページID1013948　 更新日 令和6年5月31日\n印刷　大きな文字で印刷\n\nママパパクラスについて\nご妊娠おめでとうございます。日野市では妊婦さんおよびご家族を対象に、妊娠・出産・育児についての教室（保健・栄養コース、沐浴コース）を開催しています。\n\nなお、ママパパクラス各コースのお申し込みは、日野市に住民票がある方が対象となっております。日野市に住民票がない方で、参加をご希望の方は、事前に母子保健係にお問い合わせください。\n\n【問い合わせ】子ども家庭支援センター　母子保健係　電話042-843-3663　ファクス042-586-1855\n\n令和6年度ママパパクラスチラシ （PDF 395.5KB）;https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/013/948/mamapapakurasu2024.pdf\n保健・栄養コース\n妊娠期や出産、産後の生活について助産師や保健師、栄養士がお話します。\n\n保健（1）・栄養（妊娠中の話）、保健（2）（産後の話）の2コースあります。\n\n受講順は前後しても構いません。また、どちらかひとつのみの参加でも大丈夫です。\n\n保健（1）・栄養（妊娠中の話）\n会場\n子ども包括支援センター「みらいく」3F多目的室\n\n対象・定員\n30人(おおむね16週～27週の妊婦とその家族)\n\n時間・内容\n妊娠・出産についての講話（保健師・助産師）　午後2時00分～午後3時00分\n\n妊娠中の食生活についての講話（栄養士）　午後3時00分～午後3時30分\n\n※ベビーフードの試食付き\n\n持ち物母子健康手帳、筆記用具、飲み物等費用\n無料\n\n申し込み期日開催日の4日前まで（定員になり次第終了）\n保健（2）（産後の話）\n会場\n子ども包括支援センター「みらいく」3F多目的室\n\n対象・定員\n30人(おおむね16週～27週の妊婦とその家族。）\n\n時間・内容\n産後の生活について講話（保健師）　午後2時00分～午後3時00分\n\n※産後に使えるサービス、赤ちゃんとの生活についてお話します。\n\n体験タイム(妊婦ジャケット、赤ちゃん人形の抱っこ　等)　午後3時00分～午後3時30分\n\n持ち物\n母子健康手帳、筆記用具、飲み物等、お持ちの方は妊娠出産ガイドブックと保湿剤。\n\n※妊娠出産ガイドブックは妊婦面接の際にお渡ししています。お持ちでない方には当日配布いたします。\n\n※保湿剤は赤ちゃんの保湿の目安をお伝えする際に使用します。ご自宅で使用中のものでかまいません。お持ちでない方は、当日会場でお貸しいたします。\n\n費用\n無料\n\n申し込み期日開催日の4日前まで（定員になり次第終了）\n沐浴コース（沐浴体験）\n赤ちゃんのお風呂の入れ方について（時間予約制）\n\n対象・定員\n28組(おおむね16週～27週の妊婦とその家族)\n\n予約時間9時25分～、9時40分～、9時55分～、10時10分～、10時25分～、10時40分～、の全6回のうちどれか\n※申請時、予約時間をお選びください。なお、空き状況によってはご希望に添えない場合もございます。\n\n※妊婦のみ、もしくは夫婦での参加（最大2名まで可とします）\n\n所要時間約60分持ち物\n母子健康手帳、筆記用具、飲み物\n\n会場\n子ども包括支援センター「みらいく」3F多目的室\n\n申し込み期日開催日の3日前まで（定員になり次第終了）\n子ども包括支援センター「みらいく」;https://www.city.hino.lg.jp/shisetsu/shiyakusho/desakli/1026332.htmlf\n申し込み方法　\n予約の流れ　\n新規で予約する場合\n新規でAITELのアカウント登録をする場合は、以下の「新規アカウント登録手続きについて」のリンク先でご確認ください。\n下記リンク先から「日野市母子保健予約システムAITEL」にアクセス\n\n右上の「ログイン」をクリックし、『ログインID』（数字12ケタ）と設定した『パスワード』でログイン\n\n「検索・予約」をクリックし、予約したいコースを選択（”保健・栄養”、”保健　産後の話”、”沐浴”のいずれか）\n質問に回答し、「入力完了」をクリック\n日程の検索画面に切り替わったら、ページ中央部にある「検索する」をクリック\nページ下部に日にちと場所が表示されるため、希望する日にちと場所を選択\n表示される受付時間を選択（”×”と表示されている場合はすでに定員に達しているため予約不可）\n「申し込みに進む」をクリック\n申し込み内容に間違いがないか確認し、「申し込む」をクリックし完了（内容に修正がある場合は「修正する」をクリック）\n※定員になり次第受付を締め切らせていただきます。ご了承ください。\n\n日程を変更する場合\n「予約の確認・変更・キャンセル」をクリック\n予約している事業名をクリック（予約がある事業のみ表示。予約がない場合は”予約済の検診がありません。”と表示されます。）\n「変更する」をクリック\n変更したい日程を検索する\n変更日時を選択すると、変更前の情報と変更後の情報が表示されるため、内容を確認し「申し込みに進む」をクリック\n変更内容の確認画面が表示され、問題なければ「変更する」をクリックし完了\n変更完了のメールが登録したメールアドレスに届く\n日程をキャンセルする場合\n「予約の確認・変更・キャンセル」をクリック\n予約している事業名をクリック（予約がある事業のみ表示。予約がない場合は”予約済の検診がありません。”と表示されます。）\n「キャンセルする」をクリック\nキャンセル内容の確認画面が表示されるため、内容を確認し「はい」をクリックし完了\nキャンセル完了のメールが登録したメールアドレスに届く\n新規アカウント登録手続きについて;https://www.city.hino.lg.jp/kosodate/shien/1025683.html\nママパパクラス AITEL 参加申し込み手順 （PDF 431.3KB）;https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/013/948/mamapapaaitel2024.pdf\n日野市母子保健予約システム　AITEL（外部リンク）;https://www.aitel-reservation.jp/hinocity-tokyo/\n予約時の注意事項\nWebサイトにアクセスしたら、サイトは”ブックマーク”または”お気に入り登録”を必ずお願いします。\n今後、他の母子保健事業の利用にあたり、お子さんのお名前で新規登録をする際のメールアドレスは、すでに登録済みのメールアドレスでもご利用いただけます。\nサイトから届くメールアドレス（hino_boshi@aitel-reservation.jp）が受信できるか事前にお持ちのスマートフォンの設定内容をご確認ください。\n申請で不明な点がありましたら、子ども家庭支援センター母子保健係（042-843-3663）までご連絡ください。\n通信料は利用者様の負担となります。Wi-Fi環境でのご利用を推奨します。\n全体の注意事項\n保健・栄養コースの当日キャンセルの際は子ども家庭支援センター　母子保健係（042-843-3663）まで必ずご連絡ください。なお、沐浴コースは当日キャンセルの連絡不要です。\n体調にご不安のある方、発熱（37.5度以上）や風邪症状のある方は、参加をお控えいただきますようお願いいたします。\n悪天候（大雨・大雪等）の場合も、原則として予定通り教室を実施いたしますが、無理なさらず予約変更をご検討ください。\n子ども包括支援センター「みらいく」専用の駐車場には限りがございます。あらかじめご了承ください。なお、路上駐車等しないようお願いいたします。\n\n令和6年度　日程表\n保健・栄養コース\n\n|コース名|保健(1)・栄養<br>妊娠・出産について|保健(2)<br>産後の生活について|\n|:----|:----|:----|\n|4月|実施しません|実施しません|\n|5月|13日（月曜日）|20日（月曜日）|\n|6月|17日（月曜日）|24日（月曜日）|\n|7月|22日（月曜日）|29日（月曜日）|\n|8月|19日（月曜日）|26日（月曜日）|\n|9月|9日（月曜日）|30日（月曜日）|\n|10月|21日（月曜日）|28日（月曜日）|\n|11月|18日（月曜日）|25日（月曜日）|\n|12月|16日（月曜日）|23日（月曜日）|\n|1月|20日（月曜日）|27日（月曜日）|\n|2月|実施しません|実施しません|\n|3月|17日（月曜日）|24日（月曜日）|\n\n沐浴コース（沐浴体験）\n沐浴コースは出産予定月をご確認ください。（予定月以外でご希望の場合は子ども家庭支援センター母子保健係へご相談ください） \n\n|月|日にち|出産予定月|\n|:----|:----|:----|\n|4月|27日（土曜日）|7月8月9月|\n|5月|12日（日曜日）|8月9月10月|\n|6月|22日（土曜日）|9月10月11月|\n|7月|28日（日曜日）|10月11月12月|\n|8月|24日（土曜日）|11月12月1月|\n|9月|21日（土曜日）|12月1月2月|\n|10月|26日（土曜日）|1月2月3月|\n|11月|24日（日曜日）|2月3月4月|\\|12月|21日（土曜日）|3月4月5月|\n|1月|26日（日曜日）|4月5月6月|\n|2月|22日（土曜日）|5月6月7月|\n|3月|23日（日曜日）|6月7月8月|\nママパパ向けの情報配信について\nお風呂の入れ方や妊娠中の生活やお産について、妊娠中の食事や栄養についての情報をご案内させていただきます。\n\n公益社団法人 東京都助産師会 八南分会（妊娠中の生活やお産について）（外部リンク）;https://hachinan-midwife.com/2020-はちなん　ママ応援プロジェクト/\n妊娠・授乳期の食事;https://www.city.hino.lg.jp/fukushi/kenko/1016810/shokuiku/1007759/1007769.html\n東京都妊娠相談ホットライン（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-hotline.html\n東京助産師会　（外部リンク）;https://www.youtube.com/channel/UCyx2_vJ6qmw8YkA_yc7sRJQ\n赤ちゃん＆子育てインフォ　公益財団法人母子衛生研究会（外部リンク）;https://www.mcfh.or.jp/\n赤ちゃんの入浴（沐浴）の方法　公益財団法人母子衛生研究会（外部リンク）;https://www.youtube.com/watch?v=TCBELVTDFp8\n日野市立図書館 これからお子さんを迎える方へ（外部リンク）;https://www.lib.city.hino.lg.jp/forkids/forpregnancy.html\n妊婦歯科健診について\n歯科健診については、下記ホームページをご確認ください。\n\n妊婦歯科健康診査;https://www.city.hino.lg.jp/kosodate/ninshin/kenshin/1008202.html",
+      "target": {
+        "targetPersons": "妊婦さんおよびご家族\n\nなお、ママパパクラス各コースのお申し込みは、日野市に住民票がある方が対象となっております。日野市に住民票がない方で、参加をご希望の方は、事前に母子保健係にお問い合わせください。\n\n【問い合わせ】子ども家庭支援センター　母子保健係　電話042-843-3663　ファクス042-583-2400\n\n令和6年度ママパパクラスチラシ （PDF 395.5KB）;https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/013/948/mamapapakurasu2024.pdf",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "赤ちゃんのお風呂の入れ方について（時間予約制）",
+        "monetarySupport": null,
+        "materiallySupport": "赤ちゃんのお風呂の入れ方について（時間予約制）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "子ども包括支援センター「みらいく」3F多目的室",
+        "implementationAddress": "東京都日野市神明1丁目13番地の2"
+      },
+      "capacity": "28組(おおむね16週～27週の妊婦とその家族)",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "予約時間9時25分～、9時40分～、9時55分～、10時10分～、10時25分～、10時40分～、の全6回のうちどれか\n※申請時、予約時間をお選びください。なお、空き状況によってはご希望に添えない場合もございます。\n\n※妊婦のみ、もしくは夫婦での参加（最大2名まで可とします）\n\n所要時間約60分"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申し込み方法　\n予約の流れ　\n新規で予約する場合\n新規でAITELのアカウント登録をする場合は、以下の「新規アカウント登録手続きについて」のリンク先でご確認ください。\n下記リンク先から「日野市母子保健予約システムAITEL」にアクセス\n\n右上の「ログイン」をクリックし、『ログインID』（数字12ケタ）と設定した『パスワード』でログイン\n\n「検索・予約」をクリックし、予約したいコースを選択（”保健・栄養”、”保健　産後の話”、”沐浴”のいずれか）\n質問に回答し、「入力完了」をクリック\n日程の検索画面に切り替わったら、ページ中央部にある「検索する」をクリック\nページ下部に日にちと場所が表示されるため、希望する日にちと場所を選択\n表示される受付時間を選択（”×”と表示されている場合はすでに定員に達しているため予約不可）\n「申し込みに進む」をクリック\n申し込み内容に間違いがないか確認し、「申し込む」をクリックし完了（内容に修正がある場合は「修正する」をクリック）\n※定員になり次第受付を締め切らせていただきます。ご了承ください。\n\n日程を変更する場合\n「予約の確認・変更・キャンセル」をクリック\n予約している事業名をクリック（予約がある事業のみ表示。予約がない場合は”予約済の検診がありません。”と表示されます。）\n「変更する」をクリック\n変更したい日程を検索する\n変更日時を選択すると、変更前の情報と変更後の情報が表示されるため、内容を確認し「申し込みに進む」をクリック\n変更内容の確認画面が表示され、問題なければ「変更する」をクリックし完了\n変更完了のメールが登録したメールアドレスに届く\n日程をキャンセルする場合\n「予約の確認・変更・キャンセル」をクリック\n予約している事業名をクリック（予約がある事業のみ表示。予約がない場合は”予約済の検診がありません。”と表示されます。）\n「キャンセルする」をクリック\nキャンセル内容の確認画面が表示されるため、内容を確認し「はい」をクリックし完了\nキャンセル完了のメールが登録したメールアドレスに届く\n新規アカウント登録手続きについて;https://www.city.hino.lg.jp/kosodate/shien/1025683.html\nママパパクラス AITEL 参加申し込み手順 （PDF 431.3KB）;https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/013/948/mamapapaaitel2024.pdf\n日野市母子保健予約システム　AITEL（外部リンク）;https://www.aitel-reservation.jp/hinocity-tokyo/\n予約時の注意事項\nWebサイトにアクセスしたら、サイトは”ブックマーク”または”お気に入り登録”を必ずお願いします。\n今後、他の母子保健事業の利用にあたり、お子さんのお名前で新規登録をする際のメールアドレスは、すでに登録済みのメールアドレスでもご利用いただけます。\nサイトから届くメールアドレス（hino_boshi@aitel-reservation.jp）が受信できるか事前にお持ちのスマートフォンの設定内容をご確認ください。\n申請で不明な点がありましたら、子ども家庭支援センター母子保健係（042-843-3663）までご連絡ください。\n通信料は利用者様の負担となります。Wi-Fi環境でのご利用を推奨します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "開催日の3日前まで（定員になり次第終了）"
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳、筆記用具、飲み物",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.aitel-reservation.jp/hinocity-tokyo/",
+          "title": "日野市母子保健予約システム　AITEL（外部リンク）"
+        },
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-hotline.html",
+          "title": "東京都妊娠相談ホットライン（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/kosodate/shien/1025683.html",
+          "title": "新規アカウント登録手続きについて"
+        },
+        {
+          "uri": "https://hachinan-midwife.com/2020-はちなん　ママ応援プロジェクト/",
+          "title": "公益社団法人 東京都助産師会 八南分会（妊娠中の生活やお産について）（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/kosodate/ninshin/kenshin/1008202.html",
+          "title": "妊婦歯科健康診査"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/013/948/mamapapaaitel2024.pdf",
+          "title": "ママパパクラス AITEL 参加申し込み手順 （PDF 431.3KB）"
+        },
+        {
+          "uri": "https://www.mcfh.or.jp/",
+          "title": "赤ちゃん＆子育てインフォ　公益財団法人母子衛生研究会（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/shisetsu/shiyakusho/desakli/1026332.html",
+          "title": "子ども包括支援センター「みらいく」"
+        },
+        {
+          "uri": "https://www.youtube.com/watch?v=OOE7pvcP_bg",
+          "title": "赤ちゃんの入浴（沐浴）の方法　公益財団法人母子衛生研究会（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/fukushi/kenko/1016810/shokuiku/1007759/1007769.html",
+          "title": "妊娠・授乳期の食事"
+        },
+        {
+          "uri": "https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/013/948/mamapapakurasu2024.pdf",
+          "title": "令和6年度ママパパクラスチラシ （PDF 395.5KB）"
+        },
+        {
+          "uri": "https://www.youtube.com/channel/UCyx2_vJ6qmw8YkA_yc7sRJQ",
+          "title": "東京助産師会　（外部リンク）"
+        },
+        {
+          "uri": "https://www.lib.city.hino.lg.jp/forkids/forpregnancy.html",
+          "title": "日野市立図書館 これからお子さんを迎える方へ（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/kosodate/ninshin/kenshin/1013948.html",
+        "title": "令和6年度　ママパパクラス（両親学級）保健・栄養、沐浴コース"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.aitel-reservation.jp/hinocity-tokyo/",
+          "title": "日野市母子保健予約システムAITEL"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども部　子ども家庭支援センター　母子保健係",
+        "contactPhone": "042-843-3663",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120303",
+        "contactComment": "ファクス：042-586-1855",
+        "zipCode": "1910016",
+        "contactAddress": "東京都日野市神明1丁目13番地の2　子ども包括支援センター2階"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+3+UM31",
+        "organization": "1000020132128",
+        "compartment": "子ども部　子ども家庭支援センター　母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-31",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "日野市の妊娠・出産に関する相談",
+        "shortName": "東京都「妊娠したかも相談＠東京」"
+      },
+      "summary": "妊娠や出産に関する困りごとや悩みは、人それぞれです。どんな”ささいな”ことでも、一人で抱え込まずに誰かに相談しましょう。",
+      "description": "妊娠の困りごと・悩みごとの相談\nこのページの情報をツイッターでツイートできますこのページの情報をフェイスブックでシェアできますこのページの情報をラインでシェアできますページID1016180　 更新日 令和5年4月11日\n印刷　大きな文字で印刷\n\n妊娠や出産に関して困っている、悩んでいる・・・どうすればいいの？\n妊娠したかもしれない・・・どうすればいい？\n妊娠したけど何からすればいいかわからない\n妊娠してから体調がすぐれない\n思いがけない、予定外の妊娠で悩んでいるけどどうすればいいの？\n出産したいけど、お金がないのでどうしたらいい？\n産んでも育てていくことが難しい\n妊娠や出産に関する困りごとや悩みは、人それぞれです。どんな”ささいな”ことでも、一人で抱え込まずに誰かに相談しましょう。\n\n日野市にお住まいの方は、まずは子ども家庭支援センター母子保健係までご相談ください。\n\n相談窓口\n（1）日野市子ども家庭支援センター母子保健係\n保健師・助産師などの専門職がおりますので、お気軽にご相談ください。お電話でも相談できます。\n\nまた、オンラインでも相談できます。詳しくは以下のホームページをご覧ください。\n\n電話番号042-843-3663（日野市にお住まいの方は、左記までご相談ください。）受付時間月曜日から金曜日（祝日を除く）午前8時30分から午後5時15分まで\n（2）東京都「妊娠相談ホットライン」\n電話番号\n03-5339-1133\n\n受付時間月曜日から日曜日（元旦はお休み）午前10時から午後10時まで相談方法電話やメール\n東京都妊娠相談ほっとライン（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-hotline.html\n（3）東京都「妊娠したかも相談＠東京」\n受付時間\n24時間いつでも\n\n相談方法ラインのチャットボット形式での相談\n妊娠したかも相談＠東京（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-line-tokyo.html\n（4）「助産師によるオンライン相談」\nコロナ禍で不安を抱える妊産婦を対象に、助産師によるオンライン相談を実施します\n\n実施期間令和5年4月1日（土曜日）から令和6年3月31日（日曜日）まで対象者都内在住の妊産婦の方利用方法事前予約が必要です。専用サイトからご予約ください。予約は、相談希望日の1カ月前から2日前まで可能です。相談方法Web会議システムを利用し、助産師がオンラインでご相談に応じます。開設時間\n月曜日から土曜日 午前9時から午後7時まで、日曜日及び祝日 午前11時から午後4時まで\n\n専用予約サイト（外部リンク）;https://coubic.com/jmat/834046\n東京都助産師によるオンライン相談（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninsanpu-online.html\n（5）NPO法人ピッコラーレ「にんしんSOS東京」\n電話番号03-4285-9870受付時間\n電話　年中無休、午後4時から午前0時（受付は午後11時まで）\nメール　年中無休、24時間受付\n相談方法\n電話・メール\n\nにんしんSOS東京（外部リンク）;https://nsost.jp/?gclid=EAIaIQobChMIqufPuuCc-AIVB8FMAh0bxAYzEAAYASAAEgIJ7PD_BwE",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠の困りごと・悩みごとの相談",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠の困りごと・悩みごとの相談"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "24時間いつでも"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "ラインのチャットボット形式での相談",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-line-tokyo.html",
+          "title": "妊娠したかも相談＠東京（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/kosodate/ninshin/1016172.html",
+        "title": "妊娠の困りごと・悩みごとの相談"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-line-tokyo.html",
+          "title": "妊娠したかも相談＠東京"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども部　子ども家庭支援センター　母子保健係",
+        "contactPhone": "042-843-3663",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120303",
+        "contactComment": "ファクス：042-586-1855",
+        "zipCode": "1910016",
+        "contactAddress": "東京都日野市神明1丁目13番地の2　子ども包括支援センター2階"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+3+UM47",
+        "organization": "1000020132128",
+        "compartment": "子ども部　子ども家庭支援センター　母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-11",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "日野市の妊娠・出産に関する相談",
+        "shortName": "「助産師によるオンライン相談」"
+      },
+      "summary": "妊娠や出産に関する困りごとや悩みは、人それぞれです。どんな”ささいな”ことでも、一人で抱え込まずに誰かに相談しましょう。",
+      "description": "妊娠の困りごと・悩みごとの相談\nこのページの情報をツイッターでツイートできますこのページの情報をフェイスブックでシェアできますこのページの情報をラインでシェアできますページID1016180　 更新日 令和5年4月11日\n印刷　大きな文字で印刷\n\n妊娠や出産に関して困っている、悩んでいる・・・どうすればいいの？\n妊娠したかもしれない・・・どうすればいい？\n妊娠したけど何からすればいいかわからない\n妊娠してから体調がすぐれない\n思いがけない、予定外の妊娠で悩んでいるけどどうすればいいの？\n出産したいけど、お金がないのでどうしたらいい？\n産んでも育てていくことが難しい\n妊娠や出産に関する困りごとや悩みは、人それぞれです。どんな”ささいな”ことでも、一人で抱え込まずに誰かに相談しましょう。\n\n日野市にお住まいの方は、まずは子ども家庭支援センター母子保健係までご相談ください。\n\n相談窓口\n（1）日野市子ども家庭支援センター母子保健係\n保健師・助産師などの専門職がおりますので、お気軽にご相談ください。お電話でも相談できます。\n\nまた、オンラインでも相談できます。詳しくは以下のホームページをご覧ください。\n\n電話番号042-843-3663（日野市にお住まいの方は、左記までご相談ください。）受付時間月曜日から金曜日（祝日を除く）午前8時30分から午後5時15分まで\n（2）東京都「妊娠相談ホットライン」\n電話番号\n03-5339-1133\n\n受付時間月曜日から日曜日（元旦はお休み）午前10時から午後10時まで相談方法電話やメール\n東京都妊娠相談ほっとライン（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-hotline.html\n（3）東京都「妊娠したかも相談＠東京」\n受付時間\n24時間いつでも\n\n相談方法ラインのチャットボット形式での相談\n妊娠したかも相談＠東京（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-line-tokyo.html\n（4）「助産師によるオンライン相談」\nコロナ禍で不安を抱える妊産婦を対象に、助産師によるオンライン相談を実施します\n\n実施期間令和5年4月1日（土曜日）から令和6年3月31日（日曜日）まで対象者都内在住の妊産婦の方利用方法事前予約が必要です。専用サイトからご予約ください。予約は、相談希望日の1カ月前から2日前まで可能です。相談方法Web会議システムを利用し、助産師がオンラインでご相談に応じます。開設時間\n月曜日から土曜日 午前9時から午後7時まで、日曜日及び祝日 午前11時から午後4時まで\n\n専用予約サイト（外部リンク）;https://coubic.com/jmat/834046\n東京都助産師によるオンライン相談（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninsanpu-online.html\n（5）NPO法人ピッコラーレ「にんしんSOS東京」\n電話番号03-4285-9870受付時間\n電話　年中無休、午後4時から午前0時（受付は午後11時まで）\nメール　年中無休、24時間受付\n相談方法\n電話・メール\n\nにんしんSOS東京（外部リンク）;https://nsost.jp/?gclid=EAIaIQobChMIqufPuuCc-AIVB8FMAh0bxAYzEAAYASAAEgIJ7PD_BwE",
+      "target": {
+        "targetPersons": "都内在住の妊産婦の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "助産師によるオンライン相談",
+        "monetarySupport": null,
+        "materiallySupport": "助産師によるオンライン相談"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": "2024-04-01",
+        "fromHM": null,
+        "toYMD": "2025-03-31",
+        "toHM": null,
+        "conditions": "令和6年4月1日（土曜日）から令和7年3月31日（日曜日）まで"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "月・水・金・土曜日　午前10時から午後5時まで（12月29日から1月3日を除く）\n毎月 第2・第4日曜日　午前10時から午後3時まで"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "利用方法事前予約が必要です。専用サイトからご予約ください。予約は、相談希望日の30日前から2日前まで可能です。相談方法Web会議システムを利用し、助産師がオンラインでご相談に応じます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://coubic.com/jmat/834046",
+          "title": "専用予約サイト（外部リンク）"
+        },
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninsanpu-online.html",
+          "title": "東京都助産師によるオンライン相談（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/kosodate/ninshin/1016172.html",
+        "title": "妊娠の困りごと・悩みごとの相談"
+      },
+      "formLink": [
+        {
+          "uri": "https://coubic.com/jmat/834046",
+          "title": "専用予約サイト"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども部　子ども家庭支援センター　母子保健係",
+        "contactPhone": "042-843-3663",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120303",
+        "contactComment": "ファクス：042-586-1855",
+        "zipCode": "1910016",
+        "contactAddress": "東京都日野市神明1丁目13番地の2　子ども包括支援センター2階"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+4+UM47",
+        "organization": "1000020132128",
+        "compartment": "子ども部　子ども家庭支援センター　母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-07-31",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "日野市の妊娠・出産に関する相談",
+        "shortName": "NPO法人ピッコラーレ「にんしんSOS東京」"
+      },
+      "summary": "妊娠や出産に関する困りごとや悩みは、人それぞれです。どんな”ささいな”ことでも、一人で抱え込まずに誰かに相談しましょう。",
+      "description": "妊娠の困りごと・悩みごとの相談\nこのページの情報をツイッターでツイートできますこのページの情報をフェイスブックでシェアできますこのページの情報をラインでシェアできますページID1016180　 更新日 令和5年4月11日\n印刷　大きな文字で印刷\n\n妊娠や出産に関して困っている、悩んでいる・・・どうすればいいの？\n妊娠したかもしれない・・・どうすればいい？\n妊娠したけど何からすればいいかわからない\n妊娠してから体調がすぐれない\n思いがけない、予定外の妊娠で悩んでいるけどどうすればいいの？\n出産したいけど、お金がないのでどうしたらいい？\n産んでも育てていくことが難しい\n妊娠や出産に関する困りごとや悩みは、人それぞれです。どんな”ささいな”ことでも、一人で抱え込まずに誰かに相談しましょう。\n\n日野市にお住まいの方は、まずは子ども家庭支援センター母子保健係までご相談ください。\n\n相談窓口\n（1）日野市子ども家庭支援センター母子保健係\n保健師・助産師などの専門職がおりますので、お気軽にご相談ください。お電話でも相談できます。\n\nまた、オンラインでも相談できます。詳しくは以下のホームページをご覧ください。\n\n電話番号042-843-3663（日野市にお住まいの方は、左記までご相談ください。）受付時間月曜日から金曜日（祝日を除く）午前8時30分から午後5時15分まで\n（2）東京都「妊娠相談ホットライン」\n電話番号\n03-5339-1133\n\n受付時間月曜日から日曜日（元旦はお休み）午前10時から午後10時まで相談方法電話やメール\n東京都妊娠相談ほっとライン（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-hotline.html\n（3）東京都「妊娠したかも相談＠東京」\n受付時間\n24時間いつでも\n\n相談方法ラインのチャットボット形式での相談\n妊娠したかも相談＠東京（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-line-tokyo.html\n（4）「助産師によるオンライン相談」\nコロナ禍で不安を抱える妊産婦を対象に、助産師によるオンライン相談を実施します\n\n実施期間令和5年4月1日（土曜日）から令和6年3月31日（日曜日）まで対象者都内在住の妊産婦の方利用方法事前予約が必要です。専用サイトからご予約ください。予約は、相談希望日の1カ月前から2日前まで可能です。相談方法Web会議システムを利用し、助産師がオンラインでご相談に応じます。開設時間\n月曜日から土曜日 午前9時から午後7時まで、日曜日及び祝日 午前11時から午後4時まで\n\n専用予約サイト（外部リンク）;https://coubic.com/jmat/834046\n東京都助産師によるオンライン相談（外部リンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninsanpu-online.html\n（5）NPO法人ピッコラーレ「にんしんSOS東京」\n電話番号03-4285-9870受付時間\n電話　年中無休、午後4時から午前0時（受付は午後11時まで）\nメール　年中無休、24時間受付\n相談方法\n電話・メール\n\nにんしんSOS東京（外部リンク）;https://nsost.jp/?gclid=EAIaIQobChMIqufPuuCc-AIVB8FMAh0bxAYzEAAYASAAEgIJ7PD_BwE",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠の困りごと・悩みごとの相談",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠の困りごと・悩みごとの相談"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "電話　年中無休、午後4時から午前0時（受付は午後11時まで）\nメール　年中無休、24時間受付"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "電話・メール",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://nsost.jp/?gclid=EAIaIQobChMIqufPuuCc-AIVB8FMAh0bxAYzEAAYASAAEgIJ7PD_BwE",
+          "title": "にんしんSOS東京（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hino.lg.jp/kosodate/ninshin/1016172.html",
+        "title": "妊娠の困りごと・悩みごとの相談"
+      },
+      "formLink": [
+        {
+          "uri": "https://nsost.jp/?gclid=EAIaIQobChMIqufPuuCc-AIVB8FMAh0bxAYzEAAYASAAEgIJ7PD_BwE",
+          "title": "にんしんSOS東京"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども部　子ども家庭支援センター　母子保健係",
+        "contactPhone": "042-843-3663",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hino.lg.jp/cgi-bin/contacts/G120303",
+        "contactComment": "ファクス：042-586-1855",
+        "zipCode": "1910016",
+        "contactAddress": "東京都日野市神明1丁目13番地の2　子ども包括支援センター2階"
+      },
+      "area": {
+        "areaCode": "132128;日野市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132128+5+UM47",
+        "organization": "1000020132128",
+        "compartment": "子ども部　子ども家庭支援センター　母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-11",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "日野市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    }
+  ]
+}

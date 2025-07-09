@@ -1,0 +1,4640 @@
+{
+  "version": "2025-07-09T05:55:17.791Z",
+  "areaCode": "131083",
+  "areaName": "江東区",
+  "category": "medical",
+  "count": 33,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦訪問",
+        "shortName": "新生児・産婦訪問指導（出生通知票）"
+      },
+      "summary": "妊産婦の方（妊娠中または出産後1年以内）を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、妊娠期間中や出産後の不安や悩みについての相談等を行います。",
+      "description": "新生児・産婦訪問指導（出生通知票）\n赤ちゃんが生まれたら、「母と子の保健バッグ」に入っている出生通知票をなるべく早くご提出ください。\n\n出生通知票による届出をもとに、担当保健相談所の助産師または保健師がご家庭を訪問し、育児や産後の体調などの相談をお受けしています。\n訪問対象は、原則として生後28日以内の新生児です。ただし、里帰り出産などで訪問を受けられなかった場合には、生後4か月になる前日までお受けします。\n出生通知票（ハガキ）のかわりに「電子申請」による届出もできます。\nまた、上記の手続きとは別に、出生届を提出する必要があります。提出先が異なりますので、以下のリンク先をご参照ください。\n\n関連ドキュメント\n・出生通知票（PDF：216KB）;https://www.city.koto.lg.jp/261301/kodomo/ninshinshussan/shussan/documents/syussyoututihyo.pdf\n関連ページ\n・保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n・電子申請でご利用いただけるサービス;https://www.city.koto.lg.jp/012107/kuse/shinse/21878.html\n・出生届;https://www.city.koto.lg.jp/060302/kurashi/jumin/koseki/5061.html",
+      "target": {
+        "targetPersons": "原則として生後28日以内の新生児です。ただし、里帰り出産などで訪問を受けられなかった場合には、生後4か月になる前日までお受けします。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "原則として生後28日以内の新生児です。ただし、里帰り出産などで訪問を受けられなかった場合には、生後4か月になる前日までお受けします。"
+      },
+      "support": {
+        "description": "原則として生後28日以内の新生児です。ただし、里帰り出産などで訪問を受けられなかった場合には、生後4か月になる前日までお受けします。",
+        "monetarySupport": null,
+        "materiallySupport": "原則として生後28日以内の新生児です。ただし、里帰り出産などで訪問を受けられなかった場合には、生後4か月になる前日までお受けします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "赤ちゃんが生まれたら、「母と子の保健バッグ」に入っている出生通知票をなるべく早く担当の保健相談所にご提出ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "出生通知票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "担当の保健相談所",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/261301/kodomo/ninshinshussan/shussan/6880.html",
+        "title": "新生児・産婦訪問指導（出生通知票）"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/govTop.do?govCode=13108",
+          "title": "★東京共同電子申請・届出サービス（江東区）（外部サイトへリンク）"
+        }
+      ],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+1+UM11",
+        "organization": "6000020131083",
+        "compartment": "健康部 保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-04",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条（妊産婦の訪問指導等）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て広場",
+        "shortName": "子育てひろば"
+      },
+      "summary": "たくさんの遊具で親子でゆっくり遊べるひろばを開いています。また、子育てについて学ぶ様々な講座やプログラム、季節のイベントも開催しています。マタニティヨガや先輩ママへの子育て相談など、プレママ・パパ向けのプログラムも開催しています。",
+      "description": "子ども家庭支援センターは、みなさんの子育てひろばです。小さな子どもたちや、お母さん、お父さんが集い、楽しく遊び、語らい、お互いに学び合う中で、子育ての輪を広げていきましょう。\n子どもの育ちをよろこびあい、共に悩み、共に考え、支えあう仲間。きっと素敵な出会いが見つかると思います。\n子育てに疲れたとき、一緒に子育てする仲間が欲しいとき、ここへお越しください。\n曜日：毎週火曜～土曜　※有明・住吉のみ毎日開設\n時間：10時00分～16時00分\n\n＜問合せ先＞\n\n深川北子ども家庭支援センター\nTEL 03-5600-8701　相談専用03-5600-8708\n豊洲子ども家庭支援センター\nTEL 03-3536-7681　相談専用03-3536-7682\n有明子ども家庭支援センター\nTEL 03-5962-4113　相談専用03-5962-4118\n住吉子ども家庭支援センター\nTEL 03-5600-3881 　相談専用03-5600-3882\n東陽子ども家庭支援センター\nTEL 03-3699-4871　相談専用03-5665-4017\n亀戸子ども家庭支援センター\nTEL 03-3683-1101 　相談専用03-3683-1103\n大島子ども家庭支援センター\nTEL 03-5836-1621　相談専用03-5836-1625\n南砂子ども家庭支援センター\nTEL 03-5617-8106　相談専用03-5617-7772\nTEL 03-3646-5481（虐待ホットライン）\n\n関連リンク\n江東区子ども家庭支援センター「みずべ」のホームページです（外部サイトへリンク）（別ウィンドウで開きます）;http://koto-kosodate-portal.jp/mizube/",
+      "target": {
+        "targetPersons": "0歳から18歳までの子どもたちや、お母さん、お父さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "子育てひろば\n子ども家庭支援センターは、みなさんの子育てひろばです。小さな子どもたちや、お母さん、お父さんが集い、楽しく遊び、語らい、お互いに学び合う中で、子育ての輪を広げていきましょう。\n子どもの育ちをよろこびあい、共に悩み、共に考え、支えあう仲間。きっと素敵な出会いが見つかると思います。\n子育てに疲れたとき、一緒に子育てする仲間が欲しいとき、ここへお越しください。\n\n曜日：毎週火曜～土曜　※有明・住吉のみ毎日開設\n時間：10時00分～16時00分",
+        "monetarySupport": null,
+        "materiallySupport": "子育てひろば\n子ども家庭支援センターは、みなさんの子育てひろばです。小さな子どもたちや、お母さん、お父さんが集い、楽しく遊び、語らい、お互いに学び合う中で、子育ての輪を広げていきましょう。\n子どもの育ちをよろこびあい、共に悩み、共に考え、支えあう仲間。きっと素敵な出会いが見つかると思います。\n子育てに疲れたとき、一緒に子育てする仲間が欲しいとき、ここへお越しください。\n\n曜日：毎週火曜～土曜　※有明・住吉のみ毎日開設\n時間：10時00分～16時00分"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "曜日：毎週火曜～土曜　※有明・住吉のみ毎日開設"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "16:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koto.lg.jp/shisetsuannai/kyoiku/sonotakodomo/supportcenter/index.html",
+          "title": "子ども家庭支援センター"
+        },
+        {
+          "uri": "http://koto-kosodate-portal.jp/mizube/",
+          "title": "江東区子ども家庭支援センター「みずべ」のホームページです（外部サイトへリンク）（別ウィンドウで開きます）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/282011/kodomo/kosodate/service/5874.html",
+        "title": "子ども家庭支援センター"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども未来部 養育支援課 養育支援係",
+        "contactPhone": "03-3647-4408",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.koto.lg.jp/cgi-bin/simple_faq/form.cgi",
+        "contactComment": "ファックス：03-3647-7534",
+        "zipCode": "1358383",
+        "contactAddress": "東京都江東区東陽4-11-28"
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+1+UM112",
+        "organization": "6000020131083",
+        "compartment": "こども未来部 養育支援課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-01-22",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第6項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小児科救急",
+        "shortName": "平日夜間こどもクリニックのご案内"
+      },
+      "summary": "江東区では、平日夜間に、小児救急診療所を開設しています。",
+      "description": "平日夜間こどもクリニックのご案内\n江東区平日夜間こどもクリニックのご案内\nこども達の健康と子育ての安心のため、区では平日の夜間に、小児救急診療所を開設しています。\n平日の夜間、診療所が閉まった後や就寝前、お子様の急な発熱・腹痛などでお困りの時ご利用ください。\n\n受診される際には、必ず保険証をお持ちください。保険証がない場合には、全額実費負担となりますのでご注意ください。\nなお、投薬につきましては、翌日かかりつけ医等を受診されるまでの1日分の処方を原則としております。\n\n・平日夜間こどもクリニックでは、新型コロナウイルスの検査は実施しておりません。\n・発熱している方は、事前に電話してから受診してください。\n・受診時には、マスクの着用をお願いします。\n平日夜間こどもクリニック\n|診療対象者|小児科の急病患者（中学生まで）|<|\n|:----|:----|:----|\n|開設日|平日夜間（月～金）（土・日・祝・年末年始（12月29日～1月4日）を除く）|<|\n|診療受付|（平日）午後8時～午後10時45分|<|\n|診療時間|（平日）午後8時～午後11時|<|\n|診療所|江東区平日夜間こどもクリニック|江東区医師会館内（東陽5丁目31番18号）電話03-3645-3109|\n|調剤薬局|薬剤師会江東区支部平日夜間調剤薬局|江東区医師会館内（東陽5丁目31番18号）電話03-5606-0502|\n\n平日夜間こどもクリニック案内図\nhttps://www.city.koto.lg.jp/260315/kodomo/iryo/shouni/images/10077_isikaikan.jpg\n都内の救急医療機関をお探しの方（急病でお困りの方）へ\n本ページ一番下「関連リンク」より「休日・全夜間診療事業実施医療機関一覧（東京都指定二次救急医療機関一覧）」をクリックしていただくと東京都作成のホームページよりお探しすることが出来ます。\n\n問い合わせ先\n健康部（保健所）健康推進課がん対策・地域医療連携係\n\n電話番号：03-3647-5889\n\nFax：03-3615-7171\n\n関連リンク\n東京都こども医療ガイド（外部サイトへリンク）（別ウィンドウで開きます）;http://www.guide.metro.tokyo.jp/\n子供の健康相談室（小児救急相談）【＃8000】（外部サイトへリンク）（別ウィンドウで開きます）;http://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/k_soudan.html\n医療機関・薬局公的検索システム「医療情報ネット（ナビイ）」（外部サイトへリンク）（別ウィンドウで開きます）;https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize\n知って安心暮らしの中の医療情報ナビ（外部サイトへリンク）（別ウィンドウで開きます）;http://www.fukushihoken.metro.tokyo.jp/inavi/\n休日・全夜間診療事業実施医療機関一覧（東京都指定二次救急医療機関一覧）（外部サイトへリンク）（別ウィンドウで開きます）;https://www.hokeniryo.metro.tokyo.lg.jp/iryo/sodan/komatta/kyuubyou/kyuujituzennyakann.html",
+      "target": {
+        "targetPersons": "小児科の急病患者（中学生まで）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "中学生以下"
+      },
+      "support": {
+        "description": "江東区平日夜間こどもクリニックのご案内\nこども達の健康と子育ての安心のため、区では平日の夜間に、小児救急診療所を開設しています。\n平日の夜間、診療所が閉まった後や就寝前、お子様の急な発熱・腹痛などでお困りの時ご利用ください。\n\n受診される際には、必ず保険証をお持ちください。保険証がない場合には、全額実費負担となりますのでご注意ください。\nなお、投薬につきましては、翌日かかりつけ医等を受診されるまでの1日分の処方を原則としております。\n\n・平日夜間こどもクリニックでは、新型コロナウイルスの検査は実施しておりません。\n・発熱している方は、事前に電話してから受診してください。\n・受診時には、マスクの着用をお願いします。\n平日夜間こどもクリニック\n|診療対象者|小児科の急病患者（中学生まで）|<|\n|:----|:----|:----|\n|開設日|平日夜間（月～金）（土・日・祝・年末年始（12月29日～1月4日）を除く）|<|\n|診療受付|（平日）午後8時～午後10時45分|<|\n|診療時間|（平日）午後8時～午後11時|<|\n|診療所|江東区平日夜間こどもクリニック|江東区医師会館内（東陽5丁目31番18号）電話03-3645-3109|\n|調剤薬局|薬剤師会江東区支部平日夜間調剤薬局|江東区医師会館内（東陽5丁目31番18号）電話03-5606-0502|\n",
+        "monetarySupport": null,
+        "materiallySupport": "江東区平日夜間こどもクリニックのご案内\nこども達の健康と子育ての安心のため、区では平日の夜間に、小児救急診療所を開設しています。\n平日の夜間、診療所が閉まった後や就寝前、お子様の急な発熱・腹痛などでお困りの時ご利用ください。\n\n受診される際には、必ず保険証をお持ちください。保険証がない場合には、全額実費負担となりますのでご注意ください。\nなお、投薬につきましては、翌日かかりつけ医等を受診されるまでの1日分の処方を原則としております。\n\n・平日夜間こどもクリニックでは、新型コロナウイルスの検査は実施しておりません。\n・発熱している方は、事前に電話してから受診してください。\n・受診時には、マスクの着用をお願いします。\n平日夜間こどもクリニック\n|診療対象者|小児科の急病患者（中学生まで）|<|\n|:----|:----|:----|\n|開設日|平日夜間（月～金）（土・日・祝・年末年始（12月29日～1月4日）を除く）|<|\n|診療受付|（平日）午後8時～午後10時45分|<|\n|診療時間|（平日）午後8時～午後11時|<|\n|診療所|江東区平日夜間こどもクリニック|江東区医師会館内（東陽5丁目31番18号）電話03-3645-3109|\n|調剤薬局|薬剤師会江東区支部平日夜間調剤薬局|江東区医師会館内（東陽5丁目31番18号）電話03-5606-0502|\n"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "平日夜間（月～金）（土・日・祝・年末年始（12月29日～1月4日）を除く）\n診療受付\t（平日）午後8時～午後10時45分\n診療時間\t（平日）午後8時～午後11時\n"
+      },
+      "implementationPlace": {
+        "implementationName": "江東区平日夜間こどもクリニック\t（江東区医師会館内）\n\n平日夜間調剤薬局\t（江東区医師会館内）",
+        "implementationAddress": "江東区東陽5-31-18"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "診療受付 （平日）午後8時～午後10時45分\n診療時間 （平日）午後8時～午後11時"
+      },
+      "specificDate": null,
+      "holiday": "土曜日・日曜日・祝日及び年末年始",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "保険証",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "http://www.fukushihoken.metro.tokyo.jp/inavi/",
+          "title": "休日・全夜間診療事業実施医療機関一覧（東京都指定二次救急医療機関一覧）（外部サイトへリンク）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/k_soudan.html",
+          "title": "子供の健康相談室（小児救急相談）【＃8000】（外部サイトへリンク）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize",
+          "title": "知って安心暮らしの中の医療情報ナビ（外部サイトへリンク）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize",
+          "title": "医療機関・薬局公的検索システム「医療情報ネット（ナビイ）」（外部サイトへリンク）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "http://www.guide.metro.tokyo.jp/",
+          "title": "東京都こども医療ガイド（外部サイトへリンク）（別ウィンドウで開きます）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/260315/kodomo/iryo/shouni/6903.html",
+        "title": "平日夜間こどもクリニックのご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部（保健所）健康推進課がん対策・地域医療連携係",
+        "contactPhone": "03-3647-5889",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "Fax：03-3615-7171",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+1+UM114",
+        "organization": "6000020131083",
+        "compartment": "健康部 健康推進課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-19",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "救急医療対策事業実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "江東区の子育てに関する相談",
+        "shortName": "出張地区別　育児相談"
+      },
+      "summary": "保健師が地域に出張し、乳児期のお子さんの健康や発達、育児や遊びなどに関する相談、保護者どうしの交流を行っています。",
+      "description": "出張地区別　育児相談\nお住まいの地区で育児相談を開催しています\n保健師が地域に出張し、乳児期のお子さんの健康や発達、育児や遊びなどに関する相談、保護者どうしの交流を行っています。\n\nお住まいの地域を担当する保健相談所のチラシをご覧ください\n参加をご希望の方は、保健相談所担当一覧をご確認の上、下記の保健相談所のチラシをご覧ください。;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n\n育児相談の開催場所、開催日、時間、持ち物、問い合わせ先などをご案内しています。\n\n開催会場により、対象になるお住いの地域やお子さんの月齢が異なりますので、ご注意ください。\n\n城東保健相談所チラシ（PDF：949KB）;https://www.city.koto.lg.jp/260552/documents/r6jyoto-ikujisoudan.pdf\n\n深川保健相談所チラシ（PDF：825KB）;https://www.city.koto.lg.jp/260552/documents/r6fukagawa-ikujisoudan.pdf\n\n深川南部保健相談所チラシ（PDF：2,633KB）;https://www.city.koto.lg.jp/260552/documents/r6fukagawananbu-ikujisoudan.pdf\n\n城東南部保健相談所チラシ（PDF：625KB）;https://www.city.koto.lg.jp/260552/documents/r6jyotonanbu-ikujisoudan.pdf\n\nお問い合わせ施設\n　●城東保健相談所　電話：03-3637-6521;https://www.city.koto.lg.jp/261001/kuse/sosiki/kenkobu/10045.html\n\n　●深川保健相談所　電話：03-3641-1181;https://www.city.koto.lg.jp/261101/kuse/sosiki/kenkobu/10046.html\n\n　●深川南部保健相談所　電話：03-5632-2291;https://www.city.koto.lg.jp/261201/kuse/sosiki/kenkobu/10047.html\n\n　●城東南部保健相談所　電話：03-5606-5001;https://www.city.koto.lg.jp/261301/kuse/sosiki/kenkobu/10048.html\n\n関連ページ\n保健相談所担当一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n育児学級;https://www.city.koto.lg.jp/261301/kodomo/kosodate/service/6897.html\n母乳教室;https://www.city.koto.lg.jp/260552/bonyukyoshitu.html",
+      "target": {
+        "targetPersons": "乳児期のお子さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "保健師が地域に出張し、乳児期のお子さんの健康や発達、育児や遊びなどに関する相談、保護者どうしの交流を行っています。\n\nお住まいの地域を担当する保健相談所のチラシをご覧ください\n参加をご希望の方は、保健相談所担当一覧をご確認の上、下記の保健相談所のチラシをご覧ください。\n\n育児相談の開催場所、開催日、時間、持ち物、問い合わせ先などをご案内しています。\n\n開催会場により、対象になるお住いの地域やお子さんの月齢が異なりますので、ご注意ください。\n\n城東保健相談所チラシ（PDF：949KB）;https://www.city.koto.lg.jp/260552/documents/r6jyoto-ikujisoudan.pdf\n\n深川保健相談所チラシ（PDF：825KB）;https://www.city.koto.lg.jp/260552/documents/r6fukagawa-ikujisoudan.pdf\n\n深川南部保健相談所チラシ（PDF：2,633KB）;https://www.city.koto.lg.jp/260552/documents/r6fukagawananbu-ikujisoudan.pdf\n\n城東南部保健相談所チラシ（PDF：625KB）;https://www.city.koto.lg.jp/260552/documents/r6jyotonanbu-ikujisoudan.pdf",
+        "monetarySupport": null,
+        "materiallySupport": "保健師が地域に出張し、乳児期のお子さんの健康や発達、育児や遊びなどに関する相談、保護者どうしの交流を行っています。\n\nお住まいの地域を担当する保健相談所のチラシをご覧ください\n参加をご希望の方は、保健相談所担当一覧をご確認の上、下記の保健相談所のチラシをご覧ください。\n\n育児相談の開催場所、開催日、時間、持ち物、問い合わせ先などをご案内しています。\n\n開催会場により、対象になるお住いの地域やお子さんの月齢が異なりますので、ご注意ください。\n\n城東保健相談所チラシ（PDF：949KB）;https://www.city.koto.lg.jp/260552/documents/r6jyoto-ikujisoudan.pdf\n\n深川保健相談所チラシ（PDF：825KB）;https://www.city.koto.lg.jp/260552/documents/r6fukagawa-ikujisoudan.pdf\n\n深川南部保健相談所チラシ（PDF：2,633KB）;https://www.city.koto.lg.jp/260552/documents/r6fukagawananbu-ikujisoudan.pdf\n\n城東南部保健相談所チラシ（PDF：625KB）;https://www.city.koto.lg.jp/260552/documents/r6jyotonanbu-ikujisoudan.pdf"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "参加をご希望の方は、保健相談所担当一覧をご確認の上、下記の保健相談所のチラシをご覧ください。;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n\n育児相談の開催場所、開催日、時間、持ち物、問い合わせ先などをご案内しています。\n\n開催会場により、対象になるお住いの地域やお子さんの月齢が異なりますので、ご注意ください。\n\n城東保健相談所チラシ（PDF：949KB）;https://www.city.koto.lg.jp/260552/documents/r6jyoto-ikujisoudan.pdf \n\n深川保健相談所; チラシ（PDF：825KB）;https://www.city.koto.lg.jp/260552/documents/r6fukagawa-ikujisoudan.pdf\n\n深川南部保健相談所チラシ（PDF：2,633KB）;https://www.city.koto.lg.jp/260552/documents/r6fukagawananbu-ikujisoudan.pdf\n\n城東南部保健相談所チラシ（PDF：625KB）;https://www.city.koto.lg.jp/260552/documents/r6jyotonanbu-ikujisoudan.pdf",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koto.lg.jp/260552/documents/r6jyotonanbu-ikujisoudan.pdf",
+          "title": "633KB）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+          "title": "城東南部保健相談所"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/261301/kodomo/kosodate/service/6897.html",
+          "title": "保健相談所担当一覧"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260552/documents/r6fukagawananbu-ikujisoudan.pdf",
+          "title": "深川南部保健相談所チラシ（PDF：2"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+          "title": "保健相談所担当一覧"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260552/bonyukyoshitu.html",
+          "title": "育児学級"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/261201/kuse/sosiki/kenkobu/10047.html",
+          "title": "深川保健相談所"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/261301/kuse/sosiki/kenkobu/10048.html",
+          "title": "深川南部保健相談所"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/261001/kuse/sosiki/kenkobu/10045.html",
+          "title": "城東南部保健相談所チラシ（PDF：625KB）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260552/documents/r6jyoto-ikujisoudan.pdf",
+          "title": "城東保健相談所チラシ（PDF：949KB）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/261101/kuse/sosiki/kenkobu/10046.html",
+          "title": "城東保健相談所"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260552/documents/r6fukagawa-ikujisoudan.pdf",
+          "title": "深川保健相談所チラシ（PDF：825KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/260552/syuttyouikujisoudan.html",
+        "title": "出張地区別　育児相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+1+UM119",
+        "organization": "6000020131083",
+        "compartment": "健康部 保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-28",
+      "odInformation": {
+        "updateDate": "2024-06-20",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小学校・中学校の就学援助費",
+        "shortName": "就学援助制度"
+      },
+      "summary": "経済的な理由により就学が困難と認められる、公立の小学校・中学校に通学する児童・生徒の保護者を対象に、学用品費、修学旅行費、給食費などを支給します。",
+      "description": "就学援助制度\n就学援助制度のご案内\n就学援助とは、経済的な理由で就学が困難な児童生徒の保護者に学用品費等、教育費の一部を江東区が援助する制度です。\n\n就学援助を受けることができる方\n江東区に在住し国公立小・中学校、義務教育学校等に通学している児童生徒の保護者のうち、下記の要件に該当する方\n\n（1）生活保護を受けている方\n（2）生活保護を受けていないが、それに準ずる程度に経済的に困っている方（注釈1）\n（3）その他特別な事情のある方（特別な事情を証明できる書類の提出が必要です）\n（注釈1）生計を共にする世帯全員の前年合計所得金額が、前年度生活保護基準額（注釈2）に基づき江東区教育委員会が定める以下の基準額未満の方です。所得基準額は家族構成や世帯員の年齢により変わります。\n\n（注釈2）生活保護基準額の見直しの影響が就学援助制度に及ばないよう、令和6年度においては、平成24年4月1日時点の基準額を用いております。\n\n就学援助を受けることができるかどうかわからない方は、申請していただければ審査結果を通知いたします。\n\n基準額算定方法\n〔生活扶助（第1・2類）＋期末一時扶助＋教育扶助（基準額＋特別基準＋学習支援費）＋住宅扶助（1.3倍額）〕×1.18＋給食費（実費額）\n\n基準額の目安（令和6年度就学援助基準）\n|世帯人数|家族構成|目安所得（注釈3）|\n|:----|:----|:----|\n|2人|母34歳、子6歳|約357万円|\n|3人|父43歳、母36歳、子12歳|約373万円|\n|4人|父48歳、母42歳、子16歳、子12歳|約423万円|\n|5人|父45歳、母41歳、子13歳、子8歳、祖母73歳|約459万円|\n\n（注釈3）生活保護基準額の見直しの影響が就学援助制度に及ばないよう、令和6年度においては、平成24年4月1日時点の基準額を用いております。\n\n（注釈4）給与所得、公的年金所得のいずれかがある方は合計所得金額から10万円（給与所得及び公的年金所得の合計が10万円に満たない場合はその合計額）を控除し審査します。\n\n就学援助の内容\n（1）学用品通学用品費\n（2）遠足費\n（3）演劇鑑賞費\n（4）夏季施設費（林間・臨海）\n（5）移動教室費（日光・富士見等）\n（6）修学旅行費\n（7）入学準備費\n（8）校外授業費（社会科見学）\n（9）クラブ活動費\n（10）卒業記念アルバム費\n（11）義務教育学校標準服費\n（12）英語検定料(中学生のみ)\n生活保護を受けている方の（1）（7）（9）の援助費は福祉事務所から支給されますので、就学援助の対象から除かれます。\n\n各費目の支給金額については、関連ドキュメントの「令和6年度就学援助費一覧表」をご参照ください。\n（注釈）学校以外で英語検定の申し込みをした方は、英語検定の受験票や領収書のコピーをご提出いただきますので、お手元に保管をお願いします。申請される場合は、関連ドキュメントの「英語検定料お知らせ兼申請書」をご参照ください。\n\n就学援助を希望される方の申請手続き\n（1）江東区立小・中学校、義務教育学校に在籍している児童生徒の保護者には、毎年4月に学校を通じて全員に就学援助のお知らせ、申請書をお配りします。援助を希望される方は、申請書に必要事項を記入のうえ、学校へ提出してください。年度の途中でも申請をすることができます。\n（2）江東区以外の公立小・中学校等に在籍している児童生徒の保護者は、毎年4月～5月末までに教育委員会へ申請にお越しください。年度の途中でも申請をすることができます。\n（注意事項）\n確定申告、または特別区民税・都民税の申告をしていませんと認定の審査ができません。所得の有無にかかわらず必ず申告を済ませておいてください。（被扶養者は除きます。）\n（給与所得者であっても年末調整がされていなかったり、あるいは年末調整がされていても給与から住民税が引かれていなかったりしますと、申告が必要となる場合があります。）\nなお、1月2日以降に江東区に転入した方は、「源泉徴収票」等前年の所得金額がわかるものを申請書に添付してください。6月中旬以降の申請では、当該年度の「課税（非課税）証明書」を添付してください。\n\n江東区以外の区市町村に住所があり、江東区立小・中学校、義務教育学校に区域外就学している児童生徒の保護者は、住所地の教育委員会に申請のご相談をしてください。\n\n認定結果について\n（1）江東区立小・中学校、義務教育学校に在籍している児童生徒の方\n年度当初に申請された方については、7月中に認定結果通知書をお送りいたします。\n（2）江東区以外の国公立小・中学校等に在籍している児童生徒の方\n年度当初に申請された方については、9月中に認定結果通知書をお送りいたします。\n支給の時期\n（1）江東区立小・中学校、義務教育学校に在籍している児童生徒の方\n年5回（8月末・10月末・12月下旬・翌年3月中旬（注釈4）・翌年4月中旬）に分けて支給いたします。\n（注釈：翌年3月中旬は、中学校入学準備費支給対象者（小学6年生）のみ）\n（2）江東区以外の国公立小・中学校等に在籍している児童生徒の方\n翌年4月中旬頃に年額分を一括して支給いたします。\n（注釈4）援助費は、学校長口座振込の場合を除き、申請書にご記入いただいた口座にお振込いたします。振込先口座を変更される場合は、関連ドキュメントにあります「就学援助費口座振替依頼届出書」を学校または教育委員会へご提出ください。なお、ご提出いただいた時期によっては、振込先の変更が直近の支給回に間に合わない場合がございますので予めご了承ください（変更の際はお早めに口座振替依頼届出書をご提出ください）。\n\n所得が減少した場合の申請手続き\n令和6年度就学援助費（令和5年中の所得による審査）の結果、「否認定」となった方で、失業・廃業・傷病等の影響により所得が減少した場合、令和6年1月から直近月の所得による再審査を行います。\n\n申請を希望される場合は関連ドキュメントの「所得が減少した場合の就学援助費受給申請について」をご確認の上、お手続きをお願いします。\n\n関連ドキュメント\n令和6年度就学援助費一覧表（PDF：130KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/581101/kodomo/gakko/enjo/shugaku/documents/r6enjohiichiran.pdf\n英語検定料のお知らせ兼申請書（PDF：243KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/581101/kodomo/gakko/enjo/shugaku/documents/r6shinseisyo.pdf\n就学援助費口座振替依頼届出書（PDF：25KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/581101/kodomo/gakko/enjo/shugaku/documents/syugakuenjo-kouza.pdf\n令和6年度就学援助費支給申請書（PDF：405KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/581101/kodomo/gakko/enjo/shugaku/documents/r6shinseisyo.pdf\n所得が減少した場合の就学援助費受給申請について（PDF：149KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/581101/kodomo/gakko/enjo/shugaku/documents/r6shinseisyo.pdf\n令和6年度収入申告書（PDF：57KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/581101/kodomo/gakko/enjo/shugaku/documents/r6shinseisyo.pdf",
+      "target": {
+        "targetPersons": "江東区に在住し国公立小・中学校、義務教育学校等に通学している児童生徒の保護者のうち、下記の要件に該当する方\n\n（1）生活保護を受けている方\n（2）生活保護を受けていないが、それに準ずる程度に経済的に困っている方（注釈1）\n（3）その他特別な事情のある方（特別な事情を証明できる書類の提出が必要です）\n（注釈1）生計を共にする世帯全員の前年合計所得金額が、前年度生活保護基準額（注釈2）に基づき江東区教育委員会が定める以下の基準額未満の方です。所得基準額は家族構成や世帯員の年齢により変わります。\n\n（注釈2）生活保護基準額の見直しの影響が就学援助制度に及ばないよう、令和6年度においては、平成24年4月1日時点の基準額を用いております。\n\n就学援助を受けることができるかどうかわからない方は、申請していただければ審査結果を通知いたします。\n\n基準額算定方法\n〔生活扶助（第1・2類）＋期末一時扶助＋教育扶助（基準額＋特別基準＋学習支援費）＋住宅扶助（1.3倍額）〕×1.18＋給食費（実費額）\n\n基準額の目安（令和6年度就学援助基準）\n|世帯人数|家族構成|目安所得（注釈3）|\n|:----|:----|:----|\n|2人|母34歳、子6歳|約357万円|\n|3人|父43歳、母36歳、子12歳|約373万円|\n|4人|父48歳、母42歳、子16歳、子12歳|約423万円|\n|5人|父45歳、母41歳、子13歳、子8歳、祖母73歳|約459万円|\n\n（注釈3）生活保護基準額の見直しの影響が就学援助制度に及ばないよう、令和6年度においては、平成24年4月1日時点の基準額を用いております。\n\n（注釈4）給与所得、公的年金所得のいずれかがある方は合計所得金額から10万円（給与所得及び公的年金所得の合計が10万円に満たない場合はその合計額）を控除し審査します。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "江東区に在住し国公立小・中学校、義務教育学校等に通学している児童生徒の保護者のうち、下記の要件に該当する方\n\n（1）生活保護を受けている方\n（2）生活保護を受けていないが、それに準ずる程度に経済的に困っている方（注釈1）\n（3）その他特別な事情のある方（特別な事情を証明できる書類の提出が必要です）\n（注釈1）生計を共にする世帯全員の前年合計所得金額が、前年度生活保護基準額（注釈2）に基づき江東区教育委員会が定める以下の基準額未満の方です。所得基準額は家族構成や世帯員の年齢により変わります。\n\n（注釈2）生活保護基準額の見直しの影響が就学援助制度に及ばないよう、令和6年度においては、平成24年4月1日時点の基準額を用いております。\n\n就学援助を受けることができるかどうかわからない方は、申請していただければ審査結果を通知いたします。\n\n基準額算定方法\n〔生活扶助（第1・2類）＋期末一時扶助＋教育扶助（基準額＋特別基準＋学習支援費）＋住宅扶助（1.3倍額）〕×1.18＋給食費（実費額）\n\n基準額の目安（令和6年度就学援助基準）\n|世帯人数|家族構成|目安所得（注釈3）|\n|:----|:----|:----|\n|2人|母34歳、子6歳|約357万円|\n|3人|父43歳、母36歳、子12歳|約373万円|\n|4人|父48歳、母42歳、子16歳、子12歳|約423万円|\n|5人|父45歳、母41歳、子13歳、子8歳、祖母73歳|約459万円|\n\n（注釈3）生活保護基準額の見直しの影響が就学援助制度に及ばないよう、令和6年度においては、平成24年4月1日時点の基準額を用いております。\n\n（注釈4）給与所得、公的年金所得のいずれかがある方は合計所得金額から10万円（給与所得及び公的年金所得の合計が10万円に満たない場合はその合計額）を控除し審査します。"
+      },
+      "support": {
+        "description": "就学援助の内容\n（1）学用品通学用品費\n（2）遠足費\n（3）演劇鑑賞費\n（4）夏季施設費（林間・臨海）\n（5）移動教室費（日光・富士見等）\n（6）修学旅行費\n（7）入学準備費\n（8）校外授業費（社会科見学）\n（9）クラブ活動費\n（10）卒業記念アルバム費\n（11）義務教育学校標準服費\n（12）英語検定料(中学生のみ)\n生活保護を受けている方の（1）（7）（9）の援助費は福祉事務所から支給されますので、就学援助の対象から除かれます。\n\n各費目の支給金額については、関連ドキュメントの「令和6年度就学援助費一覧表」をご参照ください。\n（注釈）学校以外で英語検定の申し込みをした方は、英語検定の受験票や領収書のコピーをご提出いただきますので、お手元に保管をお願いします。申請される場合は、関連ドキュメントの「英語検定料お知らせ兼申請書」をご参照ください。\n\n支給の時期\n（1）江東区立小・中学校、義務教育学校に在籍している児童生徒の方\n年5回（8月末・10月末・12月下旬・翌年3月中旬（注釈4）・翌年4月中旬）に分けて支給いたします。\n（注釈：翌年3月中旬は、中学校入学準備費支給対象者（小学6年生）のみ）\n（2）江東区以外の国公立小・中学校等に在籍している児童生徒の方\n翌年4月中旬頃に年額分を一括して支給いたします。\n（注釈4）援助費は、学校長口座振込の場合を除き、申請書にご記入いただいた口座にお振込いたします。振込先口座を変更される場合は、関連ドキュメントにあります「就学援助費口座振替依頼届出書」を学校または教育委員会へご提出ください。なお、ご提出いただいた時期によっては、振込先の変更が直近の支給回に間に合わない場合がございますので予めご了承ください（変更の際はお早めに口座振替依頼届出書をご提出ください）。",
+        "monetarySupport": "就学援助の内容\n（1）学用品通学用品費\n（2）遠足費\n（3）演劇鑑賞費\n（4）夏季施設費（林間・臨海）\n（5）移動教室費（日光・富士見等）\n（6）修学旅行費\n（7）入学準備費\n（8）校外授業費（社会科見学）\n（9）クラブ活動費\n（10）卒業記念アルバム費\n（11）義務教育学校標準服費\n（12）英語検定料(中学生のみ)\n生活保護を受けている方の（1）（7）（9）の援助費は福祉事務所から支給されますので、就学援助の対象から除かれます。\n\n各費目の支給金額については、関連ドキュメントの「令和6年度就学援助費一覧表」をご参照ください。\n（注釈）学校以外で英語検定の申し込みをした方は、英語検定の受験票や領収書のコピーをご提出いただきますので、お手元に保管をお願いします。申請される場合は、関連ドキュメントの「英語検定料お知らせ兼申請書」をご参照ください。\n\n支給の時期\n（1）江東区立小・中学校、義務教育学校に在籍している児童生徒の方\n年5回（8月末・10月末・12月下旬・翌年3月中旬（注釈4）・翌年4月中旬）に分けて支給いたします。\n（注釈：翌年3月中旬は、中学校入学準備費支給対象者（小学6年生）のみ）\n（2）江東区以外の国公立小・中学校等に在籍している児童生徒の方\n翌年4月中旬頃に年額分を一括して支給いたします。\n（注釈4）援助費は、学校長口座振込の場合を除き、申請書にご記入いただいた口座にお振込いたします。振込先口座を変更される場合は、関連ドキュメントにあります「就学援助費口座振替依頼届出書」を学校または教育委員会へご提出ください。なお、ご提出いただいた時期によっては、振込先の変更が直近の支給回に間に合わない場合がございますので予めご了承ください（変更の際はお早めに口座振替依頼届出書をご提出ください）。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "（1）江東区立小・中学校、義務教育学校に在籍している児童生徒の保護者には、毎年4月に学校を通じて全員に就学援助のお知らせ、申請書をお配りします。援助を希望される方は、申請書に必要事項を記入のうえ、学校へ提出してください。年度の途中でも申請をすることができます。\n（2）江東区以外の公立小・中学校等に在籍している児童生徒の保護者は、毎年4月～5月末までに教育委員会へ申請にお越しください。年度の途中でも申請をすることができます。\n（注意事項）\n確定申告、または特別区民税・都民税の申告をしていませんと認定の審査ができません。所得の有無にかかわらず必ず申告を済ませておいてください。（被扶養者は除きます。）\n（給与所得者であっても年末調整がされていなかったり、あるいは年末調整がされていても給与から住民税が引かれていなかったりしますと、申告が必要となる場合があります。）\nなお、1月2日以降に江東区に転入した方は、「源泉徴収票」等前年の所得金額がわかるものを申請書に添付してください。6月中旬以降の申請では、当該年度の「課税（非課税）証明書」を添付してください。\n\n江東区以外の区市町村に住所があり、江東区立小・中学校、義務教育学校に区域外就学している児童生徒の保護者は、住所地の教育委員会に申請のご相談をしてください。\n\n所得が減少した場合の申請手続き\n令和6年度就学援助費（令和5年中の所得による審査）の結果、「否認定」となった方で、失業・廃業・傷病等の影響により所得が減少した場合、令和6年1月から直近月の所得による再審査を行います。\n\n申請を希望される場合は関連ドキュメントの「所得が減少した場合の就学援助費受給申請について」をご確認の上、お手続きをお願いします。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "教育委員会",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koto.lg.jp/581101/kodomo/gakko/enjo/shugaku/documents/r6enjohiichiran.pdf",
+          "title": "令和6年度就学援助費一覧表（PDF：130KB）（別ウィンドウで開きます）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/581101/kodomo/gakko/enjo/shugaku/6154.html",
+        "title": "就学援助制度"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局 学務課 学事係",
+        "contactPhone": "03-3647-9174",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.koto.lg.jp/cgi-bin/simple_faq/form.cgi",
+        "contactComment": "ファックス：03-3647-9053",
+        "zipCode": "1358383",
+        "contactAddress": "東京都江東区東陽 4-11-28"
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+1+UM126",
+        "organization": "6000020131083",
+        "compartment": "教育委員会事務局 学務課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-07-05",
+      "odInformation": {
+        "updateDate": "2024-06-20",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "学校教育法",
+        "regulationArticle": "第19条"
+      },
+      "tag": {
+        "categoryCode": [
+          "005"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "新生児訪問",
+        "shortName": "新生児・産婦訪問指導（出生通知票）"
+      },
+      "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+      "description": "新生児・産婦訪問指導（出生通知票）\n赤ちゃんが生まれたら、「母と子の保健バッグ」に入っている出生通知票をなるべく早く担当の保健相談所にご提出ください。\n\n出生通知票による届出をもとに、助産師または保健師がご家庭を訪問し、育児や産後の体調などの相談をお受けしています。\n訪問対象は、原則として生後28日以内の新生児です。ただし、里帰り出産などで訪問を受けられなかった場合には、生後4か月になる前日までお受けします。\n出生通知票（ハガキ）のかわりに「電子申請」による届出もできます。\nまた、上記の手続きとは別に、出生届を提出する必要があります。提出先が異なりますので、以下のリンク先をご参照ください。\n\n関連ドキュメント\n・出生通知票（PDF：216KB）;https://www.city.koto.lg.jp/261301/kodomo/ninshinshussan/shussan/documents/syussyoututihyo.pdf\n関連ページ\n・保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n・電子申請でご利用いただけるサービス;https://www.city.koto.lg.jp/012107/kuse/shinse/21878.html\n・出生届;https://www.city.koto.lg.jp/060302/kurashi/jumin/koseki/5061.html",
+      "target": {
+        "targetPersons": "原則として生後28日以内の新生児です。ただし、里帰り出産などで訪問を受けられなかった場合には、生後4か月になる前日までお受けします。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "原則として生後28日以内の新生児です。ただし、里帰り出産などで訪問を受けられなかった場合には、生後4か月になる前日までお受けします。"
+      },
+      "support": {
+        "description": "出生通知票による届出をもとに、助産師または保健師がご家庭を訪問し、育児や産後の体調などの相談をお受けしています。",
+        "monetarySupport": null,
+        "materiallySupport": "出生通知票による届出をもとに、助産師または保健師がご家庭を訪問し、育児や産後の体調などの相談をお受けしています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "赤ちゃんが生まれたら、「母と子の保健バッグ」に入っている出生通知票をなるべく早く担当の保健相談所にご提出ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "出生通知票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "担当の保健相談所",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koto.lg.jp/261301/kodomo/ninshinshussan/shussan/documents/syussyoututihyo.pdf",
+          "title": "出生通知票（PDF：216KB）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/012107/kuse/shinse/21878.html",
+          "title": "電子申請でご利用いただけるサービス"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/060302/kurashi/jumin/koseki/5061.html",
+          "title": "出生届"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+          "title": "保健相談所担当地域一覧"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/261301/kodomo/ninshinshussan/shussan/6880.html",
+        "title": "新生児・産婦訪問指導（出生通知票）"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/govTop.do?govCode=13108",
+          "title": "★東京共同電子申請・届出サービス（江東区）（外部サイトへリンク）"
+        }
+      ],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+1+UM13",
+        "organization": "6000020131083",
+        "compartment": "健康部 保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-04",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第11条（新生児の訪問指導）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+        "shortName": "新生児・産婦訪問指導（出生通知票）"
+      },
+      "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+      "description": "赤ちゃんが生まれたら、「母と子の保健バッグ」に入っている出生通知票をなるべく早く担当の保健相談所にご提出ください。\n\n出生通知票による届出をもとに、助産師または保健師がご家庭を訪問し、育児や産後の体調などの相談をお受けしています。\n訪問対象は、原則として生後28日以内の新生児です。ただし、里帰り出産などで訪問を受けられなかった場合には、生後4か月になる前日までお受けします。\n出生通知票（ハガキ）のかわりに「電子申請」による届出もできます。\nまた、上記の手続きとは別に、出生届を提出する必要があります。提出先が異なりますので、以下のリンク先をご参照ください。",
+      "target": {
+        "targetPersons": "訪問対象は、原則として生後28日以内の新生児です。ただし、里帰り出産などで訪問を受けられなかった場合には、生後4か月になる前日までお受けします。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "訪問対象は、原則として生後28日以内の新生児です。ただし、里帰り出産などで訪問を受けられなかった場合には、生後4か月になる前日までお受けします。"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "赤ちゃんが生まれたら、「母と子の保健バッグ」に入っている出生通知票をなるべく早く担当の保健相談所にご提出ください。\n出生通知票（ハガキ）のかわりに「電子申請」による届出もできます。\n\nまた、上記の手続きとは別に、出生届を提出する必要があります。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koto.lg.jp/060302/kurashi/jumin/koseki/5061.html",
+          "title": "出生届"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+          "title": "保健相談所担当地域一覧"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/261301/kodomo/ninshinshussan/shussan/6880.html",
+        "title": "新生児・産婦訪問指導（出生通知票）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部（保健所） 城東南部保健相談所 管理係",
+        "contactPhone": "03-5606-5001",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1360076",
+        "contactAddress": "江東区南砂4丁目3番10号"
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+1+UM14",
+        "organization": "6000020131083",
+        "compartment": "健康部（保健所） 城東南部保健相談所 管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/03/04",
+      "odInformation": {
+        "updateDate": "2025-02-26",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第21条の10の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "母子父子寡婦福祉資金",
+        "shortName": "母子及び父子福祉資金"
+      },
+      "summary": "母子家庭の母、父子家庭の父、および寡婦の方の経済的自立や、扶養しているお子さんの福祉増進のために、必要な資金をお貸しする制度です。",
+      "description": "母子及び父子福祉資金\nひとり親家庭の方々が経済的に自立して、安定した生活を送るために必要とする資金をお貸ししています。\n\n貸付を受けることができる方\n都内に6か月以上お住まいのひとり親家庭のお母さん・お父さん等で、20歳未満のお子さんを扶養している方を対象に、下表の資金をお貸しいたします。貸付が自立につながると判断され、償還（返済）の計画を立てることができる方が対象となります。\n\n|資金の名称|貸付金の内容|\n|:----|:----|\n|技能習得資金|事業を開始又は就職するために必要な知識技能を習得するために必要な資金|\n|修業資金|児童が事業を開始又は就職するために必要な知識技能を習得させるために必要な資金|\n|就職支度資金|就職するために直接必要な被服、履物等を購入する資金|\n|医療介護資金|医療又は介護保険によるサービス（介護）を受けるために必要な資金|\n|生活資金|1．技能習得期間中又は医療又は介護を受けている期間中の生活を維持するために必要な資金<br>2．母子家庭又は父子家庭になって7年未満の方で生活の安定を図るために必要な資金<br>3．失業している期間中（ただし離職した日の翌日から1年以内）の生活を維持するために必要な資金|\n|住宅資金|自己所有の住宅の建設、購入及び現に居住する住宅の増改築・補修又は保全に必要な資金|\n|転宅資金|転宅に必要な敷金・前家賃・運送代にあてるための資金|\n|結婚資金|児童の婚姻に際し必要な資金|\n|修学資金|児童が高校、短大、大学、大学院、高専又は専修学校に修学するのに必要な資金|\n|就学支度資金|1．小学校・中学校に入学するために必要な資金（所得税非課税世帯の方）<br>2．児童が高校、短大、大学、大学院、高専又は専修学校に入学するために必要な資金<br>3．知識技能を習得させる施設であって厚生労働大臣が定める修業施設へ入所するために必要な資金|\n|事業開始資金|事業を開始するのに必要な設備費・什器・機械等の購入資金|\n|事業継続資金|現在営んでいる事業を継続するために必要な商品、材料等を購入する資金|\n\n問い合わせ先\n生活応援課　母子・父子自立支援員（区役所5階8番窓口）\n\n月～金曜日（年末年始・祝日除く）8時30分～17時00分（注意　12時00分～13時00分は受付のみ）\n\n母子及び父子福祉資金の貸付に関するご相談：03-3647-7512\n貸付の納付書発行・償還に関するご相談：03-3647-7505\n関連ページ\n母子・父子相談;https://www.city.koto.lg.jp/250201/kurashi/sodan/sekatsu/7131.html",
+      "target": {
+        "targetPersons": "都内に6か月以上お住まいのひとり親家庭のお母さん・お父さん等で、20歳未満のお子さんを扶養している方を対象に、下表の資金をお貸しいたします。貸付が自立につながると判断され、償還（返済）の計画を立てることができる方が対象となります。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "20歳未満のお子さん"
+      },
+      "support": {
+        "description": "|資金の名称|貸付金の内容|\n|:----|:----|\n|技能習得資金|事業を開始又は就職するために必要な知識技能を習得するために必要な資金|\n|修業資金|児童が事業を開始又は就職するために必要な知識技能を習得させるために必要な資金|\n|就職支度資金|就職するために直接必要な被服、履物等を購入する資金|\n|医療介護資金|医療又は介護保険によるサービス（介護）を受けるために必要な資金|\n|生活資金|1．技能習得期間中又は医療又は介護を受けている期間中の生活を維持するために必要な資金<br>2．母子家庭又は父子家庭になって7年未満の方で生活の安定を図るために必要な資金<br>3．失業している期間中（ただし離職した日の翌日から1年以内）の生活を維持するために必要な資金|\n|住宅資金|自己所有の住宅の建設、購入及び現に居住する住宅の増改築・補修又は保全に必要な資金|\n|転宅資金|転宅に必要な敷金・前家賃・運送代にあてるための資金|\n|結婚資金|児童の婚姻に際し必要な資金|\n|修学資金|児童が高校、短大、大学、大学院、高専又は専修学校に修学するのに必要な資金|\n|就学支度資金|1．小学校・中学校に入学するために必要な資金（所得税非課税世帯の方）<br>2．児童が高校、短大、大学、大学院、高専又は専修学校に入学するために必要な資金<br>3．知識技能を習得させる施設であって厚生労働大臣が定める修業施設へ入所するために必要な資金|\n|事業開始資金|事業を開始するのに必要な設備費・什器・機械等の購入資金|\n|事業継続資金|現在営んでいる事業を継続するために必要な商品、材料等を購入する資金|\n",
+        "monetarySupport": "|資金の名称|貸付金の内容|\n|:----|:----|\n|技能習得資金|事業を開始又は就職するために必要な知識技能を習得するために必要な資金|\n|修業資金|児童が事業を開始又は就職するために必要な知識技能を習得させるために必要な資金|\n|就職支度資金|就職するために直接必要な被服、履物等を購入する資金|\n|医療介護資金|医療又は介護保険によるサービス（介護）を受けるために必要な資金|\n|生活資金|1．技能習得期間中又は医療又は介護を受けている期間中の生活を維持するために必要な資金<br>2．母子家庭又は父子家庭になって7年未満の方で生活の安定を図るために必要な資金<br>3．失業している期間中（ただし離職した日の翌日から1年以内）の生活を維持するために必要な資金|\n|住宅資金|自己所有の住宅の建設、購入及び現に居住する住宅の増改築・補修又は保全に必要な資金|\n|転宅資金|転宅に必要な敷金・前家賃・運送代にあてるための資金|\n|結婚資金|児童の婚姻に際し必要な資金|\n|修学資金|児童が高校、短大、大学、大学院、高専又は専修学校に修学するのに必要な資金|\n|就学支度資金|1．小学校・中学校に入学するために必要な資金（所得税非課税世帯の方）<br>2．児童が高校、短大、大学、大学院、高専又は専修学校に入学するために必要な資金<br>3．知識技能を習得させる施設であって厚生労働大臣が定める修業施設へ入所するために必要な資金|\n|事業開始資金|事業を開始するのに必要な設備費・什器・機械等の購入資金|\n|事業継続資金|現在営んでいる事業を継続するために必要な商品、材料等を購入する資金|\n",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "生活応援課",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koto.lg.jp/250201/kurashi/sodan/sekatsu/7131.html",
+          "title": "母子・父子相談"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/250201/fukushi/sekatsu/kashitsuke/7137.html",
+        "title": "母子及び父子福祉資金"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "生活支援部 生活応援課 家庭相談係",
+        "contactPhone": "03-3647-7505",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.koto.lg.jp/cgi-bin/simple_faq/form.cgi",
+        "contactComment": "ファックス：03-3647-7522",
+        "zipCode": "1358383",
+        "contactAddress": "東京都江東区東陽 4-11-28"
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+1+UM28",
+        "organization": "6000020131083",
+        "compartment": "生活支援部 生活応援課 家庭相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子及び父子並びに寡婦福祉法",
+        "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "両親学級（平日版）"
+      },
+      "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、江東区では産科医師、歯科医師、保健師、栄養士、助産師などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+      "description": "両親学級（平日版）\n初めて赤ちゃんが生まれる妊産婦、パートナーの方を対象に、両親学級を開催しています。\n参加希望の方は、お住いの地域を管轄する保健相談所のチラシをご覧ください。\n\n保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n\n令和6年度日程\n\n・城東保健相談所（妊婦向）（PDF：698KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/documents/jotohscpremother.pdf\n・城東保健相談所（出産後）（PDF：514KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/documents/jotohscbaby.pdf\n・深川保健相談所（PDF：1,144KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/documents/fukagawahscpremother.pdf\n・深川南部保健相談所（PDF：604KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/documents/fukagawananbuhscpremother.pdf\n・城東南部保健相談所（PDF：419KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/documents/jotonanbuhscpremother.pdf\n（注釈）今後の感染流行状況により、中止または内容変更の可能性があります。ご理解のほどよろしくお願いいたします。\n\n江東区両親学級講座の動画配信について\nYouTube江東区公式チャンネルにて、「江東区両親学級講座」を配信しています。\n\nぜひご覧ください。\n\n今回配信させていただく動画は、以下の5つの講座と、そのダイジェスト動画です。\n\n江東区両親学級講座第1回「妊婦ジャケット体験」;https://www.youtube.com/watch?v=b0PBCTVzbVA\n\n江東区両親学級講座第2回「抱っこ」;https://youtu.be/asp6gWfVmY0\n\n江東区両親学級講座第3回「おむつ替え」;https://youtu.be/ZGSXJ8VS-_E\n\n江東区両親学級講座第4回「お着替え」;https://youtu.be/1pISLEMQxqk\n\n江東区両親学級講座第5回「沐浴」;https://youtu.be/-PRTsH7OQlU\n\n江東区両親学級講座ダイジェスト動画;https://youtu.be/-L_Sh9zqZzw\n\nマルトリートメント（不適切な養育）動画の配信について\nマルトリートメントについての動画をYouTube江東区公式チャンネルにて配信しています。ぜひご覧ください。;https://youtu.be/Ap37c4wcVBQ\n\n関連ページ\n両親学級（休日版）;https://www.city.koto.lg.jp/261201/kyujituryoshin.html",
+      "target": {
+        "targetPersons": "初めて赤ちゃんが生まれる妊産婦、パートナーの方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "両親学級を開催しています。\n参加希望の方は、お住いの地域を管轄する保健相談所のチラシをご覧ください。\n\n保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n\n令和6年度日程\n\n城東保健相談所（妊婦向）（PDF：698KB）;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/documents/jotohscpremother.pdf\n城東保健相談所（出産後）（PDF：514KB）;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/documents/jotohscbaby.pdf\n深川保健相談所（PDF：1,144KB）;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/documents/fukagawahscpremother.pdf\n深川南部保健相談所（PDF：604KB）;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/documents/fukagawananbuhscpremother.pdf\n城東南部保健相談所（PDF：419KB）;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/documents/jotonanbuhscpremother.pdf\n※今後の感染流行状況により、中止または内容変更の可能性があります。ご理解のほどよろしくお願いいたします。",
+        "monetarySupport": null,
+        "materiallySupport": "両親学級を開催しています。\n参加希望の方は、お住いの地域を管轄する保健相談所のチラシをご覧ください。\n\n保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n\n令和6年度日程\n\n城東保健相談所（妊婦向）（PDF：698KB）;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/documents/jotohscpremother.pdf\n城東保健相談所（出産後）（PDF：514KB）;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/documents/jotohscbaby.pdf\n深川保健相談所（PDF：1,144KB）;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/documents/fukagawahscpremother.pdf\n深川南部保健相談所（PDF：604KB）;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/documents/fukagawananbuhscpremother.pdf\n城東南部保健相談所（PDF：419KB）;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/documents/jotonanbuhscpremother.pdf\n※今後の感染流行状況により、中止または内容変更の可能性があります。ご理解のほどよろしくお願いいたします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "城東保健相談所（妊婦向）（PDF：698KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/documents/jotohscpremother.pdf,城東保健相談所（出産後）（PDF：514KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/documents/jotohscbaby.pdf,深川保健相談所（PDF：1,144KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/documents/fukagawahscpremother.pdf,深川南部保健相談所（PDF：604KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/documents/fukagawananbuhscpremother.pdf,城東南部保健相談所（PDF：419KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/documents/jotonanbuhscpremother.pdf"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "参加希望の方は、お住いの地域を管轄する保健相談所のチラシをご覧ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koto.lg.jp/261201/kyujituryoshin.html",
+          "title": "城東南部保健相談所（PDF：419KB）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/documents/jotohscpremother.pdf",
+          "title": "城東保健相談所（妊婦向）（PDF：698KB）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+          "title": "保健相談所担当地域一覧"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/documents/jotohscbaby.pdf",
+          "title": "城東保健相談所（出産後）（PDF：514KB）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/documents/jotonanbuhscpremother.pdf",
+          "title": "深川南部保健相談所（PDF：604KB）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/documents/fukagawananbuhscpremother.pdf",
+          "title": "144KB）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/documents/fukagawahscpremother.pdf",
+          "title": "深川保健相談所（PDF：1"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/6884.html",
+        "title": "両親学級（平日版）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+1+UM31",
+        "organization": "6000020131083",
+        "compartment": "健康部 保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-03",
+      "odInformation": {
+        "updateDate": "2024-06-20",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "平日夜間こどもクリニックのご案内"
+      },
+      "summary": "江東区では、平日夜間に、小児救急診療所を開設しています。",
+      "description": "平日夜間こどもクリニックのご案内\n江東区平日夜間こどもクリニックのご案内\nこども達の健康と子育ての安心のため、区では平日の夜間に、小児救急診療所を開設しています。\n平日の夜間、診療所が閉まった後や就寝前、お子様の急な発熱・腹痛などでお困りの時ご利用ください。\n\n受診される際には、必ず保険証をお持ちください。保険証がない場合には、全額実費負担となりますのでご注意ください。\nなお、投薬につきましては、翌日かかりつけ医等を受診されるまでの1日分の処方を原則としております。\n\n・平日夜間こどもクリニックでは、新型コロナウイルスの検査は実施しておりません。\n・発熱している方は、事前に電話してから受診してください。\n・受診時には、マスクの着用をお願いします。\n平日夜間こどもクリニック\n|診療対象者|小児科の急病患者（中学生まで）|<|\n|開設日|平日夜間（月～金）（土・日・祝・年末年始（12月29日～1月4日）を除く）|<|\n|診療受付|（平日）午後8時～午後10時45分|<|\n|診療時間|（平日）午後8時～午後11時|<|\n|診療所|江東区平日夜間こどもクリニック|江東区医師会館内（東陽5丁目31番18号）電話03-3645-3109|\n|調剤薬局|薬剤師会江東区支部<br>平日夜間調剤薬局|江東区医師会館内（東陽5丁目31番18号）電話03-5606-0502|\n\n平日夜間こどもクリニック案内図\nhttps://www.city.koto.lg.jp/260315/kodomo/iryo/shouni/images/10077_isikaikan.jpg\n都内の救急医療機関をお探しの方（急病でお困りの方）へ\n本ページ一番下「関連リンク」より「休日・全夜間診療事業実施医療機関一覧（東京都指定二次救急医療機関一覧）」をクリックしていただくと東京都作成のホームページよりお探しすることが出来ます。\n\n問い合わせ先\n健康部（保健所）健康推進課がん対策・地域医療連携係\n\n電話番号：03-3647-5889\n\nFax：03-3615-7171\n\n関連リンク\n東京都こども医療ガイド（外部サイトへリンク）（別ウィンドウで開きます）;http://www.guide.metro.tokyo.jp/\n子供の健康相談室（小児救急相談）【＃8000】（外部サイトへリンク）（別ウィンドウで開きます）;http://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/k_soudan.html\n医療機関・薬局公的検索システム「医療情報ネット（ナビイ）」（外部サイトへリンク）（別ウィンドウで開きます）;https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize\n知って安心暮らしの中の医療情報ナビ（外部サイトへリンク）（別ウィンドウで開きます）;http://www.fukushihoken.metro.tokyo.jp/inavi/\n休日・全夜間診療事業実施医療機関一覧（東京都指定二次救急医療機関一覧）（外部サイトへリンク）（別ウィンドウで開きます）;https://www.hokeniryo.metro.tokyo.lg.jp/iryo/sodan/komatta/kyuubyou/kyuujituzennyakann.html",
+      "target": {
+        "targetPersons": "小児科の急病患者（中学生まで）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "中学生以下"
+      },
+      "support": {
+        "description": "江東区平日夜間こどもクリニックのご案内\nこども達の健康と子育ての安心のため、区では平日の夜間に、小児救急診療所を開設しています。\n平日の夜間、診療所が閉まった後や就寝前、お子様の急な発熱・腹痛などでお困りの時ご利用ください。\n\n受診される際には、必ず保険証をお持ちください。保険証がない場合には、全額実費負担となりますのでご注意ください。\nなお、投薬につきましては、翌日かかりつけ医等を受診されるまでの1日分の処方を原則としております。\n\n・平日夜間こどもクリニックでは、新型コロナウイルスの検査は実施しておりません。\n・発熱している方は、事前に電話してから受診してください。\n・受診時には、マスクの着用をお願いします。\n平日夜間こどもクリニック\n|診療対象者|小児科の急病患者（中学生まで）|<|\n|開設日|平日夜間（月～金）（土・日・祝・年末年始（12月29日～1月4日）を除く）|<|\n|診療受付|（平日）午後8時～午後10時45分|<|\n|診療時間|（平日）午後8時～午後11時|<|\n|診療所|江東区平日夜間こどもクリニック|江東区医師会館内（東陽5丁目31番18号）電話03-3645-3109|\n|調剤薬局|薬剤師会江東区支部<br>平日夜間調剤薬局|江東区医師会館内（東陽5丁目31番18号）電話03-5606-0502|\n",
+        "monetarySupport": null,
+        "materiallySupport": "江東区平日夜間こどもクリニックのご案内\nこども達の健康と子育ての安心のため、区では平日の夜間に、小児救急診療所を開設しています。\n平日の夜間、診療所が閉まった後や就寝前、お子様の急な発熱・腹痛などでお困りの時ご利用ください。\n\n受診される際には、必ず保険証をお持ちください。保険証がない場合には、全額実費負担となりますのでご注意ください。\nなお、投薬につきましては、翌日かかりつけ医等を受診されるまでの1日分の処方を原則としております。\n\n・平日夜間こどもクリニックでは、新型コロナウイルスの検査は実施しておりません。\n・発熱している方は、事前に電話してから受診してください。\n・受診時には、マスクの着用をお願いします。\n平日夜間こどもクリニック\n|診療対象者|小児科の急病患者（中学生まで）|<|\n|開設日|平日夜間（月～金）（土・日・祝・年末年始（12月29日～1月4日）を除く）|<|\n|診療受付|（平日）午後8時～午後10時45分|<|\n|診療時間|（平日）午後8時～午後11時|<|\n|診療所|江東区平日夜間こどもクリニック|江東区医師会館内（東陽5丁目31番18号）電話03-3645-3109|\n|調剤薬局|薬剤師会江東区支部<br>平日夜間調剤薬局|江東区医師会館内（東陽5丁目31番18号）電話03-5606-0502|\n"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "平日夜間（月～金）（土・日・祝・年末年始（12月29日～1月4日）を除く）\n診療受付\t（平日）午後8時～午後10時45分\n診療時間\t（平日）午後8時～午後11時"
+      },
+      "implementationPlace": {
+        "implementationName": "江東区平日夜間こどもクリニック\t（江東区医師会館内）\n\n平日夜間調剤薬局\t（江東区医師会館内）",
+        "implementationAddress": "江東区東陽5丁目31番18号"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "診療受付 （平日）午後8時～午後10時45分\n診療時間 （平日）午後8時～午後11時"
+      },
+      "specificDate": null,
+      "holiday": "土曜日・日曜日・祝日及び年末年始",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "保険証",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize",
+          "title": "知って安心暮らしの中の医療情報ナビ（外部サイトへリンク）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "http://www.fukushihoken.metro.tokyo.jp/inavi/",
+          "title": "休日・全夜間診療事業実施医療機関一覧（東京都指定二次救急医療機関一覧）（外部サイトへリンク）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "http://www.guide.metro.tokyo.jp/",
+          "title": "東京都こども医療ガイド（外部サイトへリンク）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize",
+          "title": "医療機関・薬局公的検索システム「医療情報ネット（ナビイ）」（外部サイトへリンク）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/k_soudan.html",
+          "title": "子供の健康相談室（小児救急相談）【＃8000】（外部サイトへリンク）（別ウィンドウで開きます）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/260315/kodomo/iryo/shouni/6903.html",
+        "title": "平日夜間こどもクリニックのご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部（保健所）健康推進課がん対策・地域医療連携係",
+        "contactPhone": "03-3647-5889",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "Fax：03-3615-7171",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+1+UM45",
+        "organization": "6000020131083",
+        "compartment": "健康部 健康推進課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-19",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "江東区の妊娠・出産に関する相談",
+        "shortName": "妊娠・出産に関する相談先"
+      },
+      "summary": "東京都では、都内にお住まいの方を対象に、妊娠や出産に関する様々な悩みについて、電話やメールで相談に応じています。",
+      "description": "妊娠・出産に関する相談先\n東京都 妊娠相談ほっとライン\n　東京都では、都内にお住まいの方を対象に、妊娠や出産に関する様々な悩みについて、電話やメールで相談に応じています。\n\n○ 思いがけない妊娠、予定外の妊娠にとまどっている方\n○ 妊娠したかもしれないと不安になっている方\n○ 妊娠中の体調のことで悩んでいる方\n○ 出産費用が心配な方\n\n　そのほか様々な悩みを抱える方からの相談に看護師などの専門職が対応し、内容によっては適切な関係機関の紹介も行います。匿名で相談できます。\n\n電話相談\n〇 電話番号　03-5339-1133\n\n〇 受付時間　午前10時から午後10時まで　月曜日から日曜日　※元日はお休み\n\nメール\n「東京都 妊娠相談ほっとライン」サイトの専用フォームから必要項目を入力して送信してください。\n\n「東京都 妊娠相談ほっとライン」（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninshin-hotline.html\n\nチャットボットLINEアカウント「妊娠したかも相談@東京」\n都内にお住まいの方を対象に、「妊娠したかも？」という悩みや疑問に、チャットボット形式でお答えします。「電話やメールで相談するのは少し怖い、勇気がない」という方でも、24時間365日、誰でも気軽に使えます。\n\nチャットボットLINEアカウント「妊娠したかも相談＠東京」（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninshin-line-tokyo.html\n\n妊産婦向け助産師相談\nWeb会議システムを利用したオンライン相談（予約制）\n妊娠中のこと、産後のこと、生まれてくる赤ちゃんのことでお悩みの妊婦さん・産婦さんを対象に、東京都助産師会の助産師がオンラインで相談をお受けします。\n\nそのほか、訪問や電話による相談（令和6年3月31日まで）もございます。\n\n妊産婦向け助産師相談（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninsanpu-online.html",
+      "target": {
+        "targetPersons": "都内にお住まいの方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "東京都では、都内にお住まいの方を対象に、妊娠や出産に関する様々な悩みについて、電話やメールで相談に応じています。\n\n○ 思いがけない妊娠、予定外の妊娠にとまどっている方\n○ 妊娠したかもしれないと不安になっている方\n○ 妊娠中の体調のことで悩んでいる方\n○ 出産費用が心配な方\n\n　そのほか様々な悩みを抱える方からの相談に看護師などの専門職が対応し、内容によっては適切な関係機関の紹介も行います。匿名で相談できます。\n\n電話相談\n〇 電話番号　03-5339-1133\n\n〇 受付時間　午前10時から午後10時まで　月曜日から日曜日　※元日はお休み\n\nメール\n「東京都 妊娠相談ほっとライン」サイトの専用フォームから必要項目を入力して送信してください。\n\n「東京都 妊娠相談ほっとライン」（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninshin-hotline.html",
+        "monetarySupport": null,
+        "materiallySupport": "東京都では、都内にお住まいの方を対象に、妊娠や出産に関する様々な悩みについて、電話やメールで相談に応じています。\n\n○ 思いがけない妊娠、予定外の妊娠にとまどっている方\n○ 妊娠したかもしれないと不安になっている方\n○ 妊娠中の体調のことで悩んでいる方\n○ 出産費用が心配な方\n\n　そのほか様々な悩みを抱える方からの相談に看護師などの専門職が対応し、内容によっては適切な関係機関の紹介も行います。匿名で相談できます。\n\n電話相談\n〇 電話番号　03-5339-1133\n\n〇 受付時間　午前10時から午後10時まで　月曜日から日曜日　※元日はお休み\n\nメール\n「東京都 妊娠相談ほっとライン」サイトの専用フォームから必要項目を入力して送信してください。\n\n「東京都 妊娠相談ほっとライン」（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninshin-hotline.html"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "22:00",
+        "condiutilizationConditionstions": "午前10時から午後10時まで　月曜日から日曜日　※元日はお休み"
+      },
+      "specificDate": null,
+      "holiday": "※元日はお休み",
+      "utilization": "電話相談,メール",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninshin-hotline.html",
+          "title": "「東京都 妊娠相談ほっとライン」（外部サイトへリンク）"
+        },
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninshin-line-tokyo.html",
+          "title": "チャットボットLINEアカウント「妊娠したかも相談＠東京」（外部サイトへリンク）"
+        },
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninsanpu-online.html",
+          "title": "妊産婦向け助産師相談（外部サイトへリンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/260501/kodomo/ninshinshussan/ninshin/97700.html",
+        "title": "妊娠・出産に関する相談先"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninshin-hotline.html",
+          "title": "「東京都 妊娠相談ほっとライン」（外部サイトへリンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "健康部（保健所） 保健予防課 保健係",
+        "contactPhone": "03-3647-5906",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.koto.lg.jp/cgi-bin/simple_faq/form.cgi",
+        "contactComment": "ファックス：03-3615-7171",
+        "zipCode": "1350016",
+        "contactAddress": "東京都江東区東陽2-1-1"
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+1+UM47",
+        "organization": "6000020131083",
+        "compartment": "健康部 保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-08-16",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月未満児）",
+        "shortName": "4か月児健康診査（乳児健康診査）"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として4か月児健康診査を実施しています。",
+      "description": "4か月児健康診査（乳児健康診査）\n4か月児を対象とした健康診査を保健相談所で行っています。\nお子さんが4か月に達する前月、または当月に各保健相談所からご案内を郵送します。\nこの健康診査の際にお持ちいただいた食事アンケートには、お母さんへの食事アドバイスを記入して後日郵送します。\n\n4か月児健康診査内容\n・栄養士・歯科衛生士からのお話\n・身体測定\n・赤ちゃんの発育・発達について診察\n・栄養士・助産師・保健師による個別相談\n・離乳食の展示・相談コーナー\n・子育て広場\n　赤ちゃん体操、手遊びの紹介、赤ちゃんとの生活について等のお話や、お母さんどうし交流する機会も設けています。\n\n問合先\nお住まいの地域を担当する保健相談所（下記の関連ページをご覧ください。）\n\n関連ページ\n保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+      "target": {
+        "targetPersons": "4か月児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "4か月児健康診査内容\n・栄養士・歯科衛生士からのお話\n・身体測定\n・赤ちゃんの発育・発達について診察\n・栄養士・助産師・保健師による個別相談\n・離乳食の展示・相談コーナー\n・子育て広場\n　赤ちゃん体操、手遊びの紹介、赤ちゃんとの生活について等のお話や、お母さんどうし交流する機会も設けています。",
+        "monetarySupport": null,
+        "materiallySupport": "4か月児健康診査内容\n・栄養士・歯科衛生士からのお話\n・身体測定\n・赤ちゃんの発育・発達について診察\n・栄養士・助産師・保健師による個別相談\n・離乳食の展示・相談コーナー\n・子育て広場\n　赤ちゃん体操、手遊びの紹介、赤ちゃんとの生活について等のお話や、お母さんどうし交流する機会も設けています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "お住まいの地域を担当する保健相談所",
+        "implementationAddress": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "お子さんが4か月に達する前月、または当月に各保健相談所からご案内を郵送します。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+          "title": "保健相談所担当地域一覧"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/261001/kodomo/iryo/kenko/103479.html",
+        "title": "4か月児健康診査（乳児健康診査）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "お住まいの地域を担当する保健相談所（下記の関連ページをご覧ください。）\n・保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+1+UM49",
+        "organization": "6000020131083",
+        "compartment": "健康部 保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-07-03",
+      "odInformation": {
+        "updateDate": "2024-06-19",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "6～7か月児、9～10か月児健康診査"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として乳幼児健康診査（ 6～7か月児、9～10か月児）を実施しています。",
+      "description": "6～7か月児、9～10か月児健康診査\n6～7か月児健康診査\n6か月児を対象に、東京都内の契約医療機関で健康診査を行っています。4か月児健康診査のご案内に同封されている受診票を持参して受診して下さい。江東区内の契約医療機関については下記の関連ドキュメントをご覧ください。\n\n9～10か月児健康診査\n9か月児を対象に、東京都内の契約医療機関で健康診査を行っています。4か月児健康診査のご案内に同封されている受診票を持参して受診して下さい。江東区内の契約医療機関については下記の関連ドキュメントをご覧ください。\n\n問合先\nお住まいの地域を担当する保健相談所（下記の関連ページをご覧下さい）\n\n関連ページ\n保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n関連ドキュメント\n乳幼児健康診査実施医療機関名簿（PDF：76KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/260501/kodomo/iryo/kenko/documents/20240501nyuuji.pdf",
+      "target": {
+        "targetPersons": "6か月児,9か月児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "東京都内の契約医療機関で健康診査を行っています。4か月児健康診査のご案内に同封されている受診票を持参して受診して下さい。江東区内の契約医療機関については下記の関連ドキュメントをご覧ください。",
+        "monetarySupport": null,
+        "materiallySupport": "東京都内の契約医療機関で健康診査を行っています。4か月児健康診査のご案内に同封されている受診票を持参して受診して下さい。江東区内の契約医療機関については下記の関連ドキュメントをご覧ください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "お住まいの地域を担当する保健相談所",
+        "implementationAddress": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "4か月児健康診査のご案内に同封されている受診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/kodomo/iryo/kenko/documents/20240501nyuuji.pdf",
+          "title": "乳幼児健康診査実施医療機関名簿（PDF：76KB）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+          "title": "保健相談所担当地域一覧"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/260501/kodomo/iryo/kenko/6889.html",
+        "title": "6～7か月児、9～10か月児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "お住まいの地域を担当する保健相談所（下記の関連ページをご覧ください。）\n・保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+1+UM50",
+        "organization": "6000020131083",
+        "compartment": "健康部 保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-07",
+      "odInformation": {
+        "updateDate": "2024-06-19",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "伴走型相談支援",
+        "shortName": "ゆりかご面接"
+      },
+      "summary": "すべての妊婦さんと子育て家庭が安心して出産・子育てができるように、妊娠から出産・子育てまでの一貫した「伴走型相談支援」を実施しています。",
+      "description": "妊娠中の「ゆりかご面接」\nゆりかご面接について　～すべての妊婦さんが対象・プレゼントを贈呈します～\n妊娠中の出産・子育て等に関する様々な不安や悩みを軽減し、安心して出産を迎えていただくため、保健師等の専門職員が妊婦の方全員に「ゆりかご面接」を行います。\n\n妊婦さんご本人が出産前に「ゆりかご面接」を受けると、プレゼントをお贈りします。ぜひ保健相談所;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.htmlまたは豊洲特別出張所;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/toyosuyurikago.htmlへおいでください。\n\nなお、ゆりかご面接を受けた際にお渡しする出産応援ギフトについては、妊婦が産科医療機関を受診し、医師による妊娠の事実の確認を行うことが支給要件となりますのでご注意ください。\n\n対象者\n江東区にお住まいの妊婦さんご本人\n\nゆりかご面接実施場所\nお住まいの地域を担当する保健相談所;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.htmlまたは豊洲特別出張所;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/toyosuyurikago.htmlで実施しています\n\n妊娠届提出後のゆりかご面接の流れ\n（1）各保健相談所;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.htmlまたは豊洲特別出張所;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/toyosuyurikago.htmlで妊娠届を妊婦ご本人が提出した場合\nその場でゆりかご面接を行います。\n（2）区役所区民課、各出張所、保健所で妊娠届を提出した場合、または妊婦ご本人以外が妊娠届を提出した場合\n改めて各保健相談所;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.htmlまたは豊洲特別出張所;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/toyosuyurikago.htmlでゆりかご面接を行います。\n妊娠届提出時に渡された控えと母子健康手帳をお持ちください。\n（3）他の自治体で妊娠届出書を提出し、江東区に転入された場合\n各保健相談所;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.htmlまたは豊洲特別出張所;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/toyosuyurikago.htmlでゆりかご面接を行います。\n（必ず母子健康手帳をご持参ください）\n受付時間\n月曜日～金曜日　9時00分～16時30分　＜予約不要＞\n\n※土曜日・日曜日・祝日等の休日・年末年始（12月29日から1月3日まで）は受け付けておりません\n\n※豊洲特別出張所でのゆりかご面接については、こちらのページでご確認ください;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/toyosuyurikago.html\n\nプレゼントについて\n江東区に住民票のある方が、妊娠中に「ゆりかご面接」を受けると、その場で妊婦さんへのプレゼント（こども商品券1万円分）が受け取れます。こども商品券は「こども商品券加盟店」でご利用でき、ベビー用品等の購入・タクシー代の支払い等にお使いいただけます。\n\nこども商品券\n\n※プレゼントは変更することがあります。\n\n関連ドキュメント\n保健相談所でゆりかご面接を受けましょう（PDF：3,846KB）;https://www.city.koto.lg.jp/260501/kodomo/ninshinshussan/ninshin/documents/yurikagomensetuwoukemashou.pdf\n\n関連ページ\n保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n豊洲特別出張所でのゆりかご面接;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/toyosuyurikago.html\n妊娠届と母子健康手帳（ゆりかご面接の様子の動画がご覧いただけます）;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/6875.html\n産後ケア事業;https://www.city.koto.lg.jp/260501/kodomo/ninshinshussan/kenko/99710.html",
+      "target": {
+        "targetPersons": "江東区にお住まいの妊婦さんご本人",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠中の出産・子育て等に関する様々な不安や悩みを軽減し、安心して出産を迎えていただくため、保健師等の専門職員が妊婦の方全員に「ゆりかご面接」を行います。\n\n妊婦さんご本人が出産前に「ゆりかご面接」を受けると、プレゼントをお贈りします。ぜひ保健相談所;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.htmlまたは豊洲特別出張所;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/toyosuyurikago.htmlへおいでください。\n\nなお、ゆりかご面接を受けた際にお渡しする出産応援ギフトについては、妊婦が産科医療機関を受診し、医師による妊娠の事実の確認を行うことが支給要件となりますのでご注意ください。",
+        "monetarySupport": "こども商品券1万円分",
+        "materiallySupport": "妊娠中の出産・子育て等に関する様々な不安や悩みを軽減し、安心して出産を迎えていただくため、保健師等の専門職員が妊婦の方全員に「ゆりかご面接」を行います。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "お住まいの地域を担当する保健相談所;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.htmlまたは豊洲特別出張所;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/toyosuyurikago.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "（1）各保健相談所;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.htmlまたは豊洲特別出張所;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/toyosuyurikago.htmlで妊娠届を妊婦ご本人が提出した場合\nその場でゆりかご面接を行います。\n（2）区役所区民課、各出張所、保健所で妊娠届を提出した場合、または妊婦ご本人以外が妊娠届を提出した場合\n改めて各保健相談所;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.htmlまたは豊洲特別出張所;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/toyosuyurikago.htmlでゆりかご面接を行います。\n妊娠届提出時に渡された控えと母子健康手帳をお持ちください。\n（3）他の自治体で妊娠届出書を提出し、江東区に転入された場合\n各保健相談所;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.htmlまたは豊洲特別出張所;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/toyosuyurikago.htmlでゆりかご面接を行います。\n（必ず母子健康手帳をご持参ください）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "09:00",
+        "toYMD": null,
+        "toHM": "16:30",
+        "conditions": "＜予約不要＞\n\n※土曜日・日曜日・祝日等の休日・年末年始（12月29日から1月3日まで）は受け付けておりません"
+      },
+      "electronicSubmission": false,
+      "belongings": "（2）区役所区民課、各出張所、保健所で妊娠届を提出した場合、または妊婦ご本人以外が妊娠届を提出した場合\n妊娠届提出時に渡された控えと母子健康手帳をお持ちください。\n（3）他の自治体で妊娠届出書を提出し、江東区に転入された場合\n（必ず母子健康手帳をご持参ください）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "お住まいの地域を担当する保健相談所または豊洲特別出張所",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/6875.html",
+          "title": "豊洲特別出張所でのゆりかご面接"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/kodomo/ninshinshussan/ninshin/documents/yurikagomensetuwoukemashou.pdf",
+          "title": "保健相談所でゆりかご面接を受けましょう（PDF：3"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+          "title": "846KB）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/toyosuyurikago.html",
+          "title": "保健相談所担当地域一覧"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/kodomo/ninshinshussan/kenko/99710.html",
+          "title": "妊娠届と母子健康手帳（ゆりかご面接の様子の動画がご覧いただけます）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/260501/kodomo/ninshinshussan/ninshin/97550.html",
+        "title": "妊娠中の「ゆりかご面接」"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+1+UM5011",
+        "organization": "6000020131083",
+        "compartment": "健康部 保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-08",
+      "odInformation": {
+        "updateDate": "2024-06-19",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "伴走型相談支援及び出産・子育て応援給付金の一体的実施事業の実施について（子発1226第1号 令和4年12月26日）",
+        "regulationArticle": "別紙：伴走型相談支援及び出産・子育て応援給付金の一体的実施事業実施要綱「伴走型相談支援」（別添１）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "1歳6か月児健康診査",
+        "shortName": "1歳6か月児健康診査"
+      },
+      "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。江東区では1歳6か月児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "1歳6か月児健康診査\n1歳6か月児を対象に、江東区内の契約医療機関で健康診査を行っています。対象年齢に達した方には各保健相談所から直接ご案内を郵送します。同封されている受診票を持参して受診して下さい。\n\n健康診査を受けられる契約医療機関については下記の関連ドキュメントをご覧ください。\n\n問合先\nお住まいの地域を担当する保健相談所（下記の関連ページをご覧下さい）\n\n関連ページ\n保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n関連ドキュメント\n乳幼児健康診査実施医療機関名簿（PDF：76KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/260501/kodomo/iryo/kenko/documents/20240501nyuuji.pdf",
+      "target": {
+        "targetPersons": "1歳6か月児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "江東区内の契約医療機関で健康診査を行っています。対象年齢に達した方には各保健相談所から直接ご案内を郵送します。同封されている受診票を持参して受診して下さい。\n\n健康診査を受けられる契約医療機関については下記の関連ドキュメントをご覧ください。",
+        "monetarySupport": null,
+        "materiallySupport": "江東区内の契約医療機関で健康診査を行っています。対象年齢に達した方には各保健相談所から直接ご案内を郵送します。同封されている受診票を持参して受診して下さい。\n\n健康診査を受けられる契約医療機関については下記の関連ドキュメントをご覧ください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "対象年齢に達した方には各保健相談所から直接ご案内を郵送します。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "受診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/kodomo/iryo/kenko/documents/20240501nyuuji.pdf",
+          "title": "乳幼児健康診査実施医療機関名簿（PDF：76KB）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+          "title": "保健相談所担当地域一覧"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/260501/kodomo/iryo/kenko/6890.html",
+        "title": "1歳6か月児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "お住まいの地域を担当する保健相談所（下記の関連ページをご覧ください。）\n・保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+1+UM51",
+        "organization": "6000020131083",
+        "compartment": "健康部 保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-07",
+      "odInformation": {
+        "updateDate": "2024-06-19",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "3歳児健康診査",
+        "shortName": "3歳児健康診査"
+      },
+      "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。江東区では3歳児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "3歳児健康診査\n3歳児を対象に、内科、歯科健診及び精神発達面の相談、指導を行っています。対象年齢に達した方には各保健相談所から直接ご案内を郵送します。\n\n問い合わせ\nお住まいの地区を担当する保健相談所\n\n関連ページ\n保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+      "target": {
+        "targetPersons": "3歳児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "内科、歯科健診及び精神発達面の相談、指導を行っています。対象年齢に達した方には各保健相談所から直接ご案内を郵送します。",
+        "monetarySupport": null,
+        "materiallySupport": "内科、歯科健診及び精神発達面の相談、指導を行っています。対象年齢に達した方には各保健相談所から直接ご案内を郵送します。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "対象年齢に達した方には各保健相談所から直接ご案内を郵送します。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+          "title": "保健相談所担当地域一覧"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/261101/kodomo/iryo/kenko/6893.html",
+        "title": "3歳児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "お住まいの地域を担当する保健相談所（下記の関連ページをご覧ください。）\n・保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+1+UM52",
+        "organization": "6000020131083",
+        "compartment": "健康部 保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-02-07",
+      "odInformation": {
+        "updateDate": "2024-06-19",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出生連絡票・低体重児出生届",
+        "shortName": "新生児・産婦訪問指導（出生通知票）"
+      },
+      "summary": "赤ちゃんが生まれたら、母子手帳に添付されている出生連絡票（はがき）を記入して、郵送または提出してください。\nなお、法律（母子保健法）で2,500グラム未満のお子さんが出生した時は、保護者がその旨を速やかに届け出ることが義務づけられており、出生連絡票はその届出を兼ねています。",
+      "description": "新生児・産婦訪問指導（出生通知票）\n赤ちゃんが生まれたら、「母と子の保健バッグ」に入っている出生通知票をなるべく早くにご提出ください。\n\n出生通知票による届出をもとに、助産師または保健師がご家庭を訪問し、育児や産後の体調などの相談をお受けしています。\n訪問対象は、原則として生後28日以内の新生児です。ただし、里帰り出産などで訪問を受けられなかった場合には、生後4か月になる前日までお受けします。\n出生通知票（ハガキ）のかわりに「電子申請」による届出もできます。\nまた、上記の手続きとは別に、出生届を提出する必要があります。提出先が異なりますので、以下のリンク先をご参照ください。\n\n関連ドキュメント\n・出生通知票（PDF：216KB）;https://www.city.koto.lg.jp/261301/kodomo/ninshinshussan/shussan/documents/syussyoututihyo.pdf\n関連ページ\n・保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n・電子申請でご利用いただけるサービス;https://www.city.koto.lg.jp/012107/kuse/shinse/21878.html\n・出生届;https://www.city.koto.lg.jp/060302/kurashi/jumin/koseki/5061.html",
+      "target": {
+        "targetPersons": "原則として生後28日以内の新生児です。ただし、里帰り出産などで訪問を受けられなかった場合には、生後4か月になる前日までお受けします。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "原則として生後28日以内の新生児です。ただし、里帰り出産などで訪問を受けられなかった場合には、生後4か月になる前日までお受けします。"
+      },
+      "support": {
+        "description": "原則として生後28日以内の新生児です。ただし、里帰り出産などで訪問を受けられなかった場合には、生後4か月になる前日までお受けします。",
+        "monetarySupport": null,
+        "materiallySupport": "原則として生後28日以内の新生児です。ただし、里帰り出産などで訪問を受けられなかった場合には、生後4か月になる前日までお受けします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "赤ちゃんが生まれたら、「母と子の保健バッグ」に入っている出生通知票をなるべく早く担当の保健相談所にご提出ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "出生通知票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "担当の保健相談所",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koto.lg.jp/261301/kodomo/ninshinshussan/shussan/documents/syussyoututihyo.pdf",
+          "title": "出生通知票（PDF：216KB）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+          "title": "保健相談所担当地域一覧"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/060302/kurashi/jumin/koseki/5061.html",
+          "title": "出生届"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/012107/kuse/shinse/21878.html",
+          "title": "電子申請でご利用いただけるサービス"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/261301/kodomo/ninshinshussan/shussan/6880.html",
+        "title": "新生児・産婦訪問指導（出生通知票）"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/govTop.do?govCode=13108",
+          "title": "★東京共同電子申請・届出サービス（江東区）（外部サイトへリンク）"
+        }
+      ],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+1+UM791",
+        "organization": "6000020131083",
+        "compartment": "健康部 保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-04",
+      "odInformation": {
+        "updateDate": "2024-06-19",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第18条（低体重児の届出）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "077"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（▲歳児歯科健康診査）",
+        "shortName": "1歳6か月児歯科健康診査"
+      },
+      "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。1歳6か月児歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+      "description": "1歳6か月児歯科健康診査\n1歳6か月児を対象に、江東区内の契約歯科医療機関で歯科健康診査を行っています。対象年齢に達した方には各保健相談所から直接ご案内を郵送します。同封されている受診票を持参して受診して下さい。\n\n歯科健康診査を受けられる契約歯科医療機関については、下記の関連ドキュメントをご覧ください。\n\n問合先\nお住まいの地域を担当する保健相談所（下記の関連ページをご覧下さい）\n\n関連ページ\n保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n関連ドキュメント\n1歳6か月児歯科健康診査実施医療機関名簿（PDF：88KB）（別ウィンドウで開きます）;https://app-as.readspeaker.com/cgi-bin/rsent?customerid=7199&lang=ja_jp&readid=tmp_readcontents&url=",
+      "target": {
+        "targetPersons": "1歳6か月児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "江東区内の契約歯科医療機関で歯科健康診査を行っています。対象年齢に達した方には各保健相談所から直接ご案内を郵送します。同封されている受診票を持参して受診して下さい。",
+        "monetarySupport": null,
+        "materiallySupport": "江東区内の契約歯科医療機関で歯科健康診査を行っています。対象年齢に達した方には各保健相談所から直接ご案内を郵送します。同封されている受診票を持参して受診して下さい。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "受診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/kodomo/iryo/kenko/documents/20240601shika.pdf",
+          "title": "1歳6か月児歯科健康診査実施医療機関名簿（PDF：87KB）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+          "title": "保健相談所担当地域一覧"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/260501/kodomo/iryo/kenko/6892.html",
+        "title": "1歳6か月児歯科健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+1+UM792",
+        "organization": "6000020131083",
+        "compartment": "健康部 保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-19",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後期間の国民年金保険料免除",
+        "shortName": "産前産後期間の国民年金保険料免除制度"
+      },
+      "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+      "description": "産前産後期間の国民年金保険料免除制度\n平成31年4月から、国民年金第1号被保険者が出産した際に、出産前後の一定期間の国民年金保険料が免除される制度が始まりました。詳細は、以下、日本年金機構ホームページをご欄ください。\n\n産前産後期間の免除制度（日本年金機構）（外部サイトへリンク）（別ウィンドウで開きます）;https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html\n産前産後期間の免除制度にかかるQ＆A（日本年金機構）（外部サイトへリンク）（別ウィンドウで開きます）;https://www.nenkin.go.jp/service/kokunen/menjo/20180810.files/QA.pdf\n対象者\n国民年金第1号被保険者で出産日が平成31年2月1日以降の方\n\n（注意1）保険料納付済みの方や一般の免除申請を申請済みの方も届出可能です。\n\n（注意2）厚生年金加入中の方は勤務先にご相談ください。\n\n免除対象期間\n出産予定日または出産日が属する月の前月から4か月間（注意1）の国民年金保険料が免除されます。承認された期間は保険料を納付したものとして老齢基礎年金の受給額に反映されます。\n\n（注意1）多胎妊娠の場合は、出産予定日または出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。\n\n（注意2）出産とは、妊娠85日（4か月）以上の出産をいいます（死産・流産・早産された方も含みます）。\n\n届出時期\n出産予定日の6か月前から届出できます。出産後の届出も可能です。\n\n届出方法\n窓口での届出\n【江東区役所区民課年金係】\n\n江東区東陽4丁目11番28号\n\n江東区役所本庁者隣防災センター2階20番窓口\n\n電話03-3647-1131\n\n（注意）各出張所・豊洲特別出張所では届出できません。\n\n【江東年金事務所国民年金課】\n\n江東区亀戸5丁目16番9号1階\n\n電話03-3683-1231自動音声案内後「2」⇒「2」\n\n郵送での届出\n郵送での届出も可能です。日本年金機構の関連ページ（外部サイトへリンク）（別ウィンドウで開きます）から「国民年金被保険者関係届書（申出書）」を入手できます。区役所年金係までご連絡いただければ、届書をお送りすることも可能です。\n\n国民年金被保険者関係届書（申出書）に必要事項を記載し、母子健康手帳のコピーなど必要書類を同封のうえ、下記までご郵送ください。\n\n＜郵送先＞\n\n〒135-8383江東区東陽4-11-28江東区役所区民課年金係\n\nマイナポータルを利用した電子申請\n産前産後期間の国民年金保険料の免除は、マイナポータルを利用した電子申請も可能です。詳しくは、日本年金機構の関連ページ（外部サイトへリンク）（別ウィンドウで開きます）をご覧ください。;https://www.nenkin.go.jp/denshibenri_kojin/denshibenri_kojin/shinsei_kojin.html\n\n必要書類\n年金手帳や基礎年金番号通知書など日本年金機構が発行した基礎年金番号がわかる書類\n個人番号（マイナンバー）がわかるもの（マイナンバーカードまたはマイナンバーが記載された住民票）\n本人確認ができる書類（外部サイトへリンク）（別ウィンドウで開きます）;https://www.nenkin.go.jp/section/guidance/onegai.html#cms002\n母子健康手帳など出産（予定）日がわかるもの\n関連ファイル\n日本年金機構リーフレット（PDF：1,216KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/060306/documents/sanzensango.pdf",
+      "target": {
+        "targetPersons": "国民年金第1号被保険者で出産日が平成31年2月1日以降の方\n\n（注意1）保険料納付済みの方や一般の免除申請を申請済みの方も届出可能です。\n\n（注意2）厚生年金加入中の方は勤務先にご相談ください。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "出産予定日または出産日が属する月の前月から4か月間（注意1）の国民年金保険料が免除されます。承認された期間は保険料を納付したものとして老齢基礎年金の受給額に反映されます。\n\n（注意1）多胎妊娠の場合は、出産予定日または出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。\n\n（注意2）出産とは、妊娠85日（4か月）以上の出産をいいます（死産・流産・早産された方も含みます）。",
+        "monetarySupport": "出産予定日または出産日が属する月の前月から4か月間（注意1）の国民年金保険料が免除されます。承認された期間は保険料を納付したものとして老齢基礎年金の受給額に反映されます。\n\n（注意1）多胎妊娠の場合は、出産予定日または出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。\n\n（注意2）出産とは、妊娠85日（4か月）以上の出産をいいます（死産・流産・早産された方も含みます）。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "窓口での届出\n【江東区役所区民課年金係】\n\n江東区東陽4丁目11番28号\n\n江東区役所本庁舎隣防災センター2階20番窓口\n\n電話03-3647-1131\n\n（注意）各出張所・豊洲特別出張所では届出できません。\n\n【江東年金事務所国民年金課】\n\n江東区亀戸5丁目16番9号1階\n\n電話03-3683-1231自動音声案内後「2」⇒「2」\n\n郵送での届出\n郵送での届出も可能です。日本年金機構の関連ページ（外部サイトへリンク）（別ウィンドウで開きます）から「国民年金被保険者関係届書（申出書）」を入手できます。区役所年金係までご連絡いただければ、届書をお送りすることも可能です。;https://www.nenkin.go.jp/shinsei/kokunen/kokunen.html#cms700\n\n国民年金被保険者関係届書（申出書）に必要事項を記載し、母子健康手帳のコピーなど必要書類を同封のうえ、下記までご郵送ください。\n\n＜郵送先＞\n\n〒135-8383江東区東陽4-11-28江東区役所区民課年金係\n\nマイナポータルを利用した電子申請\n産前産後期間の国民年金保険料の免除は、マイナポータルを利用した電子申請も可能です。詳しくは、日本年金機構の関連ページ（外部サイトへリンク）（別ウィンドウで開きます）をご覧ください。;https://www.nenkin.go.jp/denshibenri_kojin/denshibenri_kojin/shinsei_kojin.html\n\n必要書類\n・年金手帳や基礎年金番号通知書など日本年金機構が発行した基礎年金番号がわかる書類\n・個人番号（マイナンバー）がわかるもの（マイナンバーカードまたはマイナンバーが記載された住民票）\n・本人確認ができる書類（外部サイトへリンク）（別ウィンドウで開きます）;https://www.nenkin.go.jp/section/guidance/onegai.html#cms002\n・母子健康手帳など出産（予定）日がわかるもの",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産予定日の6か月前から届出できます。出産後の届出も可能です。"
+      },
+      "electronicSubmission": true,
+      "belongings": "・年金手帳や基礎年金番号通知書など日本年金機構が発行した基礎年金番号がわかる書類\n・個人番号（マイナンバー）がわかるもの（マイナンバーカードまたはマイナンバーが記載された住民票）\n・本人確認ができる書類（外部サイトへリンク）（別ウィンドウで開きます）;https://www.nenkin.go.jp/section/guidance/onegai.html#cms002\n・母子健康手帳など出産（予定）日がわかるもの",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.nenkin.go.jp/section/guidance/onegai.html#cms002",
+          "title": "本人確認ができる書類（外部サイトへリンク）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.nenkin.go.jp/denshibenri_kojin/denshibenri_kojin/shinsei_kojin.html",
+          "title": "日本年金機構の関連ページ（外部サイトへリンク）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.nenkin.go.jp/shinsei/kokunen/kokunen.html#cms700",
+          "title": "日本年金機構の関連ページ（外部サイトへリンク）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html",
+          "title": "産前産後期間の免除制度（日本年金機構）（外部サイトへリンク）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.nenkin.go.jp/shinsei/kokunen/kokunen.html#cms700",
+          "title": "日本年金機構リーフレット（PDF：1"
+        },
+        {
+          "uri": "https://www.nenkin.go.jp/service/kokunen/menjo/20180810.files/QA.pdf",
+          "title": "産前産後期間の免除制度にかかるQ＆A（日本年金機構）（外部サイトへリンク）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.nenkin.go.jp/denshibenri_kojin/denshibenri_kojin/shinsei_kojin.html",
+          "title": "216KB）（別ウィンドウで開きます）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/060306/sanzensango.html",
+        "title": "産前産後期間の国民年金保険料免除制度"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.nenkin.go.jp/denshibenri_kojin/denshibenri_kojin/shinsei_kojin.html",
+          "title": "日本年金機構の関連ページ（外部サイトへリンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "区民部 区民課 年金係",
+        "contactPhone": "03-3647-1131",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.koto.lg.jp/cgi-bin/simple_faq/form.cgi",
+        "contactComment": "ファックス：03-3647-9415",
+        "zipCode": "1358383",
+        "contactAddress": "東京都江東区東陽 4-11-28"
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+1+UM793",
+        "organization": "6000020131083",
+        "compartment": "区民部 区民課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-04",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民年金法",
+        "regulationArticle": "第88条の2（保険料の納付義務）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "016"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "離乳食教室",
+        "shortName": "育児学級・離乳食教室・1歳食事教室"
+      },
+      "summary": "・９～10か月、1歳6か月～2歳未満の乳幼児をもつ方を対象に、お子さんの発達・生活・虫歯の予防など子育てを中心とした育児学級を開催しています。\n・生後6か月前後のお子さんとその保護者を対象に、離乳食を始める時のポイントやすすめ方についての講座を開催しています。離乳食のいろいろな悩みに栄養士がお答えします。また、離乳食の作り方の実演や試食もあります。\n・1歳～1歳6か月ころのお子さんとその保護者を対象に、離乳食から幼児職へと進めるポイントや調理実演・試食を行っています。",
+      "description": "育児学級\n9～10か月児育児学級・1歳6か月児育児学級\n乳幼児（9～10か月児、1歳6か月～2歳未満の児）をもつ方を対象に、お子さんの発達・生活、むし歯の予防など子育てを中心とした育児学級を各保健相談所で開催しています。お子さんと一緒にご参加ください。\n\n開催日時、予約等につきましては、お住まいの地域を所管する保健相談所へお問い合わせください。また、下記関連ドキュメントもご参照ください。\n\n離乳食教室（6～7か月頃）\n赤ちゃんの離乳食のすすめ方（中期食）のポイントや調理実演・試食を行っています。\n離乳食をはじめて1か月くらい経過した頃にご参加ください。〔※予約制〕\n\n※こうとう区報掲載日（前月1日発行）から5日目（休日の場合は翌平日）より受付開始となります。\n\n※令和6年度4月以降の離乳食教室予約は電子予約が可能です。（下記予約フォームより）\n\n1歳児食事教室（1歳～1歳6か月）\n離乳食から幼児食へと進めるポイントや調理実演・試食を行っています。〔※予約制〕\n\n※こうとう区報掲載日（前月1日発行）から5日目（休日の場合は翌平日）より受付開始となります。\n\n※令和6年度4月以降の1歳児食事教室予約は電子予約が可能です。（下記予約フォームより）\n\nお問い合わせ先\nお住まいの地区を管轄する保健相談所\n\n関連ドキュメント\n・深川保健相談所育児学級（令和6年度）（PDF：751KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/261301/kodomo/kosodate/service/documents/r6hukagawaikugaku.pdf\n・深川南部保健相談所育児学級（令和6年度）（PDF：589KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/261301/kodomo/kosodate/service/documents/r6hukagawananbuikugaku.pdf\n・城東保健相談所育児学級（令和6年度）（PDF：507KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/261301/kodomo/kosodate/service/documents/r6jotoikugaku.pdf\n・城東南部保健相談所育児学級（令和6年度）（PDF：354KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/261301/kodomo/kosodate/service/documents/r6jotonanbuikugaku.pdf\n・令和6年度離乳食（6、7か月）教室日程ご案内（PDF：322KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/261301/kodomo/kosodate/service/documents/2024-67babyfoodsclass.pdf\n・令和6年度1歳児食事教室日程ご案内（PDF：317KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/261301/kodomo/kosodate/service/documents/2024-1yearclass.pdf\n\n【離乳食教室・1歳児食事教室】予約フォーム\n・【城東保健相談所】離乳食（6、7）か月、1歳児食事教室予約フォーム（外部サイトへリンク）;https://logoform.jp/f/S6JXr\n・【深川保健相談所】離乳食（6、7）か月、1歳児食事教室予約フォーム（外部サイトへリンク）;https://logoform.jp/form/Pwvm/482945\n・【深川南部保健相談所】離乳食（6、7）か月、1歳児食事教室予約フォーム（外部サイトへリンク）;https://logoform.jp/f/squ24\n・【城東南部保健相談所】離乳食（6、7）か月、1歳児食事教室予約フォーム（外部サイトへリンク）;https://logoform.jp/f/lRwqH",
+      "target": {
+        "targetPersons": "＜離乳食教室＞・離乳食をはじめて1か月くらい経過した頃\n・9～10か月\n・1歳6か月～2歳未満\n・1歳～1歳6か月",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "＜離乳食教室＞・離乳食をはじめて1か月くらい経過した頃\n・9～10か月\n・1歳6か月～2歳未満\n・1歳～1歳6か月"
+      },
+      "support": {
+        "description": "赤ちゃんの離乳食のすすめ方（中期食）のポイントや調理実演・試食を行っています。\n離乳食をはじめて1か月くらい経過した頃にご参加ください。〔※予約制〕\n\n※こうとう区報掲載日（前月1日発行）から5日目（休日の場合は翌平日）より受付開始となります。\n\n※令和6年度4月以降の離乳食教室予約は電子予約が可能です。（下記予約フォームより）\n\n【離乳食教室・1歳児食事教室】予約フォーム\n・【城東保健相談所】離乳食（6、7）か月、1歳児食事教室予約フォーム（外部サイトへリンク）;https://logoform.jp/f/S6JXr\n・【深川保健相談所】離乳食（6、7）か月、1歳児食事教室予約フォーム（外部サイトへリンク）;https://logoform.jp/form/Pwvm/482945\n・【深川南部保健相談所】離乳食（6、7）か月、1歳児食事教室予約フォーム（外部サイトへリンク）;https://logoform.jp/f/squ24\n・【城東南部保健相談所】離乳食（6、7）か月、1歳児食事教室予約フォーム（外部サイトへリンク）;https://logoform.jp/f/lRwqH",
+        "monetarySupport": null,
+        "materiallySupport": "赤ちゃんの離乳食のすすめ方（中期食）のポイントや調理実演・試食を行っています。\n離乳食をはじめて1か月くらい経過した頃にご参加ください。〔※予約制〕\n\n※こうとう区報掲載日（前月1日発行）から5日目（休日の場合は翌平日）より受付開始となります。\n\n※令和6年度4月以降の離乳食教室予約は電子予約が可能です。（下記予約フォームより）\n\n【離乳食教室・1歳児食事教室】予約フォーム\n・【城東保健相談所】離乳食（6、7）か月、1歳児食事教室予約フォーム（外部サイトへリンク）;https://logoform.jp/f/S6JXr\n・【深川保健相談所】離乳食（6、7）か月、1歳児食事教室予約フォーム（外部サイトへリンク）;https://logoform.jp/form/Pwvm/482945\n・【深川南部保健相談所】離乳食（6、7）か月、1歳児食事教室予約フォーム（外部サイトへリンク）;https://logoform.jp/f/squ24\n・【城東南部保健相談所】離乳食（6、7）か月、1歳児食事教室予約フォーム（外部サイトへリンク）;https://logoform.jp/f/lRwqH"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "令和6年度離乳食（6、7か月）教室日程ご案内（PDF：322KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/261301/kodomo/kosodate/service/documents/2024-67babyfoodsclass.pdf",
+        "implementationAddress": "令和6年度離乳食（6、7か月）教室日程ご案内（PDF：322KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/261301/kodomo/kosodate/service/documents/2024-67babyfoodsclass.pdf"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "令和6年度離乳食（6、7か月）教室日程ご案内（PDF：322KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/261301/kodomo/kosodate/service/documents/2024-67babyfoodsclass.pdf",
+      "procedurePersons": null,
+      "procedureMethod": "※こうとう区報掲載日（前月1日発行）から5日目（休日の場合は翌平日）より受付開始となります。\n\n※令和6年度4月以降の離乳食教室予約は電子予約が可能です。（下記予約フォームより）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "お住まいの地区を管轄する保健相談所",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koto.lg.jp/261301/kodomo/kosodate/service/documents/r6jotonanbuikugaku.pdf",
+          "title": "城東南部保健相談所育児学級（令和6年度）（PDF：354KB）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/261301/kodomo/kosodate/service/documents/r6hukagawaikugaku.pdf",
+          "title": "深川保健相談所育児学級（令和6年度）（PDF：751KB）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/261301/kodomo/kosodate/service/documents/r6hukagawananbuikugaku.pdf",
+          "title": "深川南部保健相談所育児学級（令和6年度）（PDF：589KB）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/261301/kodomo/kosodate/service/documents/r6jotoikugaku.pdf",
+          "title": "城東保健相談所育児学級（令和6年度）（PDF：507KB）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/261301/kodomo/kosodate/service/documents/2024-67babyfoodsclass.pdf",
+          "title": "令和6年度離乳食（6、7か月）教室日程ご案内（PDF：322KB）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/261301/kodomo/kosodate/service/documents/2024-1yearclass.pdf",
+          "title": "令和6年度1歳児食事教室日程ご案内（PDF：317KB）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://logoform.jp/f/S6JXr",
+          "title": "【城東保健相談所】離乳食（6、7）か月、1歳児食事教室予約フォーム（外部サイトへリンク）"
+        },
+        {
+          "uri": "https://logoform.jp/form/Pwvm/482945",
+          "title": "【深川保健相談所】離乳食（6、7）か月、1歳児食事教室予約フォーム（外部サイトへリンク）"
+        },
+        {
+          "uri": "https://logoform.jp/f/squ24",
+          "title": "【深川南部保健相談所】離乳食（6、7）か月、1歳児食事教室予約フォーム（外部サイトへリンク）"
+        },
+        {
+          "uri": "https://logoform.jp/f/lRwqH",
+          "title": "【城東南部保健相談所】離乳食（6、7）か月、1歳児食事教室予約フォーム（外部サイトへリンク）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+          "title": "保健相談所担当地域一覧"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/261301/kodomo/kosodate/service/6897.html",
+        "title": "育児学級"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/Pwvm/480684",
+          "title": "【城東保健相談所】離乳食（6、7）か月、1歳児食事教室予約フォーム（外部サイトへリンク）"
+        },
+        {
+          "uri": "https://logoform.jp/form/Pwvm/482945",
+          "title": "【深川保健相談所】離乳食（6、7）か月、1歳児食事教室予約フォーム（外部サイトへリンク）"
+        },
+        {
+          "uri": "https://logoform.jp/form/Pwvm/429962",
+          "title": "【深川南部保健相談所】離乳食（6、7）か月、1歳児食事教室予約フォーム（外部サイトへリンク）"
+        },
+        {
+          "uri": "https://logoform.jp/form/Pwvm/482012",
+          "title": "【城東南部保健相談所】離乳食（6、7）か月、1歳児食事教室予約フォーム（外部サイトへリンク）"
+        }
+      ],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+1+UM798",
+        "organization": "6000020131083",
+        "compartment": "健康部 保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-20",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法、食育基本法",
+        "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）、法第5条（子どもの食育における保護者、教育関係者等の役割）、21条 （地域における食生活の改善のための取組の推進）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自立支援医療制度（精神通院医療）",
+        "shortName": "自立支援医療制度（精神通院）"
+      },
+      "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+      "description": "自立支援医療制度（精神通院）について\n障害者総合支援法（障害者の日常生活及び社会生活を総合的に支援するための法律）「自立支援医療制度（精神通院）」の適用を受けると、精神通院医療費のうち原則1割の自己負担となります。所得状況や疾病・症状等に応じて月額自己負担上限額が設定されています。\n自立支援医療（精神通院）の適用を受けるためには、申請手続きが必要です。申請には、東京都所定の診断書のほか、保険証の写しなどの必要な書類がありますので、事前\nお近くの保健相談所または保健所へ電話等でご確認ください。また申請は区役所ではなく、下記で受け付けています。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "障害者総合支援法（障害者の日常生活及び社会生活を総合的に支援するための法律）「自立支援医療制度（精神通院）」の適用を受けると、精神通院医療費のうち原則1割の自己負担となります。所得状況や疾病・症状等に応じて月額自己負担上限額が設定されています。",
+        "monetarySupport": "障害者総合支援法（障害者の日常生活及び社会生活を総合的に支援するための法律）「自立支援医療制度（精神通院）」の適用を受けると、精神通院医療費のうち原則1割の自己負担となります。所得状況や疾病・症状等に応じて月額自己負担上限額が設定されています。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申請には、東京都所定の診断書のほか、保険証の写しなどの必要な書類がありますので、事前にお近くの保健相談所または保健所へ電話等でご確認ください。また申請は区役所ではなく、下記で受け付けています。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "マイナンバーカードと健康保険証の一体化により、令和6年12月2日以降は健康保険証の新規発行等が廃止されることから、保険情報の確認については下記の通り取り扱うことといたします。\n\n健康保険証の原本がある場合\n\n従来通り健康保険証の原本をお持ちください。\n\n健康保険証の原本がない場合\n\n下記のいずれかをお持ちください。\n\n1：資格確認書\n\n2：資格情報のお知らせ（右下の切り取りサイズのみは不可）\n\n3：マイナポータルの資格情報データを印刷したもの\n\n　（注釈）以下のすべての事項が表示されている画面を印刷してください。\n\n　＜記号・番号・枝番、氏名、生年月日、資格取得年月日、被保険者氏名または世帯主氏名、本人・家族の別、保険者番号、保険者名＞\n\n　（注釈）印刷が難しい場合は、上記の事項が表示されている画面を窓口で提示する必要があります。\n●マイナポータル「健康保険証情報」の確認方法（外部サイトへリンク）（別ウィンドウで開きます）;https://img.myna.go.jp/manual/03-01/0169.html",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "城東保健相談所;https://www.city.koto.lg.jp/261001/shisetsuannai/kenkou/hokenshisetsu/sodanjo/16333.html　大島3丁目1番3号　電話：03-3637-6521\n深川保健相談所;https://www.city.koto.lg.jp/261101/shisetsuannai/kenkou/hokenshisetsu/sodanjo/16331.html　白河3丁目4番3号301　電話：03-3641-1181\n深川南部保健相談所;https://www.city.koto.lg.jp/261201/shisetsuannai/kenkou/hokenshisetsu/sodanjo/16332.html　枝川1丁目8番15号102　電話：03-5632-2291\n城東南部保健相談所;https://www.city.koto.lg.jp/261301/shisetsuannai/kenkou/hokenshisetsu/sodanjo/16334.html　南砂4丁目3番10号　電話：03-5606-5001\n保健予防課保健係　東陽2丁目1番1号　電話：03-3647-5906",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+          "title": "保健相談所担当地域一覧"
+        },
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/shougai//nichijo/tsuuin/seishintsuuin.html",
+          "title": "自立支援医療（精神通院医療）について（東京都福祉保健局）（外部サイトへリンク）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/shisetsuannai/kenkou/hokenshisetsu/sodanjo/index.html",
+          "title": "保健相談所"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/seshin/6912.html",
+        "title": "自立支援医療制度（精神通院）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部（保健所） 保健予防課 保健係",
+        "contactPhone": "03-3647-5906",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1358383",
+        "contactAddress": "江東区東陽2丁目1番1号"
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+1+UM824",
+        "organization": "6000020131083",
+        "compartment": "健康部（保健所） 保健予防課 保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/12/02",
+      "odInformation": {
+        "updateDate": "2025-02-26",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律",
+        "regulationArticle": "第58条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "025",
+          "027"
+        ],
+        "targetCode": [
+          "087",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小児科救急",
+        "shortName": "休日診療・休日歯科診療のご案内"
+      },
+      "summary": "江東区では、土曜準夜間や日曜・祝日、年末年始に、区医師会、薬剤師会の協力のもと、休日急病診療所において診療を行っています。\n\nまた、日曜・祝日・年末年始に江東区歯科医師会の協力のもと、当番制で歯科診療を行っています。\n",
+      "description": "休日診療・休日歯科診療のご案内\n土曜・休日急病診療案内\n江東区では、区医師会、薬剤師会の協力を得て、休日でも急病の場合には、次の診療が受けられます。土曜の準夜間・日曜・祝日・年末年始（12月29日～1月4日）に急病にかかったとき、ご利用ください。（診療の際には、必ず保険証をお持ちください。保険証がない場合には、全額実費負担となります。）なお、投薬につきましては、翌日かかりつけ医等を受診されるまでの1日分の処方を原則としております。（土曜日につきましては、日曜日を含む2日分も可）\n\n・5月6日（月曜日・休日）まで、土曜・休日急病診療は予約制となっています。事前に電話で予約のうえ、受診してください。5月11日（土曜日）以降は、予約不要です。\n・受診時には、マスクの着用をお願いします。\n診療対象者\n内科・小児科の急病患者\n\n診療受付\n（土曜）午後6時～9時30分\n\n（休日）午前9時～11時30分、午後1時～9時30分\n\n診療時間\n（土曜）午後6時～10時\n\n（休日）午前9時～正午、午後1時～10時\n\n江東区休日急病診療所\n江東区医師会館内\n電話：03-3645-3109（東陽5丁目31番18号）\n\n総合区民センター内\n電話：03-3637-4531（大島4丁目5番1号）\n\n調剤薬局\n江東区医師会館内\n電話：03-5606-0502（東陽5丁目31番18号）\n\n総合区民センター南側\n電話：03-3681-4388（大島4丁目4番3号）\n\n江東区医師会館内休日急病診療所\nhttps://www.city.koto.lg.jp/260315/fukushi/iryo/images/13318_isikaikanitengo.jpg\n江東区医師会館内休日急病診療所\n\n総合区民センター内休日急病診療所\nhttps://www.city.koto.lg.jp/260315/fukushi/iryo/images/jyoutousoudan090704.jpg\n総合区民センター内休日急病診療所\n\n都内の救急医療機関をお探しの方（急病でお困りの方）へ\n本ページ一番下「関連リンク」より「休日・全夜間診療事業実施医療機関一覧（東京都指定二次救急医療機関一覧）」をクリックしていただくと東京都作成のホームページよりお探しすることが出来ます。\n\n休日歯科応急診療案内\n江東区歯科医師会の協力を得て、休日でも急病の場合には、次の診療が受けられます。日曜・祝日・年末年始に歯科の急病にかかったとき、ご利用ください。（診療の際には、必ず保険証をお持ちください。保険証がない場合には、全額実費負担となります。\n\n診療対象\n歯科の急病患者\n\n診療受付\n9時00分～11時30分、13時00分～16時30分\n\n当番医へあらかじめ電話でお申し込みください。\n\n当番医\nhttps://www.city.koto.lg.jp/260315/fukushi/iryo/6826.html\n\n関連ページ\n平日夜間こどもクリニックのご案内;https://www.hokeniryo.metro.tokyo.lg.jp/iryo/sodan/komatta/kyuubyou/kyuujituzennyakann.html\n関連施設\n江東区保健所;https://www.city.koto.lg.jp/260311/shisetsuannai/kenkou/hokenshisetsu/16330.html\n関連リンク\n休日・全夜間診療事業実施医療機関一覧（東京都指定二次救急医療機関一覧）（外部サイトへリンク）（別ウィンドウで開きます）;https://www.hokeniryo.metro.tokyo.lg.jp/iryo/sodan/komatta/kyuubyou/kyuujituzennyakann.html\n東京都こども医療ガイド（外部サイトへリンク）（別ウィンドウで開きます）;https://www.guide.metro.tokyo.lg.jp/\n厚生労働省「医療情報ネット」（外部サイトへリンク）（別ウィンドウで開きます）;https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize\n知って安心暮らしの中の医療情報ナビ（外部サイトへリンク）（別ウィンドウで開きます）;http://www.fukushihoken.metro.tokyo.jp/inavi/",
+      "target": {
+        "targetPersons": "内科・小児科の急病患者\n歯科の急病患者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "土曜・休日急病診療案内\n江東区では、区医師会、薬剤師会の協力を得て、休日でも急病の場合には、次の診療が受けられます。土曜の準夜間・日曜・祝日・年末年始（12月29日～1月4日）に急病にかかったとき、ご利用ください。（診療の際には、必ず保険証をお持ちください。保険証がない場合には、全額実費負担となります。）なお、投薬につきましては、翌日かかりつけ医等を受診されるまでの1日分の処方を原則としております。（土曜日につきましては、日曜日を含む2日分も可）\n\n休日歯科応急診療案内\n江東区歯科医師会の協力を得て、休日でも急病の場合には、次の診療が受けられます。日曜・祝日・年末年始に歯科の急病にかかったとき、ご利用ください。（診療の際には、必ず保険証をお持ちください。保険証がない場合には、全額実費負担となります。",
+        "monetarySupport": null,
+        "materiallySupport": "土曜・休日急病診療案内\n江東区では、区医師会、薬剤師会の協力を得て、休日でも急病の場合には、次の診療が受けられます。土曜の準夜間・日曜・祝日・年末年始（12月29日～1月4日）に急病にかかったとき、ご利用ください。（診療の際には、必ず保険証をお持ちください。保険証がない場合には、全額実費負担となります。）なお、投薬につきましては、翌日かかりつけ医等を受診されるまでの1日分の処方を原則としております。（土曜日につきましては、日曜日を含む2日分も可）\n\n休日歯科応急診療案内\n江東区歯科医師会の協力を得て、休日でも急病の場合には、次の診療が受けられます。日曜・祝日・年末年始に歯科の急病にかかったとき、ご利用ください。（診療の際には、必ず保険証をお持ちください。保険証がない場合には、全額実費負担となります。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "土曜・休日急病診療案内\n診療時間\n（土曜日）午後6時～10時\n\n（休日）午前9時～正午、午後1時～10時\n\n休日歯科応急診療時間\n（休日）午前９時～正午、午後１時～午後５時"
+      },
+      "implementationPlace": {
+        "implementationName": "土曜・休日急病診療：江東区休日急病診療所（江東区医師会館内、\n総合区民センター内）\n\n休日歯科応急診療：当番歯科医院",
+        "implementationAddress": "江東区医師会館内：江東区東陽5-31-18\n\n総合区民センター内：江東区大島4-5-1"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "土曜・休日急病診療案内\n診療時間\n（土曜日）午後6時～10時\n\n（休日）午前9時～正午、午後1時～10時\n\n休日歯科応急診療時間\n（休日）午前９時～正午、午後１時～午後５時"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "土曜・休日急病診療受付時間\n診療時間\n（土曜日）午後6時～9時30分\n（休日）午前9時～11時30分 、午後1時～9時30分\n\n休日歯科応急診療受付時間\n（休日）午前９時～11時30分、午後１時～午後4時30分"
+      },
+      "electronicSubmission": false,
+      "belongings": "保険証",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.hokeniryo.metro.tokyo.lg.jp/iryo/sodan/komatta/kyuubyou/kyuujituzennyakann.html",
+          "title": "休日・全夜間診療事業実施医療機関一覧（東京都指定二次救急医療機関一覧）"
+        },
+        {
+          "uri": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize",
+          "title": "厚生労働省「医療情報ネット」"
+        },
+        {
+          "uri": "http://www.fukushihoken.metro.tokyo.jp/inavi/",
+          "title": "知って安心暮らしの中の医療情報ナビ\n休日・全夜間診療事業実施医療機関一覧（東京都指定二次救急医療機関一覧）（外部サイトへリンク）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260311/shisetsuannai/kenkou/hokenshisetsu/16330.html",
+          "title": "江東区保健所"
+        },
+        {
+          "uri": "https://www.guide.metro.tokyo.lg.jp/",
+          "title": "東京都こども医療ガイド"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260315/kodomo/iryo/shouni/6903.html",
+          "title": "平日夜間こどもクリニックのご案内"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/260315/fukushi/iryo/6826.html",
+        "title": "休日診療・休日歯科診療のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "江東区健康部（保健所）健康推進課がん対策・地域医療連携係",
+        "contactPhone": "03-3647-5889",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "Fax：03-3615-7171",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+2+UM114",
+        "organization": "6000020131083",
+        "compartment": "健康部 健康推進課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-06-21",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "救急医療対策事業実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "両親学級（休日版）"
+      },
+      "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、江東区では産科医師、歯科医師、保健師、栄養士、助産師などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+      "description": "両親学級（休日版）\n対面・オンライン両親学級（休日版）\n初めて赤ちゃんを迎える妊婦・パートナーを対象に、休日にオンラインと対面による両親学級を開催しています。\n\n妊娠中や出産、育児のことについて学びます。\n\nおふたりで子育てやそれぞれの役割を考えるきっかけにしてみませんか？\n\n開催日は、出産予定日により異なります。\n\n参加希望の方は、申込方法をご覧の上、お申込みください。\n\n内容\n対面講座またはZoomアプリケーションを利用したオンライン講座です。\n\n・子育てについての講演\n・グループワーク （他のプレママ・プレパパ、助産師との交流会）\n・育児に関するデモンストレーション (沐浴、着替え、オムツ交換等）\n（注釈）グループワークを行わない回もございます。\n\n対象\n江東区在住で、初めてお子さんを迎える方（原則　妊娠26週から35週未満の妊婦とパートナーで参加可能な方）\n\n日時・定員・会場\n令和6年度　休日版両親学級開催予定表（PDF：281KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/261201/documents/kyujitubannittei.pdf\n\n会場の予約や感染状況の拡大により変更となる場合があります。\n\n申込方法\n【オンライン講座】\n\n下記のフォームからお申し込みください。\n\n●（公益社団法人）東京都助産師会江東地区分会（外部サイトへリンク）（別ウィンドウで開きます）;https://kotomw.jimdofree.com/\n\nお申込みいただいた方には、受付確認メールが自動送信されます。\n\n開催日の3日～4日前までに、Zoomの招待メールが自動送信されます。\n\nkotomw.pc@gmail.comからのメールを受信できるよう、設定をお願いいたします。\n\n【対面講座】\n\n(1)または(2)の方法で申し込みください。\n\n(1)申し込みフォームから\n\nオンライン講座と同じです。\n\n（2）往復はがきで\n\n「江東区両親学級」と明記の上、受講希望日、郵便番号、住所、参加者2名の氏名（フリガナ）と生年月日、電話番号、出産予定日と返信用に住所、氏名をご記入いただき、申込期間内に到着するように郵送してください。\n\n＜申込先＞\n\n〒135-0016　江東区東陽3丁目21番11号101　江東区助産師会休日版両親学級事務局\n\n受講者の決定\n【オンライン講座】\n\n受講者は先着順で決定いたします。\n\n決定後速やかにメールで通知いたします。\n\n【対面講座】\n\n申し込みが定員を超える場合は、抽選により受講者を決定いたします。\n\n結果は申し込み方法に応じて　はがき　または　メール　でお知らせいたします。\n\n受講者の方へ\n【オンライン講座】\n\n・Zoomアプリケーションを利用した講座です。当日使用する端末にアプリケーションを事前にダウンロードしていただくよう、お願いいたします。\n・通信料は各自のご負担となります。\n・参加の際はカメラを「オン」にしてご参加いただきます。\n・お申し込みの際は、開催日当日に使用する端末のメールアドレスをご登録ください。\n・当日の映像が出ない、音が出ない等の機材に関することや、接続に関することへの対応はできかねますのでご注意ください。\n・そのまま不参加となった場合でも、保証や賠償は行っておりませんのでご了承ください。\n・参加中は、録音・録画は禁止とさせていただきます。\n・受講に必要な資料ファイルを、Zoom招待メールの送信時に貼付いたします。必要に応じて印刷いただき、ご準備をお願いいたします。\n【対面口座】\n\n・最新の状況につきましては、当ホームページをご確認いただきますよう、お願いいたします。\n皆様のご参加を心よりお待ちしております。\n\nお問い合せ\nこの事業は、下記事業者に委託して実施しています。メールまたは電話でお問合せください。\n\nお問合せの際は「江東区休日版両親学級」についてとお伝えください。\n\n（公益社団法人）東京都助産師会江東地区分会　休日版両親学級事務局\n\n電話番号：090-6212-6556\n\nE-mail：kotomw.pc@gmail.com\n\n受付時間：月曜～金曜日（祝日・年末年始を除く）午前9時～午後5時\n\n関連ページ\n保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n両親学級（平日版）;https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/6884.html",
+      "target": {
+        "targetPersons": "江東区在住で、初めてお子さんを迎える方（原則　妊娠26週から35週未満の妊婦とパートナーで参加可能な方）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "対面講座またはZoomアプリケーションを利用したオンライン講座です。\n\n・子育てについての講演\n・グループワーク （他のプレママ・プレパパ、助産師との交流会）\n・育児に関するデモンストレーション (沐浴、着替え、オムツ交換等）\n（注釈）グループワークを行わない回もございます。",
+        "monetarySupport": null,
+        "materiallySupport": "対面講座またはZoomアプリケーションを利用したオンライン講座です。\n\n・子育てについての講演\n・グループワーク （他のプレママ・プレパパ、助産師との交流会）\n・育児に関するデモンストレーション (沐浴、着替え、オムツ交換等）\n（注釈）グループワークを行わない回もございます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "令和6年度　休日版両親学級開催予定表（PDF：281KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/261201/documents/kyujitubannittei.pdf"
+      },
+      "implementationPlace": {
+        "implementationName": "令和6年度　休日版両親学級開催予定表（PDF：281KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/261201/documents/kyujitubannittei.pdf",
+        "implementationAddress": "令和6年度　休日版両親学級開催予定表（PDF：281KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/261201/documents/kyujitubannittei.pdf"
+      },
+      "capacity": "令和6年度　休日版両親学級開催予定表（PDF：281KB）（別ウィンドウで開きます）;https://www.city.koto.lg.jp/261201/documents/kyujitubannittei.pdf",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "【オンライン講座】\n\n下記のフォームからお申し込みください。\n\n●（公益社団法人）東京都助産師会江東地区分会（外部サイトへリンク）（別ウィンドウで開きます）;https://kotomw.jimdofree.com/\n\nお申込みいただいた方には、受付確認メールが自動送信されます。\n\n開催日の3日～4日前までに、Zoomの招待メールが自動送信されます。\n\nkotomw.pc@gmail.comからのメールを受信できるよう、設定をお願いいたします。\n\n【対面講座】\n\n(1)または(2)の方法で申し込みください。\n\n(1)申し込みフォームから\n\nオンライン講座と同じです。\n\n（2）往復はがきで\n\n「江東区両親学級」と明記の上、受講希望日、郵便番号、住所、参加者2名の氏名（フリガナ）と生年月日、電話番号、出産予定日と返信用に住所、氏名をご記入いただき、申込期間内に到着するように郵送してください。\n\n＜申込先＞\n\n〒135-0016　江東区東陽3丁目21番11号101　江東区助産師会休日版両親学級事務局",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koto.lg.jp/261201/documents/kyujitubannittei.pdf",
+          "title": "令和6年度　休日版両親学級開催予定表（PDF：281KB）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://kotomw.jimdofree.com/",
+          "title": "（公益社団法人）東京都助産師会江東地区分会（外部サイトへリンク）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/261201/kodomo/ninshinshussan/ninshin/6884.html",
+          "title": "両親学級（平日版）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+          "title": "保健相談所担当地域一覧"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/261201/kyujituryoshin.html",
+        "title": "両親学級（休日版）"
+      },
+      "formLink": [
+        {
+          "uri": "https://kotomw.jimdofree.com/",
+          "title": "●（公益社団法人）東京都助産師会江東地区分会（外部サイトへリンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "（公益社団法人）東京都助産師会江東地区分会　休日版両親学級事務局",
+        "contactPhone": "090-6212-6556",
+        "contactEx": null,
+        "contactEmail": "kotomw.pc@gmail.com",
+        "contactUrl": null,
+        "contactComment": "受付時間月曜～金曜日（祝日・年末年始を除く）午前9時～午後5時",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+2+UM31",
+        "organization": "6000020131083",
+        "compartment": "健康部 保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-10",
+      "odInformation": {
+        "updateDate": "2024-06-19",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "休日診療・休日歯科診療のご案内"
+      },
+      "summary": "江東区では、土曜準夜間や日曜・祝日、年末年始に、区医師会、薬剤師会の協力のもと、休日急病診療所において診療を行っています。\n\nまた、日曜・祝日・年末年始に江東区歯科医師会の協力のもと、当番制で歯科診療を行っています。\n",
+      "description": "休日診療・休日歯科診療のご案内\n土曜・休日急病診療案内\n江東区では、区医師会、薬剤師会の協力を得て、休日でも急病の場合には、次の診療が受けられます。土曜の準夜間・日曜・祝日・年末年始（12月29日～1月4日）に急病にかかったとき、ご利用ください。（診療の際には、必ず保険証をお持ちください。保険証がない場合には、全額実費負担となります。）なお、投薬につきましては、翌日かかりつけ医等を受診されるまでの1日分の処方を原則としております。（土曜日につきましては、日曜日を含む2日分も可）\n\n・5月6日（月曜日・休日）まで、土曜・休日急病診療は予約制となっています。事前に電話で予約のうえ、受診してください。5月11日（土曜日）以降は、予約不要です。\n・受診時には、マスクの着用をお願いします。\n診療対象者\n内科・小児科の急病患者\n\n診療受付\n（土曜）午後6時～9時30分\n\n（休日）午前9時～11時30分、午後1時～9時30分\n\n診療時間\n（土曜）午後6時～10時\n\n（休日）午前9時～正午、午後1時～10時\n\n江東区休日急病診療所\n江東区医師会館内\n電話：03-3645-3109（東陽5丁目31番18号）\n\n総合区民センター内\n電話：03-3637-4531（大島4丁目5番1号）\n\n調剤薬局\n江東区医師会館内\n電話：03-5606-0502（東陽5丁目31番18号）\n\n総合区民センター南側\n電話：03-3681-4388（大島4丁目4番3号）\n\n江東区医師会館内休日急病診療所\nhttps://www.city.koto.lg.jp/260315/fukushi/iryo/images/13318_isikaikanitengo.jpg\n江東区医師会館内休日急病診療所\n\n総合区民センター内休日急病診療所\nhttps://www.city.koto.lg.jp/260315/fukushi/iryo/images/jyoutousoudan090704.jpg\n総合区民センター内休日急病診療所\n\n都内の救急医療機関をお探しの方（急病でお困りの方）へ\n本ページ一番下「関連リンク」より「休日・全夜間診療事業実施医療機関一覧（東京都指定二次救急医療機関一覧）」をクリックしていただくと東京都作成のホームページよりお探しすることが出来ます。\n\n休日歯科応急診療案内\n江東区歯科医師会の協力を得て、休日でも急病の場合には、次の診療が受けられます。日曜・祝日・年末年始に歯科の急病にかかったとき、ご利用ください。（診療の際には、必ず保険証をお持ちください。保険証がない場合には、全額実費負担となります。\n\n診療対象\n歯科の急病患者\n\n診療受付\n9時00分～11時30分、13時00分～16時30分\n\n当番医へあらかじめ電話でお申し込みください。\n\n当番医\nhttps://www.city.koto.lg.jp/260315/fukushi/iryo/6826.html\n\n関連ページ\n平日夜間こどもクリニックのご案内;https://www.hokeniryo.metro.tokyo.lg.jp/iryo/sodan/komatta/kyuubyou/kyuujituzennyakann.html\n関連施設\n江東区保健所;https://www.city.koto.lg.jp/260311/shisetsuannai/kenkou/hokenshisetsu/16330.html\n関連リンク\n休日・全夜間診療事業実施医療機関一覧（東京都指定二次救急医療機関一覧）（外部サイトへリンク）（別ウィンドウで開きます）;https://www.hokeniryo.metro.tokyo.lg.jp/iryo/sodan/komatta/kyuubyou/kyuujituzennyakann.html\n東京都こども医療ガイド（外部サイトへリンク）（別ウィンドウで開きます）;https://www.guide.metro.tokyo.lg.jp/\n厚生労働省「医療情報ネット」（外部サイトへリンク）（別ウィンドウで開きます）;https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize\n知って安心暮らしの中の医療情報ナビ（外部サイトへリンク）（別ウィンドウで開きます）;http://www.fukushihoken.metro.tokyo.jp/inavi/",
+      "target": {
+        "targetPersons": "内科・小児科の急病患者\n歯科の急病患者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "土曜・休日急病診療案内\n江東区では、区医師会、薬剤師会の協力を得て、休日でも急病の場合には、次の診療が受けられます。土曜の準夜間・日曜・祝日・年末年始（12月29日～1月4日）に急病にかかったとき、ご利用ください。（診療の際には、必ず保険証をお持ちください。保険証がない場合には、全額実費負担となります。）なお、投薬につきましては、翌日かかりつけ医等を受診されるまでの1日分の処方を原則としております。（土曜日につきましては、日曜日を含む2日分も可）\n\n休日歯科応急診療案内\n江東区歯科医師会の協力を得て、休日でも急病の場合には、次の診療が受けられます。日曜・祝日・年末年始に歯科の急病にかかったとき、ご利用ください。（診療の際には、必ず保険証をお持ちください。保険証がない場合には、全額実費負担となります。\n",
+        "monetarySupport": null,
+        "materiallySupport": "土曜・休日急病診療案内\n江東区では、区医師会、薬剤師会の協力を得て、休日でも急病の場合には、次の診療が受けられます。土曜の準夜間・日曜・祝日・年末年始（12月29日～1月4日）に急病にかかったとき、ご利用ください。（診療の際には、必ず保険証をお持ちください。保険証がない場合には、全額実費負担となります。）なお、投薬につきましては、翌日かかりつけ医等を受診されるまでの1日分の処方を原則としております。（土曜日につきましては、日曜日を含む2日分も可）\n\n休日歯科応急診療案内\n江東区歯科医師会の協力を得て、休日でも急病の場合には、次の診療が受けられます。日曜・祝日・年末年始に歯科の急病にかかったとき、ご利用ください。（診療の際には、必ず保険証をお持ちください。保険証がない場合には、全額実費負担となります。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "土曜・休日急病診療案内\n診療時間\n（土曜日）午後6時～10時\n\n（休日）午前9時～正午、午後1時～10時\n\n休日歯科応急診療時間\n（休日）午前９時～正午、午後１時～午後５時"
+      },
+      "implementationPlace": {
+        "implementationName": "土曜・休日急病診療：江東区休日急病診療所（江東区医師会館内、\n総合区民センター内）\n\n休日歯科応急診療：当番歯科医院",
+        "implementationAddress": "江東区医師会館内：江東区東陽5-31-18\n\n総合区民センター内：江東区大島4-5-1"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "土曜・休日急病診療案内\n診療時間\n（土曜日）午後6時～10時\n\n（休日）午前9時～正午、午後1時～10時\n\n休日歯科応急診療時間\n（休日）午前９時～正午、午後１時～午後５時"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "土曜・休日急病診療受付時間\n診療時間\n（土曜日）午後6時～9時30分\n（休日）午前9時～11時30分 、午後1時～9時30分\n\n休日歯科応急診療受付時間\n（休日）午前９時～11時30分、午後１時～午後4時30分"
+      },
+      "electronicSubmission": false,
+      "belongings": "保険証",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize",
+          "title": "厚生労働省「医療情報ネット」"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260311/shisetsuannai/kenkou/hokenshisetsu/16330.html",
+          "title": "江東区保健所"
+        },
+        {
+          "uri": "http://www.fukushihoken.metro.tokyo.jp/inavi/",
+          "title": "知って安心暮らしの中の医療情報ナビ\n休日・全夜間診療事業実施医療機関一覧（東京都指定二次救急医療機関一覧）（外部サイトへリンク）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.hokeniryo.metro.tokyo.lg.jp/iryo/sodan/komatta/kyuubyou/kyuujituzennyakann.html",
+          "title": "休日・全夜間診療事業実施医療機関一覧（東京都指定二次救急医療機関一覧）"
+        },
+        {
+          "uri": "https://www.guide.metro.tokyo.lg.jp/",
+          "title": "東京都こども医療ガイド"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260315/kodomo/iryo/shouni/6903.html",
+          "title": "平日夜間こどもクリニックのご案内"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/260315/fukushi/iryo/6826.html",
+        "title": "休日診療・休日歯科診療のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "江東区健康部（保健所）健康推進課がん対策・地域医療連携係",
+        "contactPhone": "03-3647-5889",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "Fax：03-3615-7171",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+2+UM45",
+        "organization": "6000020131083",
+        "compartment": "健康部 健康推進課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-06-21",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "江東区の妊娠・出産に関する相談",
+        "shortName": "妊娠・出産に関する相談先"
+      },
+      "summary": "都内にお住まいの方を対象に、「妊娠したかも？」という悩みや疑問に、チャットボット形式でお答えします。「電話やメールで相談するのは少し怖い、勇気がない」という方でも、24時間365日、誰でも気軽に使えます。",
+      "description": "妊娠・出産に関する相談先\n東京都 妊娠相談ほっとライン\n　東京都では、都内にお住まいの方を対象に、妊娠や出産に関する様々な悩みについて、電話やメールで相談に応じています。\n\n○ 思いがけない妊娠、予定外の妊娠にとまどっている方\n○ 妊娠したかもしれないと不安になっている方\n○ 妊娠中の体調のことで悩んでいる方\n○ 出産費用が心配な方\n\n　そのほか様々な悩みを抱える方からの相談に看護師などの専門職が対応し、内容によっては適切な関係機関の紹介も行います。匿名で相談できます。\n\n電話相談\n〇 電話番号　03-5339-1133\n\n〇 受付時間　午前10時から午後10時まで　月曜日から日曜日　※元日はお休み\n\nメール\n「東京都 妊娠相談ほっとライン」サイトの専用フォームから必要項目を入力して送信してください。\n\n「東京都 妊娠相談ほっとライン」（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninshin-hotline.html\n\nチャットボットLINEアカウント「妊娠したかも相談@東京」\n都内にお住まいの方を対象に、「妊娠したかも？」という悩みや疑問に、チャットボット形式でお答えします。「電話やメールで相談するのは少し怖い、勇気がない」という方でも、24時間365日、誰でも気軽に使えます。\n\nチャットボットLINEアカウント「妊娠したかも相談＠東京」（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninshin-line-tokyo.html\n\n妊産婦向け助産師相談\nWeb会議システムを利用したオンライン相談（予約制）\n妊娠中のこと、産後のこと、生まれてくる赤ちゃんのことでお悩みの妊婦さん・産婦さんを対象に、東京都助産師会の助産師がオンラインで相談をお受けします。\n\nそのほか、訪問や電話による相談（令和6年3月31日まで）もございます。\n\n妊産婦向け助産師相談（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninsanpu-online.html",
+      "target": {
+        "targetPersons": "都内にお住まいの方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "都内にお住まいの方を対象に、「妊娠したかも？」という悩みや疑問に、チャットボット形式でお答えします。「電話やメールで相談するのは少し怖い、勇気がない」という方でも、24時間365日、誰でも気軽に使えます。\n\nチャットボットLINEアカウント「妊娠したかも相談＠東京」（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninshin-line-tokyo.html",
+        "monetarySupport": null,
+        "materiallySupport": "都内にお住まいの方を対象に、「妊娠したかも？」という悩みや疑問に、チャットボット形式でお答えします。「電話やメールで相談するのは少し怖い、勇気がない」という方でも、24時間365日、誰でも気軽に使えます。\n\nチャットボットLINEアカウント「妊娠したかも相談＠東京」（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninshin-line-tokyo.html"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "24時間365日"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninsanpu-online.html",
+          "title": "妊産婦向け助産師相談（外部サイトへリンク）"
+        },
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninshin-line-tokyo.html",
+          "title": "チャットボットLINEアカウント「妊娠したかも相談＠東京」（外部サイトへリンク）"
+        },
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninshin-hotline.html",
+          "title": "「東京都 妊娠相談ほっとライン」（外部サイトへリンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/260501/kodomo/ninshinshussan/ninshin/97700.html",
+        "title": "妊娠・出産に関する相談先"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninshin-line-tokyo.html",
+          "title": "チャットボットLINEアカウント「妊娠したかも相談＠東京」（外部サイトへリンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "健康部（保健所） 保健予防課 保健係",
+        "contactPhone": "03-3647-5906",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.koto.lg.jp/cgi-bin/simple_faq/form.cgi",
+        "contactComment": "ファックス：03-3615-7171",
+        "zipCode": "1350016",
+        "contactAddress": "東京都江東区東陽2-1-1"
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+2+UM47",
+        "organization": "6000020131083",
+        "compartment": "健康部 保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-08-16",
+      "odInformation": {
+        "updateDate": "2024-06-19",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "伴走型相談支援",
+        "shortName": "新生児・産婦訪問指導（出生通知票）"
+      },
+      "summary": "すべての妊婦さんと子育て家庭が安心して出産・子育てができるように、妊娠から出産・子育てまでの一貫した「伴走型相談支援」を実施しています。",
+      "description": "新生児・産婦訪問指導（出生通知票）\n \n赤ちゃんが生まれたら、「母と子の保健バッグ」に入っている出生通知票をなるべく早くご提出ください。\n\n出生通知票による届出をもとに、助産師または保健師がご家庭を訪問し、育児や産後の体調などの相談をお受けしています。\n訪問対象は、原則として生後28日以内の新生児です。ただし、里帰り出産などで訪問を受けられなかった場合には、生後4か月になる前日までお受けします。\n出生通知票（ハガキ）のかわりに「電子申請」による届出もできます。\nまた、上記の手続きとは別に、出生届を提出する必要があります。提出先が異なりますので、以下のリンク先をご参照ください。\n\n関連ドキュメント\n出生通知票（PDF：216KB）;https://www.city.koto.lg.jp/261301/kodomo/ninshinshussan/shussan/documents/syussyoututihyo.pdf\n関連ページ\n保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n電子申請でご利用いただけるサービス;https://www.city.koto.lg.jp/012107/kuse/shinse/21878.html\n出生届;https://www.city.koto.lg.jp/060302/kurashi/jumin/koseki/5061.html",
+      "target": {
+        "targetPersons": "原則として生後28日以内の新生児です。ただし、里帰り出産などで訪問を受けられなかった場合には、生後4か月になる前日まで",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "原則として生後28日以内の新生児です。ただし、里帰り出産などで訪問を受けられなかった場合には、生後4か月になる前日まで"
+      },
+      "support": {
+        "description": "出生通知票による届出をもとに、助産師または保健師がご家庭を訪問し、育児や産後の体調などの相談をお受けしています。",
+        "monetarySupport": null,
+        "materiallySupport": "出生通知票による届出をもとに、助産師または保健師がご家庭を訪問し、育児や産後の体調などの相談をお受けしています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "「母と子の保健バッグ」に入っている出生通知票をなるべく早く担当の保健相談所にご提出ください。出生通知票（ハガキ）のかわりに「電子申請」による届出もできます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "「母と子の保健バッグ」に入っている出生通知票をなるべく早く担当の保健相談所にご提出ください。出生通知票（ハガキ）のかわりに「電子申請」による届出もできます。"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "担当の保健相談所",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koto.lg.jp/060302/kurashi/jumin/koseki/5061.html",
+          "title": "出生届"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/012107/kuse/shinse/21878.html",
+          "title": "電子申請でご利用いただけるサービス"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/261301/kodomo/ninshinshussan/shussan/documents/syussyoututihyo.pdf",
+          "title": "出生通知票（PDF：216KB）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+          "title": "保健相談所担当地域一覧"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/261301/kodomo/ninshinshussan/shussan/6880.html",
+        "title": "新生児・産婦訪問指導（出生通知票）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+2+UM5011",
+        "organization": "6000020131083",
+        "compartment": "健康部 保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-04",
+      "odInformation": {
+        "updateDate": "2024-06-19",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "伴走型相談支援及び出産・子育て応援給付金の一体的実施事業の実施について（子発1226第1号 令和4年12月26日）",
+        "regulationArticle": "別紙：伴走型相談支援及び出産・子育て応援給付金の一体的実施事業実施要綱「伴走型相談支援」（別添１）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（▲歳児歯科健康診査）",
+        "shortName": "3歳児歯科健康診査"
+      },
+      "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。3歳児歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+      "description": "3歳児歯科健康診査\n実施目的\nむし歯に対する感受性の個体差がはっきりあらわれ、口腔の健康を保持増進するための習慣を形成する上できわめて重要な時期に、歯及び口腔の健康の保持増進を目的としています。\n\n実施日\n3歳児健康診査で実施しています。\n\n対象者へのお知らせ\n対象者へは個別に通知いたします。（3歳児健康診査のお知らせ）\n\nお問い合わせ\nお住まいの地域を担当する保健相談所\n\n関連ページ\n保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+      "target": {
+        "targetPersons": "対象者へは個別に通知いたします。（3歳児健康診査のお知らせ）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "むし歯に対する感受性の個体差がはっきりあらわれ、口腔の健康を保持増進するための習慣を形成する上できわめて重要な時期に、歯及び口腔の健康の保持増進を目的としています。",
+        "monetarySupport": null,
+        "materiallySupport": "むし歯に対する感受性の個体差がはっきりあらわれ、口腔の健康を保持増進するための習慣を形成する上できわめて重要な時期に、歯及び口腔の健康の保持増進を目的としています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "3歳児健康診査で実施しています。"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "3歳児健康診査で実施しています。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+          "title": "保健相談所担当地域一覧"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/261201/kodomo/iryo/kenko/6894.html",
+        "title": "3歳児歯科健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "お住まいの地域を担当する保健相談所",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+2+UM792",
+        "organization": "6000020131083",
+        "compartment": "健康部 保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-01-22",
+      "odInformation": {
+        "updateDate": "2024-06-19",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "江東区の子育てに関する相談",
+        "shortName": "発達相談"
+      },
+      "summary": "首がすわらない、寝がえりをしない、はいはいが上手にできないなど、お子さんの運動発達についての相談に、専門医、理学療法士、保健師が応じます。",
+      "description": "発達相談\nお子さんの運動発達についての健診（予約制）\n首がすわらない、寝がえりをしない、はいはいが上手にできないなど、お子さんの運動発達についての相談に、専門医、理学療法士、保健師が応じます。\n\n問合先\nお住まいの地域を担当する保健相談所へご相談ください。;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n\n関連ページ\n保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n関連リンク\n子ども家庭（東京都福祉保健局）（外部サイトへリンク）（別ウィンドウで開きます）;http://www.fukushihoken.metro.tokyo.jp/kodomo/index.html",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "お子さんの運動発達についての健診（予約制）\n首がすわらない、寝がえりをしない、はいはいが上手にできないなど、お子さんの運動発達についての相談に、専門医、理学療法士、保健師が応じます。",
+        "monetarySupport": null,
+        "materiallySupport": "お子さんの運動発達についての健診（予約制）\n首がすわらない、寝がえりをしない、はいはいが上手にできないなど、お子さんの運動発達についての相談に、専門医、理学療法士、保健師が応じます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "保健相談所;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+        "implementationAddress": "保健相談所;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/index.html",
+          "title": "子ども家庭（東京都保健福祉局）（外部サイトへリンク）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+          "title": "保健相談所"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+          "title": "保健相談所担当地域一覧"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/260552/kodomo/kosodate/sodan/6899.html",
+        "title": "発達相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+3+UM119",
+        "organization": "6000020131083",
+        "compartment": "健康部 保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2017-02-10",
+      "odInformation": {
+        "updateDate": "2024-06-20",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "江東区の妊娠・出産に関する相談",
+        "shortName": "妊娠・出産に関する相談先"
+      },
+      "summary": "妊娠中のこと、産後のこと、生まれてくる赤ちゃんのことでお悩みの妊婦さん・産婦さんを対象に、東京都助産師会の助産師がオンラインで相談をお受けします。",
+      "description": "妊娠・出産に関する相談先\n東京都 妊娠相談ほっとライン\n　東京都では、都内にお住まいの方を対象に、妊娠や出産に関する様々な悩みについて、電話やメールで相談に応じています。\n\n○ 思いがけない妊娠、予定外の妊娠にとまどっている方\n○ 妊娠したかもしれないと不安になっている方\n○ 妊娠中の体調のことで悩んでいる方\n○ 出産費用が心配な方\n\n　そのほか様々な悩みを抱える方からの相談に看護師などの専門職が対応し、内容によっては適切な関係機関の紹介も行います。匿名で相談できます。\n\n電話相談\n〇 電話番号　03-5339-1133\n\n〇 受付時間　午前10時から午後10時まで　月曜日から日曜日　※元日はお休み\n\nメール\n「東京都 妊娠相談ほっとライン」サイトの専用フォームから必要項目を入力して送信してください。\n\n「東京都 妊娠相談ほっとライン」（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninshin-hotline.html\n\nチャットボットLINEアカウント「妊娠したかも相談@東京」\n都内にお住まいの方を対象に、「妊娠したかも？」という悩みや疑問に、チャットボット形式でお答えします。「電話やメールで相談するのは少し怖い、勇気がない」という方でも、24時間365日、誰でも気軽に使えます。\n\nチャットボットLINEアカウント「妊娠したかも相談＠東京」（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninshin-line-tokyo.html\n\n妊産婦向け助産師相談\nWeb会議システムを利用したオンライン相談（予約制）\n妊娠中のこと、産後のこと、生まれてくる赤ちゃんのことでお悩みの妊婦さん・産婦さんを対象に、東京都助産師会の助産師がオンラインで相談をお受けします。\n\nそのほか、訪問や電話による相談（令和6年3月31日まで）もございます。\n\n妊産婦向け助産師相談（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninsanpu-online.html",
+      "target": {
+        "targetPersons": "妊娠中のこと、産後のこと、生まれてくる赤ちゃんのことでお悩みの妊婦さん・産婦さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "Web会議システムを利用したオンライン相談（予約制）\n妊娠中のこと、産後のこと、生まれてくる赤ちゃんのことでお悩みの妊婦さん・産婦さんを対象に、東京都助産師会の助産師がオンラインで相談をお受けします。\n\nそのほか、訪問や電話による相談（令和6年3月31日まで）もございます。\n\n妊産婦向け助産師相談（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninsanpu-online.html",
+        "monetarySupport": null,
+        "materiallySupport": "Web会議システムを利用したオンライン相談（予約制）\n妊娠中のこと、産後のこと、生まれてくる赤ちゃんのことでお悩みの妊婦さん・産婦さんを対象に、東京都助産師会の助産師がオンラインで相談をお受けします。\n\nそのほか、訪問や電話による相談（令和6年3月31日まで）もございます。\n\n妊産婦向け助産師相談（外部サイトへリンク）;https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninsanpu-online.html"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": "2024-03-31",
+        "toHM": null,
+        "conditions": "令和6年3月31日まで"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninshin-hotline.html",
+          "title": "「東京都 妊娠相談ほっとライン」（外部サイトへリンク）"
+        },
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninsanpu-online.html",
+          "title": "妊産婦向け助産師相談（外部サイトへリンク）"
+        },
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninshin-line-tokyo.html",
+          "title": "チャットボットLINEアカウント「妊娠したかも相談＠東京」（外部サイトへリンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/260501/kodomo/ninshinshussan/ninshin/97700.html",
+        "title": "妊娠・出産に関する相談先"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninsanpu-online.html",
+          "title": "妊産婦向け助産師相談（外部サイトへリンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "健康部（保健所） 保健予防課 保健係",
+        "contactPhone": "03-3647-5906",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.koto.lg.jp/cgi-bin/simple_faq/form.cgi",
+        "contactComment": "ファックス：03-3615-7171",
+        "zipCode": "1350016",
+        "contactAddress": "東京都江東区東陽2-1-1"
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+3+UM47",
+        "organization": "6000020131083",
+        "compartment": "健康部 保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-08-16",
+      "odInformation": {
+        "updateDate": "2024-06-19",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "江東区の子育てに関する相談",
+        "shortName": "ことばの相談"
+      },
+      "summary": "ことばがなかなか出てこない、発音が気になるなど、ことばの発達に関する相談に、心理相談員、保健師が応じます。",
+      "description": "ことばの相談\n1歳6か月を過ぎたお子さんのことばの相談（予約制）\nことばがなかなか出てこない、発音が気になるなど、ことばの発達に関する相談に、心理相談員、保健師が応じます。\n\n問合先\nお住まいの地域を担当する保健相談所へご相談ください。;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n\n関連ページ\n保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n関連リンク\n子ども家庭（東京都福祉保健局）（外部サイトへリンク）（別ウィンドウで開きます）;http://www.fukushihoken.metro.tokyo.jp/kodomo/index.html",
+      "target": {
+        "targetPersons": "1歳6か月を過ぎたお子さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "conditions": "1歳6か月を過ぎたお子さん"
+      },
+      "support": {
+        "description": "1歳6か月を過ぎたお子さんのことばの相談（予約制）\nことばがなかなか出てこない、発音が気になるなど、ことばの発達に関する相談に、心理相談員、保健師が応じます。",
+        "monetarySupport": null,
+        "materiallySupport": "1歳6か月を過ぎたお子さんのことばの相談（予約制）\nことばがなかなか出てこない、発音が気になるなど、ことばの発達に関する相談に、心理相談員、保健師が応じます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "保健相談所;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+        "implementationAddress": "保健相談所;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+          "title": "保健相談所担当地域一覧"
+        },
+        {
+          "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/index.html",
+          "title": "子ども家庭（東京都保健福祉局）（外部サイトへリンク）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+          "title": "保健相談所"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/260552/kodomo/kosodate/sodan/6900.html",
+        "title": "ことばの相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+4+UM119",
+        "organization": "6000020131083",
+        "compartment": "健康部 保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2017-02-10",
+      "odInformation": {
+        "updateDate": "2024-06-20",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "江東区の子育てに関する相談",
+        "shortName": "3歳児心理相談"
+      },
+      "summary": "3歳のお子さんの気になる行動や子育てについての相談です。",
+      "description": "3歳児心理相談\n3歳のお子さんの心理相談（予約制）\n3歳のお子さんの気になる行動や子育てについての相談です。\nことばがゆっくり、落ち着きがない、お友達と遊べないなどの相談に、心理相談員、保健師が応じます。\n\n問合先\nお住まいの地域を担当する各保健相談所へご相談ください。;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n\n関連ページ\n保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n関連リンク\n子ども家庭（東京都保健福祉局）（外部サイトへリンク）（別ウィンドウで開きます）;http://www.fukushihoken.metro.tokyo.jp/kodomo/index.html",
+      "target": {
+        "targetPersons": "3歳のお子さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "3歳のお子さん"
+      },
+      "support": {
+        "description": "3歳のお子さんの心理相談（予約制）\n3歳のお子さんの気になる行動や子育てについての相談です。\nことばがゆっくり、落ち着きがない、お友達と遊べないなどの相談に、心理相談員、保健師が応じます。",
+        "monetarySupport": null,
+        "materiallySupport": "3歳のお子さんの心理相談（予約制）\n3歳のお子さんの気になる行動や子育てについての相談です。\nことばがゆっくり、落ち着きがない、お友達と遊べないなどの相談に、心理相談員、保健師が応じます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "保健相談所;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+        "implementationAddress": "保健相談所;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+          "title": "保健相談所"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+          "title": "保健相談所担当地域一覧"
+        },
+        {
+          "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/index.html",
+          "title": "子ども家庭（東京都保健福祉局）（外部サイトへリンク）（別ウィンドウで開きます）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/260552/kodomo/kosodate/sodan/6895.html",
+        "title": "3歳児心理相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+5+UM119",
+        "organization": "6000020131083",
+        "compartment": "健康部 保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2017-02-10",
+      "odInformation": {
+        "updateDate": "2024-06-20",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "江東区の子育てに関する相談",
+        "shortName": "思春期精神保健相談"
+      },
+      "summary": "ひどく落ち着きがない、集団生活になじめない、不登校、家族に暴力を振るう、拒食・過食などで悩んでいる方およびそのご家族に対して、専門医による個別相談を行っています。",
+      "description": "思春期精神保健相談\n幼児期から18歳までのこころの相談（予約制）\nひどく落ち着きがない、集団生活になじめない、不登校、家族に暴力を振るう、拒食・過食などで悩んでいる方およびそのご家族に対して、専門医による個別相談を行っています。\n\n問合先\nお住まいの地域を担当する保健相談所へご相談ください。;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n\n関連ページ\n保健相談所担当地域一覧;https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html\n関連リンク\n精神保健福祉相談のご案内（こころの健康相談）（東京都福祉局）（外部サイトへリンク）（別ウィンドウで開きます）;https://www.fukushi.metro.tokyo.lg.jp/sitaya/seishin/index.html",
+      "target": {
+        "targetPersons": "幼児期から18歳まで",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "幼児期から18歳まで"
+      },
+      "support": {
+        "description": "ひどく落ち着きがない、集団生活になじめない、不登校、家族に暴力を振るう、拒食・過食などで悩んでいる方およびそのご家族に対して、専門医による個別相談を行っています。",
+        "monetarySupport": null,
+        "materiallySupport": "ひどく落ち着きがない、集団生活になじめない、不登校、家族に暴力を振るう、拒食・過食などで悩んでいる方およびそのご家族に対して、専門医による個別相談を行っています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/sitaya/seishin/index.html",
+          "title": "精神保健福祉相談のご案内（こころの健康相談）（東京都福祉局）（外部サイトへリンク）（別ウィンドウで開きます）"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+          "title": "保健相談所"
+        },
+        {
+          "uri": "https://www.city.koto.lg.jp/260501/fukushi/hoken/ippan/15.html",
+          "title": "保健相談所担当地域一覧"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/260552/kodomo/kosodate/sodan/6902.html",
+        "title": "思春期精神保健相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+7+UM119",
+        "organization": "6000020131083",
+        "compartment": "健康部 保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-12-14",
+      "odInformation": {
+        "updateDate": "2024-06-20",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "江東区の子育てに関する相談",
+        "shortName": "子育て相談"
+      },
+      "summary": "子育てのちょっとした悩みから専門的な相談まで皆様の気持ちに寄り添い、ご対応させていただきます。",
+      "description": "子育ての悩みや不安、子どもの育ちについて心配などがありましたら、いつでもお電話、あるいはスタッフに声をかけて下さい。一緒に考えていきましょう。\n曜日：毎週月曜～土曜　※有明・住吉のみ毎日実施\n時間：面接　9時00分～17時30分　電話　9時00分～18時00分\n\n＜問合せ先＞\n\n深川北子ども家庭支援センター\nTEL 03-5600-8701　相談専用03-5600-8708\n豊洲子ども家庭支援センター\nTEL 03-3536-7681　相談専用03-3536-7682\n有明子ども家庭支援センター\nTEL 03-5962-4113　相談専用03-5962-4118\n住吉子ども家庭支援センター\nTEL 03-5600-3881 　相談専用03-5600-3882\n東陽子ども家庭支援センター\nTEL 03-3699-4871　相談専用03-5665-4017\n亀戸子ども家庭支援センター\nTEL 03-3683-1101 　相談専用03-3683-1103\n大島子ども家庭支援センター\nTEL 03-5836-1621　相談専用03-5836-1625\n南砂子ども家庭支援センター\nTEL 03-5617-8106　相談専用03-5617-7772\nTEL 03-3646-5481（虐待ホットライン）\n\n関連リンク\n江東区子ども家庭支援センター「みずべ」のホームページです（外部サイトへリンク）（別ウィンドウで開きます）;http://koto-kosodate-portal.jp/mizube/",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "子育ての悩みや不安、子どもの育ちについて心配などがありましたら、いつでもお電話、あるいはスタッフに声をかけて下さい。一緒に考えていきましょう。",
+        "monetarySupport": null,
+        "materiallySupport": "子育ての悩みや不安、子どもの育ちについて心配などがありましたら、いつでもお電話、あるいはスタッフに声をかけて下さい。一緒に考えていきましょう。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "曜日：毎週月曜～土曜　（注釈）有明・住吉のみ毎日実施\n時間：面接　9時00分～17時30分　電話　9時00分～18時00分"
+      },
+      "implementationPlace": {
+        "implementationName": "子ども家庭支援センター;https://www.city.koto.lg.jp/shisetsuannai/kyoiku/sonotakodomo/supportcenter/index.html",
+        "implementationAddress": "子ども家庭支援センター;https://www.city.koto.lg.jp/shisetsuannai/kyoiku/sonotakodomo/supportcenter/index.html"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "曜日：毎週月曜～土曜　（注釈）有明・住吉のみ毎日実施\n時間：面接　9時00分～17時30分　電話　9時00分～18時00分"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koto.lg.jp/shisetsuannai/kyoiku/sonotakodomo/supportcenter/index.html",
+          "title": "子ども家庭支援センター"
+        },
+        {
+          "uri": "http://koto-kosodate-portal.jp/mizube/",
+          "title": "江東区子ども家庭支援センター「みずべ」のホームページです（外部サイトへリンク）（別ウィンドウで開きます）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koto.lg.jp/282011/kodomo/kosodate/service/5874.html",
+        "title": "子ども家庭支援センター"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども未来部 養育支援課 養育支援係",
+        "contactPhone": "03-3647-4408",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.koto.lg.jp/cgi-bin/simple_faq/form.cgi",
+        "contactComment": "ファックス：03-3647-7534",
+        "zipCode": "1358383",
+        "contactAddress": "東京都江東区東陽4-11-28"
+      },
+      "area": {
+        "areaCode": "131083;江東区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131083+8+UM119",
+        "organization": "6000020131083",
+        "compartment": "こども未来部 養育支援課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-01-22",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "江東区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    }
+  ]
+}

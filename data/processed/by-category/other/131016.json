@@ -1,0 +1,381 @@
+{
+  "version": "2025-07-09T05:55:17.784Z",
+  "areaCode": "131016",
+  "areaName": "千代田区",
+  "category": "other",
+  "count": 3,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "国民健康保険料の免除（産前産後期間）",
+        "shortName": "出産する方の国民健康保険料が免除になります"
+      },
+      "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分）の均等割保険料と所得割保険料が免除されます。",
+      "description": "令和6年1月から、産前産後期間相当分の保険料の免除を実施しています。\n\n免除を受けるには届出が必要です。\n免除の期間について\n保険料が免除となる期間は、単胎妊娠の場合、出産予定月（または出産月）の前月～出産予定月（または出産月）の翌々月の4か月間です。多胎妊娠の場合は出産予定月（または出産月）の3か月前～出産予定月（または出産月）の翌々月の6か月間です。\nなお、令和5年度においては、産前産後期間のうち令和6年1月以降の分だけ、保険料が減額されます。令和6年1月より前の期間については減額の対象とはなりません。\nその他\n保険料が免除された場合、払いすぎとなった分の保険料は還付されます。\n産前産後期間相当分の所得割保険料と均等割保険料が年額から減額されます（4か月分または6か月分）。原則として、納期未到来の月割り保険料額から平準化して減額するため、産前産後期間の保険料納付額が0円になるとは限りません。\n免除対象月が年度をまたがる場合は、各月が所属する年度からそれぞれ減額・還付します。\n保険料が限度額に達している世帯については、免除後も保険料に変更が生じない場合があります。",
+      "target": {
+        "targetPersons": "次のすべてに該当する方\n\n千代田区国民健康保険被保険者である\n妊娠期間85日（4か月）以上に該当する方\n（死産、流産、早産および人工妊娠中絶の場合も含む）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": "出産予定日の6か月前から届出可能です。また、出産後の届出も可能です。\n\nなお、保険料が変更できる期間には限りがありますので、出産後はお早めに届出をお願いします。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "出産予定日の6か月前から届出可能です。また、出産後の届出も可能です。\n\nなお、保険料が変更できる期間には限りがありますので、出産後はお早めに届出をお願いします。\n届出方法\n来庁による方法\n必要書類をお持ちのうえ、区役所本庁舎2階の国民健康保険窓口にお越しください。\n\n【来庁による場合の必要書類】\n\n届出を行う方の顔写真付きの本人確認書類\n母子健康手帳（出産日または出産予定日が確認できるもの）\n（注意） 多胎妊娠の場合は2人分必要です。\n委任状（別世帯の方が届出する場合のみ必要）\n郵送による方法\n必要書類を下記のお問い合わせ先までお送りください。\n\n【郵送による場合の必要書類】\n\n産前産後期間に係る保険料減額届出書（PDF：104KB）https://www.city.chiyoda.lg.jp/documents/30920/todokedesho.pdf\n顔写真付きの本人確認書類のコピー\n母子健康手帳の以下のページのコピー\n表紙\n次のいずれかの出産日または出産予定日がわかるページ\n1ページ目の出生届出済証明\n4ページ目の妊婦自身の記録（1）\n14ページ目の出産の状態\n（注意） 多胎妊娠の場合は2人分必要です。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kurashi/hoken/kenkohoken/hokenryo-menjo.html",
+        "title": "出産する方の国民健康保険料が免除になります"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健福祉部保険年金課国民健康保険係",
+        "contactPhone": "03-5211-4204",
+        "contactEx": null,
+        "contactEmail": "hoken-nenkin@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1028688",
+        "contactAddress": "東京都千代田区九段南1-2-1"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM5035",
+        "organization": "8000020131016",
+        "compartment": "保健福祉部保険年金課国民健康保険係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-01-04",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003",
+          "015"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "児童遊園",
+        "shortName": "区立の公園・児童遊園・広場の紹介"
+      },
+      "summary": "千代田区の児童遊園は、屋外にある小規模な公園に類似した施設です。主に近隣のお子さんに遊び場を提供することを目的としています。\\千代田区の児童遊園の一覧は、千代田区サイトなどでお知らせしています。",
+      "description": "千代田区が管理する公園・児童遊園・広場を紹介します。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/machizukuri/koen/kuritsukoen-shokai.html",
+        "title": "区立の公園・児童遊園・広場の紹介"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "環境まちづくり部道路公園課維持係",
+        "contactPhone": "03-5211-4243",
+        "contactEx": null,
+        "contactEmail": "dourokouen@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1028688",
+        "contactAddress": "千代田区九段南1-2-1"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM576",
+        "organization": "8000020131016",
+        "compartment": "環境まちづくり部道路公園課維持係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-22",
+      "odInformation": {
+        "updateDate": "2024-10-24",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "授乳・おむつ替え施設（赤ちゃんの駅等）",
+        "shortName": "赤ちゃん・ふらっと"
+      },
+      "summary": "千代田区では、乳幼児を抱える子育て家庭が安心して外出できる環境づくりを進めるため、公共施設のほか民間施設の協力を得て「おむつ替え」や「授乳」ができる赤ちゃん・ふらっとを整備し、地域全体で子育てを支える仕組みづくりを進めています。\nまた、東京都でも都内の民間施設を含めて同事業を実施しており、指定施設には、入り口付近にそれぞれ案内標示を設置しています。",
+      "description": "「赤ちゃん・ふらっと」とは\n\n「赤ちゃん・ふらっと」とは、小さなお子様を連れた方が安心してお出かけできるよう整備された、授乳やおむつ替え等ができるスペースの愛称です。\n\n区内では、令和3年3月現在、30か所に設置されています。\n\n区では、「赤ちゃん・ふらっと」のある区内施設を掲載したリーフレットを発行し、区の施設や、「赤ちゃん・ふらっと」実施施設等で配布しています。\n\n・「赤ちゃん・ふらっと」リーフレット（PDF：452KB）;https://www.city.chiyoda.lg.jp/documents/1257/akachan-02_1.pdf\n\n施設整備内容\n\n1. 授乳ができる設備\n2. おむつ替えができる設備\n3. 調乳用の給湯設備\n4. 手洗い設備\n5. 冷暖房設備\n\n千代田区内「赤ちゃん・ふらっと」設置施設一覧\n\n麹町エリア\n「表」\n\n九段・富士見・神保町エリア\n「表」\n\n神田・秋葉原エリア\n「表」\n\n丸ノ内・日比谷エリア\n「表」",
+      "target": {
+        "targetPersons": "小さなお子様を連れた方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/odekake/akachan-02.html",
+        "title": "赤ちゃん・ふらっと"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部子育て推進課子育て推進係",
+        "contactPhone": "03-5211-3653",
+        "contactEx": null,
+        "contactEmail": "kosodatesuishin@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1028688",
+        "contactAddress": "東京都千代田区九段南1-2-1"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM800",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部子育て推進課子育て推進係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-18",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

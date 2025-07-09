@@ -1,0 +1,4055 @@
+{
+  "version": "2025-07-09T05:55:17.820Z",
+  "areaCode": "132098",
+  "areaName": "町田市",
+  "category": "medical",
+  "count": 32,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "先天性代謝異常等検査",
+        "shortName": "先天性代謝異常等検査"
+      },
+      "summary": "フェニールケトン尿症、先天性甲状腺機能低下症等の早期発見の検査です。生後5日から7日の赤ちゃんの足の裏からごく微量の血液をとり検査する方法が広く行われています。",
+      "description": "先天性代謝異常等検査\n先天性代謝異常等検査\nフェニールケトン尿症、先天性甲状腺機能低下症等の早期発見の検査です。\n\n生後5日から7日の赤ちゃんの足の裏からごく微量の血液をとり検査する方法が広く行われています。\n\n都内の医療機関で出産し、検査を受ける場合は、東京都が検査料を負担します。都外の場合は、医療機関のある道府県又は政令市が負担します。いずれの場合も採血にかかる費用はご負担が発生します。\n\n申込方法等の詳細は、出産予定の医療機関にお問い合わせください。",
+      "target": {
+        "targetPersons": "生後5日から7日の赤ちゃん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後5日から7日の赤ちゃん"
+      },
+      "support": {
+        "description": "都内の医療機関で出産し、検査を受ける場合は、東京都が検査料を負担します。都外の場合は、医療機関のある道府県又は政令市が負担します。いずれの場合も採血にかかる費用はご負担が発生します。\n\n申込方法等の詳細は、出産予定の医療機関にお問い合わせください。",
+        "monetarySupport": null,
+        "materiallySupport": "都内の医療機関で出産し、検査を受ける場合は、東京都が検査料を負担します。都外の場合は、医療機関のある道府県又は政令市が負担します。"
+      },
+      "cost": null,
+      "costConditions": "採血にかかる費用はご負担が発生します。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "出産予定の医療機関",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "申込方法等の詳細は、出産予定の医療機関にお問い合わせください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/8/1121.html",
+        "title": "先天性代謝異常等検査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健所保健予防課母子保健係",
+        "contactPhone": "042-725-5471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+        "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+1+UM10",
+        "organization": "6000020132098",
+        "compartment": "保健所保健予防課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-01-25",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "078"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小児科救急",
+        "shortName": "子どもの救急（準夜帯・休日の受診）"
+      },
+      "summary": "町田市医師会休日・準夜急患こどもクリニックでは、急に病気になった時で、かかりつけ医や近所の医師に受診できない時など、緊急に診療を必要とするお子さん（15歳以下）を対象に診療を行っています。",
+      "description": "平日の診療時間内のときは、まず、かかりつけ医にご相談ください。\n\n準夜帯・休日の受診\n深夜帯の受診\n急な病気やけがのときの電話相談窓口\n市内の当番医療機関（休日等の午前9時から午後5時の時間帯に、内科・小児科標榜の医療機関が当番になることがあります。）\n町田市医師会休日・準夜急患こどもクリニック\n町田市医師会休日・準夜急患こどもクリニックでは、急に病気になった時で、かかりつけ医や近所の医師に受診できない時など、緊急に診療を必要とするお子さん（15歳以下）を対象に診療を行っています。\n\n入院や高度の医療が必要な場合は、町田市民病院等と連携して対応します。\n\n急病の診療は、応急的なものです。翌日、かかりつけ医等の診療を必ず受けるようにしてください。\n\n市内の当番医療機関\n当番医療機関\n町田市では、町田市医師会と協力して、夜間や休日等の医療機関が通常休診している時間帯に、市内医療機関を下記のとおり当番制で確保しております。\n\n当日の医療機関については、町田市医師会ホームページ（休日・救急診療）、広報まちだをご覧いただくか、東京消防庁救急相談センター、東京都医療機関案内サービス「ひまわり」へお問い合わせください。また、下記メール配信サービス「夜間・休日診療情報」で当番医療機関の情報を配信しています。\n\n診療日・診療時間・診療科目・医療機関区分\n|診療日|診療時間|診療科目|医療機関区分|\n|:----|:----|:----|:----|\n|月曜日から金曜日_（祝休日、年末年始を除く）|午後7時から翌朝8時|内科系1か所|病院|\n|土曜日_（祝休日、年末年始を除く）|午後1時から翌朝8時|内科系1か所|病院|\n|日曜日・祝休日・年末年始|午前9時から翌朝9時|内科系1か所_外科系2か所|病院|\n|日曜日・祝休日・年末年始|午前9時から午後5時|内科系3か所|診療所|",
+      "target": {
+        "targetPersons": "小児科（15歳以下、中学生まで）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 15,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "小児科（15歳以下、中学生まで）"
+      },
+      "support": {
+        "description": "子どもの救急\n・準夜帯・休日の受診\n・深夜帯の受診\n・急な病気やけがのときの電話相談窓口\n・市内の当番医療機関（",
+        "monetarySupport": null,
+        "materiallySupport": "子どもの救急"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "町田市医師会休日・準夜急患こどもクリニック\n町田市歯科医師会休日応急歯科・障がい者歯科診療所\n町田市歯科医師会休日応急歯科・障がい者歯科診療所では、一般の歯科診療所が診療していない休日等に歯科の応急診療を行っております。\n\n詳細は、町田市ホームページ「町田市歯科医師会休日応急歯科・障がい者歯科診療所」をご覧ください。\nhttps://www.city.machida.tokyo.jp/iryo/iryo/kyubyo/kyuzitusika.html",
+        "implementationAddress": "町田市原町田5-8-21（町田市健康福祉会館1階）"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "|診療日|区分|受付時間|\n|:----|:----|:----|\n|日曜日・祝休日・年末年始（12月29日から1月3日）|日中帯|午前8時45分（午前9時から診療）から午後4時30分|\n|毎日|準夜帯|午後6時（午後7時から診療）から午後9時30分|"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "042-710-0927\n\n受診する場合は、必ず事前に電話でご連絡ください。\n\n電話をしていただくのは、予約のためではなく、お子さんの症状を前もってお聞きし、適切な医療機関のご案内やご来院した際にお待ちいただく時間を短くするためのものです。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/mokuteki/3/3/10449.html",
+        "title": "子どもの救急"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健所保健総務課",
+        "contactPhone": "042-724-4241",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/12",
+        "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+1+UM114",
+        "organization": "6000020132098",
+        "compartment": "保健所保健総務課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-07-26",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "医療法",
+        "regulationArticle": "第30条の4第2項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "078"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関する相談",
+        "shortName": "子育てに関する相談"
+      },
+      "summary": "町田市内の子育てに関する相談窓口の一覧です。",
+      "description": "「子どもが泣き止まないんです・・・」\n\n「しつけの仕方がわからない」\n\n「イヤイヤ期、どう乗り越えたらいいのか不安」\n\n「育児で疲れました」\n\nこのような悩みはありませんか？",
+      "target": {
+        "targetPersons": "18歳未満の子どもを育てる保護者等",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "18歳未満の子どもを育てる保護者等"
+      },
+      "support": {
+        "description": "ひとりで悩まないで、子ども家庭支援課へご相談ください\n電話：042-724-4419\n【平日午前8時30分〜午後5時 ただし、土曜、日曜、祝日、年末年始は除く】\nファックス：050-3101-9631\n住所：町田市森野2-2-22 町田市役所2階204窓口\n電話で相談\n電話以外にも、市役所の窓口での相談や、職員がご自宅に訪問しての相談もできます。\n\n子ども家庭支援課以外にも相談できる場所があります\n◆町田市地域子育て相談センター\nhttps://kosodate-machida.tokyo.jp/mokuteki/3/4/2774.html\n子どもセンターまあち、金森保育園、子どもセンターつるっこ、山崎保育園、子どもセンターぱおに併設しています。\n\n◆その他の相談先（町田市ホームページ）\nhttps://www.city.machida.tokyo.jp/iryo/hokenjo/jouhou/nayaminosoudansaki.html\n「保健・福祉」「教育」「いじめ」などの相談先の一覧を掲載しています。",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "電話以外にも、市役所の窓口での相談や、職員がご自宅に訪問しての相談もできます。",
+        "implementationAddress": "町田市森野2-2-22 町田市役所2階204窓口"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:30",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "平日午前8時30分〜午後5時 ただし、土曜、日曜、祝日、年末年始は除く"
+      },
+      "specificDate": null,
+      "holiday": "土曜、日曜、祝日、年末年始",
+      "utilization": "子ども家庭支援課へご相談ください\n電話：042-724-4419\n【平日午前8時30分〜午後5時 ただし、土曜、日曜、祝日、年末年始は除く】\nファックス：050-3101-9631\n住所：町田市森野2-2-22 町田市役所2階204窓口\n電話で相談\n電話以外にも、市役所の窓口での相談や、職員がご自宅に訪問しての相談もできます。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/5/5/1166.html",
+        "title": "子育てのこと、ひとりで悩んでいませんか？"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども生活部子ども家庭支援課",
+        "contactPhone": "042-724-4419",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/9",
+        "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+1+UM115",
+        "organization": "6000020132098",
+        "compartment": "子ども生活部子ども家庭支援課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-11-09",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "医療法",
+        "regulationArticle": "第30条の4第2項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "町田市の子育てに関する相談",
+        "shortName": "オンライン子育て相談"
+      },
+      "summary": "「子育てのあれこれ」をオンラインで解消しませんか\n子育てにはあれこれ悩みが付き物ですね。\nでも、日々の生活は慌ただしくて時間がないという方、\n相談先は知っているけど子どもを連れていくには遠くて…と足を運べないという方\nオンラインでお話ししませんか\n感染症等が気になる方も安心してお話ができます。\n\n相談するほどではないけれど、日々の子育ての疑問、質問も気軽にお話しください\n\n\n\nMicrosoft Teamsアプリを使用します",
+      "description": "「子育てのあれこれ」をオンラインで解消しませんか\n子育てにはあれこれ悩みが付き物ですね。\nでも、日々の生活は慌ただしくて時間がないという方、\n相談先は知っているけど子どもを連れていくには遠くて…と足を運べないという方\nオンラインでお話ししませんか\n感染症等が気になる方も安心してお話ができます。\n\n相談するほどではないけれど、日々の子育ての疑問、質問も気軽にお話しください\n\n\n\nMicrosoft Teamsアプリを使用します",
+      "target": {
+        "targetPersons": "0～18歳までの児童の保護者（児童からの相談も可）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "0～18歳までの児童の保護者（児童からの相談も可）"
+      },
+      "support": {
+        "description": "オンライン子育て相談",
+        "monetarySupport": null,
+        "materiallySupport": "オンライン子育て相談"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "【問い合わせ先】\n堺地域子育て相談センター 電話042-770-7446\n南地域子育て相談センター 電話042-710-2752\n鶴川地域子育て相談センター 電話042-734-3699\n忠生地域子育て相談センター 電話042-789-7545\n町田地域子育て相談センター 電話042-710-2747"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "下記のオンライン申し込みフォーム（子育て推進課ご意見送信フォーム）に必要項目と\n「ご意見等の内容」にお子さんの年齢や相談内容を入力してください。\n\nオンライン子育て相談申し込み\nhttps://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/5?page_no=10384\n\n申し込みのながれ\n1．オンライン子育て相談申し込みをする\n\n2．申込日の翌日から3日以内（日曜日・祝日・年末年始を除く）に相談決定日時とURLを登録されたメールアドレスに送信します\n\n3．相談決定日時になったらメールでお知らせしたURLをクリックします\n\n＜注意点＞\n・オンラインで子育て相談するためにはスマートフォンやパソコン、タブレット等が必要です\n\n・周囲の雑音・カメラに映る背景から個人情報が漏洩しないように利用環境を整えてください。マイク付きイヤホン（ヘッドホン）を推奨します\n\n・Microsoft Teamsアプリをお持ちの方はアプリからでも利用できます\n※アプリ利用方法は「Microsoft Teams」のホームページをご確認ください\n\n・オンライン子育て相談は無料ですが通信料がかかります\n\n・駅や飲食店などで利用できるフリーWi-Fiは無料で使用できますが、不正アクセスの被害を受ける可能性が高くなりますのでオンライン相談にフリーWi-Fiを使用しないようにお願いします\n\n・申込者以外に相談に同席・参加される場合は事前にお知らせください\n\n・オンラインの録画はお断りします",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/mokuteki/3/4/10384.html",
+        "title": "オンライン子育て相談"
+      },
+      "formLink": [
+        {
+          "uri": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/5?page_no=10384",
+          "title": "オンライン子育て相談申し込み"
+        }
+      ],
+      "contact": {
+        "contactName": "\n堺地域子育て相談センター \n南地域子育て相談センター \n鶴川地域子育て相談センター \n忠生地域子育て相談センター \n町田地域子育て相談センター ",
+        "contactPhone": "042-770-7446,042-710-2752,042-734-3699,042-789-7545,042-710-2747",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/5",
+        "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html\n【問い合わせ先】堺地域子育て相談センター電話 042-770-7446,南地域子育て相談センター電話 042-710-2752,鶴川地域子育て相談センター電話 042-734-3699,忠生地域子育て相談センター電話 042-789-7545,町田地域子育て相談センター電話 042-710-2747",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+1+UM119",
+        "organization": "6000020132098",
+        "compartment": "子ども生活部子育て推進課町田市地域子育て相談センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-07-01",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "子ども・子育て支援法",
+        "regulationArticle": "第59条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小学校・中学校の就学援助費",
+        "shortName": "就学援助費"
+      },
+      "summary": "経済的な理由により就学が困難と認められる、公立の小学校・中学校に通学する児童・生徒の保護者を対象に、学用品費、修学旅行費、給食費などを支給します。",
+      "description": "市では、経済的にお困りでお子さんを小・中学校に就学させることが困難な家庭の保護者に対して、学用品費・給食費・入学準備金・修学旅行費など学校でかかる費用の一部を援助しています。\n\nよくある質問\n申請について\nQ 自分が認定になるか、またどの認定区分になるか事前に知りたい。\nA 世帯構成及び世帯所得で審査をしますが、年齢によっても審査結果が異なりますので、迷われる方はご申請をお願いします。窓口やお電話で個別に基準額をお答えすることは致しません。\n\nQ 離婚前提に別居中（生計を共にしていない）ですが就学援助･就学奨励は申請できますか。\nA 申請できます。その場合生計を共にしている方のみを申請書に記入してください。（申請書の記載内容について後日確認のご連絡をさせていただく場合があります。）\n\nQ 単身赴任中の家族（生計を共にしている）がいますが就学援助･就学奨励は申請できますか。\nA 申請できます。その場合単身赴任中の家族も含めて申請してください。（2023年1月1日時点で町田市外に住民登録がある方がいる場合「課税（非課税）証明書」の提出が必要です。）\n\nQ 入学前に入学準備金の支給を受けましたが、今回申請は必要ですか。\nA 申請は必要です。入学前に入学準備金の支給を受けた場合でも、継続して就学援助･就学奨励を希望される際は、申請書を提出してください。なお今回の申請により認定になった場合、入学後の入学準備金の支給はありません。\n\nQ 税申告や扶養申告をしていません（しているかわかりません）。\nA 早急に税申告や扶養申告をしてください。生計を共にしている家族の中で上記申告をしていない方がいると、審査ができず、一定期間後に申請を却下することがあります。申告の方法や申告ができているか分からない方は、2023年1月1日時点の住民登録地の住民税担当課に確認してください。\n\n必要書類について\n「家賃の支払いをしていることが分かる書類」について\nQ 申請書に記入していない生計別の人が「家賃を負担している人」です。\nA 生計を共にしている人が家賃負担している場合のみ「賃貸」として審査しますので、この場合は「持家」として審査することになります。なお「家賃の支払いをしていることが分かる書類」をご提出いただいた場合でも「家賃を負担している人」が申請書の「生計を共にしている家族」欄に記入されていない方の場合は「持家」として審査しますのでご了承ください。\n\nQ 社宅（または会社借り上げの住宅）に住んでいますが、どうすればよいですか？\nA 家賃の負担がある場合は「賃貸」として審査ができます。お勤め先にご相談し、社宅や会社借り上げ住宅に住んでいることを示す証明書等を取得・ご提出いただくか、家賃が天引きされていることが分かる給与明細の写しをご提出ください。※「給与を受ける人の氏名」「会社名」「家賃として引かれていることが分かる明細部分」の写しが必要です。\n\n支給について\nQ 就学援助・就学奨励の申請をしましたが給食費が引き落とされています。\nA 申請書を提出し準要保護・1段階準要保護・2段階として認定を受けた方は原則給食費の請求がありません。前年度認定（認定取り消しになった方は除く）の方は、4～6月の間「暫定認定」として給食費の支払いが猶予されますが、今年度の認定通知が届いていない方（不認定者及び保留者等）は7月に遡りで4～6月の給食費の請求があります。詳しくは保健給食課（電話：042-724-2177）にお問合せください。",
+      "target": {
+        "targetPersons": "援助の対象となる方は以下のとおりです。なお、前年の所得額による審査があります。審査の結果「認定」になる方が対象です。\n1.町田市立小・中学校に在籍する児童生徒の保護者の方\n2.町田市内にお住まいで、町田市立以外の小学校（義務教育学校の前期課程を含む）または中学校（義務教育学校の後期課程及び中等教育学校の前期課程を含む）に在籍する児童生徒の保護者の方\n\n以下に該当する方は援助の対象となりますが支給費目は異なります\n・町田市内にお住まいで、お子さんが町田市立以外の小・中学校に通われている方\n・町田市外にお住まいで、お子さんが町田市立小・中学校に通われている方\n\n認定区分及び所得基準\n・生活保護を受けている方は要保護として認定します。\n・生計を共にしている家族全員の前年の所得合計額が、生活保護基準の1.1倍未満の方（下表参照）は準要保護として認定します。\n\n|生計を共にしている家族の人数|合計所得金額の世帯合計上限額（幅）|<|\n|^|賃貸（家賃支払がある）|持家（住宅ローンを支払中も含む）|\n|:----|:----|:----|\n|2人|253～273万円|169～189万円|\n|3人|290～344万円|206～260万円|\n|4人|314～400万円|230～316万円|\n|5人|334～448万円|250～364万円|\n|6人|361～507万円|277～423万円|\n|7人|388～566万円|304～482万円|\n|8人|416～624万円|332～540万円|\n\n給与所得、年金所得以外の所得がある方は、上記の金額から10万円を引いた額と比べて下さい。\n※給与所得とは\n・1つの事業所から給与を受け取っている方：源泉徴収票の「給与所得控除後の金額」\n・2か所以上の事業所から給与を受け取っている方：全ての源泉徴収票の「支払金額」を足した上で、給与所得の計算をした後の額",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 15,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 6,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "援助の対象となる方は以下のとおりです。なお、前年の所得額による審査があります。審査の結果「認定」になる方が対象です。\n1.町田市立小・中学校に在籍する児童生徒の保護者の方\n2.町田市内にお住まいで、町田市立以外の小学校（義務教育学校の前期課程を含む）または中学校（義務教育学校の後期課程及び中等教育学校の前期課程を含む）に在籍する児童生徒の保護者の方\n\n以下に該当する方は援助の対象となりますが支給費目は異なります\n・町田市内にお住まいで、お子さんが町田市立以外の小・中学校に通われている方\n・町田市外にお住まいで、お子さんが町田市立小・中学校に通われている方"
+      },
+      "support": {
+        "description": "下記「就学援助費・奨励費申請書」内各「お知らせ」にてご確認ください。\n\n就学援助費・奨励費申請書\nhttps://kosodate-machida.tokyo.jp/soshiki/5/3/261.html",
+        "monetarySupport": null,
+        "materiallySupport": "下記「就学援助費・奨励費申請書」内各「お知らせ」にてご確認ください。\n\n就学援助費・奨励費申請書\nhttps://kosodate-machida.tokyo.jp/soshiki/5/3/261.html"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "・町田市教育委員会学務課（町田市役所10階）\n・お子さんが在籍する町田市立小・中学校（学校で指定した提出先または事務室職員へ）\n\n※申請書の紛失や提出忘れ防止のため、学校にはできるだけ保護者が直接ご提出ください。 \n※申請書を郵送で学務課へご提出される場合、ご心配な方は郵便物を差し出した記録が残る方法をご利用ください。\n※お子さんが町田市立以外の小中学校（国公立、私立）に通われている方は、学務課へ直接または郵送で申請書をご提出ください。",
+        "implementationAddress": "〒194-8520 東京都町田市森野2丁目2番22号"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "保護者",
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": "2023-04-28",
+        "toHM": null,
+        "conditions": "学校または学務課に直接ご提出される場合：2023年4月28日（金曜日）\n学務課に郵送でご提出される場合：2023年4月30日（日曜日）※当日消印有効\n\n2023年度の申請受付は2024年2月末日をもって終了いたしました。"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "・町田市教育委員会学務課（町田市役所10階）\n・お子さんが在籍する町田市立小・中学校（学校で指定した提出先または事務室職員へ）",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/mokuteki/2/4/2/8821.html",
+        "title": "就学援助費"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "学校教育部学務課",
+        "contactPhone": "042-724-2176",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/17",
+        "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+1+UM126",
+        "organization": "6000020132098",
+        "compartment": "学校教育部学務課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-01",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "学校教育法",
+        "regulationArticle": "第19条"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "078"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "新生児訪問",
+        "shortName": "出生通知票・こんにちは赤ちゃん訪問"
+      },
+      "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。赤ちゃんが生まれたら、母子健康手帳に綴じ込まれている出生通知票をできるだけ早く出しましょう。まだ赤ちゃんのお名前が決まっていない場合でも、なるべく1週間以内に保健予防課へ送付してください。この出生通知票によって、こんにちは赤ちゃん訪問を実施します。また、未熟児養育事業等、母子保健の貴重な資料にもなります。赤ちゃんのためにも忘れずに提出してください。",
+      "description": "出生通知票・こんにちは赤ちゃん訪問\n\n出生通知票\n赤ちゃんが生まれたら、母子健康手帳に綴じ込まれている出生通知票をできるだけ早く出しましょう。まだ赤ちゃんのお名前が決まっていない場合でも、なるべく1週間以内に保健予防課へ送付してください。\nこの出生通知票によって、こんにちは赤ちゃん訪問を実施します。また、未熟児養育事業等、母子保健の貴重な資料にもなります。赤ちゃんのためにも忘れずに提出してください。\nご提出後、訪問スタッフがご連絡し、訪問日を決定します。事務手続き上、ご連絡までにしばらくお日にちがかかることがあります。\n※他の区市町村で母子健康手帳の交付を受けたために町田市の出生通知票をお持ちでない方や、訪問を急ぐご事情がある方は、保健予防課（電話：042-725-5471）までご連絡ください。\n出生通知票は、下記サイトからオンラインでも提出できます。\n\nぴったりサービス（手続の検索・電子申請）;https://myna.go.jp/SCK1501_02_001/SCK1501_02_001_Init.form\n\nこんにちは赤ちゃん訪問\n\n赤ちゃんが生まれたすべてのご家庭に訪問を実施する事業です。\n（1）初めての赤ちゃんや体重の少ない赤ちゃん、第2子以降で体重測定を希望する赤ちゃん等\n体重測定や授乳のこと、初めての育児などでご心配なこと、その他お母様の体調などのご相談を受けています。\n訪問時間は約1時間から1時間半程度で、訪問スタッフ（助産師・保健師）がうかがいます。\n\n（2）第2子以降の赤ちゃん\n玄関先などで現在の状況をお聞きしながら、子育てに関する情報をお伝えし、育児の相談を受けています。訪問時間は約20から40分で、訪問スタッフ「ベビー＆ママサポーター（看護師）」がうかがいます。\n\n訪問を受けると、「子育て応援ギフト」を申請することができます。訪問時にご案内をお渡しします。\n\n出産・子育て応援交付金事業;https://kosodate-machida.tokyo.jp/mokuteki/2/6/11439.html",
+      "target": {
+        "targetPersons": "赤ちゃんが生まれたすべてのご家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "赤ちゃんが生まれたら、母子健康手帳に綴じ込まれている出生通知票をできるだけ早く出しましょう。まだ赤ちゃんのお名前が決まっていない場合でも、なるべく1週間以内に保健予防課へ送付してください。\n\nこの出生通知票によって、こんにちは赤ちゃん訪問を実施します。また、未熟児養育事業等、母子保健の貴重な資料にもなります。赤ちゃんのためにも忘れずに提出してください。\n\nご提出後、訪問スタッフがご連絡し、訪問日を決定します。事務手続き上、ご連絡までにしばらくお日にちがかかることがあります。\n\n※他の区市町村で母子健康手帳の交付を受けたために町田市の出生通知票をお持ちでない方や、訪問を急ぐご事情がある方は、保健予防課（電話：042-725-5471）までご連絡ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://kosodate-machida.tokyo.jp/mokuteki/2/6/11439.html",
+          "title": "出産・子育て応援交付金事業"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/8/1127.html",
+        "title": "出生通知票・こんにちは赤ちゃん訪問"
+      },
+      "formLink": [
+        {
+          "uri": "https://myna.go.jp/SCK1501_02_001/SCK1501_02_001_Init.form",
+          "title": "ぴったりサービス（手続の検索・電子申請）"
+        }
+      ],
+      "contact": {
+        "contactName": "保健所保健予防課母子保健係",
+        "contactPhone": "042-725-5471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+        "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+1+UM13",
+        "organization": "6000020132098",
+        "compartment": "保健所保健予防課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-12-08",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第11条（新生児の訪問指導）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "078",
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+        "shortName": "こんにちは赤ちゃん訪問"
+      },
+      "summary": "出生通知票の提出に基づき、赤ちゃんが生まれたすべてのご家庭に訪問を実施する事業です。",
+      "description": "赤ちゃんが生まれたすべてのご家庭に訪問を実施する事業です。\n（1）初めての赤ちゃんや体重の少ない赤ちゃん、第2子以降で体重測定を希望する赤ちゃん等\n体重測定や授乳のこと、初めての育児などでご心配なこと、その他お母様の体調などのご相談を受けています。\n訪問時間は約1時間から1時間半程度で、訪問スタッフ（助産師・保健師）がうかがいます。\n（2）第2子以降の赤ちゃん\n玄関先などで現在の状況をお聞きしながら、子育てに関する情報をお伝えし、育児の相談を受けています。訪問時間は約20から40分で、訪問スタッフ「ベビー＆ママサポーター（看護師）」がうかがいます。\n\n訪問を受けると、「子育て応援ギフト」を申請することができます。訪問時にご案内をお渡しします。\n出産・子育て応援交付金事業;https://kosodate-machida.tokyo.jp/soshiki/3/1/8/11384.html",
+      "target": {
+        "targetPersons": "赤ちゃんが生まれたすべてのご家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "ご自宅",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "ご提出後、訪問スタッフがご連絡し、訪問日を決定します。",
+      "procedurePersons": null,
+      "procedureMethod": "赤ちゃんが生まれたら、母子健康手帳に綴じ込まれている出生通知票をできるだけ早く出しましょう。まだ赤ちゃんのお名前が決まっていない場合でも、なるべく1週間以内に保健予防課へ送付してください。\n\nこの出生通知票によって、こんにちは赤ちゃん訪問を実施します。また、未熟児養育事業等、母子保健の貴重な資料にもなります。赤ちゃんのためにも忘れずに提出してください。\n\nご提出後、訪問スタッフがご連絡し、訪問日を決定します。事務手続き上、ご連絡までにしばらくお日にちがかかることがあります。\n\n※他の区市町村で母子健康手帳の交付を受けたために町田市の出生通知票をお持ちでない方や、訪問を急ぐご事情がある方は、保健予防課（電話：042-725-5471）までご連絡ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "なるべく1週間以内"
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/8/11384.html",
+          "title": "出産・子育て応援交付金事業"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/8/1127.html",
+        "title": "出生通知票・こんにちは赤ちゃん訪問"
+      },
+      "formLink": [
+        {
+          "uri": "https://myna.go.jp/SCK1501_02_001/SCK1501_02_001_Init.form",
+          "title": "ぴったりサービス（手続の検索・電子申請）"
+        }
+      ],
+      "contact": {
+        "contactName": "保健所保健予防課母子保健係",
+        "contactPhone": "電話 042-725-5471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+1+UM14",
+        "organization": "6000020132098",
+        "compartment": "保健所保健予防課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023/12/08",
+      "odInformation": {
+        "updateDate": "2025/03/13",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第21条の10の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産後ケア事業",
+        "shortName": "産後ケアのご案内（宿泊型）"
+      },
+      "summary": "出産を終えた退院後、お母さんと赤ちゃんの生活リズムづくりや、心身の安定を図るため、施設においてショートステイ（宿泊）やデイサービス（日帰り）で、助産師などが母子の心身ケアと育児サポートを行います。「出産後、自宅に帰っても家族の手伝いがなくて不安」「体調が優れない」「授乳がうまくいかない」など、出産後のサポートが必要なお母さんが、赤ちゃんと一緒に利用できます。",
+      "description": "医療機関・助産院で休息、授乳・育児などの指導や助産師のケアを受けられる宿泊型・日帰り型と、助産師に訪問してもらいご自宅でも相談やアドバイスが受けられる訪問型があります。\n\n利用の可否を判断するために、保健師等が状況をお伺いすることがあります。\n\n2023年4月から、所得にかかわらない減額制度を開始しました。",
+      "target": {
+        "targetPersons": "利用対象は町田市に住民登録がある方です。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": 3
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "産後3か月未満の\n\nお母さんと赤ちゃん"
+      },
+      "support": {
+        "description": "宿泊型",
+        "monetarySupport": null,
+        "materiallySupport": "宿泊型"
+      },
+      "cost": "6000",
+      "costConditions": "1泊2日の場合",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "6泊7日まで\n10：00~翌12：00\n（昼・夕・朝3食付）\t"
+      },
+      "implementationPlace": {
+        "implementationName": "宿泊型・日帰り型実施施設\n宿泊型・日帰り型の産後ケア事業を実施している施設は次のとおりです。\n\n施設名をクリックすると外部リンクとなります。参考にご覧ください。また、PDFファイルでパンフレットがご覧いただけます\n\n【町田市内】\n\n・としの助産院（パンフレット(PDFファイル:377.4KB)）\nhttps://kosodate-machida.tokyo.jp/mokuteki/1/9/4184.html\nhttps://kosodate-machida.tokyo.jp/mokuteki/1/9/4184.html\n・町田市民病院 (パンフレット(PDFファイル:222KB)）\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/siminn.pdf\n・鶴川台ウイメンズクリニック （パンフレット(PDFファイル:185.2KB)）\nhttps://tsurukawadai-lp.jp/\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/turukawa.pdf\n・都南産婦人科 \n・おなごサロンはぴねす助産院（日帰り型のみ実施）（パンフレット(PDFファイル:1.6MB)）\nhttps://sanba.mom/\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/onago.pdf\n【八王子市】\n・みなみ野グリーンゲイブルズクリニック （パンフレット(PDFファイル:148.5KB)）\nhttps://minamino-greengables.jp/\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/minamino.pdf\n【川崎市】\n・新百合ヶ丘総合病院 （パンフレット(PDFファイル:203.4KB)）\nhttps://www.shinyuri-hospital.com/department/21_obstetrics_and_gynecology/obstetrical/after_care.html\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/sinnyuri.pdf\n【相模原市】\n・相模野病院 (パンフレット(PDFファイル:208.9KB))\nhttps://sagamino.jcho.go.jp/perinatal-medical/\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/sagamino.pdf\n・marimo助産院（宿泊型のみ実施）(パンフレット(PDFファイル:163.2KB))\nhttps://www.marimo-josanin.com/\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/marimo.pdf\n・くわのき助産院\nhttp://kuwanoki-josanin.com/\n・相模原協同病院（宿泊型のみ実施）\nhttps://www.sagamiharahp.com/departments/obstetrics_and_gynecology/06.html\n・淵野辺総合病院（宿泊型のみ実施 要相談）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/8/4182.html",
+        "title": "産後ケアのご案内"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1611558587286",
+          "title": "東京共同電子申請・届出サービス"
+        }
+      ],
+      "contact": {
+        "contactName": "保健所保健予防課母子保健係",
+        "contactPhone": "042-725-5471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+        "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+1+UM15",
+        "organization": "6000020132098",
+        "compartment": "保健所保健予防課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-11-27",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条の2（産後ケア事業）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "母子父子寡婦福祉資金",
+        "shortName": "母子福祉資金・父子福祉資金"
+      },
+      "summary": "母子家庭の母、父子家庭の父、および寡婦の方の経済的自立や、扶養しているお子さんの福祉増進のために、必要な資金をお貸しする制度です。",
+      "description": "母子及び父子福祉資金\n都内にお住まいで、20歳未満のお子さん等を扶養している母子家庭の母・父子家庭の父等を対象とした資金の貸付けです。\n貸し付けが自立につながると判断され、返済計画を立てることができる方が対象となります。\n\n資金の種類や条件等の詳細・ご相談につきましては、子ども家庭支援課にお問い合わせください。\n・貸付の決定に当たっては審査を行います。\n・審査の結果、貸付けできない場合もありますのでご了承ください。\n・審査及び交付に時間がかかりますので、余裕をもって必ず事前にご相談ください。",
+      "target": {
+        "targetPersons": "都内にお住まいで、20歳未満のお子さん等を扶養している母子家庭の母・父子家庭の父等",
+        "lessThan": {
+          "targetAge": 20,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "都内にお住まいで、20歳未満のお子さん等を扶養している母子家庭の母・父子家庭の父等"
+      },
+      "support": {
+        "description": "都内にお住まいで、20歳未満のお子さん等を扶養している母子家庭の母・父子家庭の父等を対象とした資金の貸付けです。貸し付けが自立につながると判断され、返済計画を立てることができる方が対象となります。資金の種類や条件等の詳細・ご相談につきましては、子ども家庭支援課にお問い合わせください。貸付の決定に当たっては審査を行います。審査の結果、貸付けできない場合もありますのでご了承ください。審査及び交付に時間がかかりますので、余裕をもって必ず事前にご相談ください。",
+        "monetarySupport": null,
+        "materiallySupport": "資金の貸付け"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/5/7/1183.html",
+        "title": "母子福祉資金・父子福祉資金"
+      },
+      "formLink": [
+        {
+          "uri": "https://koukin-koufuri.jp/machida_city/GPFMCD01010Action_doInit.action?tax_fee=0150",
+          "title": "町田市Web口座振替受付サービス（母子・父子、女性福祉資金償還）"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども生活部子ども家庭支援課",
+        "contactPhone": "042-724-4419",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/9",
+        "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+1+UM28",
+        "organization": "6000020132098",
+        "compartment": "子ども生活部子ども家庭支援課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-11-01",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子及び父子並びに寡婦福祉法",
+        "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "078"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "市内の当番医療機関"
+      },
+      "summary": "町田市では、夜間や日曜・祝日、年末年始に、市内の医療機関の協力のもと、当番制で診療を行っています。",
+      "description": "夜間や休日等の医療機関が通常休診している時間帯に、下記のとおり市内医療機関が当番制で診療を行っております。受診の際は必ず電話してください。\n\n内科系・外科系\n|診療日|<|<|診療時間|<|診療科目|<|<|医療機関区分|<|\n|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|\n|月曜日から金曜日<br>（祝休日、年末年始を除く。）|<|<|午後7時～翌朝8時|<|内科系1か所|<|<|病院|<|\n|土曜日<br>（祝休日、年末年始を除く。）|<|<|午後1時～翌朝8時|<|内科系1か所|<|<|病院|<|\n|日曜日・祝休日・年末年始|<|<|午前9時～翌朝9時|<|内科系1か所、外科系2か所|<|<|病院|<|\n|日曜日・祝休日・年末年始|<|<|午前9時～午後5時|<|内科系3か所|<|<|診療所|<|",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "当番医療機関の確認方法\n「当月の当番医療機関」町田市医師会ホームページ（外部サイト）;https://www.machida.tokyo.med.or.jp/?page_id=17189\n\n電話でも確認できます\n医師会テレホンサービス（電話：042-739-0660）\n平日（月曜日から金曜日）の午前9時から午後5時\n上記以外の時間帯・土曜・日曜・祝日・医師会館休館日は、音声テープにてご案内いたします。\n東京都医療機関案内サービス「ひまわり」（外部サイト）;http://www.himawari.metro.tokyo.jp/\n\n広報まちだ;https://www.city.machida.tokyo.jp/shisei/koho/koho/kouhoushi/koho_machida/index.html\n毎月1日号の最終面「急病のときは」をご覧ください。1か月分の当番医療機関等の情報を掲載しています。\n\nメール配信サービス「夜間・休日診療情報」\nメール配信サービス「夜間・休日診療情報」;https://www.city.machida.tokyo.jp/merumaga/shinryo.html\n毎週、当番医療機関等の情報を携帯電話やパソコンにEメールで配信します。上記リンク先からご登録ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.machida.tokyo.jp/iryo/iryo/kyubyo/20180214192606675.html",
+        "title": "市内の当番医療機関"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健所 保健総務課",
+        "contactPhone": "042-724-4241",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.machida.tokyo.jp/cgi-bin/formmail/ssl/ssl_goiken/formmail.cgi?d=ssl_goiken&bu=021&ka=000",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+1+UM45",
+        "organization": "6000020132098",
+        "compartment": "保健所 保健総務課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-12-02",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": null,
+        "targetCode": null,
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "町田市の妊娠・出産に関する相談",
+        "shortName": "出産・子育てしっかりサポート事業～ゆりかご・まちだ～"
+      },
+      "summary": "町田市では妊婦さんが安心して出産を迎え、子育てが楽しくできるようにサポートしています。この事業では、町田市民の妊婦の方全員に保健師等が「しっかりサポート面接」を行っています。ご出産前に面接を終えた妊婦の方には、「出産・子育て応援商品券（こども商品券1万円分）」を差し上げます。ぜひお越しください。また、対象の方については、出産応援交付金のご申請が可能になります。",
+      "description": "面接は妊婦さんご本人と保健師等がお話をします。妊娠中の気持ちや体調、産後の子育ての環境についてお伺いします。また、町田市の母子保健サービスについてお伝えします",
+      "target": {
+        "targetPersons": "町田市民の妊婦の方すべて（町田市に住民票がある方）とそのご家族",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "ご出産前に面接を終えた妊婦の方には、「出産・子育て応援商品券（こども商品券1万円分）」を差し上げます。また、国の交付金に基づく「出産応援ギフト（5万円分のギフトカード）」を差し上げます。",
+        "monetarySupport": "出産・子育て応援商品券（こども商品券1万円分）、「出産応援ギフト（5万円分のギフトカード）」",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "〇保健予防課窓口（市庁舎7階・健康福祉会館・鶴川保健センター）\n月～金曜日 受付時間 8：30～16：30（予約不要）\n\n〇南市民センター、なるせ駅前市民センター、小山市民センター、忠生保健センター、堺市民センター、保健所中町庁舎\n各会場月1回（完全予約制）\n\n〇健康福祉会館\n月1回土曜日午後（完全予約制）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "〇保健予防課窓口（市庁舎7階・健康福祉会館・鶴川保健センター）\n月～金曜日 受付時間 8：30～16：30（予約不要）\n\n〇南市民センター、なるせ駅前市民センター、小山市民センター、忠生保健センター、堺市民センター、保健所中町庁舎\n各会場月1回（完全予約制）\n\n〇健康福祉会館\n月1回土曜日午後（完全予約制）\n\n〇面接時間\n30分程度\n混雑状況によってお待たせする場合もありますので、お時間に余裕を持ってお越しください。"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "（予約制の場合の面接予約方法）\n町田市公式LINEから、営業日2日前までにご予約ください。\nhttps://kosodate-machida.tokyo.jp/material/images/group/4/sikkariqr.png",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子手帳\n母子手帳をお忘れの場合は、「出産・子育て応援商品券」はお渡しできませんので必ずお持ちください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/8/1123.html",
+        "title": "出産・子育てしっかりサポート事業～ゆりかご・まちだ～"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健所保健予防課母子保健係",
+        "contactPhone": "042-725-5471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13?page_no=2249",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+1+UM47",
+        "organization": "6000020132098",
+        "compartment": "保健所保健予防課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-07-22",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": null,
+        "targetCode": null,
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月未満児）",
+        "shortName": "3～4か月児健康診査"
+      },
+      "summary": "お子さんの病気の予防や早期発見、健康保持と増進を目的として3～4か月児健康診査を実施しています。",
+      "description": "お子さんの発育や発達の確認、育児の相談などを行います。",
+      "target": {
+        "targetPersons": "3～4か月,（お子さんが6か月になる前まで受診することが出来ます。）",
+        "lessThan": {
+          "targetAge": 0,
+          "targetAgeOfMonths": 6
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": 3
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "3か月になった日から6か月になる前まで"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "0",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "健康福祉会館,鶴川保健センター,小山市民センター,忠生保健センター,成瀬コミュニティセンター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "お子さんが3か月になる月の末頃に通知いたします。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳、問診票（2種類）、バスタオル（計測などの際、お子さんをくるむことができる大きさのもの）、返信用封筒（通知に同封されています）、健康保険証、替えのおむつなど",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.machida.tokyo.jp/iryo/iryo/kenkoufukushi/kennhukutadaobunnkann.html",
+          "title": "忠生保健センター"
+        },
+        {
+          "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/7/4448.html",
+          "title": "集団健診日の確認・予約変更がLINEでできるようになりました"
+        },
+        {
+          "uri": "https://www.city.machida.tokyo.jp/iryo/iryo/kenkoufukushi/kennkouhukusikaikan.html",
+          "title": "健康福祉会館"
+        },
+        {
+          "uri": "https://www.city.machida.tokyo.jp/kurashi/touroku/shisetsu/06/accessmap.html",
+          "title": "小山市民センター"
+        },
+        {
+          "uri": "https://www.city.machida.tokyo.jp/iryo/iryo/kenkoufukushi/health03.html",
+          "title": "鶴川保健センター"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/7/1148.html",
+        "title": "3～4か月児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健所保健予防課母子保健係",
+        "contactPhone": "042-725-5471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+        "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+1+UM49",
+        "organization": "6000020132098",
+        "compartment": "保健所保健予防課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-04",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "1歳6か月児健康診査",
+        "shortName": "1歳6か月児健康診査（医科（個別健診））"
+      },
+      "summary": "お子さんの病気の予防や早期発見、健康保持と増進を目的として1歳6か月児健康診査を実施しています。医科健診は個別健診で実施します。",
+      "description": "お子さんの発育や発達の確認を行います。",
+      "target": {
+        "targetPersons": "1歳6か月に達してから2歳になる前まで",
+        "lessThan": {
+          "targetAge": 2,
+          "targetAgeOfMonths": 0
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1歳6か月になった日から2歳になる前まで"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "0",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "町田市指定医療機関、または相模原市指定医療機関で受診可能です。",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "医療機関によって診療時間等が異なります。また、病床が200床以上の医療機関では、初診加算料がかかることがあります。あらかじめ医療機関に確認してから受診してください。"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "お子さんが1歳5か月になる月の末頃に通知いたします。医療機関に直接ご予約ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳、問診票(3種類）、医科の受診票、返信用封筒（通知に同封されています）、健康保険証、タオル、未使用の歯ブラシ（フッ素塗布をご希望の方）、替えのオムツなど",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/7/1147.html",
+        "title": "1歳6か月児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健所保健予防課母子保健係",
+        "contactPhone": "042-725-5471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+        "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+1+UM51",
+        "organization": "6000020132098",
+        "compartment": "保健所保健予防課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-12-08",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088",
+          "089",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "3歳児健康診査",
+        "shortName": "3歳児健康診査"
+      },
+      "summary": "お子さんの病気の予防や早期発見、健康保持と増進を目的として3歳児健康診査を実施しています。集団健診で医科・歯科とも実施します。",
+      "description": "お子さんの発育や発達、歯の状況の確認、育児の相談などを行う健診です。",
+      "target": {
+        "targetPersons": "3歳児（4歳になる前まで）",
+        "lessThan": {
+          "targetAge": 4,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "3歳になった日から4歳になる前まで"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "0",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "健康福祉会館,鶴川保健センター,小山市民センター,忠生保健センター,成瀬コミュニティセンター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "お子さんが3歳になる月の末頃に通知いたします。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳、問診票（3種類）、目と耳のアンケート、尿（取れた方のみ）、返信用封筒（通知に同封されています）、健康保険証、タオルかハンカチ",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.machida.tokyo.jp/iryo/iryo/kenkoufukushi/kennkouhukusikaikan.html",
+          "title": "健康福祉会館"
+        },
+        {
+          "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/7/4448.html",
+          "title": "集団健診日の確認・予約変更がLINEでできるようになりました"
+        },
+        {
+          "uri": "https://www.city.machida.tokyo.jp/iryo/iryo/kenkoufukushi/health03.html",
+          "title": "鶴川保健センター"
+        },
+        {
+          "uri": "https://www.city.machida.tokyo.jp/kurashi/touroku/shisetsu/06/accessmap.html",
+          "title": "小山市民センター"
+        },
+        {
+          "uri": "https://www.city.machida.tokyo.jp/iryo/iryo/kenkoufukushi/kennhukutadaobunnkann.html",
+          "title": "忠生保健センター"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/7/1150.html",
+        "title": "3歳児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健所保健予防課母子保健係",
+        "contactPhone": "042-725-5471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+        "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+1+UM52",
+        "organization": "6000020132098",
+        "compartment": "保健所保健予防課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-04",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の乳幼児健診",
+        "shortName": "2歳児歯科健康診査"
+      },
+      "summary": "町田市では、2歳児歯科健康診査を集団健診で実施しています。この時期のむし歯は、気づかないうちに始まり、痛みが出る頃にはかなり進行していることがあります。毎日の歯みがきや食生活などのホームケアとあわせて、4か月から6か月に1度は定期的に歯科健診を受け、お口の健康状態や発育発達状態、歯並びなどを確認しましょう！",
+      "description": "この時期のむし歯は、気づかないうちに始まり、痛みが出る頃にはかなり進行していることがあります。毎日の歯みがきや食生活などのホームケアとあわせて、4か月から6か月に1度は定期的に歯科健診を受け、お口の健康状態や発育発達状態、歯並びなどを確認しましょう！\n\n町田市では、2歳児歯科健康診査を集団健診で実施しています。\n\n転入された方で、健診の受診をご希望の方は保健予防課歯科保健係（電話：042-725-5437）へご連絡ください。\n[[図]]\n\n感染症に伴う対応について\n感染症拡大防止の観点より、以下の点に配慮しながら実施しています。\n\n密集を防ぐため、健診日と受付時間を指定し人数制限を設けています。\n従事者の手洗いやマスクの着用、消毒を徹底しています。\n専門職による集団での指導は中止し、待合場所の人数を少なくし、換気を行いながら実施しています。\n★健診にお越しになる方へのお願い\n健診にお越しになる方にも、次の点についてご協力をお願いします。\n\n発熱、咳、嘔吐、下痢などの症状がある場合は、ご来場はお控えください。\n指定された受付時間までは、早くご来場されても、時間を過ぎてご来場されてもお待ちいただく可能性があります。時間通りにご来場いただきますよう、ご協力をお願いします。\nまた、集団での健診にご不安がある方や、かかりつけ歯科医で定期的に歯科健診を受けている方については、無理にお越しいただく必要はありません。前回の歯科健診から半年経つ方は、近隣の歯科医院で健診を受けるようにしましょう。（保険は適用されません。）\n\n近隣の小児歯科をお探しの方は、下記ページにある「市内歯科医院一覧」をご覧になるか、町田市歯科医師会HPをご確認ください。\n\nかかりつけ歯科医院について;https://kosodate-machida.tokyo.jp/soshiki/3/1/5/mushibayobou/7951.html\n\n★感染予防のためにできること\n在宅時間が長く生活リズムが不規則になりがちな現在の状況は、親子共々むし歯や歯周病の発症リスクが高まっていると考えられます。特に、乳歯は歯質が弱く、むし歯になり易いうえ、進行が早い特徴があります。\n\nお口の中を良好に保つことは咽頭粘膜の菌の付着を減らし、感染症予防に効果があります。「うがい・手洗い・歯みがき」をして、感染を予防していきましょう。\n\n内容\n歯科健診、フッ素塗布（※希望者）、歯みがきレッスン（※必要に応じて）\n\n◎所要時間はおよそ30～40分程度です。\n\n受付時間\n午後0時45分から午後2時45分まで\n\n※必ず指定された時間にお越しください。\n\n健診日程\n下記より日程表をご覧いただけます。\n2歳児歯科健診日程表（2023年度） (PDFファイル: 236.1KB);https://kosodate-machida.tokyo.jp/material/files/group/4/2023-2saijishikakenshinitteihyou.pdf\n2歳児歯科健診日程表（2024年度） (PDFファイル: 130.7KB);https://kosodate-machida.tokyo.jp/material/files/group/4/shika2saizi2024.pdf\n健診日のご案内は、お子さんのお誕生月またはその翌月に発送予定です。\n日時の変更を希望される場合、市の健診を利用されない場合は、必ず健診日のご案内が届いてから、LINEまたはお電話（042-725-5437）にて手続きを行ってください。LINEでの健診日の変更・キャンセルについては、以下のページをご確認ください。\n\n集団健診日の確認・予約変更がLINEでできるようになりました;https://kosodate-machida.tokyo.jp/soshiki/3/1/7/4448.html\n\n2023年8月1日以前に乳幼児健診日のご案内が届いた方は、お電話にて手続きをお願いいたします。\nすでに定員を満たしている場合、日程変更のご希望にそえない場合がありますのでご了承ください。\n指定日時以外にご連絡なくお越しいただいても、健診を受けられない場合があります。\n2歳になった日から3歳になる前日までに受けてください。\n\n会場\nお住まいの地域によって健診会場が異なります。\n健康福祉会館;http://www.city.machida.tokyo.jp/iryo/iryo/kenkoufukushi/kennkouhukusikaikan.html#kenko\n鶴川保健センター;http://www.city.machida.tokyo.jp/iryo/iryo/kenkoufukushi/health03.html#tsuru\n忠生保健センター;http://www.city.machida.tokyo.jp/iryo/iryo/kenkoufukushi/kennhukutadaobunnkann.html#tada\n天災等の不測の事態により、延期または中止する場合は「子育てサイト」に健診日の午前10時までに掲載いたしますのでご確認ください。\n\n英語版問診票（Questionnaire on Health Checkup for Infants in English）\nIf you want to use the Questionnaire on Health Checkup for  Infants in English,please download it below.\nPlease fill in the Questionnaire in Japanese and bring it on the day of the consultation.\n英語版の問診票を使用される方は、下記よりダウンロードしてください。\n事前にご記入の上、受診日にご持参ください。\nthe Questionnaire on Dental for two yaers old (PDFファイル: 236.8KB);https://kosodate-machida.tokyo.jp/material/files/group/4/theQuestionnaireonDentalfortwoyaersold.pdf",
+      "target": {
+        "targetPersons": "2歳児",
+        "lessThan": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "健康福祉会館,鶴川保健センター,忠生保健センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳、問診票、歯ブラシ2本（未使用のもの、仕上げみがきで使用しているもの）、タオル（お子さんの頭の下に敷くもの）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/7/1146.html",
+        "title": "2歳児歯科健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健所保健予防課歯科保健係",
+        "contactPhone": "042-725-5414",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13?page_no=3207",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+1+UM53",
+        "organization": "6000020132098",
+        "compartment": "保健所保健予防課歯科保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-02-26",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": null,
+        "targetCode": null,
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後ヘルパーの派遣",
+        "shortName": "育児支援ヘルパー（産後のお母さんと赤ちゃん向け）"
+      },
+      "summary": "産前産後の体調不良などにより、家事や育児が困難なご家庭に、日常的な掃除・洗濯・食事の支度などの家事や、もく浴・おむつ交換・きょうだいのお世話などの育児を手伝うホームヘルパーを派遣します。",
+      "description": "産後のお母さんと赤ちゃんに関する沐浴や授乳、食事の準備や洗濯、掃除、健診の付き添いなどにヘルパーを派遣します。\n\n支援を希望する場合には、子ども家庭支援課へご連絡ください。",
+      "target": {
+        "targetPersons": "町田市に住民登録している保護者\n\n町田市に里帰りしている保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "派遣時間\n\n単体児は、出産し退院した翌日から満2歳の前日まで（累計60時間まで）\n（注記）ただし、状況によって累計60時間利用後も利用することができます（3か月につき60時間）。継続利用を希望する場合は、職員が訪問などで状況確認を行い、審査後、利用の可否を決定します。\n2.双子は、出産し退院した翌日から満3歳の誕生日前日まで（0歳から2歳まで年間360時間、2歳から3歳まで年間120時間）\n3.三つ子以上は、出産し退院した翌日から満4歳の誕生日の前日まで（0歳から2歳まで年間360時間、2歳から4歳まで年間120時間）\n4.午前8時～午後7時まで、1日連続して2時間（3・4時間の利用を希望する場合はご相談ください）の利用。\n5.保育園・幼稚園に入園した場合は利用できません。（但し、双子、三つ子以上は利用が可能です）"
+      },
+      "support": {
+        "description": "一般の家事援助ヘルパーとは異なり、サービスの内容には制限があります。\nお申込みの際、ご希望の支援内容をご相談ください。\n\n育児に関する援助及び助言、相談\n沐浴、授乳、オムツ交換の支援\n兄姉児の幼稚園・保育園等の送迎\n（移動は徒歩または公共交通機関のみ利用し、ヘルパーの交通費実費は利用者が負担となります。詳細は相談してください。）\n家事に関する援助\n食事の準備、簡単な掃除、衣類の洗濯、買い物など軽易な家事\n\n健診等への付き添い\n一ヶ月健診など乳幼児健診等の付き添い(移動は徒歩または公共交通機関のみを利用、ヘルパーの交通費は利用者が負担となります)",
+        "monetarySupport": null,
+        "materiallySupport": "一般の家事援助ヘルパーとは異なり、サービスの内容には制限があります。\nお申込みの際、ご希望の支援内容をご相談ください。\n\n育児に関する援助及び助言、相談\n沐浴、授乳、オムツ交換の支援\n兄姉児の幼稚園・保育園等の送迎\n（移動は徒歩または公共交通機関のみ利用し、ヘルパーの交通費実費は利用者が負担となります。詳細は相談してください。）\n家事に関する援助\n食事の準備、簡単な掃除、衣類の洗濯、買い物など軽易な家事\n\n健診等への付き添い\n一ヶ月健診など乳幼児健診等の付き添い(移動は徒歩または公共交通機関のみを利用、ヘルパーの交通費は利用者が負担となります)"
+      },
+      "cost": null,
+      "costConditions": "・2時間1,640円（1時間820円）（午後6時から午後7時は1時間1,025円）（市民税が非課税の世帯、生活保護受給世帯は費用が免除されます）。\n・三つ子以上は1日500円。\n・ヘルパーの交通費実費（公共交通機関代、コインパーキング代等）（費用免除対象の方も支払いが必要です）。\n・キャンセル料（派遣日前日の午後5時以降のキャンセルは820円のキャンセル料が発生します。）",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:00",
+        "toHM": "19:00",
+        "condiutilizationConditionstions": "1.単体児は、出産し退院した翌日から満2歳の前日まで（累計60時間まで）\n（注記）ただし、状況によって累計60時間利用後も利用することができます（3か月につき60時間）。継続利用を希望する場合は、職員が訪問などで状況確認を行い、審査後、利用の可否を決定します。\n\n2.双子は、出産し退院した翌日から満3歳の誕生日前日まで（0歳から2歳まで年間360時間、2歳から3歳まで年間120時間）\n3.三つ子以上は、出産し退院した翌日から満4歳の誕生日の前日まで（0歳から2歳まで年間360時間、2歳から4歳まで年間120時間）\n4.午前8時～午後7時まで、1日連続して2時間（3・4時間の利用を希望する場合はご相談ください）の利用。\n5.保育園・幼稚園に入園した場合は利用できません。（但し、双子、三つ子以上は利用が可能です）"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "子ども家庭支援課にお電話でお申し込みください。\n子ども家庭支援課の職員とヘルパーコーディネーターが訪問し、申請を受付けます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/5/5/1181.html",
+        "title": "育児支援ヘルパー（産後のお母さんと赤ちゃん向け）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども生活部子ども家庭支援課",
+        "contactPhone": "042-724-4419",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/9",
+        "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+1+UM785",
+        "organization": "6000020132098",
+        "compartment": "子ども生活部子ども家庭支援課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-18",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（2歳児歯科健康診査）",
+        "shortName": "2歳児歯科健康診査"
+      },
+      "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。【2歳児】歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+      "description": "この時期のむし歯は、気づかないうちに始まり、痛みが出る頃にはかなり進行していることがあります。毎日の歯みがきや食生活などのホームケアとあわせて、4か月から6か月に1度は定期的に歯科健診を受け、お口の健康状態や発育発達状態、歯並びなどを確認しましょう！\n\n町田市では、2歳児歯科健康診査を集団健診で実施しています。\n\n転入された方で、健診の受診をご希望の方は保健予防課歯科保健係（電話：042-725-5437）へご連絡ください。\n\n感染症に伴う対応について\n感染症拡大防止の観点より、以下の点に配慮しながら実施しています。\n\n密集を防ぐため、健診日と受付時間を指定し人数制限を設けています。\n従事者の手洗いやマスクの着用、消毒を徹底しています。\n専門職による集団での指導は中止し、待合場所の人数を少なくし、換気を行いながら実施しています。\n★健診にお越しになる方へのお願い\n健診にお越しになる方にも、次の点についてご協力をお願いします。\n\n発熱、咳、嘔吐、下痢などの症状がある場合は、ご来場はお控えください。\n指定された受付時間までは、早くご来場されても、時間を過ぎてご来場されてもお待ちいただく可能性があります。時間通りにご来場いただきますよう、ご協力をお願いします。\nまた、集団での健診にご不安がある方や、かかりつけ歯科医で定期的に歯科健診を受けている方については、無理にお越しいただく必要はありません。前回の歯科健診から半年経つ方は、近隣の歯科医院で健診を受けるようにしましょう。（保険は適用されません。）\n\n近隣の小児歯科をお探しの方は、下記ページにある「市内歯科医院一覧」をご覧になるか、町田市歯科医師会HPをご確認ください。\n\nかかりつけ歯科医院について\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/5/mushibayobou/7951.html\n\n★感染予防のためにできること\n在宅時間が長く生活リズムが不規則になりがちな現在の状況は、親子共々むし歯や歯周病の発症リスクが高まっていると考えられます。特に、乳歯は歯質が弱く、むし歯になり易いうえ、進行が早い特徴があります。\n\nお口の中を良好に保つことは咽頭粘膜の菌の付着を減らし、感染症予防に効果があります。「うがい・手洗い・歯みがき」をして、感染を予防していきましょう。\n\n英語版問診票（Questionnaire on Health Checkup for Infants in English）\nIf you want to use the Questionnaire on Health Checkup for  Infants in English,please download it below.\n\nPlease fill in the Questionnaire in Japanese and bring it on the day of the consultation.\n\n英語版の問診票を使用される方は、下記よりダウンロードしてください。\n\n事前にご記入の上、受診日にご持参ください。\n\nthe Questionnaire on Dental for two yaers old (PDFファイル: 236.8KB)\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/theQuestionnaireonDentalfortwoyaersold.pdf",
+      "target": {
+        "targetPersons": "２歳児",
+        "lessThan": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "2歳になった日から3歳になる前まで"
+      },
+      "support": {
+        "description": "歯科健診、フッ素塗布（※希望者）、歯みがきレッスン（※必要に応じて）\n\n◎所要時間はおよそ30～40分程度です。",
+        "monetarySupport": null,
+        "materiallySupport": "歯科健診、フッ素塗布（※希望者）、歯みがきレッスン（※必要に応じて）\n\n◎所要時間はおよそ30～40分程度です。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "健康福祉会館,鶴川保健センター,忠生保健センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳、問診票、歯ブラシ2本（未使用のもの、仕上げみがきで使用しているもの）、タオル（お子さんの頭の下に敷くもの）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/7/1146.html",
+        "title": "2歳児歯科健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健所保健予防課歯科保健係",
+        "contactPhone": "042-725-5414",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+        "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+1+UM792",
+        "organization": "6000020132098",
+        "compartment": "保健所保健予防課歯科保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-12-25",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "こども家庭センター",
+        "shortName": "子ども家庭センター"
+      },
+      "summary": "町田市の【子ども家庭センター】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+      "description": "2024年4月 町田市子ども家庭センターの設置\n\n子ども家庭センターとは\n児童福祉法の改正を受け、全ての妊産婦、子育て世帯、子どもが安心して生活できるように、母子保健（保健予防課母子保健係）と児童福祉（子ども家庭支援課）が連携・協働して、一体的な支援を行う「町田市子ども家庭センター」を2024年4月に設置しました。妊娠・出産・子育てに関する様々な不安や悩み、困りごと、子どもひとりひとりの成長、家庭環境など、身近な相談に応じて、様々なニーズに即した必要な支援を行ってまいります。\n\n各部門の取り組み\n保健予防課母子保健係\n\n子ども家庭支援課\n\n関係機関向け資料",
+      "target": {
+        "targetPersons": "妊娠・出産・子育てに関して「どこに相談したら良いのかわからない」とお困りの方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": "2024/04/01",
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "子ども家庭センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "妊娠・出産・子育てに関して「どこに相談したら良いのかわからない」とお困りの方は、お気軽にご相談ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://kosodate-machida.tokyo.jp/material/files/group/9/kodomokateisentaguideline.pdf",
+          "title": "こども家庭センターガイドライン（こども家庭庁）"
+        },
+        {
+          "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/5/5/index.html",
+          "title": "子育て相談全般"
+        },
+        {
+          "uri": "https://kosodate-machida.tokyo.jp/kosodate_navi.html",
+          "title": "子育てナビ"
+        },
+        {
+          "uri": "https://kosodate-machida.tokyo.jp/mokuteki/1/index.html",
+          "title": "母子の健康"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/5/3/12489.html",
+        "title": "2024年4月 町田市子ども家庭センターの設置"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "​​​​​​​保健所保健予防課母子保健係,子ども生活部子ども家庭支援課",
+        "contactPhone": "電話 042-725-5471,電話 042-724-4419",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+1+UM799",
+        "organization": "6000020132098",
+        "compartment": "​​​​​​​保健所保健予防課母子保健係,子ども生活部子ども家庭支援課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/06/13",
+      "odInformation": {
+        "updateDate": "2025/02/25",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第10条の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦の歯科健診",
+        "shortName": "歯科口腔健康診査 妊婦無料クーポン"
+      },
+      "summary": "妊娠中や出産後は女性ホルモンの分泌の変化や食事回数の増加などから虫歯や歯周病になりやすく、進行しやすい時期です。こうした時期のお口の中の健康を維持するために、歯科健診をおすすめしています。母子健康手帳交付時の母子バックに【妊婦無料クーポン券】を同封してお渡ししています。",
+      "description": "町田市では、町田市歯科医師会の協力の下に、歯科口腔健康診査をおこなっています。\n\n妊娠中はお口の環境が悪化しやすく、妊娠性の歯周病やむし歯になりやすい時期です。\n\n歯周病が進行すると、お腹の赤ちゃんの発育にも影響を与える可能性があります。\n\nご自身の歯と口の健康を保ち、赤ちゃんの身体を守るためにも、まずは歯科健診を受けてお口の状態をチェックしておくことが大切です。",
+      "target": {
+        "targetPersons": "◎安定期（妊娠16週から27週）での受診をおすすめします。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": "妊婦無料クーポン券"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "健診内容、実施医療機関等については、下記ページからご覧いただけます。\n\n（町田市ホームページ）～お口さわやか～ 歯科口腔健康診査;https://www.city.machida.tokyo.jp/iryo/iryo/shika/annai07.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "母子健康手帳交付時にお渡しする「母と子の保健バッグ」の中に、妊婦無料クーポン券が入っています。受診する際に必ずご持参ください。\n\n◎妊婦無料クーポン券は、妊娠期間中に1回のみ有効です。",
+      "procedurePersons": null,
+      "procedureMethod": "妊婦無料クーポン券をお持ちでない方へ\n\n次に該当する方については、妊婦無料クーポン券を発行いたします。\n・他市で母子手帳を交付された後転入された方\nしっかりサポート面接や妊婦健診受診票と合わせてご案内します。保健予防課窓口または市民センター・連絡所にお越しいただくか、保健予防課母子保健係（042‐725-5471）までお問い合わせください。\n・里帰り出産等で町田市内に居住されている方\n下記リンクより、申請書を印刷し、必要事項を記入のうえ、町田市保健予防課（194-0013町田市原町田5-8-21健康福祉会館内保健予防課）までご提出ください。\n印刷ができない場合は、保健予防課にお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "妊婦無料クーポン券",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/mokuteki/1/9/2268.html",
+        "title": "～お口さわやか～歯科口腔健康診査 妊婦無料クーポンについて"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健所保健予防課歯科保健係",
+        "contactPhone": "042-725-5414",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13?page_no=2268",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+1+UM8",
+        "organization": "6000020132098",
+        "compartment": "保健所保健予防課歯科保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-12-10",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": null,
+        "targetCode": null,
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て支援パスポート",
+        "shortName": "子育て応援とうきょうパスポート"
+      },
+      "summary": "「子育て支援パスポート事業」は、子育てを応援しようとする社会的機運の醸成を目的として推進している事業であり、企業・店舗等が、子育て世帯や妊娠中の方がいる世帯に対して、様々なサービスを提供する仕組みです。",
+      "description": "【協賛店募集】子育て応援とうきょうパスポート事業の仕組み\n\n・本事業に協賛する企業・店舗等（以下、「協賛店等」という。）において、子育て世帯や妊娠中の方がいる世帯に対して、様々なサービスを御提供していただきます。\n・都は、子育て世帯や妊娠中の方がいる世帯にパスポートを交付し、利用者は、協賛店等で提示することによってサービスを受けられます。\n・協賛店等は、都が配布するステッカーを掲示して頂き、都は、ホームページ等で協賛店等のPRを行います。\n    【協賛店の登録については「子育て応援とうきょうパスポート運営サイト」をご覧ください。】\n\n2018年2月から子育て応援とうきょうパスポートのアプリの配信がスタートしました。\n\nアプリではパスポート事業の協賛店のほか赤ちゃん・ふらっと事業登録施設や小児救急医療機関、自転車の一時駐輪場といった、子育てをしながらの外出に役立つ様々な場所を検索することができます。\nもちろん、「子育て応援とうきょうパスポート」の表示もできます。\n\nアプリは無料でご利用いただけます。「Google Play ストア」、「App Store」もしくは下記に記載の「子育て応援とうきょうパスポート運営サイト」からダウンロードしてください。",
+      "target": {
+        "targetPersons": "都内在住の18歳未満の子どもがいる、または妊娠中の方がいる世帯",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "都内在住の18歳未満の子どもがいる、または妊娠中の方がいる世帯"
+      },
+      "support": {
+        "description": "子育て世帯・妊娠中の方がいる世帯に対して、調乳用のお湯の提供や商品の割引などのサービスをそれぞれの判断で提供していただきます。",
+        "monetarySupport": null,
+        "materiallySupport": "子育て世帯・妊娠中の方がいる世帯に対して、調乳用のお湯の提供や商品の割引などのサービスをそれぞれの判断で提供していただきます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "利用にあたり、パスポートが必要になります。パスポートのダウンロードや利用の詳細については「子育て応援とうきょうパスポート運営サイト」をご覧ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "問い合わせ先\n東京都保健福祉局少子社会対策部計画課子育て応援事業担当\n電話：03-5320-4115\n東京都保健福祉局\nhttp://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/passport/passport01.html",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/soshiki/4/1/3/6824.html",
+        "title": "子育て応援とうきょうパスポート"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども生活部子ども総務課",
+        "contactPhone": "042-724-2876,042-724-2139",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/6",
+        "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+1+UM802",
+        "organization": "6000020132098",
+        "compartment": "子ども生活部子ども総務課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2019-04-01",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関するサポート",
+        "shortName": "町田市子ども発達センターのご案内"
+      },
+      "summary": "町田市に暮らす0歳から18歳未満までの障がいのある子どもや発達に遅れや不安のある子どもを対象に、専門的な助言や療育を行い、他の支援機関と連携を取ることで、家族や関係機関を支え、切れ目のない発達支援を行います。",
+      "description": "子どもの発達や障がいについての相談、療育サービス、訪問サービス、各種研修会を行っています。\n詳しくは、下記をご覧ください。\nhttps://kosodate-machida.tokyo.jp/mokuteki/3/5/8691.html",
+      "target": {
+        "targetPersons": "町田市に暮らす0歳から18歳未満までの障がいのある子どもや発達に遅れや不安のある子ども",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "町田市に暮らす0歳から18歳未満までの障がいのある子どもや発達に遅れや不安のある子ども\n※サービスにより、対象年齢が異なります。"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/mokuteki/3/5/8691.html",
+        "title": "町田市子ども発達センターのご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども生活部子ども発達支援課",
+        "contactPhone": "042-726-6570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/10?page_no=5891",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+2+UM106",
+        "organization": "6000020132098",
+        "compartment": "子ども生活部子ども発達支援課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-03-17",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": null,
+        "targetCode": null,
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小児科救急",
+        "shortName": "子どもの救急（深夜帯の受診）"
+      },
+      "summary": "深夜帯の受診については東京消防庁救急相談センターにご相談ください。",
+      "description": "東京消防庁救急相談センターにご相談ください。",
+      "target": {
+        "targetPersons": "小児科（15歳以下、中学生まで）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "小児科（15歳以下、中学生まで）"
+      },
+      "support": {
+        "description": "子どもの救急\n・準夜帯・休日の受診\n・深夜帯の受診\n・急な病気やけがのときの電話相談窓口\n・市内の当番医療機関（",
+        "monetarySupport": null,
+        "materiallySupport": "子どもの救急"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "東京消防庁救急相談センター\n救急車を呼ぶべきか、病院を受診すべきか迷ったらお電話ください。救急相談や医療機関のご案内をいたします。\n「急な病気やけがのときの電話相談窓口」をご参照ください。\n\n町田市民病院\n症状が重篤で緊急の受診が必要なときに受診してください。\n必ず事前に受診問い合わせをしてからご来院ください。\n詳しくは町田市民病院ホームページ（救急外来受診のご案内）をご覧ください。\n町田市民病院を受診される際には、公益社団法人日本小児科学会監修の「こどもの救急ホームページ」を参考にしてください。\n町田市民病院では、救急車や他の医療機関から搬送された重症患者が優先されるため、症状によっては、待ち時間が長くなる場合があります。\nご来院の際は、保険証、各種医療証、お薬手帳などをお持ちください。\nなお、深夜帯は、医師等の数も限られますので、適正受診にご協力いただきますようお願いいたします。",
+        "implementationAddress": "町田市旭町2-15-41"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "07:00",
+        "condiutilizationConditionstions": "午後10時から翌朝午前7時"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "042-722-2230",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/mokuteki/3/3/10449.html",
+        "title": "子どもの救急"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健所保健総務課",
+        "contactPhone": "042-724-4241",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/12\n\n",
+        "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+2+UM114",
+        "organization": "6000020132098",
+        "compartment": "保健所保健総務課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-07-26",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "医療法",
+        "regulationArticle": "第30条の4第2項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "078"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産後ケア事業",
+        "shortName": "産後ケアのご案内（日帰り型）"
+      },
+      "summary": "出産を終えた退院後、お母さんと赤ちゃんの生活リズムづくりや、心身の安定を図るため、施設においてショートステイ（宿泊）やデイサービス（日帰り）で、助産師などが母子の心身ケアと育児サポートを行います。「出産後、自宅に帰っても家族の手伝いがなくて不安」「体調が優れない」「授乳がうまくいかない」など、出産後のサポートが必要なお母さんが、赤ちゃんと一緒に利用できます。",
+      "description": "医療機関・助産院で休息、授乳・育児などの指導や助産師のケアを受けられる宿泊型・日帰り型と、助産師に訪問してもらいご自宅でも相談やアドバイスが受けられる訪問型があります。\n\n利用の可否を判断するために、保健師等が状況をお伺いすることがあります。\n\n2023年4月から、所得にかかわらない減額制度を開始しました。",
+      "target": {
+        "targetPersons": "利用対象は町田市に住民登録がある方です。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": 3
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "産後3か月未満の\n\nお母さんと赤ちゃん"
+      },
+      "support": {
+        "description": "日帰り型",
+        "monetarySupport": null,
+        "materiallySupport": "日帰り型"
+      },
+      "cost": "3000",
+      "costConditions": "1日につき",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "5日まで\n10：00~17：00\n（昼食付）"
+      },
+      "implementationPlace": {
+        "implementationName": "宿泊型・日帰り型実施施設\n宿泊型・日帰り型の産後ケア事業を実施している施設は次のとおりです。\n\n施設名をクリックすると外部リンクとなります。参考にご覧ください。また、PDFファイルでパンフレットがご覧いただけます\n\n【町田市内】\n\n・としの助産院（パンフレット(PDFファイル:377.4KB)）\nhttps://kosodate-machida.tokyo.jp/mokuteki/1/9/4184.html\nhttps://kosodate-machida.tokyo.jp/mokuteki/1/9/4184.html\n・町田市民病院 (パンフレット(PDFファイル:222KB)）\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/siminn.pdf\n・鶴川台ウイメンズクリニック （パンフレット(PDFファイル:185.2KB)）\nhttps://tsurukawadai-lp.jp/\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/turukawa.pdf\n・都南産婦人科 \n・おなごサロンはぴねす助産院（日帰り型のみ実施）（パンフレット(PDFファイル:1.6MB)）\nhttps://sanba.mom/\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/onago.pdf\n【八王子市】\n・みなみ野グリーンゲイブルズクリニック （パンフレット(PDFファイル:148.5KB)）\nhttps://minamino-greengables.jp/\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/minamino.pdf\n【川崎市】\n・新百合ヶ丘総合病院 （パンフレット(PDFファイル:203.4KB)）\nhttps://www.shinyuri-hospital.com/department/21_obstetrics_and_gynecology/obstetrical/after_care.html\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/sinnyuri.pdf\n【相模原市】\n・相模野病院 (パンフレット(PDFファイル:208.9KB))\nhttps://sagamino.jcho.go.jp/perinatal-medical/\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/sagamino.pdf\n・marimo助産院（宿泊型のみ実施）(パンフレット(PDFファイル:163.2KB))\nhttps://www.marimo-josanin.com/\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/marimo.pdf\n・くわのき助産院\nhttp://kuwanoki-josanin.com/\n・相模原協同病院（宿泊型のみ実施）\nhttps://www.sagamiharahp.com/departments/obstetrics_and_gynecology/06.html\n・淵野辺総合病院（宿泊型のみ実施 要相談）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/8/4182.html",
+        "title": "産後ケアのご案内"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1611558587286",
+          "title": "東京共同電子申請・届出サービス"
+        }
+      ],
+      "contact": {
+        "contactName": "保健所保健予防課母子保健係",
+        "contactPhone": "042-725-5471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+        "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+2+UM15",
+        "organization": "6000020132098",
+        "compartment": "保健所保健予防課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-11-27",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条の2（産後ケア事業）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+        "shortName": "健康な赤ちゃんを育むための栄養～妊産婦と妊娠を考えている方の食生活"
+      },
+      "summary": "妊娠期や授乳期は、本人だけではなく、赤ちゃんの成長のスタートとなる大事な時期です。また、今後妊娠を考えている方にとっても、妊娠前の食生活が重要であることが分かっています。こちらのページでは、妊産婦と妊娠を考えている方向けの栄養・食生活の情報やおすすめメニューを掲載します。",
+      "description": "妊産婦の栄養の目標量は、適正な体重増加量や体調などにより個人差が大きいので、あくまでも目安です。\nしっかりと妊婦検診等を受け、体調に不安がある際は医師の指示に従いましょう。\nまた、産後においても自身の体調に不安があれば専門家からの助言を受けるようにしましょう。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/3/1132.html",
+        "title": "健康な赤ちゃんを育むための栄養～妊産婦と妊娠を考えている方の食生活"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健所保健予防課保健栄養係",
+        "contactPhone": "042-722-7996",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+        "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+2+UM34",
+        "organization": "6000020132098",
+        "compartment": "保健所保健予防課保健栄養係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-02-05",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088",
+          "089",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "1歳6か月児健康診査",
+        "shortName": "1歳6か月児健康診査（歯科（集団健診））"
+      },
+      "summary": "お子さんの病気の予防や早期発見、健康保持と増進を目的として1歳6か月児健康診査を実施しています。歯科健診は集団健診で実施します。希望者にはフッ素塗布も行います。",
+      "description": "お子さんの発達や歯の状況の確認、育児の相談などを行う健診です。",
+      "target": {
+        "targetPersons": "1歳6か月に達してから2歳になる前まで",
+        "lessThan": {
+          "targetAge": 2,
+          "targetAgeOfMonths": 0
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1歳6か月になった日から2歳になる前まで"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "0",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "健康福祉会館,鶴川保健センター,小山市民センター,忠生保健センター,成瀬コミュニティセンター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "お子さんが1歳5か月になる月の末頃に通知いたします。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳、問診票(3種類）、医科の受診票、返信用封筒（通知に同封されています）、健康保険証、タオル、未使用の歯ブラシ（フッ素塗布をご希望の方）、替えのオムツなど",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/7/4448.html",
+          "title": "集団健診日の確認・予約変更がLINEでできるようになりました"
+        },
+        {
+          "uri": "https://www.city.machida.tokyo.jp/iryo/iryo/kenkoufukushi/kennhukutadaobunnkann.html",
+          "title": "忠生保健センター"
+        },
+        {
+          "uri": "https://www.city.machida.tokyo.jp/iryo/iryo/kenkoufukushi/health03.html",
+          "title": "鶴川保健センター"
+        },
+        {
+          "uri": "https://www.city.machida.tokyo.jp/iryo/iryo/kenkoufukushi/kennkouhukusikaikan.html",
+          "title": "健康福祉会館"
+        },
+        {
+          "uri": "https://www.city.machida.tokyo.jp/kurashi/touroku/shisetsu/06/accessmap.html",
+          "title": "小山市民センター"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/7/1147.html",
+        "title": "1歳6か月児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健所保健予防課母子保健係",
+        "contactPhone": "042-725-5471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+        "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+2+UM51",
+        "organization": "6000020132098",
+        "compartment": "保健所保健予防課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-12-08",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088",
+          "089",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出生連絡票・低体重児出生届",
+        "shortName": "出生通知票"
+      },
+      "summary": "赤ちゃんが生まれたら、母子健康手帳に綴じ込まれている出生通知票をできるだけ早く出しましょう。まだ赤ちゃんのお名前が決まっていない場合でも、なるべく1週間以内に保健予防課へ送付してください。",
+      "description": "この出生通知票によって、こんにちは赤ちゃん訪問を実施します。また、未熟児養育事業等、母子保健の貴重な資料にもなります。赤ちゃんのためにも忘れずに提出してください。\nご提出後、訪問スタッフがご連絡し、訪問日を決定します。事務手続き上、ご連絡までにしばらくお日にちがかかることがあります。\n※他の区市町村で母子健康手帳の交付を受けたために町田市の出生通知票をお持ちでない方や、訪問を急ぐご事情がある方は、保健予防課（電話：042-725-5471）までご連絡ください。\n出生通知票は、下記サイトからオンラインでも提出できます。\nぴったりサービス（手続の検索・電子申請）\nhttps://myna.go.jp/SCK1501_02_001/SCK1501_02_001_Init.form\n\nこんにちは赤ちゃん訪問\n赤ちゃんが生まれたすべてのご家庭に訪問を実施する事業です。\n（1）初めての赤ちゃんや体重の少ない赤ちゃん、第2子以降で体重測定を希望する赤ちゃん等\n体重測定や授乳のこと、初めての育児などでご心配なこと、その他お母様の体調などのご相談を受けています。\n訪問時間は約1時間から1時間半程度で、訪問スタッフ（助産師・保健師）がうかがいます。\n\n（2）第2子以降の赤ちゃん\n玄関先などで現在の状況をお聞きしながら、子育てに関する情報をお伝えし、育児の相談を受けています。訪問時間は約20から40分で、訪問スタッフ「ベビー＆ママサポーター（看護師）」がうかがいます。",
+      "target": {
+        "targetPersons": "赤ちゃんが生まれたすべてのご家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "赤ちゃんが生まれたすべてのご家庭"
+      },
+      "support": {
+        "description": "赤ちゃんが生まれたら、母子健康手帳に綴じ込まれている出生通知票をできるだけ早く出しましょう。まだ赤ちゃんのお名前が決まっていない場合でも、なるべく1週間以内に保健予防課へ送付してください。\n\nこの出生通知票によって、こんにちは赤ちゃん訪問を実施します。\n訪問を受けると、「子育て応援ギフト」を申請することができます。訪問時にご案内をお渡しします。\n\n出産・子育て応援交付金事業\nhttps://kosodate-machida.tokyo.jp/mokuteki/2/6/11439.html",
+        "monetarySupport": null,
+        "materiallySupport": "訪問を受けると、「子育て応援ギフト」を申請することができます。訪問時にご案内をお渡しします。\n\n出産・子育て応援交付金事業\nhttps://kosodate-machida.tokyo.jp/mokuteki/2/6/11439.html"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "出生通知票をできるだけ早く出しましょう。",
+      "procedurePersons": null,
+      "procedureMethod": "ご提出後、訪問スタッフがご連絡し、訪問日を決定します。事務手続き上、ご連絡までにしばらくお日にちがかかることがあります。\n\n※他の区市町村で母子健康手帳の交付を受けたために町田市の出生通知票をお持ちでない方や、訪問を急ぐご事情がある方は、保健予防課（電話：042-725-5471）までご連絡ください。\n\n出生通知票は、下記サイトからオンラインでも提出できます。\n\nぴったりサービス（手続の検索・電子申請）\nhttps://myna.go.jp/SCK1501_02_001/SCK1501_02_001_Init.form",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "赤ちゃんが生まれたら、なるべく1週間以内"
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "保健予防課",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/8/1127.html",
+        "title": "出生通知票・こんにちは赤ちゃん訪問"
+      },
+      "formLink": [
+        {
+          "uri": "https://myna.go.jp/SCK1501_02_001/SCK1501_02_001_Init.form",
+          "title": "ぴったりサービス（手続の検索・電子申請）"
+        }
+      ],
+      "contact": {
+        "contactName": "保健所保健予防課母子保健係",
+        "contactPhone": "042-725-5471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+        "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+2+UM791",
+        "organization": "6000020132098",
+        "compartment": "保健所保健予防課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-12-08",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第11条（新生児の訪問指導）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "089"
+        ],
+        "contentsCode": [
+          "077"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "離乳食教室",
+        "shortName": "離乳食講習会（初期）"
+      },
+      "summary": "離乳食の開始とすすめ方についての講習会です。内容は、1回食から2回食についての、管理栄養士による講話と試食です。試食は大人のみで、お子さまへの試食はありません（希望制）。",
+      "description": "離乳食の開始とすすめ方についての講習会です。\n内容は、1回食から2回食についての、管理栄養士による講話と試食です。\n\n試食は大人のみで、お子さまへの試食はありません（希望制）。\n会場は健康福祉会館（年16回）と鶴川保健センター（年4回）、オンライン（年4回）があります。\n\nお知らせ\n◎延期・中止等の際のご連絡について\n\n天災等、不測の事態により延期または中止となる場合には、こちらのページに当日の午前8時30分までに掲載いたしますので、ご確認ください。\n\nなお、お申込みいただいた講習会のキャンセルは、ページ下部の問い合わせ先までご連絡ください。\n\n講習会資料\n離乳食講習会 資料（離乳初期） (PDFファイル: 374.3KB)\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/2022rinyu_shoki_text.pdf\n\n離乳食講習会 資料（離乳中期） (PDFファイル: 328.1KB)\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/rinyuchuki202305.pdf\n\n試食について\n離乳食を始める頃から2回食に進める頃のおかゆやおかずの実際の固さ、なめらかさなどを試食で確認できます（希望制）。\n\n【離乳食講習会初期の試食】\n（左下）10倍がゆ（つぶしたもの、つぶしていないもの）\n（中央上）魚の野菜煮\n（右下）じゃがいも（ポタージュ、あらつぶし）\n※実際の試食時のお皿や盛付量とは異なります。\n\n会場にお越しの方へ\n従事者の体調管理および手洗いならびにマスクの着用を行い、会場内の消毒や換気などの衛生管理に努めております。\n\n講習会にお越しいただく方におかれましても、体調のすぐれない場合は、当日の参加を見合わせていただきますようお願いします。\n\n参考資料\n東京都アレルギー情報navi.「アレルギー情報 教えて！きぃちゃん！」\nhttps://www.hokeniryo.metro.tokyo.lg.jp/allergy/article/index.html\n\nアレルギーポータル（一般社団法人日本アレルギー学会）\nhttps://allergyportal.jp/\n\n離乳期の災害の備えについて (PDFファイル: 260.6KB)\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/202307rinyuukisaigai.pdf\n\n栄養に関する相談のある方へ\n乳幼児・母性相談をご利用ください。詳細は下記リンクをご参照ください。\n\n【予約不要になりました！】乳幼児・母性相談\nhttps://kosodate-machida.tokyo.jp/soshiki/3/1/10/1118.html\n\nまた、下記の問い合わせ先では随時電話相談を受け付けています。\n\n(土日祝を除く午前9時から午後5時まで)",
+      "target": {
+        "targetPersons": "4か月から6か月児の保護者の方（開催月内に4か月になる月から申込可）\n\n対象月齢を過ぎても「離乳食開始」の内容でよろしければ参加できます。\n第2子以降の参加も可能ですが、上のお子さんを連れての参加はできません。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "4か月から6か月児の保護者の方"
+      },
+      "support": {
+        "description": "離乳食の開始とすすめ方についての講習会です。\n内容は、1回食から2回食についての、管理栄養士による講話と試食です。",
+        "monetarySupport": null,
+        "materiallySupport": "離乳食の開始とすすめ方についての講習会です。\n内容は、1回食から2回食についての、管理栄養士による講話と試食です。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "詳細は、下記のお知らせ（PDF）をご覧ください\n\n【2024年度】離乳食講習会（初期）のお知らせ (PDFファイル: 354.0KB)\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/2024_rinyuusyokushoki_chirashi.pdf"
+      },
+      "implementationPlace": {
+        "implementationName": "・会場（健康福祉会館2階、鶴川保健センター）\n\n・オンライン（オンライン会議ツールによるウェビナー）",
+        "implementationAddress": null
+      },
+      "capacity": "・健康福祉会館：28名\n・鶴川保健センター：12名\n・オンライン：30名\n注釈）いずれも申し込み順",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "・健康福祉会館、鶴川保健センター：午前10時00分から午前11時30分まで（受付開始午前9時45分から）\n\n・オンライン：午前10時00分から午前11時00分まで（受付開始午前9時45分から）"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "オンラインについて\nオンライン会議ツール「Microsoft Teams（マイクロソフト チームス）」を使用します。\n\n対象と講話の内容は、会場開催と同じです。（試食はありません。）\n\n健康福祉会館や鶴川保健センターでの会場開催との重複受講も可能です。\n\n注釈）受講には、インターネットに繋がるパソコン、スマートフォン類及びメールアドレスが必要です。また、講話の後にはチャット機能を活用した、質疑応答の時間を設けます。\n\n受講に必要な情報は、講習会の数日前までにメールにて送付します。なお、受講に伴う通信料は各自でご負担ください。\n\n講習会で使用する資料は、ページ中ほどの『講習会資料』内にありますので、事前に各自でご用意をお願いします。\n\n参考：受講のてびき (PDFファイル: 868.8KB)\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/teamsnotebiki.pdf",
+      "procedurePersons": null,
+      "procedureMethod": "2024年3月15日（金曜日）から、150日先までの講習会の申し込みを町田市公式LINEで随時受け付けています。\n\n注釈）会場開催の複数回のお申し込みはご遠慮ください。（会場とオンラインの重複受講は可能です。）\n\n町田市公式LINEで「離乳食講習会」と入力して送信すると申込開始できます。https://www.city.machida.tokyo.jp/shisei/koho/koho/sns/line.html\n\nLINEでの申し込みを希望しない方は、保健予防課保健栄養係042-722-7996までお電話ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "・母子手帳\n・筆記用具\n・講習会資料（下記掲載2点）\n\n注釈）必要であればお子さまのお着替えやオムツ、水分補給のための飲み物をお持ちください。（健康福祉会館内に自動販売機はありません。）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/mokuteki/1/11/3395.html",
+        "title": "離乳食講習会（初期）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健所保健予防課保健栄養係",
+        "contactPhone": "042-722-7996",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+        "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+2+UM798",
+        "organization": "6000020132098",
+        "compartment": "保健所保健予防課保健栄養係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-05-01",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小児科救急",
+        "shortName": "子どもの救急（急な病気やけがのときの電話相談窓口）"
+      },
+      "summary": "急な病気やけがのときの電話相談は東京消防庁救急相談センターにご相談ください。",
+      "description": "東京消防庁救急相談センターにご相談ください。",
+      "target": {
+        "targetPersons": "小児科（15歳以下、中学生まで）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "小児科（15歳以下、中学生まで）"
+      },
+      "support": {
+        "description": "子どもの救急\n・準夜帯・休日の受診\n・深夜帯の受診\n・急な病気やけがのときの電話相談窓口\n・市内の当番医療機関（",
+        "monetarySupport": null,
+        "materiallySupport": "子どもの救急"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "東京消防庁救急相談センター\n\n救急車を呼ぶべきか、病院を受診すべきか迷ったらお電話ください。救急相談や医療機関のご案内をいたします。\n\n電話番号\n携帯電話・PHS・プッシュ回線の場合\n＃7119\n上記以外の電話からや市外局番（044）の地域にお住まいの場合\n042-521-2323\n\n受付時間\n24時間、年中無休\n\n子供の健康相談室（小児救急相談）\n東京都では、保健所や保健センターが閉庁する時間帯に、子どもの健康・救急に関する相談に、看護師や保健師等が応じています。\nまた、必要に応じて小児科医師が小児救急相談にお答えします。（電話相談のため、医師が診断をするものではありません。）\n\n電話番号\n携帯電話・プッシュ回線の場合\n＃8000\nダイヤル回線・IP電話等すべての電話\n03-5285-8898\n受付時間\n月曜日から金曜日（祝休日・年末年始を除く）\n午後6時から翌朝8時\n土曜日、日曜日、祝休日、年末年始\n午前8時から翌朝8時\n\n東京都医療機関案内サービス「ひまわり」\n東京都内の当番医療機関などの問い合わせや休日等の耳鼻科・眼科等の問い合わせもできます。\n電話番号\n03-5272-0303\nファックス03-5285-8080（聴覚障がい者向け）\n受付時間\n24時間、年中無休",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "東京消防庁救急相談センター\n\n救急車を呼ぶべきか、病院を受診すべきか迷ったらお電話ください。救急相談や医療機関のご案内をいたします。\n\n電話番号\n携帯電話・PHS・プッシュ回線の場合\n＃7119\n上記以外の電話からや市外局番（044）の地域にお住まいの場合\n042-521-2323\n\n受付時間\n24時間、年中無休\n\n子供の健康相談室（小児救急相談）\n東京都では、保健所や保健センターが閉庁する時間帯に、子どもの健康・救急に関する相談に、看護師や保健師等が応じています。\nまた、必要に応じて小児科医師が小児救急相談にお答えします。（電話相談のため、医師が診断をするものではありません。）\n\n電話番号\n携帯電話・プッシュ回線の場合\n＃8000\nダイヤル回線・IP電話等すべての電話\n03-5285-8898\n受付時間\n月曜日から金曜日（祝休日・年末年始を除く）\n午後6時から翌朝8時\n土曜日、日曜日、祝休日、年末年始\n午前8時から翌朝8時\n\n東京都医療機関案内サービス「ひまわり」\n東京都内の当番医療機関などの問い合わせや休日等の耳鼻科・眼科等の問い合わせもできます。\n電話番号\n03-5272-0303\nファックス03-5285-8080（聴覚障がい者向け）\n受付時間\n24時間、年中無休"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "東京消防庁救急相談センター\n\n救急車を呼ぶべきか、病院を受診すべきか迷ったらお電話ください。救急相談や医療機関のご案内をいたします。\n\n電話番号\n携帯電話・PHS・プッシュ回線の場合\n＃7119\n上記以外の電話からや市外局番（044）の地域にお住まいの場合\n042-521-2323\n\n受付時間\n24時間、年中無休\n\n子供の健康相談室（小児救急相談）\n東京都では、保健所や保健センターが閉庁する時間帯に、子どもの健康・救急に関する相談に、看護師や保健師等が応じています。\nまた、必要に応じて小児科医師が小児救急相談にお答えします。（電話相談のため、医師が診断をするものではありません。）\n\n電話番号\n携帯電話・プッシュ回線の場合\n＃8000\nダイヤル回線・IP電話等すべての電話\n03-5285-8898\n受付時間\n月曜日から金曜日（祝休日・年末年始を除く）\n午後6時から翌朝8時\n土曜日、日曜日、祝休日、年末年始\n午前8時から翌朝8時\n\n東京都医療機関案内サービス「ひまわり」\n東京都内の当番医療機関などの問い合わせや休日等の耳鼻科・眼科等の問い合わせもできます。\n電話番号\n03-5272-0303\nファックス03-5285-8080（聴覚障がい者向け）\n受付時間\n24時間、年中無休",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/mokuteki/3/3/10449.html",
+        "title": "子どもの救急"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健所保健総務課",
+        "contactPhone": "042-724-4241",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/12",
+        "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+3+UM114",
+        "organization": "6000020132098",
+        "compartment": "保健所保健総務課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-07-26",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "医療法",
+        "regulationArticle": "第30条の4第2項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "078"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産後ケア事業",
+        "shortName": "産後ケアのご案内（訪問型）"
+      },
+      "summary": "出産を終えた退院後、お母さんと赤ちゃんの生活リズムづくりや、心身の安定を図るため、施設においてショートステイ（宿泊）やデイサービス（日帰り）で、助産師などが母子の心身ケアと育児サポートを行います。「出産後、自宅に帰っても家族の手伝いがなくて不安」「体調が優れない」「授乳がうまくいかない」など、出産後のサポートが必要なお母さんが、赤ちゃんと一緒に利用できます。",
+      "description": "医療機関・助産院で休息、授乳・育児などの指導や助産師のケアを受けられる宿泊型・日帰り型と、助産師に訪問してもらいご自宅でも相談やアドバイスが受けられる訪問型があります。\n\n利用の可否を判断するために、保健師等が状況をお伺いすることがあります。\n\n2023年4月から、所得にかかわらない減額制度を開始しました。",
+      "target": {
+        "targetPersons": "利用対象は町田市に住民登録がある方です。",
+        "lessThan": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後1年未満の\n\nお母さんと赤ちゃん"
+      },
+      "support": {
+        "description": "訪問型",
+        "monetarySupport": null,
+        "materiallySupport": "訪問型"
+      },
+      "cost": "2000",
+      "costConditions": "1回につき",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "5回まで\n8：30~17：00の内\n90分間"
+      },
+      "implementationPlace": {
+        "implementationName": "ご自宅",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/8/4182.html",
+        "title": "産後ケアのご案内"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1611558587286",
+          "title": "東京共同電子申請・届出サービス"
+        }
+      ],
+      "contact": {
+        "contactName": "保健所保健予防課母子保健係",
+        "contactPhone": "042-725-5471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+        "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+3+UM15",
+        "organization": "6000020132098",
+        "compartment": "保健所保健予防課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-11-27",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条の2（産後ケア事業）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+        "shortName": "母性保健相談・母乳育児相談（電話でのご相談）"
+      },
+      "summary": "子育て・思春期・更年期の方に対して、女性のいろいろな相談と乳房マッサージなど助産師が対応します。お気軽にご相談ください。",
+      "description": "子育て・思春期・更年期\n～女性のいろいろな相談と乳房マッサージ～\n\n妊娠中の生活、こんな事をやっても大丈夫？\n出産の経過はどんな感じ？初めてのお産は時間がかかるの？\n母乳が足りているか不安。\n赤ちゃんの睡眠リズムが、不安定だけど大丈夫？\n思春期の体の変化について聞きたい。\nこんな症状は更年期かしら？\n家族計画の相談がしたい。\n子どもが欲しいけど妊娠しない。\n助産師が対応します。お気軽にご相談ください。",
+      "target": {
+        "targetPersons": "町田市内にお住まいの方\n\n（生後4か月未満で町田市に里帰り中の方も利用可能です。）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "電話でのご相談",
+        "monetarySupport": null,
+        "materiallySupport": "電話でのご相談"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "15:00",
+        "condiutilizationConditionstions": "毎週木曜日（年末年始、祝日を除く）\n午前10時から正午、午後1時から午後3時"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "電話でのご相談\n相談受付電話\n042-725-5419",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/10/1126.html",
+        "title": "母性保健相談・母乳育児相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健所保健予防課母子保健係（事業担当）",
+        "contactPhone": "042-725-5127",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+        "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+5+UM34",
+        "organization": "6000020132098",
+        "compartment": "保健所保健予防課母子保健係（事業担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-06",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第15条（妊娠の届出）、第16条（母子健康手帳）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "078"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+        "shortName": "母性保健相談・母乳育児相談（乳房マッサージと来所でのご相談（予約制））"
+      },
+      "summary": "子育て・思春期・更年期の方に対して、女性のいろいろな相談と乳房マッサージなど助産師が対応します。お気軽にご相談ください。",
+      "description": "子育て・思春期・更年期\n～女性のいろいろな相談と乳房マッサージ～\n\n妊娠中の生活、こんな事をやっても大丈夫？\n出産の経過はどんな感じ？初めてのお産は時間がかかるの？\n母乳が足りているか不安。\n赤ちゃんの睡眠リズムが、不安定だけど大丈夫？\n思春期の体の変化について聞きたい。\nこんな症状は更年期かしら？\n家族計画の相談がしたい。\n子どもが欲しいけど妊娠しない。\n助産師が対応します。お気軽にご相談ください。",
+      "target": {
+        "targetPersons": "町田市内にお住まいの方\n\n（生後4か月未満で町田市に里帰り中の方も利用可能です。）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "乳房マッサージと来所でのご相談（予約制）",
+        "monetarySupport": null,
+        "materiallySupport": "乳房マッサージと来所でのご相談（予約制）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "健康福祉会館2階\n\n大きな地図を見る（GoogleMapページへ）\nhttps://www.google.co.jp/maps?q=35.5462033,139.4500744&ll=35.5462033,139.4500744&z=17",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:45",
+        "toHM": "15:00",
+        "condiutilizationConditionstions": "毎週木曜日（年末年始、祝日を除く）\n\n午前（午前9時45分から正午）、午後（午後1時から午後3時）、それぞれ5枠。\n\n1枠30分程度です。"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "乳房マッサージと来所でのご相談（予約制）\n申込受付電話\n042-725-5419\n\n・乳房マッサージは、1回の出産で授乳中に1回、卒乳時に1回ご利用できます。（授乳中に2回の利用はできません。）\n・1ヵ月未満の児の来所は、感染予防のためご遠慮ください。\n・卒乳・断乳での利用は、必ず事前に助産師への電話相談、または乳幼児母性相談をご利用の上、予約をお取りください。\n・保育スタッフはいません。見守る必要があるお子さまをお連れになると、マッサージに十分な時間をとれなくなる場合があります。ご了承ください。お連れになる際の安全管理は保護者の方となります。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子手帳\nフェイスタオル3枚（母乳で濡れてもよい長方形の大きめのタオル）\nバスタオル2枚\n濡れたタオルを持ち帰るためのビニール袋",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/soshiki/3/1/10/1126.html",
+        "title": "母性保健相談・母乳育児相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健所保健予防課母子保健係（事業担当）",
+        "contactPhone": "042-725-5127",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+        "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+6+UM34",
+        "organization": "6000020132098",
+        "compartment": "保健所保健予防課母子保健係（事業担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-06",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第15条（妊娠の届出）、第16条（母子健康手帳）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "078"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊娠・出産に関するその他のこと",
+        "shortName": "【予約不要になりました！】乳幼児・母性相談"
+      },
+      "summary": "乳幼児の身長や体重を測りに来ませんか？乳幼児・母性相談では、育児や離乳食・幼児食、歯やお口の中のこと、お母さんの身体や気持ちのこと等のご相談をお受けしています。お気軽にお越しください。（保健師、助産師、看護師、栄養士、歯科衛生士が皆様をお待ちしております。）",
+      "description": "乳幼児の身長や体重を測りに来ませんか？\nまた、育児や離乳食・幼児食、歯やお口の中のこと、\nお母さんの身体や気持ちのこと等のご相談をお受けしています。\nお気軽にお越しください。\n（保健師、助産師、看護師、栄養士、歯科衛生士が皆様をお待ちしております。）",
+      "target": {
+        "targetPersons": "生後2か月から小学校入学前のお子さんと保護者\n\n（生後4か月未満で町田市に里帰り中のお子さんも利用可能です）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後2か月から小学校入学前のお子さんと保護者"
+      },
+      "support": {
+        "description": "乳幼児の身長や体重を測りに来ませんか？\nまた、育児や離乳食・幼児食、歯やお口の中のこと、\nお母さんの身体や気持ちのこと等のご相談をお受けしています。\nお気軽にお越しください。\n（保健師、助産師、看護師、栄養士、歯科衛生士が皆様をお待ちしております。）",
+        "monetarySupport": null,
+        "materiallySupport": "乳幼児の身長や体重を測りに来ませんか？\nまた、育児や離乳食・幼児食、歯やお口の中のこと、\nお母さんの身体や気持ちのこと等のご相談をお受けしています。\nお気軽にお越しください。\n（保健師、助産師、看護師、栄養士、歯科衛生士が皆様をお待ちしております。）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "2023年開催日程【予約不要になりました】(PDFファイル:436.2KB)\nhttps://kosodate-machida.tokyo.jp/material/files/group/4/20230613nyuusouchirashi.pdf\n\n天災等の不測の事態により、延期または中止する場合は、「まちだ子育てサイト」に当日の午前8時30分までに掲載いたしますのでご確認ください。"
+      },
+      "implementationPlace": {
+        "implementationName": "会場\n健康福祉会館\n鶴川保健センター\n忠生保健センター\n子どもセンターばあん\n小山市民センター\n\nお問い合わせ先\n健康福祉会館  042-725-5127",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate-machida.tokyo.jp/mokuteki/1/8/2244.html",
+        "title": "乳幼児・母性相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健所保健予防課母子保健係（事業担当）",
+        "contactPhone": "042-725-5127",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://kosodate-machida.tokyo.jp/cgi-bin/inquiry.php/13",
+        "contactComment": "https://www.city.machida.tokyo.jp/shigo/index.html",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132098;町田市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020132098+7+UM34",
+        "organization": "6000020132098",
+        "compartment": "保健所保健予防課母子保健係（事業担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-14",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "町田市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "077"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

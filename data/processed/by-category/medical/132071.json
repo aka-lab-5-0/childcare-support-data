@@ -1,0 +1,4068 @@
+{
+  "version": "2025-07-09T05:55:17.818Z",
+  "areaCode": "132071",
+  "areaName": "昭島市",
+  "category": "medical",
+  "count": 32,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "図書館の児童サービス（ブックスタートなど）",
+        "shortName": "昭島市民図書館"
+      },
+      "summary": "図書館では、図書・雑誌・CDなどの貸出や調べもののお手伝い、読書相談、図書館利用に障害のある方へのサービスなどを行っています。昭島市には、市民図書館、分館・分室があるほか、移動図書館「もくせい号」が市内を巡回しています。",
+      "description": "◇動く図書館「もくせい号」は、市内１３ヶ所で本の貸出サービスを行います。利用の際は貸出券をお持ちください。貸出券をお忘れの際はスタッフへお声かけください。\n◇月２回隔週で巡回します。ただし、祝日、第１・第３木曜日、及び第５週は運休します。詳しくは巡回予定表をご覧ください。\n◇本の貸出期間は４週間です。（雑誌は２週間）\n◇雨天、雪の場合は運休します。（偕生園・昭島病院内・田中町住宅・東中神駅南口ロータリー除く。ただし荒天時はすべて中止とします。）\n◇もくせい号所蔵資料全てを巡回に持参することはできないため、もくせい号所蔵資料でご希望のものがある場合はご予約をお願いいたします。\n◇当面の間、昭島病院内と東京西徳洲会病院内の巡回については、運休させていただきます。\n令和６年度もくせい号巡回予定;https://www.library.akishima.tokyo.jp/bookmobile/pdf/【令和６年度】BM巡回予定HP掲載用.pdf\nもくせい号巡回案内地図;https://www.library.akishima.tokyo.jp/uploads/2022mokuseigouchizu.pdf\n\n|曜日|<|サービスステーション|時間|\n|:----|:----|:----|:----|\n|第１・第３|火|偕生園|午後2:15～3:00|\n|^|^|朝日町いこい公園|午後3:30～4:15|\n|^|水|昭島病院内|午後2:00～3:00|\n|^|^|武蔵野二丁目北児童遊園|午後3:30～4:15|\n|^|金|東京西徳洲会病院内|午後2:15～3:00|\n|^|^|田中町住宅|午後3:30～4:15|\n|第２・第４|火|大神会館|午後2:15～3:00|\n|^|^|北文化公園|午後3:30～4:15|\n|^|水|拝島公園|午後2:15～3:00|\n|^|^|東ノ岡児童遊園|午後3:30～4:15|\n|^|木|あおぞら公園|午後3:30～4:15|\n|^|金|西武拝島ハイツ|午後2:15～3:00|\n|^|^|堀向会館|午後3:30～4:15|\n|毎週|木|東中神駅南口ロータリー|午後6:00～8:00(雨天決行)|\n",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "図書などの貸出のほか、おはなし会や子ども一時預かりサービスサービスを実施しています。",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "【休館日】(１)　月曜日（祝日・振替休日と重なるときは開館し、その次の平日が休館日となります。）(２)　12月29日から１月４日まで(３)　特別整理期間"
+      },
+      "implementationPlace": {
+        "implementationName": "昭島市民図書館",
+        "implementationAddress": "昭島市つつじが丘三丁目３番15号"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "【開館時間】火曜日・水曜日・木曜日・金曜日（午前10時～午後８時）、土曜日・日曜日・祝日（午前10時～午後６時）"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "◇図書館の資料を借りるには、貸出券が必要です。\n\n【児童サービス】\n☆絵本、ものがたり、趣味や知識の本、紙芝居、児童用の百科事典などがそろっています。\n☆お探しの児童書が見当たらないときは、スタッフにお尋ねください。\n☆子どもの読書、本に関する相談もお気軽にお尋ねください。\n☆おはなし会を開催しています。詳しくは、おはなし会の案内、ホームページをご確認ください。\n☆各館で子ども向けイベントを開催しています。詳しくは、チラシ・ポスター、ホームページ等をご確認ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "◇図書館の資料を借りるには、貸出券が必要です。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.library.akishima.tokyo.jp/uploads/あきしましみんとしょかんりようあんない.pdf",
+          "title": "あきしましみんとしょかんりようあんない（子ども用：A4三つ折り）"
+        },
+        {
+          "uri": "https://www.library.akishima.tokyo.jp/uploads/昭島市民図書館利用案内.pdf",
+          "title": "昭島市民図書館利用案内（大人用：A4三つ折り）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.library.akishima.tokyo.jp/",
+        "title": "昭島市民図書館"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+1+UM105",
+        "organization": "8000020132071",
+        "compartment": "昭島市民図書館",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "昭島市民図書館条例、昭島市民図書館運営規則",
+        "regulationArticle": "全て"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関するサポート",
+        "shortName": "ひとり親家庭のしおり"
+      },
+      "summary": "ひとり親家庭のかたに向けてさまざまな支援やサービスを分かりやすくお伝えするしおりを作成しました。安定した生活を築くためお気軽にご相談いただき、ぜひご活用ください。",
+      "description": "ひとり親家庭のかたに向けてさまざまな支援やサービスを分かりやすくお伝えするしおりができました。安定した生活を築くためお気軽にご相談いただき、ぜひご活用ください。\n\n配布場所\n\n昭島市男女共同参画センター（アキシマエンシス校舎棟2階）\n昭島市役所1階17番窓口子ども育成支援課\n保健福祉センター「あいぽっく」\n\n関連ファイル\n\n昭島市ひとり親家庭のしおり（PDF：5.1MB）;https://www.city.akishima.lg.jp/s059/120/010/150/130/hitorioyasiori.pdf",
+      "target": {
+        "targetPersons": "ひとり親家庭のかた",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "ひとり親家庭のかたに向けてさまざまな支援やサービスを分かりやすくお伝えするしおりを作成しました。安定した生活を築くためお気軽にご相談いただき、ぜひご活用ください。\n\n配布場所\n昭島市男女共同参画センター（アキシマエンシス校舎棟2階）\n昭島市役所1階17番窓口子ども育成支援課\n保健福祉センター「あいぽっく」\n\n関連ファイル\n\n昭島市ひとり親家庭のしおり（PDF：5.1MB）;https://www.city.akishima.lg.jp/s059/120/010/150/130/hitorioyasiori.pdf",
+        "monetarySupport": null,
+        "materiallySupport": "ひとり親家庭のかたに向けてさまざまな支援やサービスを分かりやすくお伝えするしおりを作成しました。安定した生活を築くためお気軽にご相談いただき、ぜひご活用ください。\n\n配布場所\n昭島市男女共同参画センター（アキシマエンシス校舎棟2階）\n昭島市役所1階17番窓口子ども育成支援課\n保健福祉センター「あいぽっく」\n\n関連ファイル\n\n昭島市ひとり親家庭のしおり（PDF：5.1MB）;https://www.city.akishima.lg.jp/s059/120/010/150/130/hitorioyasiori.pdf"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "配布場所\n\n昭島市男女共同参画センター（アキシマエンシス校舎棟2階）\n昭島市役所1階17番窓口子ども育成支援課\n保健福祉センター「あいぽっく」",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s059/120/010/150/130/20200729112026.html",
+        "title": "ひとり親家庭のしおり"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部男女共同参画センター（アキシマエンシス校舎棟2階）",
+        "contactPhone": "042-519-2277",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1960012",
+        "contactAddress": "昭島市つつじが丘3-3-15"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+1+UM106",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部男女共同参画センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-07-02",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦訪問",
+        "shortName": "あきしま出産・子育て応援事業「ゆりかご・あきしま面談」「妊婦8か月面談」"
+      },
+      "summary": "妊産婦の方（妊娠中または出産後1年以内）を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、妊娠期間中や出産後の不安や悩みについての相談等を行います。",
+      "description": "あきしま出産・子育て応援事業\n国の出産・子育て応援交付金を活用し、妊娠中から出産・子育て期まで安心して過ごしていただけるように、伴走型相談支援と経済的支援を一体的に実施する「あきしま出産・子育て応援事業」を令和5年2月1日より開始しました。\nなお、経済的支援については、令和4年4月1日から令和5年1月31日までに出生されたお子さんも遡及して支給の対象になります。\n||妊娠届提出後|妊娠7～8か月頃|出産後|育児期|\n|:----|:----|:----|:----|:----|\n|伴走型相談支援|ゆりかご・あきしま面談|妊婦8か月面談|こんにちは赤ちゃん訪問|個別相談・面談、情報提供等|\n|経済的支援|あきしまゆりかごギフト（5万円相当）||あきしまみらいギフト（5万円相当）<br>（注）令和5年4月1日以降に出生したお子さまは10万円相当||\n参考：こども家庭庁ホームページ「妊婦・子育て家庭への伴走型相談支援と経済的支援の一体的実施（出産・子育て応援交付金）」;https://www.cfa.go.jp/policies/shussan-kosodate/(外部サイトにリンクします)\n\n伴走型相談支援\n妊産婦のかたが抱える様々な不安を解消するため、妊娠届出時や妊娠8か月時、産後のこんにちは赤ちゃん訪問にて保健師や助産師が面談を行うほか、随時、相談支援を行います。\n\nゆりかご・あきしま面談\n安心して出産を迎えていただくため、妊娠期間中に、保健師または助産師が妊婦のかた全員と面談します。\n\n妊婦8か月面談\n妊娠8か月を迎える全ての妊婦さんを対象にアンケートを送付します。アンケートに記載のQRコードから回答してください。QRコードからの回答が難しい場合、郵送での返送も可能です。その場合は切手と封筒のご準備をお願いいたします。アンケートにご回答いただいたかたのうち、希望者には保健師や助産師などの専門職による面談を実施します。\n（QRコードは株式会社デンソーウェーブの登録商標です。）\n\nこんにちは赤ちゃん訪問\n生後4か月までのお子さんのいる全てのご家庭に、保健師または助産師が訪問し、お子さんの体重測定や健康状態を確認します。また、子育て情報の提供や乳児健診のご案内をします。",
+      "target": {
+        "targetPersons": "ゆりかご・あきしま面談\n安心して出産を迎えていただくため、妊娠期間中に、保健師または助産師が妊婦のかた全員と面談します。\n\n妊婦8か月面談\n妊娠8か月を迎える全ての妊婦さんを対象にアンケートを送付します。アンケートに記載のQRコードから回答してください。QRコードからの回答が難しい場合、郵送での返送も可能です。その場合は切手と封筒のご準備をお願いいたします。アンケートにご回答いただいたかたのうち、希望者には保健師や助産師などの専門職による面談を実施します。\n（QRコードは株式会社デンソーウェーブの登録商標です。）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "ゆりかご・あきしま面談\n妊娠期間中に、保健師または助産師が妊婦のかた全員と面談\n\n妊婦8か月面談\n妊娠8か月を迎える全ての妊婦さんを対象にアンケートを送付します。アンケートに記載のQRコードから回答してください。QRコードからの回答が難しい場合、郵送での返送も可能です。その場合は切手と封筒のご準備をお願いいたします。アンケートにご回答いただいたかたのうち、希望者には保健師や助産師などの専門職による面談を実施します。\n（QRコードは株式会社デンソーウェーブの登録商標です。）",
+        "monetarySupport": null,
+        "materiallySupport": "ゆりかご・あきしま面談\n妊娠期間中に、保健師または助産師が妊婦のかた全員と面談\n\n妊婦8か月面談\n妊娠8か月を迎える全ての妊婦さんを対象にアンケートを送付します。アンケートに記載のQRコードから回答してください。QRコードからの回答が難しい場合、郵送での返送も可能です。その場合は切手と封筒のご準備をお願いいたします。アンケートにご回答いただいたかたのうち、希望者には保健師や助産師などの専門職による面談を実施します。\n（QRコードは株式会社デンソーウェーブの登録商標です。）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "妊婦8か月面談\n妊娠8か月を迎える全ての妊婦さんを対象にアンケートを送付します。",
+      "procedurePersons": null,
+      "procedureMethod": "妊婦8か月面談\nアンケートに記載のQRコードから回答してください。QRコードからの回答が難しい場合、郵送での返送も可能です。その場合は切手と封筒のご準備をお願いいたします。アンケートにご回答いただいたかたのうち、希望者には保健師や助産師などの専門職による面談を実施します。\n（QRコードは株式会社デンソーウェーブの登録商標です。）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.cfa.go.jp/policies/shussan-kosodate/",
+          "title": "こども家庭庁ホームページ「妊婦・子育て家庭への伴走型相談支援と経済的支援の一体的実施（出産・子育て応援交付金）」"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s049/020/010/060/20200925151717.html",
+        "title": "あきしま出産・子育て応援事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "contactPhone": "042-543-7303",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+        "contactComment": "ファックス番号：042-544-7130",
+        "zipCode": "1960015",
+        "contactAddress": "昭島市昭和町4-7-1"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+1+UM11",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-09-28",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条（妊産婦の訪問指導等）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関する各種コミュニティ・団体一覧",
+        "shortName": "ベビーマッサージ"
+      },
+      "summary": "昭島市内で子育てに関する活動を行う、コミュニティやサークル、各種団体のご案内です。",
+      "description": "子育てグループネットワーク連絡会参加団体をご紹介します。\n\n活動時間等に変更がある場合があります。詳しくは各団体へ問い合わせをお願いします。\n\nベビーマッサージ\nイギリス人ピーター・ウォーカー氏の「発達を促すベビーマッサージ」を行っています。「発達を促すベビーマッサージ」は、赤ちゃんの関節を柔軟にし、強い筋肉を作り、そして深い呼吸を促すといわれています。\n対象\n新生児から未就学児とその保護者・妊産婦\n活動日\n不定期（参加者と相談して決定）\n活動場所\n自宅・アロマショップ・その他\n連絡先\n電話番号：050-5808-6005（荒木）",
+      "target": {
+        "targetPersons": "新生児から未就学児とその保護者・妊産婦",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "新生児から未就学児とその保護者・妊産婦"
+      },
+      "support": {
+        "description": "イギリス人ピーター・ウォーカー氏の「発達を促すベビーマッサージ」を行っています。「発達を促すベビーマッサージ」は、赤ちゃんの関節を柔軟にし、強い筋肉を作り、そして深い呼吸を促すといわれています。",
+        "monetarySupport": null,
+        "materiallySupport": "イギリス人ピーター・ウォーカー氏の「発達を促すベビーマッサージ」を行っています。「発達を促すベビーマッサージ」は、赤ちゃんの関節を柔軟にし、強い筋肉を作り、そして深い呼吸を促すといわれています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s064/010/010/010/020/010/20180402144630.html",
+        "title": "子育てグループ"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 統括支援係",
+        "contactPhone": "042-543-9046",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000068.html",
+        "contactComment": "ファックス番号：042-519-2803",
+        "zipCode": "1960012",
+        "contactAddress": "昭島市つつじが丘3-3-15"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+1+UM111",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 子ども家庭支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-12-08",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法、児童福祉法",
+        "regulationArticle": "第6条の3第6項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て広場",
+        "shortName": "双子ひろば"
+      },
+      "summary": "市内の子育てひろばは、小学校就学前のお子さんが安心して遊べるスペースがあり、子育て中の親子が気軽に集い、仲間づくりを通して子育てに関する相談や情報交換等を行う機会を提供しています。また、お子さんの年齢に応じた各種イベントなども行っています。",
+      "description": "概要\n双子や三つ子の子育てや、育児の悩みを話し合う、仲間づくりの場として開催しています。\n\n双子ひろば\n\n対象\n双子や三つ子を子育て中の保護者や家族、多胎児を妊娠中のかた。\n\n注意：申し込み制です。お電話、もしくは直接窓口でお申し込みいただけます。\n\n会場\n保健福祉センター（あいぽっく）昭島市昭和町4-7-1\n\n令和5年度日程\n開催時間：午前10時から11時30分\n実施日：5月19日（金曜日）、11月17日（金曜日）",
+      "target": {
+        "targetPersons": "双子や三つ子を子育て中の保護者や家族、多胎児を妊娠中のかた",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "双子や三つ子の子育てや、育児の悩みを話し合う、仲間づくりの場として開催しています。\n令和5年度日程\n開催時間：午前10時から11時30分\n実施日：5月19日（金曜日）、11月17日（金曜日）",
+        "monetarySupport": null,
+        "materiallySupport": "双子や三つ子の子育てや、育児の悩みを話し合う、仲間づくりの場として開催しています。\n令和5年度日程\n開催時間：午前10時から11時30分\n実施日：5月19日（金曜日）、11月17日（金曜日）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "令和5年度日程\n\n開催時間：午前10時から11時30分\n実施日：5月19日（金曜日）、11月17日（金曜日）"
+      },
+      "implementationPlace": {
+        "implementationName": "保健福祉センター（あいぽっく）",
+        "implementationAddress": "昭島市昭和町4-7-1"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "申し込み制です。お電話、もしくは直接窓口でお申し込みいただけます。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s049/010/010/020/040/20140917114016.html",
+        "title": "双子ひろば"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "contactPhone": "042-543-7303",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+        "contactComment": "ファックス番号：042-544-7130",
+        "zipCode": "1960015",
+        "contactAddress": "昭島市昭和町4-7-1"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+1+UM112",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-04",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第6項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関する相談窓口一覧",
+        "shortName": "子育て相談（児童虐待相談、育児相談、ことばの相談、民生・児童委員等）"
+      },
+      "summary": "昭島市内の子育てに関する相談窓口の一覧です。",
+      "description": "歳から18歳未満の子育てに関する相談に応じています。自分自身のこと、子育てのこと、家族のこと、健康、発達のことなど、相談員が一緒に考え総合的に対応し、解決の道を探します。困ったなと感じたとき、お気軽にご相談ください。\n\n利用できるかた\n昭島市内にお住まいの18歳未満の子どもとその保護者、子育てに関わる人\n\n相談時間\n月曜日から金曜日（祝日、年末年始を除く）\n午前9時から午後7時まで（受付は午後6時30分まで）\n\n相談方法\n電話、来所、ファックスでお受けします。\nまた、メンバー登録していただくと電子メールでも相談が受けられます。\n\nQどんな相談ができるの？\nAたとえば\n子どものことが心配（親の悩み）\n子どもの育てかたが分からない。\n子どもと上手くコミュニケーションがとれない。\n人付き合いが下手。同年齢のお母さんの友だちがいない。\nぼくの悩み、わたしの悩み（子どもの悩み）\nいじめられて困っている。\n友だちとの仲が悪くなっちゃった。\n先生と上手くいかない。\nその他こんなことも\n親が病気、出産のとき子どもをどうすればいいの？\n働きたいが子どもを預けるにはどうしたらいいの？\n医療や経済的なサポートを受けたいけど、どうしたらいいの？\nQ子ども電話相談は？\nA『AKISHIMAキッズナー』子ども専用電話相談があります。\nひとりで抱え込まないで、なんでも話をしてください。\nヒミツは守ります。\nどんなことでも一緒に考えます。\n名まえは言わなくてもいいです。\n電話番号：0120-678-044\n相談時間：月曜日から金曜日（祝日・年末年始を除く）午前9時から午後6時30分 \n\n子育て中はわからないこと、困ったことがたくさんありますね。ひとりで悩んでいると途方にくれてしまいますが、誰かに相談してみると、心が軽くなったり解決の糸口が見えたりするものです。いろいろな相談窓口がありますので、お気軽にご相談ください。\n\n子育てに関する相談\n子育てひろば   つどいのひろば\n0歳から3歳未満の子どもとその家庭の相談。\n\n東京都立川児童相談所\n児童の福祉に関する全ての相談。\n\n電話番号：523-1321\n\n4152（よいこに）電話相談（東京都児童相談センター）\n養育・しつけ・発達の遅れなど。\n\n電話番号：03-3366-4152\n\n児童虐待相談\n子ども家庭支援センター\n児童虐待に悩んだり、気づいたりした時はすぐにご連絡ください。\n\n電話番号：543-9046  \n\n東京都立川児童相談所\n児童虐待に悩んだり、気づいたりした時はすぐにご連絡ください。\n\n電話番号：523-1321  \n\n児童相談所全国共通ダイヤル\n電話番号：189  （いちはやく）\n\n子どもの健康に関する相談  \n育児相談\n未就学児を対象に子どもの発育・発達・栄養・歯に関する相談。\n\n子育て世代包括支援センター電話番号：543-7303  \n\n発達やことばの不安に関する相談  \n乳幼児発達健診\n小児発達の専門家による健診。\n\n子育て世代包括支援センター電話番号：543-7303  \n\n就学相談\n就学についての心配や悩み事。\n\n特別支援教育係電話番号：544-5111  \n\nことばの相談\n言語聴覚士による言葉やコミュニケーションに関する相談。\n\n子育て世代包括支援センター電話番号：543-7303  \n\n教育機関における相談  \n昭島市教育相談室\n学校や家庭での教育、子どもに関することの相談。\n\n電話番号：541-4445  \n\nいじめ相談ホットライン\nいじめに関する相談。\n\n電話番号：543-7633  \n\n小・中学校でのスクールカウンセラー（臨床心理士）による相談\nいじめや不登校、問題行動等の改善・解決。\n\n各小学校・中学校\n\n東京都教育相談センター\n家庭や学校での生活に関する相談。\n\n電話番号：03-3360-8008  \n\n非行など教育上の相談  \n立川児童相談所\n家出、万引き、夜遊び、性的いたずら、薬物の習慣など少年問題に関する相談。\n\n電話番号：523-1321  \n\n昭島警察署\n家出、万引き、夜遊び、性的いたずら、薬物の習慣など少年問題に関する相談。\n\n電話番号：546-0110\n\n警視庁立川少年センター\n子どもの非行問題でお悩みのかたや、いじめや犯罪等の被害に遭い精神的ショックを受けている少年のために心理専門の職員が相談に応じます。\n\n電話番号：522-6938  \n\nその他の相談  \n東京都多摩立川保健所\n療育相談や育児相談。\n\n保健対策課地域保健担当電話番号：524-5171  \n\n子どもネット電話相談（子どもの権利擁護相談）\n子どもの権利侵害に関する相談。\n\n電話番号：0120-874-374（はなしてみなよ）\n\n民生委員・児童委員\n日常生活の中で困った時の相談。\n\n生活福祉課福祉推進係電話番号：544-5111  \n\n主任児童委員\n0歳から18歳未満の児童に関する相談。\n\n生活福祉課福祉推進係電話番号：544-5111",
+      "target": {
+        "targetPersons": "昭島市内にお住まいの18歳未満の子どもとその保護者、子育てに関わる人",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "0歳から18歳未満の子育てに関する相談に応じています。自分自身のこと、子育てのこと、家族のこと、健康、発達のことなど、相談員が一緒に考え総合的に対応し、解決の道を探します。困ったなと感じたとき、お気軽にご相談ください。\n相談時間\n月曜日から金曜日（祝日、年末年始を除く）\n午前9時から午後7時まで（受付は午後6時30分まで）",
+        "monetarySupport": null,
+        "materiallySupport": "0歳から18歳未満の子育てに関する相談に応じています。自分自身のこと、子育てのこと、家族のこと、健康、発達のことなど、相談員が一緒に考え総合的に対応し、解決の道を探します。困ったなと感じたとき、お気軽にご相談ください。\n相談時間\n月曜日から金曜日（祝日、年末年始を除く）\n午前9時から午後7時まで（受付は午後6時30分まで）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "アキシマエンシス校舎棟１階",
+        "implementationAddress": "昭島市つつじが丘3-3-15"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "相談時間\n月曜日から金曜日（祝日、年末年始を除く）\n午前9時から午後7時まで（受付は午後6時30分まで）"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "相談方法\n\n電話、来所、ファックスでお受けします。\nまた、メンバー登録していただくと電子メールでも相談が受けられます。\n\nQどんな相談ができるの？\n\nAたとえば\n\n子どものことが心配（親の悩み）\n子どもの育てかたが分からない。\n子どもと上手くコミュニケーションがとれない。\n人付き合いが下手。同年齢のお母さんの友だちがいない。\n\nぼくの悩み、わたしの悩み（子どもの悩み）\n\nいじめられて困っている。\n友だちとの仲が悪くなっちゃった。\n先生と上手くいかない。\n\nその他こんなことも\n\n親が病気、出産のとき子どもをどうすればいいの？\n働きたいが子どもを預けるにはどうしたらいいの？\n医療や経済的なサポートを受けたいけど、どうしたらいいの？\n\nQ子ども電話相談は？\n\nA『AKISHIMAキッズナー』子ども専用電話相談があります。\n\nひとりで抱え込まないで、なんでも話をしてください。\n\nヒミツは守ります。\nどんなことでも一緒に考えます。\n名まえは言わなくてもいいです。\n\n電話番号：0120-678-044\n相談時間：月曜日から金曜日（祝日・年末年始を除く）午前9時から午後6時30分 ",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.akishima.lg.jp/s064/010/010/010/010/100/20140910104352.html",
+          "title": "児童虐待相談"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s064/010/010/010/010/020/20140910100154.html",
+        "title": "子育て相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 子ども家庭支援係",
+        "contactPhone": "042-543-9046",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000068.html",
+        "contactComment": "ファックス番号：042-519-2803",
+        "zipCode": "1960012",
+        "contactAddress": "昭島市つつじが丘3-3-15"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+1+UM115",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 子ども家庭支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-11-10",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "昭島市の子育てに関する相談",
+        "shortName": "乳幼児食事個別相談"
+      },
+      "summary": "管理栄養士が離乳食や幼児食の相談に応じます。",
+      "description": "内容\n管理栄養士が離乳食や幼児食の相談に応じます。\n予約制です。\n離乳食の進めかたや作りかたをデモンストレーションを交えながら説明をする「離乳食講座;https://www.city.akishima.lg.jp/s049/010/010/020/110/20140926125927.html（内部のページにリンクします）」も開催しています。詳しくは、離乳食講座のページをご確認ください。\n\n対象\n離乳食や幼児の食べかたや食事内容などでお困りの保護者のかた\n\n実施場所\n保健福祉センター（あいぽっく）\n所在地：昭島市昭和町4－7－1\n\n持ち物\n計測をご希望されるかたは母子健康手帳、バスタオルをお持ちください。\n\n日時\n日程\nhttps://www.city.akishima.lg.jp/s049/010/010/020/110/20200529100208.html\n\n時間\n午前9時10分から9時40分\n午前9時50分から10時20分\n午前10時30分から11時00分\n午前11時10分から11時40分\n\n申し込み方法\n申込受付期間中に、電子申請（外部サイトにリンクします）で申し込みを受け付けます。下記二次元コードよりお申込みください。\nキャンセルされる場合は申請状況照会フォームより、受付番号を入力して早めに手続きをお願いいたします。\n定員に達し次第、このフォームでの予約入力ができなくなります。ご相談をご希望されるかたは、下記「お問い合わせ先」までご相談ください。\n〈申し込みフォーム二次元コード〉\n\n画像をクリックすると外部サイトにリンクします。\n乳幼児食個別相談二次元コード;https://www.city.akishima.lg.jp/s049/010/010/020/110/nyuuyoujisyoku.png",
+      "target": {
+        "targetPersons": "離乳食や幼児の食べかたや食事内容などでお困りの保護者のかた",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "管理栄養士が離乳食や幼児食の相談に応じます。\n予約制です。\n\n離乳食の進めかたや作りかたをデモンストレーションを交えながら説明をする「離乳食講座（内部のページにリンクします）;https://www.city.akishima.lg.jp/s049/010/010/020/110/20140926125927.html」も開催しています。詳しくは、離乳食講座のページをご確認ください。",
+        "monetarySupport": null,
+        "materiallySupport": "管理栄養士が離乳食や幼児食の相談に応じます。\n予約制です。\n\n離乳食の進めかたや作りかたをデモンストレーションを交えながら説明をする「離乳食講座（内部のページにリンクします）;https://www.city.akishima.lg.jp/s049/010/010/020/110/20140926125927.html」も開催しています。詳しくは、離乳食講座のページをご確認ください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "|実施日|申し込み受付期間|\n|:----|:----|\n|4月17日（水曜日）|4月2日(火曜日)から4月15日(月曜日)まで|\n|5月15日（水曜日）|5月2日(木曜日)から5月13日(月曜日)まで|\n|6月19日（水曜日）|6月2日(日曜日)から6月17日(月曜日)まで|\n|7月17日（水曜日）|7月2日(火曜日)から7月15日(月曜日)まで|\n|8月21日（水曜日）|8月2日(金曜日)から8月19日(月曜日)まで|\n|9月18日（水曜日）|9月2日(月曜日)から9月16日(月曜日)まで|\n|10月16日（水曜日）|10月2日(水曜日)から10月14日(月曜日)まで|\n|11月20日（水曜日）|11月2日(土曜日)から11月18日(月曜日)まで|\n|12月18日（水曜日）|12月2日(月曜日)から12月16日(月曜日)まで|\n|令和7年1月15日（水曜日）|令和7年1月2日(木曜日)から1月13日(月曜日)まで|\n|令和7年2月19日（水曜日）|令和7年2月2日(日曜日)から2月17日(月曜日)まで|\n|令和7年3月12日（水曜日）|令和7年3月2日(日曜日)から3月10日(月曜日)まで|"
+      },
+      "implementationPlace": {
+        "implementationName": "保健福祉センター（あいぽっく）;https://www.city.akishima.lg.jp/map/010/050/020/20140816053706.html",
+        "implementationAddress": "昭島市昭和町4－7－1"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "時間\n\n午前9時10分から9時40分\n午前9時50分から10時20分\n午前10時30分から11時00分\n午前11時10分から11時40分"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "持ち物\n計測をご希望されるかたは母子健康手帳、バスタオルをお持ちください。",
+      "procedurePersons": null,
+      "procedureMethod": "申込受付期間中に、電子申請（外部サイトにリンクします）;https://logoform.jp/form/Zue8/431283で申し込みを受け付けます。二次元コードよりお申込みください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "|実施日|申し込み受付期間|\n|:----|:----|\n|4月17日（水曜日）|4月2日(火曜日)から4月15日(月曜日)まで|\n|5月15日（水曜日）|5月2日(木曜日)から5月13日(月曜日)まで|\n|6月19日（水曜日）|6月2日(日曜日)から6月17日(月曜日)まで|\n|7月17日（水曜日）|7月2日(火曜日)から7月15日(月曜日)まで|\n|8月21日（水曜日）|8月2日(金曜日)から8月19日(月曜日)まで|\n|9月18日（水曜日）|9月2日(月曜日)から9月16日(月曜日)まで|\n|10月16日（水曜日）|10月2日(水曜日)から10月14日(月曜日)まで|\n|11月20日（水曜日）|11月2日(土曜日)から11月18日(月曜日)まで|\n|12月18日（水曜日）|12月2日(月曜日)から12月16日(月曜日)まで|\n|令和7年1月15日（水曜日）|令和7年1月2日(木曜日)から1月13日(月曜日)まで|\n|令和7年2月19日（水曜日）|令和7年2月2日(日曜日)から2月17日(月曜日)まで|\n|令和7年3月12日（水曜日）|令和7年3月2日(日曜日)から3月10日(月曜日)まで|\n"
+      },
+      "electronicSubmission": true,
+      "belongings": "持ち物\n計測をご希望されるかたは母子健康手帳、バスタオルをお持ちください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s049/010/010/020/110/20200529100208.html",
+        "title": "乳幼児食事個別相談"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/Zue8/431283",
+          "title": "乳幼児食事個別相談申し込み"
+        }
+      ],
+      "contact": {
+        "contactName": "保健福祉センター（あいぽっく）母子保健係",
+        "contactPhone": "042-543-7303",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "ファックス番号：042-544-7130",
+        "zipCode": "1960015",
+        "contactAddress": "昭島市昭和町4-7-1"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+1+UM119",
+        "organization": "8000020132071",
+        "compartment": "保健福祉センター（あいぽっく）母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-19",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "新生児訪問",
+        "shortName": "あきしま出産・子育て応援事業「こんにちは赤ちゃん訪問」"
+      },
+      "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+      "description": "あきしま出産・子育て応援事業\n国の出産・子育て応援交付金を活用し、妊娠中から出産・子育て期まで安心して過ごしていただけるように、伴走型相談支援と経済的支援を一体的に実施する「あきしま出産・子育て応援事業」を令和5年2月1日より開始しました。\nなお、経済的支援については、令和4年4月1日から令和5年1月31日までに出生されたお子さんも遡及して支給の対象になります。\n||妊娠届提出後|妊娠7～8か月頃|出産後|育児期|\n|:----|:----|:----|:----|:----|\n|伴走型相談支援|ゆりかご・あきしま面談|妊婦8か月面談|こんにちは赤ちゃん訪問|個別相談・面談、情報提供等|\n|経済的支援|あきしまゆりかごギフト（5万円相当）||あきしまみらいギフト（5万円相当）<br>（注）令和5年4月1日以降に出生したお子さまは10万円相当||\n参考：こども家庭庁ホームページ「妊婦・子育て家庭への伴走型相談支援と経済的支援の一体的実施（出産・子育て応援交付金）」;https://www.cfa.go.jp/policies/shussan-kosodate/(外部サイトにリンクします)\n\n伴走型相談支援\n妊産婦のかたが抱える様々な不安を解消するため、妊娠届出時や妊娠8か月時、産後のこんにちは赤ちゃん訪問にて保健師や助産師が面談を行うほか、随時、相談支援を行います。\n\nゆりかご・あきしま面談\n安心して出産を迎えていただくため、妊娠期間中に、保健師または助産師が妊婦のかた全員と面談します。\n\n妊婦8か月面談\n妊娠8か月を迎える全ての妊婦さんを対象にアンケートを送付します。アンケートに記載のQRコードから回答してください。QRコードからの回答が難しい場合、郵送での返送も可能です。その場合は切手と封筒のご準備をお願いいたします。アンケートにご回答いただいたかたのうち、希望者には保健師や助産師などの専門職による面談を実施します。\n（QRコードは株式会社デンソーウェーブの登録商標です。）\n\nこんにちは赤ちゃん訪問\n生後4か月までのお子さんのいる全てのご家庭に、保健師または助産師が訪問し、お子さんの体重測定や健康状態を確認します。また、子育て情報の提供や乳児健診のご案内をします。",
+      "target": {
+        "targetPersons": "生後4か月までのお子さんのいる全てのご家庭に、保健師または助産師が訪問し、お子さんの体重測定や健康状態を確認します。また、子育て情報の提供や乳児健診のご案内をします。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後4か月までのお子さんのいる全てのご家庭"
+      },
+      "support": {
+        "description": "生後4か月までのお子さんのいる全てのご家庭に、保健師または助産師が訪問し、お子さんの体重測定や健康状態を確認します。また、子育て情報の提供や乳児健診のご案内をします。",
+        "monetarySupport": null,
+        "materiallySupport": "生後4か月までのお子さんのいる全てのご家庭に、保健師または助産師が訪問し、お子さんの体重測定や健康状態を確認します。また、子育て情報の提供や乳児健診のご案内をします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "こんにちは赤ちゃん訪問終了後、申請書を提出",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.cfa.go.jp/policies/shussan-kosodate/",
+          "title": "こども家庭庁ホームページ「妊婦・子育て家庭への伴走型相談支援と経済的支援の一体的実施（出産・子育て応援交付金）」"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s049/020/010/060/20200925151717.html",
+        "title": "あきしま出産・子育て応援事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "contactPhone": "042-543-7303",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+        "contactComment": "ファックス番号：042-544-7130",
+        "zipCode": "1960015",
+        "contactAddress": "昭島市昭和町4-7-1"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+1+UM13",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-09-28",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第11条（新生児の訪問指導）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+        "shortName": "こんにちは赤ちゃん訪問事業"
+      },
+      "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+      "description": "こんにちは赤ちゃん訪問事業\n\nお子さまの健やかな成長と保護者の皆様の子育てを応援するために、生後4か月までの乳児のいる家庭全戸を保健師または助産師が訪問します。\n \n母親イラスト;https://www.city.akishima.lg.jp/s049/010/010/040/010/image002_669580010.gif\n訪問までの流れ\n\n訪問時期のご希望（生後1か月未満の早めの訪問、訪問時期の延期など）や、ご不明な点がございましたら、下記問い合わせ先までご連絡ください。\n\n〈電子申請二次元コード〉\n画像をクリックすると外部サイトにリンクします。\n\n出生通知票二次元コード;https://www.city.akishima.lg.jp/s049/020/010/020/010/syusseituuchi.code.jpg\n\n\n\n備考\n出生通知票は母子健康手帳交付時にお配りした「母と子の保健バック」の中に入っています。\n出生通知票（PDF：211KB);https://www.city.akishima.lg.jp/s049/020/010/020/010/syusseituuchihyou.pdfをお持ちでないかたは、ダウンロードしてご使用ください。\n訪問内容\n乳児の体重測定、健康状態の確認\n子育て支援に関する情報の提供\n育児に関する相談\nあきしま出産・子育て応援事業のご案内\n3から4か月児健康診査のご案内\n個人情報保護法に基づきプライバシーは厳守いたしますので、お気軽にご相談ください。\n\n訪問員\n保健師または助産師の資格を持った訪問員がお伺いいたします。\n訪問員は、必ず訪問員証を携帯しています。\n\n里帰りの訪問希望\n昭島市外の市区町村で、里帰り中に訪問を希望される場合には、下記問い合わせ先までご連絡ください。\n昭島市に里帰り中で、訪問を希望される方は、住所地の市区町村にお問い合わせください。\n感染予防について\nこんにちは赤ちゃん訪問事業について、以下の感染予防対策に留意して訪問を実施しています。\n\n 訪問指導員につきましては、発熱や呼吸器症状がないことを確認した上で、訪問時におけるマスク着用や手洗い、アルコール消毒などにより、感染予防対策を行います。\n訪問日時のお約束後に、ご家族に風邪の症状や発熱、倦怠感や呼吸困難などの症状がある場合は、訪問の延期をさせていただきますので、下記問い合わせ先までご連絡をお願いします。",
+      "target": {
+        "targetPersons": "対象\n生後4か月未満の乳児のいるすべてのご家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "誕生祝い記念品の贈呈",
+        "monetarySupport": null,
+        "materiallySupport": "誕生祝い記念品"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "家庭",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "決まった日程に訪問員がご自宅へ伺います。",
+      "procedurePersons": null,
+      "procedureMethod": "お子さまが生まれたら出生通知票を以下のいずれかの方法で提出してください。\n訪問員からの電話をお待ちください。電話にて、訪問の日程を決めます。,出生通知票の提出方法（いずれかの方法で提出）\n電子申請;https://logoform.jp/form/Zue8/319365（外部サイトにリンクします）\n市役所16番窓口「子ども未来課・手当医療助成係」に提出\nお手持ちの封筒に入れて、あいぽっく;https://www.city.akishima.lg.jp/map/010/050/020/20140816053706.htmlまで郵送、または持参",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "市役所16番窓口「子ども未来課・手当医療助成係」",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s049/010/010/040/010/20140916191458.html",
+        "title": "こんにちは赤ちゃん訪問事業"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/Zue8/319365",
+          "title": "出生通知票"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "contactPhone": "電話番号：042-519-6006",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1960015",
+        "contactAddress": "昭島市つつじが丘3-3-15アキシマエンシス校舎棟"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+1+UM14",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/03/28",
+      "odInformation": {
+        "updateDate": "2025/02/20",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第21条の10の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出産育児一時金",
+        "shortName": "出産育児一時金"
+      },
+      "summary": "国民健康保険に加入している方が出産したときは、その世帯主からの申請により、出産育児一時金を支給します。原則として直接支払制度により、医療機関に直接お支払いします。\nなお、直接支払制度に対応していない医療機関などで出産された場合も、「受取代理制度」や出産後の申請により、出産育児一時金の支給を受けることができます。",
+      "description": "出産育児一時金\n国民健康保険に加入している被保険者が出産した場合に支給されます。\n注：妊娠85日以上であれば、死産・流産でも支給されます。（死産・流産を証明する書類が必要です）\n\n支給金額 \n出生児1人に対し、50万円が支給されます(令和5年3月31日までの出産の場合42万円の支給となります)。\n\n支給方法\n「直接支払制度」または「受取代理制度」を利用する方法と、それらを利用しない方法があります。\n\n「直接支払制度」を利用する場合\n市が支払機関(国保連合会)を通じて医療機関等に直接支払います。この直接支払制度により、出産にかかった費用から50万円(あるいは42万円)を差し引いた金額を医療機関等に支払えば済むことになります。「直接支払制度」の利用を希望される場合は医療機関等にご相談ください（「直接支払制度」を実施していない医療機関等もあります）。\n出産にかかった費用が50万円(あるいは42万円)未満の場合は、その差額を支給しますので保険係の窓口で申請してください。\n\n差額の支給申請に必要なもの\n保険証\n世帯主名義の振込み先金融機関の口座番号がわかるもの（ゆうちょ銀行の場合は、振込み用の店名・口座番号が必要です）\n出産した医療機関等の領収書または明細書\n直接支払制度の合意文書の写し（出産した医療機関等より交付） \n「受取代理制度」を利用する場合\n事前に申請を行うことで、市が医療機関等に直接支払います。この受取代理制度により、出産にかかった費用から50万円(あるいは42万円)を差し引いた金額を医療機関等に支払えば済むことになります。「受取代理制度」を利用を希望される場合は医療機関等にご相談のうえ、出産予定日の2か月以内に保険係の窓口で申請してください（「受取代理制度」を実施していない医療機関等もあります）。\n\n申請に必要なもの\n保険証\n申請者及び医療機関等が必要事項を記入した申請書 \n上記の方法を利用しない場合\n「直接支払制度」または「受取代理制度」を利用をしない場合、世帯主の方に出産一時金を支給いたします。ご希望される場合は、医療機関等にご相談のうえ、保険係の窓口で申請してください。事前に医療機関等と「直接支払制度」を利用しない旨合意し、合意文書を作成していただく必要があります。\n\n申請に必要なもの\n保険証\n医療機関等と交わした「直接支払制度」を利用しない旨の合意文章\n出産した医療機関等の領収書または明細書\n世帯主名義の振込み先金融機関の口座番号がわかるもの（ゆうちょ銀行の場合は、振込み用の店名・口座番号が必要です）\n\n注：出産後2年間を経過した場合、時効により申請できなくなります。",
+      "target": {
+        "targetPersons": "国民健康保険に加入している被保険者が出産した場合に支給されます。\n注：妊娠85日以上であれば、死産・流産でも支給されます。（死産・流産を証明する書類が必要です）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "妊娠85日以上であれば、死産・流産でも支給されます。（死産・流産を証明する書類が必要です）"
+      },
+      "support": {
+        "description": "出生児1人に対し、50万円が支給されます(令和5年3月31日までの出産の場合42万円の支給となります)。",
+        "monetarySupport": "出生児1人に対し、50万円が支給されます(令和5年3月31日までの出産の場合42万円の支給となります)。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "支給方法\n「直接支払制度」または「受取代理制度」を利用する方法と、それらを利用しない方法があります。\n\n「直接支払制度」を利用する場合\n市が支払機関(国保連合会)を通じて医療機関等に直接支払います。この直接支払制度により、出産にかかった費用から50万円(あるいは42万円)を差し引いた金額を医療機関等に支払えば済むことになります。「直接支払制度」の利用を希望される場合は医療機関等にご相談ください（「直接支払制度」を実施していない医療機関等もあります）。\n出産にかかった費用が50万円(あるいは42万円)未満の場合は、その差額を支給しますので保険係の窓口で申請してください。\n\n差額の支給申請に必要なもの\n保険証\n世帯主名義の振込み先金融機関の口座番号がわかるもの（ゆうちょ銀行の場合は、振込み用の店名・口座番号が必要です）\n出産した医療機関等の領収書または明細書\n直接支払制度の合意文書の写し（出産した医療機関等より交付） \n「受取代理制度」を利用する場合\n事前に申請を行うことで、市が医療機関等に直接支払います。この受取代理制度により、出産にかかった費用から50万円(あるいは42万円)を差し引いた金額を医療機関等に支払えば済むことになります。「受取代理制度」を利用を希望される場合は医療機関等にご相談のうえ、出産予定日の2か月以内に保険係の窓口で申請してください（「受取代理制度」を実施していない医療機関等もあります）。\n\n申請に必要なもの\n保険証\n申請者及び医療機関等が必要事項を記入した申請書 \n上記の方法を利用しない場合\n「直接支払制度」または「受取代理制度」を利用をしない場合、世帯主の方に出産一時金を支給いたします。ご希望される場合は、医療機関等にご相談のうえ、保険係の窓口で申請してください。事前に医療機関等と「直接支払制度」を利用しない旨合意し、合意文書を作成していただく必要があります。\n\n申請に必要なもの\n保険証\n医療機関等と交わした「直接支払制度」を利用しない旨の合意文章\n出産した医療機関等の領収書または明細書\n世帯主名義の振込み先金融機関の口座番号がわかるもの（ゆうちょ銀行の場合は、振込み用の店名・口座番号が必要です）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "注：出産後2年間を経過した場合、時効により申請できなくなります。"
+      },
+      "electronicSubmission": false,
+      "belongings": "支給方法\n「直接支払制度」または「受取代理制度」を利用する方法と、それらを利用しない方法があります。\n\n「直接支払制度」を利用する場合\n市が支払機関(国保連合会)を通じて医療機関等に直接支払います。この直接支払制度により、出産にかかった費用から50万円(あるいは42万円)を差し引いた金額を医療機関等に支払えば済むことになります。「直接支払制度」の利用を希望される場合は医療機関等にご相談ください（「直接支払制度」を実施していない医療機関等もあります）。\n出産にかかった費用が50万円(あるいは42万円)未満の場合は、その差額を支給しますので保険係の窓口で申請してください。\n\n差額の支給申請に必要なもの\n保険証\n世帯主名義の振込み先金融機関の口座番号がわかるもの（ゆうちょ銀行の場合は、振込み用の店名・口座番号が必要です）\n出産した医療機関等の領収書または明細書\n直接支払制度の合意文書の写し（出産した医療機関等より交付） \n「受取代理制度」を利用する場合\n事前に申請を行うことで、市が医療機関等に直接支払います。この受取代理制度により、出産にかかった費用から50万円(あるいは42万円)を差し引いた金額を医療機関等に支払えば済むことになります。「受取代理制度」を利用を希望される場合は医療機関等にご相談のうえ、出産予定日の2か月以内に保険係の窓口で申請してください（「受取代理制度」を実施していない医療機関等もあります）。\n\n申請に必要なもの\n保険証\n申請者及び医療機関等が必要事項を記入した申請書 \n上記の方法を利用しない場合\n「直接支払制度」または「受取代理制度」を利用をしない場合、世帯主の方に出産一時金を支給いたします。ご希望される場合は、医療機関等にご相談のうえ、保険係の窓口で申請してください。事前に医療機関等と「直接支払制度」を利用しない旨合意し、合意文書を作成していただく必要があります。\n\n申請に必要なもの\n保険証\n医療機関等と交わした「直接支払制度」を利用しない旨の合意文章\n出産した医療機関等の領収書または明細書\n世帯主名義の振込み先金融機関の口座番号がわかるもの（ゆうちょ銀行の場合は、振込み用の店名・口座番号が必要です）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s054/010/010/010/010/010/20140912103800.html",
+        "title": "出産育児一時金の支給"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健福祉部 保険年金課 保険係",
+        "contactPhone": "042-544-5111",
+        "contactEx": "2032から2036",
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000058.html",
+        "contactComment": "ファックス番号：042-544-5115",
+        "zipCode": "1968511",
+        "contactAddress": "昭島市田中町1-17-1"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+1+UM19",
+        "organization": "8000020132071",
+        "compartment": "保健福祉部 保険年金課 保険係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-04",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民健康保険法",
+        "regulationArticle": "第58条(第二節　その他の給付)"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003",
+          "015"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "昭島市の妊娠・出産に関する相談",
+        "shortName": "にんしんSOS相談"
+      },
+      "summary": "妊娠に関する素朴な疑問や思いがけない妊娠など、妊娠に悩む人の気持ちに寄り添って、ご希望に応じて必要な正しい情報を伝えたり、場合によっては続けてサポートが受けられるように、別の相談窓口や適切なサービスを紹介する相談窓口です。\n妊娠に悩むかたならどなたでも相談できます。",
+      "description": "妊娠に関する素朴な疑問や思いがけない妊娠など、妊娠に悩む人の気持ちに寄り添って、ご希望に応じて必要な正しい情報を伝えたり、場合によっては続けてサポートが受けられるように、別の相談窓口や適切なサービスを紹介する相談窓口です。\n妊娠に悩むかたならどなたでも相談できます。\n思いがけない妊娠などで、誰にも相談できず、ひとりで悩んでいるかたも安心してご相談ください。\n不妊症や不育症に関わる相談など、妊娠にまつわるあらゆる相談に応じています。\n新型コロナウイルス感染症に関して、不安に感じられていることについて、ご相談をお受けします。\n【新型コロナウイルス感染症】妊産婦のかたの相談先;https://www.city.akishima.lg.jp/s049/020/010/010/040/20151102130315.html では、休日や深夜の急な発熱などの相談先や、感染症についての情報がご覧いただけます。\n相談方法\n電話または面談\n平日、午前8時30分から午後5時\n電話番号：042-543-7303\n面談場所：保健福祉センター（あいぽっく） 所在地：昭島市昭和町4-7-1 ;https://www.city.akishima.lg.jp/map/010/050/020/20140816053706.html\n注意：土曜日、日曜日、祝日、年末年始などは除きます。\n妊娠相談ほっとライン（東京都福祉保健局）\n東京都では、妊娠や出産に関する様々な悩みについて、電話やメールで相談に応じています。\n相談には、看護師などの専門職が対応します。\n\n電話相談\n電話番号：03-5339-1133\n受付時間：月曜日から土曜日の午前10時から午後10時まで（元旦はお休み）\nその他：メール相談など詳しくは、東京都妊娠相談ほっとライン;https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-hotline.html?utm_source=Google&utm_medium=text&utm_campaign=2021 へ（外部サイトにリンクします）\nLINEチャットボット「妊娠したかも相談＠東京」\n「妊娠したかも？」と思った時の妊娠の確かめ方、「避妊に失敗したかも」と思った時の緊急避妊方法など相談に対応するため、チャットボット形式のLINEアカウントを開設しています。誰でも気軽に使えますので、ご活用ください。\n\nご利用方法\n「ホーム」＞「友だち追加」＞「検索」で以下のIDを検索してください。\nID:「＠ninshin_tokyo」",
+      "target": {
+        "targetPersons": "妊娠に関する素朴な疑問や思いがけない妊娠など、妊娠に悩む人の気持ちに寄り添って、ご希望に応じて必要な正しい情報を伝えたり、場合によっては続けてサポートが受けられるように、別の相談窓口や適切なサービスを紹介する相談窓口です。\n妊娠に悩むかたならどなたでも相談できます。\n思いがけない妊娠などで、誰にも相談できず、ひとりで悩んでいるかたも安心してご相談ください。\n不妊症や不育症に関わる相談など、妊娠にまつわるあらゆる相談に応じています。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠に関する素朴な疑問や思いがけない妊娠など、妊娠に悩む人の気持ちに寄り添って、ご希望に応じて必要な正しい情報を伝えたり、場合によっては続けてサポートが受けられるように、別の相談窓口や適切なサービスを紹介する相談窓口です。\n妊娠に悩むかたならどなたでも相談できます。\n思いがけない妊娠などで、誰にも相談できず、ひとりで悩んでいるかたも安心してご相談ください。\n不妊症や不育症に関わる相談など、妊娠にまつわるあらゆる相談に応じています。",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠に関する素朴な疑問や思いがけない妊娠など、妊娠に悩む人の気持ちに寄り添って、ご希望に応じて必要な正しい情報を伝えたり、場合によっては続けてサポートが受けられるように、別の相談窓口や適切なサービスを紹介する相談窓口です。\n妊娠に悩むかたならどなたでも相談できます。\n思いがけない妊娠などで、誰にも相談できず、ひとりで悩んでいるかたも安心してご相談ください。\n不妊症や不育症に関わる相談など、妊娠にまつわるあらゆる相談に応じています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "相談方法\n電話または面談\n平日、午前8時30分から午後5時\n電話番号：042-543-7303\n面談場所：保健福祉センター（あいぽっく） 所在地：昭島市昭和町4-7-1;https://www.city.akishima.lg.jp/map/010/050/020/20140816053706.html\n注意：土曜日、日曜日、祝日、年末年始などは除きます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-hotline.html?utm_source=Google&utm_medium=text&utm_campaign=2021",
+          "title": "東京都　妊娠相談ほっとライン"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s049/010/010/030/120/20151102160527.html",
+        "title": "にんしんSOS相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "contactPhone": "042-543-7303",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+        "contactComment": "ファックス番号：042-544-7130",
+        "zipCode": "1960015",
+        "contactAddress": "昭島市昭和町4-7-1"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+1+UM47",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-05-15",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月未満児）",
+        "shortName": "【令和6年度】3から4か月児健康診査"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として3から4か月児健康診査を実施しています。",
+      "description": "生後3か月から4か月頃のお子さまは、心身ともに発達のめざましい時期となるため、健康診査を受けましょう。\n\n健診時期：原則として、満3か月を迎えた月の翌月\n通知方法：満3か月を迎えた月の末日までに通知します。\n3から4か月児健康診査の実施について\n連絡なく別の日や受付時間以外にお越しいただいた場合には、受診できませんのでご了承ください。\nお子さまや同居されているご家族のかたが発熱（微熱含む）や咳などで体調がすぐれない場合には、来所をお控えください。\n\n実施場所\n保健福祉センター（あいぽっく）所在地：昭島市昭和町4-7-1\n\n内容\n身体測定、内科健診、管理栄養士・歯科衛生士による集団指導\nその他：個別相談（希望者）\n赤ちゃん頭位測定\n\n赤ちゃん身長測定\n持ち物\n3から4か月児健康診査アンケート\n母子健康手帳\n保険証\nバスタオル\n紙オムツ（使用済みのオムツは、必ずお持ち帰りください）\n令和6年度日程\n受付時間\n午後1時00分から1時15分\n午後1時20分から1時35分\n午後1時40分から1時55分\n午後2時00分から2時15分\n日程\n令和5年12月生まれのお子さま\n4月9日（火曜日）、4月16日（火曜日）\n令和6年1月生まれのお子さま\n5月14日（火曜日）、5月21日（火曜日）\n令和6年2月生まれのお子さま\n6月11日（火曜日）、6月18日（火曜日）\n令和6年3月生まれのお子さま\n7月9日（火曜日）、7月16日（火曜日）\n令和6年4月生まれのお子さま\n8月6日（火曜日）、8月20日（火曜日）\n令和6年5月生まれのお子さま\n9月10日（火曜日）、9月17日（火曜日）\n令和6年6月生まれのお子さま\n10月8日（火曜日）、10月15日（火曜日）\n令和6年7月生まれのお子さま\n11月12日（火曜日）、11月19日（火曜日）\n令和6年8月生まれのお子さま\n12月10日（火曜日）、12月17日（火曜日）\n令和6年9月生まれのお子さま\n令和7年1月14日（火曜日）、1月21日（火曜日）\n令和6年10月生まれのお子さま\n令和7年2月4日（火曜日）、2月18日（火曜日）\n令和6年11月生まれのお子さま\n令和7年3月4日（火曜日）、3月11日（火曜日）",
+      "target": {
+        "targetPersons": "生後3か月から4か月頃のお子さま",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 3
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後3か月から4か月頃のお子さま"
+      },
+      "support": {
+        "description": "身体測定、内科健診、管理栄養士・歯科衛生士による集団指導\nその他：個別相談（希望者）",
+        "monetarySupport": null,
+        "materiallySupport": "身体測定、内科健診、管理栄養士・歯科衛生士による集団指導\nその他：個別相談（希望者）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "日程\n\n令和5年12月生まれのお子さま\n4月9日（火曜日）、4月16日（火曜日）\n令和6年1月生まれのお子さま\n5月14日（火曜日）、5月21日（火曜日）\n令和6年2月生まれのお子さま\n6月11日（火曜日）、6月18日（火曜日）\n令和6年3月生まれのお子さま\n7月9日（火曜日）、7月16日（火曜日）\n令和6年4月生まれのお子さま\n8月6日（火曜日）、8月20日（火曜日）\n令和6年5月生まれのお子さま\n9月10日（火曜日）、9月17日（火曜日）\n令和6年6月生まれのお子さま\n10月8日（火曜日）、10月15日（火曜日）\n令和6年7月生まれのお子さま\n11月12日（火曜日）、11月19日（火曜日）\n令和6年8月生まれのお子さま\n12月10日（火曜日）、12月17日（火曜日）\n令和6年9月生まれのお子さま\n令和7年1月14日（火曜日）、1月21日（火曜日）\n令和6年10月生まれのお子さま\n令和7年2月4日（火曜日）、2月18日（火曜日）\n令和6年11月生まれのお子さま\n令和7年3月4日（火曜日）、3月11日（火曜日）"
+      },
+      "implementationPlace": {
+        "implementationName": "保健福祉センター（あいぽっく）;https://www.city.akishima.lg.jp/map/010/050/020/20140816053706.html",
+        "implementationAddress": "昭島市昭和町4-7-1"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "受付時間\n1. 午後1時00分から1時15分\n2. 午後1時20分から1時35分\n3. 午後1時40分から1時55分\n4. 午後2時00分から2時15分"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "健診時期：原則として、満3か月を迎えた月の翌月\n通知方法：満3か月を迎えた月の末日までに通知します。\n\n3から4か月児健康診査の実施について\n連絡なく別の日や受付時間以外にお越しいただいた場合には、受診できませんのでご了承ください。\nお子さまや同居されているご家族のかたが発熱（微熱含む）や咳などで体調がすぐれない場合には、来所をお控えください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "持ち物\n3から4か月児健康診査アンケート\n母子健康手帳\n保険証\nバスタオル\n紙オムツ（使用済みのオムツは、必ずお持ち帰りください）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s049/010/010/010/020/20210330144455.html",
+        "title": "【令和6年度】3から4か月児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "contactPhone": "042-543-7303",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+        "contactComment": "ファックス番号：042-544-7130",
+        "zipCode": "1960015",
+        "contactAddress": "昭島市昭和町4-7-1"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+1+UM49",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "6から7か月児健康診査"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として乳幼児健康診査6から7か月児を実施しています。",
+      "description": "3から4か月児健康診査受診時に、受診票を発行します。\n\n赤ちゃんが健やかに育つためには、定期的な健康診査が必要です。\n6から7か月児および9から10か月児は、東京都内の委託契約医療機関において、自己負担なく健康診査を受けられます。\nやむを得ず、3から4か月児健康診査を受診されなかったかたは、お問い合わせください。\n\n3から4か月児健診受診時に、受診票をお渡しします。\n\n健康診査を受けられる期間\n6から7か月児健康診査：生後6から7か月の期間\n9から10か月児健康診査：生後9から10か月の期間\n実施医療機関\n健診実施曜日や時間などは、各医療機関に直接お問い合わせください。\n\n市内の委託医療機関\n大田医院;https://www.city.akishima.lg.jp/map/020/010/120/20140823220425.html\n電話：042-541-0311\nしょうわの森こどもクリニック;https://www.city.akishima.lg.jp/map/020/030/090/20140825120648.html\n電話：042-519-1237\nつつじが丘診療所;https://www.city.akishima.lg.jp/map/020/010/160/20140823214931.html\n電話：042-545-4737\n栄田医院;https://www.city.akishima.lg.jp/map/020/010/060/20140825223313.html\n042-541-0218\n富士診療所;https://www.city.akishima.lg.jp/map/020/010/090/20140823222646.html\n042-541-2263\n石原レディースクリニック;https://www.city.akishima.lg.jp/map/020/080/030/20140825154821.html\n電話：042-545-9022\n太陽こども病院;https://www.city.akishima.lg.jp/map/020/030/120/20140825115642.html\n電話：042-544-7511\nまことクリニック;https://www.city.akishima.lg.jp/map/020/010/230/20140823212624.html\n電話：042-546-2800\n松原町クリニック;https://www.city.akishima.lg.jp/map/020/010/260/20140823210740.html\n電話：042-546-8610\n田中団地診療所;https://www.city.akishima.lg.jp/map/020/010/330/20140823195354.html\n電話：042-545-2514\n東京都内の委託医療機関（上記以外）\n受診予定の医療機関に直接お問い合わせください。\n\nその他\n東京都内の他の区市町村に転居された場合、この受診票はそのまま使用できます。\n他道府県に転居された場合、この受診票を使用することはできません。転居先の区市町村の担当窓口にお問い合わせください。\n都外から転入されたなど、受診票がないかたは、お問合わせください。",
+      "target": {
+        "targetPersons": "赤ちゃんが健やかに育つためには、定期的な健康診査が必要です。\n6から7か月児および9から10か月児は、東京都内の委託契約医療機関において、自己負担なく健康診査を受けられます。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 7
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後6から7か月の期間"
+      },
+      "support": {
+        "description": "6から7か月児および9から10か月児は、東京都内の委託契約医療機関において、自己負担なく健康診査を受けられます。",
+        "monetarySupport": null,
+        "materiallySupport": "6から7か月児および9から10か月児は、東京都内の委託契約医療機関において、自己負担なく健康診査を受けられます。"
+      },
+      "cost": null,
+      "costConditions": "自己負担なく健康診査を受けられます。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "健康診査を受けられる期間\n6から7か月児健康診査：生後6から7か月の期間"
+      },
+      "implementationPlace": {
+        "implementationName": "実施医療機関\n健診実施曜日や時間などは、各医療機関に直接お問い合わせください。\n\n市内の委託医療機関\n大田医院;https://www.city.akishima.lg.jp/map/020/010/120/20140823220425.html\n電話：042-541-0311\nしょうわの森こどもクリニック;https://www.city.akishima.lg.jp/map/020/030/090/20140825120648.html\n電話：042-519-1237\nつつじが丘診療所;https://www.city.akishima.lg.jp/map/020/010/160/20140823214931.html\n電話：042-545-4737\n栄田医院;https://www.city.akishima.lg.jp/map/020/010/060/20140825223313.html\n042-541-0218\n富士診療所;https://www.city.akishima.lg.jp/map/020/010/090/20140823222646.html\n042-541-2263\n石原レディースクリニック;https://www.city.akishima.lg.jp/map/020/080/030/20140825154821.html\n電話：042-545-9022\n太陽こども病院;https://www.city.akishima.lg.jp/map/020/030/120/20140825115642.html\n電話：042-544-7511\nまことクリニック;https://www.city.akishima.lg.jp/map/020/010/230/20140823212624.html\n電話：042-546-2800\n松原町クリニック;https://www.city.akishima.lg.jp/map/020/010/260/20140823210740.html\n電話：042-546-8610\n田中団地診療所;https://www.city.akishima.lg.jp/map/020/010/330/20140823195354.html\n電話：042-545-2514\n東京都内の委託医療機関（上記以外）\n受診予定の医療機関に直接お問い合わせください。",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "健診実施曜日や時間などは、各医療機関に直接お問い合わせください。"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "3から4か月児健康診査受診時に、受診票を発行します。\n\n赤ちゃんが健やかに育つためには、定期的な健康診査が必要です。\n6から7か月児および9から10か月児は、東京都内の委託契約医療機関において、自己負担なく健康診査を受けられます。\nやむを得ず、3から4か月児健康診査を受診されなかったかたは、お問い合わせください。\n\nその他\n\n東京都内の他の区市町村に転居された場合、この受診票はそのまま使用できます。\n他道府県に転居された場合、この受診票を使用することはできません。転居先の区市町村の担当窓口にお問い合わせください。\n都外から転入されたなど、受診票がないかたは、お問合わせください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "3から4か月児健康診査受診時に、受診票を発行します。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s049/010/010/010/030/20140917162223.html",
+        "title": "「6から7か月児健康診査」および「9から10か月児健康診査」"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "contactPhone": "042-543-7303",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+        "contactComment": "ファックス番号：042-544-7130",
+        "zipCode": "1960015",
+        "contactAddress": "昭島市昭和町4-7-1"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+1+UM50",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "伴走型相談支援",
+        "shortName": "ゆりかご・あきしま面談"
+      },
+      "summary": "すべての妊婦さんと子育て家庭が安心して出産・子育てができるように、妊娠から出産・子育てまでの一貫した「伴走型相談支援」を実施しています。",
+      "description": "伴走型相談支援\n妊産婦のかたが抱える様々な不安を解消するため、妊娠届出時や妊娠8か月時、産後のこんにちは赤ちゃん訪問にて保健師や助産師が面談を行うほか、随時、相談支援を行います。\n\nゆりかご・あきしま面談;https://www.city.akishima.lg.jp/s049/020/010/010/010/20160829105521.html\n安心して出産を迎えていただくため、妊娠期間中に、保健師または助産師が妊婦のかた全員と面談します。",
+      "target": {
+        "targetPersons": "妊産婦のかた",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "ゆりかご・あきしま面談;https://www.city.akishima.lg.jp/s049/020/010/010/010/20160829105521.html\n安心して出産を迎えていただくため、妊娠期間中に、保健師または助産師が妊婦のかた全員と面談します。",
+        "monetarySupport": null,
+        "materiallySupport": "ゆりかご・あきしま面談;https://www.city.akishima.lg.jp/s049/020/010/010/010/20160829105521.html\n安心して出産を迎えていただくため、妊娠期間中に、保健師または助産師が妊婦のかた全員と面談します。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s049/020/010/060/20200925151717.html",
+        "title": "あきしま出産・子育て応援事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "contactPhone": "042-543-7303",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+        "contactComment": null,
+        "zipCode": "1960015",
+        "contactAddress": "昭島市昭和町4-7-1"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+1+UM5011",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-09-28",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "1歳6か月児健康診査",
+        "shortName": "【令和5年度】1歳6か月児健康診査（内科）"
+      },
+      "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。昭島市では1歳6か月児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "1歳6か月頃は、心身ともに成長がめざましく、日頃の健康管理が大切な時期です。お子さんをすこやかに育てるため、1歳6か月児健康診査（内科）を実施しています。\n\n医師による診察の様子\n\n受診期間\n1歳6か月に達した日から、2歳誕生日の前日まで。1歳6か月から1歳8か月までの受診をお勧めします。\n満1歳6か月を迎えた月の末日までに通知します。\n注意：転入をされたかたなどで「1歳6か月児健康診査受診票」がないかたは、お問い合わせください。また、市外に転居された場合は受診票は使用できません。転居先の担当窓口にお問い合わせください。\n実施医療機関\n健診実施曜日や時間などは、各実施医療機関に直接お問い合わせください。\n\n栄田医院;https://www.city.akishima.lg.jp/map/020/010/060/20140825223313.html\n電話：042-541-0218\n富士診療所;https://www.city.akishima.lg.jp/map/020/010/090/20140823222646.html\n電話：042-541-2263\n大田医院;https://www.city.akishima.lg.jp/map/020/010/120/20140823220425.html\n電話：042-541-0311\nつつじが丘診療所;https://www.city.akishima.lg.jp/map/020/010/160/20140823214931.html\n電話：042-545-4737\n太陽こども病院;https://www.city.akishima.lg.jp/map/020/030/120/20140825115642.html \n電話：042-544-7511\n田中団地診療所;https://www.city.akishima.lg.jp/map/020/010/330/20140823195354.html\n電話：042-545-2514\nまことクリニック;https://www.city.akishima.lg.jp/map/020/010/230/20140823212624.html\n電話：042-546-2800\nしょうわの森こどもクリニック;https://www.city.akishima.lg.jp/map/020/030/090/20140825120648.html\n電話：042-519-1237\n石原レディースクリニック;https://www.city.akishima.lg.jp/map/020/080/030/20140825154821.html\n電話：042-545-9022",
+      "target": {
+        "targetPersons": "1歳6か月に達した日から、2歳誕生日の前日までの児童",
+        "lessThan": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1歳6か月に達した日から、2歳誕生日の前日まで。1歳6か月から1歳8か月までの受診をお勧めします。"
+      },
+      "support": {
+        "description": "1歳6か月頃は、心身ともに成長がめざましく、日頃の健康管理が大切な時期です。お子さんをすこやかに育てるため、1歳6か月児健康診査（内科）を実施しています。",
+        "monetarySupport": null,
+        "materiallySupport": "1歳6か月頃は、心身ともに成長がめざましく、日頃の健康管理が大切な時期です。お子さんをすこやかに育てるため、1歳6か月児健康診査（内科）を実施しています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "受診期間\n1歳6か月に達した日から、2歳誕生日の前日まで。1歳6か月から1歳8か月までの受診をお勧めします。\n満1歳6か月を迎えた月の末日までに通知します。\n注意：転入をされたかたなどで「1歳6か月児健康診査受診票」がないかたは、お問い合わせください。また、市外に転居された場合は受診票は使用できません。転居先の担当窓口にお問い合わせください。"
+      },
+      "implementationPlace": {
+        "implementationName": "栄田医院;https://www.city.akishima.lg.jp/map/020/010/060/20140825223313.html\n電話：042-541-0218\n富士診療所;https://www.city.akishima.lg.jp/map/020/010/090/20140823222646.html\n電話：042-541-2263\n大田医院;https://www.city.akishima.lg.jp/map/020/010/120/20140823220425.html\n電話：042-541-0311\nつつじが丘診療所;https://www.city.akishima.lg.jp/map/020/010/160/20140823214931.html\n電話：042-545-4737\n太陽こども病院;https://www.city.akishima.lg.jp/map/020/030/120/20140825115642.html \n電話：042-544-7511\n田中団地診療所;https://www.city.akishima.lg.jp/map/020/010/330/20140823195354.html\n電話：042-545-2514\nまことクリニック;https://www.city.akishima.lg.jp/map/020/010/230/20140823212624.html\n電話：042-546-2800\nしょうわの森こどもクリニック;https://www.city.akishima.lg.jp/map/020/030/090/20140825120648.html\n電話：042-519-1237\n石原レディースクリニック;https://www.city.akishima.lg.jp/map/020/080/030/20140825154821.html\n電話：042-545-9022",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "健診実施曜日や時間などは、各実施医療機関に直接お問い合わせください。"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "満1歳6か月を迎えた月の末日までに通知します。\n注意：転入をされたかたなどで「1歳6か月児健康診査受診票」がないかたは、お問い合わせください。また、市外に転居された場合は受診票は使用できません。転居先の担当窓口にお問い合わせください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "「1歳6か月児健康診査受診票」",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s049/010/010/010/20140917183031.html",
+        "title": "【令和5年度】1歳6か月児健康診査（内科）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "contactPhone": "042-543-7303",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+        "contactComment": "ファックス番号：042-544-7130",
+        "zipCode": "1960015",
+        "contactAddress": "昭島市昭和町4-7-1"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+1+UM51",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "3歳児健康診査",
+        "shortName": "【令和6年度】3歳児健康診査（内科・歯科）"
+      },
+      "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。昭島市では3歳児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "からだやこころの成長とともに社会性も急速に発達するこの頃は、お子さまにとって大切な時期となるため、健康診査を受けましょう。\n健診時期：原則として、満3歳を迎えた月の翌月\n通知方法：満3歳を迎えた月の末日までに通知します。\n3歳児健康診査（内科・歯科）\n3歳児健康診査の実施について\n連絡なく別の日や受付時間以外にお越しいただいた場合には、受診できませんのでご了承ください。\nお子さまや同居されているご家族のかたが発熱（微熱含む）や咳などで体調がすぐれない場合には、来所をお控えください。\n\n実施場所\n保健福祉センター（あいぽっく）;https://www.city.akishima.lg.jp/map/010/050/020/20140816053706.html 所在地：昭島市昭和町4-7-1\n\n内容\n身体測定、内科健診、歯科健診、視力検査、尿検査、個別相談\n\nその他：心理相談（希望者）\n持ち物\n3歳児健康診査アンケート\n目と耳のアンケート（健診日までに、必ず目と耳の検査を行ってください）\n母子健康手帳\n保険証\n尿（原則として、健診当日の朝のもの）\nその他：健診当日に尿がとれない場合、お子さまが4歳になる前日までに、あいぽっくにご持参いただくと検査ができます。尿容器は再配布していませんので、検査ができるまで大切に保管してください。\n令和6年度日程\n受付時間\n午後1時00分から1時15分\n午後1時20分から1時35分\n午後1時40分から1時55分\n午後2時00分から2時15分\n日程\n令和3年3月生まれのお子さま\n4月10日（水曜日）、4月17日（水曜日）\n令和3年4月生まれのお子さま\n5月8日（水曜日）、5月15日（水曜日）\n令和3年5月生まれのお子さま\n6月12日（水曜日）、6月19日（水曜日）\n令和3年6月生まれのお子さま\n7月10日（水曜日）、7月17日（水曜日）\n令和3年7月生まれのお子さま\n8月7日（水曜日）、8月21日（水曜日）\n令和3年8月生まれのお子さま\n9月11日（水曜日）、9月18日（水曜日）\n令和3年9月生まれのお子さま\n10月9日（水曜日）、10月16日（水曜日）\n令和3年10月生まれのお子さま\n11月13日（水曜日）、11月20日（水曜日）\n令和3年11月生まれのお子さま\n12月11日（水曜日）、12月18日（水曜日）\n令和3年12月生まれのお子さま\n令和7年1月8日（水曜日）、1月15日（水曜日）\n令和4年1月生まれのお子さま\n令和7年2月12日（水曜日）、2月19日（水曜日）\n令和4年2月生まれのお子さま\n令和7年3月5日（水曜日）、3月12日（水曜日）",
+      "target": {
+        "targetPersons": "満3歳を迎えた児童",
+        "lessThan": {
+          "targetAge": 4,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "満3歳を迎えた児童"
+      },
+      "support": {
+        "description": "身体測定、内科健診、歯科健診、視力検査、尿検査、個別相談\nその他：心理相談（希望者）",
+        "monetarySupport": null,
+        "materiallySupport": "身体測定、内科健診、歯科健診、視力検査、尿検査、個別相談\nその他：心理相談（希望者）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "健診時期：原則として、満3歳を迎えた月の翌月\n通知方法：満3歳を迎えた月の末日までに通知します。\n\n日程\n\n令和3年3月生まれのお子さま\n4月10日（水曜日）、4月17日（水曜日）\n令和3年4月生まれのお子さま\n5月8日（水曜日）、5月15日（水曜日）\n令和3年5月生まれのお子さま\n6月12日（水曜日）、6月19日（水曜日）\n令和3年6月生まれのお子さま\n7月10日（水曜日）、7月17日（水曜日）\n令和3年7月生まれのお子さま\n8月7日（水曜日）、8月21日（水曜日）\n令和3年8月生まれのお子さま\n9月11日（水曜日）、9月18日（水曜日）\n令和3年9月生まれのお子さま\n10月9日（水曜日）、10月16日（水曜日）\n令和3年10月生まれのお子さま\n11月13日（水曜日）、11月20日（水曜日）\n令和3年11月生まれのお子さま\n12月11日（水曜日）、12月18日（水曜日）\n令和3年12月生まれのお子さま\n令和7年1月8日（水曜日）、1月15日（水曜日）\n令和4年1月生まれのお子さま\n令和7年2月12日（水曜日）、2月19日（水曜日）\n令和4年2月生まれのお子さま\n令和7年3月5日（水曜日）、3月12日（水曜日）"
+      },
+      "implementationPlace": {
+        "implementationName": "保健福祉センター（あいぽっく）;https://www.city.akishima.lg.jp/map/010/050/020/20140816053706.html ",
+        "implementationAddress": "昭島市昭和町4-7-1"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "受付時間\n1. 午後1時00分から1時15分\n2. 午後1時20分から1時35分\n3. 午後1時40分から1時55分\n4. 午後2時00分から2時15分"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "通知方法：満3歳を迎えた月の末日までに通知します。\n\n3歳児健康診査の実施について\n\n連絡なく別の日や受付時間以外にお越しいただいた場合には、受診できませんのでご了承ください。\nお子さまや同居されているご家族のかたが発熱（微熱含む）や咳などで体調がすぐれない場合には、来所をお控えください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "持ち物\n3歳児健康診査アンケート\n目と耳のアンケート（健診日までに、必ず目と耳の検査を行ってください）\n母子健康手帳\n保険証\n尿（原則として、健診当日の朝のもの）\nその他：健診当日に尿がとれない場合、お子さまが4歳になる前日までに、あいぽっくにご持参いただくと検査ができます。尿容器は再配布していませんので、検査ができるまで大切に保管してください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s049/010/010/010/050/20210330112303.html",
+        "title": "【令和6年度】3歳児健康診査（内科・歯科）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "contactPhone": "042-543-7303",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+        "contactComment": "ファックス番号：042-544-7130",
+        "zipCode": "1960015",
+        "contactAddress": "昭島市昭和町4-7-1"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+1+UM52",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の乳幼児健診",
+        "shortName": "【令和6年度】乳幼児発達健康診査"
+      },
+      "summary": "運動や発達が気になる乳幼児を対象に、小児神経学の専門医師や作業療法士による健診、相談をおこなっています。",
+      "description": "運動や発達が気になる乳幼児を対象に、小児神経学の専門医師や作業療法士による健診、相談をおこなっています。\n\n医師による診察の様子\n\n実施場所\n保健福祉センター（あいぽっく）;https://www.city.akishima.lg.jp/map/010/050/020/20140816053706.html 昭島市昭和町4-7-1\n\n持ち物\n発達健診のお知らせ\n母子健康手帳\n利用方法\n予約制となります。ご希望されるかたは、お電話もしくは窓口でご相談ください。\n\n令和6年度日程\n実施時間\n午後1時30分から午後4時50分\n\n日程\n4月12日（金曜日）\n5月10日（金曜日）、17日（金曜日）\n6月7日（金曜日）\n7月12日（金曜日）\n8月2日（金曜日）、16日（金曜日）\n9月6日（金曜日）\n10月4日（金曜日）\n11月8日（金曜日）、15日（金曜日）\n12月6日（金曜日）\n令和7年1月10日（金曜日）\n令和7年2月7日（金曜日）、21日（金曜日）\n令和7年3月7日（金曜日）",
+      "target": {
+        "targetPersons": "運動や発達が気になる乳幼児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "運動や発達が気になる乳幼児を対象に、小児神経学の専門医師や作業療法士による健診、相談をおこなっています。",
+        "monetarySupport": null,
+        "materiallySupport": "運動や発達が気になる乳幼児を対象に、小児神経学の専門医師や作業療法士による健診、相談をおこなっています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "日程\n\n4月12日（金曜日）\n5月10日（金曜日）、17日（金曜日）\n6月7日（金曜日）\n7月12日（金曜日）\n8月2日（金曜日）、16日（金曜日）\n9月6日（金曜日）\n10月4日（金曜日）\n11月8日（金曜日）、15日（金曜日）\n12月6日（金曜日）\n令和7年1月10日（金曜日）\n令和7年2月7日（金曜日）、21日（金曜日）\n令和7年3月7日（金曜日）"
+      },
+      "implementationPlace": {
+        "implementationName": "保健福祉センター（あいぽっく）;https://www.city.akishima.lg.jp/map/010/050/020/20140816053706.html ",
+        "implementationAddress": "昭島市昭和町4-7-1"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "13:30",
+        "toHM": "16:50",
+        "condiutilizationConditionstions": "実施時間\n午後1時30分から午後4時50分"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "予約制となります。ご希望されるかたは、お電話もしくは窓口でご相談ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "持ち物\n発達健診のお知らせ\n母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s049/010/010/010/070/20140917144257.html",
+        "title": "【令和6年度】乳幼児発達健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "contactPhone": "042-543-7303",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+        "contactComment": "ファックス番号：042-544-7130",
+        "zipCode": "1960015",
+        "contactAddress": "昭島市昭和町4-7-1"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+1+UM53",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後ヘルパーの派遣",
+        "shortName": "育児支援ヘルパー"
+      },
+      "summary": "産前産後の体調不良などにより、家事や育児が困難なご家庭に、日常的な掃除・洗濯・食事の支度などの家事や、もく浴・おむつ交換・きょうだいのお世話などの育児を手伝うホームヘルパーを派遣します。",
+      "description": "母親の産前産後または保護者の育児不安や体調不良で家事や育児をするのが難しい時などに、ヘルパーを派遣して援助を行う事業です。\n\n育児支援ヘルパー利用に関するお知らせ\n新型コロナウイルスの感染拡大防止のため、当面の間、利用するお子さん及び、同居しているご家族について風邪症候群（発熱、頭痛、咳、鼻水等）がある場合は全てご利用できません。\nご理解とご協力をお願いいたします。\n\nQ．どういう家庭が利用できるの？\nA．次のいずれかの項目に当てはまるご家庭です。\n母子手帳交付日から出産後4ヶ月以内（多胎出産は1年以内）の家庭\n出産後間もない時期（おおむね1年程度）の保護者が育児不安や体調不良で家事育児ができない家庭\nその他、支援が必要と思われる家庭\n\nQ．利用できる回数は？\nA．産前産後の利用の場合は、1日1回4時間以内で1人10回（ただし多胎児は15回）までです。育児不安や体調不良等の利用は、1日1回4時間以内です。\n\nQ．利用できるサービス内容は？\nA．\n簡単な育児・家事援助（掃除・洗濯・買い物・沐浴の補助・食事の支度）\n健診等の付き添い（市内）\n簡単な育児相談\n\nQ利用料金は？\nA．1時間600円です（免除できる世帯もあります）。\n\nQ利用できる時間帯は？\nA．午前8時から午後6時までの間です（1時間単位）。\n注：年末年始のご利用はできませんのでご了承ください。\n\nQ．利用方法は？\nA．子ども家庭支援センターに、相談のうえ申請してください。\n産前産後で利用されるかたは、申請の際に母子手帳をご提示ください。\n利用前に子ども家庭支援センター職員が訪問させていただき、日程調整します。\nサービス利用中は必ず申請者が在宅してください。\n申請者及びご家族がインフルエンザ等の伝染病にかかっている場合は、ご利用いただけません。",
+      "target": {
+        "targetPersons": "次のいずれかの項目に当てはまるご家庭です。\n母子手帳交付日から出産後4ヶ月以内（多胎出産は1年以内）の家庭\n出産後間もない時期（おおむね1年程度）の保護者が育児不安や体調不良で家事育児ができない家庭\nその他、支援が必要と思われる家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "母親の産前産後または保護者の育児不安や体調不良で家事や育児をするのが難しい時などに、ヘルパーを派遣して援助を行う事業です。\n\nQ．利用できる回数は？\nA.産前産後の利用の場合は、1日1回4時間以内で1人10回（ただし多胎児は15回）までです。育児不安や体調不良等の利用は、1日1回4時間以内です。\n\nQ．利用できるサービス内容は？\nA.簡単な育児・家事援助（掃除・洗濯・買い物・沐浴の補助・食事の支度）\n健診等の付き添い（市内）\n簡単な育児相談",
+        "monetarySupport": null,
+        "materiallySupport": "母親の産前産後または保護者の育児不安や体調不良で家事や育児をするのが難しい時などに、ヘルパーを派遣して援助を行う事業です。\n\nQ．利用できる回数は？\nA.産前産後の利用の場合は、1日1回4時間以内で1人10回（ただし多胎児は15回）までです。育児不安や体調不良等の利用は、1日1回4時間以内です。\n\nQ．利用できるサービス内容は？\nA.簡単な育児・家事援助（掃除・洗濯・買い物・沐浴の補助・食事の支度）\n健診等の付き添い（市内）\n簡単な育児相談"
+      },
+      "cost": "600",
+      "costConditions": "1時間600円です（免除できる世帯もあります）。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:00",
+        "toHM": "18:00",
+        "condiutilizationConditionstions": "午前8時から午後6時までの間です（1時間単位）。\n1日1回4時間以内"
+      },
+      "specificDate": null,
+      "holiday": "年末年始のご利用はできませんのでご了承ください。",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "・子ども家庭支援センターに、相談のうえ申請してください。\n・産前産後で利用されるかたは、申請の際に母子手帳をご提示ください。\n・利用前に子ども家庭支援センター職員が訪問させていただき、日程調整します。\n・サービス利用中は必ず申請者が在宅してください。\n・申請者及びご家族がインフルエンザ等の伝染病にかかっている場合は、ご利用いただけません。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "子ども家庭支援センター",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s064/010/010/010/010/050/20140910153624.html",
+        "title": "育児支援ヘルパー"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 子ども家庭支援係（アキシマエンシス校舎棟１階）",
+        "contactPhone": "042-543-9046",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000068.html",
+        "contactComment": null,
+        "zipCode": "1960012",
+        "contactAddress": "昭島市つつじが丘3-3-15"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+1+UM785",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 子ども家庭支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2020-04-15",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（5歳児歯科健康診査）",
+        "shortName": "【令和6年度】5歳児歯科健康診査"
+      },
+      "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。5歳児歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+      "description": "お子さまが第1大臼歯の萌出や乳歯から永久歯に生えかわる時期を迎え、永久歯のむし歯を予防するために正しい知識が大切になります。\nむし歯の早期発見や口腔の健康づくりのために、5歳児歯科健康診査を受けましょう。\nまた、かかりつけの歯科医をもち、3か月から半年に一度を目安に定期的に健診を受けたり、フッ素塗布などの予防処置を受けることを心がけましょう。\n\n対象および定員\n対象：5歳児\n対象のお子さまへ個別に通知します。\n定員：40名\n注意：事前の申し込みが必要です。また、連絡なく別の日や受付時間以外にお越しいただいた場合には、受診ができません。\n\n内容\n歯科医師による歯の健診と相談\n歯科衛生士による個別の歯磨きの練習や歯磨きに関する相談など（希望者）\n場所：保健福祉センター（あいぽっく）;https://www.city.akishima.lg.jp/map/010/050/020/20140816053706.html\nその他：お子さまや同居されているご家族のかたが発熱（微熱含む）や咳などで体調がすぐれない場合には、来所をお控えください。\nhttps://www.city.akishima.lg.jp/s049/010/010/010/110/toothpaste-for-children-help-mother-child1.png\n\n持ち物\n1.5歳児歯科健康診査票\n2.母子健康手帳\n3.歯ブラシとコップ\n4.筆記用具\n\n令和6年度日程\n受付時間\n1.午後1時50分から2時10分\n2.午後2時10分から2時30分\n3.午後2時30分から2時50分\n\n日程\n5月23日（木曜日）\n対象：平成31年3月、4月生まれのお子さま\n申し込み受付：5月2日（木曜日）から5月21日（火曜日）まで\n\n7月25日（木曜日）\n対象：令和元年5月、6月生まれのお子さま\n申し込み受付：7月2日（火曜日）から7月23日（火曜日）まで\n\n9月26日（木曜日）\n対象：令和元年7月、8月生まれのお子さま\n申し込み受付：9月2日（月曜日）から9月24日（火曜日）まで\n\n11月28日（木曜日）\n対象：令和元年9月、10月生まれのお子さま\n申し込み受付：11月2日（土曜日）から11月26日（火曜日）まで\n\n令和7年1月30日（木曜日）\n対象：令和元年11月、12月生まれのお子さま\n申し込み受付：1月2日（木曜日）から1月28日（火曜日）まで\n\n令和7年3月6日（木曜日）\n対象：令和2年1月、2月生まれのお子さま\n申し込み受付：2月2日（日曜日）から3月4日（火曜日）まで\n\n申し込み方法\n申し込み受付期間中に、電子申請;https://logoform.jp/f/mN2iX（外部サイトにリンクします）で申し込みを受け付けます。\n下記二次元コードよりお申し込みください。\n定員になり次第終了させていただきますが、5歳児歯科健康診査受診のご希望のあるかたは、下記のお問合せ先まで、ご相談ください。\nキャンセルされる場合は、申請状況照会フォームより、受付番号を入力して早めに手続きをお願いいたします。\n〈申し込みフォーム二次元コード〉\n画像をクリックすると外部サイトにリンクします。\nhttps://www.city.akishima.lg.jp/s049/010/010/010/110/R6-5ydentalcheck.png;https://logoform.jp/f/mN2iX",
+      "target": {
+        "targetPersons": "5歳児\n対象のお子さまへ個別に通知します。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 5,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 5,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "5歳児"
+      },
+      "support": {
+        "description": "歯科医師による歯の健診と相談\n歯科衛生士による個別の歯磨きの練習や歯磨きに関する相談など（希望者）",
+        "monetarySupport": null,
+        "materiallySupport": "歯科医師による歯の健診と相談\n歯科衛生士による個別の歯磨きの練習や歯磨きに関する相談など（希望者）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "日程\n5月23日（木曜日）\n対象：平成31年3月、4月生まれのお子さま\n申し込み受付：5月2日（木曜日）から5月21日（火曜日）まで\n\n7月25日（木曜日）\n対象：令和元年5月、6月生まれのお子さま\n申し込み受付：7月2日（火曜日）から7月23日（火曜日）まで\n\n9月26日（木曜日）\n対象：令和元年7月、8月生まれのお子さま\n申し込み受付：9月2日（月曜日）から9月24日（火曜日）まで\n\n11月28日（木曜日）\n対象：令和元年9月、10月生まれのお子さま\n申し込み受付：11月2日（土曜日）から11月26日（火曜日）まで\n\n令和7年1月30日（木曜日）\n対象：令和元年11月、12月生まれのお子さま\n申し込み受付：1月2日（木曜日）から1月28日（火曜日）まで\n\n令和7年3月6日（木曜日）\n対象：令和2年1月、2月生まれのお子さま\n申し込み受付：2月2日（日曜日）から3月4日（火曜日）まで"
+      },
+      "implementationPlace": {
+        "implementationName": "保健福祉センター（あいぽっく）",
+        "implementationAddress": "昭和町4-7-1"
+      },
+      "capacity": "定員：40名\n注意：事前の申し込みが必要です。また、連絡なく別の日や受付時間以外にお越しいただいた場合には、受診ができません。",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申し込み受付期間中に、電子申請;https://logoform.jp/f/mN2iX（外部サイトにリンクします）で申し込みを受け付けます。\n下記二次元コードよりお申し込みください。\n定員になり次第終了させていただきますが、5歳児歯科健康診査受診のご希望のあるかたは、下記のお問合せ先まで、ご相談ください。\nキャンセルされる場合は、申請状況照会フォームより、受付番号を入力して早めに手続きをお願いいたします。\n〈申し込みフォーム二次元コード〉\n画像をクリックすると外部サイトにリンクします。\nhttps://www.city.akishima.lg.jp/s049/010/010/010/110/R6-5ydentalcheck.png;https://logoform.jp/f/mN2iX",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "令和6年度日程\n受付時間\n1.午後1時50分から2時10分\n2.午後2時10分から2時30分\n3.午後2時30分から2時50分\n\n日程\n5月23日（木曜日）\n対象：平成31年3月、4月生まれのお子さま\n申し込み受付：5月2日（木曜日）から5月21日（火曜日）まで\n\n7月25日（木曜日）\n対象：令和元年5月、6月生まれのお子さま\n申し込み受付：7月2日（火曜日）から7月23日（火曜日）まで\n\n9月26日（木曜日）\n対象：令和元年7月、8月生まれのお子さま\n申し込み受付：9月2日（月曜日）から9月24日（火曜日）まで\n\n11月28日（木曜日）\n対象：令和元年9月、10月生まれのお子さま\n申し込み受付：11月2日（土曜日）から11月26日（火曜日）まで\n\n令和7年1月30日（木曜日）\n対象：令和元年11月、12月生まれのお子さま\n申し込み受付：1月2日（木曜日）から1月28日（火曜日）まで\n\n令和7年3月6日（木曜日）\n対象：令和2年1月、2月生まれのお子さま\n申し込み受付：2月2日（日曜日）から3月4日（火曜日）まで"
+      },
+      "electronicSubmission": true,
+      "belongings": "1.5歳児歯科健康診査票\n2.母子健康手帳\n3.歯ブラシとコップ\n4.筆記用具",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s049/010/010/010/110/20140917110406.html",
+        "title": "【令和6年度】5歳児歯科健康診査"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/f/mN2iX",
+          "title": "【令和6年度】5歳児歯科健康診査"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "contactPhone": "042-543-7303",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+        "contactComment": null,
+        "zipCode": "1960015",
+        "contactAddress": "昭島市昭和町4-7-1"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+1+UM792",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "離乳食教室",
+        "shortName": "離乳食講座"
+      },
+      "summary": "生後4か月から6か月のお子さんとその保護者を対象に、離乳食を始める時のポイントやすすめ方についての講座を開催しています。離乳食のいろいろな悩みに栄養士がお答えします。また、離乳食の作り方の実演や試食もあります。",
+      "description": "離乳食講座\n離乳食の進めかたについて、作り方などのデモンストレーションを交えながら説明をさせていただきます。また、試食をすることで食感や味付けを学んでいただきます。\nぜひお申込みください。\n\n乳幼児の食事について個別に相談いただける「乳幼児食事個別相談」も実施しております。\n詳しくは「乳幼児食事個別相談」;https://www.city.akishima.lg.jp/s049/010/010/020/110/20200529100208.htmlのページをご確認ください。\n\n内容\n4か月から6か月児対象コース：講義（離乳食の進めかた）及び「つぶし粥」等の作りかたのデモンストレーション、離乳食見本の展示、試食\n\n4か月から6か月児対象\nレシピ 4か月から6か月児（PDF:107KB);https://www.city.akishima.lg.jp/s049/rinyuuresipi.pdf\nhttps://www.city.akishima.lg.jp/s049/rinyuushoki.JPG\n\n講座のテキスト\n4か月から6か月児対象講座テキスト（PDF:916KB);https://www.city.akishima.lg.jp/s049/010/010/020/110/zenki.pdf\n\n会場\n保健福祉センター（あいぽっく）;https://www.city.akishima.lg.jp/s048/010/050/010/020/20140908095645.html\n昭島市昭和町4-7-1\n\n持ち物\nバスタオル、筆記用具\n\n令和6年度日程\n4か月から6か月児対象の講座実施日・申し込み受付期間\n時間\n受付は午後1時\n講座時間は午後1時15分から午後2時15分 \n\n|実施日|申し込み受付期間|\n|:----|:----|\n|4月24日（水曜日）|4月2日（火曜日）から23日（火曜日）まで|\n|5月28日（火曜日）|5月2日（木曜日）から26日（日曜日）まで|\n|6月25日（火曜日）|6月2日（日曜日）から23日（日曜日）まで|\n|7月23日（火曜日）|7月2日（火曜日）から21日（日曜日）まで|\n|8月27日（火曜日）|8月2日（金曜日）から25日（日曜日）まで|\n|9月19日（木曜日）|9月2日（月曜日）から17日（火曜日）まで|\n|10月22日（火曜日）|10月2日（水曜日）から24日（木曜日）まで|\n|11月26日（火曜日）|11月2日（土曜日）から24日（日曜日）まで|\n|12月24日（火曜日）|12月2日（月曜日）から22日（日曜日）まで|\n|令和7年1月28日（火曜日）|令和7年1月6日（月曜日）から26日（日曜日）まで|\n|令和7年2月26日（水曜日）|令和7年2月2日（日曜日）から24日（月曜日）まで|\n|令和7年3月18日（火曜日）|令和7年3月2日（日曜日）から16日（日曜日）まで|\n対象\n市内在住の対象月齢児の保護者のかた\n4か月から6か月児対象の回（定員：20人）\n\n申し込み方法\n申し込み受付期間中に、電子申請4～6か月児対象;https://logoform.jp/form/Zue8/429597(外部サイトにリンクします）で申し込みを受け付けます。下記二次元コードよりお申込みください。\nキャンセルされる場合は申請状況照会フォームより、受付番号を入力して早めに手続きをお願いいたします。\n定員に達し次第、このフォームでの予約入力が出来なくなりますが、離乳食講座受講のご希望がある方は、「お問い合わせ先」までご相談ください。\n\n〈申し込みフォーム二次元コード〉\n画像をクリックすると外部サイトにリンクします。\n4か月から6か月児対象\nhttps://www.city.akishima.lg.jp/s049/010/010/020/110/rinyuusyokuzenki.png;https://logoform.jp/form/Zue8/429597",
+      "target": {
+        "targetPersons": "市内在住の対象月齢児の保護者のかた\n4か月から6か月児対象の回（定員：20人）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "4か月から6か月児"
+      },
+      "support": {
+        "description": "講義（離乳食の進めかた）及び「つぶし粥」等の作りかたのデモンストレーション、離乳食見本の展示、試食",
+        "monetarySupport": null,
+        "materiallySupport": "講義（離乳食の進めかた）及び「つぶし粥」等の作りかたのデモンストレーション、離乳食見本の展示、試食"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "13:15",
+        "toYMD": null,
+        "toHM": "14:15",
+        "conditions": "令和6年度日程\n時間\n受付は午後1時\n講座時間は午後1時15分から午後2時15分 \n\n実施日\t申し込み受付期間\n4月24日（水曜日）\t4月2日（火曜日）から23日（火曜日）まで\n5月28日（火曜日）\t5月2日（木曜日）から26日（日曜日）まで\n6月25日（火曜日）\t6月2日（日曜日）から23日（日曜日）まで\n7月23日（火曜日）\t7月2日（火曜日）から21日（日曜日）まで\n8月27日（火曜日）\t8月2日（金曜日）から25日（日曜日）まで\n9月19日（木曜日）\t9月2日（月曜日）から17日（火曜日）まで\n10月22日（火曜日）\t10月2日（水曜日）から24日（木曜日）まで\n11月26日（火曜日）\t11月2日（土曜日）から24日（日曜日）まで\n12月24日（火曜日）\t12月2日（月曜日）から22日（日曜日）まで\n令和7年1月28日（火曜日）\t令和7年1月6日（月曜日）から26日（日曜日）まで\n令和7年2月26日（水曜日）\t令和7年2月2日（日曜日）から24日（月曜日）まで\n令和7年3月18日（火曜日）\t令和7年3月2日（日曜日）から16日（日曜日）まで"
+      },
+      "implementationPlace": {
+        "implementationName": "保健福祉センター（あいぽっく）",
+        "implementationAddress": "昭島市昭和町4-7-1"
+      },
+      "capacity": "20人",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申し込み方法\n申し込み受付期間中に、電子申請4～6か月児対象;https://logoform.jp/form/Zue8/429597(外部サイトにリンクします）で申し込みを受け付けます。下記二次元コードよりお申込みください。\nキャンセルされる場合は申請状況照会フォームより、受付番号を入力して早めに手続きをお願いいたします。\n定員に達し次第、このフォームでの予約入力が出来なくなりますが、離乳食講座受講のご希望がある方は、「お問い合わせ先」までご相談ください。\n\n〈申し込みフォーム二次元コード〉\n画像をクリックすると外部サイトにリンクします。\n4か月から6か月児対象\nhttps://www.city.akishima.lg.jp/s049/010/010/020/110/rinyuusyokuzenki.png;https://logoform.jp/form/Zue8/429597",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "実施日\t申し込み受付期間\n4月24日（水曜日）\t4月2日（火曜日）から23日（火曜日）まで\n5月28日（火曜日）\t5月2日（木曜日）から26日（日曜日）まで\n6月25日（火曜日）\t6月2日（日曜日）から23日（日曜日）まで\n7月23日（火曜日）\t7月2日（火曜日）から21日（日曜日）まで\n8月27日（火曜日）\t8月2日（金曜日）から25日（日曜日）まで\n9月19日（木曜日）\t9月2日（月曜日）から17日（火曜日）まで\n10月22日（火曜日）\t10月2日（水曜日）から24日（木曜日）まで\n11月26日（火曜日）\t11月2日（土曜日）から24日（日曜日）まで\n12月24日（火曜日）\t12月2日（月曜日）から22日（日曜日）まで\n令和7年1月28日（火曜日）\t令和7年1月6日（月曜日）から26日（日曜日）まで\n令和7年2月26日（水曜日）\t令和7年2月2日（日曜日）から24日（月曜日）まで\n令和7年3月18日（火曜日）\t令和7年3月2日（日曜日）から16日（日曜日）まで"
+      },
+      "electronicSubmission": true,
+      "belongings": "バスタオル、筆記用具",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.akishima.lg.jp/s049/010/010/020/110/20200529100208.html",
+          "title": "「乳幼児食事個別相談」"
+        },
+        {
+          "uri": "https://www.city.akishima.lg.jp/s049/rinyuuresipi.pdf",
+          "title": "レシピ 4か月から6か月児（PDF:107KB)"
+        },
+        {
+          "uri": "https://www.city.akishima.lg.jp/s049/010/010/020/110/zenki.pdf",
+          "title": "4か月から6か月児対象講座テキスト（PDF:916KB)"
+        },
+        {
+          "uri": "https://www.city.akishima.lg.jp/s048/010/050/010/020/20140908095645.html",
+          "title": "保健福祉センター（あいぽっく）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s049/010/010/020/110/20140926125927.html",
+        "title": "離乳食講座"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/Zue8/429597",
+          "title": "離乳食講座申し込み（４～６か月児対象）"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "contactPhone": "042-543-7303",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+        "contactComment": null,
+        "zipCode": "1960015",
+        "contactAddress": "昭島市昭和町4-7-1"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+1+UM798",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-29",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法、食育基本法",
+        "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）、法第5条（子どもの食育における保護者、教育関係者等の役割）、21条 （地域における食生活の改善のための取組の推進）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "こども家庭センター",
+        "shortName": "子ども家庭支援センター"
+      },
+      "summary": "昭島市の【子ども家庭支援センター】では、子育て家庭に対する相談等への対応、こどもの養育に関する支援などを行っています。",
+      "description": "子ども家庭支援センター\n0歳から18歳未満の子育てに関する相談に応じています。\n自分自身のこと、子育てのこと、家族のこと、健康、発達のことなど、相談員が一緒に考え総合的に対応し、今後の方向性を探します。困ったなと感じたとき、お気軽にご相談ください。\n所在地はページ下部をご覧ください。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.akishima.lg.jp/s064/010/010/010/110/20171023103149.html",
+          "title": "児童虐待防止講演会\nあきしま就学以降児童支援制度案内『きらり＋plus（プラス）』\nこどもそうだんまどぐちあんない"
+        },
+        {
+          "uri": "https://www.city.akishima.lg.jp/s064/010/010/010/010/020/20180807173450.html",
+          "title": "ショートステイ"
+        },
+        {
+          "uri": "https://www.city.akishima.lg.jp/s064/010/010/010/010/030/20140910101254.html",
+          "title": "育児講座"
+        },
+        {
+          "uri": "https://www.city.akishima.lg.jp/s064/010/010/010/100/youikutaikennhappyoukai.html",
+          "title": "子育てグループネットワーク連絡会"
+        },
+        {
+          "uri": "https://www.city.akishima.lg.jp/li/020/010/180/010/index.html",
+          "title": "児童虐待相談"
+        },
+        {
+          "uri": "https://www.city.akishima.lg.jp/li/020/010/200/010/index.html",
+          "title": "育児支援ヘルパー"
+        },
+        {
+          "uri": "https://www.city.akishima.lg.jp/s064/010/010/010/130/20230531160937.html",
+          "title": "養育家庭体験発表会"
+        },
+        {
+          "uri": "https://www.city.akishima.lg.jp/s064/010/010/010/010/100/20140910104352.html",
+          "title": "子育て相談"
+        },
+        {
+          "uri": "https://www.city.akishima.lg.jp/s064/010/010/010/010/050/20140910153624.html",
+          "title": "養育家庭になってみませんか？"
+        },
+        {
+          "uri": "https://www.city.akishima.lg.jp/s064/010/010/010/010/020/20140910100154.html",
+          "title": "所在地（施設マップ）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/li/020/010/180/",
+        "title": "子ども家庭支援センター"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 子ども家庭支援係",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+1+UM799",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 子ども家庭支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2025/02/14",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第10条の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "昭島市の子育てに関する相談",
+        "shortName": "1歳6か月児相談"
+      },
+      "summary": "お子さんは、1歳6か月ごろになると言葉が少しずつ出はじめ、簡単なやりとりができるようになります。\nまた、色々なことに興味をもち、マネもできるようになります。\nお子さんの日々の成長が嬉しい反面、くせやしつけなどのことで悩んだり、戸惑うことはありませんか。\n1歳6か月児歯科健康診査対象者で相談を希望されるかたに、保健師や管理栄養士、心理相談員などが、子育ての相談や必要な情報提供をさせていただきます。",
+      "description": "概要\n\nお子さんは、1歳6か月ごろになると言葉が少しずつ出はじめ、簡単なやりとりができるようになります。\nまた、色々なことに興味をもち、マネもできるようになります。\nお子さんの日々の成長が嬉しい反面、くせやしつけなどのことで悩んだり、戸惑うことはありませんか。\n1歳6か月児歯科健康診査対象者で相談を希望されるかたに、保健師や管理栄養士、心理相談員などが、子育ての相談や必要な情報提供をさせていただきます。\n\n会場\n\n保健福祉センター（あいぽっく）\nこの相談は、1歳6か月児歯科健康診査の対象の方に行っています。\nそれ以外での相談は、あいぽっくに直接ご相談ください。",
+      "target": {
+        "targetPersons": "この相談は、1歳6か月児歯科健康診査の対象の方に行っています。",
+        "lessThan": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 7
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "この相談は、1歳6か月児歯科健康診査の対象の方に行っています。\nそれ以外での相談は、あいぽっくに直接ご相談ください。"
+      },
+      "support": {
+        "description": "お子さんは、1歳6か月ごろになると言葉が少しずつ出はじめ、簡単なやりとりができるようになります。\nまた、色々なことに興味をもち、マネもできるようになります。\nお子さんの日々の成長が嬉しい反面、くせやしつけなどのことで悩んだり、戸惑うことはありませんか。\n1歳6か月児歯科健康診査対象者で相談を希望されるかたに、保健師や管理栄養士、心理相談員などが、子育ての相談や必要な情報提供をさせていただきます。",
+        "monetarySupport": null,
+        "materiallySupport": "1歳6か月児歯科健康診査対象者で相談を希望されるかたに、保健師や管理栄養士、心理相談員などが、子育ての相談や必要な情報提供をさせていただきます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "保健福祉センター（あいぽっく）;https://www.city.akishima.lg.jp/map/010/050/020/20140816053706.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s049/010/010/010/20180126103317.html",
+        "title": "1歳6か月児相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "contactPhone": "042-543-7303",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+        "contactComment": "ファックス番号：042-544-7130",
+        "zipCode": "1960015",
+        "contactAddress": "昭島市昭和町4-7-1"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+2+UM119",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-09-16",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+        "shortName": "妊婦ゆりかごあきしまオンライン面談"
+      },
+      "summary": "安心して出産をむかえていただくため、妊婦のかたを対象に、保健師または助産師が「ゆりかご・あきしま面談」を行っています。面談では、妊娠中の過ごしかたや出産や育児の準備、妊娠中や産後の子育てサービス等の情報提供、こころやからだの相談を行っております。面談を行った妊婦のかたには、ゆりかご応援グッズをプレゼントしています。",
+      "description": "安心して出産をむかえていただくため、妊婦のかたを対象に、保健師または助産師が「ゆりかご・あきしま面談」を行っています。面談では、妊娠中の過ごしかたや出産や育児の準備、妊娠中や産後の子育てサービス等の情報提供、こころやからだの相談を行っております。面談を行った妊婦のかたには、ゆりかご応援グッズをプレゼントしています。\n\n切迫早産等で医師から安静を指示されている妊婦のかたや里帰り中で来所が難しい妊婦のかたについては、専用アプリを使って、オンラインで面談を行うことができます（事前予約制）。\nオンライン面談を希望される場合、「あきしま子育てアプリ」のダウンロードが必要です。\n\n対象者\nすでに「母子健康手帳の交付」を受けている妊婦で、以下のいずれかに該当する妊婦\n1．医師から安静を指示されている\n2．対面での面談に不安がある\n3．里帰り出産のため里帰り先に滞在している\n\n面談時間\n30分程度\n\n必要なもの\nパソコン（マイク・スピーカー付き）、タブレット、スマートフォンのいずれか\nタブレットやスマートフォンの対応OSは、iOS13以上/Android6.0以上です。\n対応プラウザは、Chrome（最新版）/Firefox（最新版）/Safari（最新版）です。Internet Explorerは対応していません。\n\nメールアドレス\n母子健康手帳\n妊娠届時または転入時に、母子保健係からお渡ししている資料があればご用意ください。\n\n予約方法\nonnrainntezyunn\n\n事前に、母子保健係へオンライン面談の仮予約の電話をしてください。職員が「予約番号」と「面談日時」をお伝えします。希望日に予約を承ることができない場合があります。\n\n1．「あきしま子育てアプリ」を起動し、「地域の子育て情報」画面を開きます。\n2．「オンライン相談確定メール送信」バナーをクリックします。\n3．画面内のメール送信ボタンをクリックします。メールの画面が立ち上がるので、「予約番号」「氏名」「面談日時」を入力し、送信します。 件名や宛先は変更しないでください。メールは母子保健係へ送信されます。\n4．メール送信後、母子保健係から返信メールが届きます。メール内に、オンライン面談用URLが記載されていますので、URLは当日まで保管してください。メールが届かない場合は、ご連絡ください。年末年始や休日で、返信が2日以内にできない場合があります。ご了承ください。\n\n参加方法\n面談当日、オンライン面談用URLにアクセスするとオンライン面談が始まります。\n\nその他\n通信費は利用者負担となります。\nWi-Fiに接続するなど安定したネットワーク環境で行うことをお勧めします。\n面談時の録画や録音、撮影はお断りしています。\n第三者にオンライン面談用URLを公表しないでください。\nオンライン面談終了後に、ゆりかご応援グッズをお渡ししています。\n\nあきしま子育てアプリの登録について\nアプリ\n次の二次元コードを読み込むか、App StoreまたはGoogle Playで「母子モ」と検索してください。\n「母子モ」でダウンロード後、プロフィール登録でお住まいの地域の郵便番号を入力して、登録が完了します。\n昭島子育てアプリ　二次元コード\n\nWEBブラウザ\n「母子モ」の地域子育て情報をみるから「昭島市」バナーへアクセスしてください。\n\n関連リンク\n母子手帳アプリ「母子モ」への外部リンク;https://www.mchh.jp/login?lgcode=13207 （外部サイトにリンクします）\n（外部サイトにリンクします）",
+      "target": {
+        "targetPersons": "対象者\nすでに「母子健康手帳の交付」を受けている妊婦で、以下のいずれかに該当する妊婦\n1．医師から安静を指示されている\n2．対面での面談に不安がある\n3．里帰り出産のため里帰り先に滞在している",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "安心して出産をむかえていただくため、妊婦のかたを対象に、保健師または助産師が「ゆりかご・あきしま面談」を行っています。面談では、妊娠中の過ごし方や出産や育児の準備、妊娠中や産後の子育てサービス等の情報提供、こころやからだの相談を行っております。面談を行った妊婦の方には、ゆりかご応援グッズをプレゼントしています。\n\n切迫早産等で医師から安静を指示されている妊婦の方や里帰り中で来所が難しい妊婦の方については、専用アプリを使って、オンラインで面談を行うことができます（事前予約制）。\nオンライン面談を希望される場合、「あきしま子育てアプリ;https://www.city.akishima.lg.jp/s049/020/010/020/20190627123908.html」のダウンロードが必要です。",
+        "monetarySupport": null,
+        "materiallySupport": "安心して出産をむかえていただくため、妊婦のかたを対象に、保健師または助産師が「ゆりかご・あきしま面談」を行っています。面談では、妊娠中の過ごし方や出産や育児の準備、妊娠中や産後の子育てサービス等の情報提供、こころやからだの相談を行っております。面談を行った妊婦の方には、ゆりかご応援グッズをプレゼントしています。\n\n切迫早産等で医師から安静を指示されている妊婦の方や里帰り中で来所が難しい妊婦の方については、専用アプリを使って、オンラインで面談を行うことができます（事前予約制）。\nオンライン面談を希望される場合、「あきしま子育てアプリ;https://www.city.akishima.lg.jp/s049/020/010/020/20190627123908.html」のダウンロードが必要です。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "面談時間\n30分程度"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "参加方法\n面談当日、オンライン面談用URLにアクセスするとオンライン面談が始まります。\n\nその他\n通信費は利用者負担となります。\nWi-Fiに接続するなど安定したネットワーク環境で行うことをお勧めします。\n面談時の録画や録音、撮影はお断りしています。\n第三者にオンライン面談用URLを公表しないでください。\nオンライン面談終了後に、ゆりかご応援グッズをお渡ししています。",
+      "procedurePersons": null,
+      "procedureMethod": "予約方法\nonnrainntezyunn;https://www.city.akishima.lg.jp/s049/onnraintezyunn.jpg\n事前に、子育て世代包括支援センター係へオンライン面談の仮予約の電話をしてください。職員が「予約番号」と「面談日時」をお伝えします。希望日に予約を承ることができない場合があります。\n\n1．「あきしま子育てアプリ」を起動し、「地域の子育て情報」画面を開きます。\n2．「オンライン相談確定メール送信」バナーをクリックします。\n3．画面内のメール送信ボタンをクリックします。メールの画面が立ち上がるので、「予約番号」「氏名」「面談日時」を入力し、送信します。 件名や宛先は変更しないでください。メールは子育て世代包括支援センター係へ送信されます。\n4．メール送信後、子育て世代包括支援センター係から返信メールが届きます。メール内に、オンライン面談用URLが記載されていますので、URLは当日まで保管してください。メールが届かない場合は、ご連絡ください。年末年始や休日で、返信が2日以内にできない場合があります。ご了承ください。\n\n参加方法\n面談当日、オンライン面談用URLにアクセスするとオンライン面談が始まります。\n\nその他\n通信費は利用者負担となります。\nWi-Fiに接続するなど安定したネットワーク環境で行うことをお勧めします。\n面談時の録画や録音、撮影はお断りしています。\n第三者にオンライン面談用URLを公表しないでください。\nオンライン面談終了後に、ゆりかご応援グッズをお渡ししています。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "必要なもの\nパソコン（マイク・スピーカー付き）、タブレット、スマートフォンのいずれか\nタブレットやスマートフォンの対応OSは、iOS13以上/Android6.0以上です。\n対応プラウザは、Chrome（最新版）/Firefox（最新版）/Safari（最新版）です。Internet Explorerは対応していません。\n\nメールアドレス\n母子健康手帳\n妊娠届時または転入時に、母子保健係からお渡ししている資料があればご用意ください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.mchh.jp/login?lgcode=13207",
+          "title": "あきしま子育てアプリ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s049/020/010/010/20190627123908.html",
+        "title": "妊婦ゆりかごあきしまオンライン面談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "contactPhone": "042-543-7303",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+        "contactComment": "ファックス番号：042-544-7130",
+        "zipCode": "1960015",
+        "contactAddress": "昭島市昭和町4-7-1"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+2+UM34",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-15",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "9から10か月児健康診査"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として乳幼児健康診査9か月から10か月児を実施しています。",
+      "description": "3から4か月児健康診査受診時に、受診票を発行します。\n\n赤ちゃんが健やかに育つためには、定期的な健康診査が必要です。\n6から7か月児および9から10か月児は、東京都内の委託契約医療機関において、自己負担なく健康診査を受けられます。\nやむを得ず、3から4か月児健康診査を受診されなかったかたは、お問い合わせください。\n\n3から4か月児健診受診時に、受診票をお渡しします。\n\n健康診査を受けられる期間\n6から7か月児健康診査：生後6から7か月の期間\n9から10か月児健康診査：生後9から10か月の期間\n実施医療機関\n健診実施曜日や時間などは、各医療機関に直接お問い合わせください。\n\n市内の委託医療機関\n大田医院;https://www.city.akishima.lg.jp/map/020/010/120/20140823220425.html\n電話：042-541-0311\nしょうわの森こどもクリニック;https://www.city.akishima.lg.jp/map/020/030/090/20140825120648.html\n電話：042-519-1237\nつつじが丘診療所;https://www.city.akishima.lg.jp/map/020/010/160/20140823214931.html\n電話：042-545-4737\n栄田医院;https://www.city.akishima.lg.jp/map/020/010/060/20140825223313.html\n042-541-0218\n富士診療所;https://www.city.akishima.lg.jp/map/020/010/090/20140823222646.html\n042-541-2263\n石原レディースクリニック;https://www.city.akishima.lg.jp/map/020/080/030/20140825154821.html\n電話：042-545-9022\n太陽こども病院;https://www.city.akishima.lg.jp/map/020/030/120/20140825115642.html\n電話：042-544-7511\nまことクリニック;https://www.city.akishima.lg.jp/map/020/010/230/20140823212624.html\n電話：042-546-2800\n松原町クリニック;https://www.city.akishima.lg.jp/map/020/010/260/20140823210740.html\n電話：042-546-8610\n田中団地診療所;https://www.city.akishima.lg.jp/map/020/010/330/20140823195354.html\n電話：042-545-2514\n東京都内の委託医療機関（上記以外）\n受診予定の医療機関に直接お問い合わせください。\n\nその他\n東京都内の他の区市町村に転居された場合、この受診票はそのまま使用できます。\n他道府県に転居された場合、この受診票を使用することはできません。転居先の区市町村の担当窓口にお問い合わせください。\n都外から転入されたなど、受診票がないかたは、お問合わせください。",
+      "target": {
+        "targetPersons": "赤ちゃんが健やかに育つためには、定期的な健康診査が必要です。\n6から7か月児および9から10か月児は、東京都内の委託契約医療機関において、自己負担なく健康診査を受けられます。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 10
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 9
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後9から10か月の期間"
+      },
+      "support": {
+        "description": "6から7か月児および9から10か月児は、東京都内の委託契約医療機関において、自己負担なく健康診査を受けられます。",
+        "monetarySupport": null,
+        "materiallySupport": "6から7か月児および9から10か月児は、東京都内の委託契約医療機関において、自己負担なく健康診査を受けられます。"
+      },
+      "cost": null,
+      "costConditions": "自己負担なく健康診査を受けられます。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "健康診査を受けられる期間\n9から10か月児健康診査：生後9から10か月の期間"
+      },
+      "implementationPlace": {
+        "implementationName": "実施医療機関\n健診実施曜日や時間などは、各医療機関に直接お問い合わせください。\n\n市内の委託医療機関\n大田医院;https://www.city.akishima.lg.jp/map/020/010/120/20140823220425.html\n電話：042-541-0311\nしょうわの森こどもクリニック;https://www.city.akishima.lg.jp/map/020/030/090/20140825120648.html\n電話：042-519-1237\nつつじが丘診療所;https://www.city.akishima.lg.jp/map/020/010/160/20140823214931.html\n電話：042-545-4737\n栄田医院;https://www.city.akishima.lg.jp/map/020/010/060/20140825223313.html\n042-541-0218\n富士診療所;https://www.city.akishima.lg.jp/map/020/010/090/20140823222646.html\n042-541-2263\n石原レディースクリニック;https://www.city.akishima.lg.jp/map/020/080/030/20140825154821.html\n電話：042-545-9022\n太陽こども病院;https://www.city.akishima.lg.jp/map/020/030/120/20140825115642.html\n電話：042-544-7511\nまことクリニック;https://www.city.akishima.lg.jp/map/020/010/230/20140823212624.html\n電話：042-546-2800\n松原町クリニック;https://www.city.akishima.lg.jp/map/020/010/260/20140823210740.html\n電話：042-546-8610\n田中団地診療所;https://www.city.akishima.lg.jp/map/020/010/330/20140823195354.html\n電話：042-545-2514\n東京都内の委託医療機関（上記以外）\n受診予定の医療機関に直接お問い合わせください。",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "健診実施曜日や時間などは、各医療機関に直接お問い合わせください。"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "3から4か月児健康診査受診時に、受診票を発行します。\n\n赤ちゃんが健やかに育つためには、定期的な健康診査が必要です。\n6から7か月児および9から10か月児は、東京都内の委託契約医療機関において、自己負担なく健康診査を受けられます。\nやむを得ず、3から4か月児健康診査を受診されなかったかたは、お問い合わせください。\n\nその他\n\n東京都内の他の区市町村に転居された場合、この受診票はそのまま使用できます。\n他道府県に転居された場合、この受診票を使用することはできません。転居先の区市町村の担当窓口にお問い合わせください。\n都外から転入されたなど、受診票がないかたは、お問合わせください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "3から4か月児健康診査受診時に、受診票を発行します。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s049/010/010/010/030/20140917162223.html",
+        "title": "「6から7か月児健康診査」および「9から10か月児健康診査」"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "contactPhone": "042-543-7303",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+        "contactComment": "ファックス番号：042-544-7130",
+        "zipCode": "1960015",
+        "contactAddress": "昭島市昭和町4-7-1"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+2+UM50",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "伴走型相談支援",
+        "shortName": "妊婦8か月面談"
+      },
+      "summary": "すべての妊婦さんと子育て家庭が安心して出産・子育てができるように、妊娠から出産・子育てまでの一貫した「伴走型相談支援」を実施しています。",
+      "description": "伴走型相談支援\n妊産婦のかたが抱える様々な不安を解消するため、妊娠届出時や妊娠8か月時、産後のこんにちは赤ちゃん訪問にて保健師や助産師が面談を行うほか、随時、相談支援を行います。\n\n妊婦8か月面談\n妊娠8か月を迎える全ての妊婦さんを対象にアンケートを送付します。アンケートに記載のQRコードから回答してください。QRコードからの回答が難しい場合、郵送での返送も可能です。その場合は切手と封筒のご準備をお願いいたします。アンケートにご回答いただいたかたのうち、希望者には保健師や助産師などの専門職による面談を実施します。\n（QRコードは株式会社デンソーウェーブの登録商標です。）",
+      "target": {
+        "targetPersons": "妊産婦のかた",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊婦8か月面談\n妊娠8か月を迎える全ての妊婦さんを対象にアンケートを送付します。アンケートに記載のQRコードから回答してください。QRコードからの回答が難しい場合、郵送での返送も可能です。その場合は切手と封筒のご準備をお願いいたします。アンケートにご回答いただいたかたのうち、希望者には保健師や助産師などの専門職による面談を実施します。\n（QRコードは株式会社デンソーウェーブの登録商標です。）",
+        "monetarySupport": null,
+        "materiallySupport": "妊婦8か月面談\n妊娠8か月を迎える全ての妊婦さんを対象にアンケートを送付します。アンケートに記載のQRコードから回答してください。QRコードからの回答が難しい場合、郵送での返送も可能です。その場合は切手と封筒のご準備をお願いいたします。アンケートにご回答いただいたかたのうち、希望者には保健師や助産師などの専門職による面談を実施します。\n（QRコードは株式会社デンソーウェーブの登録商標です。）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "妊婦8か月面談\n妊娠8か月を迎える全ての妊婦さんを対象にアンケートを送付します。",
+      "procedurePersons": null,
+      "procedureMethod": "妊婦8か月面談\n妊娠8か月を迎える全ての妊婦さんを対象にアンケートを送付します。アンケートに記載のQRコードから回答してください。QRコードからの回答が難しい場合、郵送での返送も可能です。その場合は切手と封筒のご準備をお願いいたします。\n（QRコードは株式会社デンソーウェーブの登録商標です。）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s049/020/010/060/20200925151717.html",
+        "title": "あきしま出産・子育て応援事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "contactPhone": "042-543-7303",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+        "contactComment": null,
+        "zipCode": "1960015",
+        "contactAddress": "昭島市昭和町4-7-1"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+2+UM5011",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-09-28",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "1歳6か月児健康診査",
+        "shortName": "【令和6年度】1歳6か月児歯科健康診査"
+      },
+      "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。昭島市では1歳6か月児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "乳歯のむし歯には、日常生活のありかたが大きく影響します。\n1歳6か月頃になると、一般的に第1乳臼歯が生えてきて、上下のかみ合わせができ始め、特にむし歯への注意が必要な時期です。\n口腔の健康づくりのために、歯科健診を受けましょう。\n\n健診時期：原則として満1歳6か月から1歳8か月の間（やむを得ず受けられないかたは、2歳未満までご利用できます）\n通知方法：満1歳6か月を迎えた月の末日までに通知します。\n注意：連絡なく別の日や受付時間以外にお越しいただいた場合には、受診ができません。\nその他：お子さまや同居されているご家族のかたが発熱（微熱含む）や咳などで体調がすぐれない場合には、来所をお控えください。\n実施場所\n保健福祉センター（あいぽっく）;https://www.city.akishima.lg.jp/map/010/050/020/20140816053706.html 所在地：昭島市昭和町4-7-1\n\n内容\n歯科医師による歯の健診と相談\n歯科衛生士による集団指導\n歯科衛生士による個別の歯磨き相談、歯磨き練習など（希望者）\n1歳6か月児相談;https://www.city.akishima.lg.jp/s049/010/010/010/040/20140917161311.html（希望者）\n小児の歯科健診\n持ち物\n1歳6か月児歯科健康診査票\n1歳6か月児歯科健康診査アンケート\n母子健康手帳\n歯ブラシ\n令和6年度日程\n受付時間\n午後12時40分から1時00分\n午後1時00分から1時20分\n午後1時20分から1時40分\n午後1時40分から2時00分\n日程\n令和4年9月生まれのお子さま\n4月8日（月曜日）、4月22日（月曜日）\n令和4年10月生まれのお子さま\n5月13日（月曜日）、5月27日（月曜日）\n令和4年11月生まれのお子さま\n6月10日（月曜日）、6月24日（月曜日）\n令和4年12月生まれのお子さま\n7月8日（月曜日）、7月22日（月曜日）\n令和5年1月生まれのお子さま\n8月5日（月曜日）、8月26日（月曜日）\n令和5年2月生まれのお子さま\n9月9日（月曜日）、9月30日（月曜日）\n令和5年3月生まれのお子さま\n10月7日（月曜日）、10月28日（月曜日）\n令和5年4月生まれのお子さま\n11月11日（月曜日）、11月25日（月曜日）\n令和5年5月生まれのお子さま\n12月9日（月曜日）、12月23日（月曜日）\n令和5年6月生まれのお子さま\n令和7年1月6日（月曜日）、1月27日（月曜日）\n令和5年7月生まれのお子さま\n令和7年2月3日（月曜日）、2月10日（月曜日）\n令和5年8月生まれのお子さま\n令和7年3月3日（月曜日）、3月10日（月曜日）",
+      "target": {
+        "targetPersons": "原則として満1歳6か月から1歳8か月の間の児童（やむを得ず受けられないかたは、2歳未満までご利用できます）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 8
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "原則として満1歳6か月から1歳8か月の間の児童（やむを得ず受けられないかたは、2歳未満までご利用できます）"
+      },
+      "support": {
+        "description": "内容\n歯科医師による歯の健診と相談\n歯科衛生士による集団指導\n歯科衛生士による個別の歯磨き相談、歯磨き練習など（希望者）\n1歳6か月児相談（希望者）;https://www.city.akishima.lg.jp/s049/010/010/010/040/20140917161311.html",
+        "monetarySupport": null,
+        "materiallySupport": "内容\n歯科医師による歯の健診と相談\n歯科衛生士による集団指導\n歯科衛生士による個別の歯磨き相談、歯磨き練習など（希望者）\n1歳6か月児相談（希望者）;https://www.city.akishima.lg.jp/s049/010/010/010/040/20140917161311.html"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "健診時期：原則として満1歳6か月から1歳8か月の間（やむを得ず受けられないかたは、2歳未満までご利用できます）\n通知方法：満1歳6か月を迎えた月の末日までに通知します。\n\n日程\n\n令和4年9月生まれのお子さま\n4月8日（月曜日）、4月22日（月曜日）\n令和4年10月生まれのお子さま\n5月13日（月曜日）、5月27日（月曜日）\n令和4年11月生まれのお子さま\n6月10日（月曜日）、6月24日（月曜日）\n令和4年12月生まれのお子さま\n7月8日（月曜日）、7月22日（月曜日）\n令和5年1月生まれのお子さま\n8月5日（月曜日）、8月26日（月曜日）\n令和5年2月生まれのお子さま\n9月9日（月曜日）、9月30日（月曜日）\n令和5年3月生まれのお子さま\n10月7日（月曜日）、10月28日（月曜日）\n令和5年4月生まれのお子さま\n11月11日（月曜日）、11月25日（月曜日）\n令和5年5月生まれのお子さま\n12月9日（月曜日）、12月23日（月曜日）\n令和5年6月生まれのお子さま\n令和7年1月6日（月曜日）、1月27日（月曜日）\n令和5年7月生まれのお子さま\n令和7年2月3日（月曜日）、2月10日（月曜日）\n令和5年8月生まれのお子さま\n令和7年3月3日（月曜日）、3月10日（月曜日）"
+      },
+      "implementationPlace": {
+        "implementationName": "保健福祉センター（あいぽっく）;https://www.city.akishima.lg.jp/map/010/050/020/20140816053706.html ",
+        "implementationAddress": "昭島市昭和町4-7-1"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "受付時間\n\n1. 午後12時40分から1時00分\n2. 午後1時00分から1時20分\n3. 午後1時20分から1時40分\n4. 午後1時40分から2時00分\n4."
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "通知方法：満1歳6か月を迎えた月の末日までに通知します。\n注意：連絡なく別の日や受付時間以外にお越しいただいた場合には、受診ができません。\nその他：お子さまや同居されているご家族のかたが発熱（微熱含む）や咳などで体調がすぐれない場合には、来所をお控えください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "持ち物\n1歳6か月児歯科健康診査票\n1歳6か月児歯科健康診査アンケート\n母子健康手帳\n歯ブラシ",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s049/010/010/010/040/20140917161311.html",
+        "title": "【令和6年度】1歳6か月児歯科健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "contactPhone": "042-543-7303",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+        "contactComment": "ファックス番号：042-544-7130",
+        "zipCode": "1960015",
+        "contactAddress": "昭島市昭和町4-7-1"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+2+UM51",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の乳幼児健診",
+        "shortName": "【令和6年度】乳幼児経過観察健康診査"
+      },
+      "summary": "体重の増えが悪い、首のすわりが不十分など、発育や発達に心配がある乳幼児を対象に、月に1回（水曜日）、小児科専門医による健診や相談を行っています。",
+      "description": "体重の増えが悪い、首のすわりが不十分など、発育や発達に心配がある乳幼児を対象に、月に1回（水曜日）、小児科専門医による健診や相談を行っています。\n\n子どもの健診\n\n実施場所\n保健福祉センター（あいぽっく）;https://www.city.akishima.lg.jp/map/010/050/020/20140816053706.html\n\n持ち物\n乳幼児経過観察健診のお知らせ\n母子健康手帳\nバスタオル\nその他：お子さまや同居されているご家族のかたが発熱（微熱含む）や咳などで体調がすぐれない場合には、来所をお控えください。\n利用方法\n予約制となります。受診を希望される場合、お電話もしくは窓口でご相談ください。\n\n令和6年度日程\n受付時間\n午前9時10分から午前10時20分\n\n日程（全て水曜日）\n4月17日、5月15日、6月19日、7月17日、8月21日、9月18日、10月16日、11月20日、12月18日、令和7年1月15日、令和7年2月19日、令和7年3月12日",
+      "target": {
+        "targetPersons": "体重の増えが悪い、首のすわりが不十分など、発育や発達に心配がある乳幼児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "体重の増えが悪い、首のすわりが不十分など、発育や発達に心配がある乳幼児を対象に、月に1回（水曜日）、小児科専門医による健診や相談を行っています。",
+        "monetarySupport": null,
+        "materiallySupport": "体重の増えが悪い、首のすわりが不十分など、発育や発達に心配がある乳幼児を対象に、月に1回（水曜日）、小児科専門医による健診や相談を行っています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "日程（全て水曜日）\n\n4月17日、5月15日、6月19日、7月17日、8月21日、9月18日、10月16日、11月20日、12月18日、令和7年1月15日、令和7年2月19日、令和7年3月12日"
+      },
+      "implementationPlace": {
+        "implementationName": "保健福祉センター（あいぽっく）;https://www.city.akishima.lg.jp/map/010/050/020/20140816053706.html ",
+        "implementationAddress": "昭島市昭和町4-7-1"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:10",
+        "toHM": null,
+        "condiutilizationConditionstions": "受付時間\n午前9時10分から午前10時20分"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "予約制となります。受診を希望される場合、お電話もしくは窓口でご相談ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "持ち物\n乳幼児経過観察健診のお知らせ\n母子健康手帳\nバスタオル",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s049/010/010/010/060/20140917150522.html",
+        "title": "【令和6年度】乳幼児経過観察健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "contactPhone": "042-543-7303",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+        "contactComment": "ファックス番号：042-544-7130",
+        "zipCode": "1960015",
+        "contactAddress": "昭島市昭和町4-7-1"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+2+UM53",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（乳幼児歯科健康診査）",
+        "shortName": "【令和6年度】乳幼児歯科健康診査"
+      },
+      "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。1歳児から歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+      "description": "【令和6年度】乳幼児歯科健康診査\n乳幼児の口腔の健やかな発育や口腔に関する保護者のかたの不安や悩みに応え、切れ目のない健康づくりを支援することを目的として、乳幼児歯科健康診査を実施しています。\nお子さまが小学校に上がる前まで、歯科医師による健診を、定期的に受診していただけます。\nhttps://www.city.akishima.lg.jp/s049/010/010/010/080/uzura-family_tanaka015N.png\n\n対象\n申し込み対象年齢\n1歳から3歳6か月までの幼児\n注意：1歳未満の乳児で、歯が生え始めたのが早く、申し込みをご希望される保護者のかたは、ご相談ください。\n\n申し込み方法\nお電話、もしくは直接窓口でお申し込みください。定員になり次第終了させていただきます。\n定員：各回6名程度（先着順）\n\n利用対象年齢\n希望されるかたは小学校に上がる前まで、継続してご利用いただけます。\n\n内容および定員\n歯科健診、予防処置（歯石除去や着色汚れの除去など）、歯の相談や歯磨きの相談、歯磨きの練習など\n定員：各回32名から35名\n実施方式：時間指定制、1人5分（事前に予約が必要です）\n場所：保健福祉センター（あいぽっく）;https://www.city.akishima.lg.jp/map/010/050/020/20140816053706.html\nその他：お子さまや同居されているご家族のかたが発熱（微熱含む）や咳などで体調がすぐれない場合には、来所をお控えください。\nhttps://www.city.akishima.lg.jp/s049/010/040/010/010/image003_781976685.jpg\n\n持ち物\n初めてのかた\n1.歯科健康診査記録票\n2.お約束カード\n3.歯ブラシとコップ\n4.筆記用具\n\nご利用中のかた\n1.お約束カード\n2.歯ブラシとコップ\n\n令和6年度日程（ご利用が初めてのかた）\n・広報3月1日号：3月4日（月曜日）から申し込み受付開始\n3月21日（木曜日）、4月4日（木曜日）：午前9時15分から11時20分\n4月11日（木曜日）：午後1時15分から3時5分\n・広報4月1日号：4月2日（火曜日）から申し込み受付開始\n4月18日（木曜日）、5月2日（木曜日）：午前9時15分から11時20分\n4月15日（月曜日）：午後1時15分から3時5分\n・広報5月1日号：5月2日（木曜日）から申し込み受付開始\n5月16日（木曜日）、6月6日（木曜日）：午前9時15分から11時20分\n5月20日（月曜日）、6月13日（木曜日）：午後1時15分から3時5分\n・広報6月1日号：6月3日（月曜日）から申し込み受付\n6月20日（木曜日）、7月4日（木曜日）：午前9時15分から11時20分\n6月17日（月曜日）：午後1時15分から3時5分\n・広報7月1日号：7月2日（火曜日）から申し込み受付開始\n7月18日（木曜日）、8月1日（木曜日）：午前9時15分から11時20分\n7月29日（月曜日）、8月8日（木曜日）：午後1時15分から2時50分\n・広報8月1日号：8月2日（金曜日）から申し込み受付開始\n9月5日（木曜日）：午前9時15分から11時20分\n8月19日（月曜日）、8月22日（木曜日）、9月2日（月曜日）：午後1時15分から3時5分\n・広報9月1日号：9月3日（火曜日）から申し込み受付開始\n9月19日（木曜日）、10月3日（木曜日）：午前9時15分から11時20分\n10月10日（木曜日）：午後1時15分から3時5分\n・広報10月1日号：10月2日（水曜日）から申し込み受付開始\n10月17日（木曜日）、11月7日（木曜日）：午前9時15分から11時20分\n10月21日（月曜日）：午後1時15分から3時5分\n・広報11月1日号：11月5日（火曜日）から申し込み受付開始\n11月21日（木曜日）、12月5日（木曜日）：午前9時15分から11時20分\n11月18日（月曜日）：午後1時15分から3時5分\n・広報12月1日号：12月2日（月曜日）から申し込み受付開始\n12月19日（木曜日）：午前9時15分から11時20分\n12月16日（木曜日）、12月26日（木曜日）、1月9日（木曜日）：午後1時15分から3時5分\n・広報1月1日号：1月6日（月曜日）から申し込み受付開始\n1月16日（木曜日）、2月6日（木曜日）：午前9時15分から11時20分\n1月23日（木曜日）、2月13日（木曜日）：午後1時15分から3時5分\n・広報2月1日号：2月3日（月曜日）から申し込み受付開始\n2月20日（木曜日）、3月6日（木曜日）、3月13日（木曜日）：午前9時15分から11時20分\n2月17日（月曜日）、3月13日（木曜日）：午後1時15分から3時5分\n\n健診の予約と予約変更方法\n次の健診の予約は、健診を受けたときにしてください。\n予約変更電話受付曜日：月曜日から金曜日\n予約変更受付時間：午前8時30分から午前9時まで、午後4時から午後5時まで、下記のお問合せ先におかけください。\n注意：予約変更電話受付は祝祭日を除きます。\n\n子どもの歯と口の健康について\n0歳から6歳までのお子さんの歯と口の健康を保つためのポイントをまとめたものです。詳細については、子どもの歯と口の健康（PDF：404KB）;https://www.city.akishima.lg.jp/s049/kodomonohatokuchinokenko.pdfからご覧ください。\n東京都保健医療局「すすめよう！！フッ化物応用」;https://www.hokeniryo.metro.tokyo.lg.jp/iryo/iryo_hoken/shikahoken/pamphlet/susumeyoufukkabutsuouyou.html（外部サイトへリンクします）",
+      "target": {
+        "targetPersons": "申し込み対象年齢\n1歳から3歳6か月までの幼児\n注意：1歳未満の乳児で、歯が生え始めたのが早く、申し込みをご希望される保護者のかたは、ご相談ください。\n\n利用対象年齢\n希望されるかたは小学校に上がる前まで、継続してご利用いただけます。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "申し込み対象年齢\n1歳から3歳6か月までの幼児\n注意：1歳未満の乳児で、歯が生え始めたのが早く、申し込みをご希望される保護者のかたは、ご相談ください。\n\n利用対象年齢\n希望されるかたは小学校に上がる前まで、継続してご利用いただけます。"
+      },
+      "support": {
+        "description": "歯科健診、予防処置（歯石除去や着色汚れの除去など）、歯の相談や歯磨きの相談、歯磨きの練習など",
+        "monetarySupport": null,
+        "materiallySupport": "歯科健診、予防処置（歯石除去や着色汚れの除去など）、歯の相談や歯磨きの相談、歯磨きの練習など"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "令和6年度日程（ご利用が初めてのかた）\n・広報3月1日号：3月4日（月曜日）から申し込み受付開始\n3月21日（木曜日）、4月4日（木曜日）：午前9時15分から11時20分\n4月11日（木曜日）：午後1時15分から3時5分\n・広報4月1日号：4月2日（火曜日）から申し込み受付開始\n4月18日（木曜日）、5月2日（木曜日）：午前9時15分から11時20分\n4月15日（月曜日）：午後1時15分から3時5分\n・広報5月1日号：5月2日（木曜日）から申し込み受付開始\n5月16日（木曜日）、6月6日（木曜日）：午前9時15分から11時20分\n5月20日（月曜日）、6月13日（木曜日）：午後1時15分から3時5分\n・広報6月1日号：6月3日（月曜日）から申し込み受付\n6月20日（木曜日）、7月4日（木曜日）：午前9時15分から11時20分\n6月17日（月曜日）：午後1時15分から3時5分\n・広報7月1日号：7月2日（火曜日）から申し込み受付開始\n7月18日（木曜日）、8月1日（木曜日）：午前9時15分から11時20分\n7月29日（月曜日）、8月8日（木曜日）：午後1時15分から2時50分\n・広報8月1日号：8月2日（金曜日）から申し込み受付開始\n9月5日（木曜日）：午前9時15分から11時20分\n8月19日（月曜日）、8月22日（木曜日）、9月2日（月曜日）：午後1時15分から3時5分\n・広報9月1日号：9月3日（火曜日）から申し込み受付開始\n9月19日（木曜日）、10月3日（木曜日）：午前9時15分から11時20分\n10月10日（木曜日）：午後1時15分から3時5分\n・広報10月1日号：10月2日（水曜日）から申し込み受付開始\n10月17日（木曜日）、11月7日（木曜日）：午前9時15分から11時20分\n10月21日（月曜日）：午後1時15分から3時5分\n・広報11月1日号：11月5日（火曜日）から申し込み受付開始\n11月21日（木曜日）、12月5日（木曜日）：午前9時15分から11時20分\n11月18日（月曜日）：午後1時15分から3時5分\n・広報12月1日号：12月2日（月曜日）から申し込み受付開始\n12月19日（木曜日）：午前9時15分から11時20分\n12月16日（木曜日）、12月26日（木曜日）、1月9日（木曜日）：午後1時15分から3時5分\n・広報1月1日号：1月6日（月曜日）から申し込み受付開始\n1月16日（木曜日）、2月6日（木曜日）：午前9時15分から11時20分\n1月23日（木曜日）、2月13日（木曜日）：午後1時15分から3時5分\n・広報2月1日号：2月3日（月曜日）から申し込み受付開始\n2月20日（木曜日）、3月6日（木曜日）、3月13日（木曜日）：午前9時15分から11時20分\n2月17日（月曜日）、3月13日（木曜日）：午後1時15分から3時5分"
+      },
+      "implementationPlace": {
+        "implementationName": "保健福祉センター（あいぽっく）",
+        "implementationAddress": "昭和町4-7-1"
+      },
+      "capacity": "各回32名から35名",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申し込み方法\nお電話、もしくは直接窓口でお申し込みください。定員になり次第終了させていただきます。\n定員：各回6名程度（先着順）\n\n健診の予約と予約変更方法\n次の健診の予約は、健診を受けたときにしてください。\n予約変更電話受付曜日：月曜日から金曜日\n予約変更受付時間：午前8時30分から午前9時まで、午後4時から午後5時まで、下記のお問合せ先におかけください。\n注意：予約変更電話受付は祝祭日を除きます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "健診の予約と予約変更方法\n次の健診の予約は、健診を受けたときにしてください。\n予約変更電話受付曜日：月曜日から金曜日\n予約変更受付時間：午前8時30分から午前9時まで、午後4時から午後5時まで、下記のお問合せ先におかけください。\n注意：予約変更電話受付は祝祭日を除きます。"
+      },
+      "electronicSubmission": false,
+      "belongings": "初めてのかた\n1.歯科健康診査記録票\n2.お約束カード\n3.歯ブラシとコップ\n4.筆記用具\n\nご利用中のかた\n1.お約束カード\n2.歯ブラシとコップ",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "子ども家庭部 子ども家庭センター担当 母子保健係",
+      "relatedLink": [
+        {
+          "uri": "https://www.hokeniryo.metro.tokyo.lg.jp/iryo/iryo_hoken/shikahoken/pamphlet/susumeyoufukkabutsuouyou.html",
+          "title": "東京都保健医療局「すすめよう！！フッ化物応用」"
+        },
+        {
+          "uri": "https://www.city.akishima.lg.jp/s049/kodomonohatokuchinokenko.pdf",
+          "title": "子どもの歯と口の健康（PDF：404KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s049/010/010/010/080/20140917135709.html",
+        "title": "【令和6年度】乳幼児歯科健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "contactPhone": "042-543-7303",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+        "contactComment": null,
+        "zipCode": "1960015",
+        "contactAddress": "昭島市昭和町4-7-1"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+2+UM792",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-30",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関するサポート",
+        "shortName": "ひとり親家庭のしおり"
+      },
+      "summary": "ひとり親家庭のかたに向けてさまざまな支援やサービスを分かりやすくお伝えするしおりを作成しました。安定した生活を築くためお気軽にご相談いただき、ぜひご活用ください。",
+      "description": "ひとり親家庭のかたに向けてさまざまな支援やサービスを分かりやすくお伝えするしおりができました。安定した生活を築くためお気軽にご相談いただき、ぜひご活用ください。\n\n配布場所\n\n昭島市男女共同参画センター（アキシマエンシス校舎棟2階）\n昭島市役所1階17番窓口子ども育成支援課\n保健福祉センター「あいぽっく」\n\n関連ファイル\n\n昭島市ひとり親家庭のしおり（PDF：5.1MB）;https://www.city.akishima.lg.jp/s059/120/010/150/130/hitorioyasiori.pdf",
+      "target": {
+        "targetPersons": "ひとり親家庭のかた",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "ひとり親家庭のかたに向けてさまざまな支援やサービスを分かりやすくお伝えするしおりを作成しました。安定した生活を築くためお気軽にご相談いただき、ぜひご活用ください。\n\n配布場所\n昭島市男女共同参画センター（アキシマエンシス校舎棟2階）\n昭島市役所1階17番窓口子ども育成支援課\n保健福祉センター「あいぽっく」\n\n関連ファイル\n\n昭島市ひとり親家庭のしおり（PDF：5.1MB）;https://www.city.akishima.lg.jp/s059/120/010/150/130/hitorioyasiori.pdf",
+        "monetarySupport": null,
+        "materiallySupport": "ひとり親家庭のかたに向けてさまざまな支援やサービスを分かりやすくお伝えするしおりを作成しました。安定した生活を築くためお気軽にご相談いただき、ぜひご活用ください。\n\n配布場所\n昭島市男女共同参画センター（アキシマエンシス校舎棟2階）\n昭島市役所1階17番窓口子ども育成支援課\n保健福祉センター「あいぽっく」\n\n関連ファイル\n\n昭島市ひとり親家庭のしおり（PDF：5.1MB）;https://www.city.akishima.lg.jp/s059/120/010/150/130/hitorioyasiori.pdf"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "配布場所\n\n昭島市男女共同参画センター（アキシマエンシス校舎棟2階）\n昭島市役所1階17番窓口子ども育成支援課\n保健福祉センター「あいぽっく」",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s059/120/010/150/130/20200729112026.html",
+        "title": "ひとり親家庭のしおり"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部男女共同参画センター（アキシマエンシス校舎棟2階）",
+        "contactPhone": "042-519-2277",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1960012",
+        "contactAddress": "昭島市つつじが丘3-3-15"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+3+UM106",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部男女共同参画センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-07-02",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "昭島市の子育てに関する相談",
+        "shortName": "育児SOS相談（予約制）"
+      },
+      "summary": "乳幼児の子育てで悩んでいる方の相談に応じています。",
+      "description": "内容\n乳幼児の子育てで悩んでいる方の相談に応じています。予約制です。\n\n助産師による相談\n\n授乳、おっぱいに関する相談（うまく吸えない、乳房トラブル、卒乳など）。産前・産後の体の相談、お子さんの計測を行っています。\n注意：乳房マッサージはできません\n\n心理士による相談\n\nお子さんの発達、子どもへの関わり方など、育児の困りごとの相談。\n\n保健師による相談\n\nお子さんの発育、発達、保護者の健康相談、子育ての相談。\n\n午前9時15分から午後4時00分まで、予約制です。\n電話で予約をお取りください。どの相談を希望するかお伝えください。\n相談場所　保健福祉センター（あいぽっく）\n計測の場合は母子健康手帳、バスタオル、オムツなど必要なものをお持ちください。",
+      "target": {
+        "targetPersons": "乳幼児の子育てで悩んでいる方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "助産師による相談\n授乳、おっぱいに関する相談（うまく吸えない、乳房トラブル、卒乳など）。産前・産後の体の相談、お子さんの計測を行っています。\n注意：乳房マッサージはできません\n\n心理士による相談\nお子さんの発達、子どもへの関わり方など、育児の困りごとの相談。\n\n保健師による相談\nお子さんの発育、発達、保護者の健康相談、子育ての相談。",
+        "monetarySupport": null,
+        "materiallySupport": "助産師による相談\n授乳、おっぱいに関する相談（うまく吸えない、乳房トラブル、卒乳など）。産前・産後の体の相談、お子さんの計測を行っています。\n注意：乳房マッサージはできません\n\n心理士による相談\nお子さんの発達、子どもへの関わり方など、育児の困りごとの相談。\n\n保健師による相談\nお子さんの発育、発達、保護者の健康相談、子育ての相談。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "保健福祉センター（あいぽっく）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:15",
+        "toHM": "16:00",
+        "condiutilizationConditionstions": "午前9時15分から午後4時00分まで、予約制です。"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "午前9時15分から午後4時00分まで、予約制です。\n電話で予約をお取りください。どの相談を希望するかお伝えください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s049/010/010/030/20140916224532.html",
+        "title": "育児SOS相談（予約制）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "contactPhone": "042-543-7303",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+        "contactComment": "ファックス番号：042-544-7130",
+        "zipCode": "1960015",
+        "contactAddress": "昭島市昭和町4-7-1"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+3+UM119",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-03",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "伴走型相談支援",
+        "shortName": "こんにちは赤ちゃん訪問"
+      },
+      "summary": "すべての妊婦さんと子育て家庭が安心して出産・子育てができるように、妊娠から出産・子育てまでの一貫した「伴走型相談支援」を実施しています。",
+      "description": "伴走型相談支援\n妊産婦のかたが抱える様々な不安を解消するため、妊娠届出時や妊娠8か月時、産後のこんにちは赤ちゃん訪問にて保健師や助産師が面談を行うほか、随時、相談支援を行います。\n\nこんにちは赤ちゃん訪問;https://www.city.akishima.lg.jp/s049/010/010/040/010/20140916191458.html\n生後4か月までのお子さんのいる全てのご家庭に、保健師または助産師が訪問し、お子さんの体重測定や健康状態を確認します。また、子育て情報の提供や乳児健診のご案内をします。",
+      "target": {
+        "targetPersons": "妊産婦のかた",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "こんにちは赤ちゃん訪問;https://www.city.akishima.lg.jp/s049/010/010/040/010/20140916191458.html\n生後4か月までのお子さんのいる全てのご家庭に、保健師または助産師が訪問し、お子さんの体重測定や健康状態を確認します。また、子育て情報の提供や乳児健診のご案内をします。",
+        "monetarySupport": null,
+        "materiallySupport": "こんにちは赤ちゃん訪問;https://www.city.akishima.lg.jp/s049/010/010/040/010/20140916191458.html\n生後4か月までのお子さんのいる全てのご家庭に、保健師または助産師が訪問し、お子さんの体重測定や健康状態を確認します。また、子育て情報の提供や乳児健診のご案内をします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s049/020/010/060/20200925151717.html",
+        "title": "あきしま出産・子育て応援事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "contactPhone": "042-543-7303",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000053.html",
+        "contactComment": null,
+        "zipCode": "1960015",
+        "contactAddress": "昭島市昭和町4-7-1"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+3+UM5011",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-09-28",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関する各種コミュニティ・団体一覧",
+        "shortName": "『AlleCo』昭島アレルギー患者会"
+      },
+      "summary": "昭島市内で子育てに関する活動を行う、コミュニティやサークル、各種団体のご案内です。",
+      "description": "子育てグループネットワーク連絡会参加団体をご紹介します。\n\n活動時間等に変更がある場合があります。詳しくは各団体へ問い合わせをお願いします。\n\n『AlleCo』昭島アレルギー患者会\nアレルギー当事者のためのコミュニティ運営や支援する方とつなぐ活動、正しい知識を広めるための活動をしています。入会条件あり。X（エックス）（＠AlleCo_akishima)、Instagram（alleCo_akishima）での情報発信もあります。どうぞお気軽に。詳しくはホームページへ。\n\n対象\n医療機関でアレルギー疾患の診断を受けた方とご家族（条件あり/詳しくはHPへ）\n活動日\nおしゃべり会3回/年、イベント開催日とその準備日、オープンチャットは常時\n活動場所\nアキシマエンシス、あいぽっくなど、LINEオープンチャット（非公開）\n連絡先\nホームページのお問合せフォームから\nホームページ 『AlleCo（アレコ）』昭島アレルギー患者会;https://alleco-akishima.com/（外部サイトへリンク）",
+      "target": {
+        "targetPersons": "医療機関でアレルギー疾患の診断を受けた方とご家族（条件あり/詳しくはHPへ）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "アレルギー当事者のためのコミュニティ運営や支援する方とつなぐ活動、正しい知識を広めるための活動をしています。入会条件あり。X（エックス）（＠AlleCo_akishima)、Instagram（alleCo_akishima）での情報発信もあります。どうぞお気軽に。詳しくはホームページへ。",
+        "monetarySupport": null,
+        "materiallySupport": "アレルギー当事者のためのコミュニティ運営や支援する方とつなぐ活動、正しい知識を広めるための活動をしています。入会条件あり。X（エックス）（＠AlleCo_akishima)、Instagram（alleCo_akishima）での情報発信もあります。どうぞお気軽に。詳しくはホームページへ。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://alleco-akishima.com/",
+          "title": "「AlleCo（アレコ）」昭島アレルギー患者会"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.akishima.lg.jp/s064/010/010/010/020/010/20180402144630.html",
+        "title": "子育てグループ"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども家庭センター担当 統括支援係",
+        "contactPhone": "042-543-9046",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.akishima.lg.jp/form/inquiry/SITE000000000000000068.html",
+        "contactComment": "ファックス番号：042-519-2803",
+        "zipCode": "1960012",
+        "contactAddress": "昭島市つつじが丘3-3-15"
+      },
+      "area": {
+        "areaCode": "132071;昭島市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132071+6+UM111",
+        "organization": "8000020132071",
+        "compartment": "子ども家庭部 子ども家庭センター担当 子ども家庭支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-12-08",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "昭島市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法、児童福祉法",
+        "regulationArticle": "第6条の3第6項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

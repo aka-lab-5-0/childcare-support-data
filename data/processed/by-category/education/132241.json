@@ -1,0 +1,136 @@
+{
+  "version": "2025-07-09T05:55:17.830Z",
+  "areaCode": "132241",
+  "areaName": "多摩市",
+  "category": "education",
+  "count": 1,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "児童館",
+        "shortName": "児童館"
+      },
+      "summary": "児童館は、18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n多摩市の児童館には、小学校就学前のお子さんが安心して遊べるスペースがあり、またお子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、多摩市サイトや市報などでお知らせしています。）",
+      "description": "児童館ってどんなところ？\n\n児童館ってどんなところ？\n多摩市には10館あり、0～18歳の児童が自由に利用でき、のびのびと遊び、仲間をつくることができる場所です。\n職員が様々な遊びや季節行事を通して、子どもたちが健康で心豊かに育つように支援しています。\n乳幼児や小学生、中高生、保護者や地域の皆さんが、世代を超えて交流する地域の“拠点”としての機能も担っています。\nまた、乳幼児の親子を対象に「つどい事業」や「講座」等も実施しています。\n子育て・子育ちを応援する誰もが気軽に立ち寄れる施設です。\n\n利用のしかた\n児童館をはじめて利用する時には、「児童館使用者カード」の提出が必要です。\nカードは児童館にありますので、来館した際にお声掛けください。\n\n児童館の災害対応について\n多摩市では、「多摩市地域防災計画」を策定し、万が一の災害発生時に備えています。\n大きな災害が起きた場合、児童館では基本的に次のように対応します。ご確認ください。\n\nこんなときどうする？～児童館の災害対応～ （PDF 174.0KB）;https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/011/077/konnatokidousurujidoukan3.pdf\n",
+      "target": {
+        "targetPersons": "0～18歳の児童",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "0～18歳の児童"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "利用のしかた\n児童館をはじめて利用する時には、「児童館使用者カード」の提出が必要です。\nカードは児童館にありますので、来館した際にお声掛けください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.tama.lg.jp/_res/projects/default_project/_page_/001/011/077/konnatokidousurujidoukan3.pdf",
+          "title": "こんなときどうする？～児童館の災害対応～ （PDF 174.0KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.tama.lg.jp/kosodate/1008019/1008033/1011077.html",
+        "title": "児童館ってどんなところ？"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "児童青少年課 児童青少年担当",
+        "contactPhone": "042-338-6884",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "2068666",
+        "contactAddress": "東京都多摩市関戸六丁目12番地1"
+      },
+      "area": {
+        "areaCode": "132241;多摩市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132241+1+UM108",
+        "organization": "3000020132241",
+        "compartment": "児童青少年課 児童青少年担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-08-24",
+      "odInformation": {
+        "updateDate": "2024-07-25",
+        "updater": "多摩市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

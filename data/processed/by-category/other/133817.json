@@ -1,0 +1,506 @@
+{
+  "version": "2025-07-09T05:55:17.837Z",
+  "areaCode": "133817",
+  "areaName": "三宅村",
+  "category": "other",
+  "count": 4,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "出生届",
+        "shortName": "出生届"
+      },
+      "summary": "出生届とは、生まれてきたお子さんの氏名等を戸籍に記載するための手続きです。\n戸籍に記載されることで、生まれてきたお子さんの親族関係が公的に証明されます。",
+      "description": "出生届\n届出期間\n生まれた日から14日以内（国外で生まれたときは3か月以内）\n\n届出地\n父母の本籍地または届出人の所在地あるいは出産場所の区市町村の戸籍係\n\n届出人\n父または母、同居者、出産に立ち会った医師、助産師の順序\n\n添付書類等\n出生証明書（医師が出生届の出生証明書欄に記入押印したもの）、本人確認書類、母子健康手帳\n\n(注)赤ちゃんの名前は、常用漢字、人名用漢字、ひらがな、カタカナを使用してください。",
+      "target": {
+        "targetPersons": "父または母、同居者、出産に立ち会った医師、助産師の順序",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "父または母、同居者、出産に立ち会った医師、助産師の順序",
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "生まれた日から14日以内（国外で生まれたときは3か月以内）"
+      },
+      "electronicSubmission": false,
+      "belongings": "出生証明書（医師が出生届の出生証明書欄に記入押印したもの）、本人確認書類、母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "父母の本籍地または届出人の所在地あるいは出産場所の区市町村の戸籍係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.miyake.tokyo.jp/kurashi/todokede_syoumei/koseki_juumin/koseki.html",
+        "title": "戸籍の届出"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "三宅村役場臨時庁舎 村民課 住民年金係",
+        "contactPhone": "04994-5-0904",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1001212",
+        "contactAddress": "東京都三宅島三宅村阿古497"
+      },
+      "area": {
+        "areaCode": "133817;三宅村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+4000020133817+1+UM3",
+        "organization": "4000020133817",
+        "compartment": "村民課 住民年金係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-19",
+        "updater": "三宅村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "戸籍法",
+        "regulationArticle": "第49条、第52条"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "077"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "両親学級"
+      },
+      "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、三宅村では産科医師、歯科医師、保健師、栄養士、助産師などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+      "description": "両親学級\n食事、体調管理、沐浴についてご説明いたします。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "食事、体調管理、沐浴についてご説明いたします。",
+        "monetarySupport": null,
+        "materiallySupport": "食事、体調管理、沐浴についてご説明いたします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.miyake.tokyo.jp/kurashi/seikatsu_kankyou/ikuji_kyouiku/ninpu_nyuuyouji/syussan.html",
+        "title": "出産を迎える方"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "三宅村役場臨時庁舎　福祉健康課 健康係",
+        "contactPhone": "04994-5-0911",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1001212",
+        "contactAddress": "東京都三宅島三宅村阿古497"
+      },
+      "area": {
+        "areaCode": "133817;三宅村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+4000020133817+1+UM31",
+        "organization": "4000020133817",
+        "compartment": "福祉健康課 健康係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-19",
+        "updater": "三宅村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+        "shortName": "産前産後期間相当分の保険税の免除"
+      },
+      "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分）の均等割保険料と所得割保険料が免除されます。",
+      "description": "産前産後期間相当分の保険税の免除について\n産前産後期間相当分の保険税の免除について\n子育て世帯の負担軽減及び次世代育成支援等の観点から、胎児妊娠の場合は出産予定月又は出産月の前月から4か月分を、多胎妊娠の場合は出産予定月又は出産月の前々月から6か月分を、出産被保険者に係る所得割額及び均等割額について、全額免除されます。\n\n詳細は、リーフレットをご覧ください。\n\n【ご注意】令和6年1月1日施行のため、令和5年11月以降の、出産予定または出産した国民健康保険の被保険者(加入者)を含む世帯が対象となります。\n\n・リーフレットPDFファイル(564KB);https://www.vill.miyake.tokyo.jp/kakuka/sonmin/news/files/2023_12_18_2.pdf\n・産前産後期間に係る国民健康保険税軽減届出書PDFファイル(181KB);https://www.vill.miyake.tokyo.jp/kakuka/sonmin/news/files/2023_12_18_3.pdf",
+      "target": {
+        "targetPersons": "令和5年11月以降の、出産予定または出産した国民健康保険の被保険者(加入者)を含む世帯が対象となります。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "子育て世帯の負担軽減及び次世代育成支援等の観点から、胎児妊娠の場合は出産予定月又は出産月の前月から4か月分を、多胎妊娠の場合は出産予定月又は出産月の前々月から6か月分を、出産被保険者に係る所得割額及び均等割額について、全額免除されます。",
+        "monetarySupport": "子育て世帯の負担軽減及び次世代育成支援等の観点から、胎児妊娠の場合は出産予定月又は出産月の前月から4か月分を、多胎妊娠の場合は出産予定月又は出産月の前々月から6か月分を、出産被保険者に係る所得割額及び均等割額について、全額免除されます。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": "令和5年11月以降の、出産予定または出産した国民健康保険の被保険者(加入者)を含む世帯",
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.vill.miyake.tokyo.jp/kakuka/sonmin/news/files/2023_12_18_2.pdf",
+          "title": "リーフレットPDFファイル(564KB)"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.miyake.tokyo.jp/kakuka/sonmin/news/2023-1218-1013-10.html",
+        "title": "産前産後期間相当分の保険税の免除について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133817;三宅村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+4000020133817+1+UM5035",
+        "organization": "4000020133817",
+        "compartment": "村民課　保険係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-19",
+        "updater": "三宅村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003",
+          "015"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "児童遊園",
+        "shortName": "児童遊園"
+      },
+      "summary": "児童遊園は、屋外にある公園に類似した施設です。18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n三宅村の児童遊園の一覧は、三宅村サイトなどでお知らせしています。",
+      "description": "児童の健全な遊び場を提供しその情操と健康の維持向上を図ることを目的としています。\nhttps://www.vill.miyake.tokyo.jp/kurashi/hoken_nenkin_fukushi/fukushi/jidou_boshi.html",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "児童の健全な遊び場を提供",
+        "monetarySupport": null,
+        "materiallySupport": "児童の健全な遊び場を提供"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "三宅村伊ケ谷児童遊園,三宅村伊豆児童遊園,三宅村三池児童遊園,三宅村大久保児童遊園,三宅村神着児童遊園,三宅村阿古児童遊園,三宅村ふれあい児童公園",
+        "implementationAddress": "伊ケ谷330番地,伊豆1054番地,坪田1135番地,伊豆563番地,神着197番地,阿古700番地76,神着420番地1,神着420番地2,神着430番地1,神着432番地1"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.miyake.tokyo.jp/kurashi/hoken_nenkin_fukushi/fukushi/jidou_boshi.html",
+        "title": "児童・母子福祉"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "三宅村役場臨時庁舎 福祉健康課 福祉係,東京都三宅支庁 総務課",
+        "contactPhone": "04994-5-0902,04994-2-1311",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1001212",
+        "contactAddress": "東京都三宅島三宅村阿古497"
+      },
+      "area": {
+        "areaCode": "133817;三宅村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+4000020133817+1+UM576",
+        "organization": "4000020133817",
+        "compartment": "福祉健康課 福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-19",
+        "updater": "三宅村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

@@ -1,0 +1,2790 @@
+{
+  "version": "2025-07-09T05:55:17.799Z",
+  "areaCode": "131130",
+  "areaName": "渋谷区",
+  "category": "vaccination",
+  "count": 19,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "日本脳炎1期"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "子どもの定期予防接種\n予防接種法で対象疾病など定められた子どもの定期予防接種です。定期予防接種は予防接種法に基づく予防接種で、対象者は受けるよう努めなければならないとされています。法定接種期間であれば、決められた回数を無料で受けることができます。\n（注）長期にわたる疾患等でやむを得ず、定期予防接種を法定接種期間内に受けることができなかったと認められる場合は、予防接種が受けられるようになってから2年間、定期予防接種として接種することができます。詳しくは、長期にわたる疾患等で、やむを得ず法定接種期間を超えてしまった場合;https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/teiki_yobo1.htmlをご覧ください。\n渋谷区へ転入後は、渋谷区以外で発行された予診票は使用できません。通知送付時期を過ぎてから転入した場合および予診票を紛失した場合は、渋谷区の予診票を発行しますので、母子健康手帳など接種歴が分かるものをご用意のうえ、本庁舎７階 地域保健課予防接種係までお越しいただくか、電話でお問い合わせください。スマート申請（定期予防接種予診票発行申請）;https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakkoから申請することもできます。\n（注）本申請は法定接種期間のみの定期予防接種予診票の発行手続きとなります。\n予防接種による副反応について\n予防接種の種類によっても異なりますが、接種後に熱が出たり接種した部分が腫れたりすることがあります。\nほとんどは数日以内に自然に治りますが、まれに高熱やひどい腫れ、ひきつけなどの症状を起こすこともあります。接種後にこうした症状が出た場合は、速やかに医療機関を受診してください。\n予防接種後の重い副反応については、報告基準が定められていて、基準にあてはまる症状を診断した医師は、国に報告することとされています。\nなお、こうした重い副反応について、被接種者や保護者から報告することもできます。地域保健課予防接種係までご相談ください。また、定期予防接種により引き起こされた副反応により、健康被害が生じた場合には、予防接種法に基づく予防接種健康被害救済制度により、一定の給付が行われる場合があります。種場所は23区内の契約医療機関です。\n日本脳炎\n|名称|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|日本脳炎1期|生後6月から90月に至るまでの間|3歳～4歳になるまでの間に、6～28日の間隔をあけて2回接種。<br>4歳～5歳になるまでの間に、2回目接種後から1年あけて1回接種。|満3歳に達する前月末に送付|23区内契約医療機関|\n|日本脳炎2期|9歳～13歳未満|9歳の時に1回接種|満9歳に達する前月末に送付|23区内契約医療機関|\n \n特例接種対象者について\n日本脳炎の積極的な接種勧奨を控えていた時期（平成17～21年度）の対象者は、特例対象として接種することができます。詳しくは、日本脳炎予防接種の接種スケジュール（PDF 15KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/b06f79e6ecf348088cd4d762b6f74f39/yobo_nihonnouen_schedule.pdfをご覧ください。\n\n平成7年4月2日～平成19年4月1日生まれの人　 ：1期初回から2期までの接種を、20歳未満まで受けることができます。\n予診票の発行\n予診票の発行には申請が必要です。\n本人確認書類をお持ちのうえ本庁舎７階 地域保健課予防接種係までお越しいただくか、電話でお問い合わせください。スマート申請（定期予防接種予診票発行申請）;https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakkoも受け付けています。\n（注）一部の対象者には、勧奨のため予診票を郵送します。",
+      "target": {
+        "targetPersons": "|名称|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|日本脳炎1期|生後6月から90月に至るまでの間|3歳～4歳になるまでの間に、6～28日の間隔をあけて2回接種。<br>4歳～5歳になるまでの間に、2回目接種後から1年あけて1回接種。|満3歳に達する前月末に送付|23区内契約医療機関|\n",
+        "lessThan": {
+          "targetAge": 7,
+          "targetAgeOfMonths": 6
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "|名称|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|日本脳炎1期|生後6月から90月に至るまでの間|3歳～4歳になるまでの間に、6～28日の間隔をあけて2回接種。<br>4歳～5歳になるまでの間に、2回目接種後から1年あけて1回接種。|満3歳に達する前月末に送付|23区内契約医療機関|\n"
+      },
+      "support": {
+        "description": "|名称|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|日本脳炎1期|生後6月から90月に至るまでの間|3歳～4歳になるまでの間に、6～28日の間隔をあけて2回接種。<br>4歳～5歳になるまでの間に、2回目接種後から1年あけて1回接種。|満3歳に達する前月末に送付|23区内契約医療機関|\n|日本脳炎2期|9歳～13歳未満|9歳の時に1回接種|満9歳に達する前月末に送付|23区内契約医療機関|\n",
+        "monetarySupport": null,
+        "materiallySupport": "|名称|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|日本脳炎1期|生後6月から90月に至るまでの間|3歳～4歳になるまでの間に、6～28日の間隔をあけて2回接種。<br>4歳～5歳になるまでの間に、2回目接種後から1年あけて1回接種。|満3歳に達する前月末に送付|23区内契約医療機関|\n|"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "23区内契約医療機関",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "|名称|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|日本脳炎1期|生後6月から90月に至るまでの間|3歳～4歳になるまでの間に、6～28日の間隔をあけて2回接種。<br>4歳～5歳になるまでの間に、2回目接種後から1年あけて1回接種。|満3歳に達する前月末に送付|23区内契約医療機関|\n|日本脳炎2期|9歳～13歳未満|9歳の時に1回接種|満9歳に達する前月末に送付|23区内契約医療機関|\n",
+      "procedurePersons": null,
+      "procedureMethod": "①　お子さんの健康状態の良いときに受けてください。\n②　「接種予診票」を３セット（１回目・２回目・追加）送付しています。１回目の用紙から順番に使用してください。なお、追加の接種時期は２回目から間隔があきますので、接種予診票を紛失しないようご注意ください。\n③　予防接種の当日は、「接種予診票」に記入し、母子健康手帳と一緒にお持ちください。検温は、当日接種する医療機関で行います。\n④　接種の際には、日頃からお子さんの健康状態をよくみている保護者が付き添ってください。なお、保護者以外の方でも、普段からお子さんの健康状態をよく知っている方であれば、保護者からの委任にもとづき付き添うことができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "接種予診票,母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "地域保健課予防接種係",
+      "relatedLink": [
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/7d78f81872f54db4aeb67149d01f93f0/yobo_teiki_ichiran.pdf",
+          "title": "渋谷区予防接種実施医療機関一覧（令和6年4月1日現在）（PDF 202KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/08bfc6093ace4a37829e6767432c5dfe/yobo_kodomonoyobosessyu.pdf",
+          "title": "子どもの予防接種一覧表（令和6年4月1日現在）（PDF 150KB）"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/sessyuencho.html",
+          "title": "新型コロナウイルス感染症の発生に伴う定期予防接種の接種期限延長について"
+        },
+        {
+          "uri": "https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakko/door",
+          "title": "スマート申請（定期予防接種予診票発行申請）"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/teiki_yobo1.html",
+          "title": "長期にわたる疾患等で、やむを得ず法定接種期間を超えてしまった場合"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/cfbb6b8ca754484caf9c64039966557a/yobo_oshirase_nitino1.pdf",
+          "title": "日本脳炎1期のお知らせ（PDF 258KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/b649e8df863e4c6ebfa58889c960b6d6/yobo_oshirase_nitino2.pdf",
+          "title": "日本脳炎2期のお知らせ（PDF 366KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/kodomo_teiki.html",
+        "title": "子どもの定期予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "地域保健課予防接種係",
+        "contactPhone": "03-3463-1412",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4937",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+10+UM54",
+        "organization": "9000020131130",
+        "compartment": "地域保健課予防接種係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-17",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "日本脳炎2期"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "子どもの定期予防接種\n予防接種法で対象疾病など定められた子どもの定期予防接種です。定期予防接種は予防接種法に基づく予防接種で、対象者は受けるよう努めなければならないとされています。法定接種期間であれば、決められた回数を無料で受けることができます。\n（注）長期にわたる疾患等でやむを得ず、定期予防接種を法定接種期間内に受けることができなかったと認められる場合は、予防接種が受けられるようになってから2年間、定期予防接種として接種することができます。詳しくは、長期にわたる疾患等で、やむを得ず法定接種期間を超えてしまった場合;https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/teiki_yobo1.htmlをご覧ください。\n渋谷区へ転入後は、渋谷区以外で発行された予診票は使用できません。通知送付時期を過ぎてから転入した場合および予診票を紛失した場合は、渋谷区の予診票を発行しますので、母子健康手帳など接種歴が分かるものをご用意のうえ、本庁舎７階 地域保健課予防接種係までお越しいただくか、電話でお問い合わせください。スマート申請（定期予防接種予診票発行申請）;https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakkoから申請することもできます。\n（注）本申請は法定接種期間のみの定期予防接種予診票の発行手続きとなります。\n予防接種による副反応について\n予防接種の種類によっても異なりますが、接種後に熱が出たり接種した部分が腫れたりすることがあります。\nほとんどは数日以内に自然に治りますが、まれに高熱やひどい腫れ、ひきつけなどの症状を起こすこともあります。接種後にこうした症状が出た場合は、速やかに医療機関を受診してください。\n予防接種後の重い副反応については、報告基準が定められていて、基準にあてはまる症状を診断した医師は、国に報告することとされています。\nなお、こうした重い副反応について、被接種者や保護者から報告することもできます。地域保健課予防接種係までご相談ください。また、定期予防接種により引き起こされた副反応により、健康被害が生じた場合には、予防接種法に基づく予防接種健康被害救済制度により、一定の給付が行われる場合があります。種場所は23区内の契約医療機関です。\n日本脳炎\n|名称|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|日本脳炎1期|生後6月から90月に至るまでの間|3歳～4歳になるまでの間に、6～28日の間隔をあけて2回接種。<br>4歳～5歳になるまでの間に、2回目接種後から1年あけて1回接種。|満3歳に達する前月末に送付|23区内契約医療機関|\n|日本脳炎2期|9歳～13歳未満|9歳の時に1回接種|満9歳に達する前月末に送付|23区内契約医療機関|\n \n特例接種対象者について\n日本脳炎の積極的な接種勧奨を控えていた時期（平成17～21年度）の対象者は、特例対象として接種することができます。詳しくは、日本脳炎予防接種の接種スケジュール（PDF 15KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/b06f79e6ecf348088cd4d762b6f74f39/yobo_nihonnouen_schedule.pdfをご覧ください。\n\n平成7年4月2日～平成19年4月1日生まれの人　 ：1期初回から2期までの接種を、20歳未満まで受けることができます\n予診票の発行\n予診票の発行には申請が必要です。\n本人確認書類をお持ちのうえ本庁舎７階 地域保健課予防接種係までお越しいただくか、電話でお問い合わせください。スマート申請（定期予防接種予診票発行申請）;https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakkoも受け付けています。\n（注）一部の対象者には、勧奨のため予診票を郵送します。",
+      "target": {
+        "targetPersons": "|名称|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|日本脳炎2期|9歳～13歳未満|9歳の時に1回接種|満9歳に達する前月末に送付|23区内契約医療機関|\n",
+        "lessThan": {
+          "targetAge": 13,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 9,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "|名称|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|日本脳炎2期|9歳～13歳未満|9歳の時に1回接種|満9歳に達する前月末に送付|23区内契約医療機関|\n"
+      },
+      "support": {
+        "description": "|名称|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|日本脳炎1期|生後6月から90月に至るまでの間|3歳～4歳になるまでの間に、6～28日の間隔をあけて2回接種。<br>4歳～5歳になるまでの間に、2回目接種後から1年あけて1回接種。|満3歳に達する前月末に送付|23区内契約医療機関|\n|日本脳炎2期|9歳～13歳未満|9歳の時に1回接種|満9歳に達する前月末に送付|23区内契約医療機関|\n",
+        "monetarySupport": null,
+        "materiallySupport": "|名称|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|日本脳炎2期|9歳～13歳未満|9歳の時に1回接種|満9歳に達する前月末に送付|23区内契約医療機関|\n"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "23区内契約医療機関",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "|名称|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|日本脳炎1期|生後6月から90月に至るまでの間|3歳～4歳になるまでの間に、6～28日の間隔をあけて2回接種。<br>4歳～5歳になるまでの間に、2回目接種後から1年あけて1回接種。|満3歳に達する前月末に送付|23区内契約医療機関|\n|日本脳炎2期|9歳～13歳未満|9歳の時に1回接種|満9歳に達する前月末に送付|23区内契約医療機関|\n",
+      "procedurePersons": null,
+      "procedureMethod": "①　お子さんの健康状態の良いときに受けてください。\n②　予防接種の当日は、「接種予診票」に記入し、母子健康手帳と一緒にお持ちください。検温は、当日接種する医療機関で行います。\n③　接種の際には、日頃からお子さんの健康状態をよくみている保護者が付き添ってください。なお、保護者以外の方でも、普段からお子さんの健康状態をよく知っている方であれば、保護者からの委任にもとづき付き添うことができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "接種予診票,母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "地域保健課予防接種係",
+      "relatedLink": [
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/b649e8df863e4c6ebfa58889c960b6d6/yobo_oshirase_nitino2.pdf",
+          "title": "日本脳炎2期のお知らせ（PDF 366KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/b06f79e6ecf348088cd4d762b6f74f39/yobo_nihonnouen_schedule.pdf",
+          "title": "日本脳炎予防接種の接種スケジュール（PDF 15KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/cfbb6b8ca754484caf9c64039966557a/yobo_oshirase_nitino1.pdf",
+          "title": "日本脳炎1期のお知らせ（PDF 258KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/08bfc6093ace4a37829e6767432c5dfe/yobo_kodomonoyobosessyu.pdf",
+          "title": "子どもの予防接種一覧表（令和6年4月1日現在）（PDF 150KB）"
+        },
+        {
+          "uri": "https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakko/door",
+          "title": "スマート申請（定期予防接種予診票発行申請）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/7d78f81872f54db4aeb67149d01f93f0/yobo_teiki_ichiran.pdf",
+          "title": "渋谷区予防接種実施医療機関一覧（令和6年4月1日現在）（PDF 202KB）"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/teiki_yobo1.html",
+          "title": "長期にわたる疾患等で、やむを得ず法定接種期間を超えてしまった場合"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/sessyuencho.html",
+          "title": "新型コロナウイルス感染症の発生に伴う定期予防接種の接種期限延長について"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/kodomo_teiki.html",
+        "title": "子どもの定期予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "地域保健課予防接種係",
+        "contactPhone": "03-3463-1412",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4937",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+11+UM54",
+        "organization": "9000020131130",
+        "compartment": "地域保健課予防接種係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-17",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "DT二種混合（ジフテリア、破傷風）2期"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "子どもの定期予防接種\n予防接種法で対象疾病など定められた子どもの定期予防接種です。定期予防接種は予防接種法に基づく予防接種で、対象者は受けるよう努めなければならないとされています。法定接種期間であれば、決められた回数を無料で受けることができます。\n（注）長期にわたる疾患等でやむを得ず、定期予防接種を法定接種期間内に受けることができなかったと認められる場合は、予防接種が受けられるようになってから2年間、定期予防接種として接種することができます。詳しくは、長期にわたる疾患等で、やむを得ず法定接種期間を超えてしまった場合;https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/teiki_yobo1.htmlをご覧ください。\n渋谷区へ転入後は、渋谷区以外で発行された予診票は使用できません。通知送付時期を過ぎてから転入した場合および予診票を紛失した場合は、渋谷区の予診票を発行しますので、母子健康手帳など接種歴が分かるものをご用意のうえ、本庁舎７階 地域保健課予防接種係までお越しいただくか、電話でお問い合わせください。スマート申請（定期予防接種予診票発行申請）;https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakkoから申請することもできます。\n（注）本申請は法定接種期間のみの定期予防接種予診票の発行手続きとなります。\n予防接種による副反応について\n予防接種の種類によっても異なりますが、接種後に熱が出たり接種した部分が腫れたりすることがあります。\nほとんどは数日以内に自然に治りますが、まれに高熱やひどい腫れ、ひきつけなどの症状を起こすこともあります。接種後にこうした症状が出た場合は、速やかに医療機関を受診してください。\n予防接種後の重い副反応については、報告基準が定められていて、基準にあてはまる症状を診断した医師は、国に報告することとされています。\nなお、こうした重い副反応について、被接種者や保護者から報告することもできます。地域保健課予防接種係までご相談ください。また、定期予防接種により引き起こされた副反応により、健康被害が生じた場合には、予防接種法に基づく予防接種健康被害救済制度により、一定の給付が行われる場合があります。種場所は23区内の契約医療機関です。\nDT二種混合（ジフテリア、破傷風）2期\n|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|11歳～13歳未満|11歳の時に1回接種|満11歳に達する前月末に送付|23区内契約医療機関|\n",
+      "target": {
+        "targetPersons": "|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|11歳～13歳未満|11歳の時に1回接種|満11歳に達する前月末に送付|23区内契約医療機関|\n",
+        "lessThan": {
+          "targetAge": 13,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 11,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|11歳～13歳未満|11歳の時に1回接種|満11歳に達する前月末に送付|23区内契約医療機関|\n"
+      },
+      "support": {
+        "description": "|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|11歳～13歳未満|11歳の時に1回接種|満11歳に達する前月末に送付|23区内契約医療機関|\n",
+        "monetarySupport": null,
+        "materiallySupport": "|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|11歳～13歳未満|11歳の時に1回接種|満11歳に達する前月末に送付|23区内契約医療機関|\n"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "23区内契約医療機関",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|11歳～13歳未満|11歳の時に1回接種|満11歳に達する前月末に送付|23区内契約医療機関|\n",
+      "procedurePersons": null,
+      "procedureMethod": "①　お子さんの健康状態の良いときに受けてください。\n②　予防接種の当日は、「接種予診票」を記入し、母子健康手帳と一緒にお持ちください。\n③　体温については、当日接種する医療機関で検温します。\n④　接種の際には、日頃からお子さんの健康状態をよくみている保護者が付き添ってください。\nなお、保護者以外の方でも、普段からお子さんの健康状態をよく知っている方であれば、保護者からの委任にもとづき付き添うことができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "接種予診票,母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "地域保健課予防接種係",
+      "relatedLink": [
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/142327e909e24430b61679cdad41d164/yobo_oshirase_DT2.pdf",
+          "title": "DTワクチン2期のお知らせ（PDF 117KB）"
+        },
+        {
+          "uri": "https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakko/door",
+          "title": "スマート申請（定期予防接種予診票発行申請）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/7d78f81872f54db4aeb67149d01f93f0/yobo_teiki_ichiran.pdf",
+          "title": "渋谷区予防接種実施医療機関一覧（令和6年4月1日現在）（PDF 202KB）"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/teiki_yobo1.html",
+          "title": "長期にわたる疾患等で、やむを得ず法定接種期間を超えてしまった場合"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/sessyuencho.html",
+          "title": "新型コロナウイルス感染症の発生に伴う定期予防接種の接種期限延長について"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/08bfc6093ace4a37829e6767432c5dfe/yobo_kodomonoyobosessyu.pdf",
+          "title": "子どもの予防接種一覧表（令和6年4月1日現在）（PDF 150KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/kodomo_teiki.html",
+        "title": "子どもの定期予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "地域保健課予防接種係",
+        "contactPhone": "03-3463-1412",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4937",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+12+UM54",
+        "organization": "9000020131130",
+        "compartment": "地域保健課予防接種係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-17",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "HPV（子宮頸がん予防）ワクチン"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "子どもの定期予防接種\n予防接種法で対象疾病など定められた子どもの定期予防接種です。定期予防接種は予防接種法に基づく予防接種で、対象者は受けるよう努めなければならないとされています。法定接種期間であれば、決められた回数を無料で受けることができます。\n（注）長期にわたる疾患等でやむを得ず、定期予防接種を法定接種期間内に受けることができなかったと認められる場合は、予防接種が受けられるようになってから2年間、定期予防接種として接種することができます。詳しくは、長期にわたる疾患等で、やむを得ず法定接種期間を超えてしまった場合;https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/teiki_yobo1.htmlをご覧ください。\n渋谷区へ転入後は、渋谷区以外で発行された予診票は使用できません。通知送付時期を過ぎてから転入した場合および予診票を紛失した場合は、渋谷区の予診票を発行しますので、母子健康手帳など接種歴が分かるものをご用意のうえ、本庁舎７階 地域保健課予防接種係までお越しいただくか、電話でお問い合わせください。スマート申請（定期予防接種予診票発行申請）;https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakkoから申請することもできます。\n（注）本申請は法定接種期間のみの定期予防接種予診票の発行手続きとなります。\n予防接種による副反応について\n予防接種の種類によっても異なりますが、接種後に熱が出たり接種した部分が腫れたりすることがあります。\nほとんどは数日以内に自然に治りますが、まれに高熱やひどい腫れ、ひきつけなどの症状を起こすこともあります。接種後にこうした症状が出た場合は、速やかに医療機関を受診してください。\n予防接種後の重い副反応については、報告基準が定められていて、基準にあてはまる症状を診断した医師は、国に報告することとされています。\nなお、こうした重い副反応について、被接種者や保護者から報告することもできます。地域保健課予防接種係までご相談ください。また、定期予防接種により引き起こされた副反応により、健康被害が生じた場合には、予防接種法に基づく予防接種健康被害救済制度により、一定の給付が行われる場合があります。種場所は23区内の契約医療機関です。\nHPV（子宮頸がん予防）ワクチン\n3回接種が完了するまでに約6か月間かかります。\n（注）接種後は体調に変化がないか十分に注意してください。\n（注）令和5年4月1日より、定期予防接種（公費で接種できる）HPV（子宮頸がん予防）ワクチンに9価ワクチン（シルガード９）が追加されました。\n|法定接種期間|接種回数|予診票の送付時期|\n|:----|:----|:----|\n|12歳になる年度の初日から16歳になる年度末日までの女性<br>（小学6年生～高校1年生相当）|3回接種<br>ただし、シルガード9（9価）については、15歳の誕生日前日までに1回目の接種を行えば2回で接種完了することができる。|新たに接種対象者となる女性に対して4月中旬に送付<br>（注）法定接種期間内であれば、手持ちの予診票で接種可能。|\n \n実施場所\n23区内契約医療機関。|\n\n相談窓口\n接種前の相談\n|内容|問い合わせ先|\n|:----|:----|\n|副反応への懸念など、医学的な内容について|かかりつけ医、接種を予定する医療機関|\n|HPVワクチンを含む予防接種、その他感染症全般について|厚生労働省　感染症・予防接種相談窓口（電話： 03-5656-8246）|\n|対象者、接種期間、実施医療機関、予診票の再発行などについて|渋谷区保健所　地域保健課予防接種係（電話：03-3463-1412）|\n\n接種後の相談\n|内容|問い合わせ先|\n|:----|:----|\n|体調不良などの気になる症状、医学的な内容について|かかりつけ医、接種を予定する医療機関|\n|HPVワクチンを含む予防接種、その他感染症全般について|厚生労働省　感染症・予防接種相談窓口（電話：0120-331-453）|\n|接種後の不安や疑問について|東京都保健医療局　感染症対策部防疫課（電話：03-5320-5892）|\n|予防接種健康被害救済制度について|渋谷区保健所　地域保健課予防接種係（電話：03-3463-1412）|\n\n",
+      "target": {
+        "targetPersons": "|法定接種期間|接種回数|予診票の送付時期|\n|:----|:----|:----|\n|12歳になる年度の初日から16歳になる年度末日までの女性<br>（小学6年生～高校1年生相当）|3回接種<br>ただし、シルガード9（9価）については、15歳の誕生日前日までに1回目の接種を行えば2回で接種完了することができる。|新たに接種対象者となる女性に対して4月中旬に送付<br>（注）法定接種期間内であれば、手持ちの予診票で接種可能。|\n",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "|法定接種期間|接種回数|予診票の送付時期|\n|:----|:----|:----|\n|12歳になる年度の初日から16歳になる年度末日までの女性<br>（小学6年生～高校1年生相当）|3回接種<br>ただし、シルガード9（9価）については、15歳の誕生日前日までに1回目の接種を行えば2回で接種完了することができる。|新たに接種対象者となる女性に対して4月中旬に送付<br>（注）法定接種期間内であれば、手持ちの予診票で接種可能。|\n"
+      },
+      "support": {
+        "description": "|法定接種期間|接種回数|予診票の送付時期|\n|:----|:----|:----|\n|12歳になる年度の初日から16歳になる年度末日までの女性<br>（小学6年生～高校1年生相当）|3回接種<br>ただし、シルガード9（9価）については、15歳の誕生日前日までに1回目の接種を行えば2回で接種完了することができる。|新たに接種対象者となる平成23年4月2日から平成24年4月1日生まれの女性に対して4月中旬に送付済み<br>（注）法定接種期間内であれば、手持ちの予診票で接種可能。|\n",
+        "monetarySupport": null,
+        "materiallySupport": "|法定接種期間|接種回数|予診票の送付時期|\n|:----|:----|:----|\n|12歳になる年度の初日から16歳になる年度末日までの女性<br>（小学6年生～高校1年生相当）|3回接種<br>ただし、シルガード9（9価）については、15歳の誕生日前日までに1回目の接種を行えば2回で接種完了することができる。|新たに接種対象者となる平成23年4月2日から平成24年4月1日生まれの女性に対して4月中旬に送付済み<br>（注）法定接種期間内であれば、手持ちの予診票で接種可能。|\n"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "23区内契約医療機関",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "|法定接種期間|接種回数|予診票の送付時期|\n|:----|:----|:----|\n|12歳になる年度の初日から16歳になる年度末日までの女性<br>（小学6年生～高校1年生相当）|3回接種<br>ただし、シルガード9（9価）については、15歳の誕生日前日までに1回目の接種を行えば2回で接種完了することができる。|新たに接種対象者に対して4月中旬に送付<br>（注）法定接種期間内であれば、手持ちの予診票で接種可能。|\n",
+      "procedurePersons": null,
+      "procedureMethod": "①体調の良いときに受けてください。\n②「接種予診票」を3セット（1回目・2回目・3回目）送付しています。1回目の用紙から順番に使用してください。\n③予防接種の当日は、「接種予診票」（３枚複写）の「年齢」「質問事項の回答」に記入、「保護者・被接種者等記入欄（自署欄）に署名し、医療機関へ３枚とも提出してください。併せて本人確認書類（マイナンバーカード、健康保険証など）を一緒にお持ちください。（過去の接種記録がわかるよう、できるだけ母子健康手帳も一緒にお持ちください。）\n④体温については、当日接種を行う医療機関で検温します。\n⑤接種後は注射の痛みで体調が悪くなることがあるため、すぐに帰宅せず、３０分ほどは医師の指示に従い、座って様子をみてください",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "接種予診票,本人確認書類（マイナンバーカード、健康保険証など）,母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "地域保健課予防接種係",
+      "relatedLink": [
+        {
+          "uri": "https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakko/door",
+          "title": "スマート申請（定期予防接種予診票発行申請）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/7d78f81872f54db4aeb67149d01f93f0/yobo_teiki_ichiran.pdf",
+          "title": "渋谷区予防接種実施医療機関一覧（令和6年4月1日現在）（PDF 202KB）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou/hpv_qa.html",
+          "title": "HPVワクチンに関するQ＆A（厚生労働省ホームページ）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/ecab3c67dbfb418b81fe8d1ab3ff0883/yobosessyugakari_HPV.pdf",
+          "title": "渋谷区子宮頸がん予防ワクチン接種実施医療機関一覧（令和6年6月24日現在）（PDF 135KB）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou/hpv_9-valentHPVvaccine.html",
+          "title": "9価ヒトパピローマウイルス（HPV）ワクチン（シルガード9）について（外部サイト））"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/sessyuencho.html",
+          "title": "新型コロナウイルス感染症の発生に伴う定期予防接種の接種期限延長について"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/content/10900000/000901220.pdf",
+          "title": "厚生労働省リーフレット（詳細版）（外部サイト）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/content/10900000/000901221.pdf",
+          "title": "HPVワクチンを受けたお子様と保護者の方へ（外部サイト）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/238faead64904b53a5bfba15ba101858/yobo_oshirase_HPV.pdf",
+          "title": "子宮頸がん予防ワクチンのお知らせ（PDF 335KB）"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/teiki_yobo1.html",
+          "title": "長期にわたる疾患等で、やむを得ず法定接種期間を超えてしまった場合"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/08bfc6093ace4a37829e6767432c5dfe/yobo_kodomonoyobosessyu.pdf",
+          "title": "子どもの予防接種一覧表（令和6年4月1日現在）（PDF 150KB）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/content/10900000/000901219.pdf",
+          "title": "厚生労働省リーフレット（概要版）（外部サイト）"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/catch.html",
+          "title": "積極的な勧奨の差し控えにより接種機会を逃した人への対応「キャッチアップ接種」"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/kodomo_teiki.html",
+        "title": "子どもの定期予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "地域保健課予防接種係",
+        "contactPhone": "03-3463-1412",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4937",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+13+UM54",
+        "organization": "9000020131130",
+        "compartment": "地域保健課予防接種係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-17",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊娠の届出・母子健康手帳の交付",
+        "shortName": "妊娠届"
+      },
+      "summary": "妊娠がわかったら妊娠の届出をしてください。妊娠の届出をした妊婦さんに母子健康手帳を交付します。母子健康手帳は、妊娠からお子さんが小学校に入学するまでの、母と子の健康の記録です。育児、予防接種、健康診査などの際に必要となります。",
+      "description": "妊娠届\n妊娠届出に関する案内ページです。\n\n更新日\n\n2023年3月17日\n\n届出窓口\n持ち物\n代理人が届出をする場合\n妊娠届出書に記入する事項\n配付するもの\n医療機関で妊娠の診断を受けた人は、早目に届出をしてください。 母子健康手帳と妊婦健康診査受診票が入った「母と子の保健バッグ」をお渡しします。 妊婦健康診査受診票により、東京都内の契約医療機関で、一部の検査を無料で受けられます。届出前に受けた妊婦健診の費用は助成の対象になりませんので、ご注意ください。\n\n届出窓口\n各保健相談所（中央保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_cyuo.html母子保健係、恵比寿保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_ebisu.html、幡ヶ谷保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_hatagaya.html）\n区役所3階住民戸籍課窓口\n出張所;https://www.city.shibuya.tokyo.jp/shisetsu/kuyakusho/shutchojo/shutchojo_list.html\n区民サービスセンター;https://www.city.shibuya.tokyo.jp/shisetsu/kuyakusho/shutchojo/kumin_sc.html\n（注）届出後、保健師との面談を希望する人は各保健相談所へ届出してください。保健師との面談では、出産へ向けて必要な情報の提供、相談窓口の紹介などを行います。保健相談所以外では面談ができません。\n（注）妊婦・パートナーがともに、またはいずれかが外国人で英語版の母子健康手帳を希望する場合は、各保健相談所または区民サービスセンターへ届出してください。\n\n持ち物\n1.妊婦の本人確認書類\n次のうち、いずれかをご用意ください。\n\n・1点で確認できるもの（個人番号カード、運転免許証、パスポートなど）\n\n・2点で確認できるもの（保険証、年金手帳、社員証など\n\n2.妊婦の個人番号確認書類\n個人番号カード、通知カード、個人番号が記載された住民票の写しのいずれか\n3.妊娠の診断を受けた医療機関名およびその所在地が分かるもの\n診察券など\n本人確認について詳しくは、マイナンバーに関する本人確認;https://www.city.shibuya.tokyo.jp/kurashi/mynumber/mynumber-riyo/mynumber_jimu_kakunin.htmlのページをご覧ください。\n\n（注）マイナンバー（個人番号）は記載しなくても妊娠届出の提出はできますが、法定事項のため、この場合、区が番号を調べて記入しますのでご承知おきください。\n\n代理人が届出をする場合\n次の3点の書類をお持ちください。\n1.委任状（PDF50KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/bd12fa64ac64417793e99e8a81f0d42a/assets_kodomo_000067495.pdf\n2.代理人の身元確認書類　　　\n次のうち、いずれかをご用意ください。\n　・1点で確認できるもの（個人番号カード、運転免許証、パスポートなど）\n　・2点で確認できるもの（保険証、年金手帳、社員証など）\n3.妊婦本人の番号確認書類\n個人番号カード、通知カード、個人番号が記載された住民票の写しのいずれか\n\n妊娠届出書に記入する事項\n妊娠届出書には次の事項を記入していただきます。あらかじめご準備ください。\n・妊婦の氏名・生年月日・年齢・居住地・職業・マイナンバー（個人番号）\n・子の父の氏名・生年月日・年齢・職業\n・妊娠週数\n・分娩予定年月日\n・性病および結核に関する健康診断受診の有無\n・医師または助産師の診断を受けた施設名、所在地、氏名\n・届出者氏名および妊婦との続柄\n\n配付するもの\n・母子健康手帳\n　妊娠、出産の経過やお子さんの成長、予防接種の記録などを記入する手帳です。\n・母と子の保健バッグ\n　妊婦健康診査受診票や各種サービスのご案内などが入っています。妊婦健康診査受診票により、妊婦健康診査やそれに伴う検査の一部について、助成されます。 （回数の上限・1回当たりの助成限度額があります。）",
+      "target": {
+        "targetPersons": "医療機関で妊娠の診断を受けた人",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "・母子健康手帳\n　妊娠、出産の経過やお子さんの成長、予防接種の記録などを記入する手帳です。\n・母と子の保健バッグ\n　妊婦健康診査受診票や各種サービスのご案内などが入っています。妊婦健康診査受診票により、妊婦健康診査やそれに伴う検査の一部について、助成されます。 （回数の上限・1回当たりの助成限度額があります。）",
+        "monetarySupport": null,
+        "materiallySupport": "・母子健康手帳\n　妊娠、出産の経過やお子さんの成長、予防接種の記録などを記入する手帳です。\n・母と子の保健バッグ\n　妊婦健康診査受診票や各種サービスのご案内などが入っています。妊婦健康診査受診票により、妊婦健康診査やそれに伴う検査の一部について、助成されます。 （回数の上限・1回当たりの助成限度額があります。）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "妊娠届出書には次の事項を記入していただきます。あらかじめご準備ください。\n・妊婦の氏名・生年月日・年齢・居住地・職業・マイナンバー（個人番号）\n・子の父の氏名・生年月日・年齢・職業\n・妊娠週数\n・分娩予定年月日\n・性病および結核に関する健康診断受診の有無\n・医師または助産師の診断を受けた施設名、所在地、氏名\n・届出者氏名および妊婦との続柄",
+      "procedurePersons": "本人,代理人",
+      "procedureMethod": "届出窓口\n各保健相談所（中央保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_cyuo.html母子保健係、恵比寿保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_ebisu.html、幡ヶ谷保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_hatagaya.html）\n区役所3階住民戸籍課窓口\n出張所;https://www.city.shibuya.tokyo.jp/shisetsu/kuyakusho/shutchojo/shutchojo_list.html\n区民サービスセンター;https://www.city.shibuya.tokyo.jp/shisetsu/kuyakusho/shutchojo/kumin_sc.html\n（注）届出後、保健師との面談を希望する人は各保健相談所へ届出してください。保健師との面談では、出産へ向けて必要な情報の提供、相談窓口の紹介などを行います。保健相談所以外では面談ができません。\n（注）妊婦・パートナーがともに、またはいずれかが外国人で英語版の母子健康手帳を希望する場合は、各保健相談所または区民サービスセンターへ届出してください。\n\n持ち物\n1.妊婦の本人確認書類\n次のうち、いずれかをご用意ください。\n\n・1点で確認できるもの（個人番号カード、運転免許証、パスポートなど）\n\n・2点で確認できるもの（保険証、年金手帳、社員証など\n\n2.妊婦の個人番号確認書類\n個人番号カード、通知カード、個人番号が記載された住民票の写しのいずれか\n3.妊娠の診断を受けた医療機関名およびその所在地が分かるもの\n診察券など\n本人確認について詳しくは、マイナンバーに関する本人確認;https://www.city.shibuya.tokyo.jp/kurashi/mynumber/mynumber-riyo/mynumber_jimu_kakunin.htmlのページをご覧ください。\n\n（注）マイナンバー（個人番号）は記載しなくても妊娠届出の提出はできますが、法定事項のため、この場合、区が番号を調べて記入しますのでご承知おきください。\n\n代理人が届出をする場合\n次の3点の書類をお持ちください。\n1.委任状（PDF50KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/bd12fa64ac64417793e99e8a81f0d42a/assets_kodomo_000067495.pdf\n2.代理人の身元確認書類　　　\n次のうち、いずれかをご用意ください。\n　・1点で確認できるもの（個人番号カード、運転免許証、パスポートなど）\n　・2点で確認できるもの（保険証、年金手帳、社員証など）\n3.妊婦本人の番号確認書類\n個人番号カード、通知カード、個人番号が記載された住民票の写しのいずれか\n\n妊娠届出書に記入する事項\n妊娠届出書には次の事項を記入していただきます。あらかじめご準備ください。\n・妊婦の氏名・生年月日・年齢・居住地・職業・マイナンバー（個人番号）\n・子の父の氏名・生年月日・年齢・職業\n・妊娠週数\n・分娩予定年月日\n・性病および結核に関する健康診断受診の有無\n・医師または助産師の診断を受けた施設名、所在地、氏名\n・届出者氏名および妊婦との続柄",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "医療機関で妊娠の診断を受けた人は、早目に届出をしてください"
+      },
+      "electronicSubmission": false,
+      "belongings": "1.妊婦の本人確認書類\n次のうち、いずれかをご用意ください。\n\n・1点で確認できるもの（個人番号カード、運転免許証、パスポートなど）\n\n・2点で確認できるもの（保険証、年金手帳、社員証など\n\n2.妊婦の個人番号確認書類\n個人番号カード、通知カード、個人番号が記載された住民票の写しのいずれか\n3.妊娠の診断を受けた医療機関名およびその所在地が分かるもの\n診察券など\n本人確認について詳しくは、マイナンバーに関する本人確認;https://www.city.shibuya.tokyo.jp/kurashi/mynumber/mynumber-riyo/mynumber_jimu_kakunin.htmlのページをご覧ください。\n\n（注）マイナンバー（個人番号）は記載しなくても妊娠届出の提出はできますが、法定事項のため、この場合、区が番号を調べて記入しますのでご承知おきください。\n代理人が届出をする場合\n次の3点の書類をお持ちください。\n1.委任状（PDF50KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/bd12fa64ac64417793e99e8a81f0d42a/assets_kodomo_000067495.pdf\n2.代理人の身元確認書類　　　\n次のうち、いずれかをご用意ください。\n　・1点で確認できるもの（個人番号カード、運転免許証、パスポートなど）\n　・2点で確認できるもの（保険証、年金手帳、社員証など）\n3.妊婦本人の番号確認書類\n個人番号カード、通知カード、個人番号が記載された住民票の写しのいずれか",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "各保健相談所（中央保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_cyuo.html母子保健係、恵比寿保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_ebisu.html、幡ヶ谷保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_hatagaya.html）\n区役所3階住民戸籍課窓口\n出張所;https://www.city.shibuya.tokyo.jp/shisetsu/kuyakusho/shutchojo/shutchojo_list.html\n区民サービスセンター;https://www.city.shibuya.tokyo.jp/shisetsu/kuyakusho/shutchojo/kumin_sc.html\n（注）届出後、保健師との面談を希望する人は各保健相談所へ届出してください。保健師との面談では、出産へ向けて必要な情報の提供、相談窓口の紹介などを行います。保健相談所以外では面談ができません。\n（注）妊婦・パートナーがともに、またはいずれかが外国人で英語版の母子健康手帳を希望する場合は、各保健相談所または区民サービスセンターへ届出してください。",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/kuyakusho/shutchojo/shutchojo_list.html",
+          "title": "出張所"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/kuyakusho/shutchojo/kumin_sc.html",
+          "title": "区民サービスセンター"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_ebisu.html",
+          "title": "恵比寿保健相談所"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_cyuo.html",
+          "title": "中央保健相談所"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_hatagaya.html",
+          "title": "幡ヶ谷保健相談所"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kurashi/mynumber/mynumber-riyo/mynumber_jimu_kakunin.html",
+          "title": "本人確認"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kodomo/ninshin/ninshin-todoke/ninshin_todoke.html",
+        "title": "妊娠届"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "中央保健相談所母子保健係",
+        "contactPhone": "03-3463-2409",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4944",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM1",
+        "organization": "9000020131130",
+        "compartment": "中央保健相談所母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-17",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第15条（妊娠の届出）、第16条（母子健康手帳）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "077",
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児医療費（子ども医療費）の助成",
+        "shortName": "子ども医療費助成"
+      },
+      "summary": "子どもの保健対策を充実し、子育て世帯の経済的負担を軽減するため、お子さんが病気やけがなどにより健康保険を使って医療機関で受診した場合、保険診療の自己負担分（2割または3割）の一部を助成しています。",
+      "description": "子ども医療費助成\n子ども医療費助成に関する案内ページです。\n\n更新日\n\n2024年3月15日\n\n助成対象者\n助成内容\n医療証の交付申請（受給資格の申請）\n助成の受け方\n医療助成費の支給申請（払い戻しの申請）\n医療証の再交付申請\n届け出が必要なとき（住所変更・保険変更など）\n申請窓口（郵送先）\nお知らせ\n2024年3月15日\n\n新小学1年生のお子さん （平成29年4月2日～平成30年4月1日生まれ）の医療証は、令和6年4月に「マル乳医療証」から「マル子医療証」に切り替わります（切り替えに伴う手続きは不要です）。令和6年4月1日から有効の子ども医療証（淡いオレンジ色）を3月15日に発送予定です。3月末を過ぎても新たな医療証が届かない場合は、渋谷区子育て給付係（電話：03-3463-2558）にお問い合わせください。また、有効期間が終了した子ども医療証は、ご自身でハサミなどで処分してください。\n\n2024年3月15日\n\n新高校1年生相当世代のお子さん （平成20年4月2日～平成21年4月1日生まれ）の医療証は、令和6年4月に「マル子医療証」から「マル青医療証」に切り替わります（切り替えに伴う手続きは不要です）。令和6年4月1日から有効の子ども医療証（淡いオレンジ色）を3月15日に発送予定です。3月末を過ぎても新たな医療証が届かない場合は、渋谷区子育て給付係（電話：03-3463-2558）にお問い合わせください。また、有効期間が終了した子ども医療証は、ご自身でハサミなどで処分してください。\n\n2024年3月15日\n\n令和6年3月に高校卒業相当世代となるお子さん（平成17年4月2日～平成18年4月1日生まれ）の医療証の有効期間は、令和6年3月31日までです。4月以降は使用できません。有効期間が終了した子ども医療証は、ご自身でハサミなどで処分してください。\n\n区内在住で日本の健康保険に加入している子どもの医療費を助成します。\n乳幼児医療証（マル乳医療証）、子ども医療証（マル子医療証）、高校生等医療証（マル青医療証）があります。\n\n助成対象者\n区内に住所を有する0歳から18歳に達する日以後の最初の3月31日までの間にあるお子さんを養育している人（保護者）\nなお、お子さんの状況が次のいずれかに該当する場合は、当制度の助成対象になりません。\n\n生活保護を受けている場合\n日本の健康保険に加入していない場合\n児童福祉施設などに措置入所している場合\n里親に委託されている場合\n（注）高校生相当世代（15歳の4月1日から18歳の3月31日まで）のお子さんが、保護者と別居しているときや誰からも監護（お子さんの生活について必要な監督保護）されていない場合には、渋谷区子育て給付係（電話：03-3463-2558）までご相談ください。\n\n医療証の種類\n乳幼児医療証（マル乳医療証）：0歳から6歳に達する日以後の最初の3月31日まで\n子ども医療証（マル子医療証）：6歳の4月1日から15歳に達する日以後の最初の3月31日まで\n高校生等医療証（マル青医療証）：15歳の4月1日から18歳に達する日以後の最初の3月31日まで（高校在学中か否かを問いません）\n（注）医療証の有効期間は、毎年9月30日までです。更新に伴う手続きは不要です。毎年9月下旬頃、保護者宛てに新しい医療証を郵送します。\n（注）新小学1年生は、「乳幼児医療証」から「子ども医療証」に切り替わります。切り替えに伴う手続きは不要です。6歳になって最初の3月下旬頃に「子ども医療証」を郵送します。\n（注）新高校1年生相当世代の人は、「子ども医療証」から「高校生等医療証」に切り替わります。切り替えに伴う手続きは不要です。15歳になって最初の3月下旬頃に「高校生等医療証」を郵送します。\n\n助成内容\n保険診療内の自己負担分（入院・通院・調剤など）\n（注）健康保険が適用されない場合（予防接種・健康診断・薬の容器代、入院時の差額ベッド代など）は助成の対象にはなりません。\n\n入院時の食事療養費の自己負担分\n補装具（治療用眼鏡など）で健康保険からの給付が決定されたもの\n医療証の交付申請（受給資格の申請）\n助成を受けるには医療証の交付申請が必要です。保護者（申請者）の所得制限はありません。\n出生・転入から14日以内に申請すると、出生・転入の日から助成が受けられます。それ以降の申請は、申請書を受け付けた日から助成します。\n郵送または窓口で下記「申請に必要なもの」を提出してください。\nオンラインでも申請ができます。\n\n申請に必要なもの（申請書はダウンロードしてお使いいただけます）\n子ども医療費助成医療証交付申請書（PDF 262.25KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/821c7fa17a2f4f0d9e8726c72d3554a8/kodomoiryojoseiiryoshokouhu0401.pdf\n子どもの健康保険証（おもて面）のコピー\n（注）出生直後の場合は、子どもが加入予定の保護者の健康保険証のコピーを提出し、後日、子どもの保険証のコピーを提出してください。\n\nオンライン申請\n子ども医療費助成　医療証の交付申請（外部サイト）;https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/kodomoiryo-shinkikohuから申請ができます。\n\n助成の受け方\n東京都内の医療機関で受診\n健康保険証と医療証を提示してください。保険診療内の自己負担分を支払わずに受診できます。\nなお、次のいずれかの状況に該当する場合は、医療機関の領収書（原本）を添えて払い戻しの申請をしてください。\n\n医療証を忘れたとき\n医療証を取り扱わない医療機関で受診したとき\n入院し、食事療養費を支払ったとき\n東京都外の医療機関で受診\n医療証は使用できませんので、健康保険証のみ提示してください。窓口で支払った自己負担分は領収書（原本）を添えて払い戻しの申請をすることで、助成されます。\n\n東京都外の国民健康保険加入者\n加入している健康保険が東京都外に本部のある国民健康保険組合（○○県医師国民健康保険組合など）の人は医療証が使えません。医療証は提示せずに健康保険証のみで受診してください。窓口で支払った自己負担分は領収書（原本）を添えて払い戻しの申請をすることで、助成されます。\n\n医療助成費の支給申請（払い戻しの申請）\n次のようなときには、申請により医療費を助成（払い戻し）します。\n\n東京都外の医療機関で受診したとき\n医療証を取り扱わない医療機関で受診したとき\n入院し、食事療養費を支払ったとき\n医療証・健康保険証を使わずに受診（10割負担）したとき\n補装具を作ったとき\n郵送または窓口で下記「申請に必要なもの」を提出してください。\n（注）4、5の場合は、加入されている健康保険組合などへ先に申請が必要となります。\n（注）医療費は、医療証に記載されている保護者名義の口座に振り込みます。\n（注）申請から振り込みまで2～3か月かかる場合があります。\n（注）オンライン申請はできません。\n\n払い戻しの申請の前に\n医療証・健康保険証を使わずに受診（10割負担）したときや補装具を作ったときには、加入している健康保険組合などへ保険負担分の払い戻しの申請をしてください。保険負担分の申請が認められると健康保険組合などより「支給決定通知書」が届きます。\nお手元に届く「支給決定通知書」と下記の必要書類が渋谷区へ払い戻しの申請をする際の必要書類になります。\n\n申請に必要なもの（申請書はダウンロードしてお使いいただけます）\n子ども医療助成費支給申請書（PDF 191.61KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/6a85656c1f4341afa7e972b2e329633a/kodomoiryojoseiiryojoseihishinsei0401.pdf（注）子ども医療助成費支給申請書【記入例】（PDF 278.76KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/c9404a814660495aac0e201c83e49b18/kodomoiryojoseiiryojoseihishiseikinyurei0401.pdf\n子どもの健康保険証（郵送の場合はおもて面のコピー）\n領収書の原本（健康保険組合などに保険負担分の払い戻しをした場合はコピー可）\n（注）ご提出いただく領収書には\n\n受診者氏名\n\n領収金額\n\n医療保険対象点数\n\n診療年月日\n\n医療機関名称\n\n領収印\n\n（入院時）食事療養費自己負担額\n\nの項目が記載されていることが必要です。\n\n（注）レシート形式等で上記の必要項目が記載されていない領収書では払い戻しができません。\n\n支給決定通知書\n（注）医療証・健康保険証を使わずに受診（10割負担）したときや補装具を作ったときに必要です。\n\n医師の診断書または意見書のコピー\n（注）補装具を作ったときに必要です。\n\n医療証の再交付申請\nすでにお持ちの医療証を紛失したり、汚してしまった場合、申請すれば医療証を再交付します。\n郵送または窓口で下記の申請書を提出してください。\nオンラインでも申請ができます。\n\n申請書（ダウンロードしてお使いいただけます）\n子ども医療費助成医療証再交付申請書（PDF 66.32KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/db7daa2c440f4b0bb1f121eb473dda8c/kodomoiryojoseiiryoshosaikouhu0401.pdf.pdf\n（注）郵送申請の場合、申請書が係に届いた翌（開庁）日に、再交付した医療証を保護者宛てに郵送します。\n（注）窓口申請の場合は即日交付となり、窓口にてお渡しします。\n（注）出張所・区民サービスセンターでは受付（再交付）できません。\n\nオンライン申請\n子ども医療費助成　医療証の再交付申請（外部サイト）;https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/kodomoiryo-saikohuから申請ができます。\n（注）オンライン申請の場合、申請日の翌（開庁）日に、再交付した医療証を保護者宛てに郵送します。\n\n届け出が必要なとき（住所変更・保険変更など）\n次のような場合、保護者からの届け出が必要です。届け出内容に基づき、新たに医療証を交付します。\n\n住所が変わったとき\n氏名が変わったとき\n加入する健康保険が変わったとき（注）新たな医療証は交付しません。\n医療証の保護者が変わったとき\n郵送または窓口で下記の申請書を提出してください。\nオンラインでも申請ができます。\n\n申請書（ダウンロードしてお使いいただけます）\n子ども医療費助成申請事項変更届（PDF 84.12KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/8437a19fbf8e4e0692e64764542d1b32/kodomoiryojoseihenkou0401.pdf\n（注）加入する健康保険が変わった場合は、子どもの新しい健康保険証（おもて面）のコピーの提出が必要です。\n\nオンライン申請\n住所が変わったとき\n子ども医療費助成　住所変更届（外部サイト）;https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/kodomoiryo-jusyohenkouから申請ができます。\n\n氏名が変わったとき\n子ども医療費助成　氏名変更届（外部サイト）;https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/kodomoiryo-shimeihenkouから申請ができます。\n\n加入する健康保険が変わったとき\n子ども医療費助成　保険変更届（外部サイト）;https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/kodomoiryo-hokenhenkouから申請ができます。\n（注）新たな医療証は交付しません。\n\n医療証の保護者が変わったとき\n子ども医療費助成　保護者変更届（外部サイト）;https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/kodomoiryo-hogosyahenkouから申請ができます。\n\n申請窓口（郵送先）\n区役所4階子ども青少年課子育て給付係\n郵送または、一部の届け出はオンラインでも申請できます。（係への到着日が申請受付日となります。）\n\n郵送先\n〒150-8010（住所不要）渋谷区役所 子ども青少年課子育て給付係",
+      "target": {
+        "targetPersons": "区内に住所を有する0歳から18歳に達する日以後の最初の3月31日までの間にあるお子さんを養育している人（保護者）\nなお、お子さんの状況が次のいずれかに該当する場合は、当制度の助成対象になりません。\n・生活保護を受けている場合\n・日本の健康保険に加入していない場合\n・児童福祉施設などに措置入所している場合\n・里親に委託されている場合\n（注）高校生相当世代（15歳の4月1日から18歳の3月31日まで）のお子さんが、保護者と別居しているときや誰からも監護（お子さんの生活について必要な監督保護）されていない場合には、渋谷区子育て給付係（電話：03-3463-2558）までご相談ください。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "0歳から18歳に達する日以後の最初の3月31日までの間にあるお子さん"
+      },
+      "support": {
+        "description": "・保険診療内の自己負担分（入院・通院・調剤など）\n（注）健康保険が適用されない場合（予防接種・健康診断・薬の容器代、入院時の差額ベッド代など）は助成の対象にはなりません。\n・入院時の食事療養費の自己負担分\n・補装具（治療用眼鏡など）で健康保険からの給付が決定されたもの",
+        "monetarySupport": "・保険診療内の自己負担分（入院・通院・調剤など）\n（注）健康保険が適用されない場合（予防接種・健康診断・薬の容器代、入院時の差額ベッド代など）は助成の対象にはなりません。\n・入院時の食事療養費の自己負担分\n・補装具（治療用眼鏡など）で健康保険からの給付が決定されたもの",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "助成を受けるには医療証の交付申請が必要です。保護者（申請者）の所得制限はありません。\n出生・転入から14日以内に申請すると、出生・転入の日から助成が受けられます。それ以降の申請は、申請書を受け付けた日から助成します。\n郵送または窓口で下記「申請に必要なもの」を提出してください。\nオンラインでも申請ができます。\n\n申請に必要なもの（申請書はダウンロードしてお使いいただけます）\n子ども医療費助成医療証交付申請書（PDF 262.25KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/821c7fa17a2f4f0d9e8726c72d3554a8/kodomoiryojoseiiryoshokouhu0401.pdf\n子どもの健康保険証（おもて面）のコピー\n（注）出生直後の場合は、子どもが加入予定の保護者の健康保険証のコピーを提出し、後日、子どもの保険証のコピーを提出してください。\n\nオンライン申請\n子ども医療費助成　医療証の交付申請（外部サイト）;https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/kodomoiryo-shinkikohuから申請ができます。\n\n助成の受け方\n東京都内の医療機関で受診\n健康保険証と医療証を提示してください。保険診療内の自己負担分を支払わずに受診できます。\nなお、次のいずれかの状況に該当する場合は、医療機関の領収書（原本）を添えて払い戻しの申請をしてください。\n\n医療証を忘れたとき\n医療証を取り扱わない医療機関で受診したとき\n入院し、食事療養費を支払ったとき\n東京都外の医療機関で受診\n医療証は使用できませんので、健康保険証のみ提示してください。窓口で支払った自己負担分は領収書（原本）を添えて払い戻しの申請をすることで、助成されます。\n\n東京都外の国民健康保険加入者\n加入している健康保険が東京都外に本部のある国民健康保険組合（○○県医師国民健康保険組合など）の人は医療証が使えません。医療証は提示せずに健康保険証のみで受診してください。窓口で支払った自己負担分は領収書（原本）を添えて払い戻しの申請をすることで、助成されます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出生・転入から14日以内に申請すると、出生・転入の日から助成が受けられます。それ以降の申請は、申請書を受け付けた日から助成します。"
+      },
+      "electronicSubmission": true,
+      "belongings": "健康保険証と医療証",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "区役所4階子ども青少年課子育て給付係",
+      "relatedLink": [
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/8437a19fbf8e4e0692e64764542d1b32/kodomoiryojoseihenkou0401.pdf",
+          "title": "子ども医療費助成申請事項変更届（PDF 84.12KB）"
+        },
+        {
+          "uri": "https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/kodomoiryo-shimeihenkou",
+          "title": "子ども医療費助成　氏名変更届（外部サイト）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/6a85656c1f4341afa7e972b2e329633a/kodomoiryojoseiiryojoseihishinsei0401.pdf",
+          "title": "子ども医療助成費支給申請書（PDF 191.61KB）"
+        },
+        {
+          "uri": "https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/kodomoiryo-saikohu",
+          "title": "子ども医療費助成　医療証の再交付申請（外部サイト）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/db7daa2c440f4b0bb1f121eb473dda8c/kodomoiryojoseiiryoshosaikouhu0401.pdf.pdf",
+          "title": "子ども医療費助成医療証再交付申請書（PDF 66.32KB）"
+        },
+        {
+          "uri": "https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/kodomoiryo-hogosyahenkou",
+          "title": "子ども医療費助成　保護者変更届（外部サイト）"
+        },
+        {
+          "uri": "https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/kodomoiryo-hokenhenkou",
+          "title": "子ども医療費助成　保険変更届（外部サイト）"
+        },
+        {
+          "uri": "https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/kodomoiryo-jusyohenkou",
+          "title": "子ども医療費助成　住所変更届（外部サイト）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/c9404a814660495aac0e201c83e49b18/kodomoiryojoseiiryojoseihishiseikinyurei0401.pdf",
+          "title": "子ども医療助成費支給申請書【記入例】（PDF 278.76KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kodomo/kodomo-teate-josei/iryo-josei/kodomo_ij.html",
+        "title": "子ども医療費助成"
+      },
+      "formLink": [
+        {
+          "uri": "https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/kodomoiryo-shinkikohu/door",
+          "title": "子ども医療費助成　医療証の交付申請（外部サイト）"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども青少年課子育て給付係",
+        "contactPhone": "03-3463-2558",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4942",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM23",
+        "organization": "9000020131130",
+        "compartment": "子ども青少年課子育て給付係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-15",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "渋谷区子どもの医療費の助成に関する条例",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "小児用肺炎球菌"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "子どもの定期予防接種\n予防接種法で対象疾病など定められた子どもの定期予防接種です。定期予防接種は予防接種法に基づく予防接種で、対象者は受けるよう努めなければならないとされています。法定接種期間であれば、決められた回数を無料で受けることができます。\n（注）長期にわたる疾患等でやむを得ず、定期予防接種を法定接種期間内に受けることができなかったと認められる場合は、予防接種が受けられるようになってから2年間、定期予防接種として接種することができます。詳しくは、長期にわたる疾患等で、やむを得ず法定接種期間を超えてしまった場合;https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/teiki_yobo1.htmlをご覧ください。\n渋谷区へ転入後は、渋谷区以外で発行された予診票は使用できません。通知送付時期を過ぎてから転入した場合および予診票を紛失した場合は、渋谷区の予診票を発行しますので、母子健康手帳など接種歴が分かるものをご用意のうえ、本庁舎７階 地域保健課予防接種係までお越しいただくか、電話でお問い合わせください。スマート申請（定期予防接種予診票発行申請）;https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakkoから申請することもできます。\n（注）本申請は法定接種期間のみの定期予防接種予診票の発行手続きとなります。\n予防接種による副反応について\n予防接種の種類によっても異なりますが、接種後に熱が出たり接種した部分が腫れたりすることがあります。\nほとんどは数日以内に自然に治りますが、まれに高熱やひどい腫れ、ひきつけなどの症状を起こすこともあります。接種後にこうした症状が出た場合は、速やかに医療機関を受診してください。\n予防接種後の重い副反応については、報告基準が定められていて、基準にあてはまる症状を診断した医師は、国に報告することとされています。\nなお、こうした重い副反応について、被接種者や保護者から報告することもできます。地域保健課予防接種係までご相談ください。また、定期予防接種により引き起こされた副反応により、健康被害が生じた場合には、予防接種法に基づく予防接種健康被害救済制度により、一定の給付が行われる場合があります。種場所は23区内の契約医療機関です。小児用肺炎球菌\n接種開始時期により、接種スケジュールが異なります。\n|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|生後2か月から60月に至るまでの間|生後2か月～7か月に至るまでの間に接種開始し、27日以上の間隔をおいて3回接種。<br>3回目接種後、60日以上の間隔をおいて1回接種。|生後1か月に達した月末に送付|23区内契約医療機関|\n",
+      "target": {
+        "targetPersons": "|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|生後2か月から60月に至るまでの間|生後2か月～7か月に至るまでの間に接種開始し、27日以上の間隔をおいて3回接種。<br>3回目接種後、60日以上の間隔をおいて1回接種。|生後1か月に達した月末に送付|23区内契約医療機関|\n",
+        "lessThan": {
+          "targetAge": 5,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|生後2か月から60月に至るまでの間|生後2か月～7か月に至るまでの間に接種開始し、27日以上の間隔をおいて3回接種。<br>3回目接種後、60日以上の間隔をおいて1回接種。|生後1か月に達した月末に送付|23区内契約医療機関|\n"
+      },
+      "support": {
+        "description": "|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|生後2か月から60月に至るまでの間|生後2か月～7か月に至るまでの間に接種開始し、27日以上の間隔をおいて3回接種。<br>3回目接種後、60日以上の間隔をおいて1回接種。|生後1か月に達した月末に送付|23区内契約医療機関|\n",
+        "monetarySupport": null,
+        "materiallySupport": "|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|生後2か月から60月に至るまでの間|生後2か月～7か月に至るまでの間に接種開始し、27日以上の間隔をおいて3回接種。<br>3回目接種後、60日以上の間隔をおいて1回接種。|生後1か月に達した月末に送付|23区内契約医療機関|\n"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "23区内契約医療機関",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|生後2か月から60月に至るまでの間|生後2か月～7か月に至るまでの間に接種開始し、27日以上の間隔をおいて3回接種。<br>3回目接種後、60日以上の間隔をおいて1回接種。|生後1か月に達した月末に送付|23区内契約医療機関|\n",
+      "procedurePersons": null,
+      "procedureMethod": "①　同封した冊子「予防接種と子どもの健康」をよくお読みいただき、お子さんの健康状態の良いときに受けてください。\n②　「接種予診票」を４セット（１回目・２回目・３回目・追加）送付しています。１回目の用紙から順番に使用してください。なお、追加の接種時期は３回目から間隔があきますので、接種予診票を紛失しないようご注意ください。\n③　予防接種の当日は、「接種予診票」に記入し、母子健康手帳と一緒にお持ちください。（検温は、当日接種する医療機関で行います。）\n④　接種の際には、日頃からお子さんの健康状態をよくみている保護者が付き添ってください。なお、保護者以外の方でも、普段からお子さんの健康状態をよく知っている方であれば、保護者からの委任にもとづき付き添うことができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "接種予診票,母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "地域保健課予防接種係",
+      "relatedLink": [
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/7d78f81872f54db4aeb67149d01f93f0/yobo_teiki_ichiran.pdf",
+          "title": "渋谷区予防接種実施医療機関一覧（令和6年4月1日現在）（PDF 202KB）"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/sessyuencho.html",
+          "title": "新型コロナウイルス感染症の発生に伴う定期予防接種の接種期限延長について"
+        },
+        {
+          "uri": "https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakko/door",
+          "title": "スマート申請（定期予防接種予診票発行申請）"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/teiki_yobo1.html",
+          "title": "長期にわたる疾患等で、やむを得ず法定接種期間を超えてしまった場合"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/0e0b27800854472798c2ce81c39eacb5/yobo_oshirase_syonihaiennkai.pdf",
+          "title": "小児用肺炎球菌ワクチンのお知らせ（PDF 764KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/08bfc6093ace4a37829e6767432c5dfe/yobo_kodomonoyobosessyu.pdf",
+          "title": "子どもの予防接種一覧表（令和6年4月1日現在）（PDF 150KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/kodomo_teiki.html",
+        "title": "子どもの定期予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "地域保健課予防接種係",
+        "contactPhone": "03-3463-1412",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4937",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM54",
+        "organization": "9000020131130",
+        "compartment": "地域保健課予防接種係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-17",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "任意予防接種",
+        "shortName": "おたふくかぜ任意予防接種（全額助成）"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。\nこのうち渋谷区では、次の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+      "description": "子どもの任意予防接種\n予防接種法によらず、本人や保護者の希望による子どもの任意予防接種です。区からの公費助成があります。\n\n任意予防接種とは\n保護者以外の同伴について\n任意予防接種の種類\n任意予防接種とは\n任意予防接種とは、法律に基づかない予防接種で、本人や保護者の希望により接種するものです。希望する人に区からの公費助成があります。\n公費助成で受けた任意予防接種により引き起こされた副反応により健康被害が生じた場合は、独立行政法人医薬品医療機器総合機構法に基づく医薬品副作用被害救済制度および区が加入している予防接種事故賠償補償保険により、一定の給付が行われる場合があります。\n\n保護者以外の同伴について\n委任状・同意書\n16歳未満の人が予防接種を受けようとする際は原則、保護者（予防接種法において、親権を行う者または後見人のこと）の同伴が必要です。\n諸事情で保護者以外の人が同伴する場合、または13歳以上16歳未満のお子さんが一人で接種を受けに行く場合は次の書類をご使用ください。\n（注）必ず予診票の保護者署名欄も事前にご記入ください。\n|該当事項|書類|注意事項|\n|:----|:----|:----|\n|保護者以外の人が同伴する場合|委任状書式（PDF 70KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/1993e556939349df811a6593f4fed1b8/yobo_ininjo_.pdf|同伴する人は普段からお子様やご家族の健康状態をよく知っている人にお願いをしてください。|\n|13歳以上16歳未満のお子さんが一人で接種を受ける場合|同意書書式（PDF 81KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/e91218ea0daa41879620a4698546e72f/assets_kurashi_000065045.pdf|保護者が区から配られている説明書をよく読み、理解・納得した上で、一人で予防接種を受けさせることを希望するときにご使用ください。\nおたふくかぜ任意予防接種（全額助成）\n個別のお知らせ、予診票の発送はありません。区内指定医療機関に直接予約してください。\n（注）住所確認ができる書類・乳幼児医療証を持参してください。\n|対象者|接種回数・助成回数|場所|\n|:----|:----|:----|\n|1歳～3歳|1回|区内の指定医療機関（注）詳しくはお問い合わせください。|\n",
+      "target": {
+        "targetPersons": "|対象者|接種回数・助成回数|場所|\n|:----|:----|:----|\n|1歳～3歳|1回|区内の指定医療機関（注）詳しくはお問い合わせください。|\n",
+        "lessThan": {
+          "targetAge": 4,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "|対象者|接種回数・助成回数|場所|\n|:----|:----|:----|\n|1歳～3歳|区内の指定医療機関（注）詳しくはお問い合わせください。|\n"
+      },
+      "support": {
+        "description": "|対象者|接種回数・助成回数|場所|\n|:----|:----|:----|\n|1歳～3歳|1回|渋谷区おたふくかぜ予防接種指定医療機関一覧（令和6年9月1日現在）（PDF 53KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/631ffa39ea3947ab84936ce4ce4c5c53/otahuku_yobosessyu.pdf|\n",
+        "monetarySupport": null,
+        "materiallySupport": "|対象者|接種回数・助成回数|場所|\n|:----|:----|:----|\n|1歳～3歳|1回|区内の指定医療機関（注）詳しくはお問い合わせください。|\n"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "区内の指定医療機関（注）詳しくはお問い合わせください。",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "個別のお知らせ、予診票の発送はありません。区内指定医療機関に直接予約してください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "住所確認ができる書類・（乳幼児医療証等）・母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "地域保健課予防接種係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/kodomo_ninni.html",
+        "title": "子どもの任意予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "地域保健課予防接種係",
+        "contactPhone": "03-3463-1412",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4937",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM55",
+        "organization": "9000020131130",
+        "compartment": "地域保健課予防接種係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-03",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "渋谷区おたふくかぜ予防接種事業実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "B型肝炎"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "子どもの定期予防接種\n予防接種法で対象疾病など定められた子どもの定期予防接種です。定期予防接種は予防接種法に基づく予防接種で、対象者は受けるよう努めなければならないとされています。法定接種期間であれば、決められた回数を無料で受けることができます。\n（注）長期にわたる疾患等でやむを得ず、定期予防接種を法定接種期間内に受けることができなかったと認められる場合は、予防接種が受けられるようになってから2年間、定期予防接種として接種することができます。詳しくは、長期にわたる疾患等で、やむを得ず法定接種期間を超えてしまった場合;https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/teiki_yobo1.htmlをご覧ください。\n渋谷区へ転入後は、渋谷区以外で発行された予診票は使用できません。通知送付時期を過ぎてから転入した場合および予診票を紛失した場合は、渋谷区の予診票を発行しますので、母子健康手帳など接種歴が分かるものをご用意のうえ、本庁舎７階 地域保健課予防接種係までお越しいただくか、電話でお問い合わせください。スマート申請（定期予防接種予診票発行申請）;https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakkoから申請することもできます。\n（注）本申請は法定接種期間のみの定期予防接種予診票の発行手続きとなります。\n予防接種による副反応について\n予防接種の種類によっても異なりますが、接種後に熱が出たり接種した部分が腫れたりすることがあります。\nほとんどは数日以内に自然に治りますが、まれに高熱やひどい腫れ、ひきつけなどの症状を起こすこともあります。接種後にこうした症状が出た場合は、速やかに医療機関を受診してください。\n予防接種後の重い副反応については、報告基準が定められていて、基準にあてはまる症状を診断した医師は、国に報告することとされています。\nなお、こうした重い副反応について、被接種者や保護者から報告することもできます。地域保健課予防接種係までご相談ください。また、定期予防接種により引き起こされた副反応により、健康被害が生じた場合には、予防接種法に基づく予防接種健康被害救済制度により、一定の給付が行われる場合があります。種場所は23区内の契約医療機関です。\nB型肝炎\n（注）HBs抗原陽性の妊婦から生まれた乳児として健康保険により出生後にB型肝炎ワクチンの投与（抗HBs人免疫グロブリンを併用）の全部または一部を受けた人は除きます。\n（注）任意接種としてすでに接種を受けた回数分は定期接種を受けたものとみなし、残りの回数分が対象となります。\n|標準的年齢（法定接種期間）|標準的な接種期間と接種回数|予診票の送付時期場所|場所|\n|:----|:----|:----|:----|\n|生後1歳に至るまで|生後2～9か月に至るまでの間に、3回接種（27日以上の間隔で2回接種後、1回目から139日（20週）以上あけて1回接種）|生後1か月に達した月末に送付|23区内契約医療機関|\n",
+      "target": {
+        "targetPersons": "|標準的年齢（法定接種期間）|標準的な接種期間と接種回数|予診票の送付時期場所|場所|\n|:----|:----|:----|:----|\n|生後1歳に至るまで|生後2～9か月に至るまでの間に、3回接種（27日以上の間隔で2回接種後、1回目から139日（20週）以上あけて1回接種）|生後1か月に達した月末に送付|23区内契約医療機関|\n",
+        "lessThan": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "|標準的年齢（法定接種期間）|標準的な接種期間と接種回数|予診票の送付時期場所|場所|\n|:----|:----|:----|:----|\n|生後1歳に至るまで|生後2～9か月に至るまでの間に、3回接種（27日以上の間隔で2回接種後、1回目から139日（20週）以上あけて1回接種）|生後1か月に達した月末に送付|23区内契約医療機関|\n"
+      },
+      "support": {
+        "description": "|標準的年齢（法定接種期間）|標準的な接種期間と接種回数|予診票の送付時期場所|場所|\n|:----|:----|:----|:----|\n|生後1歳に至るまで|生後2～9か月に至るまでの間に、3回接種（27日以上の間隔で2回接種後、1回目から139日（20週）以上あけて1回接種）|生後1か月に達した月末に送付|23区内契約医療機関|\n",
+        "monetarySupport": null,
+        "materiallySupport": "|標準的年齢（法定接種期間）|標準的な接種期間と接種回数|予診票の送付時期場所|場所|\n|:----|:----|:----|:----|\n|生後1歳に至るまで|生後2～9か月に至るまでの間に、3回接種（27日以上の間隔で2回接種後、1回目から139日（20週）以上あけて1回接種）|生後1か月に達した月末に送付|23区内契約医療機関|\n"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "23区内契約医療機関",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "|標準的年齢（法定接種期間）|標準的な接種期間と接種回数|予診票の送付時期場所|場所|\n|:----|:----|:----|:----|\n|生後1歳に至るまで|生後2～9か月に至るまでの間に、3回接種（27日以上の間隔で2回接種後、1回目から139日（20週）以上あけて1回接種）|生後1か月に達した月末に送付|23区内契約医療機関|\n",
+      "procedurePersons": null,
+      "procedureMethod": "①　同封した冊子「予防接種と子どもの健康」をよくお読みいただき、お子さんの健康状態の良いときに受けてください。\n②　「接種予診票」を４セット（１回目・２回目・３回目）送付しています。１回目の用紙から順番に使用してください。なお、３回目の接種時期は２回目から間隔があきますので、接種予診票を紛失しないようご注意ください。\n③　予防接種の当日は、「接種予診票」に記入し、母子健康手帳と一緒にお持ちください。（検温は、当日接種する医療機関で行います。）\n④　接種の際には、日頃からお子さんの健康状態をよくみている保護者が付き添ってください。なお、保護者以外の方でも、普段からお子さんの健康状態をよく知っている方であれば、保護者からの委任にもとづき付き添うことができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "接種予診票,母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "地域保健課予防接種係",
+      "relatedLink": [
+        {
+          "uri": "https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakko/door",
+          "title": "スマート申請（定期予防接種予診票発行申請）"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/sessyuencho.html",
+          "title": "新型コロナウイルス感染症の発生に伴う定期予防接種の接種期限延長について"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/528590b9285442e098d1516cb6a67fb7/yobo_oshirase_Bgata.pdf",
+          "title": "B型肝炎ワクチンのお知らせ（PDF 527KB）"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/teiki_yobo1.html",
+          "title": "長期にわたる疾患等で、やむを得ず法定接種期間を超えてしまった場合"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/7d78f81872f54db4aeb67149d01f93f0/yobo_teiki_ichiran.pdf",
+          "title": "渋谷区予防接種実施医療機関一覧（令和6年4月1日現在）（PDF 202KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/08bfc6093ace4a37829e6767432c5dfe/yobo_kodomonoyobosessyu.pdf",
+          "title": "子どもの予防接種一覧表（令和6年4月1日現在）（PDF 150KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/kodomo_teiki.html",
+        "title": "子どもの定期予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "地域保健課予防接種係",
+        "contactPhone": "03-3463-1412",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4937",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+2+UM54",
+        "organization": "9000020131130",
+        "compartment": "地域保健課予防接種係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-17",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "任意予防接種",
+        "shortName": "麻しん風しん（MR）任意予防接種（全額助成）"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。\nこのうち渋谷区では、次の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+      "description": "子どもの任意予防接種\n予防接種法によらず、本人や保護者の希望による子どもの任意予防接種です。区からの公費助成があります。\n\n任意予防接種とは\n保護者以外の同伴について\n任意予防接種の種類\n任意予防接種とは\n任意予防接種とは、法律に基づかない予防接種で、本人や保護者の希望により接種するものです。希望する人に区からの公費助成があります。\n公費助成で受けた任意予防接種により引き起こされた副反応により健康被害が生じた場合は、独立行政法人医薬品医療機器総合機構法に基づく医薬品副作用被害救済制度および区が加入している予防接種事故賠償補償保険により、一定の給付が行われる場合があります。\n\n保護者以外の同伴について\n委任状・同意書\n16歳未満の人が予防接種を受けようとする際は原則、保護者（予防接種法において、親権を行う者または後見人のこと）の同伴が必要です。\n諸事情で保護者以外の人が同伴する場合、または13歳以上16歳未満のお子さんが一人で接種を受けに行く場合は次の書類をご使用ください。\n（注）必ず予診票の保護者署名欄も事前にご記入ください。\n|該当事項|書類|注意事項|\n|:----|:----|:----|\n|保護者以外の人が同伴する場合|委任状書式（PDF 70KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/1993e556939349df811a6593f4fed1b8/yobo_ininjo_.pdf|同伴する人は普段からお子様やご家族の健康状態をよく知っている人にお願いをしてください。|\n|13歳以上16歳未満のお子さんが一人で接種を受ける場合|同意書書式（PDF 81KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/e91218ea0daa41879620a4698546e72f/assets_kurashi_000065045.pdf|保護者が区から配られている説明書をよく読み、理解・納得した上で、一人で予防接種を受けさせることを希望するときにご使用ください。\n麻しん風しん（MR）任意予防接種（全額助成）\n対象者には予診票を発行します。母子健康手帳を持参の上、本庁舎7階 地域保健課予防接種係へお越しいただくか、電話でお問い合わせください。\n（注）保健所発行の予診票を使用せずに接種した場合は、対象外となります。\n|対象者|接種回数・助成回数|場所|\n|:----|:----|:----|\n|2歳～18歳までの定期予防接種未接種者（定期予防接種対象者を除く）|未接種回数分（最大2回）|区内の指定医療機関（注）詳しくはお問い合わせください。|\n",
+      "target": {
+        "targetPersons": "|対象者|接種回数・助成回数|場所|\n|:----|:----|:----|\n|2歳～18歳までの定期予防接種未接種者（定期予防接種対象者を除く）|未接種回数分（最大2回）|区内の指定医療機関（注）詳しくはお問い合わせください。|\n",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "|対象者|接種回数・助成回数|場所|\n|:----|:----|:----|\n|2歳～18歳までの定期予防接種未接種者（定期予防接種対象者を除く）|未接種回数分（最大2回）|区内の指定医療機関（注）詳しくはお問い合わせください。|\n"
+      },
+      "support": {
+        "description": "|対象者|接種回数・助成回数|場所|\n|:----|:----|:----|\n|2歳～18歳までの定期予防接種未接種者（定期予防接種対象者を除く）|未接種回数分（最大2回）|区内の指定医療機関（注）詳しくはお問い合わせください。|\n",
+        "monetarySupport": null,
+        "materiallySupport": "|対象者|接種回数・助成回数|場所|\n|:----|:----|:----|\n|2歳～18歳までの定期予防接種未接種者（定期予防接種対象者を除く）|未接種回数分（最大2回）|区内の指定医療機関（注）詳しくはお問い合わせください。|\n"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "区内の指定医療機関（注）詳しくはお問い合わせください。",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "対象者には予診票を発行します。母子健康手帳を持参の上、本庁舎7階 地域保健課予防接種係へお越しいただくか、電話でお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "住所確認ができる書類（医療証等）・母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "地域保健課予防接種係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/kodomo_ninni.html",
+        "title": "子どもの任意予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "地域保健課予防接種係",
+        "contactPhone": "03-3463-1412",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4937",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+2+UM55",
+        "organization": "9000020131130",
+        "compartment": "地域保健課予防接種係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-03",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "渋谷区麻しん風しん予防接種事業実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "ロタリックス"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "子どもの定期予防接種\n予防接種法で対象疾病など定められた子どもの定期予防接種です。定期予防接種は予防接種法に基づく予防接種で、対象者は受けるよう努めなければならないとされています。法定接種期間であれば、決められた回数を無料で受けることができます。\n（注）長期にわたる疾患等でやむを得ず、定期予防接種を法定接種期間内に受けることができなかったと認められる場合は、予防接種が受けられるようになってから2年間、定期予防接種として接種することができます。詳しくは、長期にわたる疾患等で、やむを得ず法定接種期間を超えてしまった場合;https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/teiki_yobo1.htmlをご覧ください。\n渋谷区へ転入後は、渋谷区以外で発行された予診票は使用できません。通知送付時期を過ぎてから転入した場合および予診票を紛失した場合は、渋谷区の予診票を発行しますので、母子健康手帳など接種歴が分かるものをご用意のうえ、本庁舎７階 地域保健課予防接種係までお越しいただくか、電話でお問い合わせください。スマート申請（定期予防接種予診票発行申請）;https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakkoから申請することもできます。\n（注）本申請は法定接種期間のみの定期予防接種予診票の発行手続きとなります。\n予防接種による副反応について\n予防接種の種類によっても異なりますが、接種後に熱が出たり接種した部分が腫れたりすることがあります。\nほとんどは数日以内に自然に治りますが、まれに高熱やひどい腫れ、ひきつけなどの症状を起こすこともあります。接種後にこうした症状が出た場合は、速やかに医療機関を受診してください。\n予防接種後の重い副反応については、報告基準が定められていて、基準にあてはまる症状を診断した医師は、国に報告することとされています。\nなお、こうした重い副反応について、被接種者や保護者から報告することもできます。地域保健課予防接種係までご相談ください。また、定期予防接種により引き起こされた副反応により、健康被害が生じた場合には、予防接種法に基づく予防接種健康被害救済制度により、一定の給付が行われる場合があります。種場所は23区内の契約医療機関です。\nロタウイルス\n（注）初回接種は標準的には生後2か月から14週6日までに接種します。\n|種類|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|ロタリックス|生後6週から24週まで|27日以上の間隔をあけて2回接種|生後1か月に達した月末に送付|23区内契約医療機関|\n|ロタテック|生後6週から32週まで|27日以上の間隔をあけて3回接種|生後1か月に達した月末に送付|23区内契約医療機関|\n",
+      "target": {
+        "targetPersons": "|種類|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|ロタリックス|生後6週から24週まで|27日以上の間隔をあけて2回接種|生後1か月に達した月末に送付|23区内契約医療機関|\n",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "|種類|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|ロタリックス|生後6週から24週まで|27日以上の間隔をあけて2回接種|生後1か月に達した月末に送付|23区内契約医療機関|\n"
+      },
+      "support": {
+        "description": "|種類|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|ロタリックス|生後6週から24週まで|27日以上の間隔をあけて2回接種|生後1か月に達した月末に送付|23区内契約医療機関|\n",
+        "monetarySupport": null,
+        "materiallySupport": "|種類|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|ロタリックス|生後6週から24週まで|27日以上の間隔をあけて2回接種|生後1か月に達した月末に送付|23区内契約医療機関|\n"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "23区内契約医療機関",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "|種類|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|ロタリックス|生後6週から24週まで|27日以上の間隔をあけて2回接種|生後1か月に達した月末に送付|23区内契約医療機関|\n",
+      "procedurePersons": null,
+      "procedureMethod": "①　同封した冊子「予防接種と子どもの健康」をよくお読みいただき、お子さんの健康状態の良いときに受けてください。\n②　「接種予診票」を3セット（１回目・２回目・３回目）送付しています。１回目の用紙から順番に使用してください。なお、３回目の用紙はロタテックのみ使用します。\n③　予防接種の当日は、「接種予診票」に記入し、母子健康手帳と一緒にお持ちください。（検温は、当日接種する医療機関で行います。）\n④　接種の際には、日頃からお子さんの健康状態をよくみている保護者が付き添ってください。なお、保護者以外の方でも、普段からお子さんの健康状態をよく知っている方であれば、保護者からの委任にもとづき付き添うことができます。詳細は、下記担当係までお問い合わせください。\n⑤　ワクチンがうまく飲めなかったり、吐いたりしてしまった場合でも、わずかでも飲み込みが確認できていれば、ワクチンの効果に問題ありませんので、再度接種する必要はありません。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "接種予診票,母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "地域保健課予防接種係",
+      "relatedLink": [
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/0314304a9a88416c98402f196af334af/yobo_oshirase_rota.pdf",
+          "title": "ロタウイルスワクチンのお知らせ（PDF 2"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/sessyuencho.html",
+          "title": "新型コロナウイルス感染症の発生に伴う定期予防接種の接種期限延長について"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/teiki_yobo1.html",
+          "title": "長期にわたる疾患等で、やむを得ず法定接種期間を超えてしまった場合"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/08bfc6093ace4a37829e6767432c5dfe/yobo_kodomonoyobosessyu.pdf",
+          "title": "子どもの予防接種一覧表（令和6年4月1日現在）（PDF 150KB）"
+        },
+        {
+          "uri": "https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakko/door",
+          "title": "スマート申請（定期予防接種予診票発行申請）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/7d78f81872f54db4aeb67149d01f93f0/yobo_teiki_ichiran.pdf",
+          "title": "渋谷区予防接種実施医療機関一覧（令和6年4月1日現在）（PDF 202KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/kodomo_teiki.html",
+        "title": "子どもの定期予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "地域保健課予防接種係",
+        "contactPhone": "03-3463-1412",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4937",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+3+UM54",
+        "organization": "9000020131130",
+        "compartment": "地域保健課予防接種係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-17",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "任意予防接種",
+        "shortName": "男性のHPVワクチン予防接種（全額助成）"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。\nこのうち渋谷区では、次の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+      "description": "子どもの任意予防接種\n予防接種法によらず、本人や保護者の希望による子どもの任意予防接種です。区からの公費助成があります。\n\n任意予防接種とは\n保護者以外の同伴について\n任意予防接種の種類\n任意予防接種とは\n任意予防接種とは、法律に基づかない予防接種で、本人や保護者の希望により接種するものです。希望する人に区からの公費助成があります。\n公費助成で受けた任意予防接種により引き起こされた副反応により健康被害が生じた場合は、独立行政法人医薬品医療機器総合機構法に基づく医薬品副作用被害救済制度および区が加入している予防接種事故賠償補償保険により、一定の給付が行われる場合があります。\n\n保護者以外の同伴について\n委任状・同意書\n16歳未満の人が予防接種を受けようとする際は原則、保護者（予防接種法において、親権を行う者または後見人のこと）の同伴が必要です。\n諸事情で保護者以外の人が同伴する場合、または13歳以上16歳未満のお子さんが一人で接種を受けに行く場合は次の書類をご使用ください。\n（注）必ず予診票の保護者署名欄も事前にご記入ください。\n|該当事項|書類|注意事項|\n|:----|:----|:----|\n|保護者以外の人が同伴する場合|委任状書式（PDF 70KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/1993e556939349df811a6593f4fed1b8/yobo_ininjo_.pdf|同伴する人は普段からお子様やご家族の健康状態をよく知っている人にお願いをしてください。|\n|13歳以上16歳未満のお子さんが一人で接種を受ける場合|同意書書式（PDF 81KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/e91218ea0daa41879620a4698546e72f/assets_kurashi_000065045.pdf|保護者が区から配られている説明書をよく読み、理解・納得した上で、一人で予防接種を受けさせることを希望するときにご使用ください。\n男性のHPVワクチン予防接種（全額助成）\nHPV（ヒトパピローマウイルス）は、男性においても、感染すると一部のがんを発症するリスクにさらされます。\nそこで、接種を希望する人に対して接種機会を確保するため、令和6年4月から任意の予防接種の費用を全額助成します。\n\n|対象者|接種回数・助成回数|使用するワクチン|場所|\n|:----|:----|:----|:----|\n|12歳になる年度の初日から16歳になる年度末日までの男性<br>（小学6年生～高校1年生相当）|未接種回数分（最大３回）|4価のHPVワクチン<br>（注）2価、9価のワクチンは使用できません。 |区内の指定医療機関（注）詳しくはお問い合わせください。|\n",
+      "target": {
+        "targetPersons": "|対象者|接種回数・助成回数|使用するワクチン|場所|\n|:----|:----|:----|:----|\n|12歳になる年度の初日から16歳になる年度末日までの男性<br>（小学6年生～高校1年生相当）|未接種回数分（最大３回）|4価のHPVワクチン<br>（注）2価、9価のワクチンは使用できません。 |区内の指定医療機関（注）詳しくはお問い合わせください。|\n",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "|対象者|接種回数・助成回数|使用するワクチン|場所|\n|:----|:----|:----|:----|\n|12歳になる年度の初日から16歳になる年度末日までの男性<br>（小学6年生～高校1年生相当）|未接種回数分（最大３回）|4価のHPVワクチン<br>（注）2価、9価のワクチンは使用できません。 |区内の指定医療機関（注）詳しくはお問い合わせください。|\n"
+      },
+      "support": {
+        "description": "|対象者|接種回数・助成回数|使用するワクチン|場所|\n|:----|:----|:----|:----|\n|12歳になる年度の初日から16歳になる年度末日までの男性<br>（小学6年生～高校1年生相当）|未接種回数分（最大３回）|4価のHPVワクチン<br>（注）2価、9価のワクチンは使用できません。 |男性HPVワクチン任意予防接種実施医療機関（PDF 124KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/046acba3cdd04d198b31740b86aca49e/dannseihpv_yobosessyu.pdf|\n",
+        "monetarySupport": null,
+        "materiallySupport": "|対象者|接種回数・助成回数|使用するワクチン|場所|\n|:----|:----|:----|:----|\n|12歳になる年度の初日から16歳になる年度末日までの男性<br>（小学6年生～高校1年生相当）|未接種回数分（最大３回）|4価のHPVワクチン<br>（注）2価、9価のワクチンは使用できません。 |区内の指定医療機関（注）詳しくはお問い合わせください。|\n"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "区内の指定医療機関（注）詳しくはお問い合わせください。",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "個別のお知らせ、予診票の発送はありません。区内指定医療機関に直接予約してください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "住所確認ができる書類（医療証等）・母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "地域保健課予防接種係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/kodomo_ninni.html",
+        "title": "子どもの任意予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "地域保健課予防接種係",
+        "contactPhone": "03-3463-1412",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4937",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+3+UM55",
+        "organization": "9000020131130",
+        "compartment": "地域保健課予防接種係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-03",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "渋谷区男性HPVワクチン予防接種事業実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "ロタテック"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "子どもの定期予防接種\n予防接種法で対象疾病など定められた子どもの定期予防接種です。定期予防接種は予防接種法に基づく予防接種で、対象者は受けるよう努めなければならないとされています。法定接種期間であれば、決められた回数を無料で受けることができます。\n（注）長期にわたる疾患等でやむを得ず、定期予防接種を法定接種期間内に受けることができなかったと認められる場合は、予防接種が受けられるようになってから2年間、定期予防接種として接種することができます。詳しくは、長期にわたる疾患等で、やむを得ず法定接種期間を超えてしまった場合;https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/teiki_yobo1.htmlをご覧ください。\n渋谷区へ転入後は、渋谷区以外で発行された予診票は使用できません。通知送付時期を過ぎてから転入した場合および予診票を紛失した場合は、渋谷区の予診票を発行しますので、母子健康手帳など接種歴が分かるものをご用意のうえ、本庁舎７階 地域保健課予防接種係までお越しいただくか、電話でお問い合わせください。スマート申請（定期予防接種予診票発行申請）;https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakkoから申請することもできます。\n（注）本申請は法定接種期間のみの定期予防接種予診票の発行手続きとなります。\n予防接種による副反応について\n予防接種の種類によっても異なりますが、接種後に熱が出たり接種した部分が腫れたりすることがあります。\nほとんどは数日以内に自然に治りますが、まれに高熱やひどい腫れ、ひきつけなどの症状を起こすこともあります。接種後にこうした症状が出た場合は、速やかに医療機関を受診してください。\n予防接種後の重い副反応については、報告基準が定められていて、基準にあてはまる症状を診断した医師は、国に報告することとされています。\nなお、こうした重い副反応について、被接種者や保護者から報告することもできます。地域保健課予防接種係までご相談ください。また、定期予防接種により引き起こされた副反応により、健康被害が生じた場合には、予防接種法に基づく予防接種健康被害救済制度により、一定の給付が行われる場合があります。種場所は23区内の契約医療機関です。\nロタウイルス\n（注）初回接種は標準的には生後2か月から14週6日までに接種します。\n\n|種類|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|ロタリックス|生後6週から24週まで|27日以上の間隔をあけて2回接種|生後1か月に達した月末に送付|23区内契約医療機関|\n|ロタテック|生後6週から32週まで|27日以上の間隔をあけて3回接種|生後1か月に達した月末に送付|23区内契約医療機関|\n",
+      "target": {
+        "targetPersons": "|種類|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|ロタテック|生後6週から32週まで|27日以上の間隔をあけて3回接種|生後1か月に達した月末に送付|23区内契約医療機関|\n",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "|種類|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|ロタテック|生後6週から32週まで|27日以上の間隔をあけて3回接種|生後1か月に達した月末に送付|23区内契約医療機関|\n"
+      },
+      "support": {
+        "description": "|種類|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|ロタリックス|生後6週から24週まで|27日以上の間隔をあけて2回接種|生後1か月に達した月末に送付|23区内契約医療機関|\n|ロタテック|生後6週から32週まで|27日以上の間隔をあけて3回接種|生後1か月に達した月末に送付|23区内契約医療機関|\n",
+        "monetarySupport": null,
+        "materiallySupport": "|種類|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|ロタリックス|生後6週から24週まで|27日以上の間隔をあけて2回接種|生後1か月に達した月末に送付|23区内契約医療機関|\n|ロタテック|生後6週から32週まで|27日以上の間隔をあけて3回接種|生後1か月に達した月末に送付|23区内契約医療機関|\n"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "23区内契約医療機関",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "|種類|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|ロタリックス|生後6週から24週まで|27日以上の間隔をあけて2回接種|生後1か月に達した月末に送付|23区内契約医療機関|\n|ロタテック|生後6週から32週まで|27日以上の間隔をあけて3回接種|生後1か月に達した月末に送付|23区内契約医療機関|\n",
+      "procedurePersons": null,
+      "procedureMethod": "①　同封した冊子「予防接種と子どもの健康」をよくお読みいただき、お子さんの健康状態の良いときに受けてください。\n②　「接種予診票」を3セット（１回目・２回目・３回目）送付しています。１回目の用紙から順番に使用してください。なお、３回目の用紙はロタテックのみ使用します。\n③　予防接種の当日は、「接種予診票」に記入し、母子健康手帳と一緒にお持ちください。（検温は、当日接種する医療機関で行います。）\n④　接種の際には、日頃からお子さんの健康状態をよくみている保護者が付き添ってください。なお、保護者以外の方でも、普段からお子さんの健康状態をよく知っている方であれば、保護者からの委任にもとづき付き添うことができます。詳細は、下記担当係までお問い合わせください。\n⑤　ワクチンがうまく飲めなかったり、吐いたりしてしまった場合でも、わずかでも飲み込みが確認できていれば、ワクチンの効果に問題ありませんので、再度接種する必要はありません。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "接種予診票,母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "地域保健課予防接種係",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/teiki_yobo1.html",
+          "title": "長期にわたる疾患等で、やむを得ず法定接種期間を超えてしまった場合"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/08bfc6093ace4a37829e6767432c5dfe/yobo_kodomonoyobosessyu.pdf",
+          "title": "子どもの予防接種一覧表（令和6年4月1日現在）（PDF 150KB）"
+        },
+        {
+          "uri": "https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakko/door",
+          "title": "スマート申請（定期予防接種予診票発行申請）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/0314304a9a88416c98402f196af334af/yobo_oshirase_rota.pdf",
+          "title": "ロタウイルスワクチンのお知らせ（PDF 2"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/7d78f81872f54db4aeb67149d01f93f0/yobo_teiki_ichiran.pdf",
+          "title": "渋谷区予防接種実施医療機関一覧（令和6年4月1日現在）（PDF 202KB）"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/sessyuencho.html",
+          "title": "新型コロナウイルス感染症の発生に伴う定期予防接種の接種期限延長について"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/kodomo_teiki.html",
+        "title": "子どもの定期予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "地域保健課予防接種係",
+        "contactPhone": "03-3463-1412",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4937",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+4+UM54",
+        "organization": "9000020131130",
+        "compartment": "地域保健課予防接種係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-17",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "任意予防接種",
+        "shortName": "インフルエンザ（全額助成）"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。\nこのうち渋谷区では、次の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+      "description": "子どもの任意予防接種\n予防接種法によらず、本人や保護者の希望による子どもの任意予防接種です。区からの公費助成があります。\n\n任意予防接種とは\n保護者以外の同伴について\n任意予防接種の種類\n任意予防接種とは\n任意予防接種とは、法律に基づかない予防接種で、本人や保護者の希望により接種するものです。希望する人に区からの公費助成があります。\n公費助成で受けた任意予防接種により引き起こされた副反応により健康被害が生じた場合は、独立行政法人医薬品医療機器総合機構法に基づく医薬品副作用被害救済制度および区が加入している予防接種事故賠償補償保険により、一定の給付が行われる場合があります。\n\n保護者以外の同伴について\n委任状・同意書\n16歳未満の人が予防接種を受けようとする際は原則、保護者（予防接種法において、親権を行う者または後見人のこと）の同伴が必要です。\n諸事情で保護者以外の人が同伴する場合、または13歳以上16歳未満のお子さんが一人で接種を受けに行く場合は次の書類をご使用ください。\n（注）必ず予診票の保護者署名欄も事前にご記入ください。\n|該当事項|書類|注意事項|\n|:----|:----|:----|\n|保護者以外の人が同伴する場合|委任状書式（PDF 70KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/1993e556939349df811a6593f4fed1b8/yobo_ininjo_.pdf|同伴する人は普段からお子様やご家族の健康状態をよく知っている人にお願いをしてください。|\n|13歳以上16歳未満のお子さんが一人で接種を受ける場合|同意書書式（PDF 81KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/e91218ea0daa41879620a4698546e72f/assets_kurashi_000065045.pdf|保護者が区から配られている説明書をよく読み、理解・納得した上で、一人で予防接種を受けさせることを希望するときにご使用ください。|\n \nPDFファイルを見るには、Adobe社から無償配布されている Adobe Reader などのソフトウェアが必要です。\n詳しくは、PDFファイルをご覧になるにはのページを参照してください。\n\n任意予防接種の種類\nおたふくかぜ（全額助成）\n麻しん風しん（MR）任意予防接種（全額助成）\nインフルエンザ（全額助成）\n男性のHPVワクチン予防接種（注）令和6年4月から開始。\nインフルエンザ（全額助成）\n|対象者（接種日現在の年齢）|助成回数|\n|:----|:----|\n|1歳～12歳|2回 （接種間隔：2～4週間）|\n|13歳～中学3年生|1回|\n \n（注）中学3年生とは、平成20年4月2日～平成21年4月1日生まれの人\n\n接種期間\n令和5年10月1日～令和6年1月31日\n\n接種時の持ち物\n乳幼児医療証または子ども医療証（住所確認用）\n母子健康手帳\n接種場所\n区内の指定医療機関（注）詳しくはお問い合わせください。f\n（注）個別のお知らせ、予診票の発送はありません。指定医療機関に直接予約をしてください。",
+      "target": {
+        "targetPersons": "|対象者（接種日現在の年齢）|助成回数|\n|:----|:----|\n|1歳～12歳|2回 （接種間隔：2～4週間）|\n|13歳～中学3年生|1回|\n",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "|対象者（接種日現在の年齢）|助成回数|\n|:----|:----|\n|1歳～12歳|2回 （接種間隔：2～4週間）|\n|13歳～中学3年生|1回|\n"
+      },
+      "support": {
+        "description": "|対象者（接種日現在の年齢）|助成回数|\n|:----|:----|\n|1歳～12歳|2回 （接種間隔：2～4週間）|\n|13歳～中学3年生|1回|\n",
+        "monetarySupport": null,
+        "materiallySupport": "|対象者（接種日現在の年齢）|助成回数|\n|:----|:----|\n|1歳～12歳|2回 （接種間隔：2～4週間）|\n|13歳～中学3年生|1回|\n"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "10月1日～翌年1月31日"
+      },
+      "implementationPlace": {
+        "implementationName": "区内の指定医療機関（注）詳しくはお問い合わせください。",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "個別のお知らせ、予診票の発送はありません。指定医療機関に直接予約をしてください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "住所確認ができる書類（医療証等）・母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/kodomo_ninni.html",
+        "title": "子どもの任意予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "地域保健課予防接種係",
+        "contactPhone": "03-3463-1412",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4937",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+4+UM55",
+        "organization": "9000020131130",
+        "compartment": "地域保健課予防接種係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-03",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "渋谷区子どもインフルエンザ予防接種事業実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "5種混合（ジフテリア、百日せき、破傷風、不活化ポリオ、ヒブ）"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "子どもの定期予防接種\n予防接種法で対象疾病など定められた子どもの定期予防接種です。定期予防接種は予防接種法に基づく予防接種で、対象者は受けるよう努めなければならないとされています。法定接種期間であれば、決められた回数を無料で受けることができます。\n（注）長期にわたる疾患等でやむを得ず、定期予防接種を法定接種期間内に受けることができなかったと認められる場合は、予防接種が受けられるようになってから2年間、定期予防接種として接種することができます。詳しくは、長期にわたる疾患等で、やむを得ず法定接種期間を超えてしまった場合;https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/teiki_yobo1.htmlをご覧ください。\n渋谷区へ転入後は、渋谷区以外で発行された予診票は使用できません。通知送付時期を過ぎてから転入した場合および予診票を紛失した場合は、渋谷区の予診票を発行しますので、母子健康手帳など接種歴が分かるものをご用意のうえ、本庁舎７階 地域保健課予防接種係までお越しいただくか、電話でお問い合わせください。スマート申請（定期予防接種予診票発行申請）;https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakkoから申請することもできます。\n（注）本申請は法定接種期間のみの定期予防接種予診票の発行手続きとなります。\n予防接種による副反応について\n予防接種の種類によっても異なりますが、接種後に熱が出たり接種した部分が腫れたりすることがあります。\nほとんどは数日以内に自然に治りますが、まれに高熱やひどい腫れ、ひきつけなどの症状を起こすこともあります。接種後にこうした症状が出た場合は、速やかに医療機関を受診してください。\n予防接種後の重い副反応については、報告基準が定められていて、基準にあてはまる症状を診断した医師は、国に報告することとされています。\nなお、こうした重い副反応について、被接種者や保護者から報告することもできます。地域保健課予防接種係までご相談ください。また、定期予防接種により引き起こされた副反応により、健康被害が生じた場合には、予防接種法に基づく予防接種健康被害救済制度により、一定の給付が行われる場合があります。種場所は23区内の契約医療機関です。\n5種混合（ジフテリア、百日せき、破傷風、不活化ポリオ、ヒブ）\n令和6年4月1日から、5種混合（ジフテリア・百日せき・破傷風・不活化ポリオ、ヒブ）予防接種が定期予防接種に導入されました。\n令和6年2月以降に生まれた人から5種混合の予防接種予診票を発送します。令和6年1月以前に生まれた人で接種を開始していない場合は、4月以降、お手元の4種混合の予防接種予診票で5種混合の接種が可能になります。\n|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|生後2月から90月に至るまでの間|生後2か月～7か月になるまでの間に、20～56日の間隔をあけて3回接種。<br>3回目接種の終了後、6か月～18か月の間隔をあけて1回接種。|生後1か月に達した月末に送付|23区内契約医療機関|\n\n",
+      "target": {
+        "targetPersons": "|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|生後2月から90月に至るまでの間|生後2か月～7か月になるまでの間に、20～56日の間隔をあけて3回接種。<br>3回目接種の終了後、6か月～18か月の間隔をあけて1回接種。|生後1か月に達した月末に送付|23区内契約医療機関|\n",
+        "lessThan": {
+          "targetAge": 7,
+          "targetAgeOfMonths": 6
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|生後2月から90月に至るまでの間|生後2か月～7か月になるまでの間に、20～56日の間隔をあけて3回接種。<br>3回目接種の終了後、6か月～18か月の間隔をあけて1回接種。|生後1か月に達した月末に送付|23区内契約医療機関|\n"
+      },
+      "support": {
+        "description": "|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|生後2月から90月に至るまでの間|生後2か月～7か月になるまでの間に、20～56日の間隔をあけて3回接種。<br>3回目接種の終了後、6か月～18か月の間隔をあけて1回接種。|生後1か月に達した月末に送付|23区内契約医療機関|\n",
+        "monetarySupport": null,
+        "materiallySupport": "|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|生後2月から90月に至るまでの間|生後2か月～7か月になるまでの間に、20～56日の間隔をあけて3回接種。<br>3回目接種の終了後、6か月～18か月の間隔をあけて1回接種。|生後1か月に達した月末に送付|23区内契約医療機関|\n"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "23区内契約医療機関",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|生後2月から90月に至るまでの間|生後2か月～7か月になるまでの間に、20～56日の間隔をあけて3回接種。<br>3回目接種の終了後、6か月～18か月の間隔をあけて1回接種。|生後1か月に達した月末に送付|23区内契約医療機関|\n",
+      "procedurePersons": null,
+      "procedureMethod": "①　同封した冊子「予防接種と子どもの健康」をよくお読みいただき、お子さんの健康状態の良いときに受けてください。\n②　「接種予診票」を４セット（１回目・２回目・３回目・追加）送付しています。１回目の用紙から順番に使用してください。\nなお、追加の接種時期は３回目の接種終了後から６か月～１年６か月後になりますので、接種予診票を紛失しないようご注意ください。\n③　予防接種の当日は、「接種予診票」に記入し、母子健康手帳と一緒にお持ちください。（検温は、当日接種する医療機関で行います。）\n④　接種の際には、日頃からお子さんの健康状態をよくみている保護者が付き添ってください。なお、保護者以外の方でも、普段からお子さんの健康状態をよく知っている方であれば、保護者からの委任にもとづき付き添うことができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "接種予診票,母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "地域保健課予防接種係",
+      "relatedLink": [
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/1f50025b7852450dbb391295ede0c779/yobo_oshirase_5syukon.pdf",
+          "title": "5種混合ワクチンのお知らせ（PDF 391KB）"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/sessyuencho.html",
+          "title": "新型コロナウイルス感染症の発生に伴う定期予防接種の接種期限延長について"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/08bfc6093ace4a37829e6767432c5dfe/yobo_kodomonoyobosessyu.pdf",
+          "title": "子どもの予防接種一覧表（令和6年4月1日現在）（PDF 150KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/7d78f81872f54db4aeb67149d01f93f0/yobo_teiki_ichiran.pdf",
+          "title": "渋谷区予防接種実施医療機関一覧（令和6年4月1日現在）（PDF 202KB）"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/teiki_yobo1.html",
+          "title": "長期にわたる疾患等で、やむを得ず法定接種期間を超えてしまった場合"
+        },
+        {
+          "uri": "https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakko/door",
+          "title": "スマート申請（定期予防接種予診票発行申請）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/kodomo_teiki.html",
+        "title": "子どもの定期予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "地域保健課予防接種係",
+        "contactPhone": "03-3463-1412",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4937",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+5+UM54",
+        "organization": "9000020131130",
+        "compartment": "地域保健課予防接種係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-17",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "BCG"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "子どもの定期予防接種\n予防接種法で対象疾病など定められた子どもの定期予防接種です。定期予防接種は予防接種法に基づく予防接種で、対象者は受けるよう努めなければならないとされています。法定接種期間であれば、決められた回数を無料で受けることができます。\n（注）長期にわたる疾患等でやむを得ず、定期予防接種を法定接種期間内に受けることができなかったと認められる場合は、予防接種が受けられるようになってから2年間、定期予防接種として接種することができます。詳しくは、長期にわたる疾患等で、やむを得ず法定接種期間を超えてしまった場合;https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/teiki_yobo1.htmlをご覧ください。\n渋谷区へ転入後は、渋谷区以外で発行された予診票は使用できません。通知送付時期を過ぎてから転入した場合および予診票を紛失した場合は、渋谷区の予診票を発行しますので、母子健康手帳など接種歴が分かるものをご用意のうえ、本庁舎７階 地域保健課予防接種係までお越しいただくか、電話でお問い合わせください。スマート申請（定期予防接種予診票発行申請）;https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakkoから申請することもできます。\n（注）本申請は法定接種期間のみの定期予防接種予診票の発行手続きとなります。\n予防接種による副反応について\n予防接種の種類によっても異なりますが、接種後に熱が出たり接種した部分が腫れたりすることがあります。\nほとんどは数日以内に自然に治りますが、まれに高熱やひどい腫れ、ひきつけなどの症状を起こすこともあります。接種後にこうした症状が出た場合は、速やかに医療機関を受診してください。\n予防接種後の重い副反応については、報告基準が定められていて、基準にあてはまる症状を診断した医師は、国に報告することとされています。\nなお、こうした重い副反応について、被接種者や保護者から報告することもできます。地域保健課予防接種係までご相談ください。また、定期予防接種により引き起こされた副反応により、健康被害が生じた場合には、予防接種法に基づく予防接種健康被害救済制度により、一定の給付が行われる場合があります。種場所は23区内の契約医療機関です。\nBCG\\\n|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|生後1歳に至るまで|生後5か月～8か月になるまでの間に1回接種|23区内契約医療機関|\n",
+      "target": {
+        "targetPersons": "|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|生後1歳に至るまで|生後5か月～8か月になるまでの間に1回接種|生後4か月に達した月末に送付|23区内契約医療機関|\n",
+        "lessThan": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|生後1歳に至るまで|生後5か月～8か月になるまでの間に1回接種|生後4か月に達した月末に送付|23区内契約医療機関|\n"
+      },
+      "support": {
+        "description": "|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|生後1歳に至るまで|生後5か月～8か月になるまでの間に1回接種|生後4か月に達した月末に送付|渋谷区BCG予防接種実施医療機関一覧（令和6年4月1日現在）（PDF 73KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/43b21cf5795a485fab244e8dee3f1ce7/yobo_BCG.pdf<br>23区内契約医療機関|\n",
+        "monetarySupport": null,
+        "materiallySupport": "|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|生後1歳に至るまで|生後5か月～8か月になるまでの間に1回接種|生後4か月に達した月末に送付|渋谷区BCG予防接種実施医療機関一覧（令和6年4月1日現在）（PDF 73KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/43b21cf5795a485fab244e8dee3f1ce7/yobo_BCG.pdf<br>23区内契約医療機関|\n"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "23区内契約医療機関",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "①　お子さんの健康状態の良いときに受けてください。\n②　予防接種の当日は、「接種予診票」に記入し、母子健康手帳と一緒にお持ちください。\n③　体温については、当日接種する医療機関で検温します。\n④　接種の際には、日頃からお子さんの健康状態をよくみている保護者が付き添ってください。なお、保護者以外の方でも、普段からお子さんの健康状態をよく知っている方であれば、保護者からの委任にもとづき付き添うことができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "接種予診票,母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "地域保健課予防接種係",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/teiki_yobo1.html",
+          "title": "長期にわたる疾患等で、やむを得ず法定接種期間を超えてしまった場合"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/43b21cf5795a485fab244e8dee3f1ce7/yobo_BCG.pdf",
+          "title": "渋谷区BCG予防接種実施医療機関一覧（令和6年4月1日現在）（PDF 73KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/7d78f81872f54db4aeb67149d01f93f0/yobo_teiki_ichiran.pdf",
+          "title": "渋谷区予防接種実施医療機関一覧（令和6年4月1日現在）（PDF 202KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/e849bc19c75448899e6296534052bb38/yobo_oshirase_BCGkai.pdf",
+          "title": "BCGワクチンのお知らせ（PDF904KB）"
+        },
+        {
+          "uri": "https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakko/door",
+          "title": "スマート申請（定期予防接種予診票発行申請）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/08bfc6093ace4a37829e6767432c5dfe/yobo_kodomonoyobosessyu.pdf",
+          "title": "子どもの予防接種一覧表（令和6年4月1日現在）（PDF 150KB）"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/sessyuencho.html",
+          "title": "新型コロナウイルス感染症の発生に伴う定期予防接種の接種期限延長について"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/kodomo_teiki.html",
+        "title": "子どもの定期予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "地域保健課予防接種係",
+        "contactPhone": "03-3463-1412",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4937",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+6+UM54",
+        "organization": "9000020131130",
+        "compartment": "地域保健課予防接種係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-17",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "麻しん風しん混合（MR）1期"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "子どもの定期予防接種\n予防接種法で対象疾病など定められた子どもの定期予防接種です。定期予防接種は予防接種法に基づく予防接種で、対象者は受けるよう努めなければならないとされています。法定接種期間であれば、決められた回数を無料で受けることができます。\n（注）長期にわたる疾患等でやむを得ず、定期予防接種を法定接種期間内に受けることができなかったと認められる場合は、予防接種が受けられるようになってから2年間、定期予防接種として接種することができます。詳しくは、長期にわたる疾患等で、やむを得ず法定接種期間を超えてしまった場合;https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/teiki_yobo1.htmlをご覧ください。\n渋谷区へ転入後は、渋谷区以外で発行された予診票は使用できません。通知送付時期を過ぎてから転入した場合および予診票を紛失した場合は、渋谷区の予診票を発行しますので、母子健康手帳など接種歴が分かるものをご用意のうえ、本庁舎７階 地域保健課予防接種係までお越しいただくか、電話でお問い合わせください。スマート申請（定期予防接種予診票発行申請）;https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakkoから申請することもできます。\n（注）本申請は法定接種期間のみの定期予防接種予診票の発行手続きとなります。\n予防接種による副反応について\n予防接種の種類によっても異なりますが、接種後に熱が出たり接種した部分が腫れたりすることがあります。\nほとんどは数日以内に自然に治りますが、まれに高熱やひどい腫れ、ひきつけなどの症状を起こすこともあります。接種後にこうした症状が出た場合は、速やかに医療機関を受診してください。\n予防接種後の重い副反応については、報告基準が定められていて、基準にあてはまる症状を診断した医師は、国に報告することとされています。\nなお、こうした重い副反応について、被接種者や保護者から報告することもできます。地域保健課予防接種係までご相談ください。また、定期予防接種により引き起こされた副反応により、健康被害が生じた場合には、予防接種法に基づく予防接種健康被害救済制度により、一定の給付が行われる場合があります。種場所は23区内の契約医療機関です。\n麻しん風しん混合（MR）\n|名称|法定接種期間|接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|麻しん風しん混合（MR）1期|生後12月から24月に至るまでの間|1回接種|満1歳に達する前月末に送付|23区内契約医療機関|\n",
+      "target": {
+        "targetPersons": "|名称|法定接種期間|接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|麻しん風しん混合（MR）1期|生後12月から24月に至るまでの間|1回接種|満1歳に達する前月末に送付|23区内契約医療機関|\n",
+        "lessThan": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 12
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "|名称|法定接種期間|接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|麻しん風しん混合（MR）1期|生後12月から24月に至るまでの間|1回接種|満1歳に達する前月末に送付|23区内契約医療機関|\n"
+      },
+      "support": {
+        "description": "|名称|法定接種期間|接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|麻しん風しん混合（MR）1期|生後12月から24月に至るまでの間|1回接種|満1歳に達する前月末に送付|23区内契約医療機関|\n|麻しん風しん混合（MR）2期|小学校入学前の1年間（4月1日～翌年3月31日まで）|1回接種|小学校入学1年前の3月末に送付|23区内契約医療機関|\n",
+        "monetarySupport": null,
+        "materiallySupport": "|名称|法定接種期間|接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|麻しん風しん混合（MR）1期|生後12月から24月に至るまでの間|1回接種|満1歳に達する前月末に送付|23区内契約医療機関|\n|"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "23区内契約医療機関",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "|名称|法定接種期間|接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|麻しん風しん混合（MR）1期|生後12月から24月に至るまでの間|1回接種|満1歳に達する前月末に送付|23区内契約医療機関|\n|麻しん風しん混合（MR）2期|小学校入学前の1年間（4月1日～翌年3月31日まで）|1回接種|小学校入学1年前の3月末に送付|23区内契約医療機関|\n",
+      "procedurePersons": null,
+      "procedureMethod": "①　お子さんの健康状態の良いときに受けてください。\n②　予防接種の当日は、「接種予診票」に記入し、母子健康手帳と一緒にお持ちください。\n③　体温については、当日接種する医療機関で検温します。\n④　接種の際には、日頃からお子さんの健康状態をよくみている保護者が付き添ってください。なお、保護者以外の方でも、普段からお子さんの健康状態をよく知っている方であれば、保護者からの委任にもとづき付き添うことができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "接種予診票,母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "地域保健課予防接種係",
+      "relatedLink": [
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/7d78f81872f54db4aeb67149d01f93f0/yobo_teiki_ichiran.pdf",
+          "title": "渋谷区予防接種実施医療機関一覧（令和6年4月1日現在）（PDF 202KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/08bfc6093ace4a37829e6767432c5dfe/yobo_kodomonoyobosessyu.pdf",
+          "title": "子どもの予防接種一覧表（令和6年4月1日現在）（PDF 150KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/05d9d5487a124d5e8ff61e4030c6d790/yobo_MR2_oshirase.pdf",
+          "title": "麻しん風しん混合（MR）ワクチン2期のお知らせ（PDF 172KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/15993e862e9d483ca1220535d5be9c8e/yobo_oshirase_MR1.pdf",
+          "title": "麻しん風しん混合（MR）ワクチン1期のお知らせ（PDF 278KB）"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/teiki_yobo1.html",
+          "title": "長期にわたる疾患等で、やむを得ず法定接種期間を超えてしまった場合"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/sessyuencho.html",
+          "title": "新型コロナウイルス感染症の発生に伴う定期予防接種の接種期限延長について"
+        },
+        {
+          "uri": "https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakko/door",
+          "title": "スマート申請（定期予防接種予診票発行申請）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/kodomo_teiki.html",
+        "title": "子どもの定期予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "地域保健課予防接種係",
+        "contactPhone": "03-3463-1412",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4937",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+7+UM54",
+        "organization": "9000020131130",
+        "compartment": "地域保健課予防接種係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-17",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "麻しん風しん混合（MR）2期"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "子どもの定期予防接種\n予防接種法で対象疾病など定められた子どもの定期予防接種です。定期予防接種は予防接種法に基づく予防接種で、対象者は受けるよう努めなければならないとされています。法定接種期間であれば、決められた回数を無料で受けることができます。\n（注）長期にわたる疾患等でやむを得ず、定期予防接種を法定接種期間内に受けることができなかったと認められる場合は、予防接種が受けられるようになってから2年間、定期予防接種として接種することができます。詳しくは、長期にわたる疾患等で、やむを得ず法定接種期間を超えてしまった場合;https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/teiki_yobo1.htmlをご覧ください。\n渋谷区へ転入後は、渋谷区以外で発行された予診票は使用できません。通知送付時期を過ぎてから転入した場合および予診票を紛失した場合は、渋谷区の予診票を発行しますので、母子健康手帳など接種歴が分かるものをご用意のうえ、本庁舎７階 地域保健課予防接種係までお越しいただくか、電話でお問い合わせください。スマート申請（定期予防接種予診票発行申請）;https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakkoから申請することもできます。\n（注）本申請は法定接種期間のみの定期予防接種予診票の発行手続きとなります。\n予防接種による副反応について\n予防接種の種類によっても異なりますが、接種後に熱が出たり接種した部分が腫れたりすることがあります。\nほとんどは数日以内に自然に治りますが、まれに高熱やひどい腫れ、ひきつけなどの症状を起こすこともあります。接種後にこうした症状が出た場合は、速やかに医療機関を受診してください。\n予防接種後の重い副反応については、報告基準が定められていて、基準にあてはまる症状を診断した医師は、国に報告することとされています。\nなお、こうした重い副反応について、被接種者や保護者から報告することもできます。地域保健課予防接種係までご相談ください。また、定期予防接種により引き起こされた副反応により、健康被害が生じた場合には、予防接種法に基づく予防接種健康被害救済制度により、一定の給付が行われる場合があります。種場所は23区内の契約医療機関です。\n麻しん風しん混合（MR）\n|名称|法定接種期間|接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|麻しん風しん混合（MR）2期|小学校入学前の1年間（4月1日～翌年3月31日まで）|1回接種|小学校入学1年前の3月末に送付|23区内契約医療機関|\n",
+      "target": {
+        "targetPersons": "|名称|法定接種期間|接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|麻しん風しん混合（MR）2期|小学校入学前の1年間（4月1日～翌年3月31日まで）|1回接種|小学校入学1年前の3月末に送付|23区内契約医療機関|\n",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "|名称|法定接種期間|接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|麻しん風しん混合（MR）2期|小学校入学前の1年間（4月1日～翌年3月31日まで）|1回接種|小学校入学1年前の3月末に送付|23区内契約医療機関|\n"
+      },
+      "support": {
+        "description": "|名称|法定接種期間|接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|麻しん風しん混合（MR）1期|生後12月から24月に至るまでの間|1回接種|満1歳に達する前月末に送付|23区内契約医療機関|\n|麻しん風しん混合（MR）2期|小学校入学前の1年間（4月1日～翌年3月31日まで）|1回接種|小学校入学1年前の3月末に送付|23区内契約医療機関|\n",
+        "monetarySupport": null,
+        "materiallySupport": "|名称|法定接種期間|接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|麻しん風しん混合（MR）2期|小学校入学前の1年間（4月1日～翌年3月31日まで）|1回接種|小学校入学1年前の3月末に送付|23区内契約医療機関|\n"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "23区内契約医療機関",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "|名称|法定接種期間|接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|:----|\n|麻しん風しん混合（MR）1期|生後12月から24月に至るまでの間|1回接種|満1歳に達する前月末に送付|23区内契約医療機関|\n|麻しん風しん混合（MR）2期|小学校入学前の1年間（4月1日～翌年3月31日まで）|1回接種|小学校入学1年前の3月末に送付|23区内契約医療機関|\n",
+      "procedurePersons": null,
+      "procedureMethod": "①　お子さんの健康状態の良いときに受けてください。\n②　予防接種の当日は、「接種予診票」に記入し、母子健康手帳と一緒にお持ちください。\n検温は、当日接種する医療機関で行います。\n③　接種の際には、日頃からお子さんの健康状態をよくみている保護者が付き添ってください。なお、保護者以外の方でも、普段からお子さんの健康状態をよく知っている方であれば、保護者からの委任にもとづき付き添うことができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "接種予診票,母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "地域保健課予防接種係",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/teiki_yobo1.html",
+          "title": "長期にわたる疾患等で、やむを得ず法定接種期間を超えてしまった場合"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/7d78f81872f54db4aeb67149d01f93f0/yobo_teiki_ichiran.pdf",
+          "title": "渋谷区予防接種実施医療機関一覧（令和6年4月1日現在）（PDF 202KB）"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/sessyuencho.html",
+          "title": "新型コロナウイルス感染症の発生に伴う定期予防接種の接種期限延長について"
+        },
+        {
+          "uri": "https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakko/door",
+          "title": "スマート申請（定期予防接種予診票発行申請）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/15993e862e9d483ca1220535d5be9c8e/yobo_oshirase_MR1.pdf",
+          "title": "麻しん風しん混合（MR）ワクチン1期のお知らせ（PDF 278KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/08bfc6093ace4a37829e6767432c5dfe/yobo_kodomonoyobosessyu.pdf",
+          "title": "子どもの予防接種一覧表（令和6年4月1日現在）（PDF 150KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/05d9d5487a124d5e8ff61e4030c6d790/yobo_MR2_oshirase.pdf",
+          "title": "麻しん風しん混合（MR）ワクチン2期のお知らせ（PDF 172KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/kodomo_teiki.html",
+        "title": "子どもの定期予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "地域保健課予防接種係",
+        "contactPhone": "03-3463-1412",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4937",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+8+UM54",
+        "organization": "9000020131130",
+        "compartment": "地域保健課予防接種係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-17",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "水痘（水ぼうそう）"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "子どもの定期予防接種\n予防接種法で対象疾病など定められた子どもの定期予防接種です。定期予防接種は予防接種法に基づく予防接種で、対象者は受けるよう努めなければならないとされています。法定接種期間であれば、決められた回数を無料で受けることができます。\n（注）長期にわたる疾患等でやむを得ず、定期予防接種を法定接種期間内に受けることができなかったと認められる場合は、予防接種が受けられるようになってから2年間、定期予防接種として接種することができます。詳しくは、長期にわたる疾患等で、やむを得ず法定接種期間を超えてしまった場合;https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/teiki_yobo1.htmlをご覧ください。\n渋谷区へ転入後は、渋谷区以外で発行された予診票は使用できません。通知送付時期を過ぎてから転入した場合および予診票を紛失した場合は、渋谷区の予診票を発行しますので、母子健康手帳など接種歴が分かるものをご用意のうえ、本庁舎７階 地域保健課予防接種係までお越しいただくか、電話でお問い合わせください。スマート申請（定期予防接種予診票発行申請）;https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakkoから申請することもできます。\n（注）本申請は法定接種期間のみの定期予防接種予診票の発行手続きとなります。\n予防接種による副反応について\n予防接種の種類によっても異なりますが、接種後に熱が出たり接種した部分が腫れたりすることがあります。\nほとんどは数日以内に自然に治りますが、まれに高熱やひどい腫れ、ひきつけなどの症状を起こすこともあります。接種後にこうした症状が出た場合は、速やかに医療機関を受診してください。\n予防接種後の重い副反応については、報告基準が定められていて、基準にあてはまる症状を診断した医師は、国に報告することとされています。\nなお、こうした重い副反応について、被接種者や保護者から報告することもできます。地域保健課予防接種係までご相談ください。また、定期予防接種により引き起こされた副反応により、健康被害が生じた場合には、予防接種法に基づく予防接種健康被害救済制度により、一定の給付が行われる場合があります。種場所は23区内の契約医療機関です。\n水痘（水ぼうそう）\n（注）既に水ぼうそうに罹患した人は対象外です。\n|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|1歳～3歳未満|生後12か月～15か月に1回目を接種。<br>1回目接種後、6か月～12か月の間隔をおいて2回目を接種。|満1歳に達する前月末に郵送|23区内契約医療機関|\n",
+      "target": {
+        "targetPersons": "|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|1歳～3歳未満|生後12か月～15か月に1回目を接種。<br>1回目接種後、6か月～12か月の間隔をおいて2回目を接種。|満1歳に達する前月末に郵送|23区内契約医療機関|\n",
+        "lessThan": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|1歳～3歳未満|生後12か月～15か月に1回目を接種。<br>1回目接種後、6か月～12か月の間隔をおいて2回目を接種。|満1歳に達する前月末に郵送|23区内契約医療機関|\n"
+      },
+      "support": {
+        "description": "|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|1歳～3歳未満|生後12か月～15か月に1回目を接種。<br>1回目接種後、6か月～12か月の間隔をおいて2回目を接種。|満1歳に達する前月末に郵送|23区内契約医療機関|\n",
+        "monetarySupport": null,
+        "materiallySupport": "|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|1歳～3歳未満|生後12か月～15か月に1回目を接種。<br>1回目接種後、6か月～12か月の間隔をおいて2回目を接種。|満1歳に達する前月末に郵送|23区内契約医療機関|\n"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "23区内契約医療機関",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "|法定接種期間|標準的な接種期間と接種回数|予診票の送付時期|場所|\n|:----|:----|:----|:----|\n|1歳～3歳未満|生後12か月～15か月に1回目を接種。<br>1回目接種後、6か月～12か月の間隔をおいて2回目を接種。|満1歳に達する前月末に郵送|23区内契約医療機関|\n",
+      "procedurePersons": null,
+      "procedureMethod": "①　お子さんの健康状態の良いときに受けてください。\n②　「接種予診票」を2セット（１回目・２回目）送付しています。１回目の用紙から順番に使用してください。\nなお、２回目の接種時期は１回目から間隔があきますので、接種予診票を紛失しないようご注意ください。\n③　予防接種の当日は、「接種予診票」に記入し、母子健康手帳と一緒にお持ちください。（検温は、当日接種する医療機関で行います。）\n④　接種の際には、日頃からお子さんの健康状態をよくみている保護者が付き添ってください。なお、保護者以外の方でも、普段からお子さんの健康状態をよく知っている方であれば、保護者からの委任にもとづき付き添うことができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "接種予診票,母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "地域保健課予防接種係",
+      "relatedLink": [
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/08bfc6093ace4a37829e6767432c5dfe/yobo_kodomonoyobosessyu.pdf",
+          "title": "子どもの予防接種一覧表（令和6年4月1日現在）（PDF 150KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/da95b41361f54b3982a4b4706717e64c/yobo_oshirase_mizubo.pdf",
+          "title": "水痘ワクチンのお知らせ（PDF 348KB"
+        },
+        {
+          "uri": "https://ttzk.graffer.jp/ward-shibuya/smart-apply/apply-procedure-alias/vaccine-yoshinhyohakko/door",
+          "title": "スマート申請（定期予防接種予診票発行申請）"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/teiki_yobo1.html",
+          "title": "長期にわたる疾患等で、やむを得ず法定接種期間を超えてしまった場合"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/sessyuencho.html",
+          "title": "新型コロナウイルス感染症の発生に伴う定期予防接種の接種期限延長について"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/7d78f81872f54db4aeb67149d01f93f0/yobo_teiki_ichiran.pdf",
+          "title": "渋谷区予防接種実施医療機関一覧（令和6年4月1日現在）（PDF 202KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/yobo-sesshu/kodomo_teiki.html",
+        "title": "子どもの定期予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "地域保健課予防接種係",
+        "contactPhone": "03-3463-1412",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4937",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+9+UM54",
+        "organization": "9000020131130",
+        "compartment": "地域保健課予防接種係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-17",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

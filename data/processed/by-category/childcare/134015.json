@@ -1,0 +1,1481 @@
+{
+  "version": "2025-07-09T05:55:17.837Z",
+  "areaCode": "134015",
+  "areaName": "八丈町",
+  "category": "childcare",
+  "count": 12,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "子育て支援拠点・地域子育て支援センター",
+        "shortName": "子ども家庭支援センター"
+      },
+      "summary": "八丈町では八丈町子ども家庭支援センターを子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+      "description": "7 子ども家庭支援センター \n子育ては親だけの力でやろうとすると壁にぶつかりやすいものです。地域にある身近な\nサービスを利用すると子育ての大変さを軽減することができます。\n子ども家庭支援センターは、18 歳未満のお子さんや子育て家庭のあらゆる相談に応じる\nほか、交流ひろばや一時預かり事業などを行っています。\n（1）交流ひろば \n親子を対象にふれあいの場、交流の場として屋内ひろばを開放しています。また、毎週\n水曜日 10 時 30 分から催しを実施しています。\n【開放日時】月曜日～金曜日：8 時 45 分～17 時（祝日は除く）\n毎月第二土曜日：9 時～正午\n【対象】0 歳～未就学児\n【利用方法】子ども家庭支援センターでの利用登録が必要です。\n【利用料】無料\n【注意事項】①お子さんは保護者の方が見守ってください。\n ②おやつや食べ物の持ち込みはご遠慮ください。\n ③飲み物は保護者の方がご用意ください。\n ④ごみやオムツ等はお持ち帰りください。\n ⑤ご自宅のおもちゃ等の持ち込みはご遠慮ください。\n ⑥貴重品はご自身で責任をもって管理してください。\n（2）一時預かり事業／ファミリーサポート事業 \n 「6 お子さんを預けたいとき」をご確認ください。\n（3）育児・児童相談 \n 育児中の方やお子さん自身からの様々な相談に相談員が応じます。相談内容の秘密\nは守られます。\n【お問合せ先】子ども家庭支援センター ℡ 04996-2-4300",
+      "target": {
+        "targetPersons": "18 歳未満のお子さんや子育て家庭",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "18 歳未満のお子さんや子育て家庭"
+      },
+      "support": {
+        "description": "あらゆる相談に応じるほか、交流ひろばや一時預かり事業など",
+        "monetarySupport": null,
+        "materiallySupport": "あらゆる相談に応じるほか、交流ひろばや一時預かり事業など"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "子ども家庭支援センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "http://www.town.hachijo.tokyo.jp/kokasen/wp-content/uploads/2016/04/6ffc5a0436b28d855f1d36e25bd6c2bd.pdf",
+        "title": "はちじょう子育てガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM110",
+        "organization": "3000020134015",
+        "compartment": "子ども家庭支援センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2016-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法、児童福祉法",
+        "regulationArticle": "第6条の3第6項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児医療費（子ども医療費）の助成",
+        "shortName": "乳幼児・義務教育就学児医療費制度（マル乳）"
+      },
+      "summary": "子どもの保健対策を充実し、子育て世帯の経済的負担を軽減するため、お子さんが病気やけがなどにより健康保険を使って医療機関で受診した場合、保険診療の自己負担分（2割）を助成しています。",
+      "description": "乳幼児・義務教育就学児医療費制度のご案内\n中学校修了前までの児童が健康保険証を使って、医療機関で診療を受けた場合、窓口で負担する医療費の自己負担分を助成する制度です\n\n証交付の対象者\n八丈町にお住まいの中学校修了前(15歳の誕生日を迎えた最初の3月31日まで)の児童を、養育している方で、日本の医療保険制度に加入されていることが対象です\n\n対象にならない場合\n・健康保険に加入していない場合\n\n・児童福祉施設などに入所していて医療助成を受けることが出来る場合\n\n・児童が里親に委託されている場合\n\n・生活保護を受けている場合\n\n医療証について\n・申請を受けて対象の方には、医療証を発行します\n\n1.乳幼児医療証(マル乳)\n未就学児(6歳の誕生日を迎えた最初の3月31日まで)\n\n2.義務教育就学児医療証(マル子)\n小中学生(15歳の誕生日を迎えた最初の3月31日まで)\n\n※ 医療証の有効期間は毎年9月30日までとし(上記6歳または15歳到達者除く)、10月の更新時には現況届の提出が必要です（必要な方のみ）\nまた、マル乳からマル子への医療証の切り替えの手続きは必要ありません\n対象者には、3月末にマル子医療証を送付します\n\n取扱医療機関\n東京都内の契約医療機関以外で診療を受けた場合は、医療費助成申請が必要になります\n\n申請に必要なもの\n・乳幼児・義務教育就学児医療費助成制度医療証交付申請書\n\n・申請者(養育者)及び対象児童の健康保険証の写し\n\n※ 申請者が八丈町の国民健康保険に加入されている場合は公簿確認のため省略できます\n\n・申請者(請求する方)および配偶者の個人番号（マイナンバー）がわかるもの\n\n変更届\n保険証や住所など、申請事項に変更が生じた時は届出が必要です\n\n出生・転入された方\n厚生係で交付申請の手続きが必要です\n申請日より有効の証を交付します\n出生・転入日の翌日から15日以内に申請があった場合は、出生・転入日より有効の証を交付します\n\n転出される方\n資格消滅届が必要です\n\nまた転入先の区市町村で新たに申請が必要です\n\n必要書類等は、転入先にお問い合わせください\n\n★マル障・マル親・マル乳・マル子医療証の受給者証は、重複して交付しません\n\n★学校や保育園で起きた事故やけがは、日本スポーツ振興センターによる給付になりますので、学校等にお問い含わせください",
+      "target": {
+        "targetPersons": "八丈町にお住まいの中学校修了前(15歳の誕生日を迎えた最初の3月31日まで)の児童を、養育している方で、日本の医療保険制度に加入されていることが対象です\n\n対象にならない場合\n・健康保険に加入していない場合\n\n・児童福祉施設などに入所していて医療助成を受けることが出来る場合\n\n・児童が里親に委託されている場合\n\n・生活保護を受けている場合",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "未就学児(6歳の誕生日を迎えた最初の3月31日まで)"
+      },
+      "support": {
+        "description": "医療証について\n・申請を受けて対象の方には、医療証を発行します\n\n1.乳幼児医療証(マル乳)\n未就学児(6歳の誕生日を迎えた最初の3月31日まで)\n\n2.義務教育就学児医療証(マル子)\n小中学生(15歳の誕生日を迎えた最初の3月31日まで)\n\n※ 医療証の有効期間は毎年9月30日までとし(上記6歳または15歳到達者除く)、10月の更新時には現況届の提出が必要です（必要な方のみ）\nまた、マル乳からマル子への医療証の切り替えの手続きは必要ありません\n対象者には、3月末にマル子医療証を送付します",
+        "monetarySupport": null,
+        "materiallySupport": "医療証について\n・申請を受けて対象の方には、医療証を発行します\n\n1.乳幼児医療証(マル乳)\n未就学児(6歳の誕生日を迎えた最初の3月31日まで)\n\n2.義務教育就学児医療証(マル子)\n小中学生(15歳の誕生日を迎えた最初の3月31日まで)\n\n※ 医療証の有効期間は毎年9月30日までとし(上記6歳または15歳到達者除く)、10月の更新時には現況届の提出が必要です（必要な方のみ）\nまた、マル乳からマル子への医療証の切り替えの手続きは必要ありません\n対象者には、3月末にマル子医療証を送付します\n\n取扱医療機関\n東京都内の契約医療機関以外で診療を受けた場合は、医療費助成申請が必要になります"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "・申請者(養育者)及び対象児童の健康保険証の写し\n\n※ 申請者が八丈町の国民健康保険に加入されている場合は公簿確認のため省略できます\n\n・申請者(請求する方)および配偶者の個人番号（マイナンバー）がわかるもの",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/kakuka/kenkou/kenko_iryohi_n.html",
+        "title": "乳幼児・義務教育就学児医療費制度のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課厚生係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1001498",
+        "contactAddress": "東京都八丈島八丈町大賀郷2551番地2"
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM23",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課厚生係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "八丈町乳幼児の医療費の助成に関する条例",
+        "regulationArticle": "第1～11条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "幼児教育・保育の無償化",
+        "shortName": "幼児教育・保育の無償化"
+      },
+      "summary": "幼児教育・保育の重要性や、子育てや教育にかかる費用負担の軽減を図る少子化対策の観点などから、3歳児クラス（年少）から5歳児クラス（年長）のお子さん、および住民税非課税世帯の0歳児クラスから2歳児クラスのお子さんを対象に、幼児教育・保育の無償化を実施しています。\n無償化の内容は、利用する施設・サービスごとに異なります。",
+      "description": "■幼児教育・保育の無償化について■\n国の制度改正により、令和元年 10 月から 3 歳児～5 歳児クラスの全ての児童及び0歳児～2歳児クラスの非課税世帯の児童は、保育料が無償となります。\nただし、保育短時間（8 時 30 分～16 時 30 分）利用者の延長保育料については無償化の対象外となります。",
+      "target": {
+        "targetPersons": "3 歳児～5 歳児クラスの全ての児童及び0歳児～2歳児クラスの非課税世帯の児童",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "3 歳児～5 歳児クラスの全ての児童及び0歳児～2歳児クラスの非課税世帯の児童"
+      },
+      "support": {
+        "description": "保育料が無償",
+        "monetarySupport": "保育料が無償",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/nursery/wp-content/uploads/2023/10/2612d2a6d0893befbabde97647b80db6.pdf",
+        "title": "令和６年度版\n八丈町立保育園\n入園のしおり"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM2368",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課厚生係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-31",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "子ども・子育て支援法",
+        "regulationArticle": "第27条～第30条（第二章 第三節 第三款 施設型給付費及び地域型保育給付費等の支給）、第30条の2(子育てのための施設等利用給付）)"
+      },
+      "tag": {
+        "categoryCode": [
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子どものための教育・保育給付認定（1号・2号・3号）",
+        "shortName": "子ども・子育て支援新制度における『保育の必要性の認定』"
+      },
+      "summary": "子ども・子育て支援新制度による給付を受ける幼稚園や認可保育園、認定こども園、地域型保育事業（小規模保育・家庭的保育・居宅訪問型保育・事業所内保育）を利用するには、お子さんの年齢や保育の必要性の有無、保育の必要量に応じた認定を受ける必要があります。\n\nまた、企業主導型保育（地域枠）については、お住まいの自治体から教育・保育給付認定を受けることで、「幼児教育・保育の無償化」による助成を受けることができます。",
+      "description": "★子ども・子育て支援新制度における『保育の必要性の認定』について\n新制度の対象となる施設を利用するためには『保育の必要性の認定』を受けていただきます。認定を申請する方法は、認定区分によって異なります。\n|認定区分 |対象となるお子さん |利用できる施設|\n|:----|:----|:----|\n|1 号認定 |3～5 歳で保育の必要性なし|幼稚園<br>認定こども園|\n|2 号認定|3～5 歳で保育の必要性あり|認可保育園|\n|3 号認定|0～2 歳で保育の必要性あり |認可保育園|\n\n※ 2 号、3 号認定は、保育の必要量に応じて「保育標準時間（1 日 11 時間まで）」もしくは、「保育短時間（1 日 8 時間まで）」の 2 種類に区分されます。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 5,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "新制度の対象となる施設を利用するためには『保育の必要性の認定』を受けていただきます。認定を申請する方法は、認定区分によって異なります。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "http://www.town.hachijo.tokyo.jp/kokasen/wp-content/uploads/2016/04/6ffc5a0436b28d855f1d36e25bd6c2bd.pdf",
+        "title": "はちじょう子育てガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM71",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課厚生係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2016-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "子ども・子育て支援法",
+        "regulationArticle": "第19条（支給要件）・第20条（市町村の認定等）"
+      },
+      "tag": {
+        "categoryCode": [
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "多子世帯・ひとり親世帯・在宅障がい児（者）のいる世帯の保育料軽減",
+        "shortName": "保育料負担の軽減"
+      },
+      "summary": "子ども・子育て支援新制度による給付を受ける幼稚園や保育園などを利用するお子さんのうち、多子世帯やひとり親世帯、在宅障がい児（障がい者）のいる世帯などの保育料を軽減しています。",
+      "description": "■保育料負担の軽減■\n（１）きょうだいで保育園を利用する場合\nきょうだいで保育園を利用する場合、第 1 子は全額、第 2 子は半額、第３子以降は無料となります。\n※原則、小学校 1 年生以上のお子様はカウントしません。\n（２）年収約 360 万未満相当の世帯の場合\n区市町村民税所得割額が、77,101 円未満の場合は、小学校 1 年生以上のお子様もカウントし、第２子は半額、第３子以降は無料となります。ひとり親世帯については、第 1 子半額、第 2 子以降は無料となります。\n※世帯の負担能力に著しい変化が生じて保育料の支払いが困難となるなど、一定の条件を満たす場合には、保育料を軽減することがあります。詳しくは、福祉健康課厚生係にご相談ください。\n（育児休業や自己都合退職、転職等は軽減の対象にはなりません。）",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "保育料負担の軽減",
+        "monetarySupport": "保育料負担の軽減",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "福祉健康課厚生係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/nursery/wp-content/uploads/2023/10/2612d2a6d0893befbabde97647b80db6.pdf",
+        "title": "令和６年度版\n八丈町立保育園\n入園のしおり"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課厚生係",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM72",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課厚生係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-31",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "八丈町における保育の実施等に関する条例",
+        "regulationArticle": "第9条、第10条、第11条"
+      },
+      "tag": {
+        "categoryCode": [
+          "004"
+        ],
+        "targetCode": [
+          "087",
+          "088",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "認可保育所（保育園）の利用について",
+        "shortName": "保育園"
+      },
+      "summary": "保育園とは、保護者が共に働いていたり病気などの理由で、昼間家庭において保育を受けられないお子さんを、保護者に代わって保育する児童福祉施設で、法的には「保育所」といいます。\n保育所（保育園）には、国が定めた設置基準をクリアし、都道府県知事に認可された保育所と、それ以外の保育所がありますが、ここでは認可された保育所についてご案内します。\n\n保育園では在園児を対象とした「延長保育」のほか、「一時預かり」や「病児保育」、「障害児保育」などを行っている園もあります。",
+      "description": "■保育園とは■\n保育園は、お子様の保護者が就労している場合や、病気などにより日中お子様を保育できない場合に、保護者に代わってそのお子様を保育するところです。\n※ご家庭での保育が可能な場合は対象になりません。",
+      "target": {
+        "targetPersons": "お子様の保護者が就労している場合や、病気などにより日中お子様を保育できない場合",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "お子様の保護者が就労している場合や、病気などにより日中お子様を保育できない場合に、保護者に代わってそのお子様を保育する",
+        "monetarySupport": null,
+        "materiallySupport": "お子様の保護者が就労している場合や、病気などにより日中お子様を保育できない場合に、保護者に代わってそのお子様を保育する"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/nursery/wp-content/uploads/2023/10/2612d2a6d0893befbabde97647b80db6.pdf",
+        "title": "令和６年度版\n八丈町立保育園\n入園のしおり"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM73",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課厚生係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-31",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第24条"
+      },
+      "tag": {
+        "categoryCode": [
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "延長保育",
+        "shortName": "延長保育"
+      },
+      "summary": "八丈町内の保育園（保育所）や認定こども園、地域型保育施設では、保護者の勤務時間などにより、認定を受けた時間帯を超えて保育が必要なお子さんを対象に、別途料金を徴収のうえで、延長保育を実施しています。",
+      "description": "■延長保育■\n「保育短時間」のお子様が、保護者の方の勤務の都合等により、保育園が定める保育時間（8 時間）を超える前後の時間帯を利用する場合は、「延長保育」となり、保育料とは別に、延長保育料（1 時間 350 円）をご負担いただきます。\n（1）事前申し込み\n延長保育を利用する方は、利用日の前日までに各保育園へお申込みください。\n（2）利用にあたっての注意\n・延長保育を利用する理由は、原則「保育が必要な事由」に準じています。\n・また、保育料を滞納している方は、延長保育を利用できません。\n・事前申込みをせず、延長保育が発生しないようご注意ください。やむを得ず延長保育になってしまう場合は、必ず保育園に連絡をしてください。\n・18 時 30 分以降は保育することができませんのでご了承ください。18 時 30分を過ぎた場合は、各保育園玄関にてお子様と保育士にて待機させていただきます。",
+      "target": {
+        "targetPersons": "「保育短時間」のお子様が、保護者の方の勤務の都合等により、保育園が定める保育時間（8 時間）を超える前後の時間帯を利用する場合",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "「保育短時間」のお子様が、保護者の方の勤務の都合等により、保育園が定める保育時間（8 時間）を超える前後の時間帯を利用する",
+        "monetarySupport": null,
+        "materiallySupport": "「保育短時間」のお子様が、保護者の方の勤務の都合等により、保育園が定める保育時間（8 時間）を超える前後の時間帯を利用する"
+      },
+      "cost": "350",
+      "costConditions": "保育料とは別に、延長保育料（1 時間 350 円）",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "各保育園",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "18時30分以降は保育することができませんのでご了承ください。18 時 30分を過ぎた場合は、各保育園玄関にてお子様と保育士にて待機させていた\nだきます。"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "（1）事前申し込み\n延長保育を利用する方は、利用日の前日までに各保育園へお申込みください。\n（2）利用にあたっての注意\n・延長保育を利用する理由は、原則「保育が必要な事由」に準じています。\n・また、保育料を滞納している方は、延長保育を利用できません。\n・事前申込みをせず、延長保育が発生しないようご注意ください。やむを得ず延長保育になってしまう場合は、必ず保育園に連絡をしてください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "利用日の前日まで"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "各保育園",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/nursery/wp-content/uploads/2023/10/2612d2a6d0893befbabde97647b80db6.pdf",
+        "title": "令和６年度版\n八丈町立保育園\n入園のしおり"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM76",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課厚生係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-31",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "子ども・子育て支援法",
+        "regulationArticle": "第59条第2号"
+      },
+      "tag": {
+        "categoryCode": [
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "こども家庭センター",
+        "shortName": "子ども家庭支援センター "
+      },
+      "summary": "八丈町の【子ども家庭支援センター 】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+      "description": "子育ては親だけの力でやろうとすると壁にぶつかりやすいものです。地域にある身近なサービスを利用すると子育ての大変さを軽減することができます。\n子ども家庭支援センターは、18 歳未満のお子さんや子育て家庭のあらゆる相談に応じるほか、交流ひろばや一時預かり事業などを行っています。\n（1）交流ひろば\n親子を対象にふれあいの場、交流の場として屋内ひろばを開放しています。また、毎週水曜日 10 時 30 分から催しを実施しています。\n【開放日 時】 月曜日～金曜日：8 時 45 分～17 時（祝日は除く）\n毎月第四土曜日：9 時～正午\n【対象】 0 歳～未就学児\n【利用方法】 子ども家庭支援センターでの利用登録が必要です。\n【利用料】 無料\n【注意事項】 ①お子さんは保護者の方が見守ってください。\n ②おやつや食べ物の持ち込みはご遠慮ください。\n ③飲み物は保護者の方がご用意ください。\n ④ごみやオムツ等はお持ち帰りください。\n ⑤ご自宅のおもちゃ等の持ち込みはご遠慮ください。\n ⑥貴重品はご自身で責任をもって管理してください。\n（2）一時預かり事業／ファミリーサポート事業\n「6 お子さんを預けたいとき」をご確認ください。\n（3）育児・児童相談\n育児中の方やお子さん自身からの様々な相談に相談員が応じます。相談内容の秘密は守られます。",
+      "target": {
+        "targetPersons": "18 歳未満のお子さんや子育て家庭",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/publication/kosodate.pdf",
+        "title": "はちじょう子育てガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭支援センター",
+        "contactPhone": "04996-2-4300",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM799",
+        "organization": "3000020134015",
+        "compartment": "子ども家庭支援センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2025-02-26",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第10条の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "幼児教育・保育施設の保育料について",
+        "shortName": "保育料"
+      },
+      "summary": "子ども・子育て支援新制度による給付を受ける幼稚園や認可保育園、認定こども園、地域型保育事業（小規模保育・家庭的保育・居宅訪問型保育・事業所内保育）の保育料（利用者負担額）は、国が定めた額を上限として、八丈町が認定区分ごとに、世帯の所得状況、利用時間（標準時間・短時間）などに応じて定めた額となります。\nそれ以外の私学助成の幼稚園や認可外保育施設などの利用料は、施設ごとに定めた額になります。",
+      "description": "9 保育料 \n \n■決定方法等■\n保育料（利用者負担額）は、「■保育料（月額）■」に従い、世帯にかかる市町村民税所得割額を基に、お子様の支給認定区分、兄弟の状況等によって八丈町が設定した階層区分に応じて決定します。月の途中で退園した場合、日割り保育料となる場合がございますので、退園する場合には必ず【保育実施解除申請書】を提出してください（年長組卒園によるものは除く）。\n・市町村民税が未申告の方は、保育料が最高階層（最高額）となる場合があります。収入がない方であっても原則市町村民税の申告は必要です。\n・保育料は算定後、「保育料決定通知書」によりお知らせします。\n・保育料は、年度当初の実施年齢により決定するので、年度途中で誕生月を迎えても変更はありません。\n・年度途中で修正申告などにより税額更正があった場合は、原則、厚生係で確認できた翌月から保育料変更の対応をさせていただきます。\n※延長保育料については、P6 で確認してください。\n■保育料算定にかかる家計の主宰者について（重要）■■\n●家計の主宰者の認定基準\n（1）両親世帯（父母ともいる世帯）においては、父母それぞれ主宰者とみなす。\nただし、父、及び母の収入金額の合算額が 103 万円を超えない場合は、児童と同一の世帯に属して生計を一にしているものの中で、収入金額が最多なものを主宰者に追加する。\n（2）ひとり親世帯（母子、父子世帯）においては、父または母とする。ただし、父、または母の収入金額が 103 万円を超えない場合は、児童と同一の世帯に属して生計を一にしているものの中で収入金額が最多なものを主宰者に追加する。\n※必要に応じて、生計が別である場合に、証明書類を御提出いただく場合がございます。\n■幼児教育・保育の無償化について■ \n国の制度改正により、令和元年 10 月から 3 歳児～5 歳児クラスの全ての児童及び0歳児～2歳児クラスの非課税世帯の児童は、保育料が無償となります。\nただし、保育短時間（8 時 30 分～16 時 30 分）利用者の延長保育料については無償化の対象外となります。\n■保育料負担の軽減■\n（１）きょうだいで保育園を利用する場合\nきょうだいで保育園を利用する場合、第 1 子は全額、第 2 子以降は無料となります。\n※原則、小学校 1 年生以上のお子様はカウントしません。\n（２）年収約 360 万未満相当の世帯の場合\n区市町村民税所得割額が、77,101 円未満の場合は、小学校 1 年生以上のお子様もカウントし、第２子は半額、第３子以降は無料となります。ひとり親世帯については、第 1 子半額、第 2 子以降は無料となります。\n※世帯の負担能力に著しい変化が生じて保育料の支払いが困難となるなど、一定の条件を満たす場合には、保育料を軽減することがあります。詳しくは、福祉健康課厚生係にご相談ください。\n（育児休業や自己都合退職、転職等は軽減の対象にはなりません。）\n■支払い等■\n原則、口座振替で八丈町が徴収します。口座振替の申込みは、「預金口座振替依頼書・自動払込利用申込書」を金融機関へご提出ください。\n \n各月の納付期限までに保育料の納付がないときは、保育園を通じて督促状や催告書の配布のほか、地方税の滞納処分の例により、財産の調査（金融機関や勤務先への照会等）や給与差し押さえ等の滞納処分や児童手当法に基づき、児童手当から特別徴収する場合があります。\n■八丈町で住民税が課税されていない方■ \n八丈町で住民税が課税されていない方(令和５年 1 月 2 日以降に八丈町に転入した方)は、入園希望月と八丈町への転入日に応じて①・②の提出が必要です(下表参照)。\n① 「令和５年度住民税課税証明書」又は「令和５年度住民税納税通知書」のコピー \n↑令和 5 年 1 月 1 日現在、住民票があった区市町村が発行\n② 「令和６年度住民税課税証明書」又は「令和６年度住民税納税通知書」のコピー \n↑令和 6 年 1 月 1 日現在、住民票があった区市町村が発行\n|:----|:----|:----|\n|八丈町への転入日（住民票の移動日）|入園希望月|＜|\n|^|令和 6 年 4 月～令和 6 年 8 月|令和 6 年 9 月～令和 7 年 3 月|\n|令和 5 年 1 月 2 日～令和 6 年 1 月 1 日|⓵のみ必要|不要|\n|令和 6 年 1 月 2 日以降|⓵＋⓶が必要|⓶のみ必要|\n\n■保育料（月額）■\n|階層区分|<|<|<|認定区分・保育時間|<|<|<|\n|:----|:----|:----|:----|:----|:----|:----|:----|\n|^|<|<|<|3 歳児以上のクラス|<|0,1,2 歳児のクラス|<|\n|^|<|<|<|標準時間|短時間|標準時間 |短時間|\n|A|<|生活保護世帯|<|0|0|0|0|\n|B1|<|市町村民税非課税世帯（ひとり親世帯）|<|0|0|0|0|\n|B2|<|市町村民税非課税世帯（B1 以外の世帯） |<|0|0|0|0|\n|B3|<|市町村民税均等割のみ世帯 |<|0|0|4,000|3,900|\n|市町村民税課税世帯|C1|市町村民税所得割課税額|～10,000 円未満|0|0|6,600|6,500|\n|^|C2|^|10,000 円以上 20,000 円未満|0|0|8,200|8,100|\n|^|C3|^|20,000 円以上 30,000 円未満|0|0|9,800|9,600|\n|^|C4|^|30,000 円以上 40,000 円未満|0|0|11,400|11,200|\n|^|C5|^|40,000 円以上 48,600 円未満|0|0|13,000|12,800|\n|^|C6|^|48,600 円以上 57,600 円未満|0|0|14,200|14,000|\n|^|C7|^|57,600 円以上 67,600 円未満|0|0|15,400|15,100|\n|^|C8|^|67,600 円以上 77,600 円未満|0|0|16,600|16,300|\n|^|C9|^|77,600 円以上 87,600 円未満 |0|0|18,800|18,500|\n|^|C10|^|87,600 円以上 97,000 円未満|0|0|19,800|19,500|\n|^|C11|^|97,000 円以上 117,000 円未満|0|0|21,200|20,800|\n|^|C12|^|117,000 円以上 137,000 円未満 |0|0|22,600|22,200|\n|^|C13|^|137,000 円以上 157,000 円未満|0|0|24,000|23,600|\n|^|C14|^|157,000 円以上 169,000 円未満|0|0|24,300|23,900|\n|^|C15|^|169,000 円以上 194,000 円未満|0|0|25,500|25,100|\n|^|C16|^|194,000 円以上 219,000 円未満|0|0|26,600|26,000|\n|^|C17|^|219,000 円以上 244,000 円未満|0|0|27,900|27,400|\n|^|C18|^|244,000 円以上 269,000 円未満|0|0|29,200|28,700|\n|^|C19|^|269,000 円以上 301,000 円未満|0|0|30,500|30,000|\n|^|C20|^|301,000 円以上 326,000 円未満 |0|0|31,800|31,300|\n|^|C21|^|326,000 円以上 351,000 円未満|0|0|34,600|34,000|\n|^|C22|^|351,000 円以上 376,000 円未満|0|0|37,400|36,800|\n|^|C23|^|376,000 円以上 397,000 円未満|0|0|40,200|39,500|\n|^|C24|^|397,000 円以上 |0|0|43,000|42,300|\n\n※ 兄弟姉妹で入園している場合、第 2 子以降は無料となります。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": "■保育料（月額）■\n|階層区分|<|<|<|認定区分・保育時間|<|<|<|\n|:----|:----|:----|:----|:----|:----|:----|:----|\n|^|<|<|<|3 歳児以上のクラス|<|0,1,2 歳児のクラス|<|\n|^|<|<|<|標準時間|短時間|標準時間 |短時間|\n|A|<|生活保護世帯|<|0|0|0|0|\n|B1|<|市町村民税非課税世帯（ひとり親世帯）|<|0|0|0|0|\n|B2|<|市町村民税非課税世帯（B1 以外の世帯） |<|0|0|0|0|\n|B3|<|市町村民税均等割のみ世帯 |<|0|0|4,000|3,900|\n|市町村民税課税世帯|C1|市町村民税所得割課税額|～10,000 円未満|0|0|6,600|6,500|\n|^|C2|^|10,000 円以上 20,000 円未満|0|0|8,200|8,100|\n|^|C3|^|20,000 円以上 30,000 円未満|0|0|9,800|9,600|\n|^|C4|^|30,000 円以上 40,000 円未満|0|0|11,400|11,200|\n|^|C5|^|40,000 円以上 48,600 円未満|0|0|13,000|12,800|\n|^|C6|^|48,600 円以上 57,600 円未満|0|0|14,200|14,000|\n|^|C7|^|57,600 円以上 67,600 円未満|0|0|15,400|15,100|\n|^|C8|^|67,600 円以上 77,600 円未満|0|0|16,600|16,300|\n|^|C9|^|77,600 円以上 87,600 円未満 |0|0|18,800|18,500|\n|^|C10|^|87,600 円以上 97,000 円未満|0|0|19,800|19,500|\n|^|C11|^|97,000 円以上 117,000 円未満|0|0|21,200|20,800|\n|^|C12|^|117,000 円以上 137,000 円未満 |0|0|22,600|22,200|\n|^|C13|^|137,000 円以上 157,000 円未満|0|0|24,000|23,600|\n|^|C14|^|157,000 円以上 169,000 円未満|0|0|24,300|23,900|\n|^|C15|^|169,000 円以上 194,000 円未満|0|0|25,500|25,100|\n|^|C16|^|194,000 円以上 219,000 円未満|0|0|26,600|26,000|\n|^|C17|^|219,000 円以上 244,000 円未満|0|0|27,900|27,400|\n|^|C18|^|244,000 円以上 269,000 円未満|0|0|29,200|28,700|\n|^|C19|^|269,000 円以上 301,000 円未満|0|0|30,500|30,000|\n|^|C20|^|301,000 円以上 326,000 円未満 |0|0|31,800|31,300|\n|^|C21|^|326,000 円以上 351,000 円未満|0|0|34,600|34,000|\n|^|C22|^|351,000 円以上 376,000 円未満|0|0|37,400|36,800|\n|^|C23|^|376,000 円以上 397,000 円未満|0|0|40,200|39,500|\n|^|C24|^|397,000 円以上 |0|0|43,000|42,300|\n\n※ 兄弟姉妹で入園している場合、第 2 子は 1/2、第 3 子以降は無料となります。\n\n（１）きょうだいで保育園を利用する場合\nきょうだいで保育園を利用する場合、第 1 子は全額、第 2 子は半額、第３子以降は無料となります。\n※原則、小学校 1 年生以上のお子様はカウントしません。\n（２）年収約 360 万未満相当の世帯の場合\n区市町村民税所得割額が、77,101 円未満の場合は、小学校 1 年生以上のお子様もカウントし、第２子は半額、第３子以降は無料となります。ひとり親世帯については、第 1 子半額、第 2 子以降は無料となります。\n※世帯の負担能力に著しい変化が生じて保育料の支払いが困難となるなど、一定の条件を満たす場合には、保育料を軽減することがあります。詳しくは、福祉健康課厚生係にご相談ください。\n（育児休業や自己都合退職、転職等は軽減の対象にはなりません。）",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "原則、口座振替で八丈町が徴収します。口座振替の申込みは、「預金口座振替依頼書・自動払込利用申込書」を金融機関へご提出ください。\n\n各月の納付期限までに保育料の納付がないときは、保育園を通じて督促状や催告書の配布のほか、地方税の滞納処分の例により、財産の調査（金融機関や勤務先への照会等）や給与差し押さえ等の滞納処分や児童手当法に基づき、児童手当から特別徴収する場合があります。 \n \n \n■八丈町で住民税が課税されていない方■ \n八丈町で住民税が課税されていない方(令和５年 1 月 2 日以降に八丈町に転入した方)は、入園希望月と八丈町への転入日に応じて①・②の提出が必要です(下表参照)。\n① 「令和５年度住民税課税証明書」又は「令和５年度住民税納税通知書」のコピー \n↑令和 5 年 1 月 1 日現在、住民票があった区市町村が発行\n② 「令和６年度住民税課税証明書」又は「令和６年度住民税納税通知書」のコピー \n↑令和 6 年 1 月 1 日現在、住民票があった区市町村が発行\n|:----|:----|:----|\n|八丈町への転入日（住民票の移動日）|入園希望月|＜|\n|^|令和 6 年 4 月～令和 6 年 8 月|令和 6 年 9 月～令和 7 年 3 月|\n|令和 5 年 1 月 2 日～令和 6 年 1 月 1 日|⓵のみ必要|不要|\n|令和 6 年 1 月 2 日以降|⓵＋⓶が必要|⓶のみ必要|\n",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/nursery/wp-content/uploads/2023/10/2612d2a6d0893befbabde97647b80db6.pdf",
+        "title": "令和６年度版\n八丈町立保育園\n入園のしおり"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM803",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課厚生係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-31",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "子ども・子育て支援法、児童福祉法",
+        "regulationArticle": "第27条～第30条の2、第24条"
+      },
+      "tag": {
+        "categoryCode": [
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "ファミリー・サポート・センター",
+        "shortName": "ファミリーサポート事業"
+      },
+      "summary": "八丈町のファミリー・サポート・センターは、子育ての援助を受けたい人と援助を行いたい人が会員登録をし、提供会員が利用会員に対してさまざまな育児の手助けをする事業です。",
+      "description": "③ファミリーサポート事業\n 子育てのお手伝いをしたい方（提供会員）と、お手伝いを頼みたい方（利用会員）がそれぞれファミリーサポートの会の会員となり、地域で子育ての助け合いを行います。\n【援助対象】 概ね生後 6 か月～10 歳未満\n【手続き場所】八丈町子ども家庭支援センター\n【主な援助内容】●保育園などへの送迎\n●保育園終了後や学校の放課後などの預かり\n●保護者の病気や外出、何らかの用事がある際の預かり\n ただし、家事援助や宿泊を伴う援助活動はできません。\n【事前打合せ】申込み後に、提供会員を探し、面談（事前打合せ）を行います。\n【援助報酬】\n|活動日 |活動時間帯|援助報酬<br>（一人 1 時間につき）|\n|:----|:----|:----|\n|平日<br>（月～金）|8 時～17 時 |700 円|\n|^|上記以外の時間|900 円|\n|土曜、日曜、祝日及び<br>年末年始<br>（12 月 29 日～1 月 3 日）|終日|900 円|\n\n【その他】●1 時間から利用可能です。\n●援助活動に要した交通費や食事代などの実費は利用会員の負担となります。\n●報酬の支払いは、会員相互で行います。\n●上記に記載されていないことなどの詳細はお問合せください。\n【お問合せ先】子ども家庭支援センター ℡ 04996-2-4300",
+      "target": {
+        "targetPersons": "概ね生後6か月～10歳未満",
+        "lessThan": {
+          "targetAge": 10,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "概ね生後 6 か月～10 歳未満"
+      },
+      "support": {
+        "description": "【主な援助内容】●保育園などへの送迎\n●保育園終了後や学校の放課後などの預かり\n●保護者の病気や外出、何らかの用事がある際の預かり\n ただし、家事援助や宿泊を伴う援助活動はできません。",
+        "monetarySupport": null,
+        "materiallySupport": "【主な援助内容】●保育園などへの送迎\n●保育園終了後や学校の放課後などの預かり\n●保護者の病気や外出、何らかの用事がある際の預かり\n ただし、家事援助や宿泊を伴う援助活動はできません。"
+      },
+      "cost": null,
+      "costConditions": "【援助報酬】\n活動日 活動時間帯\n援助報酬\n（一人 1 時間につき）\n平日\n（月～金）\n8 時～17 時800 円\n上記以外の時間 1,000 円\n土曜、日曜、祝日及び\n年末年始\n（12 月 29 日～1 月 3 日）\n終日 1,000円",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "●1 時間から利用可能です。"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "【事前打合せ】申込み後に、提供会員を探し、面談（事前打合せ）を行います。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "八丈町子ども家庭支援センター",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/kokasen/wp-content/uploads/2016/04/6ffc5a0436b28d855f1d36e25bd6c2bd.pdf",
+        "title": "はちじょう子育てガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭支援センター",
+        "contactPhone": "04996-2-4300",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM87",
+        "organization": "3000020134015",
+        "compartment": "子ども家庭支援センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2015-12-04",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法、子ども・子育て支援法",
+        "regulationArticle": "第6条の3第14項、第21条の9、第59条第12号"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "認可保育所・認定こども園（保育園枠）一覧",
+        "shortName": "保育園一覧"
+      },
+      "summary": "保育園とは、保護者が仕事や病気などのために、家庭で充分に保育することができない子どもを、保護者に代わって保育することを目的とした児童福祉施設で、法的には保育所といいます。\n保育所（保育園）のうち、国が定めた設定基準をクリアし、都道府県知事（政令市・中核市では市長）に認可された保育園を「認可保育所」といいます。\n認可保育所には公立の保育園と私立の保育園があります。\n以下は、八丈町内の認可保育所（保育園）および認定こども園の保育園枠の一覧です。",
+      "description": "https://www.town.hachijo.tokyo.jp/nursery/wp-content/uploads/2023/10/2612d2a6d0893befbabde97647b80db6.pdf#page=4",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": "https://www.town.hachijo.tokyo.jp/nursery/wp-content/uploads/2023/10/2612d2a6d0893befbabde97647b80db6.pdf#page=4",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/nursery/wp-content/uploads/2023/10/2612d2a6d0893befbabde97647b80db6.pdf",
+        "title": "令和６年度版\n八丈町立保育園\n入園のしおり"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM89",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課厚生係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-31",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児医療費（子ども医療費）の助成",
+        "shortName": "乳幼児・義務教育就学児医療費制度（マル子）"
+      },
+      "summary": "子どもの保健対策を充実し、子育て世帯の経済的負担を軽減するため、お子さんが病気やけがなどにより健康保険を使って医療機関で受診した場合、保険診療の自己負担分（3割）を助成しています。",
+      "description": "乳幼児・義務教育就学児医療費制度のご案内\n中学校修了前までの児童が健康保険証を使って、医療機関で診療を受けた場合、窓口で負担する医療費の自己負担分を助成する制度です\n\n証交付の対象者\n八丈町にお住まいの中学校修了前(15歳の誕生日を迎えた最初の3月31日まで)の児童を、養育している方で、日本の医療保険制度に加入されていることが対象です\n\n対象にならない場合\n・健康保険に加入していない場合\n\n・児童福祉施設などに入所していて医療助成を受けることが出来る場合\n\n・児童が里親に委託されている場合\n\n・生活保護を受けている場合\n\n医療証について\n・申請を受けて対象の方には、医療証を発行します\n\n1.乳幼児医療証(マル乳)\n未就学児(6歳の誕生日を迎えた最初の3月31日まで)\n\n2.義務教育就学児医療証(マル子)\n小中学生(15歳の誕生日を迎えた最初の3月31日まで)\n\n※ 医療証の有効期間は毎年9月30日までとし(上記6歳または15歳到達者除く)、10月の更新時には現況届の提出が必要です（必要な方のみ）\nまた、マル乳からマル子への医療証の切り替えの手続きは必要ありません\n対象者には、3月末にマル子医療証を送付します\n\n取扱医療機関\n東京都内の契約医療機関以外で診療を受けた場合は、医療費助成申請が必要になります\n\n申請に必要なもの\n・乳幼児・義務教育就学児医療費助成制度医療証交付申請書\n\n・申請者(養育者)及び対象児童の健康保険証の写し\n\n※ 申請者が八丈町の国民健康保険に加入されている場合は公簿確認のため省略できます\n\n・申請者(請求する方)および配偶者の個人番号（マイナンバー）がわかるもの\n\n変更届\n保険証や住所など、申請事項に変更が生じた時は届出が必要です\n\n出生・転入された方\n厚生係で交付申請の手続きが必要です\n申請日より有効の証を交付します\n出生・転入日の翌日から15日以内に申請があった場合は、出生・転入日より有効の証を交付します\n\n転出される方\n資格消滅届が必要です\n\nまた転入先の区市町村で新たに申請が必要です\n\n必要書類等は、転入先にお問い合わせください\n\n★マル障・マル親・マル乳・マル子医療証の受給者証は、重複して交付しません\n\n★学校や保育園で起きた事故やけがは、日本スポーツ振興センターによる給付になりますので、学校等にお問い含わせください",
+      "target": {
+        "targetPersons": "八丈町にお住まいの中学校修了前(15歳の誕生日を迎えた最初の3月31日まで)の児童を、養育している方で、日本の医療保険制度に加入されていることが対象です\n\n対象にならない場合\n・健康保険に加入していない場合\n\n・児童福祉施設などに入所していて医療助成を受けることが出来る場合\n\n・児童が里親に委託されている場合\n\n・生活保護を受けている場合",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "小中学生(15歳の誕生日を迎えた最初の3月31日まで)"
+      },
+      "support": {
+        "description": "医療証について\n・申請を受けて対象の方には、医療証を発行します\n\n1.乳幼児医療証(マル乳)\n未就学児(6歳の誕生日を迎えた最初の3月31日まで)\n\n2.義務教育就学児医療証(マル子)\n小中学生(15歳の誕生日を迎えた最初の3月31日まで)\n\n※ 医療証の有効期間は毎年9月30日までとし(上記6歳または15歳到達者除く)、10月の更新時には現況届の提出が必要です（必要な方のみ）\nまた、マル乳からマル子への医療証の切り替えの手続きは必要ありません\n対象者には、3月末にマル子医療証を送付します\n\n取扱医療機関\n東京都内の契約医療機関以外で診療を受けた場合は、医療費助成申請が必要になります",
+        "monetarySupport": null,
+        "materiallySupport": "医療証について\n・申請を受けて対象の方には、医療証を発行します\n\n1.乳幼児医療証(マル乳)\n未就学児(6歳の誕生日を迎えた最初の3月31日まで)\n\n2.義務教育就学児医療証(マル子)\n小中学生(15歳の誕生日を迎えた最初の3月31日まで)\n\n※ 医療証の有効期間は毎年9月30日までとし(上記6歳または15歳到達者除く)、10月の更新時には現況届の提出が必要です（必要な方のみ）\nまた、マル乳からマル子への医療証の切り替えの手続きは必要ありません\n対象者には、3月末にマル子医療証を送付します\n\n取扱医療機関\n東京都内の契約医療機関以外で診療を受けた場合は、医療費助成申請が必要になります"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "・申請者(養育者)及び対象児童の健康保険証の写し\n\n※ 申請者が八丈町の国民健康保険に加入されている場合は公簿確認のため省略できます\n\n・申請者(請求する方)および配偶者の個人番号（マイナンバー）がわかるもの",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hachijo.tokyo.jp/kakuka/kenkou/kenko_iryohi_n.html",
+        "title": "乳幼児・義務教育就学児医療費制度のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課厚生係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1001498",
+        "contactAddress": "東京都八丈島八丈町大賀郷2551番地東京都八丈島八丈町大賀郷2551番地2"
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+2+UM23",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課厚生係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "八丈町義務教育就学児の医療費の助成に関する条例",
+        "regulationArticle": "第1～12条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    }
+  ]
+}

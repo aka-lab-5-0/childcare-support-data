@@ -1,0 +1,623 @@
+{
+  "version": "2025-07-09T05:55:17.836Z",
+  "areaCode": "133647",
+  "areaName": "神津島村",
+  "category": "vaccination",
+  "count": 5,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "妊娠の届出・母子健康手帳の交付",
+        "shortName": "妊娠したかもと思ったら"
+      },
+      "summary": "妊娠がわかったら妊娠の届出をしてください。妊娠の届出をした妊婦さんに母子健康手帳を交付します。母子健康手帳は、妊娠からお子さんが小学校に入学するまでの、母と子の健康の記録です。育児、予防接種、健康診査などの際に必要となります。",
+      "description": "妊娠したかもと思ったら・・・\n①まず、神津診療所か内地の医療機関(産婦人科)を受診しましょう。診療所を受診する場合には、午前中の一般外来を受診しましょう。\n②母子手帳や妊婦健診受診券を発行しますので、保健センターに来所してください。\n(各種助成金の説明や妊婦健診の説明などを保健師よりいたしますので、時間に余裕をもっての来所をお願いします。また来所する際には事前にご連絡いただけますと幸いです)\nできるだけ、12 週までに母子手帳を受け取るようにしましょう。",
+      "target": {
+        "targetPersons": "妊婦",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "母子手帳や妊婦健診受診券を発行しますので、保健センターに来所してください。",
+        "monetarySupport": null,
+        "materiallySupport": "母子手帳や妊婦健診受診券を発行しますので、保健センターに来所してください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "①まず、神津診療所か内地の医療機関(産婦人科)を受診しましょう。診療所を受診する場合には、午前中の一般外来を受診しましょう。\n②母子手帳や妊婦健診受診券を発行しますので、保健センターに来所してください。\n(各種助成金の説明や妊婦健診の説明などを保健師よりいたしますので、時間に余裕をもっての来所をお願いします。また来所する際には事前にご連絡いただけますと幸いです)\nできるだけ、12 週までに母子手帳を受け取るようにしましょう。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "保健センター",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-jyunbi.pdf",
+        "title": "お母さんになる準備"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健センター",
+        "contactPhone": "04992-8-0010",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133647;神津島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133647+1+UM1",
+        "organization": "9000020133647",
+        "compartment": "保健センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-03-18",
+      "odInformation": {
+        "updateDate": "2024-08-19",
+        "updater": "神津島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第15条（妊娠の届出）、第16条（母子健康手帳）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "077",
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "各種予防接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "各種予防接種\n病気にかかってしまうと、重い後遺症が残ったり、命がおびやかされたりすることも。そうならないためには、予防が一番。そのもっとも安全で確実な方法が、予防接種です。\n神津島村では、月 2 回、診療所で予防接種をうけられる日をもうけております。接種日の 2 週間前までに保健センターに予約をしてください。予防接種日の詳細は、新生児訪問の際に、別紙にてご説明いたします。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "月 2 回、診療所で予防接種をうけられる日をもうけております。",
+        "monetarySupport": null,
+        "materiallySupport": "月 2 回、診療所で予防接種をうけられる日をもうけております。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "診療所",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "月 2 回"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "保健センターに予約",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "接種日の 2 週間前までに保健センターに予約をしてください。"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "保健センター",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-youkoso1.pdf",
+        "title": "ようこそ！赤ちゃん"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健センター",
+        "contactPhone": "04992-8-0010",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133647;神津島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133647+1+UM54",
+        "organization": "9000020133647",
+        "compartment": "保健センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-03-18",
+      "odInformation": {
+        "updateDate": "2024-08-19",
+        "updater": "神津島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "里帰り出産時の妊婦健康診査の費用助成",
+        "shortName": "都外妊婦健診の助成"
+      },
+      "summary": "神津島村にお住まいの妊婦さんが、里帰り出産などで神津島村の委託医療機関以外の病院や助産所で妊婦健康診査を受診した場合、その健診にかかった費用の一部を償還払い（後払い）します。",
+      "description": "都外妊婦健診の助成について①\n里帰り出産等のために、都内の契約医療機関外で妊婦健康診査を受診したために、妊婦健康診査受診票等が使用できなかった方に対して、妊婦健康診査費用の一部を助成します。\n■対象となる要件\n・助成金の申請を予定しているのは、母子手帳交付後の妊婦健診であること\n・里帰り出産等で、都内契約医療機関以外で妊婦健診を受診し\nたために、「妊婦健康診査受診票」「妊婦超音波検査受診票」「妊婦子宮頸がん検診受診票」が使用できなかった\n・妊婦健診受診日現在、神津島村に住民登録がある\n■対象外となる要件\n・都内契約医療機関を受診した分\n・保険診療分\n・文書料や予防接種料等\n■申請に必要なもの\n・母子手帳（健診欄に島外の病院名印が押してあるもの）\n・医療機関が発行した領収書 (コピー不可) \n・赤ちゃんのエコー写真\n・未使用の受診票\n・印鑑 （スタンプ式不可）\n・健康保険証\n・住民票 （出産支援特別助成金を既に申請している場合は不要。）\n・振込先の口座番号等が確認できるもの\n※通帳もしくはキャッシュカード （七島信用組合、ゆうちょ銀行のみ）\n■申請先\n・保健センター\n都外妊婦健診の助成について②\n■申請方法\n・この申請は出産支援特別助成金と違い、その都度ではなく、まとめての申請ができます。\n・健診を受診した最後の日及び出産後半年以内に申請をして下さい。\n☆使用しなかった券は保健センターにご返却ください。\n助成金の上限額（２０２1 年度）\n○１枚目の青い受診票（1 回目）→ １０,８５０円\n○２枚目以降の黄色受診票（2 回目～14 回目）→ ５,０７０円\n○超音波検査受診票（4 枚）→ ５,３００円\n○子宮頸がん検診受診票（1 枚）→ ３,４００円",
+      "target": {
+        "targetPersons": "■対象となる要件\n・助成金の申請を予定しているのは、母子手帳交付後の妊婦健診であること\n・里帰り出産等で、都内契約医療機関以外で妊婦健診を受診したために、「妊婦健康診査受診票」「妊婦超音波検査受診票」「妊婦子宮頸がん検診受診票」が使用できなかった\n・妊婦健診受診日現在、神津島村に住民登録がある\n■対象外となる要件\n・都内契約医療機関を受診した分\n・保険診療分\n・文書料や予防接種料等",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "都内の契約医療機関外で妊婦健康診査を受診したために、妊婦健康診査受診票等が使用できなかった方に対して、妊婦健康診査費用の一部を助成します。\n助成金の上限額（２０２1 年度）\n○１枚目の青い受診票（1 回目）→ １０,８５０円\n○２枚目以降の黄色受診票（2 回目～14 回目）→ ５,０７０円\n○超音波検査受診票（4 枚）→ ５,３００円\n○子宮頸がん検診受診票（1 枚）→ ３,４００円",
+        "monetarySupport": "都内の契約医療機関外で妊婦健康診査を受診したために、妊婦健康診査受診票等が使用できなかった方に対して、妊婦健康診査費用の一部を助成します。\n助成金の上限額（２０２1 年度）\n○１枚目の青い受診票（1 回目）→ １０,８５０円\n○２枚目以降の黄色受診票（2 回目～14 回目）→ ５,０７０円\n○超音波検査受診票（4 枚）→ ５,３００円\n○子宮頸がん検診受診票（1 枚）→ ３,４００円",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "・この申請は出産支援特別助成金と違い、その都度ではなく、まとめての申請ができます。\n・健診を受診した最後の日及び出産後半年以内に申請をして下さい。\n☆使用しなかった券は保健センターにご返却ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "健診を受診した最後の日及び出産後半年以内に申請をして下さい。"
+      },
+      "electronicSubmission": false,
+      "belongings": "・母子手帳（健診欄に島外の病院名印が押してあるもの）\n・医療機関が発行した領収書 (コピー不可) \n・赤ちゃんのエコー写真\n・未使用の受診票\n・印鑑 （スタンプ式不可）\n・健康保険証\n・住民票 （出産支援特別助成金を既に申請している場合は不要。）\n・振込先の口座番号等が確認できるもの\n※通帳もしくはキャッシュカード （七島信用組合、ゆうちょ銀行のみ）\n■申請先\n・保健センター",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "保健センター",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-jyunbi.pdf",
+        "title": "お母さんになる準備"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健センター",
+        "contactPhone": "04992-8-0010",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133647;神津島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133647+1+UM7",
+        "organization": "9000020133647",
+        "compartment": "保健センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-03-18",
+      "odInformation": {
+        "updateDate": "2024-08-19",
+        "updater": "神津島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第10条（保健指導）・第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出生連絡票・低体重児出生届",
+        "shortName": "出生通知票ハガキ"
+      },
+      "summary": "赤ちゃんが生まれたら、母子手帳に添付されている出生通知票ハガキを記入して、郵送または提出してください。出生通知票ハガキをもとに、「こんにちは赤ちゃん事業（乳幼児全戸訪問）」のご連絡をします。\nなお、法律（母子保健法）で2,500グラム未満のお子さんが出生した時は、保護者がその旨を速やかに届け出ることが義務づけられており、出生通知票ハガキはその届出を兼ねています。",
+      "description": "出生通知票ハガキ\n母子手帳交付時に、出生通知票ハガキをお渡しします。まだお子さんの名前が決まっていなくても、産後出来るだけ早く、ハガキの郵送をお願いいたします。いただいたハガキをもとに保健サービス(新生児訪問・予防接種・健診)のご案内をします。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "母子手帳交付時に、出生通知票ハガキをお渡しします。",
+        "monetarySupport": null,
+        "materiallySupport": "母子手帳交付時に、出生通知票ハガキをお渡しします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "ハガキの郵送をお願いいたします。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "産後出来るだけ早く"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-youkoso1.pdf",
+        "title": "ようこそ！赤ちゃん"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健センター",
+        "contactPhone": "04992-8-0010",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133647;神津島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133647+1+UM791",
+        "organization": "9000020133647",
+        "compartment": "保健センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-03-18",
+      "odInformation": {
+        "updateDate": "2024-08-19",
+        "updater": "神津島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第18条（低体重児の届出）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "077"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "東京都風しん抗体検査事業"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "東京都風しん抗体検査事業\n生まれてくる赤ちゃんへの障害（先天性風しん症候群）の発生を防止するため、風しんの免疫をもっているかどうか調べる抗体検査を実施します。\n・抗体検査対象者\n① １９歳以上の妊娠を希望する女性で風しん抗体検査を希望する者。\n② 妊娠を希望する女性のパートナー\n③ 妊婦のパートナー\n④ 妊婦と同居している者\n※ただし、すでに風しんワクチンの接種を２回以上受けていることが確認できる者と、他の医療機関等で抗体検査を受け、結果が確認できる者を除く。\n・予防接種対象者\n抗体検査結果で低抗体者となった者\n・料金\n抗体検査 無料\n予防接種 1,000 円",
+      "target": {
+        "targetPersons": "・抗体検査対象者\n① １９歳以上の妊娠を希望する女性で風しん抗体検査を希望する者。\n② 妊娠を希望する女性のパートナー\n③ 妊婦のパートナー\n④ 妊婦と同居している者\n※ただし、すでに風しんワクチンの接種を２回以上受けていることが確認できる者と、他の医療機関等で抗体検査を受け、結果が確認できる者を除く。\n・予防接種対象者\n抗体検査結果で低抗体者となった者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 19,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "１９歳以上の妊娠を希望する女性"
+      },
+      "support": {
+        "description": "生まれてくる赤ちゃんへの障害（先天性風しん症候群）の発生を防止するため、風しんの免疫をもっているかどうか調べる抗体検査を実施します。",
+        "monetarySupport": null,
+        "materiallySupport": "生まれてくる赤ちゃんへの障害（先天性風しん症候群）の発生を防止するため、風しんの免疫をもっているかどうか調べる抗体検査を実施します。"
+      },
+      "cost": null,
+      "costConditions": "抗体検査 無料\n予防接種 1,000 円",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-jyunbi.pdf",
+        "title": "お母さんになる準備"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "診療所",
+        "contactPhone": "04992-8-1121",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133647;神津島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133647+2+UM54",
+        "organization": "9000020133647",
+        "compartment": "診療所",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-03-18",
+      "odInformation": {
+        "updateDate": "2024-08-19",
+        "updater": "神津島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

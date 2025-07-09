@@ -1,0 +1,254 @@
+{
+  "version": "2025-07-09T05:55:17.834Z",
+  "areaCode": "133035",
+  "areaName": "瑞穂町",
+  "category": "education",
+  "count": 2,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊娠・出産に関する教室・講習会",
+        "shortName": "助産師ミニ講話"
+      },
+      "summary": "瑞穂町で受けられる、妊娠中から出産後に役立つ教室・講習会を紹介します。妊娠初期の妊婦さん向けに、助産師ミニ講話を開催します。※マタニティクラスとは別の事業です。同じ日に両方参加することはできません。",
+      "description": "妊娠初期の妊婦さん向けに、助産師ミニ講話を開催します。\n※マタニティクラスとは別の事業です。\n同じ日に両方参加することはできません。\n\nテーマ\n妊娠初期に知っておいて欲しいこと",
+      "target": {
+        "targetPersons": "妊娠初期の方（妊娠15週までの方）\n※体調に無理のない範囲でご参加ください。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "妊娠15週まで"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "日程\n| 令和7年 6月28日（土曜日） |\n| --- |\n| 9月27日（土曜日） |\n| 12月20日（土曜日） |\n| 令和8年 3月28日（土曜日） |"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:45",
+        "toHM": "10:40",
+        "condiutilizationConditionstions": "受付時間\n午前9時45分から9時55分まで（終了時刻は午前10時40分）"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "※開催前日の午後5時までにご予約ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳、母子手帳の副読本（妊娠届出の際に配布しています）\nできる限りマスクの携帯をお願いします。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "ゆりかごステーション（瑞穂町保健センター内）\n042-557-5098",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.mizuho.tokyo.jp/event/e004/p006655.html",
+        "title": "助産師ミニ講話　予約制"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉部子ども家庭センター課 母子保健係",
+        "contactPhone": "042-557-5098",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.mizuho.tokyo.jp/inquiry/mailform130302.html?PAGE_NO=6655",
+        "contactComment": "受付時間 平日の午前8時30分から午後5時まで",
+        "zipCode": "1901211",
+        "contactAddress": "東京都西多摩郡瑞穂町大字石畑1970番地"
+      },
+      "area": {
+        "areaCode": "133035;瑞穂町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133035+1+UM33",
+        "organization": "1000020133035",
+        "compartment": "福祉部 子ども家庭センター課 母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-30",
+      "odInformation": {
+        "updateDate": "2024-09-13",
+        "updater": "瑞穂町",
+        "content": "所管部署名称を変更"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "放課後子供教室",
+        "shortName": "放課後子ども教室"
+      },
+      "summary": "地域住民の参画を得て、放課後等に全ての児童を対象として、学習や体験・交流といった多様な活動を行っています。",
+      "description": "「放課後子ども教室」とは、平日の放課後などに、学校施設などで地域の方々の協力を得て、町が町内の小学校区ごとに運営・管理する事業です。\nここでは、地域の方々の見守りのもとで、子どもたちの安全で安心な放課後の居場所づくりや、いろいろな体験活動を行います。",
+      "target": {
+        "targetPersons": "町内の小学校に通う全小学生",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "1・2年生を対象とした安心・安全な居場所づくり（フリースペース）、3年生以上を対象とした小学校内でのパソコン体験、全学年対象の体験教室を実施予定です。",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "無料",
+      "costConditions": "ただし、内容により材料費などを負担していただく場合があります。\n（費用負担がある場合は日程表に記載します）",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "小学校ごとに、時間割や行事予定を確認しながら、学期ごとの日程表を配布します。\nただし、中止や延期になることもあります。"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "参加するためには事前の登録が必要となります。\n新学年が始まる4月に小学校を通じて登録のための申込用紙を配布します。\nなお、一年生は6月頃に配布します。\n年度の途中で参加したい場合は、各小学校の放課後子ども教室のスタッフに問い合わせていただくか、生涯学習センターへご連絡ください。\n生涯学習センター 電話042-568-0050",
+      "procedurePersons": null,
+      "procedureMethod": "R6放課後子ども教室参加の手引き (PDF形式 437KB);https://www.town.mizuho.tokyo.jp/kyoikuiinkai/education/006/p001767_d/fil/sannkanotebiki.pdf",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.mizuho.tokyo.jp/kyoikuiinkai/education/006/p001767.html",
+        "title": "放課後子ども教室"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育部 社会教育課 社会教育係",
+        "contactPhone": "042-557-6695",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.mizuho.tokyo.jp/inquiry/mailform160301.html?PAGE_NO=1767",
+        "contactComment": "FAX：042-557-2693,受付時間 平日の午前8時30分から午後5時まで",
+        "zipCode": "1901221",
+        "contactAddress": "東京都西多摩郡瑞穂町大字箱根ケ崎2335番地"
+      },
+      "area": {
+        "areaCode": "133035;瑞穂町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133035+1+UM5028",
+        "organization": "1000020133035",
+        "compartment": "教育部 社会教育課 社会教育係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/07/05",
+      "odInformation": {
+        "updateDate": "2025-02-21",
+        "updater": "瑞穂町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

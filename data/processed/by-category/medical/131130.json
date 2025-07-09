@@ -1,0 +1,3607 @@
+{
+  "version": "2025-07-09T05:55:17.799Z",
+  "areaCode": "131130",
+  "areaName": "渋谷区",
+  "category": "medical",
+  "count": 26,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "児童館",
+        "shortName": "児童青少年センターフレンズ本町"
+      },
+      "summary": "児童館は、お子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n渋谷区の児童館には、お子さんが安心して遊べるスペースがあり、また各種イベントなども行っています。\n（イベントの詳細については、施設サイトや区報などでお知らせしています。）",
+      "description": "児童および青少年の遊びや運動・文化芸術活動のための児童館です。防音設備のあるスタジオは、音楽やダンスなどの活動に利用できます。また、各種講座やイベントを開催しています。\n\n【施設内容】\n　・3階　ローラースケート場\n　・1階　自習室兼図書室、工作室、相談室\n　・地下1階　小中高サロン、音楽スタジオ\n　・地下2階　ダンススタジオ、アリーナ\n\n【利用時間】\n・団体利用の場合\n　　ダンススタジオ、音楽スタジオ：10時～20時まで\n（注）小学生を含む団体で午後6時以降利用する場合は保護者及び成人の同伴が必要です。\n・個人利用の場合\n　　アリーナ、小中高サロン、工作室、自習室兼図書室、クライミングウォール、相談室\n　　　小学生以下：10時～18時まで\n　　　中学生以上：10時～20時まで\n　　ローラースケート場：10時～18時まで\n（注）11月から翌年2月までは10時～17時まで、利用対象者は小学校1年生以上の児童及び青少年。",
+      "target": {
+        "targetPersons": "原則、渋谷区在住または在学の18歳以下で高校生までの人及びその保護者\n（注）当日の状況により渋谷区在住またが在学でない人、また概ね25歳以下の人もご利用いただけます。 \n（注）保護者のみの使用はできません",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 0
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "0歳児～25歳"
+      },
+      "support": {
+        "description": "児童および青少年の遊びや運動・文化芸術活動のための児童館です。防音設備のあるスタジオは、音楽やダンスなどの活動に利用できます。また、各種講座やイベントを開催しています。",
+        "monetarySupport": null,
+        "materiallySupport": "【施設内容】\n　・3階　ローラースケート場\n　・1階　自習室兼図書室、工作室、相談室\n　・地下1階　小中高サロン、音楽スタジオ\n　・地下2階　ダンススタジオ、アリーナ"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "児童青少年センターフレンズ本町",
+        "implementationAddress": "渋谷区本町 6-6-2"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "20:00",
+        "condiutilizationConditionstions": "小学生のみの利用は18時まで"
+      },
+      "specificDate": null,
+      "holiday": "月曜日（祝・休日にあたる場合は直後の平日）、第3日曜日、年末年始（12月29日〜1月3日）",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "予約方法や内容などは、フレンズ本町サイト（外部サイト）をご覧になるか、フレンズ本町（電話：03-3377-5160）へお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://friends-shibuya.com/",
+          "title": "児童青少年センターフレンズ本町（外部サイト）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/kosodate/seinen/friends_honmachi.html",
+        "title": "児童青少年センターフレンズ本町"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども青少年課子ども青少年育成係",
+        "contactPhone": "03-3463-2578",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4942",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM108",
+        "organization": "9000020131130",
+        "compartment": "子ども青少年課子ども青少年育成係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-17",
+      "odInformation": {
+        "updateDate": "2024-06-20",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第2項、第7条の第4項、第40条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦訪問",
+        "shortName": "妊婦面接"
+      },
+      "summary": "妊産婦の方（妊娠中または出産後1年以内）を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、妊娠期間中や出産後の不安や悩みについての相談等を行います。",
+      "description": "妊婦面接\n妊婦面接に関する案内ページです。\n\n更新日\n\n2023年5月11日\n\n面接\n育児パッケージとは\n育児パッケージ贈呈対象\n面接申込方法・実施場所・実施時間\n渋谷区では、保健師が区内在住の全ての妊婦の皆さまとお会いして、出産・産後のお母さんや赤ちゃんのこと、ご家族の健康、子育てに関するご相談をお受けしています。不安や心配事の対応策を一緒に考え、必要な子育て情報やサービスをお伝えすることで、安心して出産を迎え、子育てができるようにサポートします。ご心配ごとのない場合でもこれからの出産や子育ての相談窓口として保健相談所を知っていただくために、ぜひ面接へお越しください。\n面接を受けた妊婦の皆さまには、育児に必要な衣類や体温計などを揃えた育児パッケージをお贈りします。\n（注）育児パッケージ贈呈には、条件があります。「育児パッケージ贈呈対象」の項をご確認ください。\n\n面接\n予約を入れたうえで、妊娠16～32週目にお住まいの住所地を担当する保健相談所で面接をお受けください。\n面接時間：目安30分程度\nなお、来所での面接が難しい場合は、オンラインによる相談も行なっています。\nご希望の場合は、オンラインによる妊婦面接;https://www.city.shibuya.tokyo.jp/kodomo/ninshin/ninshin-sodan/ninpu_online.htmlのページをご確認いただき、お住まいを担当する保健相談所に電話でお申し込みください。\n\n妊娠届出から育児パッケージ送付までの流れ\n１．妊娠届出;https://www.city.shibuya.tokyo.jp/kodomo/ninshin/ninshin-todoke/ninshin_todoke.html\n　医療機関で妊娠が診断されたら各保健相談所（中央保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_cyuo.html、恵比寿保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_ebisu.html、幡ヶ谷保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_hatagaya.html）、出張所;https://www.city.shibuya.tokyo.jp/shisetsu/kuyakusho/shutchojo/shutchojo_list.html・区民サービスセンター;https://www.city.shibuya.tokyo.jp/shisetsu/kuyakusho/shutchojo/kumin_sc.htmlまたは区役所３階住民戸籍課のいずれかで\n「母子健康手帳」と「母と子の保健バッグ」を受け取ります。\n\n２．面接の予約\n面接を希望する日の30日前からLINE（渋谷区LINE公式アカウント）または電話にて予約をしてください。\n（注）電話予約の場合、面接を希望する日の30日前が土曜日、日曜日、祝日の場合は翌営業日からとなります。\nお住いの住所地を担当する保健相談所に直接予約してください。\n\n３．面接\n妊娠16週から32週目に、お住いの住所地を担当する保健相談所にて面接を受けましょう。母子健康手帳を持参してください。\n\n４．育児パッケージ\n妊娠16週から32週目の面接時に育児パッケージの申請書を記入します。\n妊娠33週目時点で、渋谷区に住民登録がある妊婦に送付します。\n妊娠36週頃にお送りします。\n\n育児パッケージとは\n育児に必要な衣類（肌着・ベビー服等）、スタイ（よだれかけ）、体温計、ガーゼ、バスタオル、おもちゃ、爪切りなど出産後必要な育児用品を渋谷区からお祝いを込めてお贈りします。\n\n（注）画像はイメージですので、実物とは若干異なる場合がございます。\n\n育児パッケージ贈呈対象\n妊娠届を提出し、妊娠16～32週目に保健相談所にて面接を受けた妊婦で、妊娠33週目に渋谷区に住民登録がある場合です。\n\n面接申込方法・実施場所・実施時間\n面接申込方法\n面接を希望する日の30日前（電話予約の場合、30日前が土曜日・日曜日、祝日の場合は翌営業日）から、LINE（渋谷区LINE公式アカウントにて24時間受付）または電話にて予約を受け付けます。\n電話での予約の場合は、お住まいの住所地を担当する保健相談所に予約してください。\n\n電話予約受付時間\n月曜日～金曜日（祝日、年末年始除く）8時30分～17時\n\n実施場所\nお住まいを担当する保健相談所\n|保健相談所|電話|所在地|担当地区|\n|:----|:----|:----|:----|\n|中央保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_cyuo.html|03-3463-2439|宇田川町5-6<br>（渋谷区子育てネウボラ4階）|宇田川町、渋谷、代々木<br>神南、代々木神園町、西原<br>南平台町、道玄坂、猿楽町<br>桜丘町、代官山町、鉢山町<br>鶯谷町、松濤、大山町<br>千駄ヶ谷、富ヶ谷、神山町<br>初台、元代々木町、上原<br>円山町、神泉町、神宮前|\n|恵比寿保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_ebisu.html|03-3443-6251|恵比寿2-27-18|東、広尾、恵比寿<br>恵比寿西、恵比寿南|\n|幡ヶ谷保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_hatagaya.html|03-3374-7591|幡ヶ谷3-39-1|幡ヶ谷、本町、笹塚|\n\n実施時間\n面接実施時間：月曜日～金曜日（祝日、年末年始除く）9時～17時\n（面接時間：目安30分程度）",
+      "target": {
+        "targetPersons": "区内在住の全ての妊婦",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "渋谷区では、保健師が区内在住の全ての妊婦の皆さまとお会いして、出産・産後のお母さんや赤ちゃんのこと、ご家族の健康、子育てに関するご相談をお受けしています。不安や心配事の対応策を一緒に考え、必要な子育て情報やサービスをお伝えすることで、安心して出産を迎え、子育てができるようにサポートします。ご心配ごとのない場合でもこれからの出産や子育ての相談窓口として保健相談所を知っていただくために、ぜひ面接へお越しください。\n面接を受けた妊婦の皆さまには、育児に必要な衣類や体温計などを揃えた育児パッケージをお贈りします。\n（注）育児パッケージ贈呈には、条件があります。「育児パッケージ贈呈対象」の項をご確認ください。",
+        "monetarySupport": null,
+        "materiallySupport": "渋谷区では、保健師が区内在住の全ての妊婦の皆さまとお会いして、出産・産後のお母さんや赤ちゃんのこと、ご家族の健康、子育てに関するご相談をお受けしています。不安や心配事の対応策を一緒に考え、必要な子育て情報やサービスをお伝えすることで、安心して出産を迎え、子育てができるようにサポートします。ご心配ごとのない場合でもこれからの出産や子育ての相談窓口として保健相談所を知っていただくために、ぜひ面接へお越しください。\n面接を受けた妊婦の皆さまには、育児に必要な衣類や体温計などを揃えた育児パッケージをお贈りします。\n（注）育児パッケージ贈呈には、条件があります。「育児パッケージ贈呈対象」の項をご確認ください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "09:00",
+        "toYMD": null,
+        "toHM": "17:00",
+        "conditions": "面接実施時間：月曜日～金曜日（祝日、年末年始除く）9時～17時\n（面接時間：目安30分程度）"
+      },
+      "implementationPlace": {
+        "implementationName": "お住まいを担当する保健相談所\n|保健相談所|電話|所在地|担当地区|\n|:----|:----|:----|:----|\n|中央保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_cyuo.html|03-3463-2439|宇田川町5-6<br>（渋谷区子育てネウボラ4階）|宇田川町、渋谷、代々木<br>神南、代々木神園町、西原<br>南平台町、道玄坂、猿楽町<br>桜丘町、代官山町、鉢山町<br>鶯谷町、松濤、大山町<br>千駄ヶ谷、富ヶ谷、神山町<br>初台、元代々木町、上原<br>円山町、神泉町、神宮前|\n|恵比寿保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_ebisu.html|03-3443-6251|恵比寿2-27-18|東、広尾、恵比寿<br>恵比寿西、恵比寿南|\n|幡ヶ谷保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_hatagaya.html|03-3374-7591|幡ヶ谷3-39-1|幡ヶ谷、本町、笹塚|\n",
+        "implementationAddress": "お住まいを担当する保健相談所\n|保健相談所|電話|所在地|担当地区|\n|:----|:----|:----|:----|\n|中央保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_cyuo.html|03-3463-2439|宇田川町5-6<br>（渋谷区子育てネウボラ4階）|宇田川町、渋谷、代々木<br>神南、代々木神園町、西原<br>南平台町、道玄坂、猿楽町<br>桜丘町、代官山町、鉢山町<br>鶯谷町、松濤、大山町<br>千駄ヶ谷、富ヶ谷、神山町<br>初台、元代々木町、上原<br>円山町、神泉町、神宮前|\n|恵比寿保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_ebisu.html|03-3443-6251|恵比寿2-27-18|東、広尾、恵比寿<br>恵比寿西、恵比寿南|\n|幡ヶ谷保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_hatagaya.html|03-3374-7591|幡ヶ谷3-39-1|幡ヶ谷、本町、笹塚|\n"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "祝日、年末年始",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "面接申込方法\n面接を希望する日の30日前（電話予約の場合、30日前が土曜日・日曜日、祝日の場合は翌営業日）から、LINE（渋谷区LINE公式アカウントにて24時間受付）または電話にて予約を受け付けます。\n電話での予約の場合は、お住まいの住所地を担当する保健相談所に予約してください。\n\n電話予約受付時間\n月曜日～金曜日（祝日、年末年始除く）8時30分～17時\n\n実施場所\nお住まいを担当する保健相談所\n|保健相談所|電話|所在地|担当地区|\n|:----|:----|:----|:----|\n|中央保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_cyuo.html|03-3463-2439|宇田川町5-6<br>（渋谷区子育てネウボラ4階）|宇田川町、渋谷、代々木<br>神南、代々木神園町、西原<br>南平台町、道玄坂、猿楽町<br>桜丘町、代官山町、鉢山町<br>鶯谷町、松濤、大山町<br>千駄ヶ谷、富ヶ谷、神山町<br>初台、元代々木町、上原<br>円山町、神泉町、神宮前|\n|恵比寿保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_ebisu.html|03-3443-6251|恵比寿2-27-18|東、広尾、恵比寿<br>恵比寿西、恵比寿南|\n|幡ヶ谷保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_hatagaya.html|03-3374-7591|幡ヶ谷3-39-1|幡ヶ谷、本町、笹塚|\n\n実施時間\n面接実施時間：月曜日～金曜日（祝日、年末年始除く）9時～17時\n（面接時間：目安30分程度）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "面接を希望する日の30日前（電話予約の場合、30日前が土曜日・日曜日、祝日の場合は翌営業日）から、LINE（渋谷区LINE公式アカウントにて24時間受付）または電話にて予約を受け付けます。\n電話での予約の場合は、お住まいの住所地を担当する保健相談所に予約してください。\n\n電話予約受付時間\n月曜日～金曜日（祝日、年末年始除く）8時30分～17時"
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_ebisu.html",
+          "title": "恵比寿保健相談所"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_cyuo.html",
+          "title": "中央保健相談所"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kodomo/ninshin/ninshin-sodan/ninpu_online.html",
+          "title": "オンラインによる妊婦面接"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_hatagaya.html",
+          "title": "幡ヶ谷保健相談所"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/kuyakusho/shutchojo/kumin_sc.html",
+          "title": "区民サービスセンター"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/kuyakusho/shutchojo/shutchojo_list.html",
+          "title": "出張所"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kodomo/ninshin/ninshin-todoke/ninshin_todoke.html",
+          "title": "妊娠届出"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kodomo/ninshin/ninshin-sodan/ninpu.html",
+        "title": "妊婦面接"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kusei/koho/line/line_about.html",
+          "title": "渋谷区LINE公式アカウント"
+        }
+      ],
+      "contact": {
+        "contactName": "中央保健相談所,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係",
+        "contactPhone": "03-3463-2439,03-3443-6251,03-3374-7591",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4944,FAX03-3443-6253,FAX03-3374-5985",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM11",
+        "organization": "9000020131130",
+        "compartment": "中央保健相談所,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-05-11",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条（妊産婦の訪問指導等）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て支援拠点・地域子育て支援センター",
+        "shortName": "渋谷区子育てネウボラ"
+      },
+      "summary": "渋谷区では渋谷区子育てネウボラなどを子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+      "description": "渋谷区子育てネウボラ\n妊娠期から18歳になるまでの全ての子どもとそのご家族をサポートする子育て拠点施設です。\n\n更新日\n\n2023年3月17日\n\n施設案内\n渋谷区子育てネウボラは、「出会う、集う、語る、つながる。」「地域みんなで子どもを育てる。」をコンセプトとした子育て拠点施設として、令和3年8月2日にオープンしました。不安なく少しでも喜びの多い子育てができるよう、妊娠期から18歳になるまでの全ての子どもとそのご家族をサポートします。各施設・サービスの詳細は、「渋谷区子育てネウボラ」専用サイト（外部サイト）;https://shibuya-city-neuvola.tokyo/teaser/をご覧ください。\n\n住所\n\n〒150-0042 渋谷区宇田川町5-6　渋谷区子育てネウボラ2階3階\n電話\n\n0120-978-310\nFAX\n\n03-6455-3753\n時間\n\n9時～17時\nウェブサイト\n\n渋谷区子育てネウボラ（外部サイト）;https://shibuya-city-neuvola.tokyo/\n休業日：土曜日、祝・休日、年末年始（12月29日～1月3日）\n\nGoogle Mapで見る ;https://www.google.co.jp/maps/place/%E6%B8%8B%E8%B0%B7%E5%8C%BA+%E5%AD%90%E3%81%A9%E3%82%82%E7%99%BA%E9%81%94%E7%9B%B8%E8%AB%87%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/@35.6628827,139.6960974,17z/data=!3m1!5s0x60188ca92fb901bf:0xa386950f5fcffb3!4m10!1m2!2m1!1z5a2Q44Gp44KC55m66YGU55u46KuH44K744Oz44K_44O8IOOAkjE1MC0wMDQyIOa4i-iwt-WMuuWuh-eUsOW3neeUujUtNiDmuIvosLfljLrlrZDogrLjgabjg43jgqbjg5zjg6k!3m6!1s0x60188ca2e17dfe77:0x50b0bc8a3571cc06!8m2!3d35.6629005!4d139.6983749!15sCmXlrZDjganjgoLnmbrpgZTnm7joq4fjgrvjg7Pjgr_jg7wg44CSMTUwLTAwNDIg5riL6LC35Yy65a6H55Sw5bed55S6NS02IOa4i-iwt-WMuuWtkOiCsuOBpuODjeOCpuODnOODqZIBD2J1c2luZXNzX2NlbnRlcuABAA!16s%2Fg%2F11btmqtn5r?hl=ja\n交通：JR山手線・JR埼京線・東急田園都市線・東急東横線・京王井の頭線「渋谷駅」徒歩10分\n交通：東京メトロ銀座線・東京メトロ半蔵門線・東京メトロ副都心線「渋谷駅」徒歩11分\n交通：ハチ公バス「渋谷区役所」バス停下車徒歩3分\n交通：京王バス[宿51][渋63][渋64][渋69]「渋谷区役所前」バス停下車徒歩3分\n交通：都営バス[池86]「渋谷区役所前」バス停 下車 徒歩5分\n\n施設案内\nhttps://www.city.shibuya.tokyo.jp/shisetsu/kosodate/kosodate-shisetsu/neuvola.html",
+      "target": {
+        "targetPersons": "妊娠期から18歳になるまでの全ての子ども",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "18歳になるまでの全ての子ども"
+      },
+      "support": {
+        "description": "不安なく少しでも喜びの多い子育てができるよう、妊娠期から18歳になるまでの全ての子どもとそのご家族をサポートします。各施設・サービスの詳細は、「渋谷区子育てネウボラ」専用サイト（外部サイト）;https://shibuya-city-neuvola.tokyo/teaser/をご覧ください。",
+        "monetarySupport": null,
+        "materiallySupport": "不安なく少しでも喜びの多い子育てができるよう、妊娠期から18歳になるまでの全ての子どもとそのご家族をサポートします。各施設・サービスの詳細は、「渋谷区子育てネウボラ」専用サイト（外部サイト）;https://shibuya-city-neuvola.tokyo/teaser/をご覧ください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "渋谷区子育てネウボラ",
+        "implementationAddress": "渋谷区宇田川町5-6　渋谷区子育てネウボラ2階3階"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "土曜日、祝・休日、年末年始（12月29日～1月3日）",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/kosodate/kosodate-shisetsu/kodomo_sodan_center.html",
+          "title": "子ども発達相談センター"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/kyoiku-shisetsu/kyoiku-shien/sodan_center.html",
+          "title": "教育センター"
+        },
+        {
+          "uri": "https://shibuya-city-neuvola.tokyo/",
+          "title": "「渋谷区子育てネウボラ」専用サイト（外部サイト）"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/kosodate/kosodate-shisetsu/ch_fm_shien.html",
+          "title": "子ども家庭支援センター "
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/kosodate/kosodate-shisetsu/neuvola.html",
+        "title": "渋谷区子育てネウボラ"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭支援センター子ども家庭相談係,子ども発達相談センター子ども発達相談係,中央保健相談所,教育センター教育相談係",
+        "contactPhone": "03-3463-3748,03-3463-3786,03-3463-2439,03-3463-3491",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4944",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM110",
+        "organization": "9000020131130",
+        "compartment": "子ども家庭支援センター子ども家庭相談係,子ども発達相談センター子ども発達相談係,中央保健相談所,教育センター教育相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-17",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法、児童福祉法",
+        "regulationArticle": "第6条の3第6項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小児科救急",
+        "shortName": "しぶやこども救急室"
+      },
+      "summary": "渋谷区では、区内の小児科医がローテーションを組んで、休日や夜間に、赤ちゃんやお子さんが救急の際の診療を行っています。",
+      "description": "しぶやこども救急室\n診療科目：小児科\n受付時間：19時～22時（平日、土曜日、日曜日、祝日、年末年始）\n診療機関：日本赤十字社医療センター（外部サイト）;http://www.med.jrc.or.jp/（電話：03-3400-1311）\n\n（注）日本赤十字社医療センターでは、救急の場合、上記の時間以外でも診療を受け付けます。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "診療科目：小児科\n（注）日本赤十字社医療センターでは、救急の場合、上記の時間以外でも診療を受け付けます。",
+        "monetarySupport": null,
+        "materiallySupport": "診療科目：小児科\n（注）日本赤十字社医療センターでは、救急の場合、上記の時間以外でも診療を受け付けます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "日本赤十字社医療センター",
+        "implementationAddress": "渋谷区広尾4-1-22"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "19:00",
+        "toHM": "22:00",
+        "condiutilizationConditionstions": "日本赤十字社医療センターでは、救急の場合、上記の時間以外でも診療を受け付けます。"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.med.jrc.or.jp/",
+          "title": "日本赤十字社医療センター（外部サイト）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/kenko/yakan_shinryo.html",
+        "title": "休日夜間・救急診療"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "生活衛生課事業係",
+        "contactPhone": "03-3463-2246",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4943",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM114",
+        "organization": "9000020131130",
+        "compartment": "生活衛生課事業係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-17",
+      "odInformation": {
+        "updateDate": "2024-06-27",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "渋谷区小児初期夜間救急診療実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "新生児訪問",
+        "shortName": "新生児訪問"
+      },
+      "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+      "description": "新生児訪問・こんにちは赤ちゃん訪問\n新生児訪問・こんにちは赤ちゃん訪問に関する案内ページです。\n\n更新日\n\n2023年4月3日\n\n新生児訪問\nこんにちは赤ちゃん訪問\n乳幼児や妊産婦のいる家庭に、必要に応じて保健師などが訪問し、相談指導を行います。\n\n新生児訪問\n生後28日までの新生児には、必要に応じて保健師または助産師が訪問します。\n授乳や体重の増加など、気になることがある場合は連絡してください。",
+      "target": {
+        "targetPersons": "生後28日までの新生児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後28日までの新生児"
+      },
+      "support": {
+        "description": "生後28日までの新生児には、必要に応じて保健師または助産師が訪問します。\n授乳や体重の増加など、気になることがある場合は連絡してください。",
+        "monetarySupport": null,
+        "materiallySupport": "生後28日までの新生児には、必要に応じて保健師または助産師が訪問します。\n授乳や体重の増加など、気になることがある場合は連絡してください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kodomo/kodomo-sodan/shinseiji-sodan/homon_baby.html",
+        "title": "新生児訪問・こんにちは赤ちゃん訪問"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "中央保健相談所母子保健係",
+        "contactPhone": "03-3463-2409",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4944",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM13",
+        "organization": "9000020131130",
+        "compartment": "中央保健相談所母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-03",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第11条（新生児の訪問指導）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+        "shortName": "こんにちは赤ちゃん訪問"
+      },
+      "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+      "description": "新生児訪問・こんにちは赤ちゃん訪問\n新生児訪問・こんにちは赤ちゃん訪問に関する案内ページです。\n\n新生児訪問;https://www.city.shibuya.tokyo.jp/kodomo/kodomo-sodan/shinseiji-sodan/homon_baby.html#h2-h4efbfd8f28\nこんにちは赤ちゃん訪問;https://www.city.shibuya.tokyo.jp/kodomo/kodomo-sodan/shinseiji-sodan/homon_baby.html#h2-hafe6422f18\n乳幼児や妊産婦のいる家庭に、必要に応じて保健師などが訪問し、相談指導を行います。\n\n新生児訪問\n生後28日までの新生児には、必要に応じて保健師または助産師が訪問します。\n授乳や体重の増加など、気になることがある場合は連絡してください。\n\nこんにちは赤ちゃん訪問\n保健師、助産師または看護師が訪問し、健康状態の確認、育児・産後の相談、地域の子育て情報の提供を行います。\nPDFファイルを見るには、Adobe社から無償配布されている Adobe Reader などのソフトウェアが必要です。 詳しくは、PDFファイルをご覧になるには;https://www.city.shibuya.tokyo.jp/guide/website/list/pdf.htmlのページを参照してください。",
+      "target": {
+        "targetPersons": "生後4か月までの乳児のいる家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "家庭",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "生後2か月に入りましたら、訪問の手紙を送付します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "生後2か月に入りましたら、訪問の手紙を送付します。"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/622b16c34fbf4a17a0b8a289383f259b/homon_baby_1.pdf",
+          "title": "こんにちは赤ちゃん訪問事業"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/debef32a2d1a4eceaab0d00b3420974d/homon_baby_2.pdf",
+          "title": "Hello Babies Visit Project"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kodomo/kodomo-sodan/shinseiji-sodan/homon_baby.html",
+        "title": "新生児訪問・こんにちは赤ちゃん訪問"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "中央保健相談所母子保健係",
+        "contactPhone": "電話\n\n03-3463-2409",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM14",
+        "organization": "9000020131130",
+        "compartment": "中央保健相談所母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023/04/03",
+      "odInformation": {
+        "updateDate": "2025/02/26",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第21条の10の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産後ケア事業",
+        "shortName": "産後ケア（宿泊型）"
+      },
+      "summary": "出産を終えた退院後、お母さんと赤ちゃんの生活リズムづくりや、心身の安定を図るため、施設においてショートステイ（宿泊）やデイサービス（日帰り）で、助産師などが母子の心身ケアと育児サポートを行います。",
+      "description": "産後ケア事業\n産後ケアに関する案内ページです。\n\n更新日\n\n2024年4月10日\n\n対象者\n事業の概要\n産後ケア（宿泊型）施設一覧\n申請期間\n申請方法\nお知らせ\n2024年4月1日\n\n4月1日利用分から利用料が変更になりました。詳しくは「事業の概要」をご覧ください。\n\n渋谷区では、育児に慣れていない初産などの人が、家族などから育児や家事の支援を受けられない場合に、母子のケアや授乳相談、育児相談が受けられる産後ケア事業を行なっています。\n産後ケア事業には、渋谷区が契約する施設に宿泊して行う産後ケア（宿泊型）と、ご自宅に助産師が訪問して行う産後ケア（訪問型）があります。\n\n産後ケア（宿泊型）のご案内（PDF 646KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/298090f818ae4fb3926a967b05d0e1a8/sango_care_8.pdf\n産後ケア（訪問型）のご案内（PDF 415KB);https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/be37191694bc46d0a6e2434cd04b014b/sango_care_5.pdf\n対象者\n区内在住の、産後5か月未満（産後ケア（訪問型）については産後1年未満）の産婦とその子で、体調不良や育児不安があり、ご家族などから十分な支援が受けられない場合\n（注）早産や出産後、30日以上入院していた場合は、期間を延長できる場合がありますので、相談してください。\n\n事業の概要\n（注）生活保護世帯などは利用者負担額免除\n\n産後ケア（宿泊型）\n内容\n施設などに宿泊しての母体管理・乳房ケア・沐浴指導・育児相談など\n\n利用期間\n産後5か月未満まで\n\n利用の上限\n5日間（宿泊を伴う場合に限ります）\n1泊2日と2泊3日に分けての利用も可能です。\n\n利用料\n【令和6年3月31日まで】\n1泊2日　12,000円\n（注）以降1日増につき6,000円加算。減免制度があります。\n\n【令和6年4月1日から】\n1泊2日　7,000円\n（注）以降1日増につき3,500円加算。減免制度があります。\n（注）既に産後ケア事業に申請済で、利用承認通知書・利用カードに記載されている料金が3月31日までの金額の人も、4月1日からはこちらの料金でご利用いただけます。その場合、再申請は不要です。\n\n実施施設\n区と契約している施設\n産後ケア（宿泊型）施設一覧\n（注）産後ケア（訪問型）は居宅への訪問となります。\n\n日本赤十字社医療センター（外部サイト）;https://www.med.jrc.or.jp/\n所在地\n渋谷区広尾4-1-22\n\n電話\n03-3400-1311（代表）\n\nJR東京総合病院（外部サイト）;https://www.jreast.co.jp/hospital/consultation/details/obstetrics_gynecology.html/\n所在地\n渋谷区代々木2-1-3\n\n電話\n03-3320-2210（代表）\n\n東京都済生会中央病院（外部サイト）;https://www.saichu.jp/department/obstetrics-and-gynecology/obstetrics/overview/\n所在地\n港区三田1-4-17\n\n電話\n03-3451-8211（代表）\n\n綾瀬産後ケア（外部サイト）;https://ayase-sanfujinka.jp/sangocare/\n所在地\n葛飾区小菅4-8-10\n\n電話\n03-3838-6588\n\n松が丘助産院（外部サイト）;https://matsugaoka-birth.com/\n所在地\n中野区松が丘1-10-13\n\n電話\n03-5343-6071\n\nスワンレディースクリニック（外部サイト）;https://www.swan-lc.com/\n所在地\n北区王子4-27-7\n\n電話\n03-5944-6028\n\n申請期間\n妊娠28週から利用希望日の14日前まで受け付けます。\n\n申請方法\n事前にLINEでの申請、郵送または窓口で申請してください。\n申請内容を審査した後、承認された方に「利用承認通知書」などを郵送でお送りします。\n「利用承認通知書」が到着後、案内に記載されている方法で、各施設や助産師に利用の予約をしてください。\n\nLINEによる申請の場合\nQRコード\n\n産後ケア事業LINE申請QRコード\n\nスマートフォンのコミュニケーションアプリ「LINE」をインストールし、「渋谷区LINE公式アカウントとの友だち登録」が必要です。友だち登録の方法について詳しくは、渋谷区のLINE（ライン）について;https://www.city.shibuya.tokyo.jp/kusei/koho/line/line_about.htmlのページをご覧ください。\n申請は申請メニューをタップし、子ども・子育て関連手続きから産後ケア利用申請を選択してください。\n\n郵送・窓口で申請する場合\n以下の書式の利用申請書を提出してください。\n産後ケア事業利用申請書（PDF 126KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d4af3e6ebb9143558a511115c2151cb9/assets_kodomo_000063027.pdf\n\n（注）1度の申請で、産後ケア（宿泊型）、産後ケア（訪問型）いずれもご利用可能となります。\n（注）申請書に記入する際、利用者（子）情報や利用期間など未定の場合は空欄のままで構いません。\n\n郵送先・窓口\n〒150-0042 宇田川町5番6号 渋谷区子育てネウボラ4階　中央保健相談所母子保健係",
+      "target": {
+        "targetPersons": "区内在住の、産後5か月未満（産後ケア（訪問型）については産後1年未満）の産婦とその子で、体調不良や育児不安があり、ご家族などから十分な支援が受けられない場合\n（注）早産や出産後、30日以上入院していた場合は、期間を延長できる場合がありますので、相談してください。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "施設などに宿泊しての母体管理・乳房ケア・沐浴指導・育児相談など",
+        "monetarySupport": null,
+        "materiallySupport": "施設などに宿泊しての母体管理・乳房ケア・沐浴指導・育児相談など"
+      },
+      "cost": "7000",
+      "costConditions": "【令和6年3月31日まで】\n1泊2日　12,000円\n（注）以降1日増につき6,000円加算。減免制度があります。\n\n【令和6年4月1日から】\n1泊2日　7,000円\n（注）以降1日増につき3,500円加算。減免制度があります。\n（注）既に産後ケア事業に申請済で、利用承認通知書・利用カードに記載されている料金が3月31日までの金額の人も、4月1日からはこちらの料金でご利用いただけます。その場合、再申請は不要です。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "日本赤十字社医療センター,JR東京総合病院,東京都済生会中央病院,綾瀬産後ケア,松が丘助産院,スワンレディースクリニック",
+        "implementationAddress": "渋谷区広尾4-1-22,渋谷区代々木2-1-3,港区三田1-4-17,葛飾区小菅4-8-10,中野区松が丘1-10-13,北区王子4-27-7"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "産後5か月未満まで\n\n利用の上限\n5日間（宿泊を伴う場合に限ります）\n1泊2日と2泊3日に分けての利用も可能です。"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "妊娠28週から利用希望日の14日前まで受け付けます。\n\n申請方法\n事前にLINEでの申請、郵送または窓口で申請してください。\n申請内容を審査した後、承認された方に「利用承認通知書」などを郵送でお送りします。\n「利用承認通知書」が到着後、案内に記載されている方法で、各施設や助産師に利用の予約をしてください。\n\nLINEによる申請の場合\nQRコード\n\n産後ケア事業LINE申請QRコード\n\nスマートフォンのコミュニケーションアプリ「LINE」をインストールし、「渋谷区LINE公式アカウントとの友だち登録」が必要です。友だち登録の方法について詳しくは、渋谷区のLINE（ライン）について;https://www.city.shibuya.tokyo.jp/kusei/koho/line/line_about.htmlのページをご覧ください。\n申請は申請メニューをタップし、子ども・子育て関連手続きから産後ケア利用申請を選択してください。\n\n郵送・窓口で申請する場合\n以下の書式の利用申請書を提出してください。\n産後ケア事業利用申請書（PDF 126KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d4af3e6ebb9143558a511115c2151cb9/assets_kodomo_000063027.pdf\n\n（注）1度の申請で、産後ケア（宿泊型）、産後ケア（訪問型）いずれもご利用可能となります。\n（注）申請書に記入する際、利用者（子）情報や利用期間など未定の場合は空欄のままで構いません。\n\n郵送先・窓口\n〒150-0042 宇田川町5番6号 渋谷区子育てネウボラ4階　中央保健相談所母子保健係",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "妊娠28週から利用希望日の14日前まで受け付けます。"
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "〒150-0042 宇田川町5番6号 渋谷区子育てネウボラ4階　中央保健相談所母子保健係",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kusei/koho/line/line_about.html",
+          "title": "渋谷区のLINE（ライン）について"
+        },
+        {
+          "uri": "https://www.jreast.co.jp/hospital/consultation/details/obstetrics_gynecology.html/",
+          "title": "JR東京総合病院（外部サイト）"
+        },
+        {
+          "uri": "https://www.saichu.jp/department/obstetrics-and-gynecology/obstetrics/overview/",
+          "title": "東京都済生会中央病院（外部サイト）"
+        },
+        {
+          "uri": "https://matsugaoka-birth.com/",
+          "title": "松が丘助産院（外部サイト）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/be37191694bc46d0a6e2434cd04b014b/sango_care_5.pdf",
+          "title": "産後ケア（訪問型）のご案内（PDF 415KB)"
+        },
+        {
+          "uri": "https://www.med.jrc.or.jp/",
+          "title": "日本赤十字社医療センター（外部サイト）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/298090f818ae4fb3926a967b05d0e1a8/sango_care_8.pdf",
+          "title": "産後ケア（宿泊型）のご案内（PDF 646KB）"
+        },
+        {
+          "uri": "https://ayase-sanfujinka.jp/sangocare/",
+          "title": "綾瀬産後ケア（外部サイト）"
+        },
+        {
+          "uri": "https://www.swan-lc.com/",
+          "title": "スワンレディースクリニック（外部サイト）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kodomo/ninshin/ninshin-sodan/sango_care.html",
+        "title": "産後ケア事業"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kodomo/ninshin/ninshin-sodan/sango_care.html",
+          "title": "QRコード"
+        }
+      ],
+      "contact": {
+        "contactName": "中央保健相談所母子保健係",
+        "contactPhone": "03-3463-2409",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4944",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM15",
+        "organization": "9000020131130",
+        "compartment": "中央保健相談所母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-10",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条の2（産後ケア事業）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "母子父子寡婦福祉資金",
+        "shortName": "母子および父子福祉資金"
+      },
+      "summary": "母子家庭の母、父子家庭の父、および寡婦の方の経済的自立や、扶養しているお子さんの福祉増進のために、必要な資金をお貸しする制度です。",
+      "description": "貸付・支援\n更新日\n\n2023年3月17日\n\n母子および父子福祉資金\n家事援助者の派遣\nひとり親家庭等福祉事業\n母子および父子福祉資金\n都内に6か月以上居住し、20歳未満の子どもを扶養している母子家庭および父子家庭への貸付金です。償還期間は3～20年以内で、原則、連帯保証人が必要です。\n（注）修学・就学支度資金は、申請時点で都内に居住の人が対象です。\n\n母子および父子福祉資金\n|資金名|貸付限度額|\n|:----|:----|\n|事業開始|3,140,000円|\n|事業継続|1,570,000円|\n|就職支度|100,000円（特別の場合330,000円）|\n|技能習得|月額68,000円（特別の場合460,000円）|\n|住宅|1,500,000円（特別の場合2,000,000円）|\n|転宅|260,000円|\n|医療介護|医療 340,000円（特別の場合480,000円） 介護 500,000円<br>（ただし、医療、介護を受ける期間が1年以内と見込まれる場合）|\n|生活|医療介護期間中及び失業期間中（離職した日の翌日から1年以内）月額105,000円（生計の中心者でない場合は月額70,000円）、技能習得期間中は141,000円、 養育費取得のための裁判費用については、別途裁判費用貸付けあり|\n|結婚（児童）|300,000円|\n|修学|高校・高専・短大・大学・大学院・専修学校 月額27,000円～183,000円<br>（国公立・私立、学年等によって限度額が異なります）|\n|修業（児童）|月額68,000円 （特別の場合は460,000円）|\n|就学支度|小学校・中学校・高校・高専・短大・大学・専修学校・修業施設 64,300円～590,000円<br>（国公立・私立によって限度額が異なります。）|\n",
+      "target": {
+        "targetPersons": "都内に6か月以上居住し、20歳未満の子どもを扶養している母子家庭および父子家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "20歳未満の子ども"
+      },
+      "support": {
+        "description": "|資金名|貸付限度額|\n|:----|:----|\n|事業開始|3,140,000円|\n|事業継続|1,570,000円|\n|就職支度|100,000円（特別の場合330,000円）|\n|技能習得|月額68,000円（特別の場合460,000円）|\n|住宅|1,500,000円（特別の場合2,000,000円）|\n|転宅|260,000円|\n|医療介護|医療 340,000円（特別の場合480,000円） 介護 500,000円<br>（ただし、医療、介護を受ける期間が1年以内と見込まれる場合）|\n|生活|医療介護期間中及び失業期間中（離職した日の翌日から1年以内）月額105,000円（生計の中心者でない場合は月額70,000円）、技能習得期間中は141,000円、 養育費取得のための裁判費用については、別途裁判費用貸付けあり|\n|結婚（児童）|300,000円|\n|修学|高校・高専・短大・大学・大学院・専修学校 月額27,000円～183,000円<br>（国公立・私立、学年等によって限度額が異なります）|\n|修業（児童）|月額68,000円 （特別の場合は460,000円）|\n|就学支度|小学校・中学校・高校・高専・短大・大学・専修学校・修業施設 64,300円～590,000円<br>（国公立・私立によって限度額が異なります。）|\n",
+        "monetarySupport": "|資金名|貸付限度額|\n|:----|:----|\n|事業開始|3,140,000円|\n|事業継続|1,570,000円|\n|就職支度|100,000円（特別の場合330,000円）|\n|技能習得|月額68,000円（特別の場合460,000円）|\n|住宅|1,500,000円（特別の場合2,000,000円）|\n|転宅|260,000円|\n|医療介護|医療 340,000円（特別の場合480,000円） 介護 500,000円<br>（ただし、医療、介護を受ける期間が1年以内と見込まれる場合）|\n|生活|医療介護期間中及び失業期間中（離職した日の翌日から1年以内）月額105,000円（生計の中心者でない場合は月額70,000円）、技能習得期間中は141,000円、 養育費取得のための裁判費用については、別途裁判費用貸付けあり|\n|結婚（児童）|300,000円|\n|修学|高校・高専・短大・大学・大学院・専修学校 月額27,000円～183,000円<br>（国公立・私立、学年等によって限度額が異なります）|\n|修業（児童）|月額68,000円 （特別の場合は460,000円）|\n|就学支度|小学校・中学校・高校・高専・短大・大学・専修学校・修業施設 64,300円～590,000円<br>（国公立・私立によって限度額が異なります。）|\n",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kodomo/kodomo-teate-josei/hitorioya/hitorioya_shien.html",
+        "title": "貸付・支援"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "生活福祉課子ども女性相談主査",
+        "contactPhone": "03-3463-2544",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM28",
+        "organization": "9000020131130",
+        "compartment": "生活福祉課子ども女性相談主査",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-17",
+      "odInformation": {
+        "updateDate": "2024-06-18",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子及び父子並びに寡婦福祉法",
+        "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊娠・出産に関する教室・講習会",
+        "shortName": "多胎プレファミリー講座事業"
+      },
+      "summary": "多胎児を妊娠している人やパートナー、家族を対象に、妊娠・出産・育児に関する基礎知識講座、多胎育児を経験者した先輩パパママの経験談を聞く機会を設けています。",
+      "description": "多胎プレファミリー講座事業\n多胎プレファミリー講座に関する案内ページです。\n\n更新日\n\n2024年5月8日\n\n対象\n定員\n内容\n開催方法\n開催日時・申込期間\n 申込方法\n注意事項　\n多胎児を妊娠している人やパートナー、家族を対象に、妊娠・出産・育児に関する基礎知識講座、多胎育児を経験者した先輩パパママの経験談を聞く機会を設けています。\n妊娠・育児の不安や疑問を相談したり、他の多胎児家庭とつながる機会となります。ぜひご参加ください。\n令和6年度多胎プレファミリー講座のご案内（PDF 395KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/fd7d86973aab4167bccf9f02979c966a/tatai_prefamily(PDF%20404.45KB).pdf　\nPDFファイルを見るには、Adobe社から無償配布されている Adobe Reader などのソフトウェアが必要です。 詳しくは、PDFファイルをご覧になるにはのページを参照してください。\n参加には事前申し込みが必要です。\n一般社団法人　関東多胎ネットに委託して運営しています。\n\n対象\n区内在住の多胎児を妊娠中の妊婦とそのご家族\nひとりでの参加・パートナー・家族の参加も可\n定員\n10組（先着順）\n\n内容\n多胎妊娠・出産・育児の基礎知識講座\n先輩パパママの体験談・社会資源の紹介\nグループでの質疑応答など\n開催方法\nオンライン開催です。ご自宅からお気軽にご参加ください。（Zoomでの開催）\n申し込み後に メールにて参加URLを送付します。\n\n開催日時・申込期間\n令和6年度多胎プレファミリー講座日程\nhttps://www.city.shibuya.tokyo.jp/kodomo/ninshin/ninshin-sodan/tatai_prefamily.html\n \n 申込方法\nフォーム（外部サイト）;https://docs.google.com/forms/d/e/1FAIpQLSf0hCR1lcafW6XCUtEg9WNSip7AAWomeWZG2L-qCRaFt99MBQ/viewformからお申し込みください。\n開催日の5日前から当日のお問い合わせ　\n一般社団法人　関東多胎ネット　kanto.tatai.net.commission@gmail.com\n\n注意事項　\nオンラインツールZoomを利用して行います。注意事項を必ずお読みの上、ご参加ください。\n\nプレファミリー講座への参加はパソコンを推奨していますが、スマートフォン、タブレットからでも参加できます。\nZoomアプリをインストールしてください。最新のアプリでご利用ください。インストールはZoomのホームページ（外部サイト）;https://explore.zoom.us/ja/products/meetings/をご覧ください。\n\n秘密厳守ですので、安心してご参加ください。\n参加人数によってはZoomのブレイクアウト機能を使ってグループ分けを行います。\nプレファミリー講座はZoomのビデオオン（顔出し）で参加してください。\nZoomの名前は申込時の名前（ニックネームでも可）で設定してください。\nZoomのアクセスURLは3日前までにメールでご案内します。",
+      "target": {
+        "targetPersons": "区内在住の多胎児を妊娠中の妊婦とそのご家族\nひとりでの参加・パートナー・家族の参加も可",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "多胎妊娠・出産・育児の基礎知識講座\n先輩パパママの体験談・社会資源の紹介\nグループでの質疑応答など",
+        "monetarySupport": null,
+        "materiallySupport": "多胎妊娠・出産・育児の基礎知識講座\n先輩パパママの体験談・社会資源の紹介\nグループでの質疑応答など"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "https://www.city.shibuya.tokyo.jp/kodomo/ninshin/ninshin-sodan/tatai_prefamily.html"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": "10組（先着順）",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "令和6年度多胎プレファミリー講座日程\nhttps://www.city.shibuya.tokyo.jp/kodomo/ninshin/ninshin-sodan/tatai_prefamily.html"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "フォーム（外部サイト）;https://docs.google.com/forms/d/e/1FAIpQLSf0hCR1lcafW6XCUtEg9WNSip7AAWomeWZG2L-qCRaFt99MBQ/viewformからお申し込みください。\n開催日の5日前から当日のお問い合わせ　\n一般社団法人　関東多胎ネット　kanto.tatai.net.commission@gmail.com\n注意事項　\nオンラインツールZoomを利用して行います。注意事項を必ずお読みの上、ご参加ください。\n\nプレファミリー講座への参加はパソコンを推奨していますが、スマートフォン、タブレットからでも参加できます。\nZoomアプリをインストールしてください。最新のアプリでご利用ください。インストールはZoomのホームページ（外部サイト）;https://explore.zoom.us/ja/products/meetings/をご覧ください。\n\n秘密厳守ですので、安心してご参加ください。\n参加人数によってはZoomのブレイクアウト機能を使ってグループ分けを行います。\nプレファミリー講座はZoomのビデオオン（顔出し）で参加してください。\nZoomの名前は申込時の名前（ニックネームでも可）で設定してください。\nZoomのアクセスURLは3日前までにメールでご案内します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://explore.zoom.us/ja/products/meetings/",
+          "title": "Zoomのホームページ（外部サイト）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/fd7d86973aab4167bccf9f02979c966a/tatai_prefamily(PDF%20404.45KB).pdf",
+          "title": "令和6年度多胎プレファミリー講座のご案内（PDF 395KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kodomo/ninshin/ninshin-sodan/tatai_prefamily.html",
+        "title": "多胎プレファミリー講座事業"
+      },
+      "formLink": [
+        {
+          "uri": "https://docs.google.com/forms/d/e/1FAIpQLSf0hCR1lcafW6XCUtEg9WNSip7AAWomeWZG2L-qCRaFt99MBQ/viewform?pli=1",
+          "title": "フォーム（外部サイト）"
+        }
+      ],
+      "contact": {
+        "contactName": "中央保健相談所保健サービス係,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係",
+        "contactPhone": "03-3463-2439,03-3443-6251,03-3374-7591",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4944,FAX03-3443-6253,FAX03-3374-5985",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM33",
+        "organization": "9000020131130",
+        "compartment": "中央保健相談所保健サービス係,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-08",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "休日夜間・救急診療"
+      },
+      "summary": "渋谷区では、日曜・祝日、年末年始に、区民健康センター桜丘で急病患者（内科・小児科）に対する診療を行っています。\nなお、小児の夜間救急の時は、しぶやこども救急室をご利用ください。\n「小児科救急」",
+      "description": "休日夜間・救急診療\n休日夜間・救急診療についての案内ページです。\n\n更新日\n\n2024年5月17日\n\n休日・夜間の診療\n休日・夜間診療対応調剤薬局\n病院案内（通年・24時間）\n救急車を呼ぶか迷ったときは（通年・24時間）\n24時間医療機関案内\n休日・夜間の診療\n医科診療\n区民健康センター桜丘（外部サイト）;http://www.shibu-cul.jp/other#link_other06（文化総合センター大和田1階、電話：03-3464-3478）で診療に応じています。診療科目は小児科と内科です。\n\n休日診療\n診療科目：小児科・内科\n診療時間：日曜日・祝日・年末年始 ：9時～13時（受付12時45分まで）、14時～18時（受付17時45分まで）\n\n夜間診療\n診療科目：内科\n診療時間：土曜日・日曜日・祝日・年末年始：18時～21時（受付20時45分まで）\n\n注意事項\n受診の際は、付き添いの人も含め必ずマスクの着用をお願いします。\n詳しくは、渋谷区医師会のホームページをご確認ください。\n関連サイト：休日夜間診療（渋谷区医師会ホームページ（外部サイト））;https://sby.tokyo.med.or.jp/%E5%8C%BB%E5%B8%AB%E4%BC%9A%E4%BA%8B%E6%A5%AD/%E4%BC%91%E6%97%A5%E5%A4%9C%E9%96%93%E8%A8%BA%E7%99%82/\n\nしぶやこども救急室\n診療科目：小児科\n受付時間：19時～22時（平日、土曜日、日曜日、祝日、年末年始）\n診療機関：日本赤十字社医療センター（外部サイト）;http://www.med.jrc.or.jp/（電話：03-3400-1311）\n\n（注）日本赤十字社医療センターでは、救急の場合、上記の時間以外でも診療を受け付けます。\n\n歯科診療\n日曜日、祝日、年末年始に、口腔保健支援センタープラザ歯科診療所（ひがし健康プラザ;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/koreisha-shisetsu/higashi_plaza.html2階）と区内1か所の休日歯科医療機関（当番制）で診療に応じています。\n休日歯科診療機関については、休日歯科応急診療所一覧（外部サイト）;http://www.sibusi.or.jp/dayoff.html（渋谷区歯科医師会のページ）をご覧ください。\n【診療時間】\n\n口腔保健支援センタープラザ歯科診療所（ひがし健康プラザ;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/koreisha-shisetsu/higashi_plaza.html2階、電話：03-5466-2770）：9時～17時\n休日歯科診療機関（区内1か所の医療機関）：9時～13時（注）日曜日や祝日が連日となる場合は9時～17時\n休日・夜間診療対応調剤薬局\nさくらが丘薬局（文化総合センター大和田1階、電話：03-6416-0458）で休日・夜間診療（区民健康センター桜丘）を利用する人に薬剤を提供します。\n\n病院案内（通年・24時間）\n渋谷消防署　電話：03-3464-0119\n\n救急車を呼ぶか迷ったときは（通年・24時間）\n東京消防庁救急相談センター（外部サイト）;https://www.tfd.metro.tokyo.lg.jp/lfe/kyuu-adv/soudan-center.htm　 電話：#7119　または　03-3212-2323\n\n24時間医療機関案内\n詳しくは東京都保健医療局ホームページ「24時間医療機関案内」（外部サイト）;https://www.hokeniryo.metro.tokyo.lg.jp/iryo/sodan/komatta/kyuubyou/24h_annai.htmlをご覧ください。\n\n医療機関案内サービス「ひまわり」\n電話による問い合わせ\n03-5272-0303\n\n自動応答による医療機関案内：通年24時間\n相談員による保健医療相談：月曜から金曜まで 9時～20時（祝日、年末年始を除く）\n\n聴覚障がい者専用FAX\n03-5285-8080\n\n医療機関・薬局公的検索システム\n医療機関と薬局を検索することができます。詳しくは厚生労働省ホームページ「医療情報ネット（ナビイ）」（外部サイト）;https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initializeをご覧ください。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "区民健康センター桜丘",
+        "implementationAddress": "渋谷区桜丘町23-21"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "18:00",
+        "condiutilizationConditionstions": "13:00～14:00を除く"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/koreisha-shisetsu/higashi_plaza.html",
+          "title": "ひがし健康プラザ"
+        },
+        {
+          "uri": "https://www.tfd.metro.tokyo.lg.jp/lfe/kyuu-adv/soudan-center.htm",
+          "title": "東京消防庁救急相談センター（外部サイト）"
+        },
+        {
+          "uri": "https://www.hokeniryo.metro.tokyo.lg.jp/iryo/sodan/komatta/kyuubyou/24h_annai.html",
+          "title": "東京都保健医療局ホームページ「24時間医療機関案内」（外部サイト）"
+        },
+        {
+          "uri": "https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize",
+          "title": "厚生労働省ホームページ「医療情報ネット（ナビイ）」（外部サイト）"
+        },
+        {
+          "uri": "http://shibu-cul.jp/other#link_other06",
+          "title": "区民健康センター桜丘（外部サイト）"
+        },
+        {
+          "uri": "https://www.med.jrc.or.jp/",
+          "title": "日本赤十字社医療センター（外部サイト）"
+        },
+        {
+          "uri": "http://www.sibusi.or.jp/dayoff.html",
+          "title": "休日歯科応急診療所一覧（外部サイト）"
+        },
+        {
+          "uri": "https://sby.tokyo.med.or.jp/医師会事業/休日夜間診療/",
+          "title": "休日夜間診療（渋谷区医師会ホームページ（外部サイト））"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/kenko/yakan_shinryo.html",
+        "title": "休日夜間・救急診療"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "生活衛生課事業係",
+        "contactPhone": "03-3463-2246",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4943",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM45",
+        "organization": "9000020131130",
+        "compartment": "生活衛生課事業係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-17",
+      "odInformation": {
+        "updateDate": "2024-06-27",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "渋谷区の妊娠・出産に関する相談",
+        "shortName": "オンライン通話相談"
+      },
+      "summary": "渋谷区では、不妊症・不育症の治療や流産・死産の経験を持つ人の悩みや不安、話したいことを、過去に同様の治療を経験したピア・カウンセラーがお聴きします。",
+      "description": "不妊症・不育症ピアサポート事業\n不妊症、不育症にお悩みの人の相談を受け付けています\n\n更新日\n\n2024年2月26日\n\n不妊症・不育症ピアサポートとは\nオンライン通話相談\n面接相談\nおしゃべり会\nお知らせ\n2024年2月26日\n\nおしゃべり会を令和6年3月11日に開催します。詳しくは下記の「おしゃべり会」をご覧ください。\n\n不妊症・不育症ピアサポートとは\n「ピアサポート」とは、同じような経験や境遇を持つ人同士（ピア）の支え合いを表す言葉です。渋谷区では、不妊症・不育症の治療や流産・死産の経験を持つ人の悩みや不安、話したいことを、過去に同様の治療を経験したピア・カウンセラーがお聴きします。\n特定非営利活動法人Fine（ファイン）に委託して運営しています。\n\nオンライン通話相談\n内容\nWEB会議システム（Zoom）による音声通話により実施しています。顔を出さずに音声のみで相談できます。\n（注）相談料は無料ですが、相談に係る通信料は相談者の自己負担になります。\n\n対象者\n区内在住・在勤の人で、不妊症や不育症にお悩みの人、不妊症や不育症を治療中の人、流産や死産を経験された人、不育治療のやめ時に悩んでいる人など\nパートナーと二人での相談も可\n日時\n毎週木曜日　10時から13時まで\n毎週日曜日　13時から16時まで\n相談時間\n1組、1回40分まで\n\n申込方法\n予約不要です。次の手順でアクセスしてください。\n\nZoomアプリをインストール;https://explore.zoom.us/ja/products/meetings/してください。最新のアプリでご利用ください。インストールはZoomのホームページ（外部サイト）;https://explore.zoom.us/ja/products/meetings/をご覧ください。\n開設時間中に次のいずれかのURLにアクセスしてください。\n「ミーティングのホストは間もなくミーティングへの参加を許可します」と表示されたまま１分以内に参加を許可されない場合は、すでに回線が使われています。時間をおいてアクセスしなおしてください。なお、なるべくネットワーク環境が安定している静かな場所からアクセスしてください。\n\nオンライン相談アカウント１;https://zoom.us/j/6752496235?pwd=WmcwMGRuZkFyd25WdWhYK3dBOHpuQT09（Zoomが開きます）\nパーソナル ミーティングID　675 249 6235\n\nパスコード　0004281\n\nオンライン相談アカウント２;https://zoom.us/j/9720809645?pwd=cW0xRVlHWXQwRFYwOTNSeGpvelBpUT09（Zoomが開きます）\nパーソナル ミーティングID　972 080 9645\n\nパスコード　0004282",
+      "target": {
+        "targetPersons": "区内在住・在勤の人で、不妊症や不育症にお悩みの人、不妊症や不育症を治療中の人、流産や死産を経験された人、不育治療のやめ時に悩んでいる人など\nパートナーと二人での相談も可",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "WEB会議システム（Zoom）による音声通話により実施しています。顔を出さずに音声のみで相談できます。\n（注）相談料は無料ですが、相談に係る通信料は相談者の自己負担になります。",
+        "monetarySupport": null,
+        "materiallySupport": "WEB会議システム（Zoom）による音声通話により実施しています。顔を出さずに音声のみで相談できます。\n（注）相談料は無料ですが、相談に係る通信料は相談者の自己負担になります。"
+      },
+      "cost": null,
+      "costConditions": "相談料は無料ですが、相談に係る通信料は相談者の自己負担になります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "毎週木曜日　10時から13時まで\n毎週日曜日　13時から16時まで\n相談時間\n1組、1回40分まで"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "予約不要です。次の手順でアクセスしてください。\n\nZoomアプリをインストール;https://explore.zoom.us/ja/products/meetings/してください。最新のアプリでご利用ください。インストールはZoomのホームページ（外部サイト）;https://explore.zoom.us/ja/products/meetings/をご覧ください。\n開設時間中に次のいずれかのURLにアクセスしてください。\n「ミーティングのホストは間もなくミーティングへの参加を許可します」と表示されたまま１分以内に参加を許可されない場合は、すでに回線が使われています。時間をおいてアクセスしなおしてください。なお、なるべくネットワーク環境が安定している静かな場所からアクセスしてください。\n\nオンライン相談アカウント１;https://zoom.us/j/6752496235?pwd=WmcwMGRuZkFyd25WdWhYK3dBOHpuQT09（Zoomが開きます）\nパーソナル ミーティングID　675 249 6235\n\nパスコード　0004281\n\nオンライン相談アカウント２;https://zoom.us/j/9720809645?pwd=cW0xRVlHWXQwRFYwOTNSeGpvelBpUT09（Zoomが開きます）\nパーソナル ミーティングID　972 080 9645\n\nパスコード　0004282",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://explore.zoom.us/ja/products/meetings/",
+          "title": "Zoomアプリをインストール"
+        },
+        {
+          "uri": "https://explore.zoom.us/ja/products/meetings/",
+          "title": "Zoomのホームページ（外部サイト）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kodomo/ninshin/funin-fuiku/peer_support.html",
+        "title": "不妊症・不育症ピアサポート事業"
+      },
+      "formLink": [
+        {
+          "uri": "https://zoom.us/j/9720809645?pwd=cW0xRVlHWXQwRFYwOTNSeGpvelBpUT09",
+          "title": "オンライン相談アカウント２"
+        },
+        {
+          "uri": "https://zoom.us/j/6752496235?pwd=WmcwMGRuZkFyd25WdWhYK3dBOHpuQT09",
+          "title": "オンライン相談アカウント１"
+        }
+      ],
+      "contact": {
+        "contactName": "中央保健相談所母子保健係",
+        "contactPhone": "03-3463-2409",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4944",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM47",
+        "organization": "9000020131130",
+        "compartment": "中央保健相談所母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-02-26",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月未満児）",
+        "shortName": "乳児健康診査（3・4か月）"
+      },
+      "summary": "乳児健診（3・4か月、6・7か月、9・10か月）を実施しています。",
+      "description": "子どもの健診・歯科相談\n子どもの健診、歯科相談の内容と日程に関する案内ページです。\n\n更新日\n\n2024年4月1日\n\n健康診査一覧\n歯科専門相談\n健康診査一覧\n乳児健診（3・4か月、6・7か月、9・10か月）、1歳6か月児健診、3歳児健診を実施しています。\n|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n\n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。\n\n実施日時・場所（指定の保健相談所）\nお住まいの地域ごとに実施日時・場所が分かれています。\n|場所|管轄地域|日程|\n|:----|:----|:----|\n|中央保健相談所|猿楽町、鶯谷町、鉢山町、代官山町、渋谷1～4丁目、桜丘町、南平台町、道玄坂1～2丁目、円山町、神泉町、 宇田川町、神南1～2丁目、神山町、松濤1～2丁目、代々木神園町、富ヶ谷1～2丁目、上原1～3丁目、西原1～3丁目、元代々木町、大山町、代々木1～5丁目、初台1～2丁目、千駄ヶ谷1～6丁目、神宮前1～6丁目|中央保健相談所の健診日程（PDF 308KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/a15c5fbacc9943c48ea30b457c56e882/kenshin_8.pdf|\n|恵比寿保健相談所|恵比寿1～4丁目、広尾1～5丁目、恵比寿西1～2丁目、恵比寿南1～3丁目、東1～4丁目|恵比寿保健相談所の健診日程（PDF 305KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/2473a4e827e148eba154dbd2b7a983a6/kenshin_9.pdf|\n|幡ヶ谷保健相談所|本町1～6丁目、幡ヶ谷1～3丁目、笹塚1～3丁目|幡ヶ谷保健相談所の健診日程（PDF 294KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/e14798e3c02e4d57b81617efbe56cdeb/kenshin_10.pdf|\n",
+      "target": {
+        "targetPersons": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n\n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 3
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n\n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。"
+      },
+      "support": {
+        "description": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n\n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。",
+        "monetarySupport": null,
+        "materiallySupport": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n\n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "|場所|管轄地域|日程|\n|:----|:----|:----|\n|中央保健相談所|猿楽町、鶯谷町、鉢山町、代官山町、渋谷1～4丁目、桜丘町、南平台町、道玄坂1～2丁目、円山町、神泉町、 宇田川町、神南1～2丁目、神山町、松濤1～2丁目、代々木神園町、富ヶ谷1～2丁目、上原1～3丁目、西原1～3丁目、元代々木町、大山町、代々木1～5丁目、初台1～2丁目、千駄ヶ谷1～6丁目、神宮前1～6丁目|中央保健相談所の健診日程（PDF 308KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/a15c5fbacc9943c48ea30b457c56e882/kenshin_8.pdf|\n|恵比寿保健相談所|恵比寿1～4丁目、広尾1～5丁目、恵比寿西1～2丁目、恵比寿南1～3丁目、東1～4丁目|恵比寿保健相談所の健診日程（PDF 305KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/2473a4e827e148eba154dbd2b7a983a6/kenshin_9.pdf|\n|幡ヶ谷保健相談所|本町1～6丁目、幡ヶ谷1～3丁目、笹塚1～3丁目|幡ヶ谷保健相談所の健診日程（PDF 294KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/e14798e3c02e4d57b81617efbe56cdeb/kenshin_10.pdf|\n"
+      },
+      "implementationPlace": {
+        "implementationName": "|場所|管轄地域|日程|\n|:----|:----|:----|\n|中央保健相談所|猿楽町、鶯谷町、鉢山町、代官山町、渋谷1～4丁目、桜丘町、南平台町、道玄坂1～2丁目、円山町、神泉町、 宇田川町、神南1～2丁目、神山町、松濤1～2丁目、代々木神園町、富ヶ谷1～2丁目、上原1～3丁目、西原1～3丁目、元代々木町、大山町、代々木1～5丁目、初台1～2丁目、千駄ヶ谷1～6丁目、神宮前1～6丁目|中央保健相談所の健診日程（PDF 308KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/a15c5fbacc9943c48ea30b457c56e882/kenshin_8.pdf|\n|恵比寿保健相談所|恵比寿1～4丁目、広尾1～5丁目、恵比寿西1～2丁目、恵比寿南1～3丁目、東1～4丁目|恵比寿保健相談所の健診日程（PDF 305KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/2473a4e827e148eba154dbd2b7a983a6/kenshin_9.pdf|\n|幡ヶ谷保健相談所|本町1～6丁目、幡ヶ谷1～3丁目、笹塚1～3丁目|幡ヶ谷保健相談所の健診日程（PDF 294KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/e14798e3c02e4d57b81617efbe56cdeb/kenshin_10.pdf|\n",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n\n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/2473a4e827e148eba154dbd2b7a983a6/kenshin_9.pdf",
+          "title": "恵比寿保健相談所の健診日程（PDF 305KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf",
+          "title": "【区内抜粋】実施機関一覧（PDF 151KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/e14798e3c02e4d57b81617efbe56cdeb/kenshin_10.pdf",
+          "title": "幡ヶ谷保健相談所の健診日程（PDF 294KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/3c90e55771ed4a998d2488a399f3fcbb/kenshin_7.pdf",
+          "title": "実施機関一覧（PDF 111KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/a15c5fbacc9943c48ea30b457c56e882/kenshin_8.pdf",
+          "title": "中央保健相談所の健診日程（PDF 308KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kodomo/kodomo-sodan/shinseiji-sodan/kenshin.html",
+        "title": "子どもの健診・歯科相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "中央保健相談所母子保健係,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係,中央保健相談所保健管理係",
+        "contactPhone": "03-3463-2409,03-3443-6251,03-3374-7591,03-3463-3097",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4944,FAX03-3443-6253,FAX03-3374-5985,FAX03-5458-4944",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM49",
+        "organization": "9000020131130",
+        "compartment": "中央保健相談所母子保健係,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係,中央保健相談所保健管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "乳児健康診査（6・7か月）"
+      },
+      "summary": "乳児健診（3・4か月、6・7か月、9・10か月）を実施しています。",
+      "description": "子どもの健診・歯科相談\n子どもの健診、歯科相談の内容と日程に関する案内ページです。\n\n更新日\n\n2024年4月1日\n\n健康診査一覧\n歯科専門相談\n健康診査一覧\n乳児健診（3・4か月、6・7か月、9・10か月）、1歳6か月児健診、3歳児健診を実施しています。\n|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n\n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。",
+      "target": {
+        "targetPersons": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n \n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 7
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n \n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。"
+      },
+      "support": {
+        "description": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n \n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。",
+        "monetarySupport": null,
+        "materiallySupport": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n \n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf",
+        "implementationAddress": "【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n \n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "「母子健康手帳」と「健康保険証」",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/2473a4e827e148eba154dbd2b7a983a6/kenshin_9.pdf",
+          "title": "恵比寿保健相談所の健診日程（PDF 305KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf",
+          "title": "【区内抜粋】実施機関一覧（PDF 151KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/e14798e3c02e4d57b81617efbe56cdeb/kenshin_10.pdf",
+          "title": "幡ヶ谷保健相談所の健診日程（PDF 294KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/3c90e55771ed4a998d2488a399f3fcbb/kenshin_7.pdf",
+          "title": "実施機関一覧（PDF 111KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/a15c5fbacc9943c48ea30b457c56e882/kenshin_8.pdf",
+          "title": "中央保健相談所の健診日程（PDF 308KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kodomo/kodomo-sodan/shinseiji-sodan/kenshin.html",
+        "title": "子どもの健診・歯科相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "中央保健相談所母子保健係,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係,中央保健相談所保健管理係",
+        "contactPhone": "03-3463-2409,03-3443-6251,03-3374-7591,03-3463-3097",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4944,FAX03-3443-6253,FAX03-3374-5985,FAX03-5458-4944",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM50",
+        "organization": "9000020131130",
+        "compartment": "中央保健相談所母子保健係,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係,中央保健相談所保健管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "1歳6か月児健康診査",
+        "shortName": "1歳6か月児健康診査（健康診査）"
+      },
+      "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。渋谷区では1歳6か月児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "子どもの健診・歯科相談\n子どもの健診、歯科相談の内容と日程に関する案内ページです。\n\n更新日\n\n2024年4月1日\n\n健康診査一覧\n歯科専門相談\n健康診査一覧\n乳児健診（3・4か月、6・7か月、9・10か月）、1歳6か月児健診、3歳児健診を実施しています。\n|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n\n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。",
+      "target": {
+        "targetPersons": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n \n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。",
+        "lessThan": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n \n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。"
+      },
+      "support": {
+        "description": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n \n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。",
+        "monetarySupport": null,
+        "materiallySupport": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n \n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/3c90e55771ed4a998d2488a399f3fcbb/kenshin_7.pdf",
+        "implementationAddress": "実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/3c90e55771ed4a998d2488a399f3fcbb/kenshin_7.pdf"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n \n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/e14798e3c02e4d57b81617efbe56cdeb/kenshin_10.pdf",
+          "title": "幡ヶ谷保健相談所の健診日程（PDF 294KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/2473a4e827e148eba154dbd2b7a983a6/kenshin_9.pdf",
+          "title": "恵比寿保健相談所の健診日程（PDF 305KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/a15c5fbacc9943c48ea30b457c56e882/kenshin_8.pdf",
+          "title": "中央保健相談所の健診日程（PDF 308KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf",
+          "title": "【区内抜粋】実施機関一覧（PDF 151KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/3c90e55771ed4a998d2488a399f3fcbb/kenshin_7.pdf",
+          "title": "実施機関一覧（PDF 111KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kodomo/kodomo-sodan/shinseiji-sodan/kenshin.html",
+        "title": "子どもの健診・歯科相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "中央保健相談所母子保健係,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係,中央保健相談所保健管理係",
+        "contactPhone": "03-3463-2409,03-3443-6251,03-3374-7591,03-3463-3097",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4944,FAX03-3443-6253,FAX03-3374-5985,FAX03-5458-4944",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM51",
+        "organization": "9000020131130",
+        "compartment": "中央保健相談所母子保健係,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係,中央保健相談所保健管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "3歳児健康診査",
+        "shortName": "3歳児健康診査"
+      },
+      "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。渋谷区では3歳児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "子どもの健診・歯科相談\n子どもの健診、歯科相談の内容と日程に関する案内ページです。\n\n更新日\n\n2024年4月1日\n\n健康診査一覧\n歯科専門相談\n健康診査一覧\n乳児健診（3・4か月、6・7か月、9・10か月）、1歳6か月児健診、3歳児健診を実施しています。\n|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n\n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。\n\n実施日時・場所（指定の保健相談所）\nお住まいの地域ごとに実施日時・場所が分かれています。\n|場所|管轄地域|日程|\n|:----|:----|:----|\n|中央保健相談所|猿楽町、鶯谷町、鉢山町、代官山町、渋谷1～4丁目、桜丘町、南平台町、道玄坂1～2丁目、円山町、神泉町、 宇田川町、神南1～2丁目、神山町、松濤1～2丁目、代々木神園町、富ヶ谷1～2丁目、上原1～3丁目、西原1～3丁目、元代々木町、大山町、代々木1～5丁目、初台1～2丁目、千駄ヶ谷1～6丁目、神宮前1～6丁目|中央保健相談所の健診日程（PDF 308KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/a15c5fbacc9943c48ea30b457c56e882/kenshin_8.pdf|\n|恵比寿保健相談所|恵比寿1～4丁目、広尾1～5丁目、恵比寿西1～2丁目、恵比寿南1～3丁目、東1～4丁目|恵比寿保健相談所の健診日程（PDF 305KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/2473a4e827e148eba154dbd2b7a983a6/kenshin_9.pdf|\n|幡ヶ谷保健相談所|本町1～6丁目、幡ヶ谷1～3丁目、笹塚1～3丁目|幡ヶ谷保健相談所の健診日程（PDF 294KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/e14798e3c02e4d57b81617efbe56cdeb/kenshin_10.pdf|\n",
+      "target": {
+        "targetPersons": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n \n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。",
+        "lessThan": {
+          "targetAge": 4,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n \n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。"
+      },
+      "support": {
+        "description": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n \n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。",
+        "monetarySupport": null,
+        "materiallySupport": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n \n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "|場所|管轄地域|日程|\n|:----|:----|:----|\n|中央保健相談所|猿楽町、鶯谷町、鉢山町、代官山町、渋谷1～4丁目、桜丘町、南平台町、道玄坂1～2丁目、円山町、神泉町、 宇田川町、神南1～2丁目、神山町、松濤1～2丁目、代々木神園町、富ヶ谷1～2丁目、上原1～3丁目、西原1～3丁目、元代々木町、大山町、代々木1～5丁目、初台1～2丁目、千駄ヶ谷1～6丁目、神宮前1～6丁目|中央保健相談所の健診日程（PDF 308KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/a15c5fbacc9943c48ea30b457c56e882/kenshin_8.pdf|\n|恵比寿保健相談所|恵比寿1～4丁目、広尾1～5丁目、恵比寿西1～2丁目、恵比寿南1～3丁目、東1～4丁目|恵比寿保健相談所の健診日程（PDF 305KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/2473a4e827e148eba154dbd2b7a983a6/kenshin_9.pdf|\n|幡ヶ谷保健相談所|本町1～6丁目、幡ヶ谷1～3丁目、笹塚1～3丁目|幡ヶ谷保健相談所の健診日程（PDF 294KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/e14798e3c02e4d57b81617efbe56cdeb/kenshin_10.pdf|\n"
+      },
+      "implementationPlace": {
+        "implementationName": "|場所|管轄地域|日程|\n|:----|:----|:----|\n|中央保健相談所|猿楽町、鶯谷町、鉢山町、代官山町、渋谷1～4丁目、桜丘町、南平台町、道玄坂1～2丁目、円山町、神泉町、 宇田川町、神南1～2丁目、神山町、松濤1～2丁目、代々木神園町、富ヶ谷1～2丁目、上原1～3丁目、西原1～3丁目、元代々木町、大山町、代々木1～5丁目、初台1～2丁目、千駄ヶ谷1～6丁目、神宮前1～6丁目|中央保健相談所の健診日程（PDF 308KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/a15c5fbacc9943c48ea30b457c56e882/kenshin_8.pdf|\n|恵比寿保健相談所|恵比寿1～4丁目、広尾1～5丁目、恵比寿西1～2丁目、恵比寿南1～3丁目、東1～4丁目|恵比寿保健相談所の健診日程（PDF 305KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/2473a4e827e148eba154dbd2b7a983a6/kenshin_9.pdf|\n|幡ヶ谷保健相談所|本町1～6丁目、幡ヶ谷1～3丁目、笹塚1～3丁目|幡ヶ谷保健相談所の健診日程（PDF 294KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/e14798e3c02e4d57b81617efbe56cdeb/kenshin_10.pdf|\n",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n \n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/3c90e55771ed4a998d2488a399f3fcbb/kenshin_7.pdf",
+          "title": "実施機関一覧（PDF 111KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/a15c5fbacc9943c48ea30b457c56e882/kenshin_8.pdf",
+          "title": "中央保健相談所の健診日程（PDF 308KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/e14798e3c02e4d57b81617efbe56cdeb/kenshin_10.pdf",
+          "title": "幡ヶ谷保健相談所の健診日程（PDF 294KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf",
+          "title": "【区内抜粋】実施機関一覧（PDF 151KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/2473a4e827e148eba154dbd2b7a983a6/kenshin_9.pdf",
+          "title": "恵比寿保健相談所の健診日程（PDF 305KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kodomo/kodomo-sodan/shinseiji-sodan/kenshin.html",
+        "title": "子どもの健診・歯科相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "中央保健相談所母子保健係,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係,中央保健相談所保健管理係",
+        "contactPhone": "03-3463-2409,03-3443-6251,03-3374-7591,03-3463-3097",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4944,FAX03-3443-6253,FAX03-3374-5985,FAX03-5458-4944",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM52",
+        "organization": "9000020131130",
+        "compartment": "中央保健相談所母子保健係,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係,中央保健相談所保健管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の乳幼児健診",
+        "shortName": "歯科専門相談"
+      },
+      "summary": "むし歯や、かみ合わせの相談、ブラッシングレッスンなどを行なっています（予約制）。LINE（渋谷区LINE公式アカウント）または電話（注）にて予約を受け付けます。",
+      "description": "歯科専門相談\nむし歯や、かみ合わせの相談、ブラッシングレッスンなどを行なっています（予約制）。LINE（渋谷区LINE公式アカウント）または電話（注）にて予約を受け付けます。電話予約の場合は、受講する各施設へ電話をしてください。\n（注）電話予約の場合、LINEでの予約と同様に30日前からとなります。土曜日・日曜日・祝日の場合は翌営業日からとなります。\n\n渋谷区LINE公式アカウントの友だち追加方法\n友だち追加>ID検索>「@shibuyacity」と入力してください。\n|場所|実施日|時間|\n|:----|:----|:----|\n|中央保健相談所|指定する火曜日|13時30分～14時30分|\n|恵比寿保健相談所|指定する金曜日|13時30分～14時30分|\n|幡ヶ谷保健相談所|指定する木曜日|13時30分～14時30分|\n",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "むし歯や、かみ合わせの相談、ブラッシングレッスンなどを行なっています（予約制）。",
+        "monetarySupport": null,
+        "materiallySupport": "むし歯や、かみ合わせの相談、ブラッシングレッスンなどを行なっています（予約制）。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "13:30",
+        "toYMD": null,
+        "toHM": "14:30",
+        "conditions": "|場所|実施日|時間|\n|:----|:----|:----|\n|中央保健相談所|指定する火曜日|13時30分～14時30分|\n|恵比寿保健相談所|指定する金曜日|13時30分～14時30分|\n|幡ヶ谷保健相談所|指定する木曜日|13時30分～14時30分|\n"
+      },
+      "implementationPlace": {
+        "implementationName": "|場所|実施日|時間|\n|:----|:----|:----|\n|中央保健相談所|指定する火曜日|13時30分～14時30分|\n|恵比寿保健相談所|指定する金曜日|13時30分～14時30分|\n|幡ヶ谷保健相談所|指定する木曜日|13時30分～14時30分|\n",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "LINE（渋谷区LINE公式アカウント）または電話（注）にて予約を受け付けます。電話予約の場合は、受講する各施設へ電話をしてください。\n（注）電話予約の場合、LINEでの予約と同様に30日前からとなります。土曜日・日曜日・祝日の場合は翌営業日からとなります。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "電話予約の場合、LINEでの予約と同様に30日前からとなります。土曜日・日曜日・祝日の場合は翌営業日からとなります。"
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kodomo/kodomo-sodan/shinseiji-sodan/kenshin.html",
+        "title": "子どもの健診・歯科相談"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kusei/koho/line/line_about.html",
+          "title": "渋谷区LINE公式アカウント"
+        }
+      ],
+      "contact": {
+        "contactName": "中央保健相談所母子保健係,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係,中央保健相談所保健管理係",
+        "contactPhone": "03-3463-2409,03-3443-6251,03-3374-7591,03-3463-3097",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4944,FAX03-3443-6253,FAX03-3374-5985,FAX03-5458-4944",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM53",
+        "organization": "9000020131130",
+        "compartment": "中央保健相談所母子保健係,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係,中央保健相談所保健管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出生連絡票・低体重児出生届",
+        "shortName": "出生通知票"
+      },
+      "summary": "お子様がご誕生されましたら、「出生通知票」を提出してください。渋谷区LINE公式アカウントから提出することも可能です。",
+      "description": "出生通知票\n出生通知票に関する案内ページです。\n\n更新日\n\n2023年3月17日\n\n届出窓口\nお子様がご誕生されましたら、「出生通知票」を提出してください。\n出生通知票（PDF 104KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/b239405b1ac84b2fad6f1ff7957593ba/assets_detail_files_katei_children_syussan_pdf_shussho_tsuchi.pdf\n\nPDFファイルを見るには、Adobe社から無償配布されている Adobe Reader などのソフトウェアが必要です。\n詳しくは、PDFファイルをご覧になるにはのページを参照してください。\n\nこんにちは赤ちゃん訪問や乳幼児健診の参考にさせていただきますので、妊娠中や生まれたときに気になったことなど、何か心配なことがあればご記入ください。\n出生通知票は、低体重児届をかねています。低体重、授乳の方法や体重の増え方など、心配ごとがある人には「新生児訪問事業」として、助産師や地区担当保健師が早めの訪問をさせていただく場合があります。\n入院中の人は、電話連絡でも結構です。また、渋谷区LINE公式アカウントから提出することも可能です。\n\n渋谷区LINE公式アカウントの友だち追加方法\n友だち追加＞ID検索＞「＠shibuyacity」と入力してください。\n\n届出窓口\n庁舎3階住民戸籍課窓口\n出張所・区民サービスセンター;https://www.city.shibuya.tokyo.jp/shisetsu/kuyakusho/shutchojo/shutchojo_list.html\n中央保健相談所母子保健係;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_cyuo.html\n恵比寿保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_ebisu.html\n幡ヶ谷保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_hatagaya.html\n（注）郵送でも受け付けております。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "お子様がご誕生されましたら、「出生通知票」を提出してください。\n出生通知票（PDF 104KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/b239405b1ac84b2fad6f1ff7957593ba/assets_detail_files_katei_children_syussan_pdf_shussho_tsuchi.pdf\nこんにちは赤ちゃん訪問や乳幼児健診の参考にさせていただきますので、妊娠中や生まれたときに気になったことなど、何か心配なことがあればご記入ください。\n出生通知票は、低体重児届をかねています。低体重、授乳の方法や体重の増え方など、心配ごとがある人には「新生児訪問事業」として、助産師や地区担当保健師が早めの訪問をさせていただく場合があります。\n入院中の人は、電話連絡でも結構です。また、渋谷区LINE公式アカウントから提出することも可能です。\n\n渋谷区LINE公式アカウントの友だち追加方法\n友だち追加＞ID検索＞「＠shibuyacity」と入力してください。",
+        "monetarySupport": null,
+        "materiallySupport": "お子様がご誕生されましたら、「出生通知票」を提出してください。\n出生通知票（PDF 104KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/b239405b1ac84b2fad6f1ff7957593ba/assets_detail_files_katei_children_syussan_pdf_shussho_tsuchi.pdf\nこんにちは赤ちゃん訪問や乳幼児健診の参考にさせていただきますので、妊娠中や生まれたときに気になったことなど、何か心配なことがあればご記入ください。\n出生通知票は、低体重児届をかねています。低体重、授乳の方法や体重の増え方など、心配ごとがある人には「新生児訪問事業」として、助産師や地区担当保健師が早めの訪問をさせていただく場合があります。\n入院中の人は、電話連絡でも結構です。また、渋谷区LINE公式アカウントから提出することも可能です。\n\n渋谷区LINE公式アカウントの友だち追加方法\n友だち追加＞ID検索＞「＠shibuyacity」と入力してください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "届出窓口\n庁舎3階住民戸籍課窓口\n出張所・区民サービスセンター;https://www.city.shibuya.tokyo.jp/shisetsu/kuyakusho/shutchojo/shutchojo_list.html\n中央保健相談所母子保健係;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_cyuo.html\n恵比寿保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_ebisu.html\n幡ヶ谷保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_hatagaya.html\n（注）郵送でも受け付けております。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "庁舎3階住民戸籍課窓口\n出張所・区民サービスセンター;https://www.city.shibuya.tokyo.jp/shisetsu/kuyakusho/shutchojo/shutchojo_list.html\n中央保健相談所母子保健係;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_cyuo.html\n恵比寿保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_ebisu.html\n幡ヶ谷保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_hatagaya.html",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_ebisu.html",
+          "title": "中央保健相談所母子保健係"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/kuyakusho/shutchojo/shutchojo_list.html",
+          "title": "出張所・区民サービスセンター"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_hatagaya.html",
+          "title": "恵比寿保健相談所"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kodomo/ninshin/ninshin-todoke/shussho_tsuchi.html",
+        "title": "出生通知票"
+      },
+      "formLink": [
+        {
+          "uri": "https://page.line.me/shibuyacity?openQrModal=true",
+          "title": "渋谷区LINE公式アカウント"
+        }
+      ],
+      "contact": {
+        "contactName": "中央保健相談所母子保健係",
+        "contactPhone": "03-3463-2409",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4944",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM791",
+        "organization": "9000020131130",
+        "compartment": "中央保健相談所母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-17",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第18条（低体重児の届出）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "077"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（１歳６か月児歯科健康診査）",
+        "shortName": "1歳6か月児健康診査（歯科健康診査）"
+      },
+      "summary": "1歳6か月児に対して、1歳6か月歯科健康診査を実施しています。",
+      "description": "子どもの健診・歯科相談\n子どもの健診、歯科相談の内容と日程に関する案内ページです。\n\n更新日\n\n2024年4月1日\n\n健康診査一覧\n歯科専門相談\n健康診査一覧\n乳児健診（3・4か月、6・7か月、9・10か月）、1歳6か月児健診、3歳児健診を実施しています。\n|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n\n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。\n\n実施日時・場所（指定の保健相談所）\nお住まいの地域ごとに実施日時・場所が分かれています。\n|場所|管轄地域|日程|\n|:----|:----|:----|\n|中央保健相談所|猿楽町、鶯谷町、鉢山町、代官山町、渋谷1～4丁目、桜丘町、南平台町、道玄坂1～2丁目、円山町、神泉町、 宇田川町、神南1～2丁目、神山町、松濤1～2丁目、代々木神園町、富ヶ谷1～2丁目、上原1～3丁目、西原1～3丁目、元代々木町、大山町、代々木1～5丁目、初台1～2丁目、千駄ヶ谷1～6丁目、神宮前1～6丁目|中央保健相談所の健診日程（PDF 308KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/a15c5fbacc9943c48ea30b457c56e882/kenshin_8.pdf|\n|恵比寿保健相談所|恵比寿1～4丁目、広尾1～5丁目、恵比寿西1～2丁目、恵比寿南1～3丁目、東1～4丁目|恵比寿保健相談所の健診日程（PDF 305KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/2473a4e827e148eba154dbd2b7a983a6/kenshin_9.pdf|\n|幡ヶ谷保健相談所|本町1～6丁目、幡ヶ谷1～3丁目、笹塚1～3丁目|幡ヶ谷保健相談所の健診日程（PDF 294KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/e14798e3c02e4d57b81617efbe56cdeb/kenshin_10.pdf|\n\n歯科専門相談\nむし歯や、かみ合わせの相談、ブラッシングレッスンなどを行なっています（予約制）。LINE（渋谷区LINE公式アカウント）または電話（注）にて予約を受け付けます。電話予約の場合は、受講する各施設へ電話をしてください。\n（注）電話予約の場合、LINEでの予約と同様に30日前からとなります。土曜日・日曜日・祝日の場合は翌営業日からとなります。\n\n渋谷区LINE公式アカウントの友だち追加方法\n友だち追加>ID検索>「@shibuyacity」と入力してください。\n|場所|実施日|時間|\n|:----|:----|:----|\n|中央保健相談所|指定する火曜日|13時30分～14時30分|\n|恵比寿保健相談所|指定する金曜日|13時30分～14時30分|\n|幡ヶ谷保健相談所|指定する木曜日|13時30分～14時30分|\n",
+      "target": {
+        "targetPersons": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n\n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。",
+        "lessThan": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n\n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。"
+      },
+      "support": {
+        "description": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n\n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。",
+        "monetarySupport": null,
+        "materiallySupport": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n\n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "お住まいの地域ごとに実施日時・場所が分かれています。\n|場所|管轄地域|日程|\n|:----|:----|:----|\n|中央保健相談所|猿楽町、鶯谷町、鉢山町、代官山町、渋谷1～4丁目、桜丘町、南平台町、道玄坂1～2丁目、円山町、神泉町、 宇田川町、神南1～2丁目、神山町、松濤1～2丁目、代々木神園町、富ヶ谷1～2丁目、上原1～3丁目、西原1～3丁目、元代々木町、大山町、代々木1～5丁目、初台1～2丁目、千駄ヶ谷1～6丁目、神宮前1～6丁目|中央保健相談所の健診日程（PDF 308KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/a15c5fbacc9943c48ea30b457c56e882/kenshin_8.pdf|\n|恵比寿保健相談所|恵比寿1～4丁目、広尾1～5丁目、恵比寿西1～2丁目、恵比寿南1～3丁目、東1～4丁目|恵比寿保健相談所の健診日程（PDF 305KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/2473a4e827e148eba154dbd2b7a983a6/kenshin_9.pdf|\n|幡ヶ谷保健相談所|本町1～6丁目、幡ヶ谷1～3丁目、笹塚1～3丁目|幡ヶ谷保健相談所の健診日程（PDF 294KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/e14798e3c02e4d57b81617efbe56cdeb/kenshin_10.pdf|\n",
+        "implementationAddress": "お住まいの地域ごとに実施日時・場所が分かれています。\n|場所|管轄地域|日程|\n|:----|:----|:----|\n|中央保健相談所|猿楽町、鶯谷町、鉢山町、代官山町、渋谷1～4丁目、桜丘町、南平台町、道玄坂1～2丁目、円山町、神泉町、 宇田川町、神南1～2丁目、神山町、松濤1～2丁目、代々木神園町、富ヶ谷1～2丁目、上原1～3丁目、西原1～3丁目、元代々木町、大山町、代々木1～5丁目、初台1～2丁目、千駄ヶ谷1～6丁目、神宮前1～6丁目|中央保健相談所の健診日程（PDF 308KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/a15c5fbacc9943c48ea30b457c56e882/kenshin_8.pdf|\n|恵比寿保健相談所|恵比寿1～4丁目、広尾1～5丁目、恵比寿西1～2丁目、恵比寿南1～3丁目、東1～4丁目|恵比寿保健相談所の健診日程（PDF 305KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/2473a4e827e148eba154dbd2b7a983a6/kenshin_9.pdf|\n|幡ヶ谷保健相談所|本町1～6丁目、幡ヶ谷1～3丁目、笹塚1～3丁目|幡ヶ谷保健相談所の健診日程（PDF 294KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/e14798e3c02e4d57b81617efbe56cdeb/kenshin_10.pdf|\n"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n\n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/a15c5fbacc9943c48ea30b457c56e882/kenshin_8.pdf",
+          "title": "中央保健相談所の健診日程（PDF 308KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf",
+          "title": "【区内抜粋】実施機関一覧（PDF 151KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/3c90e55771ed4a998d2488a399f3fcbb/kenshin_7.pdf",
+          "title": "実施機関一覧（PDF 111KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/2473a4e827e148eba154dbd2b7a983a6/kenshin_9.pdf",
+          "title": "恵比寿保健相談所の健診日程（PDF 305KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/e14798e3c02e4d57b81617efbe56cdeb/kenshin_10.pdf",
+          "title": "幡ヶ谷保健相談所の健診日程（PDF 294KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kodomo/kodomo-sodan/shinseiji-sodan/kenshin.html",
+        "title": "子どもの健診・歯科相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "中央保健相談所母子保健係,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係,中央保健相談所保健管理係",
+        "contactPhone": "03-3463-2409,03-3443-6251,03-3374-7591,03-3463-3097",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4944,FAX03-3443-6253,FAX03-3374-5985,FAX03-5458-4944",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM792",
+        "organization": "9000020131130",
+        "compartment": "中央保健相談所母子保健係,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係,中央保健相談所保健管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "こども家庭センター",
+        "shortName": "渋谷区子育てネウボラ"
+      },
+      "summary": "渋谷区の【渋谷区子育てネウボラ】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+      "description": "渋谷区子育てネウボラは、「出会う、集う、語る、つながる。」「地域みんなで子どもを育てる。」をコンセプトとした子育て拠点施設です。不安なく少しでも喜びの多い子育てができるよう、妊娠期から18歳になるまでのすべての子どもとそのご家族をサポートします。家族で過ごせる「子育て支援フロア」、健診・保健相談を行う「健診・保険のフロア」、専門職による子育ての相談や発達の相談、教育の相談を行う「専門相談フロア」を一体化した、開放的で親しみのある、地域に開かれた場を提供しています。",
+      "target": {
+        "targetPersons": "対象：原則として、区内在住の妊娠中の方および18歳未満の子どもと保護者",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "渋谷区子育てネウボラ",
+        "implementationAddress": "渋谷区宇田川町5-6　渋谷区子育てネウボラ"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "休業日：土曜日、日曜日、祝・休日、年末年始（12月29日～1月3日）　※子育て支援センターのみ日曜日営業",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://shibuya-city-neuvola.tokyo/",
+          "title": "渋谷区子育てネウボラ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/kosodate/kosodate-shisetsu/neuvola.html",
+        "title": "渋谷区子育てネウボラ"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭支援センター子ども家庭相談係",
+        "contactPhone": "電話\n\n03-3463-3748",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM799",
+        "organization": "9000020131130",
+        "compartment": "子ども家庭支援センター子ども家庭相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/06/14",
+      "odInformation": {
+        "updateDate": "2025/02/20",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第10条の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦訪問",
+        "shortName": "オンラインによる妊婦面接"
+      },
+      "summary": "妊産婦の方（妊娠中または出産後1年以内）を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、妊娠期間中や出産後の不安や悩みについての相談等を行います。",
+      "description": "オンラインによる妊婦面接\nオンライン妊婦面接に関する案内ページです。\n\n更新日\n\n2023年3月17日\n\n対象者\n申込方法\n予約から面接当日までの流れ\n注意事項\n担当する保健相談所\n渋谷区では、保健師が区内在住の全ての妊婦の皆さまとお会いして、出産・産後のお母さんや赤ちゃんのこと、ご家族の健康、子育てに関するご相談をお受けしています。不安や心配ごとの対応策を一緒に考え、必要な子育て情報やサービスをお伝えすることで、安心して出産を迎え、子育てができるようにサポートします。ご心配ごとのない場合でもこれからの出産や子育ての相談窓口として保健相談所を知っていただくために、面接をご案内しています。\n来所での面接が難しい妊婦の皆さまには、オンラインによる相談も行っています。ご希望の場合は妊婦面接;https://www.city.shibuya.tokyo.jp/kodomo/ninshin/ninshin-sodan/ninpu.htmlのページを確認後、次のご案内をお読みいただきお住まいを担当する保健相談所に電話でご予約ください。\n（注）面接はオンラインツール「Microsoft Teams」を使用します。スマートフォンを使用される場合はアプリのインストールが必要です。なお、パソコンにおいてはブラウザ版からも利用できます。\n\n対象者\n体調不良等で医師より安静の指示がある場合\n感染症の拡大・流行により対面での面接に不安があるかた\n申込方法\nお住まいを担当する保健相談所に電話でお申し込みください。その際対象者に該当するかを確認します。\n面接希望日は10日以上先の日程をご相談ください。\n予約から面接当日までの流れ\n予約\nお住まいを担当する保健相談所に電話でお申し込みください。\n\n書類の送付\n保健相談所から面接に必要な書類を送付します。\n\n書類の返信\n書類の到着後、保健相談所に返信していただく書類があります。\n（注）返信用の切手は申込者ご自身にご負担いただきます。同時に、書類に記載されたメールアドレスにメールを送信してください。\n\n招待メールの送信\n保健相談所がメールを確認後、申込者に招待メールをお送りいたします。当日は、事前に保健相談所から送信されたメールに記載されている「会議に参加するにはここをクリックしてください」をクリックして面接を開始します。\n\n注意事項\n所要時間は30分程度を予定しています。\n面接はオンラインツール「Microsoft Teams」を使用します。当日までにインストールをお願いします。\n通信費用はオンライン相談を希望されるかたの負担となります。\nお互いに顔が見える状態で面接を行ないます。面接の際は、カメラ機能の付いているパソコンやスマートフォンをご使用ください。\n面接の際は、カメラ機能をONにしてください。\n録音や録画はお断りしています。\n妊娠中から安心して出産子育てを迎えられるようサポートするために、状況をお聞きしながらご相談などを受けて、母子保健サービスの紹介をしています。相談内容によってはプライベートな話もありますので、ご自身が安心して話せる環境をご準備ください。\n面接日の2日前までに必要書類の返送がない場合は、面接日程を再調整することになります。\n面接当日、予約の時間を過ぎても参加がない場合は、確認のためこちらからお電話をさせていただきます。\n予約の変更がある場合は事前にお電話でご連絡ください。\n担当する保健相談所\nお住まいを担当する保健相談所\n|保健相談所|電話|所在地|担当地区|\n|:----|:----|:----|:----|\n|中央保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_cyuo.html|03-3463-2439|宇田川町5-6<br>（渋谷区子育てネウボラ4階）|宇田川町、渋谷、代々木<br>神南、代々木神園町、西原<br>南平台町、道玄坂、猿楽町<br>桜丘町、代官山町、鉢山町<br>鶯谷町、松濤、大山町<br>千駄ヶ谷、富ヶ谷、神山町<br>初台、元代々木町、上原<br>円山町、神泉町、神宮前|\n|恵比寿保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_ebisu.html|03-3443-6251|恵比寿2-27-18|東、広尾、恵比寿<br>恵比寿西、恵比寿南|\n|幡ヶ谷保健相談所;https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_hatagaya.html|03-3374-7591|幡ヶ谷3-39-1|幡ヶ谷、本町、笹塚|\n",
+      "target": {
+        "targetPersons": "体調不良等で医師より安静の指示がある場合\n感染症の拡大・流行により対面での面接に不安があるかた",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "渋谷区では、保健師が区内在住の全ての妊婦の皆さまとお会いして、出産・産後のお母さんや赤ちゃんのこと、ご家族の健康、子育てに関するご相談をお受けしています。不安や心配ごとの対応策を一緒に考え、必要な子育て情報やサービスをお伝えすることで、安心して出産を迎え、子育てができるようにサポートします。ご心配ごとのない場合でもこれからの出産や子育ての相談窓口として保健相談所を知っていただくために、面接をご案内しています。\n来所での面接が難しい妊婦の皆さまには、オンラインによる相談も行っています。",
+        "monetarySupport": null,
+        "materiallySupport": "渋谷区では、保健師が区内在住の全ての妊婦の皆さまとお会いして、出産・産後のお母さんや赤ちゃんのこと、ご家族の健康、子育てに関するご相談をお受けしています。不安や心配ごとの対応策を一緒に考え、必要な子育て情報やサービスをお伝えすることで、安心して出産を迎え、子育てができるようにサポートします。ご心配ごとのない場合でもこれからの出産や子育ての相談窓口として保健相談所を知っていただくために、面接をご案内しています。\n来所での面接が難しい妊婦の皆さまには、オンラインによる相談も行っています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申込方法\nお住まいを担当する保健相談所に電話でお申し込みください。その際対象者に該当するかを確認します。\n面接希望日は10日以上先の日程をご相談ください。\n予約から面接当日までの流れ\n予約\nお住まいを担当する保健相談所に電話でお申し込みください。\n\n書類の送付\n保健相談所から面接に必要な書類を送付します。\n\n書類の返信\n書類の到着後、保健相談所に返信していただく書類があります。\n（注）返信用の切手は申込者ご自身にご負担いただきます。同時に、書類に記載されたメールアドレスにメールを送信してください。\n\n招待メールの送信\n保健相談所がメールを確認後、申込者に招待メールをお送りいたします。当日は、事前に保健相談所から送信されたメールに記載されている「会議に参加するにはここをクリックしてください」をクリックして面接を開始します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "面接希望日は10日以上先の日程をご相談ください。"
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kodomo/ninshin/ninshin-sodan/ninpu.html",
+          "title": "妊婦面接"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_ebisu.html",
+          "title": "恵比寿保健相談所"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_cyuo.html",
+          "title": "中央保健相談所"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/iryo-shisetsu/hks_hatagaya.html",
+          "title": "幡ヶ谷保健相談所"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kodomo/ninshin/ninshin-sodan/ninpu_online.html",
+        "title": "オンラインによる妊婦面接"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.microsoft.com/ja-jp/microsoft-teams/group-chat-software",
+          "title": "Microsoft Teams"
+        }
+      ],
+      "contact": {
+        "contactName": "中央保健相談所,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係",
+        "contactPhone": "03-3463-2439,03-3443-6251,03-3374-7591",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4944,FAX03-3443-6253,FAX03-3374-5985",
+        "zipCode": null,
+        "contactAddress": "宇田川町5-6（渋谷区子育てネウボラ4階）,恵比寿2-27-18,幡ヶ谷3-39-1"
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+2+UM11",
+        "organization": "9000020131130",
+        "compartment": "中央保健相談所,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-17",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条（妊産婦の訪問指導等）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産後ケア事業",
+        "shortName": "産後ケア（訪問型）"
+      },
+      "summary": "出産を終えた退院後、お母さんと赤ちゃんの生活リズムづくりや、心身の安定を図るため、施設においてショートステイ（宿泊）やデイサービス（日帰り）で、助産師などが母子の心身ケアと育児サポートを行います。",
+      "description": "産後ケア事業\n産後ケアに関する案内ページです。\n\n更新日\n\n2024年4月10日\n\n対象者\n事業の概要\n産後ケア（宿泊型）施設一覧\n申請期間\n申請方法\nお知らせ\n2024年4月1日\n\n4月1日利用分から利用料が変更になりました。詳しくは「事業の概要」をご覧ください。\n\n渋谷区では、育児に慣れていない初産などの人が、家族などから育児や家事の支援を受けられない場合に、母子のケアや授乳相談、育児相談が受けられる産後ケア事業を行なっています。\n産後ケア事業には、渋谷区が契約する施設に宿泊して行う産後ケア（宿泊型）と、ご自宅に助産師が訪問して行う産後ケア（訪問型）があります。\n\n産後ケア（宿泊型）のご案内（PDF 646KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/298090f818ae4fb3926a967b05d0e1a8/sango_care_8.pdf\n産後ケア（訪問型）のご案内（PDF 415KB);https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/be37191694bc46d0a6e2434cd04b014b/sango_care_5.pdf\n対象者\n区内在住の、産後5か月未満（産後ケア（訪問型）については産後1年未満）の産婦とその子で、体調不良や育児不安があり、ご家族などから十分な支援が受けられない場合\n（注）早産や出産後、30日以上入院していた場合は、期間を延長できる場合がありますので、相談してください。\n\n事業の概要\n（注）生活保護世帯などは利用者負担額免除\n\n産後ケア（訪問型）\n内容\nご自宅に助産師が訪問して行う授乳指導・乳房ケア・育児相談など\n\n利用期間\n産後1年以内まで\n\n利用の上限\n1回の出産につき3回まで\n（1回の訪問につき90分まで。双子の場合は120分まで。）\n\n利用料\n1回　1,000円\n\n実施施設\n区と契約している助産師\n申請期間\n妊娠28週から利用希望日の14日前まで受け付けます。\n\n申請方法\n事前にLINEでの申請、郵送または窓口で申請してください。\n申請内容を審査した後、承認された方に「利用承認通知書」などを郵送でお送りします。\n「利用承認通知書」が到着後、案内に記載されている方法で、各施設や助産師に利用の予約をしてください。\n\nLINEによる申請の場合\nQRコード\n\n産後ケア事業LINE申請QRコード\n\nスマートフォンのコミュニケーションアプリ「LINE」をインストールし、「渋谷区LINE公式アカウントとの友だち登録」が必要です。友だち登録の方法について詳しくは、渋谷区のLINE（ライン）について;https://www.city.shibuya.tokyo.jp/kusei/koho/line/line_about.htmlのページをご覧ください。\n申請は申請メニューをタップし、子ども・子育て関連手続きから産後ケア利用申請を選択してください。\n\n郵送・窓口で申請する場合\n以下の書式の利用申請書を提出してください。\n産後ケア事業利用申請書（PDF 126KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d4af3e6ebb9143558a511115c2151cb9/assets_kodomo_000063027.pdf\n\n（注）1度の申請で、産後ケア（宿泊型）、産後ケア（訪問型）いずれもご利用可能となります。\n（注）申請書に記入する際、利用者（子）情報や利用期間など未定の場合は空欄のままで構いません。\n\n郵送先・窓口\n〒150-0042 宇田川町5番6号 渋谷区子育てネウボラ4階　中央保健相談所母子保健係",
+      "target": {
+        "targetPersons": "区内在住の、産後5か月未満（産後ケア（訪問型）については産後1年未満）の産婦とその子で、体調不良や育児不安があり、ご家族などから十分な支援が受けられない場合\n（注）早産や出産後、30日以上入院していた場合は、期間を延長できる場合がありますので、相談してください。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "ご自宅に助産師が訪問して行う授乳指導・乳房ケア・育児相談など",
+        "monetarySupport": null,
+        "materiallySupport": "ご自宅に助産師が訪問して行う授乳指導・乳房ケア・育児相談など"
+      },
+      "cost": "1000",
+      "costConditions": "1回　1,000円",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "産後1年以内まで\n\n利用の上限\n1回の出産につき3回まで\n（1回の訪問につき90分まで。双子の場合は120分まで。）"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "妊娠28週から利用希望日の14日前まで受け付けます。\n\n申請方法\n事前にLINEでの申請、郵送または窓口で申請してください。\n申請内容を審査した後、承認された方に「利用承認通知書」などを郵送でお送りします。\n「利用承認通知書」が到着後、案内に記載されている方法で、各施設や助産師に利用の予約をしてください。\n\nLINEによる申請の場合\nQRコード\n\n産後ケア事業LINE申請QRコード\n\nスマートフォンのコミュニケーションアプリ「LINE」をインストールし、「渋谷区LINE公式アカウントとの友だち登録」が必要です。友だち登録の方法について詳しくは、渋谷区のLINE（ライン）について;https://www.city.shibuya.tokyo.jp/kusei/koho/line/line_about.htmlのページをご覧ください。\n申請は申請メニューをタップし、子ども・子育て関連手続きから産後ケア利用申請を選択してください。\n\n郵送・窓口で申請する場合\n以下の書式の利用申請書を提出してください。\n産後ケア事業利用申請書（PDF 126KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/d4af3e6ebb9143558a511115c2151cb9/assets_kodomo_000063027.pdf\n\n（注）1度の申請で、産後ケア（宿泊型）、産後ケア（訪問型）いずれもご利用可能となります。\n（注）申請書に記入する際、利用者（子）情報や利用期間など未定の場合は空欄のままで構いません。\n\n郵送先・窓口\n〒150-0042 宇田川町5番6号 渋谷区子育てネウボラ4階　中央保健相談所母子保健係",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "妊娠28週から利用希望日の14日前まで受け付けます。"
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "〒150-0042 宇田川町5番6号 渋谷区子育てネウボラ4階　中央保健相談所母子保健係",
+      "relatedLink": [
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/be37191694bc46d0a6e2434cd04b014b/sango_care_5.pdf",
+          "title": "産後ケア（訪問型）のご案内（PDF 415KB)"
+        },
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kusei/koho/line/line_about.html",
+          "title": "渋谷区のLINE（ライン）について"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/298090f818ae4fb3926a967b05d0e1a8/sango_care_8.pdf",
+          "title": "産後ケア（宿泊型）のご案内（PDF 646KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kodomo/ninshin/ninshin-sodan/sango_care.html",
+        "title": "産後ケア事業"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kodomo/ninshin/ninshin-sodan/sango_care.html",
+          "title": "QRコード"
+        }
+      ],
+      "contact": {
+        "contactName": "中央保健相談所母子保健係",
+        "contactPhone": "03-3463-2409",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4944",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+2+UM15",
+        "organization": "9000020131130",
+        "compartment": "中央保健相談所母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-10",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条の2（産後ケア事業）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "渋谷区の妊娠・出産に関する相談",
+        "shortName": "面接相談"
+      },
+      "summary": "渋谷区では、不妊症・不育症の治療や流産・死産の経験を持つ人の悩みや不安、話したいことを、過去に同様の治療を経験したピア・カウンセラーがお聴きします。",
+      "description": "不妊症・不育症ピアサポート事業\n不妊症、不育症にお悩みの人の相談を受け付けています\n\n更新日\n\n2024年2月26日\n\n不妊症・不育症ピアサポートとは\nオンライン通話相談\n面接相談\nおしゃべり会\nお知らせ\n2024年2月26日\n\nおしゃべり会を令和6年3月11日に開催します。詳しくは下記の「おしゃべり会」をご覧ください。\n\n不妊症・不育症ピアサポートとは\n「ピアサポート」とは、同じような経験や境遇を持つ人同士（ピア）の支え合いを表す言葉です。渋谷区では、不妊症・不育症の治療や流産・死産の経験を持つ人の悩みや不安、話したいことを、過去に同様の治療を経験したピア・カウンセラーがお聴きします。\n特定非営利活動法人Fine（ファイン）に委託して運営しています。\n\nオンライン通話相談\n内容\nWEB会議システム（Zoom）による音声通話により実施しています。顔を出さずに音声のみで相談できます。\n（注）相談料は無料ですが、相談に係る通信料は相談者の自己負担になります。\n\n対象者\n区内在住・在勤の人で、不妊症や不育症にお悩みの人、不妊症や不育症を治療中の人、流産や死産を経験された人、不育治療のやめ時に悩んでいる人など\nパートナーと二人での相談も可\n日時\n毎週木曜日　10時から13時まで\n毎週日曜日　13時から16時まで\n相談時間\n1組、1回40分まで\n\n申込方法\n予約不要です。次の手順でアクセスしてください。\n\nZoomアプリをインストール;https://explore.zoom.us/ja/products/meetings/してください。最新のアプリでご利用ください。インストールはZoomのホームページ（外部サイト）;https://explore.zoom.us/ja/products/meetings/をご覧ください。\n開設時間中に次のいずれかのURLにアクセスしてください。\n「ミーティングのホストは間もなくミーティングへの参加を許可します」と表示されたまま１分以内に参加を許可されない場合は、すでに回線が使われています。時間をおいてアクセスしなおしてください。なお、なるべくネットワーク環境が安定している静かな場所からアクセスしてください。\n\nオンライン相談アカウント１;https://zoom.us/j/6752496235?pwd=WmcwMGRuZkFyd25WdWhYK3dBOHpuQT09（Zoomが開きます）\nパーソナル ミーティングID　675 249 6235\n\nパスコード　0004281\n\nオンライン相談アカウント２;https://zoom.us/j/9720809645?pwd=cW0xRVlHWXQwRFYwOTNSeGpvelBpUT09（Zoomが開きます）\nパーソナル ミーティングID　972 080 9645\n\nパスコード　0004282\n\n面接相談\n内容\nWEB会議システム（Zoom）によるビデオ通話により実施しています。対面と同じように画面越しに顔を見ながら相談できます。\n（注）相談料は無料ですが、相談に係る通信料は相談者の自己負担になります。\n\n対象者\n区内在住・在勤の人で、不妊症や不育症にお悩みの人、不妊症や不育症を治療中の人、流産や死産を経験された人、不育治療のやめ時に悩んでいる人など\nパートナーと二人での相談も可\n日時\n毎月第1水曜日　10時から、11時から、12時から、13時から\n毎月第3水曜日　10時から、11時から、12時から、13時から\n毎月第2金曜日　18時から、19時から、20時から、21時から\n（注）祝日も実施しています。年末年始（12月29日から1月3日まで）は実施していません。\n\n相談時間\n1組、1回45分まで。\n\n申込方法\n事前予約制（先着順）です。\n\n面接予約のフォーム（外部サイト）;https://jpn01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fonl.la%2FJ1udRuA&data=05%7C01%7C%7C5459e1ce89d64ae33c7e08db30ad9043%7C04a1b2c4c1b0440a8e8d1742fc18657b%7C0%7C0%7C638157294236974298%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=pMa7jifQALbsVA2GRoXw8mZaJV%2FNtSWNxNRgW3yQlmU%3D&reserved=0からお申し込みください。\n申し込み後、受付確認メールが届いたら予約は完了です。受付確認メールは申し込みから最大3日程度かかります。3日以内に返信がない場合は、お手数ですが、メールでお問い合わせください。\nZoomアプリをインストール;https://explore.zoom.us/ja/products/meetings/してください。最新のアプリでご利用ください。インストールはZoomのホームページ（外部サイト）;https://explore.zoom.us/ja/products/meetings/をご覧ください。\n受付確認メールとは別に面接用アクセスURLを記載したメールをお送りしますので、当日の予約時間になったら接続し、ご相談ください。\nなお、なるべくネットワーク環境が安定している静かな場所からアクセスしてください。\n\n特定非営利法人Fine（ファイン）問い合わせメールアドレス　shibuya-peer@j-fine.jp",
+      "target": {
+        "targetPersons": "区内在住・在勤の人で、不妊症や不育症にお悩みの人、不妊症や不育症を治療中の人、流産や死産を経験された人、不育治療のやめ時に悩んでいる人など\nパートナーと二人での相談も可",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "WEB会議システム（Zoom）によるビデオ通話により実施しています。対面と同じように画面越しに顔を見ながら相談できます。\n（注）相談料は無料ですが、相談に係る通信料は相談者の自己負担になります。",
+        "monetarySupport": null,
+        "materiallySupport": "WEB会議システム（Zoom）によるビデオ通話により実施しています。対面と同じように画面越しに顔を見ながら相談できます。\n（注）相談料は無料ですが、相談に係る通信料は相談者の自己負担になります。"
+      },
+      "cost": null,
+      "costConditions": "相談料は無料ですが、相談に係る通信料は相談者の自己負担になります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "毎月第1水曜日　10時から、11時から、12時から、13時から\n毎月第3水曜日　10時から、11時から、12時から、13時から\n毎月第2金曜日　18時から、19時から、20時から、21時から\n（注）祝日も実施しています。年末年始（12月29日から1月3日まで）は実施していません。\n\n相談時間\n1組、1回45分まで。"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "年末年始（12月29日から1月3日まで）",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "事前予約制（先着順）です。\n\n面接予約のフォーム（外部サイト）;https://jpn01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fonl.la%2FJ1udRuA&data=05%7C01%7C%7C5459e1ce89d64ae33c7e08db30ad9043%7C04a1b2c4c1b0440a8e8d1742fc18657b%7C0%7C0%7C638157294236974298%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=pMa7jifQALbsVA2GRoXw8mZaJV%2FNtSWNxNRgW3yQlmU%3D&reserved=0からお申し込みください。\n申し込み後、受付確認メールが届いたら予約は完了です。受付確認メールは申し込みから最大3日程度かかります。3日以内に返信がない場合は、お手数ですが、メールでお問い合わせください。\nZoomアプリをインストール;https://explore.zoom.us/ja/products/meetings/してください。最新のアプリでご利用ください。インストールはZoomのホームページ（外部サイト）;https://explore.zoom.us/ja/products/meetings/をご覧ください。\n受付確認メールとは別に面接用アクセスURLを記載したメールをお送りしますので、当日の予約時間になったら接続し、ご相談ください。\nなお、なるべくネットワーク環境が安定している静かな場所からアクセスしてください。\n",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://explore.zoom.us/ja/products/meetings/",
+          "title": "Zoomのホームページ（外部サイト）"
+        },
+        {
+          "uri": "https://explore.zoom.us/ja/products/meetings/",
+          "title": "Zoomアプリをインストール"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kodomo/ninshin/funin-fuiku/peer_support.html",
+        "title": "不妊症・不育症ピアサポート事業"
+      },
+      "formLink": [
+        {
+          "uri": "https://jpn01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fonl.la%2FJ1udRuA&data=05%7C01%7C%7C5459e1ce89d64ae33c7e08db30ad9043%7C04a1b2c4c1b0440a8e8d1742fc18657b%7C0%7C0%7C638157294236974298%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=pMa7jifQALbsVA2GRoXw8mZaJV%2FNtSWNxNRgW3yQlmU%3D&reserved=0",
+          "title": "面接予約のフォーム（外部サイト）"
+        }
+      ],
+      "contact": {
+        "contactName": "中央保健相談所母子保健係",
+        "contactPhone": "03-3463-2409",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4944",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+2+UM47",
+        "organization": "9000020131130",
+        "compartment": "中央保健相談所母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-02-26",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "乳児健康診査（9・10か月）"
+      },
+      "summary": "乳児健診（3・4か月、6・7か月、9・10か月）を実施しています。",
+      "description": "子どもの健診・歯科相談\n子どもの健診、歯科相談の内容と日程に関する案内ページです。\n\n更新日\n\n2024年4月1日\n\n健康診査一覧\n歯科専門相談\n健康診査一覧\n乳児健診（3・4か月、6・7か月、9・10か月）、1歳6か月児健診、3歳児健診を実施しています。\n|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n \n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。",
+      "target": {
+        "targetPersons": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n \n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 10
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 9
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n \n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。"
+      },
+      "support": {
+        "description": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n \n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。",
+        "monetarySupport": null,
+        "materiallySupport": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n \n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf",
+        "implementationAddress": "【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "|健康診査の種類|通知|対象年齢|内容|実施場所|\n|:----|:----|:----|:----|:----|\n|乳児健康診査（3・4か月）|4か月になる月の前月中旬に通知<br>（6・7か月および9・10か月健診の受診票も同封）|3か月～4か月|診察・保健指導|指定の保健相談所|\n|乳児健康診査（6・7か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|6か月～7か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|乳児健康診査（9・10か月）|4か月になる月の前月中旬に通知<br>（3・4か月健診の通知に受診票を同封）|9か月～10か月|診察・保健指導|東京都内契約医療機関<br>【区内抜粋】実施機関一覧（PDF 151KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|診察・保健指導|渋谷区内契約医療機関<br>実施機関一覧（PDF 111KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf|\n|1歳6か月児健康診査（歯科健康診査）|1歳5か月に達する月の下旬に通知|1歳6か月～2歳未満|歯科健診・保健指導・心理|指定の保健相談所|\n|3歳児健康診査|3歳の誕生月の中旬を基準に通知（注）|3～4歳未満|診察・保健指導・尿検査・歯科健診・心理・聴力・視力|指定の保健相談所|\n \n（注）各保健相談所により異なります。詳しくは、各保健相談所の健診日程をご確認ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "「母子健康手帳」と「健康保険証」",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/84850219cbe04b2ebde27cea0872b202/kenshin_6.pdf",
+          "title": "【区内抜粋】実施機関一覧（PDF 151KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/2473a4e827e148eba154dbd2b7a983a6/kenshin_9.pdf",
+          "title": "恵比寿保健相談所の健診日程（PDF 305KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/a15c5fbacc9943c48ea30b457c56e882/kenshin_8.pdf",
+          "title": "中央保健相談所の健診日程（PDF 308KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/3c90e55771ed4a998d2488a399f3fcbb/kenshin_7.pdf",
+          "title": "実施機関一覧（PDF 111KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/e14798e3c02e4d57b81617efbe56cdeb/kenshin_10.pdf",
+          "title": "幡ヶ谷保健相談所の健診日程（PDF 294KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kodomo/kodomo-sodan/shinseiji-sodan/kenshin.html",
+        "title": "子どもの健診・歯科相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "中央保健相談所母子保健係,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係,中央保健相談所保健管理係",
+        "contactPhone": "03-3463-2409,03-3443-6251,03-3374-7591,03-3463-3097",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4944,FAX03-3443-6253,FAX03-3374-5985,FAX03-5458-4944",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+2+UM50",
+        "organization": "9000020131130",
+        "compartment": "中央保健相談所母子保健係,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係,中央保健相談所保健管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て支援拠点・地域子育て支援センター",
+        "shortName": "かぞくのアトリエ（こども・親子支援センター）"
+      },
+      "summary": "こども・親子支援センター（かぞくのアトリエ）は、子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+      "description": "子育ての楽しみを共有し、こどもの感性や創造力を育む交流の場であり、乳幼児と親子・小学生みんなの居場所となる、こども・親子支援センターです。月齢、年齢に合わせたプログラムを提供し、各分野で活躍するクリエーターを講師に招いたさまざまなワークショップを毎月10～15本程度開催しています。\n\n【施設内容】\n・2階　おやこルーム、アトリエ\n・1階　おやこサロン\n・地下1階　プレイルーム（注）\n（注）小さな体育館タイプのプレイルームです。なお、時間帯による利用できる年齢や遊具が異なります。（未就学児：9時30分～14時、小学生：14時30分～17時30分）\n\n【プログラム】\n・おやこきょうしつ\n0～3歳児を対象とした、全5回の年齢別の教室です。からだあそびやおとあそび、ものづくりなどを行います。（要予約）\n・アートスクール\n食・ものづくり・体操・音楽・写真など、さまざまな分野で活躍するクリエイターを講師に迎え、多彩なテーマで講座を開催します。（要予約、材料費実費）\n（注）おやこきょうしつ、アートスクールへの参加は予約が必要です。予約方法や内容などは、かぞくのアトリエ専用サイト（外部サイト）;http://kazoku-no-atelier.com/をご覧になるか、かぞくのアトリエ（電話：03-6276-5521）へお問い合わせください。\n\n【交通】\n・小田急線「南新宿駅」徒歩2分\n・JR山手線・総武線「代々木駅（西口）」徒歩7分\n・都営大江戸線「代々木駅（A2出口）」徒歩7分（ベビーカーは昇降機があるA3出口推奨）\n・ハチ公バス神宮の杜ルート（神宮前・千駄ヶ谷ルート）「20代々木一丁目」徒歩4分\n・京王バス[宿51]系統「代々木三丁目」徒歩8分\n（注）施設周辺の道路はたいへん幅が狭いため、お車、タクシーでのご来場・送迎はご遠慮ください。",
+      "target": {
+        "targetPersons": "原則、渋谷区在住の未就学児および小学生とその保護者\n（注）当日の状況により、渋谷区在住でない人も利用できます。\n（注）未就学児は保護者の付き添いが必要です。（保育機能はありません）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 0
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "0歳児～小学生"
+      },
+      "support": {
+        "description": "子育ての楽しみを共有し、こどもの感性や創造力を育む交流の場であり、乳幼児と親子・小学生みんなの居場所となる、こども・親子支援センターです。月齢、年齢に合わせたプログラムを提供し、各分野で活躍するクリエーターを講師に招いたさまざまなワークショップを毎月10～15本程度開催しています。",
+        "monetarySupport": null,
+        "materiallySupport": "【施設内容】\n・2階　おやこルーム、アトリエ\n・1階　おやこサロン\n・地下1階　プレイルーム（注）\n（注）小さな体育館タイプのプレイルームです。なお、時間帯による利用できる年齢や遊具が異なります。（未就学児：9時30分～14時、小学生：14時30分～17時30分）"
+      },
+      "cost": null,
+      "costConditions": "無料\n（注）アートスクールの参加は材料費がかかります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "かぞくのアトリエ（こども・親子支援センター）",
+        "implementationAddress": "渋谷区代々木2-32-5"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:30",
+        "toHM": "17:30",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "日曜日、月曜日、祝日、年末年始（12月29日～1月3日）",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "予約方法や内容などは、かぞくのアトリエ専用サイト（外部サイト）;http://kazoku-no-atelier.com/をご覧になるか、かぞくのアトリエ（電話：03-6276-5521）へお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://kazoku-no-atelier.com/",
+          "title": "かぞくのアトリエ（こども・親子支援センター）（外部サイト）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/kosodate/kosodate-shisetsu/kazoku_no_atelier.html",
+        "title": "かぞくのアトリエ（こども・親子支援センター）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども青少年課子ども青少年育成係",
+        "contactPhone": "03-3463-2578",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4942",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+3+UM110",
+        "organization": "9000020131130",
+        "compartment": "子ども青少年課子ども青少年育成係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-17",
+      "odInformation": {
+        "updateDate": "2024-06-20",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法、児童福祉法",
+        "regulationArticle": "第6条の3第6項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊娠・出産に関する教室・講習会",
+        "shortName": "母乳相談"
+      },
+      "summary": "授乳に関する相談（集団および個別相談）を助産師がお受けします。",
+      "description": "母乳相談\n母乳相談に関する案内ページです。\n\n更新日\n\n2024年3月4日\n\n対象\n日時・場所\n持ち物\n申し込み\n授乳に関する相談（集団および個別相談）を助産師がお受けします。乳房の自己管理法を学びましょう。（事前申込は不要です）\n令和6年度 母乳相談のご案内（PDF 480KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/5df16d93fa894d3c8a64361393556056/R6bonyusoudan.pdf\nPDFファイルを見るには、Adobe社から無償配布されている Adobe Reader などのソフトウェアが必要です。 詳しくは、PDFファイルをご覧になるにはのページを参照してください。\n\n対象\n生後1～4か月（5か月未満）までの乳児を育てている母親（赤ちゃんと一緒におこしください）\n\n日時・場所\n日程表\nhttps://www.city.shibuya.tokyo.jp/kodomo/kodomo-sodan/shinseiji-sodan/bonyu_soudan.html\n持ち物\n母子健康手帳、バスタオル\n\n申し込み\n当日会場で（受付時間は、それぞれ終了の30分前まで）",
+      "target": {
+        "targetPersons": "生後1～4か月（5か月未満）までの乳児を育てている母親（赤ちゃんと一緒におこしください）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 1
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後1～4か月（5か月未満）までの乳児"
+      },
+      "support": {
+        "description": "授乳に関する相談（集団および個別相談）を助産師がお受けします。",
+        "monetarySupport": null,
+        "materiallySupport": "授乳に関する相談（集団および個別相談）を助産師がお受けします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "https://www.city.shibuya.tokyo.jp/kodomo/kodomo-sodan/shinseiji-sodan/bonyu_soudan.html"
+      },
+      "implementationPlace": {
+        "implementationName": "https://www.city.shibuya.tokyo.jp/kodomo/kodomo-sodan/shinseiji-sodan/bonyu_soudan.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "当日会場で（受付時間は、それぞれ終了の30分前まで）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳、バスタオル",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/5df16d93fa894d3c8a64361393556056/R6bonyusoudan.pdf",
+          "title": "令和6年度 母乳相談のご案内（PDF 480KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kodomo/kodomo-sodan/shinseiji-sodan/bonyu_soudan.html",
+        "title": "母乳相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "中央保健相談所保健サービス係,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係",
+        "contactPhone": "03-3463-2439,03-3443-6251,03-3374-7591",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4944,FAX03-3443-6253,FAX03-3374-5985",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+3+UM33",
+        "organization": "9000020131130",
+        "compartment": "中央保健相談所保健サービス係,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-04",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て支援拠点・地域子育て支援センター",
+        "shortName": "子ども家庭支援センター"
+      },
+      "summary": "渋谷区子ども家庭支援センターは、区内在住の18歳未満の子どもとその家庭に関する相談・支援を行う機関です。",
+      "description": "子ども家庭支援センター\n区内在住の18歳未満の子どもとその家庭に関する相談・支援を行う機関です。\n\n更新日\n\n2024年4月1日\n\n電車・地下鉄でお越しの人\nバスでお越しの人\n相談案内\n子育て支援\n要保護児童対策地域協議会\n住所\n\n〒150-0042 渋谷区宇田川町5-6　渋谷区子育てネウボラ8階\n電話\n\n03-3463-3748\nFAX\n\n03-5458-4964\n時間\n\n9時～17時\n休業日：土曜日、日曜日、祝・休日、年末年始（12月29日～1月3日）\n\nGoogle Mapで見る;https://www.google.co.jp/maps/place/%E3%80%92150-0042+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E5%AE%87%E7%94%B0%E5%B7%9D%E7%94%BA%EF%BC%95%E2%88%92%EF%BC%96/@35.6628649,139.6956224,17z/data=!3m1!4b1!4m6!3m5!1s0x60188dc640740535:0xd5672898e195008d!8m2!3d35.6628649!4d139.6981973!16s%2Fg%2F11ngstv_l0?hl=ja \n電車・地下鉄でお越しの人\nJR 渋谷駅\n|JR山手線|徒歩10分|\n|JR埼京線|徒歩10分|\n|東急田園都市線|徒歩10分|\n|東急東横線|徒歩10分|\n|京王井の頭線|徒歩10分|\n\n \n東京メトロ 渋谷駅\n|東京メトロ 銀座線|徒歩11分|\n|東京メトロ 半蔵門線|徒歩11分|\n|東京メトロ 副都心線|徒歩11分|\n\nバスでお越しの人\n|渋谷区役所前|徒歩3分|\n|渋谷区役所|徒歩3分|\n|神南一丁目|徒歩5分|\n\n（注）祝日・12月29日～1月3日は、休館です。\n\n相談案内\n18歳未満の子どもとその家庭に関する相談を行なっています。 困っていること、悩んでいること、どんなことでも気軽に相談して下さい。 相談内容に合った、他の専門機関と一緒に考えます。\n（注）プライバシーは守りますので、安心して相談して下さい。\n\n対象\n原則として、区内在住で18歳未満の子どもと保護者\n\n相談専用電話\n0120-135-415（フリーダイヤル）",
+      "target": {
+        "targetPersons": "原則として、区内在住で18歳未満の子どもと保護者",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "18歳未満の子ども"
+      },
+      "support": {
+        "description": "18歳未満の子どもとその家庭に関する相談を行なっています。 困っていること、悩んでいること、どんなことでも気軽に相談して下さい。 相談内容に合った、他の専門機関と一緒に考えます。\n（注）プライバシーは守りますので、安心して相談して下さい。",
+        "monetarySupport": null,
+        "materiallySupport": "18歳未満の子どもとその家庭に関する相談を行なっています。 困っていること、悩んでいること、どんなことでも気軽に相談して下さい。 相談内容に合った、他の専門機関と一緒に考えます。\n（注）プライバシーは守りますので、安心して相談して下さい。"
+      },
+      "cost": null,
+      "costConditions": "（注）施設を利用するためには、実施される各プログラムへの事前申し込みが必要です。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "子ども家庭支援センター",
+        "implementationAddress": "渋谷区宇田川町5-6　渋谷区子育てネウボラ8階"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "土曜日、日曜日、祝・休日、年末年始（12月29日～1月3日）",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/shisetsu/kosodate/kosodate-shisetsu/ch_fm_shien.html",
+        "title": "子ども家庭支援センター"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭支援センター子ども家庭相談係",
+        "contactPhone": "03-3463-3748",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+5+UM110",
+        "organization": "9000020131130",
+        "compartment": "子ども家庭支援センター子ども家庭相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法、児童福祉法",
+        "regulationArticle": "第6条の3第6項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

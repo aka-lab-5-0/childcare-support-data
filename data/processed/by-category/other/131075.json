@@ -1,0 +1,1125 @@
+{
+  "version": "2025-07-09T05:55:17.790Z",
+  "areaCode": "131075",
+  "areaName": "墨田区",
+  "category": "other",
+  "count": 8,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "図書館の児童サービス（ブックスタートなど）",
+        "shortName": "図書館の児童サービス"
+      },
+      "summary": "発達段階に応じた読書習慣の形成を図るために家庭、地域、学校、図書館の連携により、子供の読書活動の機会の充実と啓発を行います。",
+      "description": "図書館の児童サービス\n\n絵本や紙芝居を使ったお話し会など、いろいろな行事を行っています。\n詳しい内容等は、「墨田区立図書館」ウェブサイトをご覧ください。\n\n関連リンク\n墨田区立図書館ウェブサイト－ぎょうじとおしらせ（外部サイト）;https://www.library.sumida.tokyo.jp/kidsinfo?57\n墨田区立図書館ウェブサイト－こどもホームページ（外部サイト）;https://www.library.sumida.tokyo.jp/kidsindex?76\n墨田区立図書館ウェブサイト－児童サービス（外部サイト）;https://www.library.sumida.tokyo.jp/uguide?11&pid=22",
+      "target": {
+        "targetPersons": "18歳以下の子ども",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "絵本や紙芝居を使ったお話し会など、いろいろな行事を行っています。\n詳しい内容等は、「墨田区立図書館」ウェブサイトをご覧ください。",
+        "monetarySupport": null,
+        "materiallySupport": "絵本や紙芝居を使ったお話し会など、いろいろな行事を行っています。\n詳しい内容等は、「墨田区立図書館」ウェブサイトをご覧ください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.library.sumida.tokyo.jp/uguide?11&pid=22",
+          "title": "墨田区立図書館ウェブサイト－児童サービス（外部サイト）"
+        },
+        {
+          "uri": "https://www.library.sumida.tokyo.jp/kidsinfo?57",
+          "title": "墨田区立図書館ウェブサイト－ぎょうじとおしらせ（外部サイト）"
+        },
+        {
+          "uri": "https://www.library.sumida.tokyo.jp/kidsindex?76",
+          "title": "墨田区立図書館ウェブサイト－こどもホームページ（外部サイト）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.sumida.lg.jp/sisetu_info/tamokuteki/library/riyou/jidou.html",
+        "title": "図書館の児童サービス"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "墨田区立ひきふね図書館",
+        "contactPhone": "03-5655-2350",
+        "contactEx": null,
+        "contactEmail": "HIKIFUNE@city.sumida.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1310046",
+        "contactAddress": "墨田区京島1-36-5"
+      },
+      "area": {
+        "areaCode": "131075;墨田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131075+1+UM105",
+        "organization": "6000020131075",
+        "compartment": "ひきふね図書館",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-23",
+        "updater": "墨田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "墨田区子ども読書活動推進条例",
+        "regulationArticle": "第12条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "児童館",
+        "shortName": "児童館"
+      },
+      "summary": "児童館は、18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n墨田区の児童館には、小学校就学前のお子さんが安心して遊べるスペースがあります。またお子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、児童館のホームページなどでお知らせしています。）",
+      "description": "児童館\n\n墨田区児童館リニューアル計画（仮称）策定支援業務委託プロポーザルを実施します;https://www.city.sumida.lg.jp/sangyo_jigyosya/keiyaku_nyuusatu/proposal/proposal_bosyuu/zidoukanrenewal.html\n児童館・コミュニティ会館児童室に来館・退館受付システム「すみチル」を導入します。;https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/sumichil.html\n墨田児童会館;https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/sumida.html\n八広児童館「ぽかぽか」;https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/sinyahiji_open.html\n江東橋児童館;https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/koutoubasi.html\n東向島児童館;https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/higasi_mukouzima.html\n東向島児童館分館「キラむこ」;https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/higamuko_bunkan.html\n立花児童館;https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/tatibana.html\n立川児童館;https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/tatekawa.html\n文花児童館;https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/bunka.html\n中川児童館;https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/nakagawa.html\n外手児童館;https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/sotode.html\n八広はなみずき児童館;https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/yahiro_hanamizuki.html\nさくら橋コミュニティセンター;https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/sakurabasi.html\n児童館第三者評価;https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/jidokan_3hyoka.html\n\nそのほかの子どもの施設\n社会福祉会館（幼児室・児童図書室・図工室・ゲーム室）;https://www.city.sumida.lg.jp/sisetu_info/hukusisisetu/syakaihukusikaikan/index.html\nコミュニティ会館（児童室）;https://www.city.sumida.lg.jp/sisetu_info/tamokuteki/communitykaikan/index.html\n堤通公園内交通公園;https://www.city.sumida.lg.jp/sisetu_info/kouen/index.html\n",
+      "target": {
+        "targetPersons": "0歳から18歳未満の児童と保護者",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "0歳から18歳未満の児童"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.sumida.lg.jp/sisetu_info/hukusisisetu/syakaihukusikaikan/index.html",
+          "title": "社会福祉会館（幼児室・児童図書室・図工室・ゲーム室）"
+        },
+        {
+          "uri": "https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/tatibana.html",
+          "title": "立花児童館"
+        },
+        {
+          "uri": "https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/nakagawa.html",
+          "title": "中川児童館"
+        },
+        {
+          "uri": "https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/tatekawa.html",
+          "title": "立川児童館"
+        },
+        {
+          "uri": "https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/yahiro_hanamizuki.html",
+          "title": "八広はなみずき児童館"
+        },
+        {
+          "uri": "https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/sumichil.html",
+          "title": "児童館・コミュニティ会館児童室に来館・退館受付システム「すみチル」を導入します。"
+        },
+        {
+          "uri": "https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/higamuko_bunkan.html",
+          "title": "東向島児童館分館「キラむこ」"
+        },
+        {
+          "uri": "https://www.city.sumida.lg.jp/sisetu_info/kouen/index.html",
+          "title": "堤通公園内交通公園"
+        },
+        {
+          "uri": "https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/sotode.html",
+          "title": "外手児童館"
+        },
+        {
+          "uri": "https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/jidokan_3hyoka.html",
+          "title": "児童館第三者評価"
+        },
+        {
+          "uri": "https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/bunka.html",
+          "title": "文花児童館"
+        },
+        {
+          "uri": "https://www.city.sumida.lg.jp/sisetu_info/tamokuteki/communitykaikan/index.html",
+          "title": "コミュニティ会館（児童室）"
+        },
+        {
+          "uri": "https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/higasi_mukouzima.html",
+          "title": "東向島児童館"
+        },
+        {
+          "uri": "https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/sumida.html",
+          "title": "墨田児童会館"
+        },
+        {
+          "uri": "https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/koutoubasi.html",
+          "title": "江東橋児童館"
+        },
+        {
+          "uri": "https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/sakurabasi.html",
+          "title": "さくら橋コミュニティセンター"
+        },
+        {
+          "uri": "https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/sinyahiji_open.html",
+          "title": "八広児童館「ぽかぽか」"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.sumida.lg.jp/sisetu_info/kosodate/zidoukan/index.html",
+        "title": "児童館"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て政策課　子育て政策担当",
+        "contactPhone": "03-5608-6195",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131075;墨田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131075+1+UM108",
+        "organization": "6000020131075",
+        "compartment": "子育て政策課　子育て政策担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "墨田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "マタニティマーク",
+        "shortName": "マタニティマーク"
+      },
+      "summary": "墨田区では、妊娠の届出の際に、母子健康手帳と共にマタニティマーク入りキーホルダーをお渡ししています。",
+      "description": "妊産婦の方への思いやりをお願いします「マタニティマーク」\n\n厚生労働省では、妊産婦にやさしい環境づくりの一環として、妊娠初期の妊婦さんが周囲に妊娠していることを知らせるための「マタニティマーク」を公表しています。\n妊娠中、特に初期は、赤ちゃんの成長はもちろん、お母さんの健康を維持するためのとても大切な時期です。しかし、外見からは妊婦であるかどうか判断しにくかったり、つらい症状がある場合もあります。\nバスや電車内、階段付近、飲食店、職場など、街でこのマークを身に付けている妊婦さんやお母さんを見かけたら、皆さんからの思いやりのある心遣いと小さな勇気ある行動をお願いします。\n未来のお母さんと赤ちゃんをみんなのやさしさでサポートしましょう。\n\n墨田区では、親子健康手帳（母子健康手帳）の交付時に、妊婦さんへ「マタニティーマーク（ボールチェーンタイプ）」をお渡ししています。;https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/ninshin/ninsintodoke.html\n妊産婦さんへのやさしいサポートの例\n・電車、バス等では、優先して席を譲ったり、乗り降りの時に押されたりしないよう気配りを。\n・手がふさがっているときや階段などでは、手荷物を持ってあげたり、ベビーカーをたたんであげたりなどの協力を。\n・エレベーターが込み合っているときは、妊産婦さんやベビーカーの方を優先的に。\n・妊産婦さん、赤ちゃん、子どもの近くでは、たばこは吸わない。\n・「何かお手伝いしましょうか？」などのやさしい一言を。\nさりげないやさしさと思いやりが、ママたちを励ましてくれます。\n関連情報\n厚生労働省：首都圏の鉄道事業者20社局によるマタニティマークの配布について（外部サイト）;http://www.mhlw.go.jp/bunya/kodomo/boshi-hoken12/\n首都圏の駅で配布しているマタニティマーク（ボールチェーンタイプ）の配布場所・実物イメージなどをお知らせしています。\n厚生労働省：マタニティマークポスターについて（外部サイト）;http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/kodomo_kosodate/boshi-hoken/boshi-hoken04/index.html\nマタニティマークのＰＲポスターとリーフレットがダウンロードできます。企業、職場、お店などで、妊産婦にやさしい環境づくりにご活用ください。\n厚生労働省：マタニティマークをとおした「妊産婦にやさしい環境づくり」の推進について（外部サイト）;http://www.mhlw.go.jp/houdou/2006/03/h0301-1.html\nマタニティマークについての厚生労働省の発表内容をお知らせしています。　",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "墨田区では、親子健康手帳（母子健康手帳）の交付時に、妊婦さんへ「マタニティーマーク（ボールチェーンタイプ）」をお渡ししています。;https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/ninshin/ninsintodoke.html",
+        "monetarySupport": null,
+        "materiallySupport": "墨田区では、親子健康手帳（母子健康手帳）の交付時に、妊婦さんへ「マタニティーマーク（ボールチェーンタイプ）」をお渡ししています。;https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/ninshin/ninsintodoke.html"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/ninshin/maternity20151203.html",
+          "title": "墨田区では、親子健康手帳（母子健康手帳）の交付時に、妊婦さんへ「マタニティーマーク（ボールチェーンタイプ）」をお渡ししています。"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.sumida.lg.jp/kenko_fukushi/kenko/oyako_kenko/ninshin/maternity20151203.html",
+        "title": "妊産婦の方への思いやりをお願いします「マタニティマーク」"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康推進課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131075;墨田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131075+1+UM2",
+        "organization": "6000020131075",
+        "compartment": "健康推進課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2015-12-07",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "墨田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "母子家庭等就業・自立支援センター",
+        "shortName": "ひとり親家庭就業・自立支援事業"
+      },
+      "summary": "就職や転職で生活を安定させたい方に、それぞれの方の状況に合わせて自立支援プログラムを作成し、目標達成に向けて支援を行っています。",
+      "description": "就職や転職で生活を安定させたい方に、それぞれの方の状況に合わせて自立支援プログラムを作成し、目標達成に向けて支援を行っています。",
+      "target": {
+        "targetPersons": "区内に住所のあるひとり親家庭の父または母で、次の要件をすべて満たす方\n・20歳未満のお子さんを扶養している\n・生活保護を受給していない",
+        "lessThan": {
+          "targetAge": 20,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "就労支援相談員が、就職・転職・資格取得に関するご相談を個別にお受けします",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "相談費用は無料です。",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/teate_jyosei_shien/hitori_oya/ta802000202203111541.html",
+          "title": "ひとり親家庭の就業支援"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/teate_jyosei_shien/hitori_oya/ta802000202203111541.html",
+        "title": "ひとり親家庭の就業支援"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "生活福祉課",
+        "contactPhone": "03-5608-1295",
+        "contactEx": null,
+        "contactEmail": "seikatuhukusi@city.sumida.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1308640",
+        "contactAddress": "墨田区吾妻橋一丁目23番20号　区役所３階"
+      },
+      "area": {
+        "areaCode": "131075;墨田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131075+1+UM5027",
+        "organization": "6000020131075",
+        "compartment": "生活福祉課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2025/03/03",
+        "updater": "墨田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+        "shortName": "産前産後期間の国民健康保険料の免除"
+      },
+      "summary": "国民健康保険の出産する被保険者に係る産前産後期間の一定期間の均等割保険料と所得割保険料が免除されます。",
+      "description": "産前産後期間の国民健康保険料の免除について\n\n令和6年1月より、産前産後期間の国民健康保険料が届出等により免除されます。\n\n対象者\n令和5年11月1日以降に出産を予定している、または出産した国民健康保険被保険者（出産被保険者）の方\n※妊娠85日以上の分娩（死産・流産・早産及び人工妊娠中絶の場合を含む）が対象です。\n\n免除される期間\n単胎妊娠・出産の場合\n出産予定日または出産日が属する月の前月から4か月間\n\n|3か月前|2か月前|1か月前<br>免除|出産(予定)月<br>免除|1か月後<br>免除|2か月後<br>免除|3か月後|\n\n多胎妊娠・出産の場合\n出産予定日または出産日が属する月の3か月前から6か月間\n\n|3か月前<br>免除|2か月前<br>免除|1か月前<br>免除|出産(予定)月<br>免除|1か月後<br>免除|2か月後<br>免除|3か月後|\n\n免除額\n出産被保険者の所得割額及び均等割額※の12分の1に免除対象月数を乗じた額\n※均等割額の減額が適用されている場合は、減額後の金額\n\n注意事項\n令和5年度は、産前産後期間のうち令和6年1月以降の期間が免除対象となります。\n免除対象の期間中に資格の異動（転出入、社会保険加入等）が生じた場合は、該当する月数で計算します。\n国民健康保険料の限度額を超過している世帯では、免除を適用しても金額が変わらない場合があります。\n届出の時期\n出産予定日の6か月前から届出可能です。出産後の届出も可能です。\n\n届出窓口\n国保年金課 こくほ資格係（区役所2階）\n\n必要書類\n産前産後期間に係る国民健康保険料免除届出書\n次の窓口にて配布しています。\n\n届出窓口（国保年金課こくほ資格係／区役所2階）\n窓口課戸籍係（区役所1階）\n各出張所\n向島保健センター、本所保健センター\n子育て支援総合センター\n以下より印刷してお使いいただくこともできます。\n\n産前産後期間に係る国民健康保険料免除届出書（PDF：35KB）;https://www.city.sumida.lg.jp/kurashi/kenkouhoken/kokuminkenkouhoken/genmen/sanzensango.files/sanzensango-menjo.pdf\n\n【記入例】産前産後期間に係る国民健康保険料免除届出書（PDF：47KB）;https://www.city.sumida.lg.jp/kurashi/kenkouhoken/kokuminkenkouhoken/genmen/sanzensango.files/rei-sanzensango-menjo.pdf\n\n親子（母子）健康手帳（多胎妊娠の場合は、該当するお子様の人数分必要です。）\n※出産後の届出で別世帯の子の場合は、親子関係を明らかにする書類が必要です。\n\n郵送による届出について\n郵送による届出も可能です。以下の提出書類を郵送先までお送りください。\n\n提出書類\n産前産後期間に係る国民健康保険料免除届出書\n親子（母子）健康手帳の表紙のコピー\n親子（母子）健康手帳の出産予定日または出産日が確認できるページのコピー\n申請者の顔写真付き本人確認書類のコピー\n※多胎妊娠の場合、親子（母子）健康手帳のコピーは該当するお子様の人数分必要です。\n\n郵送先\n〒130-8640\n墨田区吾妻橋1-23-20\n墨田区役所 国保年金課 こくほ資格係\n\n注意事項\nお送りいただいた書類は、原則として返却いたしません。\n提出書類に不足や不備がある場合は、追加提出等を求めることがあります。\n電子申請による受付\nLoGoフォームによる電子申請もご利用いただけます。\n「国民健康保険料の産前産後期間の免除」（LoGoフォーム）（外部サイト）;https://logoform.jp/form/DnDq/517746のページへ\n\n電子申請をはじめて利用する方\n「電子申請サービス」;https://www.city.sumida.lg.jp/online_service/e_sinsei/index.htmlのページへ\n\n問合せ先\n国保年金課 こくほ資格係\n電話 03-5608-6121、03-5608-6122",
+      "target": {
+        "targetPersons": "令和5年11月1日以降に出産を予定している、または出産した国民健康保険被保険者（出産被保険者）の方\n※妊娠85日以上の分娩（死産・流産・早産及び人工妊娠中絶の場合を含む）が対象です。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "国民健康保険被保険者が出産する際、出産予定月または出産月の前月から4か月間（多胎妊娠の場合は3か月前から6か月間）の国民健康保険料が免除されます。妊娠85日（4か月）以上の分娩が対象で、死産・流産・早産及び人工妊娠中絶の場合を含みます。\n※令和5年11月1日以降に出産した方が対象です。",
+        "monetarySupport": "国民健康保険被保険者が出産する際、出産予定月または出産月の前月から4か月間（多胎妊娠の場合は3か月前から6か月間）の国民健康保険料が免除されます。妊娠85日（4か月）以上の分娩が対象で、死産・流産・早産及び人工妊娠中絶の場合を含みます。\n※令和5年11月1日以降に出産した方が対象です。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "令和5年11月1日以降に出産を予定している、または出産した国民健康保険被保険者（出産被保険者）の方\n※妊娠85日以上の分娩（死産・流産・早産及び人工妊娠中絶の場合を含む）が対象です。",
+      "procedureMethod": "国保年金課こくほ資格係窓口で申請してください。申請には、産前産後期間に係る国民健康保険料免除届出書、親子（母子）健康手帳、国民健康保険証が必要です。なお、郵送または電子申請による届出も可能です。詳しくはお問合せください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産予定日の6か月前から届出可能です。出産後の届出も可能です。"
+      },
+      "electronicSubmission": true,
+      "belongings": "産前産後期間に係る国民健康保険料免除届出書、国民健康保険証、親子（母子）健康手帳（多胎妊娠の場合は、該当するお子様の人数分必要です。）、国民健康保険証\n※出産後の届出で別世帯の子の場合は、親子関係を明らかにする書類が必要です。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "国保年金課 こくほ資格係（区役所2階）\n03-5608-6121、03-5608-6122",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.sumida.lg.jp/online_service/e_sinsei/index.html",
+          "title": "「電子申請サービス」"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.sumida.lg.jp/kurashi/kenkouhoken/kokuminkenkouhoken/genmen/sanzensango.html",
+        "title": "産前産後期間の国民健康保険料の免除について"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/DnDq/517746",
+          "title": "「国民健康保険料の産前産後期間の免除」（LoGoフォーム）（外部サイト）"
+        }
+      ],
+      "contact": {
+        "contactName": "国保年金課 こくほ資格係",
+        "contactPhone": "03-5608-6121,03-5608-6122",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131075;墨田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131075+1+UM5035",
+        "organization": "6000020131075",
+        "compartment": "国保年金課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-15",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "墨田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民健康保険法、墨田区国民健康保険条例",
+        "regulationArticle": "第72条の3の3、第19条の5"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "児童遊園",
+        "shortName": "墨田区立児童遊園"
+      },
+      "summary": "お子さんに健全な遊びを提供するため、墨田区の児童遊園の一覧を、墨田区サイトなどでお知らせしています。",
+      "description": "https://www.city.sumida.lg.jp/sisetu_info/kouen/kunai_park_annai/sumida_zidouteien/index.html",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.sumida.lg.jp/sisetu_info/kouen/kunai_park_annai/sumida_zidouteien/index.html",
+        "title": "墨田区立児童遊園"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131075;墨田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131075+1+UM576",
+        "organization": "6000020131075",
+        "compartment": null,
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "墨田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後期間の国民年金保険料免除",
+        "shortName": "産前産後期間の国民年金保険料の免除"
+      },
+      "summary": "国民年金の第1号被保険者が出産する場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+      "description": "産前産後期間の保険料免除\n\n産前産後期間の国民年金保険料免除制度\n国民年金第1号被保険者が出産する際、出産予定月または出産月の前月から4か月間の国民年金保険料が免除されます（多胎妊娠の場合は出産予定月または出産月の3か月前から6か月間）。\nなお、出産とは妊娠85日（4か月）以上の出産をいいます。（死産、流産、早産および人工妊娠中絶された方を含む）。\n産前産後の免除期間は、保険料を納付したものとして老齢基礎年金の受給額に反映されます。\nまた、産前産後期間は 付加保険料の納付ができます。（別途、申出が必要です。）\n\n対象\n国民年金第1号被保険者で出産日が平成31年2月1日以降の方\n\n届出開始日\n平成31年4月1日\n※届出の際には、母子健康手帳及び年金手帳（基礎年金番号通知書）をご持参ください。\n※届出は郵送でも受け付けています。出産前後により確認事項が異なりますので、詳細はお問い合わせください。\n届出用紙や記入例、必要な添付書類はこちら（外部サイト）;https://www.nenkin.go.jp/service/kokunen/menjo/20180810.htmlからご確認ください。\n\n届出時期\n出産予定日の6か月前から届出可能ですので、速やかに届出てください。\n\n届出・問い合わせ先\n国保年金課 国民年金係（区役所2階）\n電話：03-5608-6130\n\n関連リンク\n国民年金保険料の産前産後期間の免除制度（日本年金機構）（外部サイト）;https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html\n\n付加保険料の納付（日本年金機構）（外部サイト）;https://www.nenkin.go.jp/service/kokunen/hokenryo/fukanofu.html\n\n墨田年金事務所（外部サイト）;https://www.nenkin.go.jp/section/soudan/tokyo/sumida.html",
+      "target": {
+        "targetPersons": "国民年金第1号被保険者で出産日が平成31年2月1日以降の方\n※妊娠85日以上の分娩（死産・流産・早産及び人工妊娠中絶の場合を含む）が対象です。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "国民年金第1号被保険者が出産する際、出産予定月または出産月の前月から4か月間の国民年金保険料が免除されます（多胎妊娠の場合は出産予定月または出産月の3か月前から6か月間）。\nなお、出産とは妊娠85日（4か月）以上の出産をいいます。（死産、流産、早産および人工妊娠中絶された方を含む）。\n産前産後の免除期間は、保険料を納付したものとして老齢基礎年金の受給額に反映されます。\nまた、産前産後期間は 付加保険料の納付ができます。（別途、申出が必要です。）",
+        "monetarySupport": "国民年金第1号被保険者が出産する際、出産予定月または出産月の前月から4か月間の国民年金保険料が免除されます（多胎妊娠の場合は出産予定月または出産月の3か月前から6か月間）。\nなお、出産とは妊娠85日（4か月）以上の出産をいいます。（死産、流産、早産および人工妊娠中絶された方を含む）。\n産前産後の免除期間は、保険料を納付したものとして老齢基礎年金の受給額に反映されます。\nまた、産前産後期間は 付加保険料の納付ができます。（別途、申出が必要です。）",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": "国民年金第1号被保険者で出産日が平成31年2月1日以降の方",
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "届出開始日\n平成31年4月1日\n※届出の際には、母子健康手帳及び年金手帳（基礎年金番号通知書）をご持参ください。\n※届出は郵送でも受け付けています。出産前後により確認事項が異なりますので、詳細はお問い合わせください。\n届出用紙や記入例、必要な添付書類はこちら（外部サイト）;https://www.nenkin.go.jp/service/kokunen/menjo/20180810.htmlからご確認ください。\n\n届出時期\n出産予定日の6か月前から届出可能ですので、速やかに届出てください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産予定日の6か月前から届出可能ですので、速やかに届出てください。"
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳及び年金手帳（基礎年金番号通知書）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "国保年金課 国民年金係（区役所2階）\n電話：03-5608-6130",
+      "relatedLink": [
+        {
+          "uri": "https://www.nenkin.go.jp/section/soudan/tokyo/sumida.html",
+          "title": "墨田年金事務所（外部サイト）"
+        },
+        {
+          "uri": "https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html",
+          "title": "こちら（外部サイト）"
+        },
+        {
+          "uri": "https://www.nenkin.go.jp/service/kokunen/hokenryo/fukanofu.html",
+          "title": "付加保険料の納付（日本年金機構）（外部サイト）"
+        },
+        {
+          "uri": "https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html",
+          "title": "国民年金保険料の産前産後期間の免除制度（日本年金機構）（外部サイト）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.sumida.lg.jp/kurashi/kokuminnenkin/genmenyuuyo/sanzen-sango.html",
+        "title": "産前産後期間の保険料免除"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "国保年金課 国民年金係（区役所2階）",
+        "contactPhone": "03-5608-6130",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131075;墨田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131075+1+UM793",
+        "organization": "6000020131075",
+        "compartment": "国保年金課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-15",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "墨田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民年金法",
+        "regulationArticle": "第88条の2（保険料の納付義務）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "016"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関するサポート",
+        "shortName": "家事・育児サポーター事業"
+      },
+      "summary": "妊娠中の方や乳幼児期（2歳まで）のお子さんを育てるご家庭に対し、ご自宅へサポーターを派遣して家事・育児のサービスを実施することにより、身体的・精神的負担を軽減し、妊娠期及び産後も安心して子育てできるよう支援する事業です。",
+      "description": "墨田区と提携したサポーター派遣事業者の家事・育児サービスを利用する際に、墨田区が交付する「利用券」をサポーター派遣事業者へ提出することで、一定の負担でご利用いただくことができます。（利用者が負担する利用料金は、サポーター派遣事業者ごとに異なります。）サービスを利用する事由は問いません。家事または育児の支援が必要な時に利用できます。ただし、妊娠期の利用は妊婦の方が、産後の利用は保護者と対象のお子さんが在宅していることが必要です。\n【対象となる方】妊娠中の方及び0歳から2歳までのお子さんを養育されているご家庭\n【サービスの内容】\n《家事支援》（日常の家事の範囲内）\n調理、洗濯、掃除、買い物など\n《育児支援》　沐浴補助、授乳や食事の補助、お子さんのお世話、同行支援など\n【利用上限時間】\n妊娠中（多胎妊娠以外）の方は20時間、0歳から2歳までのお子さんを養育しているご家庭はお子さんの人数により異なります。\n【ご利用の流れ】\n子育て支援総合センターへ 「申請フォーム」から登録の申請をしてください。\n子育て支援総合センターへ 「申請フォーム」から登録の申請をしてください\n申請フォーム\n妊娠期（多胎妊娠以外）の方　「申請フォーム」（外部サイト）;https://logoform.jp/form/DnDq/306891\nお子さんが0歳、1歳、2歳（多胎児以外）の方　「申請フォーム」（外部サイト）;https://logoform.jp/form/DnDq/262770\n多胎妊娠、お子さんが多胎児の方　「申請フォーム」（外部サイト）;https://logoform.jp/form/DnDq/307361\n申請フォームに接続が可能なパソコンやスマートフォンをお持ちでない方は、お電話、子育て支援総合センターの窓口での申請もできます。\n＊「妊娠期」の登録申請には「親子（母子）健康手帳」が必要です。\n＊登録申請は「妊娠期」「0歳」などの利用区分ごとに申請が必要です。\n\n利用あんない\n墨田区家事・育児サポーター事業 利用あんない（PDF：1,485KB）;https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/sodan/kajiikuji.files/R5-2riyouannai.pdf",
+      "target": {
+        "targetPersons": "妊娠中の方及び0歳から2歳までのお子さんを養育されているご家庭",
+        "lessThan": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "0歳から2歳までのお子さん"
+      },
+      "support": {
+        "description": "【サービスの内容】\n《家事支援》（日常の家事の範囲内）\n調理、洗濯、掃除、買い物など\n《育児支援》\n沐浴補助、授乳や食事の補助、お子さんのお世話、同行支援など",
+        "monetarySupport": null,
+        "materiallySupport": "《家事支援》（日常の家事の範囲内）\n調理、洗濯、掃除、買い物など\n《育児支援》\n沐浴補助、授乳や食事の補助、お子さんのお世話、同行支援など"
+      },
+      "cost": null,
+      "costConditions": "墨田区と提携したサポーター派遣事業者の家事・育児サービスを利用する際に、墨田区が交付する「利用券」をサポーター派遣事業者へ提出することで、一定の負担でご利用いただくことができます。なお、利用者が負担する利用料金は、サポーター派遣事業者ごとに異なります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "サポーター派遣事業者ごとに異なります。"
+      },
+      "implementationPlace": {
+        "implementationName": "利用者宅",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "サポーター派遣事業者ごとに異なります。"
+      },
+      "specificDate": null,
+      "holiday": "サポーター派遣事業者ごとに異なります。",
+      "utilization": "子育て支援総合センターへ 「申請フォーム」から登録の申請をしてください。申請内容を確認のうえ、登録し、利用決定通知書と利用上限時間分の「利用券」をお送りします。決定通知書と利用券が届きましたら、直接、サポーター派遣事業者へサービス利用の申込みをしてください。",
+      "procedurePersons": "妊娠中の方及び0歳から2歳までのお子さんを養育されている方",
+      "procedureMethod": "子育て支援総合センターへ 「申請フォーム」から登録の申請をしてください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "妊娠期での申請の場合は、親子（母子）健康手帳（多胎妊娠の場合は、該当するお子様の人数分）が必要です。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "子育て支援総合センター\n〒131-0046　京島一丁目35番9-103号　マーク・ゼロワン曳舟タワー棟\n電話：03-5630-6351\nファックス：03-5630-6352\nEメール：KOSODATESOGOCENT@city.sumida.lg.jp",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/sodan/kajiikuji.files/R5-2riyouannai.pdf",
+          "title": "墨田区家事・育児サポーター事業 利用あんない"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.sumida.lg.jp/kosodate_kyouiku/kosodate_site/sodan/kajiikuji.html",
+        "title": "家事・育児サポーター事業"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/DnDq/306891",
+          "title": "妊娠期（多胎妊娠以外）の方　「申請フォーム」"
+        },
+        {
+          "uri": "https://logoform.jp/form/DnDq/262770",
+          "title": "お子さんが0歳、1歳、2歳（多胎児以外）の方　「申請フォーム」"
+        },
+        {
+          "uri": "https://logoform.jp/form/DnDq/307361",
+          "title": "多胎妊娠、お子さんが多胎児の方　「申請フォーム」"
+        }
+      ],
+      "contact": {
+        "contactName": "子育て支援総合センター",
+        "contactPhone": "03-5630-6351",
+        "contactEx": null,
+        "contactEmail": "KOSODATESODAN@city.sumida.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1310046",
+        "contactAddress": "京島一丁目35番9-103号　マーク・ゼロワン曳舟タワー棟"
+      },
+      "area": {
+        "areaCode": "131075;墨田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131075+5+UM106",
+        "organization": "6000020131075",
+        "compartment": "子育て支援総合センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-06-01",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "墨田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "墨田区家事・育児サポーター事業実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

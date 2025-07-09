@@ -1,0 +1,131 @@
+{
+  "version": "2025-07-09T05:55:17.837Z",
+  "areaCode": "134210",
+  "areaName": "小笠原村",
+  "category": "education",
+  "count": 1,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "離乳食教室",
+        "shortName": "育児学級"
+      },
+      "summary": "生後４か月前後のお子さんとその保護者を対象に、離乳食を始める時のポイントやすすめ方についての講座を開催しています。離乳食のいろいろな悩みに栄養士がお答えします。また、離乳食の作り方の実演や試食もあります。",
+      "description": "育児学級\n離乳食、おやつ、歯みがき、卒乳、親子ヨガなどについて、栄養士、歯科衛生士、助産師、インストラクターから学ぶことが出来ます。詳細は村民だより、村内掲示板に掲載します。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "離乳食、おやつ、歯みがき、卒乳、親子ヨガなどについて、栄養士、歯科衛生士、助産師、インストラクターから学ぶことが出来ます。",
+        "monetarySupport": null,
+        "materiallySupport": "離乳食、おやつ、歯みがき、卒乳、親子ヨガなどについて、栄養士、歯科衛生士、助産師、インストラクターから学ぶことが出来ます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "育児",
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小笠原村村民課福祉係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/kosodate/",
+        "title": "子育て支援"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村村民課福祉係",
+        "contactPhone": "04998-2-3939",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+        "zipCode": "1002101",
+        "contactAddress": "東京都小笠原村父島字西町"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+1+UM798",
+        "organization": "6000020134210",
+        "compartment": "小笠原村村民課福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法、食育基本法",
+        "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）、法第5条（子どもの食育における保護者、教育関係者等の役割）、21条 （地域における食生活の改善のための取組の推進）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

@@ -1,0 +1,868 @@
+{
+  "version": "2025-07-09T05:55:17.836Z",
+  "areaCode": "133647",
+  "areaName": "神津島村",
+  "category": "childcare",
+  "count": 7,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関する教室・講習会",
+        "shortName": "遊びの広場"
+      },
+      "summary": "双子や三つ子など多胎児の、妊娠中や育児の悩みを話し合い、仲間作りの場となる遊びの広場を開催しています。保健師による相談コーナーもあります。",
+      "description": "遊びの広場\n親子で楽しく遊び、のびのびとした子育てや親子の仲間づくりができるようにとの願いから、就園前の子どもと保護者を対象に「遊びの広場」を開催します。子育て中のお母さん、お父さん、おじいちゃん、おばあちゃん、子育てに関わっている方も大歓迎です。保育士のスタッフや家庭教育センター職員に子育てについての相談もできます。\n・場所 生きがい健康センターホール(変更の場合あり)\n・内容 縁日ごっこ、ちびっこ運動会、クリスマス会など\n・日程 月１回開催\n・申し込み 不要",
+      "target": {
+        "targetPersons": "就園前の子どもと保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "就園前の子どもと保護者"
+      },
+      "support": {
+        "description": "縁日ごっこ、ちびっこ運動会、クリスマス会など",
+        "monetarySupport": null,
+        "materiallySupport": "縁日ごっこ、ちびっこ運動会、クリスマス会など"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "生きがい健康センターホール(変更の場合あり)",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "月１回開催"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申し込み 不要",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-tanosii.pdf",
+        "title": "たのしい子育てをするために"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭支援センター",
+        "contactPhone": "04992-8-1180",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133647;神津島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133647+1+UM103",
+        "organization": "9000020133647",
+        "compartment": "子ども家庭支援センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-03-18",
+      "odInformation": {
+        "updateDate": "2024-08-19",
+        "updater": "神津島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "学校教育法、児童福祉法",
+        "regulationArticle": "第24条、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+        "shortName": "女性向けリフレッシュ体操"
+      },
+      "summary": "女性向けリフレッシュ体操は、日頃の運動不足や育児のストレスを運動で解消したい女性向けの運動教室です。",
+      "description": "女性向けリフレッシュ体操\n女性向けリフレッシュ体操は、日頃の運動不足や育児のストレスを運動で解消したい女性向けの運動教室です。希望者には予約制で託児も行います。月に 1～2 回、理学療法士が開催いたします。\n文字放送や保健センターLINE で開催のお知らせをいたします。",
+      "target": {
+        "targetPersons": "日頃の運動不足や育児のストレスを運動で解消したい女性",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "日頃の運動不足や育児のストレスを運動で解消したい女性向けの運動教室です。希望者には予約制で託児も行います。",
+        "monetarySupport": null,
+        "materiallySupport": "日頃の運動不足や育児のストレスを運動で解消したい女性向けの運動教室です。希望者には予約制で託児も行います。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "月に 1～2 回、理学療法士が開催いたします。\n文字放送や保健センターLINE で開催のお知らせをいたします。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-youkoso1.pdf",
+        "title": "ようこそ！赤ちゃん"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健センター",
+        "contactPhone": "04992-8-0010",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133647;神津島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133647+1+UM34",
+        "organization": "9000020133647",
+        "compartment": "保健センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-03-18",
+      "odInformation": {
+        "updateDate": "2024-08-19",
+        "updater": "神津島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の乳幼児健診",
+        "shortName": "５歳児健診"
+      },
+      "summary": "5 歳児健診では、島外から小児科医や臨床心理士が来島します。お子さんの成長発達の状況、達成できていることや苦手なことを確認し、子育ての応援をするための健診です。１年後の就学に向けて準備を整えていく機会でもあります。",
+      "description": "５歳児健診\n5 歳児健診では、島外から小児科医や臨床心理士が来島します。お子さんの成長発達の状況、達成できていることや苦手なことを確認し、子育ての応援をするための健診です。１年後の就学に向けて準備を整えていく機会でもあります。\n健診結果を受けて、保健師による育児健康相談、栄養士による栄養相談、希望により臨床心理士や作業療法士、言語聴覚士来島時に子育て相談をします。はまゆう保育園での保育にも今回の健診結果を生かします。また、島外の専門機関受診等が必要な場合は調整して紹介します。",
+      "target": {
+        "targetPersons": "5 歳児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 5,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 5,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "5 歳児"
+      },
+      "support": {
+        "description": "健診結果を受けて、保健師による育児健康相談、栄養士による栄養相談、希望により臨床心理士や作業療法士、言語聴覚士来島時に子育て相談をします。はまゆう保育園での保育にも今回の健診結果を生かします。また、島外の専門機関受診等が必要な場合は調整して紹介します。",
+        "monetarySupport": null,
+        "materiallySupport": "健診結果を受けて、保健師による育児健康相談、栄養士による栄養相談、希望により臨床心理士や作業療法士、言語聴覚士来島時に子育て相談をします。はまゆう保育園での保育にも今回の健診結果を生かします。また、島外の専門機関受診等が必要な場合は調整して紹介します。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-youkoso2.pdf",
+        "title": "●すこやかな成長のために～1 歳から就学まで～"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健センター",
+        "contactPhone": "04992-8-0010",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133647;神津島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133647+1+UM53",
+        "organization": "9000020133647",
+        "compartment": "保健センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-03-18",
+      "odInformation": {
+        "updateDate": "2024-08-19",
+        "updater": "神津島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "認可保育所（保育園）の利用について",
+        "shortName": "保育園"
+      },
+      "summary": "保育園とは、保護者が共に働いていたり病気などの理由で、昼間家庭において保育を受けられないお子さんを、保護者に代わって保育する児童福祉施設で、法的には「保育所」といいます。\n保育所（保育園）には、国が定めた設置基準をクリアし、都道府県知事に認可された保育所と、それ以外の保育所がありますが、ここでは認可された保育所についてご案内します。\n\n保育園では在園児を対象とした「延長保育」のほか、「一時預かり」や「病児保育」、「障害児保育」などを行っている園もあります。",
+      "description": "保育園\n保育園は、保護者の就労や病気などの理由で、家庭で十分保育することができない場合に保護者に代わって保育を行います。\n集団生活を通して心身共に健全である子どもの育成を目指し保育していきます。\n保育園への入所\n対象の方に向けて、12 月上旬にご案内を送付いたします。保育園入所に関して、不明な点があればお気軽におたずねください。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "保育園は、保護者の就労や病気などの理由で、家庭で十分保育することができない場合に保護者に代わって保育を行います。",
+        "monetarySupport": null,
+        "materiallySupport": "保育園は、保護者の就労や病気などの理由で、家庭で十分保育することができない場合に保護者に代わって保育を行います。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "対象の方に向けて、12 月上旬にご案内を送付いたします。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-hoikuen.pdf",
+        "title": "保育園"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "役場福祉課",
+        "contactPhone": "04992-8-0011",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133647;神津島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133647+1+UM73",
+        "organization": "9000020133647",
+        "compartment": "役場福祉課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-03-18",
+      "odInformation": {
+        "updateDate": "2024-08-19",
+        "updater": "神津島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第24条"
+      },
+      "tag": {
+        "categoryCode": [
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "一時預かり（一時保育）",
+        "shortName": "乳幼児一時預かり"
+      },
+      "summary": "保護者のパート就労や病気等による緊急時、育児疲れなどのリフレッシュのために、家庭において保育を受けることが一時的に困難となったお子さんを、地域子育て支援拠点などで一時的にお預かりしています。",
+      "description": "乳幼児一時預かり\n家庭で子どもを育てている方々への支援として一時預かりを行っています。ぜひご利用ください。\n・対象\n☆神津島村に住所を持つ、生後 6 ヶ月から就学前までの子\n☆保護者が下記の①～③の理由により、家庭での保育が一時的に困難となり、短時間の預かりが必要となる乳幼児\n ①保護者・兄弟姉妹が疾病のため通院\n ②保護者・兄弟姉妹が健診等を受診\n ③保護者がリフレッシュのため\n☆その他緊急的に預かりが必要と認められた子\n・場所 子ども家庭支援センター\n・利用日時\n月曜日～金曜日(年末年始・祝祭日は除く)、午前８時３０分～午後５時の間の１日４時間以内(間に合わない場合はご相談ください)。\n※リフレッシュ目的の場合は月３回まで\n※緊急、急用、学校行事、就労(日中預かる保護者がいない等)の場合は月１０回まで相談に応じます。\n・申し込み方法\n原則、利用日の５日前までに利用申請書を子ども家庭支援センターまたは役場福祉課にてご提出ください。利用の決定が決まりましたら、決定通知書を利用者ご本人にお渡しします。\n・利用料金\n利用当日のお迎えの際にお支払いとなります。\n|利用者の区分|<|1 時間|2 時間|3 時間|4 時間|\n|:----|:----|:----|:----|:----|:----|\n|下記以外|3～6 歳|２００円|３００円|５００円|６００円|\n|^|０～2 歳|３００円|５００円|８００円|１０００円|\n|生活保護世帯に属する|<|０円|０円|０円|０円|\n\n※当日キャンセルの場合キャンセル料(利用予約分の料金)が発生します。(利用者本人の発熱・ケガなどのやむおえない場合は除きます)\n※やむを得ない場合の当日キャンセルは８：３０分までにご連絡ください。\n※連絡がない場合、予約時間を過ぎた場合は、理由を問わずキャンセル料が発生します。",
+      "target": {
+        "targetPersons": "☆神津島村に住所を持つ、生後 6 ヶ月から就学前までの子\n☆保護者が下記の①～③の理由により、家庭での保育が一時的に困難となり、短時間の預かりが必要となる乳幼児\n ①保護者・兄弟姉妹が疾病のため通院\n ②保護者・兄弟姉妹が健診等を受診\n ③保護者がリフレッシュのため\n☆その他緊急的に預かりが必要と認められた子",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後 6 ヶ月から就学前までの子"
+      },
+      "support": {
+        "description": "家庭で子どもを育てている方々への支援として一時預かりを行っています。",
+        "monetarySupport": null,
+        "materiallySupport": "家庭で子どもを育てている方々への支援として一時預かりを行っています。"
+      },
+      "cost": null,
+      "costConditions": "利用当日のお迎えの際にお支払いとなります。\n|利用者の区分|<|1 時間|2 時間|3 時間|4 時間|\n|:----|:----|:----|:----|:----|:----|\n|下記以外|3～6 歳|２００円|３００円|５００円|６００円|\n|^|０～2 歳|３００円|５００円|８００円|１０００円|\n|生活保護世帯に属する|<|０円|０円|０円|０円|\n\n※当日キャンセルの場合キャンセル料(利用予約分の料金)が発生します。(利用者本人の発熱・ケガなどのやむおえない場合は除きます)\n※やむを得ない場合の当日キャンセルは８：３０分までにご連絡ください。\n※連絡がない場合、予約時間を過ぎた場合は、理由を問わずキャンセル料が発生します。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "子ども家庭支援センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:30",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "月曜日～金曜日(年末年始・祝祭日は除く)、午前８時３０分～午後５時の間の１日４時間以内(間に合わない場合はご相談ください)。"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "利用申請書を子ども家庭支援センターまたは役場福祉課にてご提出ください。利用の決定が決まりましたら、決定通知書を利用者ご本人にお渡しします。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "原則、利用日の５日前までに利用申請書を子ども家庭支援センターまたは役場福祉課にてご提出ください。"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "子ども家庭支援センターまたは役場福祉課",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-tanosii.pdf",
+        "title": "たのしい子育てをするために"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭支援センター,役場福祉課",
+        "contactPhone": "04992-8-1180,04992-8-0011",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133647;神津島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133647+1+UM83",
+        "organization": "9000020133647",
+        "compartment": "子ども家庭支援センター,役場福祉課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-03-18",
+      "odInformation": {
+        "updateDate": "2024-08-19",
+        "updater": "神津島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法、子ども・子育て支援法",
+        "regulationArticle": "第6条の3第7項、第21条の9、第59条第10号"
+      },
+      "tag": {
+        "categoryCode": [
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "神津島村の子育てに関する相談",
+        "shortName": "保健センター・子ども家庭支援センター"
+      },
+      "summary": "保健センター・子ども家庭支援センターでは、保健師、保育士がいつでもご相談を受け付けております。",
+      "description": "保健センター・子ども家庭支援センターへ\n保健センター・子ども家庭支援センターでは、保健師、保育士がいつでもご相談を受け付けております。ちょっとした心配事や悩みでも大丈夫です。一人で抱え込えこまないで、相談してみましょう。\n●ご相談先\n 保健センター ℡０４９９２-８-００１０\n 保健師直通ダイヤル ℡０９０-３５９４-４２８１\n 子ども家庭支援センター ℡０４９９２-８-１１８０\n 保健センターLINE QR コード",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "保健師、保育士がいつでもご相談を受け付けております。",
+        "monetarySupport": null,
+        "materiallySupport": "保健師、保育士がいつでもご相談を受け付けております。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "●ご相談先\n 保健センター ℡０４９９２-８-００１０\n 保健師直通ダイヤル ℡０９０-３５９４-４２８１\n 子ども家庭支援センター ℡０４９９２-８-１１８０\n 保健センターLINE QR コード",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-tanosii.pdf",
+        "title": "たのしい子育てをするために"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133647;神津島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133647+2+UM119",
+        "organization": "9000020133647",
+        "compartment": "保健センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-03-18",
+      "odInformation": {
+        "updateDate": "2024-08-19",
+        "updater": "神津島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関するその他のこと",
+        "shortName": "生きがい健康センター和室開放"
+      },
+      "summary": "未就園児のお子さんとその保護者の方を対象に、生きがい健康センターの和室を 9 時～11 時 20 分の間開放します。",
+      "description": "生きがい健康センター和室開放\n未就園児のお子さんとその保護者の方を対象に、生きがい健康センターの和室を 9 時～11 時 20 分の間開放します。ぜひ遊びにきてください。(10 時から一時預かりのお子さんのおやつの時間です。ご一緒にどうぞ)和室開放を行う日は、保健センターLINE@でお知らせします。\n※和室内での携帯電話のご使用はお控えください。",
+      "target": {
+        "targetPersons": "未就園児のお子さんとその保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "未就園児のお子さんとその保護者"
+      },
+      "support": {
+        "description": "生きがい健康センターの和室を 9 時～11 時 20 分の間開放します。",
+        "monetarySupport": null,
+        "materiallySupport": "生きがい健康センターの和室を 9 時～11 時 20 分の間開放します。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "生きがい健康センターの和室",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "11:20",
+        "condiutilizationConditionstions": "9 時～11 時 20 分の間開放します。ぜひ遊びにきてください。(10 時から一時預かりのお子さんのおやつの時間です。ご一緒にどうぞ)"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "和室開放を行う日は、保健センターLINE@でお知らせします。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-tanosii.pdf",
+        "title": "たのしい子育てをするために"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭支援センター",
+        "contactPhone": "04992-8-1180",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133647;神津島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133647+2+UM120",
+        "organization": "9000020133647",
+        "compartment": "子ども家庭支援センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-03-18",
+      "odInformation": {
+        "updateDate": "2024-08-19",
+        "updater": "神津島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

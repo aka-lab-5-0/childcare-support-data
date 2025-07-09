@@ -1,0 +1,1366 @@
+{
+  "version": "2025-07-09T05:55:17.836Z",
+  "areaCode": "133639",
+  "areaName": "新島村",
+  "category": "medical",
+  "count": 11,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦訪問",
+        "shortName": "妊産婦・新生児・乳児訪問"
+      },
+      "summary": "妊産婦の方（妊娠中または出産後1年以内）を対象に、保健師がご家庭を訪問し、健康状態の確認や必要な保健指導、妊娠期間中や出産後の不安や悩みについての相談等を行います。",
+      "description": "妊産婦・新生児・乳児訪問\nホーム > 施設案内 > 保健センター・診療所等 > さわやか健康センター > 母子保健サービス > 妊産婦・新生児・乳児訪問\n\n出生通知票がさわやか健康センターに届き次第、訪問の日時を調整し、ご連絡します。\n\n里帰り先で希望する場合は、事前にご相談ください。",
+      "target": {
+        "targetPersons": "妊産婦",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "出生通知票がさわやか健康センターに届き次第、訪問の日時を調整し、ご連絡します。\n\n里帰り先で希望する場合は、事前にご相談ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.niijima.com/facility/health-center_clinic/sawayakakenkou-center/boshihoken-service/ninsanpu_shinseijihoumon.html",
+        "title": "妊産婦・新生児・乳児訪問"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "新島村さわやか健康センター",
+        "contactPhone": "04992-5-1856",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1000402",
+        "contactAddress": "東京都新島村本村3丁目12番8号"
+      },
+      "area": {
+        "areaCode": "133639;新島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133639+1+UM11",
+        "organization": "9000020133639",
+        "compartment": "さわやか健康センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "新島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条（妊産婦の訪問指導等）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "新島村の子育てに関する相談",
+        "shortName": "赤ちゃん健康相談・身体測定"
+      },
+      "summary": "赤ちゃんの体重や身長の測定、子育ての相談などを随時行っています。",
+      "description": "赤ちゃん健康相談・身体測定\nホーム > 施設案内 > 保健センター・診療所等 > さわやか健康センター > 母子保健サービス > 赤ちゃん健康相談・身体測定\n\n赤ちゃんの体重や身長の測定、子育ての相談などを随時行っています。\n\n(注)相談の日時を調整します。事前にご連絡ください。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "赤ちゃんの体重や身長の測定、子育ての相談などを随時行っています。",
+        "monetarySupport": null,
+        "materiallySupport": "赤ちゃんの体重や身長の測定、子育ての相談などを随時行っています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "相談の日時を調整します。事前にご連絡ください。"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "相談の日時を調整します。事前にご連絡ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.niijima.com/facility/health-center_clinic/sawayakakenkou-center/boshihoken-service/akachankenkousoudan.html",
+        "title": "赤ちゃん健康相談・身体測定"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "新島村さわやか健康センター",
+        "contactPhone": "04992-5-1856",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1000402",
+        "contactAddress": "東京都新島村本村3丁目12番8号"
+      },
+      "area": {
+        "areaCode": "133639;新島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133639+1+UM119",
+        "organization": "9000020133639",
+        "compartment": "新島村さわやか健康センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "新島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "新生児訪問",
+        "shortName": "妊産婦・新生児・乳児訪問"
+      },
+      "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+      "description": "妊産婦・新生児・乳児訪問\nホーム > 施設案内 > 保健センター・診療所等 > さわやか健康センター > 母子保健サービス > 妊産婦・新生児・乳児訪問\n\n出生通知票がさわやか健康センターに届き次第、訪問の日時を調整し、ご連絡します。\n\n里帰り先で希望する場合は、事前にご相談ください。",
+      "target": {
+        "targetPersons": "新生児・乳児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "出生通知票がさわやか健康センターに届き次第、訪問の日時を調整し、ご連絡します。\n\n里帰り先で希望する場合は、事前にご相談ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.niijima.com/facility/health-center_clinic/sawayakakenkou-center/boshihoken-service/ninsanpu_shinseijihoumon.html",
+        "title": "妊産婦・新生児・乳児訪問"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "新島村さわやか健康センター",
+        "contactPhone": "04992-5-1856",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1000402",
+        "contactAddress": "東京都新島村本村3丁目12番8号"
+      },
+      "area": {
+        "areaCode": "133639;新島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133639+1+UM13",
+        "organization": "9000020133639",
+        "compartment": "さわやか健康センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "新島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第11条（新生児の訪問指導）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+        "shortName": "妊産婦・新生児・乳児訪問"
+      },
+      "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+      "description": "出生通知票がさわやか健康センターに届き次第、訪問の日時を調整し、ご連絡します。\n里帰り先で希望する場合は、事前にご相談ください。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "出生通知票を提出",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.niijima.com/facility/health-center_clinic/sawayakakenkou-center/boshihoken-service/ninsanpu_shinseijihoumon.html",
+        "title": "妊産婦・新生児・乳児訪問"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "新島村さわやか健康センター",
+        "contactPhone": "04992-5-1856",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1000402",
+        "contactAddress": "東京都新島村本村3丁目12番8号"
+      },
+      "area": {
+        "areaCode": "133639;新島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133639+1+UM14",
+        "organization": "9000020133639",
+        "compartment": "新島村さわやか健康センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2025/02/12",
+        "updater": "新島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第21条の10の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "新島村の妊娠・出産に関する相談",
+        "shortName": "妊産婦向け助産師オンライン相談（東京都福祉局）"
+      },
+      "summary": "妊娠中のこと、産後のこと、生まれてくるあかちゃんのことでお悩みの妊婦さん・産婦さんを対象に、東京都助産師会の助産師がオンラインで相談をお受けします。",
+      "description": "妊産婦向け助産師オンライン相談（東京都福祉局）\nホーム > 施設案内 > 保健センター・診療所等 > さわやか健康センター > 母子保健サービス > 妊産婦向け助産師オンライン相談（東京都福祉局）\n\n妊産婦さんが抱える不安や悩みの相談窓口です。\n妊娠中のこと、産後のこと、生まれてくるあかちゃんのことでお悩みの妊婦さん・産婦さんを対象に、東京都助産師会の助産師がオンラインで相談をお受けします。\n\n対象者\n東京都在住の妊婦さん・産後1年未満の産婦さん\n\n※妊産婦ご本人だけでなく、パートナーやご家族を交えて相談することも可能です。\n\nご利用方法\nア　以下の専用サイトから事前予約（相談希望日の30日前から2日前まで予約可能）\n\n　　専用サイト：オンライン助産師相談;http://coubic.com/jmat/834046\n\nイ　ZOOM使用により、助産師がオンラインでご相談に応じます。\n\n※事業の詳細については、東京都福祉局のホームページ;http://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninsanpu-online.htmlをご確認ください。",
+      "target": {
+        "targetPersons": "東京都在住の妊婦さん・産後1年未満の産婦さん\n\n※妊産婦ご本人だけでなく、パートナーやご家族を交えて相談することも可能です。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "東京都助産師会の助産師がオンラインで相談をお受けします。",
+        "monetarySupport": null,
+        "materiallySupport": "東京都助産師会の助産師がオンラインで相談をお受けします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "ご利用方法\nア　以下の専用サイトから事前予約（相談希望日の30日前から2日前まで予約可能）\n\n専用サイト：オンライン助産師相談;http://coubic.com/jmat/834046\n\nイ　ZOOM使用により、助産師がオンラインでご相談に応じます。\n\n※事業の詳細については、東京都福祉局のホームページ;http://www.fukushi.metro.tokyo.lg.jp/kodomo/sodan/ninsanpu-online.htmlをご確認ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.niijima.com/facility/health-center_clinic/sawayakakenkou-center/boshihoken-service/ninsanpu-online.html",
+        "title": "妊産婦向け助産師オンライン相談（東京都福祉局）"
+      },
+      "formLink": [
+        {
+          "uri": "https://coubic.com/jmat/834046",
+          "title": "オンライン助産師相談"
+        }
+      ],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133639;新島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133639+1+UM47",
+        "organization": "9000020133639",
+        "compartment": "さわやか健康センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "新島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月未満児）",
+        "shortName": "乳幼児健診（3～4か月・6か月・9か月・1歳6か月・3歳）"
+      },
+      "summary": "|地  区|と　き|ところ|対象者|\n|:----|:----|:----|:----|\n|新  島|月1回<br>13時30分～|さわやか健康センター|ご案内を郵送します。|\n|式根島|月1回<br>13時～|式根島開発総合センター|^|\n",
+      "description": "乳幼児健診（3～4か月・6か月・9か月・1歳6か月・3歳）\nホーム > 施設案内 > 保健センター・診療所等 > さわやか健康センター > 母子保健サービス > 乳幼児健診（3～4か月・6か月・9か月・1歳6か月・3歳）\n\n|地  区|と　き|ところ|対象者|\n|:----|:----|:----|:----|\n|新  島|月1回<br>13時30分～|さわやか健康センター|ご案内を郵送します。|\n|式根島|月1回<br>13時～|式根島開発総合センター|^|\n",
+      "target": {
+        "targetPersons": "ご案内を郵送します。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "月1回"
+      },
+      "implementationPlace": {
+        "implementationName": "新  島　さわやか健康センター\n式根島　式根島開発総合センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "ご案内を郵送します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.niijima.com/facility/health-center_clinic/sawayakakenkou-center/boshihoken-service/2024-0611-1503-111nyuuyoujikensin.html",
+        "title": "乳幼児健診（3～4か月・6か月・9か月・1歳6か月・3歳）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "新島村さわやか健康センター",
+        "contactPhone": "04992-5-1856",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1000402",
+        "contactAddress": "東京都新島村本村3丁目12番8号"
+      },
+      "area": {
+        "areaCode": "133639;新島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133639+1+UM49",
+        "organization": "9000020133639",
+        "compartment": "新島村さわやか健康センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "新島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "乳幼児健診（3～4か月・6か月・9か月・1歳6か月・3歳）"
+      },
+      "summary": "|地  区|と　き|ところ|対象者|\n|:----|:----|:----|:----|\n|新  島|月1回<br>13時30分～|さわやか健康センター|ご案内を郵送します。|\n|式根島|月1回<br>13時～|式根島開発総合センター|^|\n",
+      "description": "乳幼児健診（3～4か月・6か月・9か月・1歳6か月・3歳）\nホーム > 施設案内 > 保健センター・診療所等 > さわやか健康センター > 母子保健サービス > 乳幼児健診（3～4か月・6か月・9か月・1歳6か月・3歳）\n\n|地  区|と　き|ところ|対象者|\n|:----|:----|:----|:----|\n|新  島|月1回<br>13時30分～|さわやか健康センター|ご案内を郵送します。|\n|式根島|月1回<br>13時～|式根島開発総合センター|^|\n",
+      "target": {
+        "targetPersons": "ご案内を郵送します。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "月1回"
+      },
+      "implementationPlace": {
+        "implementationName": "新  島　さわやか健康センター\n式根島　式根島開発総合センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "ご案内を郵送します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.niijima.com/facility/health-center_clinic/sawayakakenkou-center/boshihoken-service/2024-0611-1503-111nyuuyoujikensin.html",
+        "title": "乳幼児健診（3～4か月・6か月・9か月・1歳6か月・3歳）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "新島村さわやか健康センター",
+        "contactPhone": "04992-5-1856",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1000402",
+        "contactAddress": "東京都新島村本村3丁目12番8号"
+      },
+      "area": {
+        "areaCode": "133639;新島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133639+1+UM50",
+        "organization": "9000020133639",
+        "compartment": "新島村さわやか健康センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "新島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "1歳6か月児健康診査",
+        "shortName": "乳幼児健診（3～4か月・6か月・9か月・1歳6か月・3歳）"
+      },
+      "summary": "|地  区|と　き|ところ|対象者|\n|:----|:----|:----|:----|\n|新  島|月1回<br>13時30分～|さわやか健康センター|ご案内を郵送します。|\n|式根島|月1回<br>13時～|式根島開発総合センター|^|\n",
+      "description": "乳幼児健診（3～4か月・6か月・9か月・1歳6か月・3歳）\nホーム > 施設案内 > 保健センター・診療所等 > さわやか健康センター > 母子保健サービス > 乳幼児健診（3～4か月・6か月・9か月・1歳6か月・3歳）\n\n|地  区|と　き|ところ|対象者|\n|:----|:----|:----|:----|\n|新  島|月1回<br>13時30分～|さわやか健康センター|ご案内を郵送します。|\n|式根島|月1回<br>13時～|式根島開発総合センター|^|\n",
+      "target": {
+        "targetPersons": "ご案内を郵送します。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "月1回"
+      },
+      "implementationPlace": {
+        "implementationName": "新  島　さわやか健康センター\n式根島　式根島開発総合センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "ご案内を郵送します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.niijima.com/facility/health-center_clinic/sawayakakenkou-center/boshihoken-service/2024-0611-1503-111nyuuyoujikensin.html",
+        "title": "乳幼児健診（3～4か月・6か月・9か月・1歳6か月・3歳）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "新島村さわやか健康センター",
+        "contactPhone": "04992-5-1856",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1000402",
+        "contactAddress": "東京都新島村本村3丁目12番8号"
+      },
+      "area": {
+        "areaCode": "133639;新島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133639+1+UM51",
+        "organization": "9000020133639",
+        "compartment": "新島村さわやか健康センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "新島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "3歳児健康診査",
+        "shortName": "乳幼児健診（3～4か月・6か月・9か月・1歳6か月・3歳）"
+      },
+      "summary": "|地  区|と　き|ところ|対象者|\n|:----|:----|:----|:----|\n|新  島|月1回<br>13時30分～|さわやか健康センター|ご案内を郵送します。|\n|式根島|月1回<br>13時～|式根島開発総合センター|^|\n",
+      "description": "乳幼児健診（3～4か月・6か月・9か月・1歳6か月・3歳）\nホーム > 施設案内 > 保健センター・診療所等 > さわやか健康センター > 母子保健サービス > 乳幼児健診（3～4か月・6か月・9か月・1歳6か月・3歳）\n\n|地  区|と　き|ところ|対象者|\n|:----|:----|:----|:----|\n|新  島|月1回<br>13時30分～|さわやか健康センター|ご案内を郵送します。|\n|式根島|月1回<br>13時～|式根島開発総合センター|^|\n",
+      "target": {
+        "targetPersons": "ご案内を郵送します。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "月1回"
+      },
+      "implementationPlace": {
+        "implementationName": "新  島　さわやか健康センター\n式根島　式根島開発総合センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "ご案内を郵送します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.niijima.com/facility/health-center_clinic/sawayakakenkou-center/boshihoken-service/2024-0611-1503-111nyuuyoujikensin.html",
+        "title": "乳幼児健診（3～4か月・6か月・9か月・1歳6か月・3歳）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "新島村さわやか健康センター",
+        "contactPhone": "04992-5-1856",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1000402",
+        "contactAddress": "東京都新島村本村3丁目12番8号"
+      },
+      "area": {
+        "areaCode": "133639;新島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133639+1+UM52",
+        "organization": "9000020133639",
+        "compartment": "新島村さわやか健康センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "新島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（1歳6か月児、3歳児歯科健康診査）",
+        "shortName": "妊婦歯科健診・幼児歯科健診・幼児歯科相談"
+      },
+      "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+      "description": "妊婦歯科健診・幼児歯科健診・幼児歯科相談\nホーム > 施設案内 > 保健センター・診療所等 > さわやか健康センター > 母子保健サービス > 妊婦歯科健診・幼児歯科健診・幼児歯科相談\n\n・妊婦歯科健診\n\n・幼児歯科健診（1歳6か月・3歳）\n\n・幼児歯科相談（1歳、2歳、2歳6か月、3歳6か月）\n\n|地　区|と　き|ところ|対象者|\n|:----|:----|:----|:----|\n|新　島|年6回<br>（9時～）|さわやか健康センター|ご案内を郵送します。|\n\n|式根島|年4回<br>（9時～）|式根島診療所歯科|^|\n",
+      "target": {
+        "targetPersons": "・幼児歯科健診（1歳6か月・3歳）\n\n・幼児歯科相談（1歳、2歳、2歳6か月、3歳6か月）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "・幼児歯科健診（1歳6か月・3歳）\n\n・幼児歯科相談（1歳、2歳、2歳6か月、3歳6か月）"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "ご案内を郵送します。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.niijima.com/facility/health-center_clinic/sawayakakenkou-center/boshihoken-service/2024-0611-1451-111ninpusikanyuujisika.html",
+        "title": "妊婦歯科健診・幼児歯科健診・幼児歯科相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "新島村さわやか健康センター",
+        "contactPhone": "04992-5-1856",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1000402",
+        "contactAddress": "東京都新島村本村3丁目12番8号"
+      },
+      "area": {
+        "areaCode": "133639;新島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133639+1+UM792",
+        "organization": "9000020133639",
+        "compartment": "新島村さわやか健康センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "新島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦の歯科健診",
+        "shortName": "妊産婦歯科健診"
+      },
+      "summary": "妊娠中や出産後は女性ホルモンの分泌の変化や食事回数の増加などから虫歯や歯周病になりやすく、進行しやすい時期です。こうした時期のお口の中の健康を維持するために、歯科健診を実施しています。",
+      "description": "妊婦歯科健診・幼児歯科健診・幼児歯科相談\nホーム > 施設案内 > 保健センター・診療所等 > さわやか健康センター > 母子保健サービス > 妊婦歯科健診・幼児歯科健診・幼児歯科相談\n\n・妊婦歯科健診\n・幼児歯科健診（1歳6か月・3歳）\n・幼児歯科相談（1歳、2歳、2歳6か月、3歳6か月）\n|地　区|と　き|ところ|対象者|\n|:----|:----|:----|:----|\n|新　島|年6回<br>（9時～）|さわやか健康センター|ご案内を郵送します。|\n|式根島|年4回<br>（9時～）|式根島診療所歯科|^|\n",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "・妊婦歯科健診\n・幼児歯科健診（1歳6か月・3歳）\n・幼児歯科相談（1歳、2歳、2歳6か月、3歳6か月）\n|地　区|と　き|ところ|対象者|\n|:----|:----|:----|:----|\n|新　島|年6回<br>（9時～）|さわやか健康センター|ご案内を郵送します。|\n|式根島|年4回<br>（9時～）|式根島診療所歯科|^|\n",
+        "monetarySupport": null,
+        "materiallySupport": "・妊婦歯科健診\n・幼児歯科健診（1歳6か月・3歳）\n・幼児歯科相談（1歳、2歳、2歳6か月、3歳6か月）\n|地　区|と　き|ところ|対象者|\n|:----|:----|:----|:----|\n|新　島|年6回<br>（9時～）|さわやか健康センター|ご案内を郵送します。|\n|式根島|年4回<br>（9時～）|式根島診療所歯科|^|\n"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "09:00",
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "|地　区|と　き|ところ|対象者|\n|:----|:----|:----|:----|\n|新　島|年6回<br>（9時～）|さわやか健康センター|ご案内を郵送します。|\n|式根島|年4回<br>（9時～）|式根島診療所歯科|^|\n"
+      },
+      "implementationPlace": {
+        "implementationName": "新島（さわやか健康センター）,式根島（式根島診療所歯科）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "ご案内を郵送します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.niijima.com/facility/health-center_clinic/sawayakakenkou-center/boshihoken-service/2024-0611-1451-111ninpusikanyuujisika.html",
+        "title": "妊婦歯科健診・幼児歯科健診・幼児歯科相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "新島村さわやか健康センター",
+        "contactPhone": "04992-5-1856",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1000402",
+        "contactAddress": "東京都新島村本村3丁目12番8号"
+      },
+      "area": {
+        "areaCode": "133639;新島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133639+1+UM8",
+        "organization": "9000020133639",
+        "compartment": "さわやか健康センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "新島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第10条（保健指導）・第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}
