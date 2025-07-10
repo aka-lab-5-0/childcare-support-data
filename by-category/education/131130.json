@@ -1,0 +1,699 @@
+{
+  "version": "2025-07-10T02:38:54.106Z",
+  "areaCode": "131130",
+  "areaName": "渋谷区",
+  "category": "education",
+  "count": 5,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "放課後子供教室",
+        "shortName": "放課後クラブ"
+      },
+      "summary": "全ての区立小学校内に放課後クラブを設置し、希望する児童を受け入れています。児童は学校施設という安全な環境のもと、学習・遊び・読書等のほか、様々なクラブ事業に参加するなどして放課後の時間を過ごしています。",
+      "description": "渋谷区では、全区立小学校内に放課後クラブを開設しています。 保護者の就労状況にかかわらず、全ての児童を対象とし、学校や地域との連携により、児童一人ひとりを健やかに育てていくことを目指しています。 児童は、学校施設という安全な環境のもとで、友達とスポーツ、ゲーム、工作などをして楽しく放課後の時間を過ごすとともに、宿題や反復学習にも取り組みます。 教育的視点に基づいた、文化的活動・スポーツ活動・学習活動のほか、異年齢交流や地域の人との交流の機会を提供し、集団生活の中で児童の自主性、社会性及び創造性を養います。",
+      "target": {
+        "targetPersons": "区内在住の小学1年生～6年生の全児童",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "無料",
+      "costConditions": "登録時の保険料(800円)および、おやつ代(1食70円程度)、放課後クラブ事業の教材費などの実費については保護者負担",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "神南小学校,臨川小学校,長谷戸小学校,広尾小学校,猿楽小学校,加計塚小学校,常磐松小学校,幡代小学校,上原小学校,笹塚小学校,西原小学校,富谷小学校,中幡小学校,千駄ヶ谷小学校,鳩森小学校,神宮前小学校,渋谷本町学園小学校,代々木山谷小学校",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "A会員…学校運営日　放課後\nB会員…学校運営日　放課後\n学校休業日　各学校の開門時間\n土曜日　9: 00",
+        "toHM": "A会員…学校運営日　17: 00\nB会員…学校運営日　18:00\n（特別延長は19: 30）\n学校休業日　18: 00\n（特別延長は19: 30）\n土曜日　18: 00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "日曜日、祝・休日、年末年始（12月29日～1月3日）",
+      "utilization": "各放課後クラブへ申請を行う。",
+      "procedurePersons": null,
+      "procedureMethod": "各放課後クラブ室へ、必要な書類と保険料（800円）を添えて申請",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kodomo/gakko-kyoiku/hokago-kurabu/hokagokurabu.html",
+        "title": "放課後クラブ"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "地域学校支援課放課後クラブ推進係",
+        "contactPhone": "電話\n\n03-3463-3068",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM5028",
+        "organization": "9000020131130",
+        "compartment": "地域学校支援課放課後クラブ推進係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/10/07",
+      "odInformation": {
+        "updateDate": "2025/02/26",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "放課後児童クラブ",
+        "shortName": "放課後クラブ"
+      },
+      "summary": "放課後児童クラブは、保護者が就労などにより、昼間家庭にいない小学校に就学しているお子さんに対し、適切な遊びおよび生活の場を与え、児童の健全な育成および保護者の就労と子育ての両立支援を図ることを目的としています。",
+      "description": "放課後クラブ\n全区立小学校内に、保護者の就労状況に関わらず全ての児童を対象とした放課後クラブを開設しています。\n\n更新日\n\n2024年2月21日\n\n放課後クラブのご案内\nすべての子供に“豊かな放課後”を\n渋谷区では、全区立小学校内に放課後クラブを開設しています。 保護者の就労状況にかかわらず、全ての児童を対象とし、学校や地域との連携により、児童一人一人を健やかに育てていくことを目指しています。 児童は、学校施設という安全な環境のもとで、友達とスポーツ、ゲーム、工作などをして楽しく放課後の時間を過ごすとともに、宿題や反復学習にも取り組みます。 教育的視点に基づいた、文化的活動・スポーツ活動・学習活動のほか、異年齢交流や地域の人との交流の機会を提供し、集団生活の中で児童の自主性、社会性及び創造性を養います。\n\n放課後クラブの利用と会員登録;https://www.city.shibuya.tokyo.jp/kodomo/gakko-kyoiku/hokago-kurabu/hokagokurabutouroku.html\n\n放課後クラブのご案内\n運営\n放課後クラブ事業は、教育委員会が運営統括を行い、各放課後クラブの運営は、専門事業者の指導員が行います。 指導員は、利用人数に応じて配置しています。また、地域からの支援や協力を受け、活動の充実を図っています。　　　　　\n\n会員区分\n放課後クラブ会員には、A会員（全児童が対象）とB会員（保護者が就労等をしている児童が対象）があります。　　　　　\n\n活動場所\n学校敷地内の“放課後クラブ室”を拠点とし、校庭、体育館、図書室、特別教室など、 学校施設を活用して活動します。学校施設は、学校教育活動や学校施設開放事業と調整して利用します。\n\n費用\n放課後クラブ利用料は無料です。 ただし、登録時の保険料(800円)および、おやつ代(1食70円程度)、放課後クラブ事業の教材費などの実費については保護者負担となります。\n\n流れ\n授業終了後、ランドセルを持って放課後クラブ室へ（決められた場所に、ランドセルを置きます。）\n児童は、入退室管理システムにより出席確認を受け、バッジをつけて活動します。\n（注）出欠確認ができない場合は、保護者に連絡いたします。\n学校の施設を活用して、自由遊びや学習、クラブ事業などさまざまな活動をします。\n\n自由遊び\n指導員の指導や見守りを受けながら、自由に過ごす時間です。\n\n学習\n低学年には学習習慣の定着のため学習時間を設けます。高学年には宿題の声かけをします。\n\nクラブ事業\n各クラブでそれぞれ実施しているプログラムです。文化的活動やスポーツ活動など、様々な事業を行っています。 プログラムは、指導員が企画運営するものを中心に、地域の方々の支援や協力、企業の社会貢献活動と連携するなど多彩な内容です。\n\n17時　A・B会員 一斉下校　\n17時を超えて利用するB会員にはおやつを提供します。（利用者負担・1食70円程度）\n（注）17時を超えて利用する場合、保護者のお迎えが必要です。\n18時　B会員の帰り時間\n19時30分　　特別延長対応の終了\n\nお願い\n災害・緊急時等について\n災害時（地震、火事、台風、大雪など）や、感染症などで学校が休校の場合は、放課後クラブを臨時にお休みする事があります。感染症などで学校が学級閉鎖、学年閉鎖になった場合、該当の学級、学年の児童の利用はできません。\nまた、緊急時には、早めに帰宅させたり、保護者に早めにお迎えをお願いする事があります。\n\n病気・けがについて\n急な発熱、けがの時は保護者に連絡し、お迎えに来ていただく事があります。勤務先以外の場所へ行かれる日（出張など）は連絡先をお知らせください。　　　　　\n\n保険について\n放課後クラブ利用者が加入するスポーツ安全保険は、入通院が1日以上で対象になります。なお、他団体の活動でスポーツ安全保険に加入している場合も放課後クラブ会員として、別途加入していただきます。\n\nお迎えについて\n17時を超えて利用する場合は、お迎えをお願いします。1年生については、17時前の帰宅の場合でも、帰宅路などに慣れるまではお迎えをお願いします。\n\n電話連絡について\n電話でのお問い合わせ、連絡などは、学校ではなく下記の放課後クラブ室の専用電話におかけください。\n\n放課後クラブ 実施小学校（全区立小学校）\nhttps://www.city.shibuya.tokyo.jp/kodomo/gakko-kyoiku/hokago-kurabu/hokagokurabu.html",
+      "target": {
+        "targetPersons": "全ての児童",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "渋谷区では、全区立小学校内に放課後クラブを開設しています。 保護者の就労状況にかかわらず、全ての児童を対象とし、学校や地域との連携により、児童一人一人を健やかに育てていくことを目指しています。 児童は、学校施設という安全な環境のもとで、友達とスポーツ、ゲーム、工作などをして楽しく放課後の時間を過ごすとともに、宿題や反復学習にも取り組みます。 教育的視点に基づいた、文化的活動・スポーツ活動・学習活動のほか、異年齢交流や地域の人との交流の機会を提供し、集団生活の中で児童の自主性、社会性及び創造性を養います。",
+        "monetarySupport": null,
+        "materiallySupport": "渋谷区では、全区立小学校内に放課後クラブを開設しています。 保護者の就労状況にかかわらず、全ての児童を対象とし、学校や地域との連携により、児童一人一人を健やかに育てていくことを目指しています。 児童は、学校施設という安全な環境のもとで、友達とスポーツ、ゲーム、工作などをして楽しく放課後の時間を過ごすとともに、宿題や反復学習にも取り組みます。 教育的視点に基づいた、文化的活動・スポーツ活動・学習活動のほか、異年齢交流や地域の人との交流の機会を提供し、集団生活の中で児童の自主性、社会性及び創造性を養います。"
+      },
+      "cost": null,
+      "costConditions": "放課後クラブ利用料は無料です。 ただし、登録時の保険料(800円)および、おやつ代(1食70円程度)、放課後クラブ事業の教材費などの実費については保護者負担となります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "放課後クラブ 実施小学校（全区立小学校）\nhttps://www.city.shibuya.tokyo.jp/kodomo/gakko-kyoiku/hokago-kurabu/hokagokurabu.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "放課後クラブの利用と会員登録;https://www.city.shibuya.tokyo.jp/kodomo/gakko-kyoiku/hokago-kurabu/hokagokurabutouroku.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.shibuya.tokyo.jp/kodomo/gakko-kyoiku/hokago-kurabu/hokagokurabutouroku.html",
+          "title": "放課後クラブの利用と会員登録"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kodomo/gakko-kyoiku/hokago-kurabu/hokagokurabu.html",
+        "title": "放課後クラブ"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "地域学校支援課放課後クラブ推進係",
+        "contactPhone": "03-3463-3068",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4904",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM79",
+        "organization": "9000020131130",
+        "compartment": "地域学校支援課放課後クラブ推進係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-02-21",
+      "odInformation": {
+        "updateDate": "2024-06-21",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第2項"
+      },
+      "tag": {
+        "categoryCode": [
+          "005"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "離乳食教室",
+        "shortName": "4~5か月児離乳食教室"
+      },
+      "summary": "生後4～5か月のお子さんを持つ保護者でこれから離乳食を始める方を対象に、離乳食を始める時のポイントやすすめ方についての調理実習付きの教室を開催しています。",
+      "description": "各種栄養教室\n離乳食、幼児食、成人向けの教室を実施しています。 申込方法や詳細については各教室案内をご覧ください。\n\n更新日\n\n2024年3月14日\n\n離乳食\n幼児食\n成人向け\n離乳食\n|種類|対象|日程・内容|\n|:----|:----|:----|\n|4~5か月児離乳食教室|生後4～5か月児を持つ保護者<br>（これから離乳食を始める方）|4～5か月児離乳食教室のご案内（PDF 282KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/ef6f473b0955439da62238a68b61dd80/eiyou_kyoshitsu1.pdf|\n|9~11か月児とりわけ離乳食|生後9~11か月児を持つ保護者|9~11か月児とりわけ離乳食のご案内（PDF 244KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/030c1927132e4299a9dc1b5dadf7e5df/eiyou_kyoshitsu2.pdf|\n\n参考ページ\n渋谷区栄養YouTube　離乳食の作り方(外部サイト）;https://www.youtube.com/channel/UCi2nMSmrT7JKlXN7P2LRiFQ/videos?app=desktop\n渋谷区子育てネウボラYouTube　離乳食の進め方について(外部サイト) ;https://www.youtube.com/watch?v=SDOSfwcupgk\n渋谷区子育てネウボラYouTube　離乳中期から後期、完了期へのステップアップ（外部サイト）;https://www.youtube.com/watch?v=z-xkFAwVgYM\n渋谷区子育てネウボラYouTube　離乳後期のレシピ1（外部サイト） ;https://www.youtube.com/watch?v=ZJ6EatdE5U0\n渋谷区子育てネウボラYouTube　離乳後期のレシピ2（外部サイト） ;https://www.youtube.com/watch?v=o9oVgXOo4jM",
+      "target": {
+        "targetPersons": "|種類|対象|日程・内容|\n|:----|:----|:----|\n|4~5か月児離乳食教室|生後4～5か月児を持つ保護者<br>（これから離乳食を始める方）|4～5か月児離乳食教室のご案内（PDF 282KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/ef6f473b0955439da62238a68b61dd80/eiyou_kyoshitsu1.pdf|\n|9~11か月児とりわけ離乳食|生後9~11か月児を持つ保護者|9~11か月児とりわけ離乳食のご案内（PDF 244KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/030c1927132e4299a9dc1b5dadf7e5df/eiyou_kyoshitsu2.pdf|\n",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 5
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "|種類|対象|日程・内容|\n|:----|:----|:----|\n|4~5か月児離乳食教室|生後4～5か月児を持つ保護者<br>（これから離乳食を始める方）|4～5か月児離乳食教室のご案内（PDF 282KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/ef6f473b0955439da62238a68b61dd80/eiyou_kyoshitsu1.pdf|\n|9~11か月児とりわけ離乳食|生後9~11か月児を持つ保護者|9~11か月児とりわけ離乳食のご案内（PDF 244KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/030c1927132e4299a9dc1b5dadf7e5df/eiyou_kyoshitsu2.pdf|\n"
+      },
+      "support": {
+        "description": "離乳食をこれから始める方を対象とした調理実習付き教室です。",
+        "monetarySupport": null,
+        "materiallySupport": "離乳食をこれから始める方を対象とした調理実習付き教室です。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "10:30",
+        "toYMD": null,
+        "toHM": "11:30",
+        "conditions": "4～5か月児離乳食教室のご案内（PDF 282KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/ef6f473b0955439da62238a68b61dd80/eiyou_kyoshitsu1.pdf"
+      },
+      "implementationPlace": {
+        "implementationName": "中央保健相談所,恵比寿保健相談所,幡ヶ谷保健相談所",
+        "implementationAddress": null
+      },
+      "capacity": "各回６名",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "LINE(30日前より予約可)",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "30日前より予約可"
+      },
+      "electronicSubmission": true,
+      "belongings": "大人用エプロン",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/030c1927132e4299a9dc1b5dadf7e5df/eiyou_kyoshitsu2.pdf",
+          "title": "9~11か月児とりわけ離乳食のご案内（PDF 244KB）"
+        },
+        {
+          "uri": "https://www.youtube.com/watch?v=ZJ6EatdE5U0",
+          "title": "渋谷区子育てネウボラYouTube　離乳後期のレシピ1（外部サイト） "
+        },
+        {
+          "uri": "https://www.youtube.com/watch?v=z-xkFAwVgYM",
+          "title": "渋谷区子育てネウボラYouTube　離乳中期から後期、完了期へのステップアップ（外部サイト）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/ef6f473b0955439da62238a68b61dd80/eiyou_kyoshitsu1.pdf",
+          "title": "4～5か月児離乳食教室のご案内（PDF 282KB）"
+        },
+        {
+          "uri": "https://www.youtube.com/channel/UCi2nMSmrT7JKlXN7P2LRiFQ/videos?app=desktop",
+          "title": "渋谷区栄養YouTube　離乳食の作り方(外部サイト）"
+        },
+        {
+          "uri": "https://www.youtube.com/watch?v=o9oVgXOo4jM",
+          "title": "渋谷区子育てネウボラYouTube　離乳後期のレシピ2（外部サイト）"
+        },
+        {
+          "uri": "https://www.youtube.com/watch?v=SDOSfwcupgk",
+          "title": "渋谷区子育てネウボラYouTube　離乳食の進め方について(外部サイト) "
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/eiyou-syokuseikatsu/eiyou_kyoshitsu.html",
+        "title": "各種栄養教室"
+      },
+      "formLink": [
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/ef6f473b0955439da62238a68b61dd80/eiyou_kyoshitsu1.pdf",
+          "title": "4～5か月児離乳食教室のご案内（PDF 282KB）"
+        }
+      ],
+      "contact": {
+        "contactName": "中央保健相談所保健管理係",
+        "contactPhone": "03-3463-2444",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4944",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+1+UM798",
+        "organization": "9000020131130",
+        "compartment": "中央保健相談所保健管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-14",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法、食育基本法",
+        "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）、法第5条（子どもの食育における保護者、教育関係者等の役割）、21条 （地域における食生活の改善のための取組の推進）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊娠・出産に関する教室・講習会",
+        "shortName": "ひよこママの時間"
+      },
+      "summary": "生後1か月～5か月の赤ちゃんを持つママを対象に「わたし」を主語に安心してお話しできる場です。",
+      "description": "ひよこママの時間\nひよこママの時間に関する案内ページです。\n\n更新日\n\n2024年3月4日\n\n対象\n日時・場所\n持ち物\n申し込み\n生後1か月～5か月の赤ちゃんを持つママを対象に「わたし」を主語に安心してお話しできる場です。\n\nよくテーマになる内容\n\n他のママたちはどう過ごしているのか\n子育ての悩みや不安（赤ちゃんが泣き止まない、ワンオペ育児の大変さなど）\n夫婦や家族関係のこと\n\n令和6年度 ひよこママの時間のご案内（PDF 612KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/230165278c1c414d8e4e99ec119cf4b3/R6hiyokomama.pdf\nPDFファイルを見るには、Adobe社から無償配布されている Adobe Reader などのソフトウェアが必要です。 詳しくは、PDFファイルをご覧になるにはのページを参照してください。\n\n対象\n生後1～5か月（6か月未満）の乳児を育てている母親（赤ちゃんと一緒におこしください）\n\n日時・場所\nいずれも時間は、14時～15時30分（受付：13時45分～14時）\n\n日程表\nhttps://www.city.shibuya.tokyo.jp/kodomo/ninshin/ninshin-sodan/hiyoko.html\n \n持ち物\nおむつ、バスタオル、着替え、母子手帳など\n\n申し込み\n当日会場で（受付時間内におこしください）\n（注）お住まいのご住所により、参加できる会場が異なります。ご注意ください。",
+      "target": {
+        "targetPersons": "生後1～5か月（6か月未満）の乳児を育てている母親（赤ちゃんと一緒におこしください）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 5
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 1
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後1～5か月（6か月未満）の乳児"
+      },
+      "support": {
+        "description": "生後1か月～5か月の赤ちゃんを持つママを対象に「わたし」を主語に安心してお話しできる場です。\n\nよくテーマになる内容\n\n他のママたちはどう過ごしているのか\n子育ての悩みや不安（赤ちゃんが泣き止まない、ワンオペ育児の大変さなど）\n夫婦や家族関係のこと",
+        "monetarySupport": null,
+        "materiallySupport": "生後1か月～5か月の赤ちゃんを持つママを対象に「わたし」を主語に安心してお話しできる場です。\n\nよくテーマになる内容\n\n他のママたちはどう過ごしているのか\n子育ての悩みや不安（赤ちゃんが泣き止まない、ワンオペ育児の大変さなど）\n夫婦や家族関係のこと"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "14:00",
+        "toYMD": null,
+        "toHM": "15:30",
+        "conditions": "日時・場所\nいずれも時間は、14時～15時30分（受付：13時45分～14時）\n\n日程表\nhttps://www.city.shibuya.tokyo.jp/kodomo/ninshin/ninshin-sodan/hiyoko.html"
+      },
+      "implementationPlace": {
+        "implementationName": "https://www.city.shibuya.tokyo.jp/kodomo/ninshin/ninshin-sodan/hiyoko.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "当日会場で（受付時間内におこしください）\n（注）お住まいのご住所により、参加できる会場が異なります。ご注意ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "おむつ、バスタオル、着替え、母子手帳など",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "中央保健相談所保健サービス係,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係",
+      "relatedLink": [
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/230165278c1c414d8e4e99ec119cf4b3/R6hiyokomama.pdf",
+          "title": "令和6年度 ひよこママの時間のご案内（PDF 612KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kodomo/ninshin/ninshin-sodan/hiyoko.html",
+        "title": "ひよこママの時間"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "中央保健相談所保健サービス係,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係",
+        "contactPhone": "03-3463-2439,03-3443-6251,03-3374-7591",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4944,FAX03-3443-6253,FAX03-3374-5985",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+2+UM33",
+        "organization": "9000020131130",
+        "compartment": "中央保健相談所保健サービス係,恵比寿保健相談所保健サービス係,幡ヶ谷保健相談所保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-04",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "離乳食教室",
+        "shortName": "9~11か月児とりわけ離乳食"
+      },
+      "summary": "生後9～11か月のお子さんを持つ保護者を対象に、家族の食事と一緒に作れる離乳後期・完了期の離乳食についてのデモンストレーション付きの教室を開催しています。",
+      "description": "各種栄養教室\n離乳食、幼児食、成人向けの教室を実施しています。 申込方法や詳細については各教室案内をご覧ください。\n\n更新日\n\n2024年3月14日\n\n離乳食\n幼児食\n成人向け\n離乳食\n|種類|対象|日程・内容|\n|:----|:----|:----|\n|4~5か月児離乳食教室|生後4～5か月児を持つ保護者<br>（これから離乳食を始める方）|4～5か月児離乳食教室のご案内（PDF 282KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/ef6f473b0955439da62238a68b61dd80/eiyou_kyoshitsu1.pdf|\n|9~11か月児とりわけ離乳食|生後9~11か月児を持つ保護者|9~11か月児とりわけ離乳食のご案内（PDF 244KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/030c1927132e4299a9dc1b5dadf7e5df/eiyou_kyoshitsu2.pdf|\n\n参考ページ\n渋谷区栄養YouTube　離乳食の作り方(外部サイト）;https://www.youtube.com/channel/UCi2nMSmrT7JKlXN7P2LRiFQ/videos?app=desktop\n渋谷区子育てネウボラYouTube　離乳食の進め方について(外部サイト) ;https://www.youtube.com/watch?v=SDOSfwcupgk\n渋谷区子育てネウボラYouTube　離乳中期から後期、完了期へのステップアップ（外部サイト）;https://www.youtube.com/watch?v=z-xkFAwVgYM\n渋谷区子育てネウボラYouTube　離乳後期のレシピ1（外部サイト） ;https://www.youtube.com/watch?v=ZJ6EatdE5U0\n渋谷区子育てネウボラYouTube　離乳後期のレシピ2（外部サイト） ;https://www.youtube.com/watch?v=o9oVgXOo4jM",
+      "target": {
+        "targetPersons": "|種類|対象|日程・内容|\n|:----|:----|:----|\n|4~5か月児離乳食教室|生後4～5か月児を持つ保護者<br>（これから離乳食を始める方）|4～5か月児離乳食教室のご案内（PDF 282KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/ef6f473b0955439da62238a68b61dd80/eiyou_kyoshitsu1.pdf|\n|9~11か月児とりわけ離乳食|生後9~11か月児を持つ保護者|9~11か月児とりわけ離乳食のご案内（PDF 244KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/030c1927132e4299a9dc1b5dadf7e5df/eiyou_kyoshitsu2.pdf|\n",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 11
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 9
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "|種類|対象|日程・内容|\n|:----|:----|:----|\n|4~5か月児離乳食教室|生後4～5か月児を持つ保護者<br>（これから離乳食を始める方）|4～5か月児離乳食教室のご案内（PDF 282KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/ef6f473b0955439da62238a68b61dd80/eiyou_kyoshitsu1.pdf|\n|9~11か月児とりわけ離乳食|生後9~11か月児を持つ保護者|9~11か月児とりわけ離乳食のご案内（PDF 244KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/030c1927132e4299a9dc1b5dadf7e5df/eiyou_kyoshitsu2.pdf|\n"
+      },
+      "support": {
+        "description": "家族の食事と一緒に作れる\n離乳後期・完了期の離乳食の作り方を紹介します。",
+        "monetarySupport": null,
+        "materiallySupport": "家族の食事と一緒に作れる\n離乳後期・完了期の離乳食の作り方を紹介します。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "13:30",
+        "toYMD": null,
+        "toHM": "14:30",
+        "conditions": "9~11か月児とりわけ離乳食のご案内（PDF 244KB）;https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/030c1927132e4299a9dc1b5dadf7e5df/eiyou_kyoshitsu2.pdf"
+      },
+      "implementationPlace": {
+        "implementationName": "中央保健相談所,恵比寿保健相談所,幡ヶ谷保健相談所",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "LINE(30日前より予約可)",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "30日前より予約可"
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.youtube.com/channel/UCi2nMSmrT7JKlXN7P2LRiFQ/videos?app=desktop",
+          "title": "渋谷区栄養YouTube　離乳食の作り方(外部サイト）"
+        },
+        {
+          "uri": "https://www.youtube.com/watch?v=ZJ6EatdE5U0",
+          "title": "渋谷区子育てネウボラYouTube　離乳後期のレシピ1（外部サイト） "
+        },
+        {
+          "uri": "https://www.youtube.com/watch?v=o9oVgXOo4jM",
+          "title": "渋谷区子育てネウボラYouTube　離乳後期のレシピ2（外部サイト）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/ef6f473b0955439da62238a68b61dd80/eiyou_kyoshitsu1.pdf",
+          "title": "4～5か月児離乳食教室のご案内（PDF 282KB）"
+        },
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/030c1927132e4299a9dc1b5dadf7e5df/eiyou_kyoshitsu2.pdf",
+          "title": "9~11か月児とりわけ離乳食のご案内（PDF 244KB）"
+        },
+        {
+          "uri": "https://www.youtube.com/watch?v=SDOSfwcupgk",
+          "title": "渋谷区子育てネウボラYouTube　離乳食の進め方について(外部サイト) "
+        },
+        {
+          "uri": "https://www.youtube.com/watch?v=z-xkFAwVgYM",
+          "title": "渋谷区子育てネウボラYouTube　離乳中期から後期、完了期へのステップアップ（外部サイト）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.shibuya.tokyo.jp/kenko/iryo-kenko/eiyou-syokuseikatsu/eiyou_kyoshitsu.html",
+        "title": "各種栄養教室"
+      },
+      "formLink": [
+        {
+          "uri": "https://files.city.shibuya.tokyo.jp/assets/12995aba8b194961be709ba879857f70/030c1927132e4299a9dc1b5dadf7e5df/eiyou_kyoshitsu2.pdf",
+          "title": "9~11か月児とりわけ離乳食のご案内（PDF 244KB）"
+        }
+      ],
+      "contact": {
+        "contactName": "中央保健相談所保健管理係",
+        "contactPhone": "03-3463-2444",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX03-5458-4944",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131130;渋谷区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020131130+2+UM798",
+        "organization": "9000020131130",
+        "compartment": "中央保健相談所保健管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-14",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "渋谷区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法、食育基本法",
+        "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）、法第5条（子どもの食育における保護者、教育関係者等の役割）、21条 （地域における食生活の改善のための取組の推進）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

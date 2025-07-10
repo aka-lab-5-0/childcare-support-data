@@ -1,0 +1,2702 @@
+{
+  "version": "2025-07-10T02:38:54.102Z",
+  "areaCode": "131113",
+  "areaName": "大田区",
+  "category": "vaccination",
+  "count": 17,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "ロタウイルス感染症予防接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "ロタウイルス感染症予防接種\nページ番号：388473714\n更新日：2022年7月1日\n予防接種法の改正により、令和2年10月1日から定期予防接種の対象となりました。令和2年8月1日以降に生まれた方が対象です。\n\n対象者、接種方法等\nロタウイルスワクチンは2種類あり、どちらも飲むタイプの生ワクチンです。2種類とも、効果や安全性に変わりありませんが、接種回数が異なります。どちらのワクチンもロタウイルス胃腸炎の発症を7～8割減らし、入院するような重症化は、そのほとんどが予防できます。\n\n接種時期と受け方\n|ワクチン名|ロタリックス（1価）|ロタテック（5価）|\n|:----|:----|:----|\n|接種時期出生6週0日後から24週0日後|出生6週0日後から32週0日後|\n|^|どちらのワクチンも生後2か月に至った日から出生14週6日後までに初回接種をします。|<|\n|接種回数|2回接種（27日以上の間隔をあける）|3回接種（27日以上の間隔をあける）|\n|成分の違い|生ワクチンは、弱毒ウイルスを感染させて、免疫をつけます。|<|\n|^|経口弱毒生ヒトロタウイルスワクチン|5価経口弱毒生ロタウイルスワクチン|\n|^|通常ヒトに感染する、ヒト由来ロタウイルスを弱毒化したウイルス（1種類）で、主要流行株の5種類に効果あり|動物由来のロタウイルスに、ヒト由来ロタウイルスの遺伝子の一部を入れ替えて、ヒトに感染できるようにした弱毒ウイルス（5種類）|\n（注1）出生6週0日後とは生まれた曜日から6週目の同じ曜日\n（注2）出生14週6日後とは生まれた曜日から15周目の同じ曜日の前日\n\n接種間隔のイメージ\n接種間隔のイメージ\n接種間隔のイメージ図\n接種後1～2週間は「腸重積症」に注意しましょう\n腸重積症とは、腸管に腸管がはまり込む病気です。腸の組織に障害を起こすことがあるため、速やかな治療が必要です。ワクチン接種から1～2週間くらいまでの間には、腸重積症のリスクが通常より高まると報告されています。\n腸重積症の症状としては\n●突然激しく泣く\n●機嫌が良かったり不機嫌になったりを繰り返す\n●嘔吐する\n●血便が出る\n●ぐったりして顔色が悪い\nなどがあります。接種後に症状がひとつでも見られた場合は、速やかに医療機関を受診しましょう。腸重積症はロタウイルスワクチンの接種にかかわらず、乳幼児がり患することのある疾患で、まれな病気ではありません。\n月齢が進むと、腸重積症にかかりやすくなります。できるだけ腸重積症の起こりにくい早めの時に接種を受けましょう。初回接種を生後15週以降に受けることはおすすめしていません。",
+      "target": {
+        "targetPersons": "令和2年8月1日以降に生まれた方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "ロタリックス（1価）出生6週0日後から24週0日後\nロタテック（5価）出生6週0日後から32週0日後"
+      },
+      "support": {
+        "description": "ロタウイルスワクチンは2種類あり、どちらも飲むタイプの生ワクチンです。2種類とも、効果や安全性に変わりありませんが、接種回数が異なります。どちらのワクチンもロタウイルス胃腸炎の発症を7～8割減らし、入院するような重症化は、そのほとんどが予防できます。",
+        "monetarySupport": null,
+        "materiallySupport": "ロタウイルスワクチンは2種類あり、どちらも飲むタイプの生ワクチンです。2種類とも、効果や安全性に変わりありませんが、接種回数が異なります。どちらのワクチンもロタウイルス胃腸炎の発症を7～8割減らし、入院するような重症化は、そのほとんどが予防できます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "対象者、接種方法等\n予診票は、生後2か月になるまでに送付しています。\n転入などで予診票がお手元にない方は、予診票発行の手続きが必要です。詳細は こちら。;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html\n予防接種を受ける際は、予診票をお持ちになり、同封してある医療機関に直接又は電話で予約をしてください。\nロタウイルスワクチンは2種類あり、どちらも飲むタイプの生ワクチンです。2種類とも、効果や安全性に変わりありませんが、接種回数が異なります。どちらのワクチンもロタウイルス胃腸炎の発症を7～8割減らし、入院するような重症化は、そのほとんどが予防できます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html",
+          "title": "蒲田地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html",
+          "title": "調布地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html",
+          "title": "大森地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+          "title": "糀谷・羽田地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html",
+          "title": "感染症対策課"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/rota-virus.html",
+        "title": "ロタウイルス感染症予防接種"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1682921360517",
+          "title": "【定期予防接種】予診票発行申請"
+        }
+      ],
+      "contact": {
+        "contactName": "感染症対策課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html,大森地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html,調布地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html,蒲田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html,糀谷・羽田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+        "contactPhone": "03-4446-2643,03-5764-0661,03-3726-4145,03-5713-1701,03-3743-4161",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=hokansen",
+        "contactComment": "FAX：03-5764-1524,FAX：03-5764-0659,FAX：03-3726-6331,FAX：03-5713-0290,FAX：03-6423-8838",
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+10+UM54",
+        "organization": "1000020131113",
+        "compartment": "感染症対策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-07-01",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "DT（ジフテリア、破傷風二種混合）"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "定期予防接種の種類、実施医療機関等\nページ番号：917724194\n更新日：2024年5月20日\n令和6年4月1日より、5種混合ワクチン及び小児肺炎球菌（15価）が定期接種化されました。\n詳細については、下記記載の各種ワクチンのホームページをご確認ください。\n\n　予防接種には、予防接種法によって対象疾病、対象者及び接種期間などが定められた定期の予防接種と、法に定められていない予防接種（任意予防接種）があります。\n現在の定期予防接種は以下のとおりです。また、接種には予診票が必要です。\n\n対象疾病と予防接種（ワクチン）名\n対象疾病\t予防接種（ワクチン）名\nジフテリア\n百日せき\n破傷風\n急性灰白髄炎（ポリオ）\nHib（インフルエンザ菌b型）感染症\t沈降精製百日せきジフテリア破傷風不活化ポリオHib（インフルエンザ菌b型）感染症混合ワクチン（DPT-IPV-Hib 5種混合）\n沈降精製百日せきジフテリア破傷風不活化ポリオ混合ワクチン（DPT-IPV 4種混合）\n沈降精製百日せきジフテリア破傷風混合ワクチン（DPT 3種混合）\n不活化ポリオワクチン（IPV）\n\n沈降ジフテリア破傷風混合トキソイド（DT 2種混合)\n結核\t経皮接種用乾燥BCGワクチン\n麻しん\n風しん\t乾燥弱毒生麻しん風しん混合ワクチン（MR）\n　　または\n乾燥弱毒生麻しんワクチン（M）\n乾燥弱毒生風しんワクチン（R）\n日本脳炎\t乾燥細胞培養日本脳炎ワクチン\nHib（インフルエンザ菌b型）感染症\t乾燥ヘモフィルスb型ワクチン\n小児肺炎球菌感染症\t沈降13価肺炎球菌結合型ワクチン\n沈降15価肺炎球菌結合型ワクチン\nB型肝炎\t組換え沈降B型肝炎ワクチン\n水痘（水ぼうそう）\t乾燥弱毒生水痘ワクチン\nヒトパピローマウイルス感染症（HPV）\t組換え沈降2価ヒトパピローマウイルス様粒子ワクチン\n組換え沈降4価ヒトパピローマウイルス様粒子ワクチン\n　　または\n組換え沈降9価ヒトパピローマウイルス様粒子ワクチン\nロタウイルス感染症\t経口弱毒生ヒトロタウイルスワクチン\n　　または\n5価経口弱毒生ロタウイルスワクチン\n定期予防接種の種類および接種時期一覧表（令和6年4月1日現在）（PDF：982KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/yobousessyu.files/20240401yobosesshuitiran.pdf\n\n乳幼児の定期予防接種\n・予防接種予診票は、生後2か月になる前までに送付いたします。転入等で大田区発行の予防接種予診票をお持ちでない方は、予診票発行の手続きが必要です。詳細はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html。\n・予防接種は、区内予防接種実施医療機関で行います。あらかじめ予約など確認の電話をしたうえで接種してください。\n・各予防接種についての詳しい内容は、下記リンクをご覧ください。\n\n【令和6年4月1日より】5種混合ワクチン（DPT－IPVーHib）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/20240401DPT-IPV-Hib.html\n\n4種混合ワクチン（DPT－IPV）と3種混合ワクチン（DPT）及び不活化ポリオワクチン（IPV）予防接種;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/dpt-ipv.html\n\nBCG予防接種;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/BCGseidohennkou.html\n\nMR（麻しん、風しん）予防接種;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/H24MRoshirase.html\n\n日本脳炎予防接種;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nichinou.html\n\nHib（インフルエンザ菌b型）感染症予防接種（平成25年4月1日開始）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/hib.html\n\n小児肺炎球菌感染症予防接種（平成25年4月1日開始）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/haien.html\n\n水痘（水ぼうそう）定期予防接種（平成26年10月1日開始）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/chickenpox.html\n\nB型肝炎予防接種;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/b-hepatitis_vaccination.html\n\nロタウイルスワクチン（令和2年10月1日開始）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/rota-virus.html\n\n小学生の定期予防接種\n1 DT（ジフテリア、破傷風二種混合）\n　DTの予診票は、対象年齢の方に自宅へ郵送します。\n　令和6年度は、新小学5年生へ3月25日に郵送しました。\n\n2 日本脳炎第2期\n　日本脳炎第2期の予診票は、対象年齢の方に自宅へ郵送します。\n　令和6年度は、新小学3年生へ3月25日に郵送しました。\n\n日本脳炎定期予防接種について;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nichinou.html\n\n中学生・高校生の定期予防接種\n1.ヒトパピローマウイルス（HPV）感染症\n　ヒトパピローマウイルス（HPV）感染症の予防接種は、平成25年6月14日付けの厚生労働省勧告文書に基づいて、積極的な接種の勧奨を差し控えていました。その後、令和3年11月26日付けの厚生労働省通知に基づき勧奨差し控えが撤廃されました。\n　詳細については、以下をご参照ください。\n\nヒトパピローマウイルス感染症予防接種（平成25年4月1日開始）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.html\n\n2. 日本脳炎第2期\n　平成17年に接種の勧奨を控えたことが原因で、本来接種を受けるべき時期に接種を受けられなかった方を対象として、接種の勧奨を行ないます。\n　令和6年度は、高校3年生に相当する年齢（生年月日が平成18年4月2日から平成19年4月1日まで）で、未接種の方に接種のご案内を送付します。\n　お手元に大田区の予防接種予診票がない方は、予診票発行の手続きが必要です。詳細はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html。\n\n日本脳炎予防接種;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nichinou.html\n\n定期予防接種実施における保護者以外の同伴について\n　お子様の予防接種に同伴が困難な保護者の方は、保護者からの委任状にもとづき、保護者以外の方が同伴することができます。同伴者の方は、普段からお子さんの健康状態をよく知っている方に限ります。\n　委任状は、予防接種の当日までに保護者本人が記載し、同伴者が医療機関に持参してください。医師の診察・説明を受けた後、接種に同意する場合は、同伴者が予診票の保護者自署欄（同意欄）に、署名することになります。\n\n委任状の書式はこちら（PDF：84KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/yobousessyu.files/20210628ininjo.pdf\n\n定期予防接種を実施している医療機関\n医療機関は変更になっている場合があります。あらかじめ電話等で確認してからおでかけください。\n\n乳幼児等予防接種実施医療機関（令和６年5月20日現在）（PDF：994KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/yobousessyu.files/060520nyuuyouji.pdf\n\n外国語版「予防接種と子どもの健康」\n日本での予防接種について、英語・中国語・韓国語・ベトナム語・スペイン語等で説明されています。ご活用ください。\n\n外国語版「予防接種と子どもの健康」はこちら;https://www.yoboseshu-rc.com/pages/8/\n\n予防接種についてのお問い合わせ先\n感染症対策課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html\n　電話：03-5744-1263\n　FAX：03-5744-1254\nメールによるお問い合わせ;https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=hokansen\n\n大森地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html\n　電話：03-5764-0661\n　FAX：03-5764-0659\n\n調布地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html\n　電話：03-3726-4145\n　FAX：03-3726-6331\n\n蒲田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html\n　電話：03-5713-1701\n　FAX：03-5713-0290\n\n糀谷・羽田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html\n　電話：03-3743-4161\n　FAX：03-6423-8838",
+      "target": {
+        "targetPersons": "11歳以上13歳未満",
+        "lessThan": {
+          "targetAge": 13,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 11,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "11歳以上13歳未満"
+      },
+      "support": {
+        "description": "DT（ジフテリア、破傷風二種混合）",
+        "monetarySupport": null,
+        "materiallySupport": "DT（ジフテリア、破傷風二種混合）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "乳幼児の定期予防接種\n\n・予防接種予診票は、生後2か月になる前までに送付いたします。転入等で大田区発行の予防接種予診票をお持ちでない方は、予診票発行の手続きが必要です。詳細はこちら。\n・予防接種は、区内予防接種実施医療機関で行います。あらかじめ予約など確認の電話をしたうえで接種してください。\n・各予防接種についての詳しい内容は、下記リンクをご覧ください。\n\n【令和6年4月1日より】5種混合ワクチン（DPT－IPVーHib）\n\n4種混合ワクチン（DPT－IPV）と3種混合ワクチン（DPT）及び不活化ポリオワクチン（IPV）予防接種\n\nBCG予防接種\n\nMR（麻しん、風しん）予防接種\n\n日本脳炎予防接種\n\nHib（インフルエンザ菌b型）感染症予防接種（平成25年4月1日開始）\n\n小児肺炎球菌感染症予防接種（平成25年4月1日開始）\n\n水痘（水ぼうそう）定期予防接種（平成26年10月1日開始）\n\nB型肝炎予防接種\n\nロタウイルスワクチン（令和2年10月1日開始）\n\n小学生の定期予防接種\n\n1 DT（ジフテリア、破傷風二種混合）\n　DTの予診票は、対象年齢の方に自宅へ郵送します。\n　令和6年度は、新小学5年生へ3月25日に郵送しました。 \n\n2 日本脳炎第2期\n　日本脳炎第2期の予診票は、対象年齢の方に自宅へ郵送します。\n　令和6年度は、新小学3年生へ3月25日に郵送しました。\n\n日本脳炎定期予防接種について;/seikatsu/hoken/yobou_sessyu/kodomo/nichinou.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html",
+          "title": "蒲田地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html",
+          "title": "感染症対策課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+          "title": "糀谷・羽田地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html",
+          "title": "調布地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html",
+          "title": "大森地域健康課"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/yobousessyu.html",
+        "title": "定期予防接種の種類、実施医療機関等"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1682921360517",
+          "title": "【定期予防接種】予診票発行申請"
+        }
+      ],
+      "contact": {
+        "contactName": "感染症対策課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html,大森地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html,調布地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html,蒲田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html,糀谷・羽田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+        "contactPhone": "03-4446-2643,03-5764-0661,03-3726-4145,03-5713-1701,03-3743-4161",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=hokansen",
+        "contactComment": "FAX：03-5764-1524,FAX：03-5764-0659,FAX：03-3726-6331,FAX：03-5713-0290,FAX：03-6423-8838",
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+11+UM54",
+        "organization": "1000020131113",
+        "compartment": "感染症対策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-20",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "子宮頸がん予防（ヒトパピローマウイルス感染症）ワクチン"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "子宮頸がん予防（ヒトパピローマウイルス感染症）ワクチン\nページ番号：561812673\n更新日：2024年5月20日\n　ヒトパピローマウイルス感染症（HPV）予防ワクチンは、平成25年6月から厚生労働省の通知に基づき、区は積極的勧奨を差し控えていました。その後、HPVワクチンの安全性について特段の懸念が認められないことが確認され、接種の有効性が副反応のリスクを明らかに上回ると認められたことにより、厚生労働省は令和3年11月に積極的勧奨を再開することとし、これに基づき、区から対象者の皆様に予診票を送付しています。\n\n【お知らせ】9価HPVワクチン（シルガード9）について\n　日本国内で使用できるHPVワクチンは、サーバリックス（2価HPVワクチン）、ガーダシル（4価HPVワクチン）、シルガード9（9価HPVワクチン）の3種類です。\n　このうち、これまで定期接種の対象となっていたワクチンはサーバリックスとガーダシルでしたが、令和5年4月1日からシルガード9が加わりました。　\n　既に発行している予診票にはシルガード9（9価HPVワクチン）の記載はありませんが、現在お持ちの予診票で接種できます。\n\nシルガード9の詳細については、以下をご覧ください。\n\n9価HPVワクチン接種のお知らせリーフレット（定期接種版）（PDF：603KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.files/R602_9hpvtekisesshu.pdf\n\n9価HPVワクチン接種のお知らせリーフレット（キャッチアップ版）（PDF：490KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.files/R602_9hpcatchupsesshu.pdf\n\n厚生労働省ホｰムページ：9価ヒトパピローマウイルス（HPV）ワクチン（シルガード9）について;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou/hpv_9-valentHPVvaccine.html\n\n定期予防接種の対象者\n　12歳になる日の属する年度の初日から16歳になる日の属する年度の末日までの間にある女子の方（小学校6年生から高校1年生の年齢に相当する女子）が対象です。\n　予防接種を受ける際に必要な予診票は、令和4年度において小学校6年生から高校1年生の年齢に相当する女子に対して令和4年7月29日（金曜日）にご自宅へ送付しました。\n　令和6年度は、新6年生になる女子の皆様に3月25日ご自宅へ郵送しました。\n\n大田区へ転入又は予診票を紛失された方、新6年生で予診票が届く前に接種を希望される方はこちらをご覧ください。;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.html#cmsE7EA4\nキャッチアップ接種の対象者\n　次の方が対象です。任意接種を含めて過去に3回接種済みの方は対象外です。\n（1）平成9年4月2日から平成18年4月1日までに生まれた女子（令和4～6年度対象）\n（2）平成18年4月2日から平成19年4月1日までに生まれた女子（令和5,6年度対象）\n（3）平成19年4月2日から平成20年4月1日までに生まれた女子（令和6年度対象）\n\n　予防接種を受ける際に必要な予診票は、対象(1)の方に対して令和4年8月31日（水曜日）にご自宅へ送付しました。\n　対象(2)及び(3)の方については定期接種対象者として送付した予診票をそのまま使用できます。\n\n大田区へ転入又は予診票を紛失された方はこちらをご覧ください。\n償還払い（接種費用の助成）について\n　接種勧奨差し控えにより定期接種の機会を逃した平成9年4月2日から平成17年4月1日までに生まれた女子であって、定期接種の対象年齢を過ぎて自費で任意接種を受けた方がいらっしゃいます。\n　区ではこうした方に対する当該任意接種の費用を助成しています。詳細については以下のページをご覧ください。\n　子宮頸がん予防（ヒトパピローマウイルス感染症）ワクチンの接種費用助成について;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/hpv_shokan.html\n\n予防接種予診票の発行について（転入及び予診票を紛失された方へ）\n　予防接種を受けるには、大田区が交付する予診票が必要です。\n　予診票の交付をご希望の方は、電子申請からお願いします。詳細はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html。\n　\n　子宮頸がん予防ワクチンに限ってメールでの予診票交付申請を受け付けております。ご希望の方は以下の専用メールアドレスへ以下の情報をメール本文に記載しご連絡ください。(1週間程度で郵送いたします)\n・「接種者本人の氏名」\n・「接種者本人の生年月日」\n・「保護者様の氏名」（接種者本人が申請する場合は記載不要）\n・「接種者本人の住所」\n・「連絡先電話番号」\n\n【HPVワクチン専用メールアドレス】　vc-hokansen@city.ota.tokyo.jp\n\nお急ぎの方は、窓口でも交付することができます。\n窓口にお越しの際は、母子手帳をお持ちください。母子手帳がない場合は、接種者本人の身分証と保護者の身分証（接種者本人が申請する場合は不要）をお持ちください。\n\n【A6印刷推奨】HPV予防接種記録票（母子手帳に添付してご活用ください）（PDF：64KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.files/20230510HPVkiroku.pdf\n\n接種方法\nワクチンは3種類あり、それぞれ接種方法が異なります。以下の説明をご覧いただき、接種するワクチンを選択してください。\n原則、接種途中で別のワクチンに切り替えることはできません。\n2価又は4価HPVワクチンから9価HPVワクチンへ途中で切り替えを希望する場合は、接種医にご相談ください。\n高校1年生の方は、原則6か月の間に3回の接種が必要です。そのため、1回目の接種を9月30日までに開始しないと定期接種対象年齢を超えてしまう可能性がありますのでご注意ください（ワクチンによっては、4か月間で接種する方法もありますので主治医とご相談ください）。\nキャッチアップ接種対象者の方で任意接種含めて過去に1回又は2回接種した後、中断していた方については一般的な接種スケジュールをとることができなかった場合に該当します。以下の説明をご覧ください。\n2価ヒトパピローマウイルスワクチン（製品名：サーバリックス）\n＜一般的な接種スケジュール＞　下記表を確認\n1回目\n2回目　1回目の接種から1か月の間隔をおいて接種\n3回目　1回目の接種から6か月の間隔をおいて接種\n※は、一般的なスケジュールで接種できない場合です\n\n4価ヒトパピローマウイルスワクチン（製品名：ガーダシル）\n＜一般的な接種スケジュール＞　下記表を確認\n1回目\n2回目　1回目の接種から2か月の間隔をおいて接種\n3回目　1回目の接種から6か月の間隔をおいて接種\n※は、一般的なスケジュールで接種できない場合です\n\n9価ヒトパピローマウイルスワクチン（製品名：シルガード9）\n9価HPVワクチンは接種年齢によって接種回数（2回又は3回接種）が異なります。\n詳細は、添付リーフレットの詳細版をご確認ください。\n\n2回接種 （対象：1回目の接種を15歳になるまでに受ける方）\n＜一般的な接種スケジュール＞\n1回目\n2回目　1回目の接種から6か月の間隔をおいて接種\n※は、一般的なスケジュールで接種できない場合です\n\n3回接種 （対象：1回目の接種を15歳になってから受ける方）\n＜一般的な接種スケジュール＞\n1回目\n2回目　1回目の接種から2か月の間隔をおいて接種\n3回目　1回目の接種から6か月の間隔をおいて接種\n\n※は、一般的なスケジュールで接種できない場合です\n\n予防接種についての詳しい説明はこちらから\n\n予防接種説明書（定期予防接種者向け）（PDF：438KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.files/20240401hpvteikishesshu.pdf\n\n小学校6年～高校1年相当の女の子と保護者の方へ大切なお知らせ（概要版）（PDF：2,782KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.files/202402hpvgaiyoban.pdf\n\n小学校6年～高校1年相当の女の子と保護者の方へ大切なお知らせ（詳細版）（PDF：3,668KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.files/202402hpvshosaiban.pdf\n\n予防接種説明書（キャッチアップ接種者向け）（PDF：437KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.files/20240401hpvcatchupsesshu.pdf\n\nHPVワクチンの接種を逃した方に接種の機会をご提供します（PDF：2,100KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.files/202402hpvcatchuprifuretto.pdf\n\nHPVワクチンを受けたお子様と保護者の方へ（PDF：1,307KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.files/202402hpvsesshugo.pdf\n\nHPVワクチンに関するQ&A（厚生労働省）;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou/hpv_qa.html\n\nHPV予防接種実施医療機関一覧\n予防接種実施医療機関一覧（令和６年5月20日現在）（PDF：994KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.files/060520nyuuyouji.pdf\n\n副反応について\n厚生労働省ホｰムページ：ヒトパピローマウイルス感染症（子宮頸がん予防ワクチン）;https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou28/\n\n厚生労働省ホｰムページ：厚生科学審議会予防接種・ワクチン分科会副反応検討部会;https://www.mhlw.go.jp/stf/shingi/shingi-kousei_284075.html\n\n厚生労働省ホームページ：ヒトパピローマウイルス感染症の予防接種後に生じた症状の診療に係る協力医療機関について;https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou28/medical_institution/index.html\n\n子宮頸がん予防接種を含め、予防接種の副反応等の資料が掲載されています。\n\n東京都HPVワクチン接種後相談窓口（PDF：2,009KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.files/tokyotosoudanmadoguti.pdf\n\n東京都ではヒトパピローマウイルス感染症（HPV）の予防接種後に症状が生じた方に対する相談窓口を設置しました。",
+      "target": {
+        "targetPersons": "12歳になる日の属する年度の初日から16歳になる日の属する年度の末日までの間にある女子の方（小学校6年生から高校1年生の年齢に相当する女子）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "12歳になる日の属する年度の初日から16歳になる日の属する年度の末日までの間にある女子の方（小学校6年生から高校1年生の年齢に相当する女子）"
+      },
+      "support": {
+        "description": "【お知らせ】9価HPVワクチン（シルガード9）について\n　日本国内で使用できるHPVワクチンは、サーバリックス（2価HPVワクチン）、ガーダシル（4価HPVワクチン）、シルガード9（9価HPVワクチン）の3種類です。\n　このうち、これまで定期接種の対象となっていたワクチンはサーバリックスとガーダシルでしたが、令和5年4月1日からシルガード9が加わりました。\n　既に発行している予診票にはシルガード9（9価HPVワクチン）の記載はありませんが、現在お持ちの予診票で接種できます。\n\nシルガード9の詳細については、以下をご覧ください。\n\n9価HPVワクチン接種のお知らせリーフレット（定期接種版）（PDF：603KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.files/R602_9hpvtekisesshu.pdf\n\n9価HPVワクチン接種のお知らせリーフレット（キャッチアップ版）（PDF：490KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.files/R602_9hpcatchupsesshu.pdf\n\n厚生労働省ホｰムページ：9価ヒトパピローマウイルス（HPV）ワクチン（シルガード9）について;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou/hpv_9-valentHPVvaccine.html",
+        "monetarySupport": null,
+        "materiallySupport": "【お知らせ】9価HPVワクチン（シルガード9）について\n　日本国内で使用できるHPVワクチンは、サーバリックス（2価HPVワクチン）、ガーダシル（4価HPVワクチン）、シルガード9（9価HPVワクチン）の3種類です。\n　このうち、これまで定期接種の対象となっていたワクチンはサーバリックスとガーダシルでしたが、令和5年4月1日からシルガード9が加わりました。\n　既に発行している予診票にはシルガード9（9価HPVワクチン）の記載はありませんが、現在お持ちの予診票で接種できます。\n\nシルガード9の詳細については、以下をご覧ください。\n\n9価HPVワクチン接種のお知らせリーフレット（定期接種版）（PDF：603KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.files/R602_9hpvtekisesshu.pdf\n\n9価HPVワクチン接種のお知らせリーフレット（キャッチアップ版）（PDF：490KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.files/R602_9hpcatchupsesshu.pdf\n\n厚生労働省ホｰムページ：9価ヒトパピローマウイルス（HPV）ワクチン（シルガード9）について;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou/hpv_9-valentHPVvaccine.html"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "予防接種予診票の発行について（転入及び予診票を紛失された方へ）\n\n　予防接種を受けるには、大田区が交付する予診票が必要です。\n　予診票の交付をご希望の方は、電子申請からお願いします。詳細はこちら。;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html\n　\n　子宮頸がん予防ワクチンに限ってメールでの予診票交付申請を受け付けております。\n　ご希望の方は以下の専用メールアドレスへ以下の情報をメール本文に記載しご連絡ください。(1週間程度で郵送いたします)\n　申請内容に不備があった場合に限り、別途メールか電話にてご連絡いたします。\n　注意：本ワクチンは3回接種が必要です。必ず母子健康手帳等で過去の接種履歴をご確認ください。\n・「接種者本人の氏名」\n・「接種者本人の生年月日」\n・「保護者様の氏名」（接種者本人が申請する場合は記載不要）\n・「接種者本人の住所」\n・「連絡先電話番号」\n・「過去の接種履歴（接種ワクチンの種類、接種回数、接種年月日）」 ※転入者に限る\n\n【HPVワクチン専用メールアドレス】　vc-hokansen@city.ota.tokyo.jp\n\nお急ぎの方は、窓口でも交付することができます。\n窓口にお越しの際は、母子手帳をお持ちください。母子手帳がない場合は、接種者本人の身分証と保護者の身分証（接種者本人が申請する場合は不要）をお持ちください。【A6印刷推奨】HPV予防接種記録票（母子手帳に添付してご活用ください）（PDF：64KB）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.files/202402hpvshosaiban.pdf",
+          "title": "782KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/hpv_shokan.html",
+          "title": "子宮頸がん予防（ヒトパピローマウイルス感染症）ワクチンの接種費用助成について"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+          "title": "009KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.files/tokyotosoudanmadoguti.pdf",
+          "title": "予防接種実施医療機関一覧（令和６年5月20日現在）（PDF：994KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.files/20230510HPVkiroku.pdf",
+          "title": "【A6印刷推奨】HPV予防接種記録票（母子手帳に添付してご活用ください）（PDF：64KB）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou28/medical_institution/index.html",
+          "title": "HPVワクチンに関するQ&A（厚生労働省）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/stf/shingi/shingi-kousei_284075.html",
+          "title": "307KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.files/R602_9hpcatchupsesshu.pdf",
+          "title": "9価HPVワクチン接種のお知らせリーフレット（キャッチアップ版）（PDF：490KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html",
+          "title": "東京都HPVワクチン接種後相談窓口（PDF：2"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou28/",
+          "title": "HPVワクチンを受けたお子様と保護者の方へ（PDF：1"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html",
+          "title": "厚生労働省ホームページ：ヒトパピローマウイルス感染症の予防接種後に生じた症状の診療に係る協力医療機関について"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.files/R602_9hpvtekisesshu.pdf",
+          "title": "9価HPVワクチン接種のお知らせリーフレット（定期接種版）（PDF：603KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.files/202402hpvsesshugo.pdf",
+          "title": "予防接種説明書（キャッチアップ接種者向け）（PDF：437KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.files/202402hpvgaiyoban.pdf",
+          "title": "小学校6年～高校1年相当の女の子と保護者の方へ大切なお知らせ（概要版）（PDF：2"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html",
+          "title": "厚生労働省ホｰムページ：厚生科学審議会予防接種・ワクチン分科会副反応検討部会"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.files/202402hpvcatchuprifuretto.pdf",
+          "title": "668KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html",
+          "title": "こちら"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou/hpv_9-valentHPVvaccine.html",
+          "title": "厚生労働省ホｰムページ：9価ヒトパピローマウイルス（HPV）ワクチン（シルガード9）について"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html",
+          "title": "厚生労働省ホｰムページ：ヒトパピローマウイルス感染症（子宮頸がん予防ワクチン）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.files/20240401hpvcatchupsesshu.pdf",
+          "title": "小学校6年～高校1年相当の女の子と保護者の方へ大切なお知らせ（詳細版）（PDF：3"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.files/060520nyuuyouji.pdf",
+          "title": "100KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.files/20240401hpvteikishesshu.pdf",
+          "title": "予防接種説明書（定期予防接種者向け）（PDF：438KB）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou/hpv_qa.html",
+          "title": "HPVワクチンの接種を逃した方に接種の機会をご提供します（PDF：2"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/shikyukeigan230701.html",
+        "title": "子宮頸がん予防（ヒトパピローマウイルス感染症）ワクチン"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1682921360517",
+          "title": "【定期予防接種】予診票発行申請"
+        }
+      ],
+      "contact": {
+        "contactName": "感染症対策課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html,大森地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html,調布地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html,蒲田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html,糀谷・羽田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+        "contactPhone": "03-4446-2643,03-5764-0661,03-3726-4145,03-5713-1701,03-3743-4161",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=hokansen",
+        "contactComment": "FAX：03-5764-1524,FAX：03-5764-0659,FAX：03-3726-6331,FAX：03-5713-0290,FAX：03-6423-8838",
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+12+UM54",
+        "organization": "1000020131113",
+        "compartment": "感染症対策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-20",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊娠の届出・母子健康手帳の交付",
+        "shortName": "妊娠届・母子健康手帳交付"
+      },
+      "summary": "妊娠がわかったら妊娠の届出をしてください。妊娠の届出をした妊婦さんに母子健康手帳を交付します。母子健康手帳は、妊娠からお子さんが小学校に入学するまでの、母と子の健康の記録です。予防接種、健康診査などの際に必要となります。",
+      "description": "妊娠届・母子健康手帳交付\nページ番号：232029939\n更新日：2024年5月1日\n母子健康手帳の交付\n医療機関で妊娠の診断を受けたら、早めに下記の交付窓口に妊娠届出書を提出してください。\n交付するもの\n1．母子健康手帳\n2．妊婦健康診査受診票\n3．出生通知書（保健所提出用）\n4.　妊娠、出産、育児についての案内\n母子健康手帳は、引っ越し後もそのまま使用できます。\n\n妊娠届出に必要なもの\n◆　妊婦本人が届出する場合\n本人のマイナンバー　（マイナンバーカード、通知カード、住民票に記載しています）\n本人確認が出来る書類（運転免許証、パスポート、マイナンバーカード等）\n妊娠の診断を受けた医療機関の診察券\nマイナンバーが必要となる区の手続;https://www.city.ota.tokyo.jp/kuseijoho/mynumber/bangoseido/20151211tetsuduki.html\n\n◆　代理人が届出を行う場合\n原則として、妊婦本人の届出となりますが、妊婦本人がお越しになることが出来ない場合、ご家族の方が代理で届け出することが出来ます。\n\n【代理人が妊婦本人と同一世帯の場合】\n\n妊婦本人のマイナンバーがわかるもの（マイナンバーカード等）またはその写し\n代理人の本人確認が出来る書類\n妊娠の診断を受けた医療機関の診察券\n【代理人が妊婦本人と別世帯の場合】\n\n妊婦本人のマイナンバーがわかるもの（マイナンバーカード等）またはその写し\n代理人の本人確認が出来る書類\n妊娠の診断を受けた医療機関の診察券\n委任状（委任状は下記をご参照下さい。）\n委任状（PDF：51KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/ninsin.files/0306ininnjyou.pdf\n\n妊娠届出書\n妊娠届出書には、氏名などのほかに、「妊娠週数」「分娩予定日」「受診先の医療機関名及び所在地」の記入が必要です。\n　（注釈1）医療機関の証明書は必要ありません。\n\n届出先\n◆平日（8時30分～17時）のみ\n　・大森地域健康課\n　・調布地域健康課\n　・蒲田地域健康課\n　・糀谷・羽田地域健康課\n　・健康づくり課　\n　・各特別出張所\n◆夜間（月曜日・木曜日の17時～19時）・休日（日曜の9時～17時）のみ　\n　・大田区役所本庁舎1階「母子健康手帳受付（夜間・休日）窓口」\n（注釈1）祝日・年末年始は休みです。\n\n妊婦面接\n妊娠期から出産・子育て期への切れ目ない支援のきっかけづくりとして、\n妊婦の方に対し保健師または助産師が、お話を伺う面接を 実施しています。\n妊婦面接を受けていただいた妊婦の方へは、「大田区子育て応援券（こども商品券）1万円分」を差し上げます。\nまた、妊婦面接を受けていただくと「出産応援ギフト5万円相当」の支給対象となります。\n面接は、各地域健康課で実施しています。\n詳しくは、下記をご確認ください。\n\n妊婦面接;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/karugamo.html\n\n両親学級\n妊娠中の方とそのパートナーを対象に、妊娠中や産後に大切なことをお伝えしています。\n（注釈1）大田区両親学級は、株式会社ポピンズプロフェッショナルに委託し実施しています。\n詳しくは、下記をご確認ください。\n\n両親学級;https://www.city.ota.tokyo.jp/seikatsu/hoken/shussan/ryousinngakkyuu1niti.html\n\n母親学級\n大田区では、各地域健康課で母親学級を開催しています。\n詳しくは、下記をご確認ください。\n\n母親学級（3日制）平日開催;https://www.city.ota.tokyo.jp/seikatsu/hoken/shussan/ryoushin_gakkyu.html\n\n妊婦健康診査\nお問い合わせ先：健康づくり課 電話：03-5744-1661\n　「母と子の保健バッグ」に入っている「妊婦健康診査受診票（1回目用：水色、2回目以降用：黄色、合計14枚）」「妊婦超音波検査受診票（白色4枚）（注釈1）注1」「妊婦子宮頸がん検診受診票（桃色1枚）」を医療機関の受付に提出して受診してください。受診票は都内の医療機関でのみご利用いただけます。\n　検査項目は、問診、体重測定、血圧測定、尿検査、血液検査、梅毒検査、B型肝炎ウィルス検査、風疹抗体価検査等です。\n　受診票は、一定金額を上限として助成するものです。病院や医院での指導内容や検査項目により、自己負担額が発生しますのでご了承ください。なお、受診票は妊娠届出以降の妊婦健康診査でご利用いただけます。\n　注1）大田区では、令和5年4月1日以降に妊娠届出をされた方を対象に超音波検査の費用助成を1回から4回に増回しました。\n\n　大田区内で妊婦健康診査を実施している医療機関は下記の名簿をご覧ください。\n\n妊婦・乳児健康診査実施医療機関名簿（R6.5.1）（PDF：210KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/ninsin.files/ninpunyuujimeibo060501.pdf\n\n都外医療機関（里帰り出産等）で受診する方へ\n　受診費用の一部を助成します。\n　申請時期や方法の詳細は、下記のリンク先をご覧ください。\n\n大田区里帰り等妊婦健康診査・新生児聴覚検査費用助成について（PDF：178KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/ninsin.files/setumeisyo.pdf\n\n　申請書セットが必要な方は、母子健康手帳交付窓口でお申し出ください。\n\n申請書セット（PDF：275KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/ninsin.files/sinseisyoissiki.pdf\n\n多胎妊婦健康診査費用助成事業\n大田区では、単胎妊婦に比べ身体的な負担が大きく、頻回の妊婦健診が推奨される多胎妊婦に、14回を超える妊婦健診を自己負担で受診した場合に、その費用の全額または一部を助成します。\n\n多胎妊婦健康診査費助成事業のご案内（PDF：175KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/ninsin.files/tataininnpuhiyoujyosei.pdf\n\n多胎妊婦健康診査費助成申請書（第1号様式（第4条関係））（PDF：129KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/ninsin.files/sinseisyo-omoteura.pdf\n\n請求書（第4号様式（第7条関係））（PDF：66KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/ninsin.files/seikyuusyo.pdf\n\n　（注釈1）支払金口座振替依頼書は、3枚複写のためダウンロードできませんので、申請時に窓口にてご記入ください。\n\n妊婦歯科健康診査\nお問い合わせ先：健康づくり課　電話：03-5744-1661\n　「母と子の保健バッグ」に入っている受診票で、診察と指導などが、区の指定する医療機関で、無料で受けられます。\n\n妊娠高血圧症候群等医療費助成\nお問い合わせ先：各地域健康課\n　妊娠による高血圧症候群、糖尿病、産科出血、心疾患、貧血にかかっている妊産婦で、入院治療の必要がある場合には、\n（1）前年度の所得税3万円以下の世帯　\n（2）または（1）以外で入院見込期間が26日以上\nの要件のもとで、健康保険の自己負担分（入院期間分）を助成します。\n　なお、対象疾病には、それぞれ認定基準があり、症状によっては認定を受けられない場合があります。\n\n訪問指導\nお問い合わせ先：各地域健康課\n　妊産婦や新生児のいるご家庭へ、必要に応じ保健師や助産師が訪問し、相談・指導を行います。\n\n指定助産施設\nお問い合わせ先：各生活福祉課\n　生活保護世帯、特別区民税都民税非課税世帯、前年分の所得税額が8,400円以下の世帯で、入院して分べんする費用の支払が困難な妊産婦の方は、区指定の助産施設に入院できます。施設の利用で一部負担のある場合があります。\n\n出産育児一時金等の支給\n出産育児一時金は、出産時に出産費用として1人の子供につき50万円が支給されるというものです。 （出産育児一時金50万円は2023年4月1日から実施となりました。） 健康保険に入っている、もしくは、健康保険に入っている方の扶養家族である必要があります。\n詳しくは、加入している健康保険組合などにお問い合わせください。\n国民健康保険に加入している方は下記をご覧ください。\n\n国保年金課国保給付係　出産育児一時金;https://www.city.ota.tokyo.jp/seikatsu/kokunen/kokuho/ukerareru/ikuji.html\n\n子育てハンドブック\nお問い合わせ先：こども家庭部子育て支援課　電話：03-5744-1272　\n　子どもが、家庭や地域社会の中でたくさんの人たちと関わり、のびのびと成長できることはみんなの願いです。区では、子どもを安心して生み育てられる環境のまちづくりをめざし、さまざまな子育て支援に関わる事業を実施しています。\n　子育てのハンドブックは、子育ての不安や悩みが少しでも解消できるよう、育児についてのアドバイスをはじめ、子どもと子育てに関する事業を体系的にまとめた冊子です。\n\n配布対象について\n（1）妊娠届（母子健康手帳をお渡しするとき）を提出された方\n（2）未就学児（小学校入学前）を含む転入者世帯の方\n\n妊娠・出産のための動画シリーズ\n本動画は、令和3年度子ども・子育て支援推進調査研究事業（厚生労働省）によって作成された、\n日本産婦人科医会の作成・監修による、妊娠・出産について学べる10本の動画シリーズです。\nご家族みなさまで、是非ご覧ください。\n\n妊娠・出産のための動画シリーズ;https://mcmc.jaog.or.jp/pregnants/sessions/42",
+      "target": {
+        "targetPersons": "医療機関で妊娠の診断を受けたら",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "交付するもの\n1．母子健康手帳\n2．妊婦健康診査受診票\n3．出生通知書（保健所提出用）\n4.　妊娠、出産、育児についての案内",
+        "monetarySupport": null,
+        "materiallySupport": "交付するもの\n1．母子健康手帳\n2．妊婦健康診査受診票\n3．出生通知書（保健所提出用）\n4.　妊娠、出産、育児についての案内"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "祝日・年末年始は休みです。",
+      "utilization": "妊娠届出書には、氏名などのほかに、「妊娠週数」「分娩予定日」「受診先の医療機関名及び所在地」の記入が必要です。\n　（注釈1）医療機関の証明書は必要ありません。",
+      "procedurePersons": "原則として、妊婦本人の届出となりますが、妊婦本人がお越しになることが出来ない場合、ご家族の方が代理で届け出することが出来ます。",
+      "procedureMethod": "母子健康手帳の交付\n医療機関で妊娠の診断を受けたら、早めに下記の交付窓口に妊娠届出書を提出してください。\n交付するもの\n1．母子健康手帳\n2．妊婦健康診査受診票\n3．出生通知書（保健所提出用）\n4.　妊娠、出産、育児についての案内\n母子健康手帳は、引っ越し後もそのまま使用できます。\n\n妊娠届出に必要なもの\n◆　妊婦本人が届出する場合\n本人のマイナンバー　（マイナンバーカード、通知カード、住民票に記載しています）\n本人確認が出来る書類（運転免許証、パスポート、マイナンバーカード等）\n妊娠の診断を受けた医療機関の診察券\nマイナンバーが必要となる区の手続;https://www.city.ota.tokyo.jp/kuseijoho/mynumber/bangoseido/20151211tetsuduki.html\n\n◆　代理人が届出を行う場合\n原則として、妊婦本人の届出となりますが、妊婦本人がお越しになることが出来ない場合、ご家族の方が代理で届け出することが出来ます。\n\n【代理人が妊婦本人と同一世帯の場合】\n\n妊婦本人のマイナンバーがわかるもの（マイナンバーカード等）またはその写し\n代理人の本人確認が出来る書類\n妊娠の診断を受けた医療機関の診察券\n【代理人が妊婦本人と別世帯の場合】\n\n妊婦本人のマイナンバーがわかるもの（マイナンバーカード等）またはその写し\n代理人の本人確認が出来る書類\n妊娠の診断を受けた医療機関の診察券\n委任状（委任状は下記をご参照下さい。）\n委任状（PDF：51KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/ninsin.files/0306ininnjyou.pdf\n\n妊娠届出書\n妊娠届出書には、氏名などのほかに、「妊娠週数」「分娩予定日」「受診先の医療機関名及び所在地」の記入が必要です。\n　（注釈1）医療機関の証明書は必要ありません。\n\n届出先\n◆平日（8時30分～17時）のみ\n　・大森地域健康課\n　・調布地域健康課\n　・蒲田地域健康課\n　・糀谷・羽田地域健康課\n　・健康づくり課　\n　・各特別出張所\n◆夜間（月曜日・木曜日の17時～19時）・休日（日曜の9時～17時）のみ　\n　・大田区役所本庁舎1階「母子健康手帳受付（夜間・休日）窓口」\n（注釈1）祝日・年末年始は休みです。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "◆平日（8時30分～17時）のみ\n　・大森地域健康課\n　・調布地域健康課\n　・蒲田地域健康課\n　・糀谷・羽田地域健康課\n　・健康づくり課　\n　・各特別出張所\n◆夜間（月曜日・木曜日の17時～19時）・休日（日曜の9時～17時）のみ\n　・大田区役所本庁舎1階「母子健康手帳受付（夜間・休日）窓口」\n（注釈1）祝日・年末年始は休みです。"
+      },
+      "electronicSubmission": false,
+      "belongings": "◆　妊婦本人が届出する場合\n本人のマイナンバー　（マイナンバーカード、通知カード、住民票に記載しています）\n本人確認が出来る書類（運転免許証、パスポート、マイナンバーカード等）\n妊娠の診断を受けた医療機関の診察券\nマイナンバーが必要となる区の手続;https://www.city.ota.tokyo.jp/kuseijoho/mynumber/bangoseido/20151211tetsuduki.html\n\n◆　代理人が届出を行う場合\n原則として、妊婦本人の届出となりますが、妊婦本人がお越しになることが出来ない場合、ご家族の方が代理で届け出することが出来ます。\n\n【代理人が妊婦本人と同一世帯の場合】\n\n妊婦本人のマイナンバーがわかるもの（マイナンバーカード等）またはその写し\n代理人の本人確認が出来る書類\n妊娠の診断を受けた医療機関の診察券\n【代理人が妊婦本人と別世帯の場合】\n\n妊婦本人のマイナンバーがわかるもの（マイナンバーカード等）またはその写し\n代理人の本人確認が出来る書類\n妊娠の診断を受けた医療機関の診察券\n委任状（委任状は下記をご参照下さい。）\n委任状（PDF：51KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/ninsin.files/0306ininnjyou.pdf",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "◆平日（8時30分～17時）のみ\n　・大森地域健康課\n　・調布地域健康課\n　・蒲田地域健康課\n　・糀谷・羽田地域健康課\n　・健康づくり課　\n　・各特別出張所\n◆夜間（月曜日・木曜日の17時～19時）・休日（日曜の9時～17時）のみ　\n　・大田区役所本庁舎1階「母子健康手帳受付（夜間・休日）窓口」\n（注釈1）祝日・年末年始は休みです。",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/ninsin.files/0306ininnjyou.pdf",
+          "title": "委任状（PDF：51KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/mynumber/bangoseido/20151211tetsuduki.html",
+          "title": "マイナンバーが必要となる区の手続"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/ninsin.html",
+        "title": "妊娠届・母子健康手帳交付"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康づくり課",
+        "contactPhone": "03-5744-1661",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+1+UM1",
+        "organization": "1000020131113",
+        "compartment": "健康づくり課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-01",
+      "odInformation": {
+        "updateDate": "2024-06-27",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第15条（妊娠の届出）、第16条（母子健康手帳）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "077",
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産後ケア事業",
+        "shortName": "大田区産後ケア事業"
+      },
+      "summary": "大田区では、産後のお母さんの身体的な回復のための支援、授乳の指導及び乳房ケア、育児相談などを行う産後ケア事業を事業者に委託して実施しています。",
+      "description": "大田区産後ケア事業\nページ番号：608658578\n更新日：2024年4月1日\n　\n　大田区では、産後のお母さんの身体的な回復のための支援、授乳の指導及び乳房ケア、育児相談などを行う産後ケア事業を事業者に委託して実施しています。\n\n令和6年4月から、利用券方式になりました\n　産後ケアを利用するとき、事前の申請手続きは必要ありません。\n　詳しくは、「産後ケア事業　利用券について」の項目をご覧ください。\n\n利用できる方\n　利用日現在、大田区に住民登録している方\n\n予約時期・利用期間\n　産後ケアの種類によって異なります。詳しくは、産後ケアの種類のそれぞれの項目をご覧ください。\n\n産後ケアの利用者負担金\n　利用金額の一部を利用者負担金としてお支払いいただきます。利用者負担金額は、産後ケアの種類によって異なります。詳しくは、産後ケアの種類のそれぞれの項目をご覧ください。\n\n産後ケア事業　利用券について\n大田区産後ケア事業ご利用時には、大田区産後ケア事業　利用券冊子が必要です。\n利用券冊子は、大田区産後ケア事業の全ての種類についてまとめてある冊子です。\n令和6年4月1日以降、妊婦面接でお渡ししています。\n令和6年3月31日までに妊婦面接を終了している方は、次のとおり利用券冊子を受け取ることができます。\n・　令和6年4月1日以降に実施する赤ちゃん訪問で訪問員から利用券冊子を交付します。利用券冊子をお持ちでない方は訪問員に申し出てください。\n\n・　令和6年4月1日以降に初めて産後ケア事業を利用したときに事業者から交付します。大田区産後ケア事業利用承認通知書をお持ちの方もお持ちでない方も、産後ケアの予約を取ることができます。予約の際に事業者に利用券冊子を受け取っていない旨を伝えてください。\n\n委託事業者や利用者負担金、その他産後ケアに関わる仕様は今後変更となる可能性もあります。実際に利用する時点での仕様が適用されます。ご了承ください。\n委託事業者の連絡先は、産後ケアの種類のそれぞれの項目をご覧ください。\n利用券冊子は、最長で産後1年まで使用可能です。失くさないように保管してください。また、他人への譲渡はできません。お一人につき一冊、定められた回数までのご利用となります。\n利用券冊子を紛失した場合は、再交付の申請をしてください。ダウンロードした再交付申請書に必要事項をご記入のうえ、健康づくり課に郵送、又はお住まいの地域を管轄する地域健康課の窓口に持参してください。\n再交付のお手続きをした場合においても、お一人につき定められた回数までのご利用となります。\n再交付申請書（産後ケア事業利用券）（PDF：82KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/sango-care.files/saishinsei.pdf\n\n利用券冊子を受け取ってから紛失した場合に限り、こちらをダウンロードし必要事項をご記入のうえ再交付申請の手続きをしてください。\n\n再交付申請書の郵送先\n住所：〒144-8621　東京都大田区蒲田五丁目13番14号\n宛名：大田区 健康づくり課\n\nお住まいの地域を管轄する地域健康課（PDF：188KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/sango-care.files/kankatsu.pdf\n\n再交付申請書を直接窓口に提出する場合には、こちらからお住まいの地域を管轄する地域健康課をご確認ください。\n\n産後ケアの種類\n1　訪問型・外来型\n2　日帰り型\n3　宿泊型\n4　グループケア型\n1　訪問型・外来型\n≪ケアの内容≫\n助産師による授乳指導や乳房ケア\n\n産後の身体の悩みや気分の落ち込み、不安の相談\n\n育児全般に関する相談・指導等\n\n≪利用できる方≫\n　利用日現在、大田区に住民登録している方\n\n≪予約時期≫\n　産後\n\n≪利用期間≫\n　産後1年未満の方（赤ちゃんの1歳のお誕生日の前日まで）。\n　早産（在胎週数37週未満で出産）の場合は、出産予定日から1歳未満の方（修正月齢を適用）。\n\n利用者負担金について、生活保護受給者は受給者証を事業者に提出することで免除となります。\n≪訪問型・外来型　委託事業者一覧≫\n訪問型・外来型　委託事業者一覧（PDF：105KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/sango-care.files/houmongairai.pdf\n\n≪利用方法≫\n1　≪訪問型・外来型　委託事業者一覧≫に掲載されている委託助産師へ直接連絡し、予約をしてください。\n\n2　利用前に、利用券に必要事項を記入し、1回につき1枚を委託助産師に渡します。ケアが終了したら、利用者負担金をお支払いください。\n\n≪注意点≫\nご利用いただいた方の氏名、生年月日、住所、連絡先、お母さんや赤ちゃんの健康状態などの状況について、委託助産師と大田区で情報共有されますのでご了承ください。\n利用券は、ケアの実施日に大田区に住民登録がある方のみが利用できます。転出等で大田区以外に住民登録がある状態で利用した場合は、利用金額を全額自己負担にてお支払いいただきます。\n定められた回数までのご使用となります。\nキャンセルまたは利用日時の変更をするときは、利用前日の15時までに委託助産師に連絡をしてください。また、その時間を過ぎた場合もできるだけ速やかに予約した委託助産師に連絡をしてください。\n土日・祝日、年末年始は、追加料金が発生することがあります。詳しくは、委託助産師に確認してください。\n2　日帰り型\n≪ケアの内容≫\n助産師による授乳指導や乳房ケア\n\n産後の身体の悩みや気分の落ち込み、不安の相談\n\n育児全般に関する相談・指導等\n\nお母さんの休息\n\n食事の提供\n\n≪利用できる方≫\n　利用日現在、大田区に住民登録している方\n\n≪予約時期≫\n　産後\n\n≪利用期間≫\n　産後5か月未満の方（赤ちゃんが5か月になる日の前日まで）\n　早産（在胎週数37週未満で出産）の場合は、出産予定日から5か月未満の方となります （修正月齢を適用）が、施設の受入れ体制によってはご希望に添えない場合があります。\n\n利用者負担金について、生活保護受給者は受給者証を事業者に提出することで免除となります。\n≪日帰り型　委託事業者一覧≫\n　詳細は、委託事業者（施設）のホームページでご確認ください。\n\nとわ助産院（外部サイト）;https://towa-jyosanin.com/\n\n森重助産院（外部サイト）;https://www.morishige-mw.com/\n\nさくらバース（外部サイト）;https://sakurabirth.jp/\n\nマミサポ（外部サイト）;https://www.mamisapo.com/\n\n≪利用方法≫\n1　≪日帰り型　委託事業者一覧≫に掲載されている施設へ直接連絡し、予約をしてください。\n\n2　利用前に、利用券に必要事項を記入し、1回の利用で利用券1枚を施設に渡します。ケアが終了したら、利用者負担金をお支払いください。\n\n≪注意点≫\nご利用いただいた方の氏名、生年月日、住所、連絡先、お母さんや赤ちゃんの健康状態などの状況について、施設と大田区で情報共有されますのでご了承ください。\n利用券は、ケアの実施日に大田区に住民登録がある方のみが利用できます。転出等で大田区以外に住民登録がある状態で利用した場合は、利用金額を全額自己負担にてお支払いいただきます。\nキャンセルまたは利用日時の変更をするときは、利用前日の15時までに予約した施設に連絡をしてください。また、その時間を過ぎた場合もできるだけ速やかに予約した施設に連絡をしてください。\n定められた回数までのご使用となります。\n持ち物は、予約の際に利用予定施設にご確認ください。\nお母さんの健診当日、赤ちゃんの予防接種当日は利用できません。また、赤ちゃんのきょうだいのご利用はできません。\n3　宿泊型\n≪ケアの内容≫\nお母さんの健康状態のチェック\n\n乳房ケア\n\n産後の生活のアドバイス\n\n赤ちゃんの発育・体重のチェック\n\n育児相談・授乳指導\n\nお母さんの休息\n\n食事の提供\n\n≪利用できる方≫\n　利用日現在、大田区に住民登録している方\n\n≪予約時期≫\n　産前（妊娠28週以降）または、産後\n\n≪利用期間≫\n　産後5か月未満の方（赤ちゃんが5か月になる日の前日まで）。\n　早産（在胎週数37週未満で出産）の場合は、出産予定日から5か月未満の方となります（修正月齢を適用）が、施設の受入れ体制によってはご希望に添えない場合があります。\n　利用施設によっては産後90日以内を対象としている場合があります。詳しい情報については、各施設のホームページをご確認ください。　\n\n利用者負担金について、生活保護受給者は受給者証を事業者に提出することで免除となります。\n利用施設によって、個室代やオプション料金がかかる場合があります。利用先の施設に直接ご確認ください。\n最大5泊6日まで利用可能ですが、実際の宿泊日数については、利用先の施設とご相談ください。\n5泊6日を数回に分けて利用することも可能です。利用日数は、泊数ではなく日数が基準となります。\n利用パターンは以下のとおりです。\n　　パターン（1）　5泊6日を1回で、6日間利用。\n　　パターン（2）　1泊2日と3泊4日で、6日間利用。\n　　パターン（3）　2泊3日と2泊3日で、6日間利用。\n　　パターン（4）　1泊2日を3回で、6日間利用。\n　　パターン（5）　1泊2日と2泊3日で、5日間利用。\n　　　（注釈1）パターン（5）の場合、1泊2日と2泊3日で、5日間の利用ですが、さらに1泊すると2日を要するため、利用できません。\n\n≪宿泊型　委託事業者一覧≫\n　以下の医療機関は、同施設で出産し、引き続き産後ケアを利用する方のみ利用できます。\n詳しい情報については、各施設のホームページをご確認ください。\n\n大鳥居医院（外部サイト）;https://ootorii-iin.or.jp/\n\n瀬尾医院（外部サイト）;https://seo-clinic.jp/\n\n前村医院（外部サイト）;https://maemuraiin.jp/\n\n大森赤十字病院（外部サイト）;https://omori-nisseki.com/\n\n東邦大学医療センター大森病院（外部サイト）;https://www.omori.med.toho-u.ac.jp/\n\n東京都立荏原病院（外部サイト）;https://www.tmhp.jp/ebara/index.html\n\n　以下の助産院・医療機関は、出産した施設に関わらず利用できます（別の施設で出産した場合でも利用できます）。ただし、施設の受入れ体制によってはご希望に添えない場合があります。また、利⽤施設によっては産後90⽇以内を対象としている場合があります。\n詳しい情報については、各施設のホームページをご確認ください。\n\nとわ助産院（外部サイト）;https://towa-jyosanin.com/\n\n森重助産院（外部サイト）;https://www.morishige-mw.com/\n\nさくらバース（外部サイト）;https://sakurabirth.jp/\n\n愛育産後ケア子育てステーション（外部サイト）;https://aiikustation.com/\n\n東京品川病院バースセンター（外部サイト）;https://tokyo-shinagawa.jp/department/clinic/birthcenter\n\n牧田総合病院（外部サイト）;https://www.makita-hosp.or.jp/\n\n≪利用方法≫\n1　上記の≪宿泊型　委託事業者一覧≫に掲載されている施設へ直接連絡し、予約をしてください。\n（注意事項）\n\n愛育産後ケア子育てステーションのご利用を希望される場合、WEB予約の中で『区の助成制度を利用される方は、登録番号を教えてください。（登録番号の発行が完了していない方はご予約を承れません。）利用されない方は「自費」と入力してください』と表示される項目があります。利用承認決定通知を発行されていない方は「大田区」と入力してください。\n大鳥居医院の利用をご希望される場合、WEB予約の中で『大田区承認番号』と表示される項目があります。利用承認決定通知を発行されていない方は空欄としてください。\n2　産前に予約された場合には、出産後、予約した施設へ再度、利用日等の連絡をしてください（予約した施設において利用したい日程が満室であった場合、ご利用になれないことがありますので、ご了承ください）。\n\n3　利用前に、利用券に必要事項を記入し、1日につき1枚を施設に渡します。（例;1泊2日の場合は2枚）ケアが終了したら、利用者負担金をお支払いください。\n\n≪注意点≫\n年末年始の利用や利用できる月齢は、施設によって異なるため、利用先の施設にご確認ください。\nご利用いただいた方の氏名、生年月日、住所、連絡先、お母さんや赤ちゃんの健康状態などの状況について、施設と大田区で情報共有されますのでご了承ください。\n利用券は、ケアの実施日に大田区に住民登録がある方のみが利用できます。転出等で大田区以外に住民登録がある状態で利用した場合は、利用金額を全額自己負担にてお支払いいただきます。\nキャンセルまたは利用日時の変更をするときは、利用前々日の17時までに予約した施設に連絡をしてください。また、その時間を過ぎた場合もできるだけ速やかに予約した施設に連絡をしてください。\n持ち物は、予約の際に利用予定施設にご確認ください。\nお母さんの健診当日、赤ちゃんの予防接種当日は利用できません。また、赤ちゃんのきょうだいのご利用はできません。\n令和6年3月31日までに宿泊型を利用した場合には、対象となる利用期間内であれば、最大5泊6日から令和6年3月31日までに利用した日を引いた日数を追加で利用できます。日数の数え方は、日が基準となります（例：　令和6年3月31日までに3泊4日利用。令和6年4月1日以降、利用希望日現在、対象期間内である場合、追加で1泊2日利用可能）。\n宿泊型の対象となる利用期間はこちら;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/sango-care.html#cms8C203\n4　グループケア型\n予約制で実施しています。予約なしで会場にいらしても参加できません。\n予約方法は、≪利用のしかた≫の項目をご覧ください。\n\n≪ケアの内容≫\n助産師による産後の生活、赤ちゃんの育児などの講話\nお母さん同士の交流、グループワーク\nお母さんの体調や育児の個別相談\n≪利用できる方≫\n　利用日現在、大田区に住民登録している方\n\n≪予約時期≫\n　産後\n\n≪利用期間≫\n　産後5か月未満の方（赤ちゃんが5か月になる日の前日まで）。\n　\n　早産（在胎週数37週未満で出産）の場合は、出産予定日から5か月未満の方となります（修正月齢を適用）が、施設の受入れ体制によってはご希望に添えない場合があります。\n\n　詳しくは、大田区助産師会予約ページをご確認ください。\n\n≪グループケア型　会場≫\nキッズな大森　　大森北4-16-5\n\nキッズな大森の場所はこちら;https://www.city.ota.tokyo.jp/shisetsu/kosodate/kizzunaoomori.html\n\nキッズな蒲田　西蒲田7-49-2（社会福祉センター2階）\n\nキッズな蒲田の場所はこちら;https://www.city.ota.tokyo.jp/shisetsu/kosodate/siencenterkamata.html\n\n調布地域健康課　雪谷大塚町4-6\n\n調布地域健康課の場所はこちら;https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html\n\n≪グループケア型　日程表≫\n≪グループケア型　日程表≫はこちら（PDF：164KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/sango-care.files/sd202404.pdf\n\n≪利用方法≫\n1　大田区助産師会予約ページにアクセスして予約してください。産後ケアグループケア型は、大田区助産師会に委託して実施しています。受講の可否は、申込先着順で決定します。利用したい日程が満員であった場合、ご利用になれないことがありますので、あらかじめご了承ください。\n2　利用前に、利用券に必要事項を記入し、利用日に、1回につき1枚を委託事業者の助産師会に渡します。\n\nグループ型産後ケアの予約はこちら（大田区助産師会予約システムの外部サイト）;https://coubic.com/otamw/4430895\n\n　事業者から予約完了等のメールが送信されますので、「noreply@coubic.com」からのメールを受け取れるようにしてください。詳細は、予約システムをご確認ください。\n・　申込完了後、予約完了のメールが事業者から届きます。事業者からのメールは削除せず保存しておいてください。\n\n　≪注意点≫\nご利用いただいた方の氏名、生年月日、住所、連絡先、お母さんや赤ちゃんの健康状態などの状況について、委託事業者と大田区で情報共有されますのでご了承ください。\n利用券は、ケアの実施日に大田区に住民登録がある方のみが利用できます。\n実施会場への直接のお問い合わせやご予約・キャンセルに関する連絡には応じることができません。詳しくは委託事業者にお問合せください。\n持ち物は、予約の際に委託事業者にご確認ください。 　\nお母さんの健診当日、赤ちゃんの予防接種当日は利用できません。\n赤ちゃんのきょうだい・お父さん等はご利用になれません。\n令和6年3月31日までにグループケア型を利用した場合には、対象となる利用期間内であれば、最大3回から令和6年3月31日までに利用した回を引いた回数を追加で利用できます（例：　令和6年3月31日までに2回利用。令和6年4月1日以降、利用希望日現在、対象期間内である場合、追加で1回利用可能）。\nグループケア型の対象となる利用期間はこちら;https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/sango-care.html#cms0F38F\n委託事業者　大田区助産師会のお問い合わせ先はこちら（大田区助産師会ホームページの外部リンク）;https://coubic.com/otamw#pageContent",
+      "target": {
+        "targetPersons": "利用日現在、大田区に住民登録している方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "詳細は、大田区ホームページをご覧ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/shussan/sango-care.html",
+        "title": "大田区産後ケア事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康づくり課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kumin_kenkoudukuri.html",
+        "contactPhone": "03-5744-1661",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=kenko",
+        "contactComment": "FAX ：03-5744-1523",
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+1+UM15",
+        "organization": "1000020131113",
+        "compartment": "健康づくり課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-27",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条の2（産後ケア事業）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児医療費（子ども医療費）の助成",
+        "shortName": "児童医療費助成制度（乳医療証・子医療証・青医療証）"
+      },
+      "summary": "こどもの保健対策を充実し、子育て世帯の経済的負担を軽減するため、お子さんが病気やけがなどにより健康保険を使って医療機関で受診した場合の保険診療の自己負担分（2割または3割）と入院時の食事療養費を助成しています。",
+      "description": "児童医療費助成制度（乳医療証・子医療証・青医療証）（電子申請・郵送申請が可能です）\nページ番号：689543128\n更新日：2024年3月6日\n区内在住の高校生相当年齢までの児童の医療費（保険診療の自己負担分）を助成します。\n\n1～7　乳・子・青医療証について;https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/kodomonyuui.html#cmsE068F\n8　医療費を自己負担した場合の払戻し（償還払い）について;https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/kodomonyuui.html#cms4B2C7\n9　その他;https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/kodomonyuui.html#cmsC74F2\n最新情報\n（1）医療証の切り替えについて\n・4月に小学校に入学するお子様\n4月1日から「乳医療証」から「子医療証」に切り替わります。新しい「子医療証」は3月下旬に郵送します。\n・3月に中学校を卒業するお子様\n4月1日から「子医療証」から「青医療証」に切り替わります。新しい「青医療証」は3月下旬に郵送します。\n\n（注釈1）有効期限が過ぎた医療証は、各自で処分してください。\n（注釈2）4月に入っても新しい医療証が届かない場合は、こども医療係までお問い合わせください。\n\n（2）児童医療費助成制度に関するパンフレット（令和5年4月改訂版）ができました。\n児童医療費助成制度のご案内（日本語）（PDF：238KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/kodomonyuui.files/iryouaramasi0504.pdf\n\n児童医療費助成制度のご案内（英語）（PDF：479KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/kodomonyuui.files/R5iryoueigo.pdf\n\n児童医療費助成制度のご案内（中国語）（PDF：231KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/kodomonyuui.files/R5iryoutyuugokugo.pdf\n\n（3）電子申請をご利用ください\n児童医療費助成医療証（乳医療証・子医療証・青医療証）交付申請等は、電子申請（ぴったりサービス）をご利用いただければ、ご来庁されなくてもスマートフォンやパソコンから申請が可能です。\n詳細は「4申請方法」をご確認ください。\n\n1　対象となる乳幼児・児童の年齢\n（1）乳医療証\n0歳から小学校入学前（6歳になった日以降、最初の3月31日まで）の乳幼児\n（2）子医療証\n6歳になった最初の4月1日から中学校修了前（15歳になった日以降、最初の3月31日まで）の児童\n（3）青医療証\n15歳になった日以降最初の4月1日から18歳になった日以降最初の3月31日までの児童\n\n2　資格要件\n（1）乳幼児または児童の住所が大田区内にあること\n（2）健康保険に加入していること\n(注釈1）申請者は原則、児童と同居している保護者で生計中心者の方です。それ以外の方が保護者となることを希望する場合は、お問い合わせください。\n(注釈2)配偶者から暴力を受けたため、児童とともに配偶者と別居している場合や大使館勤務で「公用」の在留資格を有する外国籍の方で、大田区に住んでいる場合は、お問い合わせください。\n\nただし、次のいずれかにあてはまるときは、対象になりません。\n\n生活保護を受けているとき\n乳幼児または児童が、児童福祉施設に「措置」により入所しているとき（通所利用または契約入所の場合を除く）\n乳幼児または児童が、里親に委託されているとき\n3　助成範囲\n（1）対象となるもの　\n\n保険診療の対象となる医療費、薬剤費等の自己負担分\n入院時の食事療養標準負担額、治療用装具（健康保険組合から支給決定された場合のみ）\n（2）対象とならないもの\n\n健康診断、予防接種、薬の容器代、差額ベッド代、シーツ代、オムツ代、文書料等、保険診療の対象にならないもの\n交通事故等の第三者の責任によるもの\n幼稚園、学校等でけがをして、日本スポーツ振興センター災害共済給付制度による医療費の給付が受けられるとき\n高額療養費に該当する医療費\n健康保険組合等から支給された附加給付に該当する医療費\nその他の公費で賄われる医療費\n4　申請方法\n医療証の交付には申請が必要です。\n子育て支援課こども医療係の窓口（区役所3階23番）、郵送または電子申請で申請してください。\n窓口で代理人（申請者と同一世帯以外の方）が申請する場合は、委任状が必要です。配偶者の方でも同一世帯以外の場合は委任状が必要です。\n転入及び出生に伴う申請の場合のみ、特別出張所での提出も可能です。\n\n（1）申請に必要なもの\n乳幼児または児童の健康保険証の写し（後日提出でも可）\n（注釈1）健康保険証がお手元にない場合も申請は可能です。（医療証の即日発行はできません）\n（2）医療証の発行　\n子育て支援課こども医療係の窓口でのみ、すべての書類が揃っていれば、即日発行できます。ただし、住民票の反映状況により即日発行できない場合もあります。\n申請時にお子様の健康保険証の写しが提出できない場合は、お手元に届き次第、ご提出ください。お子様の健康保険証の写しを確認後、医療証を発行します。\n特別出張所の窓口では、医療証の発行はできませんのでご注意ください。\n郵送または電子申請の場合は、1週間程度で、医療証をご自宅にお送りします。\n\nお子様が出生・転入等した場合は、別途児童手当の申請が必要です。詳細はこちら;https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/jidouteate/jidou.html\n\n郵送申請\n子育て支援課こども医療係宛てに郵送してください。係への到着日が申請受付日となります。\n申請書及び関係書類はこちら;https://www.city.ota.tokyo.jp/download/kodomo/kodomoiryouhi.htmlからダウンロードできます。\n\n〒144-8621　大田区蒲田5丁目13番14号\n大田区子育て支援課こども医療係\n\n電子申請\nこちら;https://myna.go.jp/searchから、メニューにお進みください。申請入力完了時刻の属する日が申請受付日となります。\n\nぴったりサービスの操作に関するお問合せ先\nマイナンバー総合フリーダイヤル　電話 0120-95-0178\n\nマイナンバー（個人番号）の提供について\n　平成28年1月から番号法の施行に伴い、児童医療費助成の申請の際には、申請者のマイナンバー（個人番号）の提供をお願いしています。\n\n社会保障・税番号制度（マイナンバー制度）とは;https://www.city.ota.tokyo.jp/kuseijoho/mynumber/index.html\n個人番号提供のお願い（PDF：137KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/kodomonyuui.files/mynumber2020.pdf\n\n5　資格発生日\n出生日・転入日から6か月以内に申請された場合は出生日または転入日に遡って資格が発生します。\nただし、提出のあった健康保険証の保険加入日が出生日または転入日より遅い場合は保険加入日から資格が発生します。\n6か月を経過後は申請月の初日から資格が発生します。\n\n6　医療証の使い方\n東京都内の契約医療機関（病院・薬局等）で受診するときにお使いいただけます。\n窓口で、健康保険証と医療証を提示すると、保険診療の自己負担分を支払わずに受診できます。\n都外の医療機関や都内の医療証を取り扱わない医療機関を受診する場合は、「8　医療費を自己負担した場合の払戻し（償還払い）について」をご覧ください。\n\n都外国民健康保険組合加入の方\n東京都外に本拠を置く国民健康保険組合（都外国組）に加入されている場合、児童医療費助成の受給資格はありますが、医療証の発行ができません。恐れ入りますがすべて支給申請による助成となります。「8　医療費を自己負担した場合の払戻し（償還払い）について」をご覧ください。\n\n7　届出が必要な場合\n次のような場合は、届出が必要です。子育て支援課こども医療係の窓口（区役所3階23番）、電子申請または郵送により手続きしてください。　\nホームページからの申請書ダウンロード及び郵送申請、電子申請をする場合は、「4　申請方法」でご確認ください。\n特別出張所ではお手続きいただけませんので、ご注意ください。\n\n（1）お子さんの健康保険が変更になったとき\n対象のお子さん全員分の新しい健康保険証のコピーが必要です。　　\n（2）区内で保護者の住所が変更になったとき\nお子さんのみ住所を変更したときは、届出不要です。\n（3）保護者またはお子さんの氏名が変更になったとき\n確認させていただく事項があります。事前にご相談ください。\n（4）保護者が変更になったとき\n保護者の婚姻、離婚、死亡などの事由により、保護者が変更になったときは、新たに医療証の交付申請をする必要があります。事前にご相談ください。\n（5）医療証を紛失や破損してしまったとき\n医療証は、窓口で申請した場合は即日再交付します。来所される方の身分証明書をご持参ください。郵送申請及び電子申請の場合は、医療証に記載された保護者の住所に郵送いたします。\n\n詳細は、以下の変更届出一覧を参照ください。\n\n変更届出一覧\n||申請内容|申請方法|申請書の名称|\n|:----|:----|:----|:----|\n|(1)|加入保険変更（注釈1）|郵送、窓口、電子申請<br>いずれも可|申請事項変更・受給資格消滅届|\n|(2)|住所変更|郵送、窓口、電子申請<br>いずれも可|^|\n|(3)|氏名変更（注釈2）|郵送または窓口|^|\n|(4)|保護者変更（注釈3）|郵送または窓口|乳・子・青医療証交付申請書（兼現況届）|\n|(5)|再交付|郵送、窓口、電子申請<br>いずれも可|医療証再交付申請書|\n（注釈1）手続き後、医療証をすでにお持ちの方は、現在お持ちの医療証を引続きお使いください。新しい医療証は発行しません。\n都外国民健康保険組合に加入されている方が他の健康保険に変更になった場合、医療証が発行できます。\n他の健康保険に加入している方が都外国民健康保険組合に変更になった場合、受給資格は継続しますが、医療証は使用できなくなるため、医療証をご返却ください。\n（注釈2）事前にご相談ください。\n（注釈3）事前にご相談ください。\n\n上記のほか、交通事故等、第三者行為により負傷した場合は、先にお子さんが加入している健康保険へ連絡したうえで、当係までご連絡ください。\n第三者行為による医療費等は、本来加害者が負担するものです。健康保険では「加害者に対する損害賠償請求権を代位取得すること」を条件に健康保険証の使用を認める場合があります。健康保険証の使用が許可された場合には、お子さんの医療証も同様の手続きのうえ、使用を認めています。治癒後、医療証を使用して立替えた医療費については、区が加害者等に請求します。\n\n8　医療費を自己負担した場合の払戻し（償還払い）について\n（1）申請方法\n郵送または子育て支援課こども医療係の窓口で払戻し（償還払い）の申請をしてください。窓口申請の場合、子育て支援課こども医療係の窓口以外ではお手続きいただけません。また、未着などの郵送による事故は責任を負えませんので、あらかじめご了承ください。\n\n支給申請書は大田区ホームページからダウンロードできます。また当係へご連絡いただければ、ご自宅等へ郵送します。　\n\n郵送申請\n「（2）申請書類」に該当する申請書類に加え、お子さんの健康保険証及び医療証のコピーを同封し、子育て支援課こども医療係宛てに郵送してください。係への到着日が申請受付日となります。\n申請書及び関係書類はこちら;https://www.city.ota.tokyo.jp/download/kodomo/kodomoiryouhi.htmlからダウンロードできます。\n\n〒144-8621　大田区蒲田5丁目13番14号\n大田区子育て支援課こども医療係\n\n窓口申請\n「（2）申請書類」に該当する申請書類に加え、医療証に記載された保護者名義の口座がわかるもの、お子さんの健康保険証及び医療証を持参してください。子育て支援課こども医療係の窓口以外ではお手続きいただけません。あらかじめご了承ください。\n\n（2）申請書類\na．東京都外または医療証の取扱いのない医療機関等を受診したとき／医療証を提示せずに受診したとき（2割または3割負担） ／入院時の食事代（入院時食事療養標準負担額）を支払ったとき\n一旦、医療機関等の窓口で自己負担分を支払ったあと、大田区に支給申請してください。\n\n児童医療費助成金支給申請書\n領収書の原本\nb．保険証を提示せずに医療費の全額（10割）を支払ったとき\nまず、お子さんが加入している健康保険に保健診療分の支給申請をしてください。健康保険が適用されると8割または7割分の払戻しを受けることができます。給付決定後、残りの2割または3割分の自己負担分を大田区に支給申請してください。　\n\n児童医療費助成金支給申請書\n領収書の原本（コピー可）\n療養費支給決定通知書の原本（加入健康保険が発行）\nc．治療用装具を作ったとき\n一旦全額（10割）を支払うことになります。まず、お子さんが加入している健康保険に保険診療分の支給申請をしてください。健康保険が適用されると8割または7割分の払戻しを受けることができます。給付決定後、残りの2割または3割分の自己負担分を大田区に支給申請してください。　\nただし、小児弱視の治療用眼鏡等一部の補装具は保険適用となる上限額等の基準がありますので、全額返金にならない場合があります。詳しくは加入健康保険にお問い合わせください。\n\n児童医療費助成金支給申請書\n領収書の原本（コピー可）\n療養費支給決定通知書の原本（加入健康保険が発行）\n医師の指示書または診断書の原本（コピー可）\nd．高額療養費（家族療養費附加給付金）に該当したとき\n高額療養費とは、医療機関に支払う保険診療の自己負担分が、一定の基準額を超えたとき、加入健康保険から基準額を越えた部分の医療費が高額療養費として支給される制度です。また、加入健康保険により、家族療養費附加給付金が追加支給される場合があります。基準額は保護者の所得により異なりますので、詳しくは加入健康保険にお問い合わせください。\n該当したときは、まず、お子さんが加入している健康保険に高額療養費の支給申請をしてください。給付決定後、健康保険から給付される高額療養費等を除いた残りの自己負担分を大田区に支給申請してください。\n\n児童医療費助成金支給申請書\n領収書の原本\n療養費支給決定通知書の原本（加入健康保険が発行）または、限度額認定証（使用した場合のみ）\ne．特定疾病の医療費助成制度で自己負担額を支払ったとき\n他の公費負担医療費助成制度で一部負担金のある方は、一旦、医療機関等の窓口で自己負担分を支払ったあと、大田区に支給申請してください。\n\n児童医療費助成金支給申請書\n領収書の原本\n特定疾病の医療証（コピー）\n申請書記入上の注意\n払戻し（償還払い）の申請は、医療証の交付または受給資格を得てから行ってください。\n申請できる方（医療費の助成を受ける方）は医療証に記載された保護者となりますので、申請書の保護者氏名と振込先口座の名義は医療証に記載されている保護者名でご記入ください。お子さん名義等の口座には振込めませんので、ご注意願います。\n\n（3）申請期限\n支給申請の期限は、医療費の支払日の翌日から起算して5年以内です。\n全額（10割）負担したときや治療用装具を作ったとき、高額療養費に該当したときは、先にお子さんが加入している健康保険に保険診療分の支給申請を行ってください。\nただし、健康保険への申請期限は別に定められており、原則2年以内となっていますので、お早めに加入健康保険にご相談ください。健康保険の申請期限が過ぎ、保険診療とならない場合は、例え5年以内の領収書であっても区への支給申請はできませんのでご注意ください。\n\n（4）支給時期\n受付後、内容審査のうえ、医療証に記載されている保護者様名義の口座に2か月程度でお振り込みします。振込手続きが完了した際には、「児童医療費助成金支給通知書」をお送りします。\n\n（5）注意事項\n原則、領収書は返却できません。控えが必要な方はあらかじめコピーをお取りのうえ、原本を提出してください。\n払戻し対象外（保険適用外）の医療費が含まれる領収書については、区の検印を押印のうえ、原本を返却することができます。返却を希望される場合にはお申し出ください。郵送申請の場合は、申請書の余白に「領収書原本返却希望」とご記入いただき、医療証に記載されている保護者住所、氏名を記入及び返信料（郵便切手）を貼付した返信用封筒を同封してください。\n領収書には、受診者氏名、入院・外来の別、領収額、保険診療点数、入院時食事療養費内訳、診療年月日、領収年月日、医療機関等の所在地・名称、受領印の記載が必要です。レシート等で記載のない領収書の場合は、医療機関の窓口で記載してもらってください。\n領収書及び医師の指示書または診断書は、原則、原本の提出が必要ですが、医療費の全額（10割）を支払ったとき、治療用装具を作ったとき、高額療養費に該当したとき等で、加入健康保険から返却されなかった場合には、コピーで結構です。\n9　その他\n児童医療費助成制度に関するパンフレットはこちらです。\n日本語版（令和5年4月改訂版）（PDF：238KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/kodomonyuui.files/iryouaramasi0504.pdf\n\n英語版（English）（令和5年4月改訂版）（PDF：479KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/kodomonyuui.files/R5iryoueigo.pdf\n\n中国語（Chinese）（令和5年4月改訂版）（PDF：231KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/kodomonyuui.files/R5iryoutyuugokugo.pdf\n\n申請書ダウンロードページ;https://www.city.ota.tokyo.jp/download/kodomo/kodomoiryouhi.html\n\nよくある質問（児童医療費助成について）;https://www.city.ota.tokyo.jp/faq/bunya/kosodate/jidouiryou.html\n\n「かかりつけ医」・「かかりつけ薬局」を持ちましょう\n・かかりつけ医\n普段から身近にいて、健康に関することで何でも気軽に相談できるパートナーです。\n・かかりつけ薬局\nお薬や健康の疑問・困りごとについて、普段から何でも相談できる薬局のことです。\n\n信頼できるかかりつけ医、かかりつけ薬局を決めておきましょう。\n詳しくはこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/homedoctor.htmlをご覧ください。\n\nお子さまのおくすりジェネリックにしませんか？\n保険診療における、お子さまの窓口負担額は無料ですが、医療費は発生しており、皆さまの「保険料」や「税金」で賄われているため、薬剤費の節減のためにジェネリック医薬品の使用を推進しています。\n\nジェネリック医薬品（後発医薬品）とは\n先発医薬品（新薬）の特許期間終了後に製造販売され新薬とほぼ同等の成分と効果を持つ医薬品のことです。品質や安全性は国が審査しています。ジェネリック医薬品は開発費などのコストを抑えられるため、新薬よりも価格が低く設定されており、医療費全体の節減につながります。\n　（注）すべての先発医薬品に対し、ジェネリック医薬品があるわけではありません。\n\n詳しくはこちら;https://www.tokyo-hokensyakyougikai.jp/contents/initiative/resources/2022kouhatsu_leaflet_A4.pdfをご覧ください。",
+      "target": {
+        "targetPersons": "（1）乳医療証\n0歳から小学校入学前（6歳になった日以降、最初の3月31日まで）の乳幼児\n（2）子医療証\n6歳になった最初の4月1日から中学校修了前（15歳になった日以降、最初の3月31日まで）の児童\n（3）青医療証\n15歳になった日以降最初の4月1日から18歳になった日以降最初の3月31日までの児童",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "（1）乳医療証\n0歳から小学校入学前（6歳になった日以降、最初の3月31日まで）の乳幼児\n（2）子医療証\n6歳になった最初の4月1日から中学校修了前（15歳になった日以降、最初の3月31日まで）の児童\n（3）青医療証\n15歳になった日以降最初の4月1日から18歳になった日以降最初の3月31日までの児童"
+      },
+      "support": {
+        "description": "保険診療の対象となる医療費、薬剤費等の自己負担分\n入院時の食事療養標準負担額、治療用装具（健康保険組合から支給決定された場合のみ）",
+        "monetarySupport": "保険診療の対象となる医療費、薬剤費等の自己負担分\n入院時の食事療養標準負担額、治療用装具（健康保険組合から支給決定された場合のみ）",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "医療証の交付には申請が必要です。\n子育て支援課こども医療係の窓口（区役所3階23番）、郵送または電子申請で申請してください。\n窓口で代理人（申請者と同一世帯以外の方）が申請する場合は、委任状が必要です。配偶者の方でも同一世帯以外の場合は委任状が必要です。\n転入及び出生に伴う申請の場合のみ、特別出張所での提出も可能です。\n\n（1）申請に必要なもの\n乳幼児または児童の健康保険証の写し（後日提出でも可）\n（注釈1）健康保険証がお手元にない場合も申請は可能です。（医療証の即日発行はできません）\n（2）医療証の発行　\n子育て支援課こども医療係の窓口でのみ、すべての書類が揃っていれば、即日発行できます。ただし、住民票の反映状況により即日発行できない場合もあります。\n申請時にお子様の健康保険証の写しが提出できない場合は、お手元に届き次第、ご提出ください。お子様の健康保険証の写しを確認後、医療証を発行します。\n特別出張所の窓口では、医療証の発行はできませんのでご注意ください。\n郵送または電子申請の場合は、1週間程度で、医療証をご自宅にお送りします。\n\n・4月に小学校に入学するお子様\n4月1日から「乳医療証」から「子医療証」に切り替わります。新しい「子医療証」は3月下旬に郵送します。\n・3月に中学校を卒業するお子様\n4月1日から「子医療証」から「青医療証」に切り替わります。新しい「青医療証」は3月下旬に郵送します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "乳幼児または児童の健康保険証の写し（後日提出でも可）\n（注釈1）健康保険証がお手元にない場合も申請は可能です。（医療証の即日発行はできません）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "子育て支援課こども医療係の窓口（区役所3階23番）",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/kodomonyuui.files/mynumber2020.pdf",
+          "title": "個人番号提供のお願い（PDF：137KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/jidouteate/jidou.html",
+          "title": "こちら"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/download/kodomo/kodomoiryouhi.html",
+          "title": "こちら"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/kodomonyuui.files/iryouaramasi0504.pdf",
+          "title": "児童医療費助成制度のご案内（日本語）（PDF：238KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/mynumber/index.html",
+          "title": "社会保障・税番号制度（マイナンバー制度）とは"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/kodomonyuui.files/R5iryoutyuugokugo.pdf",
+          "title": "児童医療費助成制度のご案内（中国語）（PDF：231KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/kodomonyuui.files/iryouaramasi0504.pdf",
+          "title": "日本語版（令和5年4月改訂版）（PDF：238KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/kodomonyuui.files/R5iryoueigo.pdf",
+          "title": "英語版（English）（令和5年4月改訂版）（PDF：479KB）"
+        },
+        {
+          "uri": "https://myna.go.jp/search",
+          "title": "こちら"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/kodomonyuui.files/R5iryoutyuugokugo.pdf",
+          "title": "中国語（Chinese）（令和5年4月改訂版）（PDF：231KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/download/kodomo/kodomoiryouhi.html",
+          "title": "申請書ダウンロードページ"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/kodomonyuui.files/R5iryoueigo.pdf",
+          "title": "児童医療費助成制度のご案内（英語）（PDF：479KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/faq/bunya/kosodate/jidouiryou.html",
+          "title": "よくある質問（児童医療費助成について）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/download/kodomo/kodomoiryouhi.html",
+          "title": "こちら"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/iryokikan_hoka/homedoctor.html",
+          "title": "こちら"
+        },
+        {
+          "uri": "https://www.tokyo-hokensyakyougikai.jp/contents/initiative/resources/2022kouhatsu_leaflet_A4.pdf",
+          "title": "こちら"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kosodatashien.html",
+          "title": "子育て支援課"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/kodomonyuui.html",
+        "title": "児童医療費助成制度（乳医療証・子医療証・青医療証）（電子申請・郵送申請が可能です）"
+      },
+      "formLink": [
+        {
+          "uri": "https://myna.go.jp/search",
+          "title": "マイナポータル"
+        }
+      ],
+      "contact": {
+        "contactName": "子育て支援課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kosodatashien.htmlこども医療係",
+        "contactPhone": "03-5744-1275",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=kosodate",
+        "contactComment": "FAX：03-5744-1525",
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+1+UM23",
+        "organization": "1000020131113",
+        "compartment": "子育て支援課こども医療係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-06",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "大田区乳幼児、義務教育就学児及び高校生等の医療費の助成に関する条例",
+        "regulationArticle": "第3条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "ひとり親家庭医療費助成",
+        "shortName": "ひとり親家庭等に対する医療費助成"
+      },
+      "summary": "ひとり親家庭の母または父、および、そのお子さんの医療費に対して助成を行います。",
+      "description": "ひとり親家庭等に対する医療費助成\nページ番号：931138601\n更新日：2024年1月1日\n医療費助成の概要\n　ひとり親家庭等に対し、医療費の一部を助成することにより、ひとり親家庭等の保健の向上に寄与するとともに、福祉の増進を図ることを目的としています。\n\n1から5　ひとり親医療証について;https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/hitorioya.html#cms6499A\n6　ひとり親家庭等医療費助成の償還払いについて;https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/hitorioya.html#cms19076\n7　マル親医療証をお持ちの方へ;https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/hitorioya.html#cms5A68F\n1　対象となる方\n　大田区内に住所があり、健康保険に加入していて、所得限度額内で、かつ次のいずれかに該当する方\n（1）ひとり親家庭等の父又は母及び児童\n（2）養育者及び養育者が養育するひとり親家庭等の定義に掲げる児童\n\n（注釈1）「児童」とは、18歳に達した日の属する年度の末日（3月31日）までの者\n　20歳未満で障害の状態にある者\n（注釈2）「ひとり親家庭等」とは、次のいずれかに該当する児童の父又は母がその児童を監護する家庭\n　　ア　父母が離婚した児童\n　　イ　父又は母が死亡した児童\n　　ウ　父又は母に1年以上遺棄されている児童\n　　エ　母が婚姻によらないで出生した児童\n　　オ　父又は母が法令により1年以上拘禁されている児童\n　　カ　父又は母がDV保護命令を受けた児童\n　　キ　父又は母の生死が明らかでない児童\n　　ク　父又は母が障害の状態にある児童 【障害の程度については児童扶養手当の判定基準と同一】\n\n2　対象とならない方\n（1）生活保護を受けている方\n（2）児童福祉施設その他の施設に措置入所している児童\n（3）児童福祉法に規定する小規模住居型児童養育事業を行う者又は里親に委託されている児童\n（4）児童を監護しない父又は母と生計を同じくしている児童（障害の状態にある父又は母を除く）\n（5）父又は母の配偶者に養育されている児童（障害の状態にある父又は母を除く）\n\n3　医療証の交付及び助成範囲\n　対象者として認定された方には「ひとり親医療証（以下マル親医療証）」を交付します。マル親医療証と健康保険証を都内の医療機関等の窓口に提示することにより、大田区ひとり親家庭の医療費の助成に関する条例による一部負担金相当額を支払うだけで受診できます。（健康診断、予防接種、文書料等、保険診療の対象にならないものや入院時食事療養標準負担額、入院生活療養標準負担額は助成対象外となります。）\n　なお、医療機関等の窓口で医療費助成が受けられなかった場合や高額医療費の申請方法については以下を参照ください。\n\n5　ひとり親家庭等医療費助成の償還払いについて;https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/hitorioya.html#cms19076\n（1）マル親医療証の負担者番号が81136111の方\n　医療機関等の受診時に一部負担金（総医療費の1割）が発生します。この一部負担金が下記限度額を超えた場合、受給者の申請により、限度額を超えて負担した一部負担金を「マル親高額医療費」として助成する制度があります。（高額療養費等、既に健康保険を含む他制度から支給を受けた金額は除きます）\n\n高額医療費限度額\n||負担割合|一部負担金限度額|\n|:----|:----|:----|\n|外来（個人）|1割|月：18,000円　年間：144,000円|\n|入院（世帯）|1割|月：57,600円　多数回：44,400円|\n（備考1）1年間の限度額の計算は、毎年8月1日から翌年7月31日の期間について行います。また月の限度額にて助成済の金額は計算対象外となります。\n（備考2）多数回とは、当該療養を受けた月以前の12か月以内に3回以上57,600円を超えた場合に4回目以降の限度額が多数回（44,400円）となります。\n\n（2）マル親医療証の負担者番号が81137119の方\n　医療機関等受診時に一部負担金は発生しません。\n\n4　申請に必要なもの（郵送申請不可）\n（1）　申請者及び対象児童の健康保険証\n（2）　申請者及び対象児童の戸籍謄本（発行1か月以内のもの）\n（3）　支給事由に該当することがわかる公的証明書\n（4）　児童扶養手当証書（児童扶養手当受給者のみ）\n（5）　個人番号カードまたは個人番号が確認できるものおよび身元確認書類\n\n（注釈1）上記以外にも資格審査上、別途書類等をご用意いただく場合があります。\n\n　色々な事情により児童が無戸籍となる場合には、ご相談ください。\n\n表1　所得限度額表（令和4年中の所得）\n|税法上の扶養親族等の数|申請者本人|孤児等の養育者、配偶者及び扶養義務者|\n|:----|:----|:----|\n|0人|1,920,000円　未満|2,360,000円　未満|\n|1人|2,300,000円　未満|2,740,000円　未満|\n|2人|2,680,000円　未満|3,120,000円　未満|\n|以降、1人増すごとに|380,000円加算|380,000円加算|\n（備考1）表中の所得とは、給与所得だけの方は「源泉徴収票の給与所得控除後の金額」 事業所得等のある方は「年間収入金額から必要経費を差し引いた金額」から表2に該当するものを控除した金額です。\n（備考2）申請者が児童の父又は母の場合の申請者本人の所得額には、令和4年中に申請者と児童が児童の母又は父から受け取った養育費の8割が加算されます。\n\n表2　所得の限度額に加算する金額（税法上申告し、認められたものに限ります）\n|申請者本人|老人控除対象配偶者または老人扶養親族1人につき|100,000円|\n|^|特定扶養親族1人につき|150,000円|\n|^|扶養親族のうち、令和4年12月31日において年齢が16歳以上19歳未満(平成16年1月2日～平成19年1月1日生)であった者1人につき|150,000円|\n|孤児等の養育者<br>配偶者・扶養義務者|老人扶養親族1人につき<br>（注）扶養2人以上（扶養親族が老人1人のみは加算なし）|60,000円|\n表3　控除額（税法上申告し、認められたものに限ります）\n|内容|金額|\n|:----|:----|\n|社会保険料控除|一律　80,000円|\n|総所得金額に公的年金等控除・給与所得控除が含まれている方|最大　100,000円|\n|障害者・勤労学生控除|270,000円|\n|特別障害者控除|400,000円|\n|雑損・医療費・小規模企業共済等掛金・配偶者特別控除|控除相当額|\n|公共用地の取得に伴う土地代金や物件移転料等の控除|特別控除額|\n（備考1）扶養親族等の数、控除額は税法上（課税計算上）認められている場合に適用されます。\n（備考2）養育者・配偶者・扶養義務者については、税法上（課税計算上）認められている場合、寡婦控除[270,000円]・ひとり親控除[350,000円]も控除されます。\n（備考3）上記の表は令和6年12月中の申請分まで適用されます。\n\n5　個人番号（マイナンバ－）の提供について\n　平成28年1月から、社会保障や税の分野でマイナンバー(個人番号)の利用が始まりました。これに伴い、ひとり親家庭等医療費助成制度の申請の際には、申請者や対象児童等のマイナンバーを提供していただく必要があります。\n\n個人番号の提供のお願い（PDF：650KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/hitorioya.files/mainan.pdf\n\n社会保障・税番号制度（マイナンバー制度）;https://www.city.ota.tokyo.jp/kuseijoho/mynumber/index.html\n\n6　ひとり親家庭等医療費助成の償還払いについて\n　ひとり親家庭等医療費助成制度は、医療機関等の窓口でマル親医療証を提示することにより助成を受けることができます。下記の事情により、医療機関等の窓口で直接助成が受けられなかった等の場合、子育て支援課児童育成係に償還払いの申請をいただくことにより、助成相当額を現金（口座振込）により給付いたします。\n\nマル親医療証の申請・届出（住所変更等）後の審査中につき、手元にマル親医療証がなかった場合。\n加入の健康保険が都外の国民健康保険もしくは都外の国民健康保険組合の場合。\nひとり親家庭等医療費助成制度の対象外の医療機関等（都外の病院等）を受診した場合。\nやむを得ずマル親医療証を提示できなかった場合。\nマル親高額医療費制度の申請をされる場合\n（1）　申請に必要なもの\n医療機関等が発行する領収書（原本）　　\n受診者の健康保険証\n振込先の口座がわかるもの（通帳等）\n印鑑\n個別の事情により添付が必要な書類（下記（3）に該当する場合）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/hitorioya.html#cmsshoukan\n（注釈1）領収書には、入院・外来の別、受診者の氏名、領収額、保険診療点数（総医療点数）、診療年月日、領収年月日、医療機関等の所在地、名称、領収印の記載が必要になります。レシート等で記載のない領収書の場合は、医療機関等の窓口で記載してもらってください。\n（注釈2）保護者様名義の口座へお振込みさせていただきます。お子様名義の口座へはお振込みできかねますので、ご注意ください。\n\n（2）　注意事項\n支給申請の期限は、医療費の支払日の翌日から起算して5年以内です。お早めにご申請ください。\n健康保険が適用されない診療（自由診療等）、入院時食事療養費・入院生活療養標準負担額は助成対象外です。\n高校生以下のお子様は、乳・子・青医療証が優先となるため、該当の償還払いの申請は子育て支援課こども医療係へお問合せください。\n償還払いの申請は、マル親医療証の交付または受給資格を得てから行ってください。\n郵送での申請も可能です。ご希望の方はお電話いただければ申請書を送付いたしますのでお問合せください。なお、未着等郵送事故の場合は申請を保証いたしかねますのでご了承ください。　\n領収書は原本の提出が必要になります。控えが必要な場合はコピーをお取りいただいた上ご申請ください。なお、払い戻しを受けた医療費については、医療費控除の対象にはなりません。\nマル親高額医療費の申請をされる場合、診療を受けた翌月以降に1か月分または1年分（計算期間は毎年8月～翌年7月）の領収書（原本）を持参ください。\n（3）個別の事情により追加書類の添付が必要な場合\nア　健康保険証を医療機関等の窓口で提示できず、10割の医療費を負担した場合\n　先に加入の健康保険から保険分（総医療費の7割）の支給決定を受けた後、子育て支援課児童育成係へ償還払いを申請してください。加入の健康保険へ医療機関等の領収書の原本を提出した場合は、領収書はコピーでも申請可能です。\n\n療養費支給決定通知書の原本（加入の健康保険が発行）\nイ　治療用装具を作成した場合\n　総医療費（10割）を支払うことになるため、先に加入の健康保険から保険分（総医療費の7割）の支給決定を受けた後、子育て支援課児童育成係へ償還払いを申請してください。加入の健康保険へ治療用装具の領収書の原本を提出した場合は、領収書はコピーでも申請可能です。\n\n療養費支給決定通知書の原本（加入の健康保険が発行）\n医師の指示書または診断書のコピー\nウ　健康保険の高額療養費に該当するとき\n　ひと月あたりの医療費が高額になり、健康保険において定められた限度額を超えたとき、限度額を超えて負担した金額が健康保険から高額療養費として支給されます。医療機関等の窓口における限度額認定証の提示、もしくは加入の健康保険への申請により、高額療養費の支給を受けた後、子育て支援課児童育成係へ償還払いを申請してください。高額療養費の対象になるかについては加入の健康保険へお問合せください。\n\n限度額認定証のコピーまたは療養費支給決定通知書の原本（ともに加入の健康保険が発行）\nエ　難病医療費助成・小児慢性特定疾病制度に該当するとき\n　医療機関等の窓口への該当の医療証の提示により、難病医療費助成・小児慢性特定疾病制度の支給を受けた後、一部負担金が発生した場合は子育て支援課児童育成係へ償還払いを申請してください。なお、ひとり親家庭等医療費助成制度の一部負担金がある世帯（医療証の負担者番号が81136111の世帯）の場合、発生した一部負担金の金額が、マル親一部負担金の金額（総医療費の1割）以下となる場合は助成対象になりません。\n\n難病医療証・小児慢性特定疾病医療証のコピー\n難病助成・小児慢性特定疾病自己負担上限額管理表のコピー\nオ　加入の健康保険から付加給付金の支給を受けたとき\n　加入の健康保険が独自に定める制度により、上記ウの高額療養費とは別に、付加給付金が支給される場合があります。加入の健康保険から付加給付金の支給を受けたときは、償還払いにて助成する金額から付加給付金の金額を除きます。\n\n療養費支給決定通知書の原本（加入の健康保険が発行）\n7 　マル親医療証をお持ちの方へ\n次のようなことがありましたら届出が必要になります。\n手続き方法等、詳細はお問合せください。\n\n（1）資格がなくなったとき\n\n受給者である父または母が婚姻したとき\n児童が受給者ではない父または母と生活するようになったとき\n遺棄していた父または母から連絡があったとき\n拘禁されていた父または母が出所したとき\n児童が児童福祉施設に入所したとき(保育園、母子生活支援施設等を除く)\n受給者が、児童を監護しなくなったとき\n児童が死亡したとき\n生活保護の受給を開始したとき\n大田区外に転出したとき\n（2）住所・氏名が変わったとき\n（3）対象児童の数が変わったとき\n（4）受給者が所得の高い扶養義務者(父母、兄弟、姉妹、祖父母など)と同居するようになったとき\n（5）心身障害者医療費助成制度（マル障医療証）の交付を受けたとき\n（6）マル親医療証を紛失・汚損したとき\n（7）加入医療保険が変わったとき\n　ご加入の健康保険に変更があった場合は、子育て支援課児童育成係までお越しいただくか、以下の変更届様式をダウンロードいただき、ご記入のうえ保護者様及びお子様の健康保険証の写しとともに郵送にてご提出ください。\n\n加入医療保険変更届（PDF：308KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/hitorioya.files/hokenhenkoutodoke.pdf\n\n記入例（PDF：100KB）;https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/hitorioya.files/hokenhenkoukinyurei.pdf\n\n（注釈1）「婚姻」には事実上の婚姻を含みます。事実上の婚姻には「住民登録等の有無にかかわらず異性が同居しているとき」「同じ住所（居所）に異性の住民登録等があるとき」「いわゆる「通い婚」の状態にあるとき」が含まれます。\n（注釈2）資格がないにもかかわらずマル親医療証を使用して診療を受けますと無資格受診となり、医療助成相当額を後日返還していただくことになりますので、ご注意ください。\n（注釈3）その他、所得の修正申告を行った場合や、同居者に変更があった場合などには、マル親医療証の資格に関係することがありますのでご連絡ください。",
+      "target": {
+        "targetPersons": "大田区内に住所があり、健康保険に加入していて、所得限度額内で、かつ次のいずれかに該当する方\n（1）ひとり親家庭等の父又は母及び児童\n（2）養育者及び養育者が養育するひとり親家庭等の定義に掲げる児童\n\n（注釈1）「児童」とは、18歳に達した日の属する年度の末日（3月31日）までの者\n　20歳未満で障害の状態にある者\n（注釈2）「ひとり親家庭等」とは、次のいずれかに該当する児童の父又は母がその児童を監護する家庭\n　　ア　父母が離婚した児童\n　　イ　父又は母が死亡した児童\n　　ウ　父又は母に1年以上遺棄されている児童\n　　エ　母が婚姻によらないで出生した児童\n　　オ　父又は母が法令により1年以上拘禁されている児童\n　　カ　父又は母がDV保護命令を受けた児童\n　　キ　父又は母の生死が明らかでない児童\n　　ク　父又は母が障害の状態にある児童 【障害の程度については児童扶養手当の判定基準と同一】",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "大田区内に住所があり、健康保険に加入していて、所得限度額内で、かつ次のいずれかに該当する方\n（1）ひとり親家庭等の父又は母及び児童\n（2）養育者及び養育者が養育するひとり親家庭等の定義に掲げる児童\n\n（注釈1）「児童」とは、18歳に達した日の属する年度の末日（3月31日）までの者\n　20歳未満で障害の状態にある者\n（注釈2）「ひとり親家庭等」とは、次のいずれかに該当する児童の父又は母がその児童を監護する家庭\n　　ア　父母が離婚した児童\n　　イ　父又は母が死亡した児童\n　　ウ　父又は母に1年以上遺棄されている児童\n　　エ　母が婚姻によらないで出生した児童\n　　オ　父又は母が法令により1年以上拘禁されている児童\n　　カ　父又は母がDV保護命令を受けた児童\n　　キ　父又は母の生死が明らかでない児童\n　　ク　父又は母が障害の状態にある児童 【障害の程度については児童扶養手当の判定基準と同一】"
+      },
+      "support": {
+        "description": "対象者として認定された方には「ひとり親医療証（以下マル親医療証）」を交付します。マル親医療証と健康保険証を都内の医療機関等の窓口に提示することにより、大田区ひとり親家庭の医療費の助成に関する条例による一部負担金相当額を支払うだけで受診できます。（健康診断、予防接種、文書料等、保険診療の対象にならないものや入院時食事療養標準負担額、入院生活療養標準負担額は助成対象外となります。）\n　なお、医療機関等の窓口で医療費助成が受けられなかった場合や高額医療費の申請方法については以下を参照ください。\n\n5　ひとり親家庭等医療費助成の償還払いについて;https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/hitorioya.html#cms19076\n（1）マル親医療証の負担者番号が81136111の方\n　医療機関等の受診時に一部負担金（総医療費の1割）が発生します。この一部負担金が下記限度額を超えた場合、受給者の申請により、限度額を超えて負担した一部負担金を「マル親高額医療費」として助成する制度があります。（高額療養費等、既に健康保険を含む他制度から支給を受けた金額は除きます）\n\n高額医療費限度額\n||負担割合|一部負担金限度額|\n|:----|:----|:----|\n|外来（個人）|1割|月：18,000円　年間：144,000円|\n|入院（世帯）|1割|月：57,600円　多数回：44,400円|\n（備考1）1年間の限度額の計算は、毎年8月1日から翌年7月31日の期間について行います。また月の限度額にて助成済の金額は計算対象外となります。\n（備考2）多数回とは、当該療養を受けた月以前の12か月以内に3回以上57,600円を超えた場合に4回目以降の限度額が多数回（44,400円）となります。\n\n（2）マル親医療証の負担者番号が81137119の方\n　医療機関等受診時に一部負担金は発生しません。",
+        "monetarySupport": "対象者として認定された方には「ひとり親医療証（以下マル親医療証）」を交付します。マル親医療証と健康保険証を都内の医療機関等の窓口に提示することにより、大田区ひとり親家庭の医療費の助成に関する条例による一部負担金相当額を支払うだけで受診できます。（健康診断、予防接種、文書料等、保険診療の対象にならないものや入院時食事療養標準負担額、入院生活療養標準負担額は助成対象外となります。）\n　なお、医療機関等の窓口で医療費助成が受けられなかった場合や高額医療費の申請方法については以下を参照ください。\n\n5　ひとり親家庭等医療費助成の償還払いについて;https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/hitorioya.html#cms19076\n（1）マル親医療証の負担者番号が81136111の方\n　医療機関等の受診時に一部負担金（総医療費の1割）が発生します。この一部負担金が下記限度額を超えた場合、受給者の申請により、限度額を超えて負担した一部負担金を「マル親高額医療費」として助成する制度があります。（高額療養費等、既に健康保険を含む他制度から支給を受けた金額は除きます）\n\n高額医療費限度額\n||負担割合|一部負担金限度額|\n|:----|:----|:----|\n|外来（個人）|1割|月：18,000円　年間：144,000円|\n|入院（世帯）|1割|月：57,600円　多数回：44,400円|\n（備考1）1年間の限度額の計算は、毎年8月1日から翌年7月31日の期間について行います。また月の限度額にて助成済の金額は計算対象外となります。\n（備考2）多数回とは、当該療養を受けた月以前の12か月以内に3回以上57,600円を超えた場合に4回目以降の限度額が多数回（44,400円）となります。\n\n（2）マル親医療証の負担者番号が81137119の方\n　医療機関等受診時に一部負担金は発生しません。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "4　申請に必要なもの（郵送申請不可）\n（1）　申請者及び対象児童の健康保険証\n（2）　申請者及び対象児童の戸籍謄本（発行1か月以内のもの）\n（3）　支給事由に該当することがわかる公的証明書\n（4）　児童扶養手当証書（児童扶養手当受給者のみ）\n（5）　個人番号カードまたは個人番号が確認できるものおよび身元確認書類\n\n（注釈1）上記以外にも資格審査上、別途書類等をご用意いただく場合があります。\n\n　色々な事情により児童が無戸籍となる場合には、ご相談ください。\n\n表1　所得限度額表（令和4年中の所得）\n|税法上の扶養親族等の数|申請者本人|孤児等の養育者、配偶者及び扶養義務者|\n|:----|:----|:----|\n|0人|1,920,000円　未満|2,360,000円　未満|\n|1人|2,300,000円　未満|2,740,000円　未満|\n|2人|2,680,000円　未満|3,120,000円　未満|\n|以降、1人増すごとに|380,000円加算|380,000円加算|\n（備考1）表中の所得とは、給与所得だけの方は「源泉徴収票の給与所得控除後の金額」 事業所得等のある方は「年間収入金額から必要経費を差し引いた金額」から表2に該当するものを控除した金額です。\n（備考2）申請者が児童の父又は母の場合の申請者本人の所得額には、令和4年中に申請者と児童が児童の母又は父から受け取った養育費の8割が加算されます。\n\n表2　所得の限度額に加算する金額（税法上申告し、認められたものに限ります）\n|申請者本人|老人控除対象配偶者または老人扶養親族1人につき|100,000円|\n|^|特定扶養親族1人につき|150,000円|\n|^|扶養親族のうち、令和4年12月31日において年齢が16歳以上19歳未満(平成16年1月2日～平成19年1月1日生)であった者1人につき|150,000円|\n|孤児等の養育者<br>配偶者・扶養義務者|老人扶養親族1人につき<br>（注）扶養2人以上（扶養親族が老人1人のみは加算なし）|60,000円|\n表3　控除額（税法上申告し、認められたものに限ります）\n|内容|金額|\n|:----|:----|\n|社会保険料控除|一律　80,000円|\n|総所得金額に公的年金等控除・給与所得控除が含まれている方|最大　100,000円|\n|障害者・勤労学生控除|270,000円|\n|特別障害者控除|400,000円|\n|雑損・医療費・小規模企業共済等掛金・配偶者特別控除|控除相当額|\n|公共用地の取得に伴う土地代金や物件移転料等の控除|特別控除額|\n（備考1）扶養親族等の数、控除額は税法上（課税計算上）認められている場合に適用されます。\n（備考2）養育者・配偶者・扶養義務者については、税法上（課税計算上）認められている場合、寡婦控除[270,000円]・ひとり親控除[350,000円]も控除されます。\n（備考3）上記の表は令和6年12月中の申請分まで適用されます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "4　申請に必要なもの（郵送申請不可）\n（1）　申請者及び対象児童の健康保険証\n（2）　申請者及び対象児童の戸籍謄本（発行1か月以内のもの）\n（3）　支給事由に該当することがわかる公的証明書\n（4）　児童扶養手当証書（児童扶養手当受給者のみ）\n（5）　個人番号カードまたは個人番号が確認できるものおよび身元確認書類\n\n（注釈1）上記以外にも資格審査上、別途書類等をご用意いただく場合があります。\n\n　色々な事情により児童が無戸籍となる場合には、ご相談ください。\n\n表1　所得限度額表（令和4年中の所得）\n|税法上の扶養親族等の数|申請者本人|孤児等の養育者、配偶者及び扶養義務者|\n|:----|:----|:----|\n|0人|1,920,000円　未満|2,360,000円　未満|\n|1人|2,300,000円　未満|2,740,000円　未満|\n|2人|2,680,000円　未満|3,120,000円　未満|\n|以降、1人増すごとに|380,000円加算|380,000円加算|\n（備考1）表中の所得とは、給与所得だけの方は「源泉徴収票の給与所得控除後の金額」 事業所得等のある方は「年間収入金額から必要経費を差し引いた金額」から表2に該当するものを控除した金額です。\n（備考2）申請者が児童の父又は母の場合の申請者本人の所得額には、令和4年中に申請者と児童が児童の母又は父から受け取った養育費の8割が加算されます。\n\n表2　所得の限度額に加算する金額（税法上申告し、認められたものに限ります）\n|申請者本人|老人控除対象配偶者または老人扶養親族1人につき|100,000円|\n|^|特定扶養親族1人につき|150,000円|\n|^|扶養親族のうち、令和4年12月31日において年齢が16歳以上19歳未満(平成16年1月2日～平成19年1月1日生)であった者1人につき|150,000円|\n|孤児等の養育者<br>配偶者・扶養義務者|老人扶養親族1人につき<br>（注）扶養2人以上（扶養親族が老人1人のみは加算なし）|60,000円|\n表3　控除額（税法上申告し、認められたものに限ります）\n|内容|金額|\n|:----|:----|\n|社会保険料控除|一律　80,000円|\n|総所得金額に公的年金等控除・給与所得控除が含まれている方|最大　100,000円|\n|障害者・勤労学生控除|270,000円|\n|特別障害者控除|400,000円|\n|雑損・医療費・小規模企業共済等掛金・配偶者特別控除|控除相当額|\n|公共用地の取得に伴う土地代金や物件移転料等の控除|特別控除額|\n（備考1）扶養親族等の数、控除額は税法上（課税計算上）認められている場合に適用されます。\n（備考2）養育者・配偶者・扶養義務者については、税法上（課税計算上）認められている場合、寡婦控除[270,000円]・ひとり親控除[350,000円]も控除されます。\n（備考3）上記の表は令和6年12月中の申請分まで適用されます。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "子育て支援課児童育成係",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/hitorioya.files/hokenhenkoukinyurei.pdf",
+          "title": "記入例（PDF：100KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kosodatashien.html",
+          "title": "子育て支援課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/hitorioya.files/hokenhenkoutodoke.pdf",
+          "title": "加入医療保険変更届（PDF：308KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/hitorioya.files/mainan.pdf",
+          "title": "個人番号の提供のお願い（PDF：650KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/mynumber/index.html",
+          "title": "社会保障・税番号制度（マイナンバー制度）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/kodomo/teate/hitorioya.html",
+        "title": "ひとり親家庭等に対する医療費助成"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て支援課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kosodatashien.html児童育成係",
+        "contactPhone": "03-5744-1274",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=kosodate",
+        "contactComment": "FAX ：03-5744-1525",
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+1+UM27",
+        "organization": "1000020131113",
+        "compartment": "子育て支援課児童育成係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-01-01",
+      "odInformation": {
+        "updateDate": "2024-06-27",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "大田区ひとり親家庭の医療費の助成に関する条例",
+        "regulationArticle": "第3条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "【令和6年4月1日から】5種混合ワクチン（DPT-IPV-Hib）予防接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "【令和6年4月1日から】5種混合ワクチン（DPT-IPV-Hib）予防接種\nページ番号：630584095\n更新日：2024年4月1日\n5種混合ワクチン（DPT-IPV－Hib）について\n５種混合ワクチンについて\n令和6年4月1日から、従来の百日せきジフテリア破傷風不活化ポリオ4種混合ワクチン（DPT-IPV）にHib感染症を加えた、5種混合ワクチン（DPT－IPV－Hib）が定期予防接種となりました。\n\n接種される方は、下記添付文書「保護者の皆様へ」をご確認ください。\n\n保護者の皆様へ【DPT-IPV-Hib（ジフテリア・百日せき・破傷風・不活化ポリオ・インフルエンザ菌ｂ型）予防接種】（PDF：780KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/20240401DPT-IPV-Hib.files/20240401setumei.pdf\n\n接種対象者\n生後2か月から生後90か月に至るまで（7歳6か月になる前日まで）\n※令和6年3月31日までに4種混合ワクチンまたはHibワクチンどちらかの接種を開始している場合は、　　\n　 原則、引き続き4種混合ワクチンとHibワクチンで接種を完了してください。\n\n接種間隔・回数\n皮下注射または筋肉内注射により、計4回の接種が必要です。標準的な接種期間は次のとおりです。\n・初回免疫：生後2か月から7か月に達する前日までに、20日から56日の間隔で3回接種\n・追加免疫：初回3回接種終了後、6ヶ月から18ヶ月に達するまでの期間で1回接種\n\n予診票\n生後２か月になるまでに送付しています。\n\n令和6年3月以降に生まれたお子さまには、5種混合ワクチンの予診票を送付しています。\n令和6年2月以前に生まれたお子さまで、「４種混合ワクチンとHibワクチンをともに未接種の方」は、\nお手持ちの4種混合ワクチンの予診票で5種混合ワクチンを接種できます。\n医療機関にそのまま予診票を持参いただき、医師にご相談ください。\n\n※予診票がお手元にない場合は、再発行の手続きが必要ですので、下記リンクから申請願います。\n\n乳幼児等予防接種予診票の交付申請について;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html",
+      "target": {
+        "targetPersons": "生後2か月から生後90か月に至るまで（7歳6か月になる前日まで）\n※令和6年3月31日までに4種混合ワクチンまたはHibワクチンどちらかの接種を開始している場合は、 原則、引き続き4種混合ワクチンとHibワクチンで接種を完了してください。",
+        "lessThan": {
+          "targetAge": 7,
+          "targetAgeOfMonths": 6
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後2か月から生後90か月に至るまで（7歳6か月になる前日まで）\n※令和6年3月31日までに4種混合ワクチンまたはHibワクチンどちらかの接種を開始している場合は、 原則、引き続き4種混合ワクチンとHibワクチンで接種を完了してください。"
+      },
+      "support": {
+        "description": "5種混合ワクチン（DPT-IPV－Hib）について\n５種混合ワクチンについて\n令和6年4月1日から、従来の百日せきジフテリア破傷風不活化ポリオ4種混合ワクチン（DPT-IPV）にHib感染症を加えた、5種混合ワクチン（DPT－IPV－Hib）が定期予防接種となりました。\n\n接種される方は、下記添付文書「保護者の皆様へ」をご確認ください。\n\n保護者の皆様へ【DPT-IPV-Hib（ジフテリア・百日せき・破傷風・不活化ポリオ・インフルエンザ菌ｂ型）予防接種】（PDF：780KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/20240401DPT-IPV-Hib.files/20240401setumei.pdf",
+        "monetarySupport": null,
+        "materiallySupport": "5種混合ワクチン（DPT-IPV－Hib）について\n５種混合ワクチンについて\n令和6年4月1日から、従来の百日せきジフテリア破傷風不活化ポリオ4種混合ワクチン（DPT-IPV）にHib感染症を加えた、5種混合ワクチン（DPT－IPV－Hib）が定期予防接種となりました。\n\n接種される方は、下記添付文書「保護者の皆様へ」をご確認ください。\n\n保護者の皆様へ【DPT-IPV-Hib（ジフテリア・百日せき・破傷風・不活化ポリオ・インフルエンザ菌ｂ型）予防接種】（PDF：780KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/20240401DPT-IPV-Hib.files/20240401setumei.pdf"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "接種間隔・回数\n皮下注射または筋肉内注射により、計4回の接種が必要です。標準的な接種期間は次のとおりです。\n・初回免疫：生後2か月から7か月に達する前日までに、20日から56日の間隔で3回接種\n・追加免疫：初回3回接種終了後、6ヶ月から18ヶ月に達するまでの期間で1回接種\n\n予診票\n生後２か月になるまでに送付しています。\n\n令和6年3月以降に生まれたお子さまには、5種混合ワクチンの予診票を送付しています。\n令和6年2月以前に生まれたお子さまで、「４種混合ワクチンとHibワクチンをともに未接種の方」は、お手持ちの4種混合ワクチンの予診票で5種混合ワクチンを接種できます。\n医療機関にそのまま予診票を持参いただき、医師にご相談ください。\n\n※予診票がお手元にない場合は、再発行の手続きが必要ですので、下記リンクから申請願います。\n\n乳幼児等予防接種予診票の交付申請について;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html",
+          "title": "感染症対策課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+          "title": "糀谷・羽田地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html",
+          "title": "大森地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html",
+          "title": "乳幼児等予防接種予診票の交付申請について"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html",
+          "title": "調布地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/20240401DPT-IPV-Hib.files/20240401setumei.pdf",
+          "title": "保護者の皆様へ【DPT-IPV-Hib（ジフテリア・百日せき・破傷風・不活化ポリオ・インフルエンザ菌ｂ型）予防接種】（PDF：780KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html",
+          "title": "蒲田地域健康課"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/20240401DPT-IPV-Hib.html",
+        "title": "【令和6年4月1日から】5種混合ワクチン（DPT-IPV-Hib）予防接種"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1682921360517",
+          "title": "【定期予防接種】予診票発行申請"
+        }
+      ],
+      "contact": {
+        "contactName": "感染症対策課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html,大森地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html,調布地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html,蒲田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html,糀谷・羽田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+        "contactPhone": "03-4446-2643,03-5764-0661,03-3726-4145,03-5713-1701,03-3743-4161",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=hokansen",
+        "contactComment": "FAX：03-5764-1524,FAX：03-5764-0659,FAX：03-3726-6331,FAX：03-5713-0290,FAX：03-6423-8838",
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+1+UM54",
+        "organization": "1000020131113",
+        "compartment": "感染症対策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "任意予防接種",
+        "shortName": "麻しん（はしか）風しんの接種漏れがある方の予防接種（MR予防接種漏れ事業）"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。\nこのうち大田区では、次の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+      "description": "麻しん（はしか）風しんの接種漏れがある方の予防接種（MR予防接種漏れ事業）\nページ番号：792563355\n更新日：2024年5月20日\nやむを得ない事情により、MR（麻しん風しん）の定期予防接種を受けることができなかった方を対象に、大田区独自の制度として、MR(麻しん風しん)の予防接種事業を実施しています。\n\n対象者\nMRの接種を希望する、2歳以上18歳以下の、接種日現在大田区に住民登録がある方で、定期予防接種のMR予防接種が未接種であることが、母子健康手帳等の記録により確認できる方。\nただし、MR第2期定期予防接種の対象期間の方は除きます。\n\n接種方法\n予診票発行の手続きが必要です。詳細はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html。（定期予防接種用の予診票では、この制度を利用することはできません。）\n下記契約医療機関にご予約のうえ、予診票と母子健康手帳をご持参し接種してください。\n大田区独自の制度なので、下記の契約医療機関以外では接種できません。\n\n接種費用\n無料\n\nMR予防接種漏れ事業　実施医療機関一覧（令和6年5月20日現在）（PDF：768KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/measles.files/060520mr.pdf\n\n保護者の皆様へ（令和6年4月現在）（PDF：230KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/measles.files/20240401mrmoreannai.pdf\n\n保護者が同伴できない場合の同意書（PDF：324KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/measles.files/20220401hogoshadoui.pdf",
+      "target": {
+        "targetPersons": "MRの接種を希望する、2歳以上18歳以下の、接種日現在大田区に住民登録がある方で、定期予防接種のMR予防接種が未接種であることが、母子健康手帳等の記録により確認できる方。\nただし、MR第2期定期予防接種の対象期間の方は除きます。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "MRの接種を希望する、2歳以上18歳以下の、接種日現在大田区に住民登録がある方で、定期予防接種のMR予防接種が未接種であることが、母子健康手帳等の記録により確認できる方。\nただし、MR第2期定期予防接種の対象期間の方は除きます。"
+      },
+      "support": {
+        "description": "やむを得ない事情により、MR（麻しん風しん）の定期予防接種を受けることができなかった方を対象に、大田区独自の制度として、MR(麻しん風しん)の予防接種事業を実施しています。",
+        "monetarySupport": null,
+        "materiallySupport": "やむを得ない事情により、MR（麻しん風しん）の定期予防接種を受けることができなかった方を対象に、大田区独自の制度として、MR(麻しん風しん)の予防接種事業を実施しています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "接種方法\n予診票発行の手続きが必要です。詳細はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html。（定期予防接種用の予診票では、この制度を利用することはできません。）\n下記契約医療機関にご予約のうえ、予診票と母子健康手帳をご持参し接種してください。\n大田区独自の制度なので、下記の契約医療機関以外では接種できません。\n\n接種費用\n無料\n\nMR予防接種漏れ事業　実施医療機関一覧（令和6年4月1日現在）（PDF：759KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/measles.files/060401mr.pdf\n\n保護者の皆様へ（令和6年4月現在）（PDF：230KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/measles.files/20240401mrmoreannai.pdf\n\n保護者が同伴できない場合の同意書（PDF：324KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/measles.files/20220401hogoshadoui.pdf",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/measles.files/060520mr.pdf",
+          "title": "MR予防接種漏れ事業　実施医療機関一覧（令和6年5月20日現在）（PDF：768KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/measles.files/20220401hogoshadoui.pdf",
+          "title": "保護者が同伴できない場合の同意書（PDF：324KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html",
+          "title": "蒲田地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+          "title": "糀谷・羽田地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/measles.files/20240401mrmoreannai.pdf",
+          "title": "保護者の皆様へ（令和6年4月現在）（PDF：230KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html",
+          "title": "調布地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html",
+          "title": "感染症対策課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html",
+          "title": "大森地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html",
+          "title": "こちら"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/measles.html",
+        "title": "麻しん（はしか）風しんの接種漏れがある方の予防接種（MR予防接種漏れ事業）"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1682921360517",
+          "title": "【定期予防接種】予診票発行申請"
+        }
+      ],
+      "contact": {
+        "contactName": "感染症対策課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html,大森地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html,調布地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html,蒲田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html,糀谷・羽田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+        "contactPhone": "03-4446-2643,03-5764-0661,03-3726-4145,03-5713-1701,03-3743-4161",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=hokansen",
+        "contactComment": "FAX：03-5764-1524,FAX：03-5764-0659,FAX：03-3726-6331,FAX：03-5713-0290,FAX：03-6423-8838",
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+1+UM55",
+        "organization": "1000020131113",
+        "compartment": "感染症対策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-20",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "小児任意予防接種費助成要綱",
+        "regulationArticle": "第1条（定義）、第3条（対象事業）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "4種混合ワクチン（DPT－IPV）と3種混合ワクチン（DPT）・不活化ポリオ（IPV）予防接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "4種混合ワクチン（DPT－IPV）と3種混合ワクチン（DPT）・不活化ポリオ（IPV）予防接種\nページ番号：445729159\n更新日：2023年4月1日\n4種混合ワクチン（DPT－IPVでぃーぴーてぃーあいぴーぶい）について\n平成24年11月1日から、従来のジフテリア百日せき破傷風3種混合ワクチン（DPTでぃーぴーてぃー）と単独不活化ポリオワクチンに加えて、百日せきジフテリア破傷風不活化ポリオ4種混合ワクチン（DPT－IPVでぃーぴーてぃーあいぴーぶい）が定期予防接種として導入されました。\n\n単独不活化ポリオワクチン（IPVあいぴーぶい）の導入について\nポリオの予防接種は、従来の生ワクチン(経口けいこう接種)に代わり全国一斉に単独不活化ワクチン(皮下注射で接種)が導入されました。平成24年9月1日からは初回接種3回について、さらに平成24年10月23日からは追加接種（4回目）についても定期予防接種の対象となりました。\n\n各ワクチンの接種対象者\n定期予防接種の対象となるのは、いずれも生後2か月から7歳6か月に達する前日までのお子さんです。\n\n「ポリオとポリオワクチンの基礎知識」（厚生労働省のページ）;https://www.mhlw.go.jp/bunya/kenkou/polio/qa.html\n\n接種方法\n皮下注射により合計4回の接種が必要です。標準的な接種期間は次のとおりです。\n（標準的な接種期間とは、当該疾病にかかりやすい時期を考慮し、定期予防接種として定めた中でもよりこの時期に接種することが望ましい期間としてお勧めしているものです。）\nなお、令和5年度から接種開始時期が生後3か月から生後2か月に拡大されました。\n\n（1）4種混合ワクチン（DPT－IPVでぃーぴーてぃーあいぴーぶい）\n　　・初回免疫：生後2か月から1歳に達する前日までに、20日から56日の間隔で3回接種\n　　・追加免疫：初回3回接種終了後、12ヶ月から18ヶ月に達するまでの期間で1回接種\n（2）3種混合ワクチン（DPTでぃーぴーてぃー）\n　　・初回免疫：生後2か月から1歳に達する前日までに、20日から56日の間隔で3回接種\n　　・追加免疫：初回3回接種終了後、12ヶ月から18ヶ月に達するまでの期間で1回接種\n（3）単独不活化ポリオワクチン（IPVあいぴーぶい）\n　　・初回免疫：生後2か月から1歳に達する前日までに、20日以上の間隔をあけて3回接種\n　　・追加免疫：初回3回接種終了後、12ヶ月から18ヶ月に達するまでの期間で1回接種\n\n3種混合ワクチンについて\n平成26年12月以降、3種混合ワクチン（DPTでぃーぴーてぃー）の製造は中止されていましたが、平成30年1月29日から再販売されています。\n3種混合ワクチンを希望される方は、ワクチンを取り寄せての接種となる場合がございますので、あらかじめ医療機関にご確認ください。",
+      "target": {
+        "targetPersons": "各ワクチンの接種対象者\n定期予防接種の対象となるのは、いずれも生後2か月から7歳6か月に達する前日までのお子さんです。\n\n「ポリオとポリオワクチンの基礎知識」（厚生労働省のページ）;https://www.mhlw.go.jp/bunya/kenkou/polio/qa.html",
+        "lessThan": {
+          "targetAge": 7,
+          "targetAgeOfMonths": 6
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "各ワクチンの接種対象者\n定期予防接種の対象となるのは、いずれも生後2か月から7歳6か月に達する前日までのお子さんです。\n\n「ポリオとポリオワクチンの基礎知識」（厚生労働省のページ）;https://www.mhlw.go.jp/bunya/kenkou/polio/qa.html"
+      },
+      "support": {
+        "description": "4種混合ワクチン（DPT－IPVでぃーぴーてぃーあいぴーぶい）について\n平成24年11月1日から、従来のジフテリア百日せき破傷風3種混合ワクチン（DPTでぃーぴーてぃー）と単独不活化ポリオワクチンに加えて、百日せきジフテリア破傷風不活化ポリオ4種混合ワクチン（DPT－IPVでぃーぴーてぃーあいぴーぶい）が定期予防接種として導入されました。\n\n単独不活化ポリオワクチン（IPVあいぴーぶい）の導入について\nポリオの予防接種は、従来の生ワクチン(経口けいこう接種)に代わり全国一斉に単独不活化ワクチン(皮下注射で接種)が導入されました。平成24年9月1日からは初回接種3回について、さらに平成24年10月23日からは追加接種（4回目）についても定期予防接種の対象となりました。",
+        "monetarySupport": null,
+        "materiallySupport": "4種混合ワクチン（DPT－IPVでぃーぴーてぃーあいぴーぶい）について\n平成24年11月1日から、従来のジフテリア百日せき破傷風3種混合ワクチン（DPTでぃーぴーてぃー）と単独不活化ポリオワクチンに加えて、百日せきジフテリア破傷風不活化ポリオ4種混合ワクチン（DPT－IPVでぃーぴーてぃーあいぴーぶい）が定期予防接種として導入されました。\n\n単独不活化ポリオワクチン（IPVあいぴーぶい）の導入について\nポリオの予防接種は、従来の生ワクチン(経口けいこう接種)に代わり全国一斉に単独不活化ワクチン(皮下注射で接種)が導入されました。平成24年9月1日からは初回接種3回について、さらに平成24年10月23日からは追加接種（4回目）についても定期予防接種の対象となりました。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "接種方法\n\n予診票は、生後2か月になるまでに送付しています。\n転入などで予診票がお手元にない方は、予診票発行の手続きが必要です。詳細は こちら。;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html\n\n皮下注射により合計4回の接種が必要です。標準的な接種期間は次のとおりです。\n（標準的な接種期間とは、当該疾病にかかりやすい時期を考慮し、定期予防接種として定めた中でもよりこの時期に接種することが望ましい期間としてお勧めしているものです。）\nなお、令和5年度から接種開始時期が生後3か月から生後2か月に拡大されました。\n\n（1）4種混合ワクチン（DPT－IPVでぃーぴーてぃーあいぴーぶい）\n　　・初回免疫：生後2か月から1歳に達する前日までに、20日から56日の間隔で3回接種\n　　・追加免疫：初回3回接種終了後、12ヶ月から18ヶ月に達するまでの期間で1回接種\n（2）3種混合ワクチン（DPTでぃーぴーてぃー）\n　　・初回免疫：生後2か月から1歳に達する前日までに、20日から56日の間隔で3回接種\n　　・追加免疫：初回3回接種終了後、12ヶ月から18ヶ月に達するまでの期間で1回接種\n（3）単独不活化ポリオワクチン（IPVあいぴーぶい）\n　　・初回免疫：生後2か月から1歳に達する前日までに、20日以上の間隔をあけて3回接種\n　　・追加免疫：初回3回接種終了後、12ヶ月から18ヶ月に達するまでの期間で1回接種",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html",
+          "title": "蒲田地域健康課"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/bunya/kenkou/polio/qa.html",
+          "title": "「ポリオとポリオワクチンの基礎知識」（厚生労働省のページ）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html",
+          "title": "調布地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+          "title": "糀谷・羽田地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html",
+          "title": "大森地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html",
+          "title": "感染症対策課"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/dpt-ipv.html",
+        "title": "4種混合ワクチン（DPT－IPV）と3種混合ワクチン（DPT）・不活化ポリオ（IPV）予防接種"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1682921360517",
+          "title": "【定期予防接種】予診票発行申請"
+        }
+      ],
+      "contact": {
+        "contactName": "感染症対策課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html,大森地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html,調布地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html,蒲田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html,糀谷・羽田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+        "contactPhone": "03-4446-2643,03-5764-0661,03-3726-4145,03-5713-1701,03-3743-4161",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=hokansen",
+        "contactComment": "FAX：03-5764-1524,FAX：03-5764-0659,FAX：03-3726-6331,FAX：03-5713-0290,FAX：03-6423-8838",
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+2+UM54",
+        "organization": "1000020131113",
+        "compartment": "感染症対策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "BCG予防接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "BCG予防接種\nページ番号：845059840\n更新日：2022年7月1日\nBCG予防接種とは\n　結核の予防接種です。乳幼児期に結核にかかると重症化する傾向にあります。BCG接種は乳幼児の結核性髄膜炎や栗粒結核などの予防に有効です。\n\n接種対象者\n1歳に至るまで（1歳を迎える誕生日の1日前までとなります。）\n\n標準的な接種期間\n生後5か月に達した時から生後8か月に達するまでの期間\n接種時期を遅くしたことにより、小児の結核罹患率が若干増加することが懸念されています。標準的な接種期間になりましたら、速やかにBCG予防接種をお受けください。\n\nBCG接種後の経過\n　接種後10日頃から接種したところに赤いぽつぽつができ、一部に小さいうみができることがあります。この反応は、接種後4週間頃に最も強くなりますが、その後は、かさぶたができて接種後3か月までには治り、小さな傷あとが残るだけになります。これは異常反応ではなく、BCG接種により抵抗力（免疫）がついた証拠です。自然に治るので、包帯をしたり、バンソウコウをはったりしないで、そのまま清潔に保ってください。ただし、接種後3か月を過ぎても接種のあとがジクジクしているようなときはかかりつけの医師に相談してください。\n\n（参照）日本ビーシージー製造株式会社　接種部位の経過について;https://www.bcg.gr.jp/general/bcg/post.html\n\n接種後の反応が早く出た場合（コッホ現象）\n　接種後1日から数日以内に接種したところの発赤・腫脹（はれ）及び化膿等を起こすことがあります。これを「コッホ現象」といいます。お子さんが結核菌の自然感染を受けている可能性があり、速やかにツベルクリン反応検査や胸部エックス線検査を行う必要があります。そのため、コッホ現象と思われる反応がお子さんにみられた場合は、速やかに接種医療機関を受診してください。\n　なお、局所の反応そのものは自然に治まっていくので清潔にするだけで構いません。\n\n医療機関の方へ（コッホ現象）\n　コッホ現象が疑われた場合は、Grade分類の写真を参考に判定いただき、対応をお願いします。　　\n　【Grade1～2】\n　　・接種医療機関にて経過観察をお願いします。\n　【Grade3以上】\n　　＜ツベルクリン反応検査実施可能の場合＞\n　　　・ツベルクリン反応の結果を判定後に「コッホ現象事例報告書」の提出をお願いします。\n　　＜ツベルクリン反応検査実施不可の場合＞\n　　　・速やかに（BCG接種後1週間以内）「コッホ現象疑い事例報告書」の提出をお願いします。\n　報告書は、感染症対策課（下記お問い合わせ）に電話で一報の上、FAXまたはメールで送付ください。\n　なお、送付先メールアドレスは、電話をいただいた際にご案内いたします。\n\n特別区BDG接種マニュアル抜粋版（コッホ現象のGrade分類　P12-19)（PDF：2,267KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/BCGseidohennkou.files/Grade.pdf\n\nコッホ現象疑い事例報告書（ツベルクリン反応を実施していない場合）（PDF：303KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/BCGseidohennkou.files/koltuhogensyouutagai.pdf\n\nコッホ現象事例報告書（ツベルクリン反応を実施した場合）（PDF：293KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/BCGseidohennkou.files/koltuhogensyou.pdf\n\n参考\n・BCG接種におけるコッホ現象への対応;https://jata.or.jp/rit/rj/bcg_nagai_21.12.18.pdf\n・コッホ現象への対応におけるポイント;https://jata.or.jp/rit/rj/bcg_nagai_2_21.12.18.pdf\n・日本ビーシージー製造株式会社　コッホ現象ってなに？;https://www.bcg.gr.jp/general/bcg/bcg_1.html",
+      "target": {
+        "targetPersons": "1歳に至るまで（1歳を迎える誕生日の1日前までとなります。）",
+        "lessThan": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1歳に至るまで（1歳を迎える誕生日の1日前までとなります。）"
+      },
+      "support": {
+        "description": "結核の予防接種です。乳幼児期に結核にかかると重症化する傾向にあります。BCG接種は乳幼児の結核性髄膜炎や栗粒結核などの予防に有効です。",
+        "monetarySupport": null,
+        "materiallySupport": "結核の予防接種です。乳幼児期に結核にかかると重症化する傾向にあります。BCG接種は乳幼児の結核性髄膜炎や栗粒結核などの予防に有効です。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "接種対象者\n1歳に至るまで（1歳を迎える誕生日の1日前までとなります。）\n予診票は、生後2か月になるまでに送付しています。\n転入などで予診票がお手元にない方は、予診票発行の手続きが必要です。詳細は こちら。;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html\n",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://jata.or.jp/rit/rj/bcg_nagai_2_21.12.18.pdf",
+          "title": "BCG接種におけるコッホ現象への対応"
+        },
+        {
+          "uri": "https://jata.or.jp/rit/rj/bcg_nagai_21.12.18.pdf",
+          "title": "コッホ現象事例報告書（ツベルクリン反応を実施した場合）（PDF：293KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+          "title": "蒲田地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html",
+          "title": "日本ビーシージー製造株式会社　コッホ現象ってなに？"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html",
+          "title": "感染症対策課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/BCGseidohennkou.files/Grade.pdf",
+          "title": "特別区BDG接種マニュアル抜粋版（コッホ現象のGrade分類　P12-19)（PDF：2"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/BCGseidohennkou.files/koltuhogensyou.pdf",
+          "title": "コッホ現象疑い事例報告書（ツベルクリン反応を実施していない場合）（PDF：303KB）"
+        },
+        {
+          "uri": "https://www.bcg.gr.jp/general/bcg/post.html",
+          "title": "（参照）日本ビーシージー製造株式会社　接種部位の経過について"
+        },
+        {
+          "uri": "https://www.bcg.gr.jp/general/bcg/bcg_1.html",
+          "title": "コッホ現象への対応におけるポイント"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/BCGseidohennkou.files/koltuhogensyouutagai.pdf",
+          "title": "267KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html",
+          "title": "大森地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html",
+          "title": "調布地域健康課"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/BCGseidohennkou.html",
+        "title": "BCG予防接種"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1682921360517",
+          "title": "【定期予防接種】予診票発行申請"
+        }
+      ],
+      "contact": {
+        "contactName": "感染症対策課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html,大森地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html,調布地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html,蒲田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html,糀谷・羽田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+        "contactPhone": "03-4446-2643,03-5764-0661,03-3726-4145,03-5713-1701,03-3743-4161",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=hokansen",
+        "contactComment": "FAX：03-5764-1524,FAX：03-5764-0659,FAX：03-3726-6331,FAX：03-5713-0290,FAX：03-6423-8838",
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+3+UM54",
+        "organization": "1000020131113",
+        "compartment": "感染症対策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-07-01",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "麻しん（はしか）・風しんの予防接種（MR予防接種）"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "麻しん（はしか）・風しんの予防接種（MR予防接種）\nページ番号：439887082\n更新日：2023年4月1日\n定期予防接種の対象年齢\n第1期：生後12月から生後24月に至るまでの間（1歳の誕生日前日から2歳の誕生日前日まで）\n　麻しん（はしか）は乳幼児期にかかると重症化することも多いため、1歳になったらできるだけ早く接種しましょう。\n\n第2期：5歳から7歳未満で小学校就学前の1年間（いわゆる年長児の4月1日から翌年3月31日まで）\n　令和5年度の対象者は、平成29年4月2日から平成30年4月1日生まれの方です。\n　なお、平成30年3月1日以降に生まれた方は、対象年齢時に予診票を郵送します。\n　令和6年度は、新年長児のお子さまへ3月25日にご自宅へ郵送しました。\n\n接種方法\n原則としてMR（麻しん風しん二種混合）ワクチンを使用し、第1期・第2期とも対象期間のうちに1回接種します。\n対象期間となったらなるべく早く接種を受けることをお勧めします。\n\n転入などで予診票がお手元にない方は、予診票発行の手続きが必要です。詳細はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html。",
+      "target": {
+        "targetPersons": "第1期：生後12月から生後24月に至るまでの間（1歳の誕生日前日から2歳の誕生日前日まで）\n第2期：5歳から7歳未満で小学校就学前の1年間（いわゆる年長児の4月1日から翌年3月31日まで）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "第1期：生後12月から生後24月に至るまでの間（1歳の誕生日前日から2歳の誕生日前日まで）\n第2期：5歳から7歳未満で小学校就学前の1年間（いわゆる年長児の4月1日から翌年3月31日まで）"
+      },
+      "support": {
+        "description": "麻しん（はしか）・風しんの予防接種（MR予防接種）",
+        "monetarySupport": null,
+        "materiallySupport": "麻しん（はしか）・風しんの予防接種（MR予防接種）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "接種方法\n原則としてMR（麻しん風しん二種混合）ワクチンを使用し、第1期・第2期とも対象期間のうちに1回接種します。\n対象期間となったらなるべく早く接種を受けることをお勧めします。\n\n転入などで予診票がお手元にない方は、予診票発行の手続きが必要です。詳細はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html",
+          "title": "大森地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html",
+          "title": "こちら"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+          "title": "糀谷・羽田地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html",
+          "title": "蒲田地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html",
+          "title": "感染症対策課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html",
+          "title": "調布地域健康課"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/H24MRoshirase.html",
+        "title": "麻しん（はしか）・風しんの予防接種（MR予防接種）"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1682921360517",
+          "title": "【定期予防接種】予診票発行申請"
+        }
+      ],
+      "contact": {
+        "contactName": "感染症対策課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html,大森地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html,調布地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html,蒲田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html,糀谷・羽田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+        "contactPhone": "03-4446-2643,03-5764-0661,03-3726-4145,03-5713-1701,03-3743-4161",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=hokansen",
+        "contactComment": "FAX：03-5764-1524,FAX：03-5764-0659,FAX：03-3726-6331,FAX：03-5713-0290,FAX：03-6423-8838",
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+4+UM54",
+        "organization": "1000020131113",
+        "compartment": "感染症対策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "日本脳炎予防接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "日本脳炎予防接種\nページ番号：845422290\n更新日：2024年2月9日\n日本脳炎ワクチンについては、令和３年１月より供給不足による限定出荷が行われていたため、\n接種を完了されていない場合があります。\n日本脳炎の予防接種が完了しているかご確認ください。\n日本脳炎は第1期（3回）、第2期（1回）　計4回の接種が必要です。\n第1期は7歳6か月に至るまで、第2期は9歳から13歳未満まで公費（無料）で接種できます。\nお子様の母子健康手帳を確認してみましょう。\n\n第1期（3回接種）について\n対象年齢\n生後6か月から7歳6か月に至るまで（7歳6か月を迎える1日前までとなります。）\n\n標準的な接種期間\n・初回2回 ：　3歳から4歳に達する前日まで\n　接種間隔 ：　1回目接種後、6日から28日の間隔をおいて2回目接種\n・追加接種 ：　4歳から5歳に達する前日まで\n　接種間隔 ：　初回2回接種後、概ね1年後に接種\n\n第2期（1回接種）について\n　平成17年5月より、日本脳炎予防接種第2期については、接種をご希望の方のみ接種を行っていましたが、平成25年4月1日より、第1期（3回接種）と同様に、皆様に接種を受けていただく取扱いになりました。接種がお済でない方は、接種をお受けください。\n\n対象年齢\n9歳から13歳未満まで（13歳の誕生日を迎える1日前までとなります。）\n\n標準的な接種期間\n9歳から10歳に達する前日までに1回接種\n\n接種の特例の対象者\n　接種のご案内を行っていなかった期間で、第1期（3回接種）、第2期（1回接種）の接種が完了せずに対象年齢を過ぎてしまった方は、特例の対象者として第1期（3回接種）、第2期（1回接種）が接種できます。\n\n特例の対象者\n生年月日が平成7年4月2日から平成19年4月1日の方で、20歳未満の方。\n\n令和6年度の積極的勧奨について\n令和6年度は、高校3年生に相当する年齢（生年月日が平成18年4月2日から平成19年4月1日までの方）で、未接種の方に接種のご案内を送付します。\n\n予診票について\n　予防接種を受けるには、大田区が交付する予診票が必要です。転入及び紛失等で予診票がお手元にない方は、予診票発行の手続きが必要です。詳細はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html。\n\n保護者の同伴について\n　特例措置による接種対象者のうち、13歳から16歳未満の方については、保護者の同伴がなくても接種できます。ただし、この場合は予診票だけでなく、保護者の署名がある接種に同意する旨の書類（以下「同意書」という。）も必要となります。(16歳以上の方については本人同意で接種可能)\n　同意書は、下記からダウンロードするか、各地域健康課または感染症対策課で入手できます。事前にご用意のうえ、医療機関にお出かけください。\n\n同意書の様式はこちら（PDF：285KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nichinou.files/20220401nitinoudouisho.pdf\n\n日本脳炎に関する情報は、下記からQ&Aがご覧になれます。\n厚生労働省ホームページ;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou20/japanese_encephalitis.html\n\n国立感染症研究所感染症情報センター;https://idsc.nih.go.jp/disease/JEncephalitis/index.html",
+      "target": {
+        "targetPersons": "日本脳炎ワクチンについては、令和３年１月より供給不足による限定出荷が行われていたため、\n接種を完了されていない場合があります。\n日本脳炎の予防接種が完了しているかご確認ください。\n日本脳炎は第1期（3回）、第2期（1回）　計4回の接種が必要です。\n第1期は7歳6か月に至るまで、第2期は9歳から13歳未満まで公費（無料）で接種できます。\nお子様の母子健康手帳を確認してみましょう。\n\n第1期（3回接種）について\n対象年齢\n生後6か月から7歳6か月に至るまで（7歳6か月を迎える1日前までとなります。）\n\n標準的な接種期間\n・初回2回 ：　3歳から4歳に達する前日まで\n　接種間隔 ：　1回目接種後、6日から28日の間隔をおいて2回目接種\n・追加接種 ：　4歳から5歳に達する前日まで\n　接種間隔 ：　初回2回接種後、概ね1年後に接種\n\n第2期（1回接種）について\n　平成17年5月より、日本脳炎予防接種第2期については、接種をご希望の方のみ接種を行っていましたが、平成25年4月1日より、第1期（3回接種）と同様に、皆様に接種を受けていただく取扱いになりました。接種がお済でない方は、接種をお受けください。\n\n対象年齢\n9歳から13歳未満まで（13歳の誕生日を迎える1日前までとなります。）\n\n標準的な接種期間\n9歳から10歳に達する前日までに1回接種\n\n接種の特例の対象者\n　接種のご案内を行っていなかった期間で、第1期（3回接種）、第2期（1回接種）の接種が完了せずに対象年齢を過ぎてしまった方は、特例の対象者として第1期（3回接種）、第2期（1回接種）が接種できます。\n\n特例の対象者\n生年月日が平成7年4月2日から平成19年4月1日の方で、20歳未満の方。\n\n令和6年度の積極的勧奨について\n令和6年度は、高校3年生に相当する年齢（生年月日が平成18年4月2日から平成19年4月1日までの方）で、未接種の方に接種のご案内を送付します。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "日本脳炎ワクチンについては、令和３年１月より供給不足による限定出荷が行われていたため、\n接種を完了されていない場合があります。\n日本脳炎の予防接種が完了しているかご確認ください。\n日本脳炎は第1期（3回）、第2期（1回）　計4回の接種が必要です。\n第1期は7歳6か月に至るまで、第2期は9歳から13歳未満まで公費（無料）で接種できます。\nお子様の母子健康手帳を確認してみましょう。\n\n第1期（3回接種）について\n対象年齢\n生後6か月から7歳6か月に至るまで（7歳6か月を迎える1日前までとなります。）\n\n標準的な接種期間\n・初回2回 ：　3歳から4歳に達する前日まで\n　接種間隔 ：　1回目接種後、6日から28日の間隔をおいて2回目接種\n・追加接種 ：　4歳から5歳に達する前日まで\n　接種間隔 ：　初回2回接種後、概ね1年後に接種\n\n第2期（1回接種）について\n　平成17年5月より、日本脳炎予防接種第2期については、接種をご希望の方のみ接種を行っていましたが、平成25年4月1日より、第1期（3回接種）と同様に、皆様に接種を受けていただく取扱いになりました。接種がお済でない方は、接種をお受けください。\n\n対象年齢\n9歳から13歳未満まで（13歳の誕生日を迎える1日前までとなります。）\n\n標準的な接種期間\n9歳から10歳に達する前日までに1回接種\n\n接種の特例の対象者\n　接種のご案内を行っていなかった期間で、第1期（3回接種）、第2期（1回接種）の接種が完了せずに対象年齢を過ぎてしまった方は、特例の対象者として第1期（3回接種）、第2期（1回接種）が接種できます。\n\n特例の対象者\n生年月日が平成7年4月2日から平成19年4月1日の方で、20歳未満の方。\n\n令和6年度の積極的勧奨について\n令和6年度は、高校3年生に相当する年齢（生年月日が平成18年4月2日から平成19年4月1日までの方）で、未接種の方に接種のご案内を送付します。"
+      },
+      "support": {
+        "description": "日本脳炎予防接種",
+        "monetarySupport": null,
+        "materiallySupport": "日本脳炎予防接種"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "予診票について\n　予防接種を受けるには、大田区が交付する予診票が必要です。転入及び紛失等で予診票がお手元にない方は、予診票発行の手続きが必要です。詳細はこちら;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html。\n\n保護者の同伴について\n　特例措置による接種対象者のうち、13歳から16歳未満の方については、保護者の同伴がなくても接種できます。ただし、この場合は予診票だけでなく、保護者の署名がある接種に同意する旨の書類（以下「同意書」という。）も必要となります。(16歳以上の方については本人同意で接種可能)\n　同意書は、下記からダウンロードするか、各地域健康課または感染症対策課で入手できます。事前にご用意のうえ、医療機関にお出かけください。\n\n同意書の様式はこちら（PDF：285KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nichinou.files/20220401nitinoudouisho.pdf\n\n日本脳炎に関する情報は、下記からQ&Aがご覧になれます。\n厚生労働省ホームページ;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou20/japanese_encephalitis.html\n\n国立感染症研究所感染症情報センター;https://idsc.nih.go.jp/disease/JEncephalitis/index.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html",
+          "title": "調布地域健康課"
+        },
+        {
+          "uri": "https://idsc.nih.go.jp/disease/JEncephalitis/index.html",
+          "title": "国立感染症研究所感染症情報センター"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html",
+          "title": "大森地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+          "title": "糀谷・羽田地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html",
+          "title": "感染症対策課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html",
+          "title": "こちら"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou20/japanese_encephalitis.html",
+          "title": "厚生労働省ホームページ"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html",
+          "title": "蒲田地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nichinou.files/20220401nitinoudouisho.pdf",
+          "title": "同意書の様式はこちら（PDF：285KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nichinou.html",
+        "title": "日本脳炎予防接種"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1682921360517",
+          "title": "【定期予防接種】予診票発行申請"
+        }
+      ],
+      "contact": {
+        "contactName": "感染症対策課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html,大森地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html,調布地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html,蒲田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html,糀谷・羽田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+        "contactPhone": "03-4446-2643,03-5764-0661,03-3726-4145,03-5713-1701,03-3743-4161",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=hokansen",
+        "contactComment": "FAX：03-5764-1524,FAX：03-5764-0659,FAX：03-3726-6331,FAX：03-5713-0290,FAX：03-6423-8838",
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+5+UM54",
+        "organization": "1000020131113",
+        "compartment": "感染症対策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-02-09",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "Hib（インフルエンザ菌b型）感染症予防接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "Hib（インフルエンザ菌b型）感染症予防接種\nページ番号：414519999\n更新日：2022年7月1日\n予防接種法の改正により、平成25年4月1日から定期予防接種の対象となりました。\n\n定期予防接種の対象者\n定期予防接種の対象となるのは、生後2か月から生後60か月に至るまで（5歳になる誕生日の前日まで）のお子さんです。\n\n接種方法\n接種を開始する月齢によって、接種方法が異なります。\n〇標準的な接種期間\n　・生後2か月から7か月で接種を開始\n　・計4回接種\n〇接種間隔\n　・初回接種：27日から56日の間隔をあけて3回接種\n　・追加接種：初回接種3回目から、7か月から13か月の間隔をあけて1回接種\n標準的な接種期間に接種することができなかった場合は、下記「Hib（インフルエンザ菌b型）感染症予防接種」をお読みください。\n\nHib（インフルエンザ菌b型）感染症予防接種（PDF：837KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/hib.files/Hib2021.4.pdf",
+      "target": {
+        "targetPersons": "生後2か月から生後60か月に至るまで（5歳になる誕生日の前日まで）のお子さん",
+        "lessThan": {
+          "targetAge": 5,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後2か月から生後60か月に至るまで（5歳になる誕生日の前日まで）のお子さん"
+      },
+      "support": {
+        "description": "Hib（インフルエンザ菌b型）感染症予防接種",
+        "monetarySupport": null,
+        "materiallySupport": "Hib（インフルエンザ菌b型）感染症予防接種"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "接種方法\n予診票は、生後2か月になるまでに送付しています。\n転入などで予診票がお手元にない方は、予診票発行の手続きが必要です。詳細は こちら。;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html\n接種を開始する月齢によって、接種方法が異なります。\n〇標準的な接種期間\n　・生後2か月から7か月で接種を開始\n　・計4回接種\n〇接種間隔\n　・初回接種：27日から56日の間隔をあけて3回接種\n　・追加接種：初回接種3回目から、7か月から13か月の間隔をあけて1回接種\n標準的な接種期間に接種することができなかった場合は、下記「Hib（インフルエンザ菌b型）感染症予防接種」をお読みください。\n\nHib（インフルエンザ菌b型）感染症予防接種（PDF：837KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/hib.files/Hib2021.4.pdf",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html",
+          "title": "感染症対策課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+          "title": "糀谷・羽田地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html",
+          "title": "大森地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html",
+          "title": "蒲田地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html",
+          "title": "調布地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/hib.files/Hib2021.4.pdf",
+          "title": "Hib（インフルエンザ菌b型）感染症予防接種（PDF：837KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/hib.html",
+        "title": "Hib（インフルエンザ菌b型）感染症予防接種"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1682921360517",
+          "title": "【定期予防接種】予診票発行申請"
+        }
+      ],
+      "contact": {
+        "contactName": "感染症対策課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html,大森地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html,調布地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html,蒲田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html,糀谷・羽田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+        "contactPhone": "03-4446-2643,03-5764-0661,03-3726-4145,03-5713-1701,03-3743-4161",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=hokansen",
+        "contactComment": "FAX：03-5764-1524,FAX：03-5764-0659,FAX：03-3726-6331,FAX：03-5713-0290,FAX：03-6423-8838",
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+6+UM54",
+        "organization": "1000020131113",
+        "compartment": "感染症対策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-07-01",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "小児肺炎球菌感染症予防接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "小児肺炎球菌感染症予防接種\nページ番号：742355994\n更新日：2024年4月1日\n13価ワクチンに加え、令和6年4月1日より15価ワクチンが定期接種化されました。\n\n定期予防接種の対象者\n生後2か月から生後60か月に至るまで（5歳になる誕生日の前日まで）\n\n接種方法\n接種を開始する月齢によって、接種方法が異なります。\n13価ワクチンに加え、15価ワクチンが定期接種化されましたが、接種期間・接種間隔については変更ありません。\n\n標準的な接種期間等は、次のとおりです。\n〇接種期間\n　・生後2か月から7か月で接種を開始\n　・計4回接種\n〇接種間隔\n　・初回接種： 27日以上の間隔をあけて3回接種\n　・追加接種：初回接種3回目接種後、60日以上の間隔をあけて、かつ1歳に至った日以降に1回接種（1歳から1歳3か月での接種が標準です。）\n\n　標準的な接種期間に接種をすることができなかった場合は、下記「小児肺炎球菌感染症予防接種」をお読みください。\n\n小児肺炎球菌感染症予防接種（PDF：834KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/haien.files/20240401haien.pdf",
+      "target": {
+        "targetPersons": "生後2か月から生後60か月に至るまで（5歳になる誕生日の前日まで）",
+        "lessThan": {
+          "targetAge": 5,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後2か月から生後60か月に至るまで（5歳になる誕生日の前日まで）"
+      },
+      "support": {
+        "description": "小児肺炎球菌感染症予防接種",
+        "monetarySupport": null,
+        "materiallySupport": "小児肺炎球菌感染症予防接種"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "接種方法\n予診票は、生後2か月になるまでに送付しています。\n転入などで予診票がお手元にない方は、予診票発行の手続きが必要です。詳細は こちら。;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html\n接種を開始する月齢によって、接種方法が異なります。\n13価ワクチンに加え、15価ワクチンが定期接種化されましたが、接種期間・接種間隔については変更ありません。\n\n標準的な接種期間等は、次のとおりです。\n〇接種期間\n　・生後2か月から7か月で接種を開始\n　・計4回接種\n〇接種間隔\n　・初回接種： 27日以上の間隔をあけて3回接種\n　・追加接種：初回接種3回目接種後、60日以上の間隔をあけて、かつ1歳に至った日以降に1回接種（1歳から1歳3か月での接種が標準です。）\n\n　標準的な接種期間に接種をすることができなかった場合は、下記「小児肺炎球菌感染症予防接種」をお読みください。\n\n小児肺炎球菌感染症予防接種（PDF：834KB）;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/haien.files/20240401haien.pdf",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/haien.files/20240401haien.pdf",
+          "title": "小児肺炎球菌感染症予防接種（PDF：834KB）"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html",
+          "title": "蒲田地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html",
+          "title": "大森地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+          "title": "糀谷・羽田地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html",
+          "title": "調布地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html",
+          "title": "感染症対策課"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/haien.html",
+        "title": "小児肺炎球菌感染症予防接種"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1682921360517",
+          "title": "【定期予防接種】予診票発行申請"
+        }
+      ],
+      "contact": {
+        "contactName": "感染症対策課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html,大森地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html,調布地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html,蒲田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html,糀谷・羽田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+        "contactPhone": "03-4446-2643,03-5764-0661,03-3726-4145,03-5713-1701,03-3743-4161",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=hokansen",
+        "contactComment": "FAX：03-5764-1524,FAX：03-5764-0659,FAX：03-3726-6331,FAX：03-5713-0290,FAX：03-6423-8838",
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+7+UM54",
+        "organization": "1000020131113",
+        "compartment": "感染症対策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "水痘（水ぼうそう）予防接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "水痘（水ぼうそう）予防接種\nページ番号：976980711\n更新日：2022年7月1日\n水痘について\n　水痘（みずぼうそう）は主に小児の病気で、9歳以下での発症が90%以上を占めるといわれています。小児における重症化は、熱性痙攣、肺炎、気管支炎等の合併症によるものです。成人での水痘も稀にみられますが、成人に水痘が発症した場合、水痘そのものが重症化するリスクが高いと言われています。\n　予防接種には、乾燥弱毒生水痘ワクチンが用いられています。1回の接種により重症の水痘をほぼ100％予防でき、2回の接種により軽症の水痘も含めてその発症を予防できると考えられています。\n\n定期接種対象者\n　生後12か月から生後36か月に至るまで（3歳の誕生日の前日まで）\n\n接種回数\n　3か月以上の間隔をあけて2回接種\n\n接種費用\n　無料\n\n接種方法\n　予防接種を受ける際は、予診票をお持ちになって、同封してある医療機関に直接又は電話で予約をしてください。\n　転入や紛失等で予診票がお手元にない場合は、予診票交付の手続きが必要です。\n\n乳幼児等予防接種予診票の交付申請について;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html",
+      "target": {
+        "targetPersons": "生後12か月から生後36か月に至るまで（3歳の誕生日の前日まで）",
+        "lessThan": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後12か月から生後36か月に至るまで（3歳の誕生日の前日まで）"
+      },
+      "support": {
+        "description": "水痘（水ぼうそう）予防接種",
+        "monetarySupport": null,
+        "materiallySupport": "水痘（水ぼうそう）予防接種"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "接種方法\n　予防接種を受ける際は、予診票をお持ちになって、同封してある医療機関に直接又は電話で予約をしてください。\n　転入や紛失等で予診票がお手元にない場合は、予診票交付の手続きが必要です。\n\n乳幼児等予防接種予診票の交付申請について;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html",
+          "title": "乳幼児等予防接種予診票の交付申請について"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html",
+          "title": "蒲田地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html",
+          "title": "大森地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html",
+          "title": "感染症対策課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+          "title": "糀谷・羽田地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html",
+          "title": "調布地域健康課"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/chickenpox.html",
+        "title": "水痘（水ぼうそう）予防接種"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1682921360517",
+          "title": "【定期予防接種】予診票発行申請"
+        }
+      ],
+      "contact": {
+        "contactName": "感染症対策課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html,大森地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html,調布地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html,蒲田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html,糀谷・羽田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+        "contactPhone": "03-4446-2643,03-5764-0661,03-3726-4145,03-5713-1701,03-3743-4161",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=hokansen",
+        "contactComment": "FAX：03-5764-1524,FAX：03-5764-0659,FAX：03-3726-6331,FAX：03-5713-0290,FAX：03-6423-8838",
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+8+UM54",
+        "organization": "1000020131113",
+        "compartment": "感染症対策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-07-01",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "B型肝炎予防接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "B型肝炎予防接種\nページ番号：156751295\n更新日：2022年7月1日\nB型肝炎について\nB型肝炎は、B型肝炎ウイルスの感染により起こる肝臓の病気で、B型肝炎ウイルスを含む血液あるいは体液との直接の接触によって感染します。B型肝炎ウイルスは、ヒトの肝臓に感染し一過性感染あるいは持続感染（キャリア）を起こします。持続感染の多くは出生時または乳幼児期の感染で成立することが知られていますが、そのうち、10％から15％は感染から年月を経て慢性肝炎を発症し、その後、肝硬変・肝細胞がんを発症することがあります。抗体獲得率が高い0歳の時に接種をして予防を心がけることが大切です。\n\n定期接種対象者\n生後1歳までの間にある方（1歳の誕生日の前日まで）\n\n接種回数\n1回目接種後27日以上の間隔で2回目を接種\n1回目接種後139日以上の間隔で3回目を接種\n以上3回の接種を生後1歳に至るまでに完了させる。\n\n接種費用\n無料\n\n接種方法\n予防接種を受ける際は、予診票をお持ちになり、同封してある医療機関に直接又は電話で予約をしてください。",
+      "target": {
+        "targetPersons": "生後1歳までの間にある方（1歳の誕生日の前日まで）",
+        "lessThan": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後1歳までの間にある方（1歳の誕生日の前日まで）"
+      },
+      "support": {
+        "description": "B型肝炎予防接種",
+        "monetarySupport": null,
+        "materiallySupport": "B型肝炎予防接種"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "接種方法\n転入などで予診票がお手元にない方は、予診票発行の手続きが必要です。詳細は こちら。;https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/nyuyouji-yobou-sessyu-shinsei.html\n予防接種を受ける際は、予診票をお持ちになり、同封してある医療機関に直接又は電話で予約をしてください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+          "title": "糀谷・羽田地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html",
+          "title": "蒲田地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html",
+          "title": "大森地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html",
+          "title": "調布地域健康課"
+        },
+        {
+          "uri": "https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html",
+          "title": "感染症対策課"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ota.tokyo.jp/seikatsu/hoken/yobou_sessyu/kodomo/b-hepatitis_vaccination.html",
+        "title": "B型肝炎予防接種"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1682921360517",
+          "title": "【定期予防接種】予診票発行申請"
+        }
+      ],
+      "contact": {
+        "contactName": "感染症対策課;https://www.city.ota.tokyo.jp/kuseijoho/soshiki/gyoumu/kansen.html,大森地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/omori_chiikichousya.html,調布地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/chofu_chiikichousya.html,蒲田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/kamata_chiikichousya.html,糀谷・羽田地域健康課;https://www.city.ota.tokyo.jp/shisetsu/center/koujiya_haneda_chiikichousya.html",
+        "contactPhone": "03-4446-2643,03-5764-0661,03-3726-4145,03-5713-1701,03-3743-4161",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.ota.tokyo.jp/cgi-bin/form_enq/formmail.cgi?d=hokansen",
+        "contactComment": "FAX：03-5764-1524,FAX：03-5764-0659,FAX：03-3726-6331,FAX：03-5713-0290,FAX：03-6423-8838",
+        "zipCode": "1448621",
+        "contactAddress": "東京都大田区蒲田五丁目13番14号"
+      },
+      "area": {
+        "areaCode": "131113;大田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131113+9+UM54",
+        "organization": "1000020131113",
+        "compartment": "感染症対策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-07-01",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "大田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    }
+  ]
+}

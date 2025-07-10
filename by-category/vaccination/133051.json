@@ -1,0 +1,784 @@
+{
+  "version": "2025-07-10T02:38:54.144Z",
+  "areaCode": "133051",
+  "areaName": "日の出町",
+  "category": "vaccination",
+  "count": 6,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "妊娠の届出・母子健康手帳の交付",
+        "shortName": "妊娠届（母子手帳・母子健康バックの交付）"
+      },
+      "summary": "妊娠がわかったら妊娠の届出をしてください。妊娠の届出をした妊婦さんに母子健康手帳を交付します。母子健康手帳は、妊娠からお子さんが小学校に入学するまでの、母と子の健康の記録です。育児、予防接種、健康診査などの際に必要となります。",
+      "description": "妊娠届（母子手帳・母子健康バックの交付）¥n妊娠したら妊娠届を出し、母子健康手帳の交付を受けましょう。母子健康手帳は、妊娠経過や出産の状況、お子さんの成長、予防接種などの記録をする大切なものです。また、この手帳と一緒に妊婦健康診査受診票などが入った「母と子の保健バッグ」をお渡しします。¥n¥n・妊娠した方一人ひとりに安心して出産をしていただくため、保健師との面接を行います¥n・面接時間は、30分程度です¥n・本人・代理人ともに届出できます。届出人は認印をお持ちください¥n・妊娠届出書（こども家庭センターにあります）に、週数・出産予定日・検査を受けた医療機関名を記入していただきますので、ご確認の上お越しください¥n＊保健師が不在の時がありますので、事前に下記の問い合わせ先にご連絡ください¥n¥n届け出の際の必要書類¥n・マイナンバーカード¥n・顔写真付きの本人確認書類（マイナンバーカード、運転免許証など）¥n＊マイナンバーカードをお持ちの方は本人確認書類の必要はありません¥n＊上記がない方はご相談ください¥n＊代理申請の場合は、委任状と代理人の本人確認書類が必要です¥n委任状¥n¥n （ファイル名：boshitechouininjyou.pdf サイズ：43.37KB）;https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000001/1943/boshitechouininjyou.pdf",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "母子手帳・母子健康バックの交付¥n妊娠した方一人ひとりに安心して出産をしていただくため、保健師との面接を行います",
+        "monetarySupport": null,
+        "materiallySupport": "母子手帳・母子健康バックの交付¥n妊娠した方一人ひとりに安心して出産をしていただくため、保健師との面接を行います"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "妊娠届出書（こども家庭センターにあります）に、週数・出産予定日・検査を受けた医療機関名を記入していただきますので、ご確認の上お越しください",
+      "procedurePersons": "本人・代理人ともに届出できます。届出人は認印をお持ちください",
+      "procedureMethod": "事前に下記の問い合わせ先にご連絡ください¥n日の出町役場こども家庭センター　相談係（母子保健担当）電話  042-588-4310",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "届出人は認印をお持ちください¥n¥n＊代理申請の場合は、委任状と代理人の本人確認書類が必要です",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "こども家庭センター　相談係（母子保健担当）",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/0000001943.html",
+        "title": "妊娠から出産まで"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター　相談係（母子保健担当）",
+        "contactPhone": "042-588-4310",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "ファクス: 042-597-6177,役場開庁時間午前8時30分から午後5時15分(土曜・日曜・祝日・年末年始を除く)",
+        "zipCode": "1900192",
+        "contactAddress": "東京都西多摩郡日の出町大字平井2780番地"
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM1",
+        "organization": "1000020133051",
+        "compartment": "こども家庭センター　相談係（母子保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第15条（妊娠の届出）、第16条（母子健康手帳）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "077",
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関するその他のこと",
+        "shortName": "母子相談事業"
+      },
+      "summary": "こども家庭センターでは、毎月お子さんの身長や体重測定、育児の相談など（母乳やミルク、お世話の方法、予防接種など）を行っています。お子さんの日々の成長や親ごさんの頑張り（嬉しいこと、大変なこと）などお聞かせください",
+      "description": "母子相談事業のご案内¥n母子相談事業内容¥nこども家庭センターでは、毎月お子さんの身長や体重測定、育児の相談など（母乳やミルク、お世話の方法、予防接種など）を行っています。お子さんの日々の成長や親ごさんの頑張り（嬉しいこと、大変なこと）などお聞かせください。お会いしてお話できることを楽しみに、こども家庭センターでお待ちしています。¥n¥nぜひ、お気軽にお越しください！¥n¥n実施場所など¥n場所：こども家庭センター（保健センター内）　1階¥n¥n時　間：午前9時30分から午前11時30分¥n¥n持ち物：母子手帳・バスタオル・替えのおむつ¥n¥n※日程は別添の予定表をご覧ください（広報でもお知らせします）¥n¥n予約¥nお電話での事前予約制（当日のお電話も大歓迎！）¥n¥n電話：042-588-4310　¥n¥n問い合わせ先¥n日の出町役場子こども家庭センター　相談係（母子保健担当）電話　042-588-4310　※令和6年4月1日より¥n¥n令和6年度母子相談事業のご案内¥n（PDF形式、192.52KB）;https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000001/1268/boshisoudan2024.pdf",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "毎月お子さんの体重や身長測定、育児の相談など（母乳やミルクお世話の方法、予防接種など）を行っています。",
+        "monetarySupport": null,
+        "materiallySupport": "毎月お子さんの体重や身長測定、育児の相談など（母乳やミルクお世話の方法、予防接種など）を行っています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "09:30",
+        "toYMD": null,
+        "toHM": "11:30",
+        "conditions": "午前9時30分から午前11時30分"
+      },
+      "implementationPlace": {
+        "implementationName": "こども家庭センター（保健センター内）　1階",
+        "implementationAddress": "東京都西多摩郡日の出町大字平井2780番地"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "お電話での事前予約制¥n電話：042-588-4310",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子手帳・バスタオル・替えのおむつ",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000001/1268/boshisoudan2024.pdf",
+          "title": "令和6年度母子相談事業のご案内"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/0000001268.html",
+        "title": "母子相談事業のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター　相談係（母子保健担当）",
+        "contactPhone": "042-588-4310",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1900192",
+        "contactAddress": "東京都西多摩郡日の出町大字平井2780番地"
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM120",
+        "organization": "1000020133051",
+        "compartment": "こども家庭センター　相談係（母子保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "ひとり親家庭医療費助成",
+        "shortName": "ひとり親家庭等医療費助成"
+      },
+      "summary": "ひとり親家庭の母または父、および、そのお子さんの医療費に対して助成を行います。",
+      "description": "ひとり親家庭等医療費助成¥nこの制度は、町内に住所を有するひとり親家庭等の方が、病院・薬局等で診療や調剤等を受ける際に、健康保険が適用される医療費について、自己負担金を助成するものです。¥n¥n対象¥n町内に住所を有し、次のいずれかにある18歳到達後の最初の3月31日までの児童（児童が政令で定める程度の障害を有する場合は20歳未満まで）を監護・養育している父、母、養育者とその児童。¥n・父または母が死亡した児童¥n・父または母が離婚した児童（事実婚の解消も含む）¥n・父または母に1年以上遺棄されている児童¥n・父または母が法令により1年以上拘禁されている児童¥n・父または母がDV防止法による保護命令を受けた児童¥n・父または母に重度の障害を有する児童¥n・母が婚姻しないで出生した児童¥n・父または母が生死不明の児童¥n※以下の場合は対象となりません¥n・申請者及び扶養義務者（同一住所に住む二親等以内の直系血族及び兄弟姉妹）の前々年の所得が所得制限以上の場合¥n・生活保護を受けている場合¥n・申請者及び児童が健康保険に加入していない場合¥n・児童が里親に委託されている場合¥n・児童が児童福祉施設に入所している場合¥n・児童が父及び父の配偶者または母及び母の配偶者と生計を同じくしている場合¥n¥n所得の制限¥n・扶養親族等の人数0人¥n　本人　1,920,000円¥n　※扶養義務者・配偶者　2,360,000円¥n・扶養親族等の人数1人¥n本人　2,300,000円¥n※扶養義務者・配偶者　2,740,000円¥n・扶養親族等の人数2人¥n本人　2,680,000円¥n※扶養義務者・配偶者　3,120,000円¥n・扶養親族等の人数3人¥n本人　3,060,000円¥n※扶養義務者・配偶者　3,500,000円¥n・扶養親族等の人数4人¥n　本人　3,440,000円¥n※扶養義務者・配偶者　3,880,000円¥n・扶養親族等の人数5人以上¥n　1人につき38万円加算¥n※扶養義務者とは、同居している二親等以内の直系血族及び兄弟姉妹の方をいいます。配偶者とは重度の障害で申請した場合です。¥nなお、児童の父または母から養育費を受け取っている場合は、その8割を所得に含めます。¥n¥n助成範囲¥n本制度は、健康保険証を使って保険診療を受けたときに支払う医療費のうち、保険適用に係る自己負担分を助成するものです。¥n申請により交付される医療証を都内医療機関や調剤薬局などの窓口に健康保険証と一緒に提示することにより、下記の負担で診療や調剤等を受けることができます。¥n・住民税課税世帯（負担者番号　81136525）¥n医療費の1割分及び入院時食事療養標準負担額（生活療養標準負担額）を自己負担してください¥n・住民税非課税世帯（負担者番号　81137523）¥n医療費の自己負担はありませんが、入院時食事療養標準負担額（生活療養標準負担額）は自己負担してください¥n※都外医療機関などで診療・調剤を受けた場合はいったん自己負担を支払った後で、日の出町に払い戻し（現金給付）の申請を行うことにより、医療費助成を受けることができます。¥n¥n助成を受ける前に届出が必要なもの¥n・交通事故などの第三者行為の場合¥n助成できないもの¥n・健康保険が適用されない医療費（検診料、予防接種代、容器代、特定療養費、差額ベット代など）¥n・高額医療費、付加給付該当分¥n・他の医療費助成制度の適用分¥n・日本スポーツ振興センター給付適用による医療費¥n¥n申請に必要なもの¥n・認定請求書¥n・申請者及び児童の戸籍謄本¥n※発行後1ヶ月以内のもの¥n※ひとり親になった事由（離婚、死亡等）の記載があるもの¥n・申請者及び児童の健康保険証¥n・転入された方は、前住所地の市区町村長発行の課税（または非課税）証明書¥n※所得額、扶養の状況、控除額のわかるもの¥nその他、状況に応じて書類が必要となる場合があります。¥n¥n申請方法¥n上記の書類を持参のうえ、役場1階子育て福祉課で申請してください。郵送による申請受付は行いませんので、子育て福祉課の窓口までお越しください。¥n¥n現況届¥n毎年8月に、受給資格の確認をするため、現況届を提出していただきます。",
+      "target": {
+        "targetPersons": "町内に住所を有し、次のいずれかにある18歳到達後の最初の3月31日までの児童（児童が政令で定める程度の障害を有する場合は20歳未満まで）を監護・養育している父、母、養育者とその児童。¥n・父または母が死亡した児童¥n・父または母が離婚した児童（事実婚の解消も含む）¥n・父または母に1年以上遺棄されている児童¥n・父または母が法令により1年以上拘禁されている児童¥n・父または母がDV防止法による保護命令を受けた児童¥n・父または母に重度の障害を有する児童¥n・母が婚姻しないで出生した児童¥n・父または母が生死不明の児童¥n※以下の場合は対象となりません¥n・申請者及び扶養義務者（同一住所に住む二親等以内の直系血族及び兄弟姉妹）の前々年の所得が所得制限以上の場合¥n・生活保護を受けている場合¥n・申請者及び児童が健康保険に加入していない場合¥n・児童が里親に委託されている場合¥n・児童が児童福祉施設に入所している場合¥n・児童が父及び父の配偶者または母及び母の配偶者と生計を同じくしている場合",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "18歳到達後の最初の3月31日までの児童（児童が政令で定める程度の障害を有する場合は20歳未満まで）"
+      },
+      "support": {
+        "description": "本制度は、健康保険証を使って保険診療を受けたときに支払う医療費のうち、保険適用に係る自己負担分を助成するものです。¥n申請により交付される医療証を都内医療機関や調剤薬局などの窓口に健康保険証と一緒に提示することにより、下記の負担で診療や調剤等を受けることができます。¥n・住民税課税世帯（負担者番号　81136525）¥n医療費の1割分及び入院時食事療養標準負担額（生活療養標準負担額）を自己負担してください¥n・住民税非課税世帯（負担者番号　81137523）¥n医療費の自己負担はありませんが、入院時食事療養標準負担額（生活療養標準負担額）は自己負担してください¥n※都外医療機関などで診療・調剤を受けた場合はいったん自己負担を支払った後で、日の出町に払い戻し（現金給付）の申請を行うことにより、医療費助成を受けることができます。¥n助成を受ける前に届出が必要なもの¥n・交通事故などの第三者行為の場合",
+        "monetarySupport": "本制度は、健康保険証を使って保険診療を受けたときに支払う医療費のうち、保険適用に係る自己負担分を助成するものです。¥n申請により交付される医療証を都内医療機関や調剤薬局などの窓口に健康保険証と一緒に提示することにより、下記の負担で診療や調剤等を受けることができます。¥n・住民税課税世帯（負担者番号　81136525）¥n医療費の1割分及び入院時食事療養標準負担額（生活療養標準負担額）を自己負担してください¥n・住民税非課税世帯（負担者番号　81137523）¥n医療費の自己負担はありませんが、入院時食事療養標準負担額（生活療養標準負担額）は自己負担してください¥n※都外医療機関などで診療・調剤を受けた場合はいったん自己負担を支払った後で、日の出町に払い戻し（現金給付）の申請を行うことにより、医療費助成を受けることができます。¥n助成を受ける前に届出が必要なもの¥n・交通事故などの第三者行為の場合",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "・認定請求書¥n・申請者及び児童の戸籍謄本¥n※発行後1ヶ月以内のもの¥n※ひとり親になった事由（離婚、死亡等）の記載があるもの¥n・申請者及び児童の健康保険証¥n・転入された方は、前住所地の市区町村長発行の課税（または非課税）証明書¥n※所得額、扶養の状況、控除額のわかるもの¥nその他、状況に応じて書類が必要となる場合があります。¥n上記の書類を持参のうえ、役場1階子育て福祉課で申請してください。郵送による申請受付は行いませんので、子育て福祉課の窓口までお越しください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "・認定請求書¥n・申請者及び児童の戸籍謄本¥n※発行後1ヶ月以内のもの¥n※ひとり親になった事由（離婚、死亡等）の記載があるもの¥n・申請者及び児童の健康保険証¥n・転入された方は、前住所地の市区町村長発行の課税（または非課税）証明書¥n※所得額、扶養の状況、控除額のわかるもの¥nその他、状況に応じて書類が必要となる場合があります。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "役場1階子育て福祉課",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/0000000099.html",
+        "title": "ひとり親家庭等医療費助成"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉課子育て支援係",
+        "contactPhone": "042-588-4113",
+        "contactEx": "299",
+        "contactEmail": null,
+        "contactUrl": "https://www.town.hinode.tokyo.jp/mailform/inquiry.cgi?so=45f83d2e6bde5b1c7b4fc4edd54bd876a8140aa2&ref=https://www.town.hinode.tokyo.jp/0000000115.html",
+        "contactComment": null,
+        "zipCode": "1900192",
+        "contactAddress": "東京都西多摩郡日の出町大字平井2780番地"
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM27",
+        "organization": "1000020133051",
+        "compartment": "福祉課子育て支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "日の出町ひとり親家庭等の医療費の助成に関する条例",
+        "regulationArticle": "条例全体"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "両親学級（平日クラス（2日間コース））"
+      },
+      "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、日の出町では産科医師、歯科医師、保健師、栄養士、助産師などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+      "description": "両親学級¥n実施内容¥n¥n平日クラス（2日間コース）¥n歯科医師・歯科衛生士による妊産婦と乳幼児の歯科保健のお話（歯と歯ぐきのお話・ブラッシングの指導）¥n助産師による、妊娠中、出産時の過ごし方、骨盤ケア¥n※1日だけの参加もできます¥n¥n休日コース（1日間コース）¥n沐浴実習・赤ちゃんのお世話の方法¥n妊娠中のママと赤ちゃんの栄養講話¥n日の出町母子保健事業、予防接種のお話¥n¥n対象者¥nお父さん、お母さんになる方（おじいちゃん、おばあちゃんもどうぞ）¥n¥n費用¥n無料です¥n¥n場所¥nこども家庭センター（保健センター内）2階¥n¥n申し込み¥n開催日前日までに電話でお申し込みください¥n¥n詳細につきましては下部のPDFファイルをご覧ください¥n各事業詳細¥n（PDF形式、589.13KB） （PDF形式、612.91KB）;https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000001/1943/ryoushingakkyu2024.pdf",
+      "target": {
+        "targetPersons": "お父さん、お母さんになる方（おじいちゃん、おばあちゃんもどうぞ）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "平日クラス（2日間コース）¥n歯科医師・歯科衛生士による妊産婦と乳幼児の歯科保健のお話（歯と歯ぐきのお話・ブラッシングの指導）¥n助産師による、妊娠中、出産時の過ごし方、骨盤ケア¥n※1日だけの参加もできます",
+        "monetarySupport": null,
+        "materiallySupport": "平日クラス（2日間コース）¥n歯科医師・歯科衛生士による妊産婦と乳幼児の歯科保健のお話（歯と歯ぐきのお話・ブラッシングの指導）¥n助産師による、妊娠中、出産時の過ごし方、骨盤ケア¥n※1日だけの参加もできます"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "開催日前日までに電話でお申し込みください",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "こども家庭センター　相談係（母子保健担当）",
+      "relatedLink": [
+        {
+          "uri": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000001/1943/ryoushingakkyu2024.pdf",
+          "title": "各事業詳細"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/0000001943.html",
+        "title": "妊娠から出産まで"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター　相談係（母子保健担当）",
+        "contactPhone": "042-588-4310",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "ファクス: 042-597-6177",
+        "zipCode": "1900192",
+        "contactAddress": "東京都西多摩郡日の出町大字平井2780番地"
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM31",
+        "organization": "1000020133051",
+        "compartment": "こども家庭センター　相談係（母子保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "定期予防接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "令和6年度 定期予防接種のお知らせ¥n予防接種会場¥n・個別接種・・・令和6年度 定期予防接種指定医療機関（下記のPDFファイル参照）¥n・集団接種・・・日の出町保健センター¥n¥n持ち物¥n（1）必要事項を記入した予診票¥n（2）母子健康手帳¥n持ち物¥n（1）必要事項を記入した予診票¥n¥n（2）母子健康手帳¥n¥n※　大人の定期予防接種（高齢者肺炎球菌;https://www.town.hinode.tokyo.jp/0000002465.html、高齢者インフルエンザ、風しん症候群;https://www.town.hinode.tokyo.jp/0000002042.html）については各ページを参考にしてください。、¥n¥n費用¥n無 料¥n¥n予診票について¥n・日の出町では、お子さんが生まれた翌月に「予防接種手帳」を送付しています。手帳には、お子さんが今後定期予防接種を受けるのに必要な「予診票」（一部を除く）がつづられています。ご自宅で紛失しないよう保管し、接種の際には切り取って使用してください。¥n・お子さんの予診票を紛失された方、転入されたお子さんのいる世帯で「予防接種手帳」がお手元にない方は、母子健康手帳を持参して、保健センターまでお越しください。接種歴を確認させていただき、必要な予診票をお渡しいたします。¥n・大人の定期予防接種については、高齢者肺炎球菌及び高齢者インフルエンザの予診票は、指定医療機関に設置されているものをお使いください。風しん症候群については、対象となる方によって異なりますので、風しん抗体検査及び風しん症候群について（別ウインドウで開く）;https://www.town.hinode.tokyo.jp/0000002042.htmlを参考にしてください。¥n¥nお知らせ（個別通知）の郵送について¥n各予防接種の対象年齢になった方がいる世帯には、標準的な接種時期を迎える頃に、お知らせ等を郵送します。¥nただし、ヒブワクチン及び小児用肺炎球菌の予防接種は、開始時期によってスケジュールが変わることから、2回目以降の接種についてお知らせ等は行っていませんので、医療機関と相談しながら責任をもってスケジュール管理をしてください。¥n¥n個別接種¥n対象ワクチン¥n・子ども・・・B型肝炎、ロタウイルス、BCG、ヒブ、小児用肺炎球菌、4種混合、水痘、麻しん・風しん、日本脳炎、HPV¥n※　令和5年度 定期予防接種指定医療機関一覧（PDFファイル）で指定医療機関をご確認のうえ、接種してください。予約の必要な医療機関もありますのでご注意ください。¥n¥n※　子どもの各予防接種の標準的な接種時期は、下記のPDFファイルを参考にしてください。¥n¥n令和6年度 定期予防接種指定医療機関一覧¥n令和6年度定期予防接種指定医療機関一覧;https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000001/1950/R6¥n¥n子どもの予防接種スケジュール（標準的なもの）¥n子どもの予防接種スケジュール（標準的なもの）;https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000001/1950/2¥n¥n集団接種¥n¥n対象ワクチン¥nBCG　¥n¥n実施日程¥n令和6年度は下記の日程で実施します。¥n¥n令和6年度　集団接種実施日程表¥n令和6年度　集団接種実施日程表;https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000001/1950/3¥n¥n受け方¥nBCGの定期予防接種の対象年齢は、生後5か月に達する方から、生後1歳に至るまでの間の方です。対象の方には個別で通知を送りますので、通知の案内にしたがって、接種してください、なお、令和4年度より個別接種として指定医療機関でも接種できるようになりました。¥n¥nその他¥n定期予防接種の対象者であった間に、長期にわたり療養を必要とする疾病にかかったことなどにより定期の予防接種の機会を逃した方について、快復時より2年を経過するまでの間に接種する場合は、特例措置で定期の予防接種として取り扱える場合があります。詳しくは、問い合わせてください。",
+      "target": {
+        "targetPersons": "各予防接種の対象年齢になった方¥nBCGの定期予防接種の対象年齢は、生後5か月に達する方から、生後1歳に至るまでの間の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "各予防接種の対象年齢になった方¥nBCGの定期予防接種の対象年齢は、生後5か月に達する方から、生後1歳に至るまでの間の方"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "個別接種・・・令和6年度 定期予防接種指定医療機関（下記のPDFファイル参照）,集団接種・・・日の出町保健センター¥nhttps://www.town.hinode.tokyo.jp/cmsfiles/contents/0000001/1950/R6",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "各予防接種の対象年齢になった方がいる世帯には、標準的な接種時期を迎える頃に、お知らせ等を郵送します。¥nただし、ヒブワクチン及び小児用肺炎球菌の予防接種は、開始時期によってスケジュールが変わることから、2回目以降の接種についてお知らせ等は行っていませんので、医療機関と相談しながら責任をもってスケジュール管理をしてください。¥nBCGの定期予防接種の対象年齢は、生後5か月に達する方から、生後1歳に至るまでの間の方です。対象の方には個別で通知を送りますので、通知の案内にしたがって、接種してください",
+      "procedurePersons": null,
+      "procedureMethod": "BCGの定期予防接種の対象年齢は、生後5か月に達する方から、生後1歳に至るまでの間の方です。対象の方には個別で通知を送りますので、通知の案内にしたがって、接種してください、",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "（1）必要事項を記入した予診票¥n¥n（2）母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000001/1950/3",
+          "title": "令和6年度　集団接種実施日程表"
+        },
+        {
+          "uri": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000001/1950/R6",
+          "title": "令和6年度定期予防接種指定医療機関一覧"
+        },
+        {
+          "uri": "https://www.town.hinode.tokyo.jp/0000002465.html",
+          "title": "高齢者肺炎球菌"
+        },
+        {
+          "uri": "https://www.town.hinode.tokyo.jp/0000002042.html",
+          "title": "風しん抗体検査及び風しん症候群について（別ウインドウで開く）"
+        },
+        {
+          "uri": "https://www.town.hinode.tokyo.jp/0000002042.html",
+          "title": "風しん症候群"
+        },
+        {
+          "uri": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000001/1950/2",
+          "title": "子どもの予防接種スケジュール（標準的なもの）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/0000001950.html",
+        "title": "予防接種について（令和6年度 定期予防接種のお知らせ）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "いきいき健康課健康推進係　子ども家庭センター相談係（母子保健担当）",
+        "contactPhone": "042-588-5426",
+        "contactEx": "501,506",
+        "contactEmail": null,
+        "contactUrl": "https://www.town.hinode.tokyo.jp/mailform/inquiry.cgi?so=d2b5cdd7ae79f24752653e0dd308c43466d79ab1&ref=https://www.town.hinode.tokyo.jp/0000001950.html",
+        "contactComment": null,
+        "zipCode": "1900192",
+        "contactAddress": "東京都西多摩郡日の出町大字平井2780番地"
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM54",
+        "organization": "1000020133051",
+        "compartment": "いきいき健康課健康推進係、こども家庭センター相談係（母子保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "両親学級（休日コース（1日間コース））"
+      },
+      "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、日の出町では産科医師、歯科医師、保健師、栄養士、助産師などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+      "description": "両親学級¥n実施内容¥n¥n平日クラス（2日間コース）¥n歯科医師・歯科衛生士による妊産婦と乳幼児の歯科保健のお話（歯と歯ぐきのお話・ブラッシングの指導）¥n助産師による、妊娠中、出産時の過ごし方、骨盤ケア¥n※1日だけの参加もできます¥n¥n休日コース（1日間コース）¥n沐浴実習・赤ちゃんのお世話の方法¥n妊娠中のママと赤ちゃんの栄養講話¥n日の出町母子保健事業、予防接種のお話¥n¥n対象者¥nお父さん、お母さんになる方（おじいちゃん、おばあちゃんもどうぞ）¥n¥n費用¥n無料です¥n¥n場所¥nこども家庭センター（保健センター内）2階¥n¥n申し込み¥n開催日前日までに電話でお申し込みください¥n¥n詳細につきましては下部のPDFファイルをご覧ください¥n各事業詳細¥n（PDF形式、589.13KB） （PDF形式、612.91KB）;https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000001/1943/ryoushingakkyu2024.pdf",
+      "target": {
+        "targetPersons": "お父さん、お母さんになる方（おじいちゃん、おばあちゃんもどうぞ）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "休日コース（1日間コース）¥n沐浴実習・赤ちゃんのお世話の方法¥n妊娠中のママと赤ちゃんの栄養講話¥n日の出町母子保健事業、予防接種のお話",
+        "monetarySupport": null,
+        "materiallySupport": "休日コース（1日間コース）¥n沐浴実習・赤ちゃんのお世話の方法¥n妊娠中のママと赤ちゃんの栄養講話¥n日の出町母子保健事業、予防接種のお話"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "開催日前日までに電話でお申し込みください",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "こども家庭センター　相談係（母子保健担当）",
+      "relatedLink": [
+        {
+          "uri": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000001/1943/ryoushingakkyu2024.pdf",
+          "title": "各事業詳細"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/0000001943.html",
+        "title": "妊娠から出産まで"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター　相談係（母子保健担当）",
+        "contactPhone": "042-588-4310",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "ファクス: 042-597-6177",
+        "zipCode": "1900192",
+        "contactAddress": "東京都西多摩郡日の出町大字平井2780番地"
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+2+UM31",
+        "organization": "1000020133051",
+        "compartment": "こども家庭センター　相談係（母子保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

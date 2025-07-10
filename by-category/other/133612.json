@@ -1,0 +1,143 @@
+{
+  "version": "2025-07-10T02:38:54.145Z",
+  "areaCode": "133612",
+  "areaName": "大島町",
+  "category": "other",
+  "count": 1,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+        "shortName": "国民健康保険税　軽減措置（産前産後期間）"
+      },
+      "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分）の均等割保険料と所得割保険料が免除されます。",
+      "description": "国民健康保険の被保険者のみなさまへ【産前産後期間における軽減措置】\n令和６年１月から出産予定または出産されたことによる国民健康保険税が軽減される制度が始まります。なお、軽減を受けるには原則届出が必要です。減免の要件、手続き等は以下のとおりです。\n\n対象者\n◆令和５年１１月１日以降に出産された、または出産予定の大島町国民健康保険被保険者の方\n\n届出に必要な書類\n\n１．産前産後期間に係る大島町国民健康保険税軽減届出書（ホームページまたは税務課窓口・各出張所）\n\n２．母子健康手帳（死産、流産などの場合医師の診断書など）\n\n３．世帯主、出産する方のマイナンバーがわかるもの\n\n大島町国民健康保険税軽減届出書 [PDFファイル／519KB];https://www.town.oshima.tokyo.jp/uploaded/attachment/5600.pdf\n\n届出の時期\n\n・出産予定日の６カ月前から届出ができます。\n\n・令和６年１月１日から施行のため、令和６年１月４日（木）から受付開始となります。\n\n軽減の内容\nリーフレット [PDFファイル／753KB];https://www.town.oshima.tokyo.jp/uploaded/attachment/5602.pdf\n\n・出産予定日または出産日の属する月の前月から、出産予定日または出産日の属する月の翌々月までの４カ月間の所得割額、均等割額を免除\n・双子などの多胎妊娠の場合は、出産予定日または出産日の属する月の３カ月前から出産予定日または出産日の属する月の翌々月までの６カ月間の所得割額、均等割額を免除\n\n※出産とは、妊娠８５日（１２週）以上の分娩をいい、死産、流産（人工妊娠中絶を含む。）および早産の場合も対象となります。",
+      "target": {
+        "targetPersons": "◆令和５年１１月１日以降に出産された、または出産予定の大島町国民健康保険被保険者の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "国民健康保険税が軽減",
+        "monetarySupport": "国民健康保険税が軽減",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "軽減を受けるには原則届出が必要です。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "届出の時期\n\n・出産予定日の６カ月前から届出ができます。\n\n・令和６年１月１日から施行のため、令和６年１月４日（木）から受付開始となります。"
+      },
+      "electronicSubmission": false,
+      "belongings": "届出に必要な書類\n\n１．産前産後期間に係る大島町国民健康保険税軽減届出書（ホームページまたは税務課窓口・各出張所）\n\n２．母子健康手帳（死産、流産などの場合医師の診断書など）\n\n３．世帯主、出産する方のマイナンバーがわかるもの",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.town.oshima.tokyo.jp/uploaded/attachment/5600.pdf",
+          "title": "大島町国民健康保険税軽減届出書 [PDFファイル／519KB]"
+        },
+        {
+          "uri": "https://www.town.oshima.tokyo.jp/uploaded/attachment/5602.pdf",
+          "title": "リーフレット [PDFファイル／753KB]"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.town.oshima.tokyo.jp/soshiki/zeimu/koku-tax1.html",
+        "title": "国民健康保険税　軽減措置（産前産後期間）について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "税務課　課税係・納税係",
+        "contactPhone": "04992-2-1465",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.oshima.tokyo.jp/form/detail.php?sec_sec1=5&lif_id=8907",
+        "contactComment": "Fax：04992-2-4430",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133612;大島町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020133612+1+UM5035",
+        "organization": "2000020133612",
+        "compartment": "税務課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-05-17",
+        "updater": "大島町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003",
+          "015"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    }
+  ]
+}

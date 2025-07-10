@@ -1,0 +1,628 @@
+{
+  "version": "2025-07-10T02:38:54.144Z",
+  "areaCode": "133051",
+  "areaName": "日の出町",
+  "category": "other",
+  "count": 5,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "図書館の児童サービス（ブックスタートなど）",
+        "shortName": "おはなし会"
+      },
+      "summary": "子どもたちに本の楽しさをしってもらえるように、定期的にお話会を開催しています。¥n読み聞かせ、語り、手遊び等行っています。",
+      "description": "おはなし会¥n¥n子どもたちに本の楽しさをしってもらえるように、定期的にお話会を開催しています。¥n絵本や語り、手遊びなど・・・ぜひ、お気軽にお越しください。¥n¥n本館（幼児コーナー）¥n木曜日　午前10時30分～11時 　幼児対象¥n第2・第4土曜日　午前10時30分～11時　 児童対象¥n都合により変更させていただく場合があります。¥n¥n幼児コーナー¥nお子様と一緒に安心して本にふれ合っていただけます。¥n（床がじゅうたんになっていますのでペッタリと座れます。）",
+      "target": {
+        "targetPersons": "幼児、児童",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "幼児、児童"
+      },
+      "support": {
+        "description": "子どもたちに本の楽しさをしってもらえるように、定期的にお話会を開催しています。¥n絵本や語り、手遊びなど・・・ぜひ、お気軽にお越しください。¥n本館（幼児コーナー）¥n木曜日　午前10時30分～11時 　幼児対象¥n第2・第4土曜日　午前10時30分～11時　 児童対象¥n都合により変更させていただく場合があります。",
+        "monetarySupport": null,
+        "materiallySupport": "子どもたちに本の楽しさをしってもらえるように、定期的にお話会を開催しています。¥n絵本や語り、手遊びなど・・・ぜひ、お気軽にお越しください。¥n本館（幼児コーナー）¥n木曜日　午前10時30分～11時 　幼児対象¥n第2・第4土曜日　午前10時30分～11時　 児童対象¥n都合により変更させていただく場合があります。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "木曜日　午前10時30分～11時 　幼児対象¥n第2・第4土曜日　午前10時30分～11時　 児童対象"
+      },
+      "implementationPlace": {
+        "implementationName": "本館（幼児コーナー）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/category/3-7-2-5-0-0-0-0-0-0.html",
+        "title": "おはなし会の日程"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "日の出町　図書館",
+        "contactPhone": "042-597-3496",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "ファクス: 042-597－3496",
+        "zipCode": "1900192",
+        "contactAddress": "東京都西多摩郡日の出町大字平井2780番地"
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM105",
+        "organization": "1000020133051",
+        "compartment": "図書館",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+        "shortName": "産前産後期間相当分の国民健康保険税の免除"
+      },
+      "summary": "出産する被保険者に係る産前産後期間相当分（単体の場合は4か月分、多胎の場合は6か月分）の国民健康保険税が免除されます。",
+      "description": "国民健康保険の被保険者が出産（妊娠85日以上の死産・流産を含む）したときに、届出をすることで、産前産後期間相当分（4か月分）の国民健康保険税が免除されます。",
+      "target": {
+        "targetPersons": "令和5年11月1日以降に出産（妊娠85日以上の死産・流産を含む）する国民健康保険の被保険者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "その年度に納める国民健康保険税の所得割額と均等割額から、出産予定月（または出産月）の前月から出産予定月（または出産月）の翌々月相当分が減額されます。多胎妊娠の場合は、出産予定月（または出産月）の3か月前から6か月相当分が減額されます。なお、令和5年度においては、産前産後期間のうち、令和6年1月以降の期間の国民健康保険税が減額されます。",
+        "monetarySupport": "その年度に納める国民健康保険税の所得割額と均等割額から、出産予定月（または出産月）の前月から出産予定月（または出産月）の翌々月相当分が減額されます。多胎妊娠の場合は、出産予定月（または出産月）の3か月前から6か月相当分が減額されます。なお、令和5年度においては、産前産後期間のうち、令和6年1月以降の期間の国民健康保険税が減額されます。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "町民課保険年金係に申請してください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "届書、母子健康手帳等",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "町民課保険年金係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/0000000476.html",
+        "title": "産前産後期間相当分の国民健康保険税が免除されます"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "町民課保険年金係",
+        "contactPhone": "042-588-4110,042-588-4111",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.hinode.tokyo.jp/mailform/inquiry.cgi?so=307078d452c2d09ed796f615a7aad68676a41b1d&ref=https://www.town.hinode.tokyo.jp/0000000129.html",
+        "contactComment": null,
+        "zipCode": "1900192",
+        "contactAddress": "東京都西多摩郡日の出町大字平井2780番地"
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM5035",
+        "organization": "1000020133051",
+        "compartment": "町民課保険年金係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-06-03",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民健康保険法施行令",
+        "regulationArticle": "第29条の7第5項第8号"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003",
+          "015"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "こども食堂",
+        "shortName": "子ども食堂"
+      },
+      "summary": "「こども食堂」とは、こどもが一人でも行ける無料または低額の食堂です。こども食堂は、生活に困窮する子育て世帯への支援だけでなく、虐待の防止のための見守りや、地域の交流、こどもへの多様な経験の提供など様々な役割を担っており、国としてもこの取組を支援しています。",
+      "description": "日の出町では、町内において、地域の子どもやその保護者が気楽に立ち寄り、栄養バランスの取れた食事をとりながら、相互に交流を行う場を提供する取組（子ども食堂）に要する経費の一部を補助します。",
+      "target": {
+        "targetPersons": "日の出町内において、子ども食堂を実施する者、子ども食堂を立ち上げる者のうち、補助対象条件に当てはまる者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "食材及び弁当の購入に要する経費、会場の使用に要する経費、消耗品の購入に要する経費、パンフレット等の印刷製本に要する経費、傷害保険等の保険に要する経費、設備の整備等に要する経費　など",
+        "monetarySupport": "●運営費：子ども食堂の実施に要する経費の総額（子ども食堂を実施する月数に4万円を乗じて得た額を上限とする）　など\n※参加費、寄付金等の収入額を控除した額とする。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "日の出町内において、子ども食堂を実施する者、子ども食堂を立ち上げる者のうち、補助対象条件に当てはまる者",
+      "procedureMethod": "交付申請書に必要事項を記入の上、福祉課子育て支援係へ提出",
+      "procedurePeriod": {
+        "fromYMD": "各年度４月",
+        "fromHM": null,
+        "toYMD": "各年度6月末",
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "東京都日の出町福祉課子育て支援係",
+      "relatedLink": [
+        {
+          "uri": "https://www.town.hinode.tokyo.jp/0000003926.html",
+          "title": "子ども食堂の運営に要する経費の一部を補助します"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/0000003926.html",
+        "title": "子ども食堂の運営に要する経費の一部を補助します"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "東京都日の出町福祉課子育て支援係",
+        "contactPhone": "042-588-4113",
+        "contactEx": null,
+        "contactEmail": "kosodate@town.hinode.tokyo.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1900192",
+        "contactAddress": "東京都西多摩郡日の出町大字平井2780"
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM5036",
+        "organization": "1000020133051",
+        "compartment": "東京都日の出町福祉課子育て支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2025/02/20",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出生連絡票・低体重児出生届",
+        "shortName": "新生児訪問"
+      },
+      "summary": "赤ちゃんが生まれたら、母子手帳に添付されている出生連絡票（はがき）を記入して、郵送または提出してください。出生連絡票をもとに、「こんにちは赤ちゃん事業（乳幼児全戸訪問）」内部リンクのご連絡をします。¥nなお、法律（母子保健法）で2,500グラム未満のお子さんが出生した時は、保護者がその旨を速やかに届け出ることが義務づけられており、出生連絡票はその届出を兼ねています。",
+      "description": "新生児訪問¥n保健師より連絡し、日程調整をした後に訪問します。授乳等の赤ちゃんのお世話や、お母さんの産後のからだについてなどのお話をします。¥n¥n出生通知兼低体重児届出票（はがき）は、なるべく早く送付ください（窓口持参でも構いません）。¥n¥n命名が遅れている場合は、空欄のままで構いません。¥n¥n産まれた赤ちゃんの体重が2500グラム未満の場合は速やかに送ってください。¥n¥n里帰り出産の場合も出生通知の送付をお願いします。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "保健師より連絡し、日程調整をした後に訪問します。授乳等の赤ちゃんのお世話や、お母さんの産後のからだについてなどのお話をします。¥n¥n出生通知兼低体重児届出票（はがき）は、なるべく早く送付ください（窓口持参でも構いません）。¥n¥n命名が遅れている場合は、空欄のままで構いません。",
+        "monetarySupport": null,
+        "materiallySupport": "保健師より連絡し、日程調整をした後に訪問します。授乳等の赤ちゃんのお世話や、お母さんの産後のからだについてなどのお話をします。¥n¥n出生通知兼低体重児届出票（はがき）は、なるべく早く送付ください（窓口持参でも構いません）。¥n¥n命名が遅れている場合は、空欄のままで構いません。¥n¥n産まれた赤ちゃんの体重が2500グラム未満の場合は速やかに送ってください。¥n¥n里帰り出産の場合も出生通知の送付をお願いします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "なるべく早く送付ください（窓口持参でも構いません）。"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/0000001943.html",
+        "title": "妊娠から出産まで"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター　相談係（母子保健担当）",
+        "contactPhone": "042-588-4310",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "ファクス: 042-597-6177",
+        "zipCode": "1900192",
+        "contactAddress": "東京都西多摩郡日の出町大字平井2780番地"
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM791",
+        "organization": "1000020133051",
+        "compartment": "こども家庭センター　相談係（母子保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第18条（低体重児の届出）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "077"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後期間の国民年金保険料免除",
+        "shortName": "産前産後期間の国民年金保険料免除"
+      },
+      "summary": "国民年金の第1号被保険者が出産する場合、出産前後の一定期間の国民年金保険料が免除されます。免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+      "description": "出産予定日又は出産日が属する月の前月から4か月間の国民年金保険料が免除されます。多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。",
+      "target": {
+        "targetPersons": "国民年金第1号被保険者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "出産予定日又は出産日が属する月の前月から4か月間の国民年金保険料が免除されます。多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。",
+        "monetarySupport": "出産予定日又は出産日が属する月の前月から4か月間の国民年金保険料が免除されます。多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "日本年金機構青梅年金事務所又は役場町民課保険年金係に申請してください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "届書、母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "町民課保険年金係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html",
+        "title": "国民年金保険料の産前産後期間の免除制度"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "町民課保険年金係",
+        "contactPhone": "042-588-4110,042-588-4111",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.hinode.tokyo.jp/mailform/inquiry.cgi?so=307078d452c2d09ed796f615a7aad68676a41b1d&ref=https://www.town.hinode.tokyo.jp/0000000129.html",
+        "contactComment": null,
+        "zipCode": "1900192",
+        "contactAddress": "東京都西多摩郡日の出町大字平井2780番地"
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM793",
+        "organization": "1000020133051",
+        "compartment": "町民課保険年金係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民年金法",
+        "regulationArticle": "第88条の2"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "016"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

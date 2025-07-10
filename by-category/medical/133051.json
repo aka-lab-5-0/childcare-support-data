@@ -1,0 +1,2100 @@
+{
+  "version": "2025-07-10T02:38:54.144Z",
+  "areaCode": "133051",
+  "areaName": "日の出町",
+  "category": "medical",
+  "count": 17,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "先天性代謝異常等検査",
+        "shortName": "先天性代謝異常検査"
+      },
+      "summary": "東京都ではフェニルケトン尿症等の先天性代謝異常や先天性甲状腺機能低下症（クレチン症）などの内分泌疾患を早期に発見するために、先天性代謝異常等検査を行っています。¥nこれらの疾患を放っておくと、生まれた時は健康に見えても、身体障害や知的障害が発生したり、時には生命の危険にさらされたりする場合もあります。しかし、疾患を早期に発見し、適切な治療を続けることで、障害などの発生を未然に防ぐことができます。",
+      "description": "先天性代謝異常検査¥n出産した医療機関で実施します",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "出産した医療機関で実施します",
+        "monetarySupport": null,
+        "materiallySupport": "出産した医療機関で実施します"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/0000001943.html",
+        "title": "妊娠から出産まで"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター　相談係（母子保健担当）",
+        "contactPhone": "042-588-4310",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "ファクス: 042-597-6177",
+        "zipCode": "1900192",
+        "contactAddress": "東京都西多摩郡日の出町大字平井2780番地"
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM10",
+        "organization": "1000020133051",
+        "compartment": "こども家庭センター　相談係（母子保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関するサポート",
+        "shortName": "適応支援グループ　レッツ（Let’s）"
+      },
+      "summary": "「学校に行きたいけど、今すぐには行けそうにない」「登校していないけれど、勉強のことが気になる・・・」などの思いがある町内在住の小学校高学年・中学生の方を対象に、小グループでの活動を行っています。\n心理相談員（公認心理師、臨床心理士）や心理学を勉強している学生などのスタッフがお手伝いをさせていただきます。",
+      "description": "適応支援グループ　レッツ（Let’s）\n「学校に行きたいけど、今すぐには行けそうにない」「登校していないけれど、勉強のことが気になる・・・」などの思いがある町内在住の小学校高学年・中学生の方を対象に、小グループでの活動を行っています。\n心理相談員（公認心理師、臨床心理士）や心理学を勉強している学生などのスタッフがお手伝いをさせていただきます。\n\n※レッツへの参加は、原則として上記教育相談室に来室されている方に限ります。\n\n時間\n令和6年度は、原則として、火曜日、金曜日の午後（午後1時30分～午後3時40分）に実施します。\n\n場所\n教育センター内　多目的会議室、教育相談室等（図書館2階）",
+      "target": {
+        "targetPersons": "「学校に行きたいけど、今すぐには行けそうにない」「登校していないけれど、勉強のことが気になる・・・」などの思いがある町内在住の小学校高学年・中学生の方を対象",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "小学校高学年・中学生の方"
+      },
+      "support": {
+        "description": "小グループでの活動を行っています。\n心理相談員（公認心理師、臨床心理士）や心理学を勉強している学生などのスタッフがお手伝いをさせていただきます。",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "13:30",
+        "toYMD": null,
+        "toHM": "15:40",
+        "conditions": "令和6年度は、原則として、火曜日、金曜日の午後（午後1時30分～午後3時40分）に実施します。"
+      },
+      "implementationPlace": {
+        "implementationName": "教育センター内　多目的会議室、教育相談室等（図書館2階）",
+        "implementationAddress": "東京都西多摩郡日の出町大字平井2780番地"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "レッツへの参加は、原則として教育相談室に来室されている方に限ります。まずは教育相談室までご連絡ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/0000000094.html",
+        "title": "教育相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "学校教育課 指導室　教育相談室",
+        "contactPhone": "042-597-1161",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1900192",
+        "contactAddress": "東京都西多摩郡日の出町大字平井2780番地"
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM106",
+        "organization": "1000020133051",
+        "compartment": "学校教育課 指導室　相談支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "児童館",
+        "shortName": "児童館"
+      },
+      "summary": "児童館は、18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。¥n日の出町の児童館には、小学校就学前のお子さんが安心して遊べるスペースがあり、またお子さんの年齢に応じた各種イベントなども行っています。¥n（イベントの詳細については、日の出町サイトや市報などでお知らせしています。）",
+      "description": "児童館¥n児童館は、中学生までの子どもなら、誰でも自由に遊べる、子ども達のための施設です。施設内には、図書室や遊戯室、中庭があり、年間を通じて、子ども向けのさまざまな催しを行っています。また児童館は、乳幼児をもつ子育てママさんの交流の場としても利用いただけます。¥n¥n児童館の催しやイベント¥n児童館では、みんなが楽しく参加できる催しを行っています。くわしくは、毎月1日に発行される「広報日の出」をごらんください。¥n¥n親子サークル「わくわく」¥n乳幼児と乳幼児の保護者を対象とした親子サークルです。運動や、工作、お絵かきなど、内容は保護者が決め、準備などお手伝いします。毎年4月に参加者を募集します。また、年間を通し随時受付も行っています。毎週金曜日の午前10時30分～11時30分に開催しています。¥n手作り日¥n小中学生を対象にした工作教室です。アクセサリーや小物をみんなで作ります。申し込みは、参加したい子が直接、児童館事務室へ申し込んでください。※大久野かやくぼ学習等供用施設での開催もあります。¥nおはなし会¥n　幼児以上を対象にした、読み聞かせの会です。年数会開催します。開催日等は、毎月の広報日の出に掲載します。¥nぬりえコンテスト¥n毎年6月頃に開催するコンテストです。応募された作品から、みんなの投票で優勝者を決定します。絵を描くことが大好きなキミの作品を待ってるよ！¥nじどうかん祭り¥n毎年9月ごろに開催するじどうかん祭り。7月ごろに、お祭りの実行委員会を小学4年～中学生から募集し、子ども達が中心となって開催されます。お店やゲーム、人形劇など楽しいイベントがいっぱいです。¥nクリスマス会¥n毎年12月に開催する催しです。人形劇などの目玉イベントがあります。みんなで楽しもう！¥nオセロ大会¥n毎年3月頃に開催する大会です。盤面を一色にするのが好き！腕に覚えのある小中学生のキミ！参加を待ってるよ！¥nそのほかに、幼児人形劇や遊びの教室、映画の集いなども開催します。¥n¥n子育ての悩みを聞きます¥n主任児童委員と民生児童委員が、ママさんの子育ての悩みを伺う「子育て相談」を開催しています。開催日は、毎月1日に発行される「広報日の出」に掲載します。¥n¥n児童館の利用案内¥n対象　乳幼児～中学生　※乳幼児は保護者同伴でご利用いただきます。¥n開館時間　午前10時～午後5時¥n休館日　毎週日曜日、祝日、年末年始（12月29日～1月3日まで）¥n添付ファイル¥n¥n志茂町児童館利用案内 （ファイル名：91s0g20000000a77.pdf サイズ：864.29KB）;https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000000/121/91s0g20000000a77.pdf",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "児童館では、みんなが楽しく参加できる催しを行っています。くわしくは、毎月1日に発行される「広報日の出」をごらんください。¥n・親子サークル「わくわく」¥n　乳幼児と乳幼児の保護者を対象とした親子サークルです。運動や、工作、お絵かきなど、内容は保護者が決め、準備などお手伝いします。毎年4月に参加者を募集します。また、年間を通し随時受付も行っています。毎週金曜日の午前10時30分～11時30分に開催しています。¥n・手作り日¥n　小中学生を対象にした工作教室です。アクセサリーや小物をみんなで作ります。申し込みは、参加したい子が直接、児童館事務室へ申し込んでください。※大久野かやくぼ学習等供用施設での開催もあります。¥n・おはなし会¥n　幼児以上を対象にした、読み聞かせの会です。年数会開催します。開催日等は、毎月の広報日の出に掲載します。¥n・ぬりえコンテスト¥n　毎年6月頃に開催するコンテストです。応募された作品から、みんなの投票で優勝者を決定します。絵を描くことが大好きなキミの作品を待ってるよ！¥n・じどうかん祭り¥n　毎年9月ごろに開催するじどうかん祭り。7月ごろに、お祭りの実行委員会を小学4年～中学生から募集し、子ども達が中心となって開催されます。お店やゲーム、人形劇など楽しいイベントがいっぱいです。¥n・クリスマス会¥n　毎年12月に開催する催しです。人形劇などの目玉イベントがあります。みんなで楽しもう！¥n・オセロ大会¥n　毎年3月頃に開催する大会です。盤面を一色にするのが好き！腕に覚えのある小中学生のキミ！参加を待ってるよ！¥nそのほかに、幼児人形劇や遊びの教室、映画の集いなども開催します。¥n子育ての悩みを聞きます¥n主任児童委員と民生児童委員が、ママさんの子育ての悩みを伺う「子育て相談」を開催しています。開催日は、毎月1日に発行される「広報日の出」に掲載します。",
+        "monetarySupport": null,
+        "materiallySupport": "児童館では、みんなが楽しく参加できる催しを行っています。くわしくは、毎月1日に発行される「広報日の出」をごらんください。¥n・親子サークル「わくわく」¥n　乳幼児と乳幼児の保護者を対象とした親子サークルです。運動や、工作、お絵かきなど、内容は保護者が決め、準備などお手伝いします。毎年4月に参加者を募集します。また、年間を通し随時受付も行っています。毎週金曜日の午前10時30分～11時30分に開催しています。¥n・手作り日¥n小中学生を対象にした工作教室です。アクセサリーや小物をみんなで作ります。申し込みは、参加したい子が直接、児童館事務室へ申し込んでください。※大久野かやくぼ学習等供用施設での開催もあります。¥n・おはなし会¥n幼児以上を対象にした、読み聞かせの会です。年数会開催します。開催日等は、毎月の広報日の出に掲載します。¥n・ぬりえコンテスト¥n毎年6月頃に開催するコンテストです。応募された作品から、みんなの投票で優勝者を決定します。絵を描くことが大好きなキミの作品を待ってるよ！¥n・じどうかん祭り¥n毎年9月ごろに開催するじどうかん祭り。7月ごろに、お祭りの実行委員会を小学4年～中学生から募集し、子ども達が中心となって開催されます。お店やゲーム、人形劇など楽しいイベントがいっぱいです。¥n・クリスマス会¥n毎年12月に開催する催しです。人形劇などの目玉イベントがあります。みんなで楽しもう！¥n・オセロ大会¥n毎年3月頃に開催する大会です。盤面を一色にするのが好き！腕に覚えのある小中学生のキミ！参加を待ってるよ！¥nそのほかに、幼児人形劇や遊びの教室、映画の集いなども開催します。¥n子育ての悩みを聞きます¥n主任児童委員と民生児童委員が、ママさんの子育ての悩みを伺う「子育て相談」を開催しています。開催日は、毎月1日に発行される「広報日の出」に掲載します。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "児童館",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "開館時間　午前10時～午後5時"
+      },
+      "specificDate": null,
+      "holiday": "毎週日曜日、祝日、年末年始（12月29日～1月3日まで）",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000000/121/91s0g20000000a77.pdf",
+          "title": "志茂町児童館利用案内 （ファイル名：91s0g20000000a77.pdf サイズ：864.29KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/0000000121.html",
+        "title": "学童クラブと児童館"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "児童館",
+        "contactPhone": "042-597-2547",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM108",
+        "organization": "1000020133051",
+        "compartment": "学童クラブと児童館",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第2項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て広場",
+        "shortName": "地域子育て支援拠点事業"
+      },
+      "summary": "町内の子育てひろばは、小学校就学前のお子さんが安心して遊べるスペースがあり、子育て中の親子が気軽に集い、仲間づくりを通して子育てに関する相談や情報交換等を行う機会を提供しています。また、お子さんの年齢に応じた各種イベントなども行っています。¥n（イベントの詳細については、日の出町サイトや広報などでお知らせしています。）",
+      "description": "地域子育て支援拠点事業¥n児童館等、地域の身近な場所で、子育て中の親子交流・育児相談等を行います。¥n平成27年度以降、本町では１か所で実施しています。¥n||平成27年度 |平成28年度|平成29年度 |平成30年度|平成31年度<br>（４月時点）|\n|:----|:----|:----|:----|:----|:----|\n|実施か所数（か所）|1|1|1|1|1|\n|延べ利用者数（人回）|6847|4531|6459|6610||\n¥n【地域子育て支援拠点事業（子育てひろば事業）】¥n子育て講座（児童館）、サークル活動（児童館）¥n【類似事業】¥n地域組織化事業として、ママさんヨガ、親子たいそう、ママさんマッサージ、子育てサ¥nロン（子ども家庭支援センター）¥n※民生・児童委員との共同事業として、子育て相談（児童館）",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "児童館等、地域の身近な場所で、子育て中の親子交流・育児相談等を行います。",
+        "monetarySupport": null,
+        "materiallySupport": "児童館等、地域の身近な場所で、子育て中の親子交流・育児相談等を行います。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000002/2520/zigyoukeikaku.pdf",
+        "title": "日の出町子ども・子育て支援事業計画（第二期）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM112",
+        "organization": "1000020133051",
+        "compartment": "福祉課子育て支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第6項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "日の出町の子育てに関する相談",
+        "shortName": "教育相談室"
+      },
+      "summary": "小学校就学前から小学生・中学生等の子どもに関する気になること、心配なことについての相談をお受けしています。",
+      "description": "教育相談室¥n小学校就学前から小学生・中学生等の子どもに関する気になること、心配なことについての相談をお受けしています。¥n《たとえば》¥n¥nこのごろ元気がない¥n遅刻することや学校を休むことが増えた¥n勉強が苦手¥n落ち着きがない¥n会話がかみ合わない¥n先生の話を聞けない¥n友達とうまく遊べていないよう¥n気持ちのコントロールが苦手で、パニックのようになることがある¥n反抗的で困る¥n気になるクセや行動がある、など。¥n保護者のみでも、お子さんとご一緒でも相談できます。心理相談員（公認心理師、臨床心理士）がお話を伺い、お子さんの在籍小・中学校等とも連携し、解決に向けて一緒に考えていきます。¥n¥n時間¥n月曜日から金曜日　午前9時～正午、午後1時～5時（祝日、年末年始を除く）¥n¥n場所¥n教育センター内　教育相談室（町図書館2階）¥n¥n問い合わせ・相談¥n学校教育課 指導室　教育相談室　電話042-597-1161（直通）¥n※相談は予約制です。事前にお電話でご連絡ください。",
+      "target": {
+        "targetPersons": "小学校就学前から小学生・中学生等の子どもとその保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "気になること、心配なことについての相談をお受けしています。¥n《たとえば》¥n・このごろ元気がない¥n・遅刻することや学校を休むことが増えた¥n・勉強が苦手¥n・落ち着きがない¥n・会話がかみ合わない¥n・先生の話を聞けない¥n・友達とうまく遊べていないよう¥n・気持ちのコントロールが苦手で、パニックのようになることがある¥n・反抗的で困る¥n・気になるクセや行動がある、など。¥n保護者のみでも、お子さんとご一緒でも相談できます。心理相談員（公認心理師、臨床心理士）がお話を伺い、お子さんの在籍小・中学校等とも連携し、解決に向けて一緒に考えていきます。",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "教育センター内　教育相談室（町図書館2階）",
+        "implementationAddress": "東京都西多摩郡日の出町大字平井2780番地"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "12:00～13:00を除く"
+      },
+      "specificDate": null,
+      "holiday": "土日、祝日、年末年始",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "相談は予約制です。事前にお電話でご連絡ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/0000000094.html",
+        "title": "教育相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "学校教育課 指導室　教育相談室",
+        "contactPhone": "042-597-1161",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1900192",
+        "contactAddress": "東京都西多摩郡日の出町大字平井2780番地"
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM119",
+        "organization": "1000020133051",
+        "compartment": "学校教育課 指導室　相談支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "日の出町教育相談室設置規則",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "新生児訪問",
+        "shortName": "新生児訪問"
+      },
+      "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+      "description": "新生児訪問¥n保健師より連絡し、日程調整をした後に訪問します。授乳等の赤ちゃんのお世話や、お母さんの産後のからだについてなどのお話をします。¥n¥n出生通知兼低体重児届出票（はがき）は、なるべく早く送付ください（窓口持参でも構いません）。¥n¥n命名が遅れている場合は、空欄のままで構いません。¥n¥n産まれた赤ちゃんの体重が2500グラム未満の場合は速やかに送ってください。¥n¥n里帰り出産の場合も出生通知の送付をお願いします。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "保健師より連絡し、日程調整をした後に訪問します。授乳等の赤ちゃんのお世話や、お母さんの産後のからだについてなどのお話をします。",
+        "monetarySupport": null,
+        "materiallySupport": "保健師より連絡し、日程調整をした後に訪問します。授乳等の赤ちゃんのお世話や、お母さんの産後のからだについてなどのお話をします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "出生通知兼低体重児届出票（はがき）は、なるべく早く送付ください（窓口持参でも構いません）。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/0000001943.html",
+        "title": "妊娠から出産まで"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター　相談係（母子保健担当）",
+        "contactPhone": "042-588-4310",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "ファクス: 042-597-6177",
+        "zipCode": "1900192",
+        "contactAddress": "東京都西多摩郡日の出町大字平井2780番地"
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM13",
+        "organization": "1000020133051",
+        "compartment": "こども家庭センター　相談係（母子保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第11条（新生児の訪問指導）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出産育児一時金",
+        "shortName": "出産育児一時金"
+      },
+      "summary": "国民健康保険に被保険者が出産したときは、世帯主からの届出により、出産育児一時金を支給します。原則として直接支払制度により、医療機関に直接お支払いします。なお、直接支払制度に対応していない医療機関などで出産された場も、「受取代理制度」や出産後の申請により、出産育児一時金の支給を受けることができます。",
+      "description": "国民健康保険の被保険者が出産（妊娠85日以上の死産・流産を含む）したときに、届出をすることで、出産育児一時金が支給されます。",
+      "target": {
+        "targetPersons": "出産（妊娠85日以上の死産・流産を含む）した国民健康保険の被保険者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "産科医療補償制度に加入の医療機関等で妊娠週数22週以降に出産した場合、1児につき50万円。産科医療補償制度に未加入の医療機関等で出産した場合又は産科医療補償制度に加入の医療機関等で妊娠週数22週未満で出産した場合、1児につき48.8万円。",
+        "monetarySupport": "1児につき48.8万円",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "町民課保険年金係に申請してください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "届書、医療機関等が交付した直接支払制度の利用に関する合意文書、出産費用の領収書、世帯主の通帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "町民課保険年金係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/0000000129.html",
+        "title": "国民健康保険の給付"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "町民課保険年金係",
+        "contactPhone": "042-588-4110,042-588-4111",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.hinode.tokyo.jp/mailform/inquiry.cgi?so=307078d452c2d09ed796f615a7aad68676a41b1d&ref=https://www.town.hinode.tokyo.jp/0000000129.html",
+        "contactComment": null,
+        "zipCode": "1900192",
+        "contactAddress": "東京都西多摩郡日の出町大字平井2780番地"
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM19",
+        "organization": "1000020133051",
+        "compartment": "町民課保険年金係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-01-26",
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民健康保険法",
+        "regulationArticle": "第58条"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003",
+          "015"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "マタニティマーク",
+        "shortName": "マタニティマーク"
+      },
+      "summary": "日の出町では、妊娠の届出の際に、母子健康手帳と共にマタニティマーク入りキーホルダーをお渡ししています。",
+      "description": "妊娠届（母子健康バックの交付）\n ○問 こども家庭センター042-588-4310¥n保健センターで保健師と面接し交付します。母子健康バックには、母子健康手帳、妊婦健康診査受診票、出生通知票（はがき）、マタニティマーク、などが入っています。妊娠届出書には、週数・出産予定日・検査を受けた医療機関名などを記入していただきますので、ご確認の上、お越しください。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "マタニティマーク",
+        "monetarySupport": null,
+        "materiallySupport": "マタニティマーク"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "こども家庭センター（保健センター）で保健師と面接し交付します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "こども家庭センター　相談係（母子保健担当）",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/0000001943.html",
+        "title": "ひので子育て応援ガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター　相談係（母子保健担当）",
+        "contactPhone": "042-588-4310",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1900192",
+        "contactAddress": "東京都西多摩郡日の出町大字平井2780番地"
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM2",
+        "organization": "1000020133051",
+        "compartment": "こども家庭センター　相談係（母子保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月未満児）",
+        "shortName": "３～４か月児健診"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として3か月～4か月児健康診査を実施しています。",
+      "description": "３～４か月児健診：¥n３か月から5か月のお子さんに郵送でご案内しています¥n受付時間：午後１：００～１：１５¥n|検診日|対象者|\n|:----|:----|\n|５月１７日（金）| R５.12.16生 ～ R６. 2.17生|\n|７月１９日（金）| R６. 2.18生 ～4.19生|\n|９月２０日（金）|R６. 4.20生 ～6.20生|\n|１１月１５日（金） |R６. 6.21生 ～8.15生|\n|１月１７日（金）|R６. 8.16生 ～ 10.17生|\n|３月２１日（金）|R６.10.18生 ～ 12.21生|\n¥n持ち物：母子手帳、受診票、バスタオル¥n　　　 お母さんの採尿容器",
+      "target": {
+        "targetPersons": "３か月から5か月のお子さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 5
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 3
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "３か月から5か月のお子さん"
+      },
+      "support": {
+        "description": "集団健診",
+        "monetarySupport": null,
+        "materiallySupport": "集団健診"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000000/136/kodomonokenshin2024.pdf"
+      },
+      "implementationPlace": {
+        "implementationName": "こども家庭センター（保健センター内）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子手帳、受診票、バスタオル¥nお母さんの採尿容器",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000000/136/kodomonokenshin2024.pdf",
+        "title": "令和６年度　　日の出町こどもの健診母子相談スケジュール"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター　相談係（母子保健担当）",
+        "contactPhone": "042-588-4310",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM49",
+        "organization": "1000020133051",
+        "compartment": "こども家庭センター　相談係（母子保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "６～７か月児・９～１０か月児健診"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として乳幼児健康診査6か月～7か月、9か月～10か月児を実施しています。",
+      "description": "６～７か月児・９～１０か月児健診：¥n６か月から10か月のお子さんです¥n受診票は３～４か月児健診でお渡ししています¥n※医療機関での受診となります（保健センターでは実施していません）",
+      "target": {
+        "targetPersons": "６か月から10か月のお子さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 10
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "６か月から10か月のお子さん"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子手帳、受診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000000/136/kodomonokenshin2024.pdf",
+        "title": "令和６年度　　日の出町こどもの健診母子相談スケジュール"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター　相談係（母子保健担当）",
+        "contactPhone": "042-588-4310",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM50",
+        "organization": "1000020133051",
+        "compartment": "こども家庭センター　相談係（母子保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "伴走型相談支援",
+        "shortName": "伴走型相談支援"
+      },
+      "summary": "すべての妊婦さんと子育て家庭が安心して出産・子育てができるように、妊娠から出産・子育てまでの一貫した「伴走型相談支援」を実施しています。",
+      "description": "日の出町出産・子育て応援交付金事業¥n事業概要¥n日の出町では、国が創設した「出産・子育て応援交付金」を活用し、新たに「日の出町出産・子育て応援交付金事業」を開始します。すべての妊婦・子育て世帯が安心して出産・子育てができるよう、妊娠期から出産・子育て期まで一貫して寄り添い、身近なところで相談に応じる伴走型相談支援の充実を図ります。あわせて、経済的支援として「出産応援ギフト（5万円相当）」・「子育て応援ギフト（5万円相当）」を交付します。¥n¥n事業開始日¥n令和5年3月1日¥n¥n事業内容¥n・妊娠期から出産・子育て期までの継続的な相談に応じる「伴走型相談支援」¥n （妊娠時・妊娠期・出産時の計3回の面談及びアンケートの実施）¥n・出産・子育て応援交付金による経済的支援として、¥n 「出産応援ギフト（5万円相当）」・「子育て応援ギフト（5万円相当）」を交付¥n※上記を一体化させた支援を行います¥n¥n面談・アンケート実施時期と応援ギフト¥n|面談実施時期|面談|アンケート|申請手続き|応援ギフト|応援ギフトの対象|\n|:----|:----|:----|:----|:----|:----|\n|妊娠届出時|必須|実施|必須|妊婦ひとりにつき、5万円相当の<br>出産応援ギフト|妊婦|\n|妊娠8か月頃|希望者|実施|不要|なし||\n|新生児訪問～乳児家庭全戸訪問の頃まで|必須|実施|必須|子ひとりにつき、5万円相当の<br>子育て応援ギフト|子の養育者|¥n¥n対象となる方¥n申請時点で日の出町に住民登録があり、下記に該当し日の出町から郵送された案内に従って窓口・郵送で申請書等を提出された方¥n（1） 令和4年4月1日以降令和5年2月28日までに出生した子の養育者（出産応援ギフト・子育て応援ギフト）¥n（2） 令和4年4月1日以降令和5年2月28日までに妊娠届を提出した妊婦（出産応援ギフト）¥n（3） 令和5年3月1日以降に妊娠届を提出した妊婦（出産応援ギフト）¥n（4） 令和5年3月1日以降に出生届を提出した子の養育者（子育て応援ギフト）¥n※妊娠届出後に流産等で出産に至らなかった方も受け取ることができます¥n※転入された方で転居前の自治体で国の出産・子育て応援交付金を受給した方は対象外です¥n¥n申請に関する通知¥n上記対象者については令和5年3月中旬以降順次、日の出町より申請用紙・アンケートを郵送で通知いたします¥n¥n通知の時期¥n|パターン|発送|交付方法|\n|:----|:----|:----|\n|令和4年4月1日以降令和5年2月28日までに出生した子の養育者|3月中旬～下旬頃発送|出産応援ギフト・子育て応援ギフト|\n|令和4年4月1日以降令和5年2月28日までに<br>妊娠届を提出し、出産予定日が令和5年5月31日までの方|出産後の新生児訪問などの際にご案内|出産応援ギフト・子育て応援ギフト|\n|令和4年4月1日以降令和5年2月28日までに<br>妊娠届を提出し、出産予定日が令和5年6月以降の方|3月中旬以降<br>順次案内を発送|出産応援ギフト<br>（子育て応援ギフトは出産後に交付）|\n|令和5年3月1日以降に妊娠届した方|下記参照|出産応援ギフト<br>（子育て応援ギフトは出産後に交付）|¥n¥n令和5年3月1日以降に妊娠届を提出される方¥n保健センター窓口にて、妊娠届出の際の妊婦面談でご案内いたします",
+      "target": {
+        "targetPersons": "申請時点で日の出町に住民登録があり、下記に該当し日の出町から郵送された案内に従って窓口・郵送で申請書等を提出された方¥n¥n（1） 令和4年4月1日以降令和5年2月28日までに出生した子の養育者（出産応援ギフト・子育て応援ギフト）¥n¥n（2） 令和4年4月1日以降令和5年2月28日までに妊娠届を提出した妊婦（出産応援ギフト）¥n¥n（3） 令和5年3月1日以降に妊娠届を提出した妊婦（出産応援ギフト）¥n¥n（4） 令和5年3月1日以降に出生届を提出した子の養育者（子育て応援ギフト）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "妊娠時・妊娠期・出産時"
+      },
+      "support": {
+        "description": "妊娠期から出産・子育て期までの継続的な相談に応じる「伴走型相談支援」¥n¥n （妊娠時・妊娠期・出産時の計3回の面談及びアンケートの実施）",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠期から出産・子育て期までの継続的な相談に応じる「伴走型相談支援」¥n¥n（妊娠時・妊娠期・出産時の計3回の面談及びアンケートの実施）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "上記対象者については令和5年3月中旬以降順次、日の出町より申請用紙・アンケートを郵送で通知いたします",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/0000003468.html",
+        "title": "日の出町出産・子育て応援交付金事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター　相談係（母子保健担当）",
+        "contactPhone": "042-588-4310",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1900192",
+        "contactAddress": "東京都西多摩郡日の出町大字平井2780番地"
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM5011",
+        "organization": "1000020133051",
+        "compartment": "こども家庭センター　相談係（母子保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "伴走型相談支援及び出産・子育て応援給付金の一体的実施事業の実施について（子発1226第1号 令和4年12月26日）",
+        "regulationArticle": "別紙：伴走型相談支援及び出産・子育て応援給付金の一体的実施事業実施要綱「伴走型相談支援」（別添１）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "1歳6か月児健康診査",
+        "shortName": "１歳６か月児健診"
+      },
+      "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。日の出町では1歳6か月児健康診査を実施しています。¥n小児科医による診察のほか、歯科健診も行います。",
+      "description": "１歳６か月児健診¥n１歳６か月から１歳８か月のお子さんに郵送でご案内しています¥n受付時間：午後１：００～１：15¥n|検診日|対象者|\n|:----|:----|\n|４ 月 12 日（金）|R４. 8月生 ・ ９月生|\n|６ 月 14 日（金）|R４.10月生 ・ 11月生|\n|８ 月 ９ 日（金）|R４.12月生 ・ R５.1月生|\n|10 月 11 日（金）|R５. 2月生 ・ ３月生|\n|12 月 13 日（金）|R５. 4月生 ・ ５月生|\n|２ 月 14 日（金）|R５. 6月生 ・ ７月生|\n",
+      "target": {
+        "targetPersons": "１歳６か月から１歳８か月のお子さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 8
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "１歳６か月から１歳８か月のお子さん"
+      },
+      "support": {
+        "description": "集団検診",
+        "monetarySupport": null,
+        "materiallySupport": "集団検診"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000000/136/kodomonokenshin2024.pdf"
+      },
+      "implementationPlace": {
+        "implementationName": "こども家庭センター（保健センター内）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子手帳、受診票、バスタオル",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000000/136/kodomonokenshin2024.pdf",
+        "title": "令和６年度　　日の出町こどもの健診母子相談スケジュール"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター　相談係（母子保健担当）",
+        "contactPhone": "042-588-4310",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM51",
+        "organization": "1000020133051",
+        "compartment": "こども家庭センター　相談係（母子保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "3歳児健康診査",
+        "shortName": "３歳児健診"
+      },
+      "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。日の出町では3歳児健康診査を実施しています。¥n小児科医による診察のほか、歯科健診も行います。",
+      "description": "３歳児健診¥n3歳0か月から3歳2か月のお子さんに郵送でご案内しています¥n受付時間：午後1:00～1:15¥n|検診日|対象者|\n|:----|:----|\n|５ 月 10 日（金）|R３. 3月生 ・ 4月生|\n|７ 月 12 日（金） |R３. 5月生 ・ 6月生|\n|９ 月 13 日（金）|R３. 7月生 ・ 8月生|\n|11 月 ８ 日（金） |R３. 9月生 ・ 10月生|\n|１ 月 10 日（金）|R３.11月生 ・ 12月生|\n|３ 月 14 日（金）|R４. 1月生 ・ 2月生|\n¥n持ち物：母子手帳、受診票、バスタオル、目と耳のアンケート、採尿容器",
+      "target": {
+        "targetPersons": "３歳０か月から３歳２か月のお子さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "３歳０か月から３歳２か月のお子さん"
+      },
+      "support": {
+        "description": "集団検診",
+        "monetarySupport": null,
+        "materiallySupport": "集団検診"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000000/136/kodomonokenshin2024.pdf"
+      },
+      "implementationPlace": {
+        "implementationName": "こども家庭センター（保健センター内）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子手帳、受診票、バスタオル、目と耳のアンケート、採尿容器",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000000/136/kodomonokenshin2024.pdf",
+        "title": "令和６年度　　日の出町こどもの健診母子相談スケジュール"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター　相談係（母子保健担当）",
+        "contactPhone": "042-588-4310",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM52",
+        "organization": "1000020133051",
+        "compartment": "こども家庭センター　相談係（母子保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（2・3・4歳児歯科健康診査）",
+        "shortName": "乳幼児（2歳・3歳・4歳）歯科相談"
+      },
+      "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。2歳児歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+      "description": "乳幼児（2歳・3歳・4歳）歯科相談¥n2歳・4歳のお子さんは郵送でご案内、¥n3歳のお子さんは３歳児健診の際にご案内しています¥n歯科健診を受けた方にフッ化物塗布を行っています¥n受付時間：午前９：００～１０：１５¥n|健診日|2歳 対象者|４歳 対象者|\n|:----|:----|:----|\n|4 月 4 日（木）|R4. 4月生|R2. 4月生|\n|5 月 9 日（木）|R4. 5月生|R2. 5月生|\n|6 月 6 日（木）|R4. 6月生|R2. 6月生|\n|7 月 4 日（木）|R4. 7月生|R2. 7月生|\n|8 月 1 日（木）|R4. 8月生|R2. 8月生|\n|9 月 5 日（木）|R4. 9月生|R2. 9月生|\n|10 月 3 日（木）|R4. 10月生|R2. 10月生|\n|11 月 7 日（木）|R4. 11月生|R2. 11月生|\n|12 月 5 日（木）|R4. 12月生|R2. 12月生|\n|1 月 9 日（木）|R5. 1月生|R3. 1月生|\n|2 月 6 日（木）|R5. 2月生|R3. 2月生|\n|3 月 6 日（木）|R5. 1月生|R3. 3月生|\n¥n持ち物：母子手帳、バスタオル¥n歯ブラシ、コップ、口拭きタオル",
+      "target": {
+        "targetPersons": "2歳・3歳・4歳",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "2歳・3歳・4歳"
+      },
+      "support": {
+        "description": "歯科検診",
+        "monetarySupport": null,
+        "materiallySupport": "歯科検診"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000000/136/kodomonokenshin2024.pdf"
+      },
+      "implementationPlace": {
+        "implementationName": "こども家庭センター（保健センター内）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子手帳、バスタオル、歯ブラシ、コップ、口拭きタオル",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000000/136/kodomonokenshin2024.pdf",
+        "title": "令和６年度　　日の出町こどもの健診母子相談スケジュール"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター　相談係（母子保健担当）",
+        "contactPhone": "042-588-4310",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM792",
+        "organization": "1000020133051",
+        "compartment": "こども家庭センター　相談係（母子保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "日の出町の子育てに関する相談",
+        "shortName": "子育て相談"
+      },
+      "summary": "主任児童委員と民生児童委員が、ママさんの子育ての悩みを伺う「子育て相談」を開催しています。",
+      "description": "子育ての悩みを聞きます¥n主任児童委員と民生児童委員が、ママさんの子育ての悩みを伺う「子育て相談」を開催しています。開催日は、毎月1日に発行される「広報日の出」に掲載します。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "主任児童委員と民生児童委員が、ママさんの子育ての悩みを伺う「子育て相談」を開催しています。",
+        "monetarySupport": null,
+        "materiallySupport": "主任児童委員と民生児童委員が、ママさんの子育ての悩みを伺う「子育て相談」を開催しています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "開催日は、毎月1日に発行される「広報日の出」に掲載します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/0000000121.html",
+        "title": "学童クラブと児童館"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "児童館",
+        "contactPhone": "042-597-2547",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1900192",
+        "contactAddress": "東京都西多摩郡日の出町大字平井2780番地"
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+2+UM119",
+        "organization": "1000020133051",
+        "compartment": "学童クラブと児童館",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（5歳児歯科健康診査）",
+        "shortName": "5歳歯科健診"
+      },
+      "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。5歳児歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+      "description": "5歳歯科検診¥n５歳児と年長児のお子さんに、郵送でご案内しています¥n歯科検診を受けた方にフッ化物塗布を行っています¥n受付時間：午前９：００～１０：１５¥n¥n|健診日|５歳 対象者|年長児 対象者|\n|:----|:----|:----|\n|４月１８日（木）||H30.4.2生～7.31生|\n|６月２０日（木）|H31.4.2生～R1.5.31生|H30.8.1生～9.30生|\n|８月２２日（木）|R1.6.1生～7.31生|H30.10.1生～11.30生|\n|１０月１７日（木）|R1.8.1生～9.30生|H30.12.1生～H31.1.31生|\n|１２月１９日（木）|R1.10.1生～11.30生|H31.2.1生～4.1生|\n|２月２０日（木）|R1.12.1生～R2.4.1生||¥n¥n",
+      "target": {
+        "targetPersons": "５歳児と年長児のお子さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "５歳児と年長児のお子さん"
+      },
+      "support": {
+        "description": "歯科検診",
+        "monetarySupport": null,
+        "materiallySupport": "歯科検診"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "こども家庭センター（保健センター内）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子手帳、バスタオル、歯ブラシ、コップ、口拭きタオル",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000000/136/kodomonokenshin2024.pdf",
+        "title": "令和６年度　　日の出町こどもの健診母子相談スケジュール"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター　相談係（母子保健担当）",
+        "contactPhone": "042-588-4310",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+2+UM792",
+        "organization": "1000020133051",
+        "compartment": "こども家庭センター　相談係（母子保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "日の出町の子育てに関する相談",
+        "shortName": "子ども・家庭・子育てのことを相談"
+      },
+      "summary": "子どもの育て方がわからない、子どもの発達や行動が気になる、子育てに不安がある、育児に疲れた、子どもを叩いてしまう、不登校で悩んでいる、非行で悩んでいる、夫の暴力や暴言がこわい…その他、どこに相談したらよいかわからない場合も相談できます。",
+      "description": "子ども・家庭・子育てのことを相談したい¥n0歳から18歳までの児童とその家庭に関するあらゆる相談を受けています。¥n子どもの育て方がわからない、子どもの発達や行動が気になる、子育てに不安がある、育児に疲れた、子どもを叩いてしまう、不登校で悩んでいる、非行で悩んでいる、夫の暴力や暴言がこわい…その他、どこに相談したらよいかわからない場合も相談できます。¥n¥n電話　042－597－6177¥n相談日　月曜日から金曜日　午前9時～午後5時まで¥n相談内容は守秘義務により守られます。¥n相談は無料です（電話相談の場合は別途通信料がかかります）。",
+      "target": {
+        "targetPersons": "0歳から18歳までの児童とその家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "0歳から18歳までの児童とその家庭"
+      },
+      "support": {
+        "description": "0歳から18歳までの児童とその家庭に関するあらゆる相談を受けています。¥n子どもの育て方がわからない、子どもの発達や行動が気になる、子育てに不安がある、育児に疲れた、子どもを叩いてしまう、不登校で悩んでいる、非行で悩んでいる、夫の暴力や暴言がこわい…その他、どこに相談したらよいかわからない場合も相談できます。",
+        "monetarySupport": null,
+        "materiallySupport": "0歳から18歳までの児童とその家庭に関するあらゆる相談を受けています。¥n子どもの育て方がわからない、子どもの発達や行動が気になる、子育てに不安がある、育児に疲れた、子どもを叩いてしまう、不登校で悩んでいる、非行で悩んでいる、夫の暴力や暴言がこわい…その他、どこに相談したらよいかわからない場合も相談できます。"
+      },
+      "cost": null,
+      "costConditions": "相談は無料です（電話相談の場合は別途通信料がかかります）。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "相談日　月曜日から金曜日　午前9時～午後5時まで"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/0000000869.html",
+        "title": "子ども・家庭・子育てのことを相談したい"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター 相談係（子ども家庭支援センター）",
+        "contactPhone": "042-597-6177",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "ファクス: 042-597-6177",
+        "zipCode": "1900192",
+        "contactAddress": "東京都西多摩郡日の出町大字平井2780番地"
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+3+UM119",
+        "organization": "1000020133051",
+        "compartment": "こども家庭センター 相談係（子ども家庭支援センター）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

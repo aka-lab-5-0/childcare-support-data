@@ -1,0 +1,867 @@
+{
+  "version": "2025-07-10T02:38:54.145Z",
+  "areaCode": "133639",
+  "areaName": "新島村",
+  "category": "childcare",
+  "count": 7,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関するサポート",
+        "shortName": "あそびのひろば"
+      },
+      "summary": "保育園入園前の子どもと保護者が集える場所として、保育士があそびのひろばをひらいています。",
+      "description": "あそびのひろば\nホーム > 施設案内 > 保健センター・診療所等 > さわやか健康センター > 母子保健サービス > あそびのひろば\n\n保育園入園前の子どもと保護者が集える場所として、保育士があそびのひろばをひらいています。\n\n対象\n保育園へ入園前の子どもと保護者\n\n場所\n新島：さわやか健康センター\n\n式根島：式根島開発総合センター\n\n日時\n新島\n\n・2か月に1回程度\n\n令和6年度は、4月10日・6月12日・8月28日・10月9日・12月11日・2月12日（予約制）\n\n詳細は、広報にいじまに掲載します。\n\n式根島\n\n・毎週火曜日9時30分～11時30分\n\n火曜日が祝日の場合はお休みです。\n\nお願い\n開放時間中の遊具の利用も含めた一切の事故は自己責任となります。保護者はお子様から目を離さないようにしてください。\n\nご自宅での検温、体調管理に努めていただき、利用前後の手洗いの励行をお願いいたします。",
+      "target": {
+        "targetPersons": "保育園へ入園前の子どもと保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "保育園へ入園前の子どもと保護者"
+      },
+      "support": {
+        "description": "保育園入園前の子どもと保護者が集える場所として、保育士があそびのひろばをひらいています。",
+        "monetarySupport": null,
+        "materiallySupport": "保育園入園前の子どもと保護者が集える場所として、保育士があそびのひろばをひらいています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "新島：さわやか健康センター\n式根島：式根島開発総合センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "新島\n\n・2か月に1回程度\n\n令和6年度は、4月10日・6月12日・8月28日・10月9日・12月11日・2月12日（予約制）\n\n詳細は、広報にいじまに掲載します。\n\n式根島\n\n・毎週火曜日9時30分～11時30分\n\n火曜日が祝日の場合はお休みです。"
+      },
+      "specificDate": null,
+      "holiday": "式根島　火曜日が祝日の場合はお休みです。",
+      "utilization": "予約制",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.niijima.com/facility/health-center_clinic/sawayakakenkou-center/boshihoken-service/2020-1012-1641-111.html",
+        "title": "あそびのひろば"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "新島村さわやか健康センター",
+        "contactPhone": "04992-5-1856",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1000402",
+        "contactAddress": "東京都新島村本村3丁目12番8号"
+      },
+      "area": {
+        "areaCode": "133639;新島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133639+1+UM106",
+        "organization": "9000020133639",
+        "compartment": "新島村さわやか健康センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "新島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て支援拠点・地域子育て支援センター",
+        "shortName": "子ども家庭支援センター"
+      },
+      "summary": "18歳までのすべての子どもと家庭に関する相談に応じます。",
+      "description": "子ども家庭支援センター\nホーム > 施設案内 > 保健センター・診療所等 > さわやか健康センター > 子ども家庭支援センター\n主な事業内容\n総合相談\n18歳までのすべての子どもと家庭に関する相談に応じます。\n\n秘密は守られますので、安心してご相談ください。\n\n虐待の予防とネットワークづくり\n新島村要保護児童対策地域協議会を設置し、支援を必要とする子どもと家庭を関係機関と連携しながら支援します。\n\n家庭訪問\n乳幼児のいる家庭を訪問しています。\n\n子育て広場\n対象者\n0歳～3歳の未就園児親子\n\n日時\n不定期開催　9時30分～11時\n\n場所\n新島保育園・式根島保育園",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "総合相談\n18歳までのすべての子どもと家庭に関する相談に応じます。\n\n秘密は守られますので、安心してご相談ください。\n\n虐待の予防とネットワークづくり\n新島村要保護児童対策地域協議会を設置し、支援を必要とする子どもと家庭を関係機関と連携しながら支援します。\n\n育児学級・あそびの会の開催\n詳細はお問い合わせください。\n\n家庭訪問\n乳幼児のいる家庭を訪問しています",
+        "monetarySupport": null,
+        "materiallySupport": "総合相談\n18歳までのすべての子どもと家庭に関する相談に応じます。\n\n秘密は守られますので、安心してご相談ください。\n\n虐待の予防とネットワークづくり\n新島村要保護児童対策地域協議会を設置し、支援を必要とする子どもと家庭を関係機関と連携しながら支援します。\n\n育児学級・あそびの会の開催\n詳細はお問い合わせください。\n\n家庭訪問\n乳幼児のいる家庭を訪問しています"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.niijima.com/facility/health-center_clinic/sawayakakenkou-center/kodomokazokushien.html",
+        "title": "子ども家庭支援センター"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "新島村さわやか健康センター",
+        "contactPhone": "04992-5-1856",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1000402",
+        "contactAddress": "東京都新島村本村3丁目12番8号"
+      },
+      "area": {
+        "areaCode": "133639;新島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133639+1+UM110",
+        "organization": "9000020133639",
+        "compartment": "新島村さわやか健康センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "新島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法、児童福祉法",
+        "regulationArticle": "第6条の3第6項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て広場",
+        "shortName": "子育て広場"
+      },
+      "summary": "0歳～3歳の未就園児親子を対象に、新島保育園・式根島保育園で不定期開催（9時30分～11時）しています。\n",
+      "description": "子ども家庭支援センター\nホーム > 施設案内 > 保健センター・診療所等 > さわやか健康センター > 子ども家庭支援センター\n主な事業内容\n総合相談\n18歳までのすべての子どもと家庭に関する相談に応じます。\n\n秘密は守られますので、安心してご相談ください。\n\n虐待の予防とネットワークづくり\n新島村要保護児童対策地域協議会を設置し、支援を必要とする子どもと家庭を関係機関と連携しながら支援します。\n\n家庭訪問\n乳幼児のいる家庭を訪問しています。\n\n子育て広場\n対象者\n0歳～3歳の未就園児親子\n\n日時\n不定期開催　9時30分～11時\n\n場所\n新島保育園・式根島保育園",
+      "target": {
+        "targetPersons": "0歳～3歳の未就園児親子",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "0歳～3歳の未就園児親子"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "不定期開催　9時30分～11時"
+      },
+      "implementationPlace": {
+        "implementationName": "新島保育園・式根島保育園",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:30",
+        "toHM": "11:00",
+        "condiutilizationConditionstions": "不定期開催　9時30分～11時"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.niijima.com/facility/health-center_clinic/sawayakakenkou-center/kodomokazokushien.html",
+        "title": "子ども家庭支援センター"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "新島村さわやか健康センター",
+        "contactPhone": "04992-5-1856",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1000402",
+        "contactAddress": "東京都新島村本村3丁目12番8号"
+      },
+      "area": {
+        "areaCode": "133639;新島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133639+1+UM112",
+        "organization": "9000020133639",
+        "compartment": "新島村さわやか健康センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "新島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第6項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "両親学級"
+      },
+      "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、新島村では保健師、管理栄養士による妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+      "description": "両親学級\nホーム > 施設案内 > 保健センター・診療所等 > さわやか健康センター > 母子保健サービス > 両親学級\n\nご両親やご家族で協力して出産や子育てにのぞむ準備をしませんか。\n\n妊婦とそのパートナーの方お二人で、または、どちらかお一人、その他ご家族の参加も可能です。\n\n上のお子さんの保育が必要な場合はご相談ください。\n\n持ち物\n母子健康手帳、タオルや飲み物など。\n\n楽な服装でお越しください。\n\n場所\nさわやか健康センター\n\n内容\n※内容は、参加者の希望や日程により変更することがあります。以下はこれまで行ったものです。\n\n・妊婦体験ジャケット着用\n\n・赤ちゃんの人形を使った沐浴体験\n\n・講義「出産について」、「上の子のかかわり方」等\n\n・妊娠中の食事の紹介\n\n・参加者の交流\n\n講師\n保健師、管理栄養士\n\n日程\n随時開催\n\n※日程につきましては、希望される方のご都合に合わせて調整します。\n\n保健師、管理栄養士による個別相談も随時受け付けておりますので、お問い合わせください。",
+      "target": {
+        "targetPersons": "妊婦とそのパートナーの方お二人で、または、どちらかお一人、その他ご家族の参加も可能です。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "※内容は、参加者の希望や日程により変更することがあります。以下はこれまで行ったものです。\n\n・妊婦体験ジャケット着用\n\n・赤ちゃんの人形を使った沐浴体験\n\n・講義「出産について」、「上の子のかかわり方」等\n\n・妊娠中の食事の紹介\n\n・参加者の交流",
+        "monetarySupport": null,
+        "materiallySupport": "※内容は、参加者の希望や日程により変更することがあります。以下はこれまで行ったものです。\n\n・妊婦体験ジャケット着用\n\n・赤ちゃんの人形を使った沐浴体験\n\n・講義「出産について」、「上の子のかかわり方」等\n\n・妊娠中の食事の紹介\n\n・参加者の交流"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "随時開催\n\n※日程につきましては、希望される方のご都合に合わせて調整します。\n\n保健師、管理栄養士による個別相談も随時受け付けておりますので、お問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.niijima.com/facility/health-center_clinic/sawayakakenkou-center/boshihoken-service/ryoushingakkyuu.html",
+        "title": "両親学級"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "新島村さわやか健康センター",
+        "contactPhone": "04992-5-1856",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1000402",
+        "contactAddress": "東京都新島村本村3丁目12番8号"
+      },
+      "area": {
+        "areaCode": "133639;新島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133639+1+UM31",
+        "organization": "9000020133639",
+        "compartment": "さわやか健康センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "新島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "こども家庭センター",
+        "shortName": "子ども家庭支援センター"
+      },
+      "summary": "新島村の【子ども家庭支援センター】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+      "description": "主な事業内容\n総合相談\n18歳までのすべての子どもと家庭に関する相談に応じます。\n秘密は守られますので、安心してご相談ください。\n虐待の予防とネットワークづくり\n新島村要保護児童対策地域協議会を設置し、支援を必要とする子どもと家庭を関係機関と連携しながら支援します。\n家庭訪問\n乳幼児のいる家庭を訪問しています。\n子育て広場\n対象者\n0歳～3歳の未就園児親子\n日時\n不定期開催　9時30分～11時\n場所\n新島保育園・式根島保育園",
+      "target": {
+        "targetPersons": "18歳までのすべての子どもと家庭",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "18歳までのすべての子どもと家庭"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.niijima.com/facility/health-center_clinic/sawayakakenkou-center/kodomokazokushien.html",
+        "title": "子ども家庭支援センター"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "新島村さわやか健康センター",
+        "contactPhone": "04992-5-1856",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1000402",
+        "contactAddress": "東京都新島村本村3丁目12番8号"
+      },
+      "area": {
+        "areaCode": "133639;新島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133639+1+UM799",
+        "organization": "9000020133639",
+        "compartment": "新島村さわやか健康センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2025/02/12",
+        "updater": "新島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第10条の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "幼児教育・保育施設の保育料について",
+        "shortName": "保育料基準額一覧"
+      },
+      "summary": "子ども・子育て支援新制度による給付を受ける幼稚園や認可保育園、認定こども園、地域型保育事業（小規模保育・家庭的保育・居宅訪問型保育・事業所内保育）の保育料（利用者負担額）は、国が定めた額を上限として、認定区分ごとに、世帯の所得状況、利用時間（標準時間・短時間）などに応じて定めた額となります。\nそれ以外の私学助成の幼稚園や認可外保育施設などの利用料は、施設ごとに定めた額になります。",
+      "description": "保育料基準額一覧\nホーム > 施設案内 > 保育所 > 保育料基準額一覧\n\n保育料基準額一覧\n|各月初日の入所児童の属する世帯の階層区分|<|<|徴収金基準額（月額）|<|<|\n|階層区分|定義|<|3歳未満|3歳児|4歳以上|\n|:----|:----|:----|:----|:----|:----|\n|第1階層|生活保護法による被保護者である保育給付認定保護者世帯又は児童福祉法第6条の4第1項に規定する里親である保育給付認定保護者世帯|<|0円|0円|0円|\n|第2階層|第1階層を除き、当年度（4月～8月までの場合にあっては前年度）分の市町村民税が非課税の保育給付認定保護者世帯|<|0円|0円|0円|\n|第3階層|第1階層を除き、当年度（4月～8月までの場合にあっては前年度）分の市町村民税課税世帯であって、その村民税の所得割課税額が次の区分に該当する保育給付認定保護者世帯|48,600円未満|13,000円|0円|0円|\n|第4階層|^|48,600円以上97,000円未満|20,000円|0円|0円|\n|第5階層|^|97,000円以上169,000円未満|35,000円|0円|0円|\n|第6階層|^|169,000円以上301,000円未満|50,000円|0円|0円|\n|第7階層|^|301,000円以上397,000円未満|60,000円|0円|0円|\n|第8階層|^|397,000円以上|70,000円|0円|0円|\nご注意\n第2階層から第8階層であって、同一世帯から2人以上の児童が保育所などを利用しているときは、\n 年齢の一番高い児童が表の金額となり、次に年齢の高い児童は表の金額の50％となります。\n\n第2階層から第8階層までの3人以上の多子世帯であって、年収360万円未満の世帯については、\n児童の年齢に関係なく第2子については表の金額の50％、第3子以降は0円となります。\n\n階層区分の基礎となる課税額は、住宅借入金などの特別控除、住宅耐震改修などの特別控除、配当控除、外国税額控除、\n電子証明書などの控除、寄付金控除、寄付金税額控除などの適用はありません。\n\n保育料は、4～8月までは前年度の住民税額により決定、9～3月までは今年度の住民税額により決定します。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": "保育料基準額一覧\n|各月初日の入所児童の属する世帯の階層区分|<|<|徴収金基準額（月額）|<|<|\n|階層区分|定義|<|3歳未満|3歳児|4歳以上|\n|:----|:----|:----|:----|:----|:----|\n|第1階層|生活保護法による被保護者である保育給付認定保護者世帯又は児童福祉法第6条の4第1項に規定する里親である保育給付認定保護者世帯|<|0円|0円|0円|\n|第2階層|第1階層を除き、当年度（4月～8月までの場合にあっては前年度）分の市町村民税が非課税の保育給付認定保護者世帯|<|0円|0円|0円|\n|第3階層|第1階層を除き、当年度（4月～8月までの場合にあっては前年度）分の市町村民税課税世帯であって、その村民税の所得割課税額が次の区分に該当する保育給付認定保護者世帯|48,600円未満|13,000円|0円|0円|\n|第4階層|^|48,600円以上97,000円未満|20,000円|0円|0円|\n|第5階層|^|97,000円以上169,000円未満|35,000円|0円|0円|\n|第6階層|^|169,000円以上301,000円未満|50,000円|0円|0円|\n|第7階層|^|301,000円以上397,000円未満|60,000円|0円|0円|\n|第8階層|^|397,000円以上|70,000円|0円|0円|\n",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.niijima.com/facility/nursery-school/hoikuryou.html",
+        "title": "保育料基準額一覧"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "新島村役場民生課福祉介護係",
+        "contactPhone": "04992-5-0243",
+        "contactEx": "107",
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1000402",
+        "contactAddress": "東京都新島村本村1丁目1番1号"
+      },
+      "area": {
+        "areaCode": "133639;新島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133639+1+UM803",
+        "organization": "9000020133639",
+        "compartment": "民生課福祉介護係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "新島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "子ども・子育て支援法、児童福祉法",
+        "regulationArticle": "第27条～第30条の2、第24条"
+      },
+      "tag": {
+        "categoryCode": [
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "認可保育所・認定こども園（保育園枠）一覧",
+        "shortName": "新島村立保育園"
+      },
+      "summary": "保育園とは、保護者が仕事や病気などのために、家庭で充分に保育することができない子どもを、保護者に代わって保育することを目的とした児童福祉施設で、法的には保育所といいます。\n保育所（保育園）のうち、国が定めた設定基準をクリアし、都道府県知事（政令市・中核市では市長）に認可された保育園を「認可保育所」といいます。\n認可保育所には公立の保育園と私立の保育園があります。\n以下は、新島村内の認可保育所（保育園）および認定こども園の保育園枠の一覧です。",
+      "description": "新島村立保育園\nホーム> 施設案内 > 保育所> 新島村立保育園\n\n新島保育園\n住所\n〒100-0402\n\n東京都新島村本村4丁目11番14号\n\n電話番号\n04992-5-0544\n\n式根島保育園\n住所\n〒100-0402\n\n東京都新島村式根島246番\n\n電話番号\n04992-7-0136",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.niijima.com/facility/nursery-school/2013-1209-1116-96.html",
+        "title": "新島村立保育園"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "新島村役場民生課福祉介護係",
+        "contactPhone": "04992-5-0243",
+        "contactEx": "107",
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1000402",
+        "contactAddress": "東京都新島村本村1丁目1番1号"
+      },
+      "area": {
+        "areaCode": "133639;新島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133639+1+UM89",
+        "organization": "9000020133639",
+        "compartment": "民生課福祉介護係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "新島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

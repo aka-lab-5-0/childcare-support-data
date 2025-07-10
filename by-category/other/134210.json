@@ -1,0 +1,131 @@
+{
+  "version": "2025-07-10T02:38:54.146Z",
+  "areaCode": "134210",
+  "areaName": "小笠原村",
+  "category": "other",
+  "count": 1,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "母親学級・両親学級"
+      },
+      "summary": "妊娠・出産についての知識や心構え、出産準備や赤ちゃんのお世話などについて学ぶことができます。",
+      "description": "母親学級・両親学級\n妊娠・出産についての知識や心構え、出産準備や赤ちゃんのお世話などについて学ぶことができます。ママ・パパ同士の出会いのきっかけにもなります。父島では概ね1~2か月に1回程度、母島では個別に日程を決めて開催しています。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠・出産についての知識や心構え、出産準備や赤ちゃんのお世話などについて学ぶことができます。ママ・パパ同士の出会いのきっかけにもなります。父島では概ね1~2か月に1回程度、母島では個別に日程を決めて開催しています。",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠・出産についての知識や心構え、出産準備や赤ちゃんのお世話などについて学ぶことができます。ママ・パパ同士の出会いのきっかけにもなります。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小笠原村村民課福祉係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/syussan/",
+        "title": "出産を予定されている方へ"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村村民課福祉係",
+        "contactPhone": "04998-2-3939",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+        "zipCode": "1002101",
+        "contactAddress": "東京都小笠原村父島字西町"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+1+UM31",
+        "organization": "6000020134210",
+        "compartment": "小笠原村村民課福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

@@ -1,0 +1,2477 @@
+{
+  "version": "2025-07-10T02:38:54.134Z",
+  "areaCode": "132152",
+  "areaName": "国立市",
+  "category": "medical",
+  "count": 19,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦訪問",
+        "shortName": "こんにちは赤ちゃん訪問事業"
+      },
+      "summary": "国立市で安心して子育てしていけるよう生後４か月までの乳児がいる全てのご家庭を訪問し、育児に関する情報提供などを実施する事業です。",
+      "description": "こんにちは赤ちゃん訪問事業\nこんにちは赤ちゃん訪問事業とは、国立市で安心して子育てしていけるよう生後4か月までの乳児がいるすべてのご家庭を訪問し、育児に関する情報提供などを実施する事業です。\n\n赤ちゃんの体重測定や発育状況の確認、育児相談、授乳相談などをご希望の場合は、新生児訪問をご利用ください。\n\n新生児訪問\n\n対象\n生後4か月までの乳児がいるすべてのご家庭\n\n訪問内容\n訪問指導員(保健師・助産師・看護師)が訪問し、子育ての不安や悩みをお聞きし、子育て支援に関する情報提供等を行うとともに、楽しい子育てができるよう育児や産後の生活などの相談をお受けいたします。\n(注)授乳に関するご相談や体重測定をご希望の方は、新生児訪問で対応させて頂きます。\n\n最近、市の新生児訪問を装った、訪問販売等が見受けられますので、ご注意ください。職員(保健師、助産師、看護師)が訪問する際は、「訪問日時のお約束」と「IDカードの提示」があります。",
+      "target": {
+        "targetPersons": "生後4か月までの乳児がいるすべてのご家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後4か月"
+      },
+      "support": {
+        "description": "訪問指導員(保健師・助産師・看護師)が訪問し、子育ての不安や悩みをお聞きし、子育て支援に関する情報提供等を行うとともに、楽しい子育てができるよう育児や産後の生活などの相談をお受けいたします。\n(注)授乳に関するご相談や体重測定をご希望の方は、新生児訪問で対応させて頂きます。\n\n最近、市の新生児訪問を装った、訪問販売等が見受けられますので、ご注意ください。職員(保健師、助産師、看護師)が訪問する際は、「訪問日時のお約束」と「IDカードの提示」があります。",
+        "monetarySupport": null,
+        "materiallySupport": "訪問指導員(保健師・助産師・看護師)が訪問し、子育ての不安や悩みをお聞きし、子育て支援に関する情報提供等を行うとともに、楽しい子育てができるよう育児や産後の生活などの相談をお受けいたします。\n(注)授乳に関するご相談や体重測定をご希望の方は、新生児訪問で対応させて頂きます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec04/gyomu/0248/0129/1461061739517.html",
+        "title": "こんにちは赤ちゃん訪問事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+        "contactPhone": "042-574-3311",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/54?page_no=2082",
+        "contactComment": "ファクス：042-574-3930",
+        "zipCode": "1860003",
+        "contactAddress": "国立市富士見台3-16-5(保健センター内)"
+      },
+      "area": {
+        "areaCode": "132152;国立市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132152+1+UM11",
+        "organization": "1000020132152",
+        "compartment": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-30",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "国立市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条（妊産婦の訪問指導等）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て支援拠点・地域子育て支援センター",
+        "shortName": "地域子育て支援拠点事業「つちのこひろば」"
+      },
+      "summary": "国立市では市内のつちのこひろばを地域子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+      "description": "子育てひろば\n\n子ども家庭支援センターが移転しました!!\n平成15年より長らく皆様にご利用いただいていた国立市子ども家庭支援センターが、下記のとおり機能移転しました。\n\n子育てひろば\n令和5年4月1日(土曜日)から、矢川プラス(富士見台4-17-65)に移転して、社会福祉法人くにたち子どもの夢・未来事業団が「ここすきひろば」として運営していきます。\n\n社会福祉法人くにたち子どもの夢・未来事業団;https://www.kunitachi-j.or.jp/\n\nここすきひろば;https://yagawa-plus.jp/facility/kokosuki_hiroba/\n\nその他の遊び場☆詳細については担当部署にお問い合わせください\n地域子育て支援拠点事業「つちのこひろば」\n「つちのこひろば」は、新型コロナウイルス感染症拡大防止のため、当面の間、利用時間の制限を設けて開催しております。\n\n国立市 地域子育て支援拠点事業 つちのこひろば;https://hatakenbo.org/tutinokohiroba\n\nカンガルー広場\n2歳を過ぎたら、おはようコケッコー\nおはようコケッコー;https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div01/Sec01/gyomu/0252/0255/1461061680653.html\n\n社会福祉協議会主催「かるがも」\n関連情報\n子ども家庭支援センターへのアクセス情報は、下記リンクをごらんください。\n\n子ども家庭支援センター;https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec03/index.html",
+      "target": {
+        "targetPersons": "乳幼児（主として概ね3歳未満）及びその保護者",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "乳幼児（主として概ね3歳未満）及びその保護者"
+      },
+      "support": {
+        "description": "国立市では市内のつちのこひろばを地域子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+        "monetarySupport": null,
+        "materiallySupport": "国立市では市内のつちのこひろばを地域子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。"
+      },
+      "cost": "0",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "10:00",
+        "toYMD": null,
+        "toHM": "15:30",
+        "conditions": "令和6年度は木･金･土曜日及び出張ひろば(城山公園)を月曜日(10:00～15:00）に開所"
+      },
+      "implementationPlace": {
+        "implementationName": "つちのこや（出張ひろばは「城山公園」）",
+        "implementationAddress": "国立市谷保5119（出張ひろばは「城山公園」国立市泉5-21-20）"
+      },
+      "capacity": "概ね10組",
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "15:30",
+        "condiutilizationConditionstions": "出張ひろば(城山公園)は10:00～15:00"
+      },
+      "specificDate": null,
+      "holiday": "日・火・水曜日及び年末年始",
+      "utilization": "開所日時に直接現地へお越しください。ご不明な点はお電話ください。",
+      "procedurePersons": "乳幼児（主として概ね3歳未満）及びその保護者",
+      "procedureMethod": "開所日時に直接現地へお越しください。ご不明な点はお電話ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "10:00",
+        "toYMD": null,
+        "toHM": "15:30",
+        "conditions": "令和6年度は木･金･土曜日及び出張ひろば(城山公園)を月曜日に開所"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "つちのこひろば（国立市谷保5119）電話042-505-7200（月･木･金･土曜日）（外部リンク）;https://k-nouennokai.org/tutinokohiroba/",
+      "relatedLink": [
+        {
+          "uri": "https://hatakenbo.org/tutinokohiroba",
+          "title": "おはようコケッコー"
+        },
+        {
+          "uri": "https://www.kunitachi-j.or.jp/",
+          "title": "社会福祉法人くにたち子どもの夢・未来事業団"
+        },
+        {
+          "uri": "https://hatakenbo.org/tutinokohiroba",
+          "title": "国立市 地域子育て支援拠点事業 つちのこひろば"
+        },
+        {
+          "uri": "https://yagawa-plus.jp/facility/kokosuki_hiroba/",
+          "title": "ここすきひろば"
+        },
+        {
+          "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div01/Sec01/gyomu/0252/0255/1461061680653.html",
+          "title": "子ども家庭支援センター"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec03/gyomu/0237/0239/1461061679584.html",
+        "title": "子育てひろば"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子育て支援課 子ども家庭支援センター",
+        "contactPhone": "042-573-0192",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/53?page_no=1722",
+        "contactComment": "ファクス：042-576-2283",
+        "zipCode": "1868501",
+        "contactAddress": "国立市富士見台2-47-1 国立市役所 1階(20番窓口)"
+      },
+      "area": {
+        "areaCode": "132152;国立市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132152+1+UM110",
+        "organization": "1000020132152",
+        "compartment": "子ども家庭部 子育て支援課 子ども家庭支援センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-09-29",
+      "odInformation": {
+        "updateDate": "2024-07-08",
+        "updater": "国立市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第6項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て広場",
+        "shortName": "ここすきひろば"
+      },
+      "summary": "国立市子ども家庭支援センターの子育てひろば「ここすきひろば」は、小学校就学前のお子さんが安心して遊べるスペースがあり、子育て中の親子が気軽に集い、仲間づくりを通して子育てに関する相談や情報交換等を行う機会を提供しています。また、お子さんの年齢に応じた各種イベントなども行っています。",
+      "description": "子育てひろば\n\n子ども家庭支援センターが移転しました!!\n平成15年より長らく皆様にご利用いただいていた国立市子ども家庭支援センターが、下記のとおり機能移転しました。\n\n子育てひろば\n令和5年4月1日(土曜日)から、矢川プラス(富士見台4-17-65)に移転して、社会福祉法人くにたち子どもの夢・未来事業団が「ここすきひろば」として運営していきます。\n\n社会福祉法人くにたち子どもの夢・未来事業団;https://www.kunitachi-j.or.jp/\n\nここすきひろば;https://yagawa-plus.jp/facility/kokosuki_hiroba/\n\nその他の遊び場☆詳細については担当部署にお問い合わせください\n地域子育て支援拠点事業「つちのこひろば」\n「つちのこひろば」は、新型コロナウイルス感染症拡大防止のため、当面の間、利用時間の制限を設けて開催しております。\n\n国立市 地域子育て支援拠点事業 つちのこひろば;https://hatakenbo.org/tutinokohiroba\n\nカンガルー広場\n2歳を過ぎたら、おはようコケッコー\nおはようコケッコー;https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div01/Sec01/gyomu/0252/0255/1461061680653.html\n\n社会福祉協議会主催「かるがも」\n関連情報\n子ども家庭支援センターへのアクセス情報は、下記リンクをごらんください。\n\n子ども家庭支援センター;https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec03/index.html",
+      "target": {
+        "targetPersons": "乳幼児（主として概ね3歳未満）及びその保護者",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "乳幼児（主として概ね3歳未満）及びその保護者"
+      },
+      "support": {
+        "description": "国立市子ども家庭支援センターの子育てひろば「ここすきひろば」は、小学校就学前のお子さんが安心して遊べるスペースがあり、子育て中の親子が気軽に集い、仲間づくりを通して子育てに関する相談や情報交換等を行う機会を提供しています。また、お子さんの年齢に応じた各種イベントなども行っています。",
+        "monetarySupport": null,
+        "materiallySupport": "国立市子ども家庭支援センターの子育てひろば「ここすきひろば」は、小学校就学前のお子さんが安心して遊べるスペースがあり、子育て中の親子が気軽に集い、仲間づくりを通して子育てに関する相談や情報交換等を行う機会を提供しています。また、お子さんの年齢に応じた各種イベントなども行っています。"
+      },
+      "cost": "0",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "09:30",
+        "toYMD": null,
+        "toHM": "16:30",
+        "conditions": "木曜日は閉所"
+      },
+      "implementationPlace": {
+        "implementationName": "矢川プラス",
+        "implementationAddress": "富士見台4-17-65"
+      },
+      "capacity": "概ね50組",
+      "utilizationTime": {
+        "fromHM": "09:30",
+        "toHM": "16:30",
+        "condiutilizationConditionstions": "木曜日以外は9:30～16:30"
+      },
+      "specificDate": "木曜日は閉所",
+      "holiday": "木曜日は閉所",
+      "utilization": "開所日時に直接現地へお越しください。ご不明な点はお電話ください。",
+      "procedurePersons": "乳幼児（主として概ね3歳未満）及びその保護者",
+      "procedureMethod": "開所日時に直接現地へお越しください。ご不明な点はお電話ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "09:30",
+        "toYMD": null,
+        "toHM": "16:30",
+        "conditions": "木曜日は閉所"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "ここすきひろば（国立市富士見台4-17-65）電話042-505-6552（外部リンク）https://yagawa-plus.jp/facility/kokosuki_hiroba/",
+      "relatedLink": [
+        {
+          "uri": "https://yagawa-plus.jp/facility/kokosuki_hiroba/",
+          "title": "ここすきひろば"
+        },
+        {
+          "uri": "https://www.kunitachi-j.or.jp/",
+          "title": "社会福祉法人くにたち子どもの夢・未来事業団"
+        },
+        {
+          "uri": "https://hatakenbo.org/tutinokohiroba",
+          "title": "国立市 地域子育て支援拠点事業 つちのこひろば"
+        },
+        {
+          "uri": "https://hatakenbo.org/tutinokohiroba",
+          "title": "おはようコケッコー"
+        },
+        {
+          "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div01/Sec01/gyomu/0252/0255/1461061680653.html",
+          "title": "子ども家庭支援センター"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec03/gyomu/0237/0239/1461061679584.html",
+        "title": "子育てひろば"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子育て支援課 子ども家庭支援センター",
+        "contactPhone": "042-573-0192",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/53?page_no=1722",
+        "contactComment": "ファクス：042-576-2283",
+        "zipCode": "1868501",
+        "contactAddress": "国立市富士見台2-47-1 国立市役所 1階(20番窓口)"
+      },
+      "area": {
+        "areaCode": "132152;国立市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132152+1+UM112",
+        "organization": "1000020132152",
+        "compartment": "子ども家庭部 子育て支援課 子ども家庭支援センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-09-29",
+      "odInformation": {
+        "updateDate": "2024-07-08",
+        "updater": "国立市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第10条の2第1項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "国立市の子育てに関する相談",
+        "shortName": "育児相談"
+      },
+      "summary": "乳幼児や産婦の健康について、栄養士、保健師、助産師による相談です。歯科衛生士による歯みがき相談等もしています。身体測定のみをご希望の方もご予約いただけます。",
+      "description": "育児に関する相談\n\n育児相談\n乳幼児や産婦の健康について、栄養士、保健師、助産師による相談です。歯科衛生士による歯みがき相談等もしています。身体測定のみをご希望の方もご予約いただけます。\n\n日程・場所等\n場所 ： 保健センター(当日の受付は3階です) 完全予約制です\n内容：身体測定・保健師、管理栄養士、助産師による相談\n\n持ち物 ： 母子健康手帳・バスタオル(乳児のみ)・替えオムツ\n\n対象：乳幼児の栄養や育児、授乳等に関する相談のある方\n\n定員： 相談あり 35組 身体計測のみ 55組\n\n申込期間：予約開始日から育児相談前日までに子ども保健・発達支援係まで電話でお申込ください。 (申込先着順)\n\n(注)ベビー歯みがきステップ・離乳食フェアは内容を変更して、育児相談予約者のみを対象として実施します。ご希望の方は育児相談をご予約ください。\n\n令和6年度育児相談日程 (PDFファイル: 453.8KB);https://www.city.kunitachi.tokyo.jp/material/files/group/44/R6ikujisoudan.pdf\n\nこども相談(心理相談員による)\n言葉が遅いかな？かんしゃくがひどくて大変・・・。などお子さんの発達に関することや子どもとの接し方などについて心理相談員が相談に応じます。\n相談は予約制です。\n\n予約は子育て支援課子ども保健・発達支援係(電話：574-3311)まで\n\n東京都子ども医療ガイド\n病気やケア、育児などについての基礎知識を提供しています。情報の主な内容は\n\n病気やケガの対処のしかた\n病気の基礎知識\n子育てアドバイス です。\n東京都子ども医療ガイド(東京都福祉保健局ホームページ) (外部リンク);https://www.guide.metro.tokyo.lg.jp/\n\n電話相談\n保健師、栄養士がご相談に応じます。\n\n育児に関すること、お子さん、お母さん、ご家族の健康に関することなど、少しでもご不安や疑問があればお電話ください。\n\n受付時間 平日8：30から17：00\n\n電話番号 042-574-3311(子育て支援課子ども保健・発達支援係)",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "育児相談\n乳幼児や産婦の健康について、栄養士、保健師、助産師による相談です。歯科衛生士による歯みがき相談等もしています。身体測定のみをご希望の方もご予約いただけます。\n\n日程・場所等\n場所 ： 保健センター(当日の受付は3階です) 完全予約制です\n内容：身体測定・保健師、管理栄養士、助産師による相談\n\n持ち物 ： 母子健康手帳・バスタオル(乳児のみ)・替えオムツ\n\n対象：乳幼児の栄養や育児、授乳等に関する相談のある方\n\n定員： 相談あり 35組 身体計測のみ 55組\n\n申込期間：予約開始日から育児相談前日までに子ども保健・発達支援係まで電話でお申込ください。 (申込先着順)\n\n(注)ベビー歯みがきステップ・離乳食フェアは内容を変更して、育児相談予約者のみを対象として実施します。ご希望の方は育児相談をご予約ください。\n\n令和6年度育児相談日程 (PDFファイル: 453.8KB);https://www.city.kunitachi.tokyo.jp/material/files/group/44/R6ikujisoudan.pdf\n\nこども相談(心理相談員による)\n言葉が遅いかな？かんしゃくがひどくて大変・・・。などお子さんの発達に関することや子どもとの接し方などについて心理相談員が相談に応じます。\n相談は予約制です。\n\n予約は子育て支援課子ども保健・発達支援係(電話：574-3311)まで\n\n東京都子ども医療ガイド\n病気やケア、育児などについての基礎知識を提供しています。情報の主な内容は\n\n病気やケガの対処のしかた\n病気の基礎知識\n子育てアドバイス です。\n東京都子ども医療ガイド(東京都福祉保健局ホームページ) (外部リンク);https://www.guide.metro.tokyo.lg.jp/\n\n電話相談\n保健師、栄養士がご相談に応じます。\n\n育児に関すること、お子さん、お母さん、ご家族の健康に関することなど、少しでもご不安や疑問があればお電話ください。\n\n受付時間 平日8：30から17：00\n\n電話番号 042-574-3311(子育て支援課子ども保健・発達支援係)",
+        "monetarySupport": null,
+        "materiallySupport": "育児相談\n乳幼児や産婦の健康について、栄養士、保健師、助産師による相談です。歯科衛生士による歯みがき相談等もしています。身体測定のみをご希望の方もご予約いただけます。\n\n日程・場所等\n場所 ： 保健センター(当日の受付は3階です) 完全予約制です\n内容：身体測定・保健師、管理栄養士、助産師による相談\n\n持ち物 ： 母子健康手帳・バスタオル(乳児のみ)・替えオムツ\n\n対象：乳幼児の栄養や育児、授乳等に関する相談のある方\n\n定員： 相談あり 35組 身体計測のみ 55組\n\n申込期間：予約開始日から育児相談前日までに子ども保健・発達支援係まで電話でお申込ください。 (申込先着順)\n\n(注)ベビー歯みがきステップ・離乳食フェアは内容を変更して、育児相談予約者のみを対象として実施します。ご希望の方は育児相談をご予約ください。\n\n令和6年度育児相談日程 (PDFファイル: 453.8KB);https://www.city.kunitachi.tokyo.jp/material/files/group/44/R6ikujisoudan.pdf\n\nこども相談(心理相談員による)\n言葉が遅いかな？かんしゃくがひどくて大変・・・。などお子さんの発達に関することや子どもとの接し方などについて心理相談員が相談に応じます。\n相談は予約制です。\n\n予約は子育て支援課子ども保健・発達支援係(電話：574-3311)まで\n\n東京都子ども医療ガイド\n病気やケア、育児などについての基礎知識を提供しています。情報の主な内容は\n\n病気やケガの対処のしかた\n病気の基礎知識\n子育てアドバイス です。\n東京都子ども医療ガイド(東京都福祉保健局ホームページ) (外部リンク);https://www.guide.metro.tokyo.lg.jp/\n\n電話相談\n保健師、栄養士がご相談に応じます。\n\n育児に関すること、お子さん、お母さん、ご家族の健康に関することなど、少しでもご不安や疑問があればお電話ください。\n\n受付時間 平日8：30から17：00\n\n電話番号 042-574-3311(子育て支援課子ども保健・発達支援係)"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "育児相談\n乳幼児や産婦の健康について、栄養士、保健師、助産師による相談です。歯科衛生士による歯みがき相談等もしています。身体測定のみをご希望の方もご予約いただけます。\n\n日程・場所等\n場所 ： 保健センター(当日の受付は3階です) 完全予約制です\n内容：身体測定・保健師、管理栄養士、助産師による相談\n\n持ち物 ： 母子健康手帳・バスタオル(乳児のみ)・替えオムツ\n\n対象：乳幼児の栄養や育児、授乳等に関する相談のある方\n\n定員： 相談あり 35組 身体計測のみ 55組\n\n申込期間：予約開始日から育児相談前日までに子ども保健・発達支援係まで電話でお申込ください。 (申込先着順)\n\n(注)ベビー歯みがきステップ・離乳食フェアは内容を変更して、育児相談予約者のみを対象として実施します。ご希望の方は育児相談をご予約ください。\n\n令和6年度育児相談日程 (PDFファイル: 453.8KB);https://www.city.kunitachi.tokyo.jp/material/files/group/44/R6ikujisoudan.pdf\n\nこども相談(心理相談員による)\n言葉が遅いかな？かんしゃくがひどくて大変・・・。などお子さんの発達に関することや子どもとの接し方などについて心理相談員が相談に応じます。\n相談は予約制です。\n\n予約は子育て支援課子ども保健・発達支援係(電話：574-3311)まで\n\n東京都子ども医療ガイド\n病気やケア、育児などについての基礎知識を提供しています。情報の主な内容は\n\n病気やケガの対処のしかた\n病気の基礎知識\n子育てアドバイス です。\n東京都子ども医療ガイド(東京都福祉保健局ホームページ) (外部リンク);https://www.guide.metro.tokyo.lg.jp/\n\n電話相談\n保健師、栄養士がご相談に応じます。\n\n育児に関すること、お子さん、お母さん、ご家族の健康に関することなど、少しでもご不安や疑問があればお電話ください。\n\n受付時間 平日8：30から17：00\n\n電話番号 042-574-3311(子育て支援課子ども保健・発達支援係)"
+      },
+      "implementationPlace": {
+        "implementationName": "保健センター",
+        "implementationAddress": "国立市富士見台3-16-5"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": " 母子健康手帳・バスタオル(乳児のみ)・替えオムツ",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "子ども保健・発達支援係",
+      "relatedLink": [
+        {
+          "uri": "https://www.guide.metro.tokyo.lg.jp/",
+          "title": "東京都子ども医療ガイド(東京都福祉保健局ホームページ) (外部リンク)"
+        },
+        {
+          "uri": "https://www.city.kunitachi.tokyo.jp/material/files/group/44/R6ikujisoudan.pdf",
+          "title": "令和6年度育児相談日程 (PDFファイル: 453.8KB)"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kunitachi.tokyo.jp/kosodate/kosodate/2/6655.html",
+        "title": "育児に関する相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+        "contactPhone": "042-574-3311",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/54?page_no=6655",
+        "contactComment": "ファクス：042-574-3930",
+        "zipCode": "1860003",
+        "contactAddress": "国立市富士見台3-16-5(保健センター内)"
+      },
+      "area": {
+        "areaCode": "132152;国立市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132152+1+UM119",
+        "organization": "1000020132152",
+        "compartment": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-22",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "国立市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+        "shortName": "こんにちは赤ちゃん訪問事業"
+      },
+      "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+      "description": "こんにちは赤ちゃん訪問事業とは、国立市で安心して子育てしていけるよう生後4か月までの乳児がいるすべてのご家庭を訪問し、育児に関する情報提供などを実施する事業です。\n赤ちゃんの体重測定や発育状況の確認、育児相談、授乳相談などをご希望の場合は、新生児訪問をご利用ください。\n新生児訪問;https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec04/gyomu/0248/0129/1461061739672.html",
+      "target": {
+        "targetPersons": "生後4か月までの乳児がいるすべてのご家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "訪問指導員(保健師・助産師・看護師)が訪問し、子育ての不安や悩みをお聞きし、子育て支援に関する情報提供等を行うとともに、楽しい子育てができるよう育児や産後の生活などの相談をお受けいたします。\n(注)授乳に関するご相談や体重測定をご希望の方は、新生児訪問で対応させて頂きます。\n最近、市の新生児訪問を装った、訪問販売等が見受けられますので、ご注意ください。職員(保健師、助産師、看護師)が訪問する際は、「訪問日時のお約束」と「IDカードの提示」があります。",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec04/gyomu/0248/0129/1461061739517.html",
+        "title": "こんにちは赤ちゃん訪問事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+        "contactPhone": "042-574-3311",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/54?page_no=1744",
+        "contactComment": "FAX：042-574-3930,施設のページ;https://www.city.kunitachi.tokyo.jp/kurashi/shisetsu/5373.html",
+        "zipCode": "1860003",
+        "contactAddress": "国立市富士見台3-16-5(保健センター内)"
+      },
+      "area": {
+        "areaCode": "132152;国立市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132152+1+UM14",
+        "organization": "1000020132152",
+        "compartment": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023/06/30",
+      "odInformation": {
+        "updateDate": "2025/02/26",
+        "updater": "国立市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第21条の10の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産後ケア事業",
+        "shortName": "産後ケア事業"
+      },
+      "summary": "出産を終えた退院後、お母さんと赤ちゃんの生活リズムづくりや、心身の安定を図るため、施設においてショートステイ（宿泊）やデイサービス（日帰り）で、助産師などが母子の心身ケアと育児サポートを行います。",
+      "description": "産後ケア事業\n国立市では、安心して産後を過ごせるように、委託先施設やご自宅で心身のケアや育児支援を行う産後ケア事業を実施しています。出産後、「自宅に帰っても手伝ってくれる人がいなくて心配」「赤ちゃんのお世話の仕方が不安」「お産と育児疲れから体調がよくない」などの不安を抱えている方は、ぜひご利用ください。\n\n令和6年度国立市産後ケア事業のご案内 (PDFファイル: 597.7KB) https://www.city.kunitachi.tokyo.jp/material/files/group/44/R6SANGOKEAannai.pdf\n\n利用できる方\n下記1から5のすべてに当てはまる、産婦と生後4日目以降満5か月未満の赤ちゃん\n\n(居宅訪問型は出産後1年未満)\n\n1 国立市に住民登録のある方\n\n2 産後の疲れや育児に不安を感じている方\n\n3 ご家族などから産後の家事・育児等の支援が受けられない方\n\n4 お子さんとお母さんともに、感染症状や医療介入(服薬等)の必要のない方\n\n5 国立市が実施する新生児訪問を受けた方\n\n利用内容・料金等\n短期入所型・通所型\n矢島助産院 国分寺市東元町1-40-7\n\n矢島助産院ホームページ(外部リンク);https://yajima-jyosanin.net/\n\n通所型のみ\n府中の森土屋産婦人科 府中市府中町3-10-9\n\n府中の森土屋産婦人科ホームページ(外部リンク);https://www.tsuchiyaclinic.com/\n\n新家産婦人科 東京都国分寺市光町1-38-11\n\n新家産婦人科ホームページ(外部リンク);https://anis.shinya-wc.jp/\n\n内野産婦人科小児科 東京都国立市東1-8-6\n\n内野産婦人科小児科ホームページ(外部リンク);https://www.medical-center.co.jp/uchino.php\n\n訪問型\n助産師がご自宅に訪問します。\n\n利用申請\n原則として、妊娠16週(4か月)から利用日の1週間前までに申請が必要です。\n\n申請時に保健師が面談し、心配なことや状況をお伺いします。\n\n事前に下記までお電話ください。\n\n妊娠中の申請：子育て支援係 電話042-576-2105(直通)市役所1階20番窓口\n\n産後の申請：子ども保健・発達支援係 電話042-574-3311 保健センター内\n\n利用の流れ\n1 利用申請\n申請時に保健師が面談します。(要予約)\n\n申請に必要なもの\n・国立市産後ケア事業利用登録申請書\n\n・国立市産後ケア事業利用登録アンケート\n\n(下記よりダウンロード可、申請窓口にもあります。)\n\n・母子健康手帳\n\n・本人確認書類(マイナンバーカード、運転免許証等)\n\n・必要に応じて非課税証明書、生活保護受給証明書\n\n国立市産後ケア事業利用登録申請書 (PDFファイル: 96.4KB);https://www.city.kunitachi.tokyo.jp/material/files/group/44/sanngocaresinnseisho.pdf\n\n国立市産後ケア事業利用登録アンケート (PDFファイル: 325.2KB);https://www.city.kunitachi.tokyo.jp/material/files/group/44/sanngocareanke-to.pdf\n\n2登録決定\n登録申請後に『利用決定通知書』を送付します。\n\n3利用予約\n短期入所型・通所型\n各施設に各自で電話予約。\n\n利用日が決定したら子ども保健・発達支援係へご連絡ください。\n\n居宅訪問型\n子ども保健・発達支援係に電話予約。\n\n4利用開始・お支払い\n短期入所型・通所型は予約当日に各自で予約した施設へ。\n\n訪問型は予約時間に助産師が訪問します。\n\n利用料金は、直接施設もしくは訪問した助産師にお支払いください。\n\n利用者都合によるキャンセルはキャンセル料が発生することがあります。\n\nキャンセルした場合でも利用回数としてカウントする場合がありますのでご了承ください。",
+      "target": {
+        "targetPersons": "利用できる方\n下記1から5のすべてに当てはまる、産婦と生後4日目以降満5か月未満の赤ちゃん\n\n(居宅訪問型は出産後1年未満)\n\n1 国立市に住民登録のある方\n\n2 産後の疲れや育児に不安を感じている方\n\n3 ご家族などから産後の家事・育児等の支援が受けられない方\n\n4 お子さんとお母さんともに、感染症状や医療介入(服薬等)の必要のない方\n\n5 国立市が実施する新生児訪問を受けた方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後4日目以降満5か月未満の赤ちゃん"
+      },
+      "support": {
+        "description": "利用内容・料金等\n短期入所型・通所型\n矢島助産院 国分寺市東元町1-40-7\n\n矢島助産院ホームページ(外部リンク);https://yajima-jyosanin.net/\n\n通所型のみ\n府中の森土屋産婦人科 府中市府中町3-10-9\n\n府中の森土屋産婦人科ホームページ(外部リンク);https://www.tsuchiyaclinic.com/\n\n新家産婦人科 東京都国分寺市光町1-38-11\n\n新家産婦人科ホームページ(外部リンク);https://anis.shinya-wc.jp/\n\n内野産婦人科小児科 東京都国立市東1-8-6\n\n内野産婦人科小児科ホームページ(外部リンク);https://www.medical-center.co.jp/uchino.php\n\n訪問型\n助産師がご自宅に訪問します。",
+        "monetarySupport": null,
+        "materiallySupport": "利用内容・料金等\n短期入所型・通所型\n矢島助産院 国分寺市東元町1-40-7\n\n矢島助産院ホームページ(外部リンク);https://yajima-jyosanin.net/\n\n通所型のみ\n府中の森土屋産婦人科 府中市府中町3-10-9\n\n府中の森土屋産婦人科ホームページ(外部リンク);https://www.tsuchiyaclinic.com/\n\n新家産婦人科 東京都国分寺市光町1-38-11\n\n新家産婦人科ホームページ(外部リンク);https://anis.shinya-wc.jp/\n\n内野産婦人科小児科 東京都国立市東1-8-6\n\n内野産婦人科小児科ホームページ(外部リンク);https://www.medical-center.co.jp/uchino.php\n\n訪問型\n助産師がご自宅に訪問します。"
+      },
+      "cost": null,
+      "costConditions": "利用内容・料金等\n短期入所型・通所型\n矢島助産院 国分寺市東元町1-40-7\n\n矢島助産院ホームページ(外部リンク);https://yajima-jyosanin.net/\n\n通所型のみ\n府中の森土屋産婦人科 府中市府中町3-10-9\n\n府中の森土屋産婦人科ホームページ(外部リンク);https://www.tsuchiyaclinic.com/\n\n新家産婦人科 東京都国分寺市光町1-38-11\n\n新家産婦人科ホームページ(外部リンク);https://anis.shinya-wc.jp/\n\n内野産婦人科小児科 東京都国立市東1-8-6\n\n内野産婦人科小児科ホームページ(外部リンク);https://www.medical-center.co.jp/uchino.php\n\n訪問型\n助産師がご自宅に訪問します。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "利用申請\n原則として、妊娠16週(4か月)から利用日の1週間前までに申請が必要です。\n\n申請時に保健師が面談し、心配なことや状況をお伺いします。\n\n事前に下記までお電話ください。\n\n妊娠中の申請：子育て支援係 電話042-576-2105(直通)市役所1階20番窓口\n\n産後の申請：子ども保健・発達支援係 電話042-574-3311 保健センター内",
+      "procedurePersons": null,
+      "procedureMethod": "利用申請\n原則として、妊娠16週(4か月)から利用日の1週間前までに申請が必要です。\n\n申請時に保健師が面談し、心配なことや状況をお伺いします。\n\n事前に下記までお電話ください。\n\n妊娠中の申請：子育て支援係 電話042-576-2105(直通)市役所1階20番窓口\n\n産後の申請：子ども保健・発達支援係 電話042-574-3311 保健センター内\n\n利用の流れ\n1 利用申請\n申請時に保健師が面談します。(要予約)\n\n申請に必要なもの\n・国立市産後ケア事業利用登録申請書\n\n・国立市産後ケア事業利用登録アンケート\n\n(下記よりダウンロード可、申請窓口にもあります。)\n\n・母子健康手帳\n\n・本人確認書類(マイナンバーカード、運転免許証等)\n\n・必要に応じて非課税証明書、生活保護受給証明書\n\n国立市産後ケア事業利用登録申請書 (PDFファイル: 96.4KB);https://www.city.kunitachi.tokyo.jp/material/files/group/44/sanngocaresinnseisho.pdf\n\n国立市産後ケア事業利用登録アンケート (PDFファイル: 325.2KB);https://www.city.kunitachi.tokyo.jp/material/files/group/44/sanngocareanke-to.pdf\n\n2登録決定\n登録申請後に『利用決定通知書』を送付します。\n\n3利用予約\n短期入所型・通所型\n各施設に各自で電話予約。\n\n利用日が決定したら子ども保健・発達支援係へご連絡ください。\n\n居宅訪問型\n子ども保健・発達支援係に電話予約。\n\n4利用開始・お支払い\n短期入所型・通所型は予約当日に各自で予約した施設へ。\n\n訪問型は予約時間に助産師が訪問します。\n\n利用料金は、直接施設もしくは訪問した助産師にお支払いください。\n\n利用者都合によるキャンセルはキャンセル料が発生することがあります。\n\nキャンセルした場合でも利用回数としてカウントする場合がありますのでご了承ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "妊娠16週(4か月)から利用日の1週間前まで"
+      },
+      "electronicSubmission": false,
+      "belongings": "申請に必要なもの\n・国立市産後ケア事業利用登録申請書\n\n・国立市産後ケア事業利用登録アンケート\n\n(下記よりダウンロード可、申請窓口にもあります。)\n\n・母子健康手帳\n\n・本人確認書類(マイナンバーカード、運転免許証等)\n\n・必要に応じて非課税証明書、生活保護受給証明書\n\n国立市産後ケア事業利用登録申請書 (PDFファイル: 96.4KB);https://www.city.kunitachi.tokyo.jp/material/files/group/44/sanngocaresinnseisho.pdf\n\n国立市産後ケア事業利用登録アンケート (PDFファイル: 325.2KB);https://www.city.kunitachi.tokyo.jp/material/files/group/44/sanngocareanke-to.pdf",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "妊娠中の申請：子育て支援係 電話042-576-2105(直通)市役所1階20番窓口\n\n産後の申請：子ども保健・発達支援係 電話042-574-3311 保健センター内",
+      "relatedLink": [
+        {
+          "uri": "https://anis.shinya-wc.jp/",
+          "title": "新家産婦人科ホームページ(外部リンク)"
+        },
+        {
+          "uri": "https://www.tsuchiyaclinic.com/",
+          "title": "府中の森土屋産婦人科ホームページ(外部リンク)"
+        },
+        {
+          "uri": "https://yajima-jyosanin.net/",
+          "title": "矢島助産院ホームページ(外部リンク)"
+        },
+        {
+          "uri": "https://www.city.kunitachi.tokyo.jp/material/files/group/44/R6SANGOKEAannai.pdf",
+          "title": "令和6年度国立市産後ケア事業のご案内 (PDFファイル: 597.7KB)"
+        },
+        {
+          "uri": "https://www.medical-center.co.jp/uchino.php",
+          "title": "内野産婦人科小児科ホームページ(外部リンク)\n\n訪問型"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec04/gyomu/0248/0129/8551.html",
+        "title": "産後ケア事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+        "contactPhone": "042-574-3311",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/54?page_no=2082",
+        "contactComment": "ファクス：042-574-3930",
+        "zipCode": "1860003",
+        "contactAddress": "国立市富士見台3-16-5(保健センター内)"
+      },
+      "area": {
+        "areaCode": "132152;国立市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132152+1+UM15",
+        "organization": "1000020132152",
+        "compartment": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-09",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "国立市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条の2（産後ケア事業）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "休日応急診療事業"
+      },
+      "summary": "国立市では、日曜・祝日と年末年始に、医科・歯科の応急診療を受けることができます。",
+      "description": "日曜や祝日、年末年始に具合が悪くなったときは、以下の医療機関で応急診療を受けることができます。\nいずれの医療機関を受診する場合も、健康保険証を必ずお持ちください。\n○医科の応急診療\n・休日診療センター(日中の時間帯)\n診療時間 ： 日曜・祝日の午前10時から午後4時30分まで(受付は午後4時15分まで)\n住所 ： 国立市富士見台3-16-6(国立市医師会館1階)\n電話 ： 042-576-2341\n担当医 ： 主に内科医または小児科医\n<注意事項>\n・7月から、事前予約が不要になりました。\n・受診の際は、保険証を忘れずにお持ちください。​​​​​​​\n(マイナ保険証による受付もできますが、健康保険証もお持ちください。)\n・医療証をお持ちの方は、そちらも忘れずにお持ちください。\n・発熱がある方は、窓口でお申し出ください。\n・混雑した場合には、受付人数を制限する場合があります。\n・連休時以外は、原則として1日分の投薬処方となります。\n・状況に応じて、他の病院を紹介することもあります。\n・レントゲン撮影や血液検査には対応しておりません。\n・診療状況に応じて昼休みの時間があります。\n\n・国立さくら病院(準夜の時間帯)【要予約】\n診療時間 ： 日曜・祝日の午後6時から午後9時まで\n住所 ： 国立市東1-19-10\n電話 ： 042-577-1011\n担当医 ： 主に内科医\n<注意事項>\n・事前に電話での予約が必要です。\n・受診の際は、保険証を忘れずにお持ちください。​​​​​​​\n・医療証をお持ちの方は、そちらも忘れずにお持ちください。\n・連休時以外は、原則として1日分の投薬処方となります。\n・レントゲン撮影や血液検査には対応しておりません。\n\n○歯科の応急診療\n・さくら休日歯科診療所\n診療時間 ： 日曜・祝日の午前10時から午後4時30分まで(昼休み：正午から午後1時まで)\n住所 ： 国立市富士見台3-16-17(国立市歯科医師会館内)\n電話 ： 042-577-0418\n<注意事項>\n・受診の際は、保険証を忘れずにお持ちください。​​​​​​​\n・医療証をお持ちの方は、そちらも忘れずにお持ちください。\n・フッ素塗布などの予防処置や、歯石除去などの基本処置には対応していません。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "休日診療センター(医科)\n日曜・祝日の午前10時から午後4時30分まで(受付は午後4時15分まで)\n国立さくら病院(医科)\n日曜・祝日の午後6時から午後9時まで\nさくら休日歯科診療所（歯科）\n日曜・祝日の午前10時から午後4時30分まで(昼休み：正午から午後1時まで)"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "日曜や祝日、年末年始に具合が悪くなったときは、以下の医療機関で応急診療を受けることができます。\nいずれの医療機関を受診する場合も、健康保険証を必ずお持ちください。\n○医科の応急診療\n・休日診療センター(日中の時間帯)\n診療時間 ： 日曜・祝日の午前10時から午後4時30分まで(受付は午後4時15分まで)\n住所 ： 国立市富士見台3-16-6(国立市医師会館1階)\n電話 ： 042-576-2341\n担当医 ： 主に内科医または小児科医\n<注意事項>\n・7月から、事前予約が不要になりました。\n・受診の際は、保険証を忘れずにお持ちください。​​​​​​​\n(マイナ保険証による受付もできますが、健康保険証もお持ちください。)\n・医療証をお持ちの方は、そちらも忘れずにお持ちください。\n・発熱がある方は、窓口でお申し出ください。\n・混雑した場合には、受付人数を制限する場合があります。\n・連休時以外は、原則として1日分の投薬処方となります。\n・状況に応じて、他の病院を紹介することもあります。\n・レントゲン撮影や血液検査には対応しておりません。\n・診療状況に応じて昼休みの時間があります。\n\n・国立さくら病院(準夜の時間帯)【要予約】\n診療時間 ： 日曜・祝日の午後6時から午後9時まで\n住所 ： 国立市東1-19-10\n電話 ： 042-577-1011\n担当医 ： 主に内科医\n<注意事項>\n・事前に電話での予約が必要です。\n・受診の際は、保険証を忘れずにお持ちください。​​​​​​​\n・医療証をお持ちの方は、そちらも忘れずにお持ちください。\n・連休時以外は、原則として1日分の投薬処方となります。\n・レントゲン撮影や血液検査には対応しておりません。\n\n○歯科の応急診療\n・さくら休日歯科診療所\n診療時間 ： 日曜・祝日の午前10時から午後4時30分まで(昼休み：正午から午後1時まで)\n住所 ： 国立市富士見台3-16-17(国立市歯科医師会館内)\n電話 ： 042-577-0418\n<注意事項>\n・受診の際は、保険証を忘れずにお持ちください。​​​​​​​\n・医療証をお持ちの方は、そちらも忘れずにお持ちください。\n・フッ素塗布などの予防処置や、歯石除去などの基本処置には対応していません。",
+      "procedurePersons": null,
+      "procedureMethod": "日曜や祝日、年末年始に具合が悪くなったときは、以下の医療機関で応急診療を受けることができます。\nいずれの医療機関を受診する場合も、健康保険証を必ずお持ちください。\n○医科の応急診療\n・休日診療センター(日中の時間帯)\n診療時間 ： 日曜・祝日の午前10時から午後4時30分まで(受付は午後4時15分まで)\n住所 ： 国立市富士見台3-16-6(国立市医師会館1階)\n電話 ： 042-576-2341\n担当医 ： 主に内科医または小児科医\n<注意事項>\n・7月から、事前予約が不要になりました。\n・受診の際は、保険証を忘れずにお持ちください。​​​​​​​\n(マイナ保険証による受付もできますが、健康保険証もお持ちください。)\n・医療証をお持ちの方は、そちらも忘れずにお持ちください。\n・発熱がある方は、窓口でお申し出ください。\n・混雑した場合には、受付人数を制限する場合があります。\n・連休時以外は、原則として1日分の投薬処方となります。\n・状況に応じて、他の病院を紹介することもあります。\n・レントゲン撮影や血液検査には対応しておりません。\n・診療状況に応じて昼休みの時間があります。\n\n・国立さくら病院(準夜の時間帯)【要予約】\n診療時間 ： 日曜・祝日の午後6時から午後9時まで\n住所 ： 国立市東1-19-10\n電話 ： 042-577-1011\n担当医 ： 主に内科医\n<注意事項>\n・事前に電話での予約が必要です。\n・受診の際は、保険証を忘れずにお持ちください。​​​​​​​\n・医療証をお持ちの方は、そちらも忘れずにお持ちください。\n・連休時以外は、原則として1日分の投薬処方となります。\n・レントゲン撮影や血液検査には対応しておりません。\n\n○歯科の応急診療\n・さくら休日歯科診療所\n診療時間 ： 日曜・祝日の午前10時から午後4時30分まで(昼休み：正午から午後1時まで)\n住所 ： 国立市富士見台3-16-17(国立市歯科医師会館内)\n電話 ： 042-577-0418\n<注意事項>\n・受診の際は、保険証を忘れずにお持ちください。​​​​​​​\n・医療証をお持ちの方は、そちらも忘れずにお持ちください。\n・フッ素塗布などの予防処置や、歯石除去などの基本処置には対応していません。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "休日診療センター(医科)\n日曜・祝日の午前10時から午後4時30分まで(受付は午後4時15分まで)\n国立さくら病院(医科)\n日曜・祝日の午後6時から午後9時まで\nさくら休日歯科診療所（歯科）\n日曜・祝日の午前10時から午後4時30分まで(昼休み：正午から午後1時まで)"
+      },
+      "electronicSubmission": false,
+      "belongings": "・受診の際は、保険証を忘れずにお持ちください。\n医療証をお持ちの方は、そちらも忘れずにお持ちください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kunitachi.tokyo.jp/kenko/kenko_iryo/3/6383.html",
+          "title": "医療機関をお探しの場合は"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kunitachi.tokyo.jp/kenko/kenko_iryo/3/6383.html",
+        "title": "医療機関をお探しの場合は"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "休日診療センター(医科),国立さくら病院(医科),さくら休日歯科診療所(歯科)",
+        "contactPhone": "042-576-2341,042-577-1011,042-577-0418",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1860003,1860002,1860003",
+        "contactAddress": "東京都国立市富士見台3-16-6,東京都国立市東1-19-10,東京都国立市富士見台3-16-17"
+      },
+      "area": {
+        "areaCode": "132152;国立市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132152+1+UM45",
+        "organization": "1000020132152",
+        "compartment": "健康福祉部 健康まちづくり戦略室 保健センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-07-05",
+      "odInformation": {
+        "updateDate": "2024-07-09",
+        "updater": "国立市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "国立市の妊娠・出産に関する相談",
+        "shortName": "くにたち子育てサポート窓口"
+      },
+      "summary": "くにたち子育てサポート窓口「くにサポ」は、妊娠期から１８歳までのこども・子育てに関する総合相談窓口です。",
+      "description": "くにたち子育てサポート窓口【くにサポ】は子ども・子育てについての総合相談窓口です\n2023-2024サポートブック表紙\nくにたち子育てサポート窓口「くにサポ」は、子ども・子育てのための総合相談窓口です。\n\nこんなときにご相談ください。\n\n妊娠、子育てについて不安や心配事がある。\n家族関係で悩んでいる。\n学校に行きづらくなっている子どもがいる。\n離婚や養育費、親子交流について相談したい。\n学習支援や子ども食堂、地域での子どもの居場所について知りたい。\n国立市の子育て支援制度を掲載しているくにたち子育てサポートブック (PDFファイル: 14.4MB);https://www.city.kunitachi.tokyo.jp/material/files/group/42/2023-2024supportbook.pdf\n\n臨床心理士に相談できる個別家族相談会のお知らせ; https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec01/gyomu/kunisapo/9178.html",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "くにたち子育てサポート窓口「くにサポ」は、子ども・子育てのための総合相談窓口です。\n\nこんなときにご相談ください。\n\n妊娠、子育てについて不安や心配事がある。\n家族関係で悩んでいる。\n学校に行きづらくなっている子どもがいる。\n離婚や養育費、親子交流について相談したい。\n学習支援や子ども食堂、地域での子どもの居場所について知りたい。",
+        "monetarySupport": null,
+        "materiallySupport": "くにたち子育てサポート窓口「くにサポ」は、子ども・子育てのための総合相談窓口です。\n\nこんなときにご相談ください。\n\n妊娠、子育てについて不安や心配事がある。\n家族関係で悩んでいる。\n学校に行きづらくなっている子どもがいる。\n離婚や養育費、親子交流について相談したい。\n学習支援や子ども食堂、地域での子どもの居場所について知りたい。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kunitachi.tokyo.jp/material/files/group/42/2023-2024supportbook.pdf",
+          "title": "国立市の子育て支援制度を掲載しているくにたち子育てサポートブック (PDFファイル: 14.4MB)"
+        },
+        {
+          "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec01/gyomu/kunisapo/9178.html",
+          "title": "臨床心理士に相談できる個別家族相談会のお知らせ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kunitachi.tokyo.jp/kosodate/kosodate/kunisapo/index.html",
+        "title": "子ども・子育ての総合相談窓口　くにたち子育てサポート窓口のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子育て支援課 子育て支援係(くにたち子育てサポート窓口【くにサポ】)",
+        "contactPhone": "042-576-2105",
+        "contactEx": "042-576-2111(内線：168)",
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/52?page_no=9179",
+        "contactComment": "ファクス：042-576-2283",
+        "zipCode": "1868501",
+        "contactAddress": "国立市富士見台2-47-1 国立市役所 1階(20番窓口)"
+      },
+      "area": {
+        "areaCode": "132152;国立市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132152+1+UM47",
+        "organization": "1000020132152",
+        "compartment": "子ども家庭部 子育て支援課 子育て支援係(くにたち子育てサポート窓口【くにサポ】)",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-08",
+        "updater": "国立市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月未満児）",
+        "shortName": "3ヶ月から4ヶ月児健康診査と産婦健康診査"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として3ヶ月から4ヶ月児健康診査を実施しています。",
+      "description": "母親・乳幼児の健診\n乳幼児健診の対象の方には個別に通知を案内いたします。\n\n指定された日のご都合つかない場合は、変更しますので下記お問い合わせ先までご連絡ください。\n\n転入等で通知が届いていない方は、下記お問い合わせ先までご連絡ください。\n\n令和6年度 乳幼児健康診査等日程表 (PDFファイル: 132.6KB); https://www.city.kunitachi.tokyo.jp/material/files/group/44/R6boshinittei.pdf\n\n3ヶ月から4ヶ月児健康診査と産婦健康診査\n乳児の計測・医科健診と、必要時産婦の尿検査・血圧測定・個別相談を実施します。\n(個別に通知をします)",
+      "target": {
+        "targetPersons": "前月中に満３か月に達した児とその母親",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "前月中に満３か月に達した児"
+      },
+      "support": {
+        "description": "乳児の計測・医科健診と、必要時産婦の尿検査・血圧測定・個別相談を実施します。",
+        "monetarySupport": null,
+        "materiallySupport": "乳児の計測・医科健診と、必要時産婦の尿検査・血圧測定・個別相談を実施します。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "令和6年度 乳幼児健康診査等日程表 (PDFファイル:132.6KB);https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec04/gyomu/0248/0128/1461061725371.html"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "郵便で対象月の約２か月前に個別通知します ※1回の人数及び受付時間帯を原則①②に分けて調整してご案内しています。\n☆対象月を確認のうえ、通知が届いていない方や転入の方は、子育て支援課子ども保健・発達支援係にお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kunitachi.tokyo.jp/material/files/group/44/R6boshinittei.pdf",
+          "title": "令和6年度 乳幼児健康診査等日程表 (PDFファイル: 132.6KB)"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec04/gyomu/0248/0128/1461061725371.html",
+        "title": "母親・乳幼児の健診"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+        "contactPhone": "042-574-3311",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/54?page_no=1751",
+        "contactComment": "ファクス：042-574-3930",
+        "zipCode": "1860003",
+        "contactAddress": "国立市富士見台3-16-5(保健センター内)"
+      },
+      "area": {
+        "areaCode": "132152;国立市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132152+1+UM49",
+        "organization": "1000020132152",
+        "compartment": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-08",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "国立市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "6・9か月児健康診査"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として乳幼児健康診査（6～9か月、9～12か月）を実施しています。",
+      "description": "母親・乳幼児の健診\n乳幼児健診の対象の方には個別に通知を案内いたします。\n\n指定された日のご都合つかない場合は、変更しますので下記お問い合わせ先までご連絡ください。\n\n転入等で通知が届いていない方は、下記お問い合わせ先までご連絡ください。\n\n令和6年度 乳幼児健康診査等日程表 (PDFファイル: 132.6KB); https://www.city.kunitachi.tokyo.jp/material/files/group/44/R6boshinittei.pdf\n\n6ヶ月から7ヶ月、9ヶ月から10ヶ月児健康診査\n国立市が発行する受診票を持って指定医療機関で受診してください。\n(受診票は3ヶ月から4ヶ月児健康診査のご案内と一緒に郵送します。)\n\n紛失された方、転入された方等は、母子健康手帳をご持参のうえ、市役所くにサポ窓口(20番窓口)もしくは保健センターにお越しください。\n\n郵送での(再)発行をご希望の方は、下記の申請書と母子健康手帳の写し(お子さんのお名前が分かるページと6か月児健康診査・9か月児健康診査のページ)を郵便番号186-0003 国立市富士見台3-16-5(保健センター内) 子育て支援課子ども保健・発達支援係(保健センター内)にご郵送ください。\n\n乳幼児健康診査受診票交付・再交付申請書 (PDFファイル: 80.5KB); https://www.city.kunitachi.tokyo.jp/material/files/group/44/R2nyuuyouji.pdf",
+      "target": {
+        "targetPersons": "乳幼児健診の対象の方には個別に通知を案内いたします。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "令和6年度 乳幼児健康診査等日程表 (PDFファイル:132.6KB);https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec04/gyomu/0248/0128/1461061725371.html"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "国立市が発行する受診票を持って指定医療機関で受診してください。\n(受診票は3ヶ月から4ヶ月児健康診査のご案内と一緒に郵送します。)\n\n紛失された方、転入された方等は、母子健康手帳をご持参のうえ、市役所くにサポ窓口(20番窓口)もしくは保健センターにお越しください。\n\n郵送での(再)発行をご希望の方は、下記の申請書と母子健康手帳の写し(お子さんのお名前が分かるページと6か月児健康診査・9か月児健康診査のページ)を郵便番号186-0003 国立市富士見台3-16-5(保健センター内) 子育て支援課子ども保健・発達支援係(保健センター内)にご郵送ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kunitachi.tokyo.jp/material/files/group/44/R6boshinittei.pdf",
+          "title": "令和6年度 乳幼児健康診査等日程表 (PDFファイル: 132.6KB)"
+        },
+        {
+          "uri": "https://www.city.kunitachi.tokyo.jp/material/files/group/44/R2nyuuyouji.pdf",
+          "title": "乳幼児健康診査受診票交付・再交付申請書 (PDFファイル: 80.5KB)"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec04/gyomu/0248/0128/1461061725371.html",
+        "title": "母親・乳幼児の健診"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+        "contactPhone": "042-574-3311",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/54?page_no=1751",
+        "contactComment": "ファクス：042-574-3930",
+        "zipCode": "1860003",
+        "contactAddress": "国立市富士見台3-16-5(保健センター内)"
+      },
+      "area": {
+        "areaCode": "132152;国立市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132152+1+UM50",
+        "organization": "1000020132152",
+        "compartment": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-08",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "国立市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "1歳6か月児健康診査",
+        "shortName": "1歳6か月児健康診査"
+      },
+      "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。国立市では1歳6か月児健康診査を実施しています。小児科医による診察のほか、歯科健診も行います。",
+      "description": "母親・乳幼児の健診\n乳幼児健診の対象の方には個別に通知を案内いたします。\n\n指定された日のご都合つかない場合は、変更しますので下記お問い合わせ先までご連絡ください。\n\n転入等で通知が届いていない方は、下記お問い合わせ先までご連絡ください。\n\n令和6年度 乳幼児健康診査等日程表 (PDFファイル: 132.6KB); https://www.city.kunitachi.tokyo.jp/material/files/group/44/R6boshinittei.pdf\n\n1歳6ヶ月児健康診査\n総合的な健康診査(予診・計測・医科健診・歯科健診)を実施し、保健・栄養・子ども相談など、育児や生活習慣に関する個別相談ができます。\n(個別に通知をします)",
+      "target": {
+        "targetPersons": "前月中に満１歳６か月に達した児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "前月中に満１歳６か月に達した児"
+      },
+      "support": {
+        "description": "総合的な健康診査(予診・計測・医科健診・歯科健診)を実施し、保健・栄養・子ども相談など、育児や生活習慣に関する個別相談ができます。",
+        "monetarySupport": null,
+        "materiallySupport": "総合的な健康診査(予診・計測・医科健診・歯科健診)を実施し、保健・栄養・子ども相談など、育児や生活習慣に関する個別相談ができます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "令和6年度 乳幼児健康診査等日程表 (PDFファイル:132.6KB);https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec04/gyomu/0248/0128/1461061725371.html"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "郵便で対象月の約２か月前に個別通知します ※1回の人数及び受付時間帯を原則①②に分けて調整してご案内しています。\n☆対象月を確認のうえ、通知が届いていない方や転入の方は、子育て支援課子ども保健・発達支援係にお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kunitachi.tokyo.jp/material/files/group/44/R6boshinittei.pdf",
+          "title": "令和6年度 乳幼児健康診査等日程表 (PDFファイル: 132.6KB)"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec04/gyomu/0248/0128/1461061725371.html",
+        "title": "母親・乳幼児の健診"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+        "contactPhone": "042-574-3311",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/54?page_no=1751",
+        "contactComment": "ファクス：042-574-3930",
+        "zipCode": "1860003",
+        "contactAddress": "国立市富士見台3-16-5(保健センター内)"
+      },
+      "area": {
+        "areaCode": "132152;国立市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132152+1+UM51",
+        "organization": "1000020132152",
+        "compartment": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-08",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "国立市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "3歳児健康診査",
+        "shortName": "3歳児健康診査"
+      },
+      "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。国立市では3歳児健康診査を実施しています。小児科医による診察のほか、歯科健診も行います。",
+      "description": "母親・乳幼児の健診\n乳幼児健診の対象の方には個別に通知を案内いたします。\n\n指定された日のご都合つかない場合は、変更しますので下記お問い合わせ先までご連絡ください。\n\n転入等で通知が届いていない方は、下記お問い合わせ先までご連絡ください。\n\n令和6年度 乳幼児健康診査等日程表 (PDFファイル: 132.6KB); https://www.city.kunitachi.tokyo.jp/material/files/group/44/R6boshinittei.pdf\n\n3歳児健康診査\n総合的な健康診査(予診・計測・医科健診・歯科健診・尿検査・目と耳の検査)を実施し、保健・栄養・子ども相談など、育児や生活習慣に関する個別相談ができます。\n(個別に通知をします)",
+      "target": {
+        "targetPersons": "前月中に満３歳に達した児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "前月中に満３歳に達した児"
+      },
+      "support": {
+        "description": "総合的な健康診査(予診・計測・医科健診・歯科健診・尿検査・目と耳の検査)を実施し、保健・栄養・子ども相談など、育児や生活習慣に関する個別相談ができます。",
+        "monetarySupport": null,
+        "materiallySupport": "総合的な健康診査(予診・計測・医科健診・歯科健診・尿検査・目と耳の検査)を実施し、保健・栄養・子ども相談など、育児や生活習慣に関する個別相談ができます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "令和6年度 乳幼児健康診査等日程表 (PDFファイル:132.6KB);https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec04/gyomu/0248/0128/1461061725371.html"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "郵便で対象月の約２か月前に個別通知します ※1回の人数及び受付時間帯を原則①②に分けて調整してご案内しています。\n☆対象月を確認のうえ、通知が届いていない方や転入の方は、子育て支援課子ども保健・発達支援係にお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kunitachi.tokyo.jp/material/files/group/44/R6boshinittei.pdf",
+          "title": "令和6年度 乳幼児健康診査等日程表 (PDFファイル: 132.6KB)"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec04/gyomu/0248/0128/1461061725371.html",
+        "title": "母親・乳幼児の健診"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+        "contactPhone": "042-574-3311",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/54?page_no=1751",
+        "contactComment": "ファクス：042-574-3930",
+        "zipCode": "1860003",
+        "contactAddress": "国立市富士見台3-16-5(保健センター内)"
+      },
+      "area": {
+        "areaCode": "132152;国立市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132152+1+UM52",
+        "organization": "1000020132152",
+        "compartment": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-08",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "国立市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の乳幼児健診",
+        "shortName": "乳幼児発達健診"
+      },
+      "summary": "乳幼児の発育・発達などに心配がある方に対して、小児神経学の専門医による健診と相談を実施しています。",
+      "description": "乳幼児発達健診\n乳幼児の発育・発達などに心配がある方に対して、小児神経学の専門医による健診と相談を実施しています。\n毎月実施(予約制)\n\n乳幼児経過観察健診\n健診後、経過観察の必要な乳幼児に対して、小児科医による健診と相談を実施しています。\n毎月実施(予約制)",
+      "target": {
+        "targetPersons": "乳幼児の発育・発達などに心配がある方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "小児神経学の専門医による健診と相談を実施しています。\n健診後、経過観察の必要な乳幼児に対して、小児科医による健診と相談を実施しています。",
+        "monetarySupport": null,
+        "materiallySupport": "小児神経学の専門医による健診と相談を実施しています。\n健診後、経過観察の必要な乳幼児に対して、小児科医による健診と相談を実施しています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "毎月実施"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "予約制",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kunitachi.tokyo.jp/material/files/group/44/R6boshinittei.pdf",
+          "title": "令和6年度 乳幼児健康診査等日程表 (PDFファイル: 132.6KB)"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec04/gyomu/0248/0128/1461061725371.html",
+        "title": "母親・乳幼児の健診"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+        "contactPhone": "042-574-3311",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/54?page_no=1751",
+        "contactComment": "ファクス：042-574-3930",
+        "zipCode": "1860003",
+        "contactAddress": "国立市富士見台3-16-5(保健センター内)"
+      },
+      "area": {
+        "areaCode": "132152;国立市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132152+1+UM53",
+        "organization": "1000020132152",
+        "compartment": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-08",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "国立市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出生通知票・低体重児出生届",
+        "shortName": "出生通知票・低体重児出生届の提出"
+      },
+      "summary": "赤ちゃんが生まれたら、母と子の保健バッグに入っている出生通知票(A4サイズ用紙)を記入して、ご提出してください。出生通知票をもとに、「こんにちは赤ちゃん事業（乳幼児全戸訪問）」のご連絡をします。また、低体重の赤ちゃん(出生時の体重が2,500グラム未満の乳児)を出産された際には、なるべくお早めに低体重児出生届を保健センターに提出してください。",
+      "description": "低体重児出生届の提出\n\n低体重の赤ちゃん(出生時の体重が2,500グラム未満の乳児)を出産された際には、なるべくお早めに低体重児出生届を保健センターに提出してください。新生児訪問やこんにちは赤ちゃん訪問の際に提出していただくこともできます。\n低体重児出生届には産婦さんと赤ちゃんの個人番号をご記入いただく欄がございますので、ご記載いただくようお願いいたします。\n\n持ち物は以下のとおりです。\n\n個人番号カード\n個人番号カードをお持ちでない場合は、個人番号が分かるもの(通知カード又は個人番号入りの住民票)と本人確認できるもの((1)免許証、パスポート等顔写真付きの公的証明書1点、(2)写真付きでない公的証明書の場合は公的医療保険の被保険者証、年金手帳等2点以上)\n産婦さん本人以外の方が妊娠届を提出する場合は、(1)産婦さんからの委任状、(2)代理人の方の身元確認ができるもの(具体的には上記本人確認ができるものと同様です)、(3)産婦さん、赤ちゃんの番号確認ができるもの(具体的には、上記個人番号が分かるものと同様です)をご持参ください。\n\n低体重児出生届様式は下記からダウンロードしてお使いください。\n\n低体重児出生届 (PDFファイル: 98.3KB);https://www.city.kunitachi.tokyo.jp/material/files/group/44/20200727teitaijyuutodoke.pdf",
+      "target": {
+        "targetPersons": "低体重の赤ちゃん(出生時の体重が2,500グラム未満の乳児)を出産された際",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "産婦さん本人以外の方が妊娠届を提出する場合は、(1)産婦さんからの委任状、(2)代理人の方の身元確認ができるもの(具体的には上記本人確認ができるものと同様です)、(3)産婦さん、赤ちゃんの番号確認ができるもの(具体的には、上記個人番号が分かるものと同様です)をご持参ください。",
+      "procedureMethod": "低体重の赤ちゃん(出生時の体重が2,500グラム未満の乳児)を出産された際には、なるべくお早めに低体重児出生届を保健センターに提出してください。新生児訪問やこんにちは赤ちゃん訪問の際に提出していただくこともできます。\n低体重児出生届には産婦さんと赤ちゃんの個人番号をご記入いただく欄がございますので、ご記載いただくようお願いいたします。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "個人番号カード\n個人番号カードをお持ちでない場合は、個人番号が分かるもの(通知カード又は個人番号入りの住民票)と本人確認できるもの((1)免許証、パスポート等顔写真付きの公的証明書1点、(2)写真付きでない公的証明書の場合は公的医療保険の被保険者証、年金手帳等2点以上)",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "低体重児出生届を保健センターに提出してください。新生児訪問やこんにちは赤ちゃん訪問の際に提出していただくこともできます。",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec04/gyomu/0248/0129/1461061739978.html",
+        "title": "低体重児出生届の提出"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+        "contactPhone": "042-574-3311",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/54?page_no=1745",
+        "contactComment": "ファクス：042-574-3930",
+        "zipCode": "1860003",
+        "contactAddress": "国立市富士見台3-16-5(保健センター内)"
+      },
+      "area": {
+        "areaCode": "132152;国立市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132152+1+UM791",
+        "organization": "1000020132152",
+        "compartment": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-30",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "国立市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第18条（低体重児の届出）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "077"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（2歳児歯科健康診査）",
+        "shortName": "乳幼児の歯の健康診査（2歳児歯科健康診査）"
+      },
+      "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。2歳児歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+      "description": "母親・乳幼児の健診\n\n乳幼児健診の対象の方には個別に通知を案内いたします。\n\n指定された日のご都合つかない場合は、変更しますので下記お問い合わせ先までご連絡ください。\n転入等で通知が届いていない方は、下記お問い合わせ先までご連絡ください。\n\n令和6年度 乳幼児健康診査等日程表 (PDFファイル: 132.6KB); https://www.city.kunitachi.tokyo.jp/material/files/group/44/R6boshinittei.pdf\n2歳児歯科健康診査\n予診・歯科健診を実施しています。",
+      "target": {
+        "targetPersons": "個別に通知をします",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "予診・歯科健診を実施しています。",
+        "monetarySupport": null,
+        "materiallySupport": "予診・歯科健診を実施しています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "個別に通知をします",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kunitachi.tokyo.jp/material/files/group/44/R6boshinittei.pdf",
+          "title": "令和6年度 乳幼児健康診査等日程表 (PDFファイル: 132.6KB)"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec04/gyomu/0248/0128/1461061725371.html",
+        "title": "母親・乳幼児の健診"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+        "contactPhone": "042-574-3311",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/54?page_no=2971",
+        "contactComment": "ファクス：042-574-3930",
+        "zipCode": "1860003",
+        "contactAddress": " 国立市富士見台3-16-5(保健センター内)"
+      },
+      "area": {
+        "areaCode": "132152;国立市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132152+1+UM792",
+        "organization": "1000020132152",
+        "compartment": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "国立市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自立支援医療制度（精神通院医療）",
+        "shortName": "自立支援医療 精神通院医療"
+      },
+      "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+      "description": "各種手帳を取得するには、下記リンクをご参照ください。\n手帳制度について;https://www.city.kunitachi.tokyo.jp/soshiki/Dept03/Div02/Sec01/gyomu/0100/1464587038898.html",
+      "target": {
+        "targetPersons": "精神疾患を理由として、通院している方(年齢・診療科は問わない、入院中は不可)",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1人につき1医療機関・1薬局での指定が原則です。主治の医療機関では受けられない治療内容(デイケア・検査等)がある場合に複数医療機関を指定できます。\nまた、主治の医療機関からの指示がある場合にのみ、訪問看護事業所を1つ指定できます。"
+      },
+      "support": {
+        "description": "認定後、受給者証が交付され、病院と薬局で提示される医療費のうち原則として1割を負担。ただし、医療費については住民税額により上限が設けてあります。\n・生活保護受給者は自己負担が無料です。\n・被保険者が住民税非課税の場合、さらに自己負担が無料になる制度があります。",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "下記のものをお持ちになって、しょうがいしゃ支援課手当・給付係へ。\n1.申請書\n2.診断書(自立支援医療診断書 (精神通院))\n3.本人の保険証\n4.被保険者の市民税所得割額がわかるもの(市民税課税・非課税証明書など)\n5.あればマイナンバーのわかるもの(マイナンバーカードなど)\n6.自立支援医療受給者証＜精神通院＞(更新の場合に必要です)\n1と2は手当・給付係の窓口にあります。ただし、診断書については医師に記入してもらってからお持ちください。\n4につきましては、被保険者の住所地が以下の時点で国立市である場合は提出不要です。\n・申請書の提出が1から6月の場合：前の年の1月1日時点\n・申請書の提出が7から12月の場合：今年の1月1日時点\nなお、マイナ保険証の施行に伴い、お手元に従来の健康保険証がない場合、お持ちいただくものについては、以下をご確認ください。\nマイナ保険証施行にともなう自立支援医療(精神通院)の各種手続について;https://www.city.kunitachi.tokyo.jp/soshiki/Dept03/Div02/Sec01/oshirase/11812.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept03/Div02/Sec01/gyomu/0100/iryo/1464587039517.html",
+        "title": "自立支援医療 精神通院医療"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康福祉部 しょうがいしゃ支援課 手当・給付係",
+        "contactPhone": "042-576-2111",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/32?page_no=1490",
+        "contactComment": "(内線：161、162)",
+        "zipCode": "1868501",
+        "contactAddress": "国立市富士見台2-47-1 国立市役所 1階(5番窓口)"
+      },
+      "area": {
+        "areaCode": "132152;国立市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132152+1+UM824",
+        "organization": "1000020132152",
+        "compartment": "健康福祉部 しょうがいしゃ支援課 手当・給付係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/12/04",
+      "odInformation": {
+        "updateDate": "2025/02/26",
+        "updater": "国立市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律",
+        "regulationArticle": "第58条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "025",
+          "027"
+        ],
+        "targetCode": [
+          "087",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関するサポート",
+        "shortName": "ひとり親家庭児童訪問援助"
+      },
+      "summary": "父・母の死別、父母の離婚等の影響を受けているお子さんに対し、児童訪問援助員を派遣します。",
+      "description": "ひとり親家庭自動訪問援助\n\n父・母の死別、父母の離婚等の影響を受けているお子さんに対し、児童訪問援助員を派遣します。\n派遣対象となる方\n市内在住の中学生以下の子どもがいるひとり親家庭で、児童の相談相手、家事等に関する生活指導を必要としている方。\n派遣期間：６カ月以内\n派遣回数：１日１回／１カ月８回以内\n派遣時間：午前８時～午後８時／１回４時間\n費用：無料\n手続きの流れ\n１．事前相談を行いますので、電話等で予約してください。\n２．必要書類（申請書等）を提出してください。\n援助員の活動内容\n・児童の相談相手になること\n・児童の遊び相手になること\n・児童に簡単な家事の指導をすること",
+      "target": {
+        "targetPersons": "派遣対象となる方\n市内在住の中学生以下の子どもがいるひとり親家庭で、児童の相談相手、家事等に関する生活指導を必要としている方。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "父・母の死別、父母の離婚等の影響を受けているお子さんに対し、児童訪問援助員を派遣します。",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec01/gyomu/kunisapo/hitorioya/9219.html",
+        "title": "ひとり親家庭児童訪問援助"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子育て支援課 子育て支援係\n(くにたち子育てサポート窓口【くにサポ】)",
+        "contactPhone": "042-576-2427",
+        "contactEx": "042-576-2111(内線：168）",
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "ファクス：042-576-2283",
+        "zipCode": "1868501",
+        "contactAddress": "国立市富士見台2-47-1 国立市役所 1階(20番窓口)"
+      },
+      "area": {
+        "areaCode": "132152;国立市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132152+2+UM106",
+        "organization": "1000020132152",
+        "compartment": "子ども家庭部 子育て支援課 子育て支援係\n(くにたち子育てサポート窓口【くにサポ】)",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-30",
+      "odInformation": {
+        "updateDate": "2024-07-08",
+        "updater": "国立市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "国立市の子育てに関する相談",
+        "shortName": "子ども・子育てなんでも相談"
+      },
+      "summary": "国立市内の子ども・子育てに関する相談窓口です。",
+      "description": "子ども・子育てなんでも相談\n\n育児のこと、家庭のこと、困ったらお気軽にご相談ください。\n子どものみなさんからのご相談も受け付けています。悲しいとき、つらいとき、こまったとき、電話をください。\n子ども家庭支援センターでは、18歳までのお子さんとご家庭に関する悩みや不安など、何でも相談を受け付けています。\n\n自分の子どもをかわいいと思えなくて・・・。\n子どもが言うことを聞かず、イライラしてしまう。\nいけないとわかっているけど、つい子どもをたたいてしまう。\n電話だけでなく、個室でゆっくり相談を受けることもできます。\n\n悩みや不安について、一緒に考えていきましょう。\n\n子どもの皆さんからの相談について\n(イラスト)子どもたちの画像\n子ども家庭支援センターは、18歳までのみなさんからの相談もお受けします。\n\n親に話を聴いてもらえない。\n親からたたかれる。\n困ったことや不安なこと、辛いことがあったら、一人で悩まずご相談ください。よりよい解決策が見つかるよう、一緒に考えていきます。\n\n【受付時間】\n\n月曜日から土曜日\n午前8時30分から午後5時まで\n\n日曜日、祝日、年末年始(12月29日から1月3日まで)はお休みです\n\n(注)Eメールによるご相談も受け付けております\n\n子ども家庭支援センターへメールを送信;kokasen@city.kunitachi.lg.jp\n\n児童相談所全国共通ダイヤル「189」\nあの子、もしかしたら虐待を受けているのかしら・・・\n子育てがつらくて、つい子どもにあたってしまう・・・\n近くに子育てに悩んでいる人がいる・・・\n児童相談所全国共通ダイヤル「189」は、こんな時すぐに児童相談所に通告・相談ができる全国共通の電話番号です。\n通告・相談は、匿名で行うこともでき、通告・相談をした人、その内容に関する秘密は 守られます。\n\n【こども家庭庁】ホームページ;https://www.mhlw.go.jp/189-ichihayaku/\n\n児童相談センターよいこに電話相談(平日夜間、日曜・祝日対応)\n児童相談センター よいこに電話相談\n\n(相談電話番号)03-3366-4152\n\n(聴覚言語障害者相談ファクス)03-3366-6036\n\n〔相談時間〕 月曜から金曜 午前9時から午後9時\n\n土曜・日曜・祝日 午前9時から午後5時\n\n(12月29日から1月3日を除く)\n\n【対象】 都内在住・在学の児童及び保護者等\n\n「言葉が遅い」「落着きがない」など、子どもの成長や行動で気になることについての相談。「育児が大変、疲れた」、「イライラして子どもを叩いてしまった」など、親からの相談。「友達とうまく遊べない」「学校に行きたくない」など、子どもからの相談。この他、18歳未満のお子さんに関するあらゆる相談を受けています。\n\n親子のための相談LINE;https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec03/gyomu/0237/0241/1564035075037.html\n\n【東京都】4152電話相談;https://www.fukushihoken.metro.tokyo.lg.jp/jicen/annai/4152.html",
+      "target": {
+        "targetPersons": "18歳までのお子さんとその保護者等",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "18歳までのお子さんとその保護者等"
+      },
+      "support": {
+        "description": "育児のこと、家庭のこと、困ったらお気軽にご相談いただける窓口です。こどものみなさんからのごそうだんもうけつけています。悲しいとき、つらいとき、こまったとき、電話をください。子ども家庭支援センターでは、18歳までのお子さんとご家庭に関する悩みや不安など、何でも相談を受け付けています。「自分の子どもをかわいいと思えなくて・・・」「子どもが言うことを聞かず、イライラしてしまう。」「いけないと分かっているけど、つい子どもをたたいてしまう。」電話だけでなく、個室でゆっくり相談を受けることもできます。悩みや不安について、一緒に考えていきましょう。\n子ども家庭支援センターは、18歳までのみなさんからの相談もお受けします。「おやにはなしをきいてもらえない。」「おやからたたかれる。」こまったことやふあんなこと、つらいことがあったら、ひとりでなやまずごそうだんください。よりよいかいけつさくがみつかるよう、いっしょにかんがえていきます。\n「あの子、もしかしたら虐待を受けているのかしら・・・」「近くに子育てに悩んでいる人がいる・・・」こんな時はご連絡ください。通告・相談は、匿名で行うこともでき、通告・相談をした人、その内容に関する秘密は守られます。",
+        "monetarySupport": null,
+        "materiallySupport": "育児のこと、家庭のこと、困ったらお気軽にご相談いただける窓口です。こどものみなさんからのごそうだんもうけつけています。悲しいとき、つらいとき、こまったとき、電話をください。子ども家庭支援センターでは、18歳までのお子さんとご家庭に関する悩みや不安など、何でも相談を受け付けています。「自分の子どもをかわいいと思えなくて・・・」「子どもが言うことを聞かず、イライラしてしまう。」「いけないと分かっているけど、つい子どもをたたいてしまう。」電話だけでなく、個室でゆっくり相談を受けることもできます。悩みや不安について、一緒に考えていきましょう。\n子ども家庭支援センターは、18歳までのみなさんからの相談もお受けします。「おやにはなしをきいてもらえない。」「おやからたたかれる。」こまったことやふあんなこと、つらいことがあったら、ひとりでなやまずごそうだんください。よりよいかいけつさくがみつかるよう、いっしょにかんがえていきます。\n「あの子、もしかしたら虐待を受けているのかしら・・・」「近くに子育てに悩んでいる人がいる・・・」こんな時はご連絡ください。通告・相談は、匿名で行うこともでき、通告・相談をした人、その内容に関する秘密は守られます。"
+      },
+      "cost": "0",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": "17:00",
+        "conditions": "月曜日から土曜日の午前8時30分から午後5時まで（日曜日、祝日、年末年始(12月29日から1月3日まで)はお休みです）"
+      },
+      "implementationPlace": {
+        "implementationName": "国立市子ども家庭支援センター（ 国立市役所 1階(20番窓口））",
+        "implementationAddress": "国立市富士見台2-47-1"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:30",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "月曜日から土曜日の午前8時30分から午後5時まで（日曜日、祝日、年末年始(12月29日から1月3日まで)はお休みです）"
+      },
+      "specificDate": "月曜日から土曜日の午前8時30分から午後5時まで（日曜日、祝日、年末年始(12月29日から1月3日まで)はお休みです）",
+      "holiday": "日曜日、祝日、年末年始(12月29日から1月3日まで)はお休みです",
+      "utilization": "お電話、Ｅメール、ご来庁にてご相談ください。",
+      "procedurePersons": "18歳までのお子さんとその保護者等",
+      "procedureMethod": "お電話、Ｅメール、ご来庁にてご相談ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": "17:00",
+        "conditions": "月曜日から土曜日の午前8時30分から午後5時まで（日曜日、祝日、年末年始(12月29日から1月3日まで)はお休みです）"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "国立市子ども家庭支援センター",
+      "relatedLink": [
+        {
+          "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/jicen/annai/4152.html",
+          "title": "親子のための相談LINE"
+        },
+        {
+          "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec03/gyomu/0237/0241/1564035075037.html",
+          "title": "【こども家庭庁】ホームページ"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/189-ichihayaku/",
+          "title": "子ども家庭支援センターへメールを送信"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept04/Div02/Sec03/gyomu/0237/0241/1461061703226.html",
+        "title": "子ども・子育てなんでも相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子育て支援課 子ども家庭支援センター",
+        "contactPhone": "042-573-0192",
+        "contactEx": null,
+        "contactEmail": "kokasen@city.kunitachi.lg.jp",
+        "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/53?page_no=2072",
+        "contactComment": "ファクス：042-576-2283",
+        "zipCode": "1868501",
+        "contactAddress": "国立市富士見台2-47-1 国立市役所 1階(20番窓口)"
+      },
+      "area": {
+        "areaCode": "132152;国立市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132152+2+UM119",
+        "organization": "1000020132152",
+        "compartment": "子ども家庭部 子育て支援課 子ども家庭支援センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-30",
+      "odInformation": {
+        "updateDate": "2024-07-08",
+        "updater": "国立市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "国立市の子育てに関する相談",
+        "shortName": "子ども発達相談"
+      },
+      "summary": "言葉が遅いかな？かんしゃくがひどくて大変・・・。などお子さんの発達に関することや子どもとの接し方などについて心理相談員が相談に応じます。",
+      "description": "子ども発達相談\n\nお子さんの発達にご心配なことや、子育てのしづらさはありませんか？\nたとえば、お子さんの様子で\n視線が合いづらい\n名前を呼んでもふり返らない\nことばの発達が遅い\nことばは出ているが、会話が難しい\n落ち着きがなくじっとしていられない\n集団に入れない\n集団場面での指示に応じることが難しい\n手をつながないと、どこかへ行ってしまう など\nお子さんの具体的な様子をお聞きして、かかわり方のアドバイスや、状況に応じて福祉サービスや医療機関等についての情報をお伝えします。\n相談は、予約制です。まずは下記お問い合わせへご連絡ください。\n\n受付時間\n月曜日から金曜日まで 午前8時半から午後5時まで\n(祝日及び年末年始は除く)\n\n子ども保健・発達支援係は、保健センター内にあります。下記連絡先までご連絡ください。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "たとえば、お子さんの様子で\n視線が合いづらい\n名前を呼んでもふり返らない\nことばの発達が遅い\nことばは出ているが、会話が難しい\n落ち着きがなくじっとしていられない\n集団に入れない\n集団場面での指示に応じることが難しい\n手をつながないと、どこかへ行ってしまう など\nお子さんの具体的な様子をお聞きして、かかわり方のアドバイスや、状況に応じて福祉サービスや医療機関等についての情報をお伝えします。\n相談は、予約制です。",
+        "monetarySupport": null,
+        "materiallySupport": "お子さんの具体的な様子をお聞きして、かかわり方のアドバイスや、状況に応じて福祉サービスや医療機関等についての情報をお伝えします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": "17:00",
+        "conditions": "月曜日から金曜日まで 午前8時半から午後5時まで\n(祝日及び年末年始は除く)"
+      },
+      "implementationPlace": {
+        "implementationName": "子ども保健・発達支援係は、保健センター内にあります。",
+        "implementationAddress": "国立市富士見台3-16-5(保健センター内)"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "相談は、予約制です。まずは下記お問い合わせへご連絡ください。",
+      "procedurePersons": null,
+      "procedureMethod": "相談は、予約制です。まずは下記お問い合わせへご連絡ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "子ども保健・発達支援係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kunitachi.tokyo.jp/kosodate/kosodate/hattatsu/6665.html",
+        "title": "子ども発達相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+        "contactPhone": "042-574-3311",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kunitachi.tokyo.jp/cgi-bin/inquiry.php/54?page_no=6665",
+        "contactComment": "ファクス：042-574-3930",
+        "zipCode": "1860003",
+        "contactAddress": "国立市富士見台3-16-5(保健センター内)"
+      },
+      "area": {
+        "areaCode": "132152;国立市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132152+4+UM119",
+        "organization": "1000020132152",
+        "compartment": "子ども家庭部 子育て支援課 子ども保健・発達支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-22",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "国立市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

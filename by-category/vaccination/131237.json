@@ -1,0 +1,3282 @@
+{
+  "version": "2025-07-10T02:38:54.120Z",
+  "areaCode": "131237",
+  "areaName": "江戸川区",
+  "category": "vaccination",
+  "count": 26,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "ヒブ（インフルエンザ菌b型）ワクチン"
+      },
+      "summary": "ヒブ（インフルエンザ菌b型）ワクチンは、ヘモフィルスインフルエンザ菌b型（Haemophilus influenzae type b）という細菌によって引き起こされる感染症であるヒブ感染症に対する予防接種です。ヒブ感染症は、主に5歳未満の乳幼児に発生し、肺炎や敗血症、髄膜炎などの重篤な疾患を引き起こすことがあります。ヒブワクチンは、生後2か月から5歳までの子供を対象に接種されます。接種回数やスケジュールは、初回接種時期によって異なります。",
+      "description": "ヒブ感染症は、ヘモフィルスインフルエンザ菌b型（Haemophilus influenzae type b）という細菌によって発生する病気で、そのほとんどが5歳未満で発生し、特に乳幼児で発生に注意が必要です。\n主に気道の分泌物により感染を起こし、症状がないまま菌を保有（保菌）して日常生活を送っている子どもも多くいます。この菌が何らかのきっかけで進展すると、肺炎、敗血症、髄膜炎、化膿性の関節炎等の重篤な疾患を引き起こすことがあります。",
+      "target": {
+        "targetPersons": "生後2か月から5歳に至るまでの方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後2か月から5歳に至るまでの方"
+      },
+      "support": {
+        "description": "■標準的な接種回数\n初回接種開始：生後2か月から生後7か月に至るまで\n\n初回接種の間隔：27日から56日までの間隔をおいて3回接種\n\n追加接種：初回接種終了後7か月から13か月までの間隔をおいて1回接種",
+        "monetarySupport": null,
+        "materiallySupport": "■予防接種の助成を行います。標準的な接種回数\n初回接種開始：生後2か月から生後7か月に至るまで\n\n初回接種の間隔：27日から56日までの間隔をおいて3回接種\n\n追加接種：初回接種終了後7か月から13か月までの間隔をおいて1回接種"
+      },
+      "cost": "0",
+      "costConditions": "（注）ただし、指定医療機関以外で接種する場合、予診票を持参しない場合、対象年齢を1日でも過ぎた場合は有料となります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "生後2か月から5歳に至るまでの方"
+      },
+      "implementationPlace": {
+        "implementationName": "区内指定医療機関https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/iryokikan.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "1回目の接種時期により、接種回数・スケジュールが異なります。詳しくはHPをご確認ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "初回（1回目から3回目）：生後2か月になる月の上旬"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/hib.html",
+        "title": "ヒブ（インフルエンザ菌b型）ワクチンについて"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部保健予防課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+10+UM54",
+        "organization": "1000020131237",
+        "compartment": "健康部保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-01",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "江戸川区以外の医療機関等で定期予防接種を受けるには（依頼書の発行について）"
+      },
+      "summary": "都内23区で定期予防接種を希望される場合、東京23区では、定期予防接種の相互乗り入れを実施しています。江戸川区が契約している医療機関以外でも、各区が契約している医療機関であれば江戸川区発行の予防接種予診票が使用できます。江戸川区以外の契約医療機関については、各区の予防接種担当部署または各医療機関にお問い合わせください。",
+      "description": "都内市町村または他道府県の市町村で定期予防接種を受ける場合、事前に江戸川区より依頼書の発行を受ける必要があります。\n江戸川区の依頼書を使用し予防接種を行ってから1年以内に償還払い申請を行うことで、かかった接種費用の一部又は全額が助成されます。なお、依頼書の発行を受けずに行った接種は償還払い申請の対象外となりますのでご注意ください。\nまた、江戸川区の依頼書を使用して接種を行った場合、万が一接種後の健康被害が出た際に救済措置の対象となります。\n依頼書の発行を希望する方は、下記の事項を確認の上、電子申請又は郵送にて申請してください。依頼書の発行には、区で申請を受理してから10日程度かかります。",
+      "target": {
+        "targetPersons": "対象者記載なし",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "江戸川区の依頼書を使用し予防接種を行ってから1年以内に償還払い申請を行うことで、かかった接種費用の一部又は全額が助成されます。なお、依頼書の発行を受けずに行った接種は償還払い申請の対象外となりますのでご注意ください。\n\nまた、江戸川区の依頼書を使用して接種を行った場合、万が一接種後の健康被害が出た際に救済措置の対象となります。",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種の助成を行います。江戸川区の依頼書を使用し予防接種を行ってから1年以内に償還払い申請を行うことで、かかった接種費用の一部又は全額が助成されます。なお、依頼書の発行を受けずに行った接種は償還払い申請の対象外となりますのでご注意ください。\n\nまた、江戸川区の依頼書を使用して接種を行った場合、万が一接種後の健康被害が出た際に救済措置の対象となります。"
+      },
+      "cost": null,
+      "costConditions": "無料、助成は1度限りです。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "HPをご覧ください",
+      "procedurePersons": null,
+      "procedureMethod": "HPをご覧ください",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "〒132-8507\n東京都江戸川区中央4丁目24番19号\n江戸川区健康部健康サービス課健康サービス係予防接種依頼書担当",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/iraisho.html",
+        "title": "江戸川区以外の医療機関等で定期予防接種を受けるには（依頼書の発行について）"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1638770652061",
+          "title": "予防接種依頼書の受付"
+        }
+      ],
+      "contact": {
+        "contactName": "健康部保健予防課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+11+UM54",
+        "organization": "1000020131237",
+        "compartment": "健康部保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-01",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "MR(麻しん・風しん混合）1期・2期の予防接種について"
+      },
+      "summary": "MR(麻しん・風しん混合）1期・2期の予防接種は、麻しんと風しんの予防のために行われるワクチン接種です。麻しんは麻しんウイルスによって引き起こされる急性の全身感染症であり、風しんは風しんウイルスによって引き起こされる急性の発疹性感染症です。この予防接種は、江戸川区内の指定医療機関で行われており、対象者や接種時期、費用などの詳細は区のウェブサイトで確認することができます。",
+      "description": "麻しんは、麻しんウイルスによって引き起こされる急性の全身感染症として知られています。",
+      "target": {
+        "targetPersons": "■MR1期\n1歳から2歳に至るまでの方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "■MR1期\n1歳から2歳に至るまでの方"
+      },
+      "support": {
+        "description": "MR(麻しん・風しん混合）1期・2期の予防接種",
+        "monetarySupport": null,
+        "materiallySupport": "MR(麻しん・風しん混合）1期・2期の予防接種"
+      },
+      "cost": "0",
+      "costConditions": "（注）ただし、指定医療機関以外で接種する場合、予診票を持参しない場合、対象年齢を1日でも過ぎた場合は有料となります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "区内指定医療機関;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/iryokikan.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "予診票の送付時期\n■MR1期\n1歳になる月の上旬\n\n■MR2期\n小学校就学前年の4月上旬"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/mr.html",
+        "title": "MR(麻しん・風しん混合）1期・2期の予防接種について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部保健予防課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+12+UM54",
+        "organization": "1000020131237",
+        "compartment": "健康部保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-01",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "MR(麻しん・風しん混合）1期・2期の予防接種について"
+      },
+      "summary": "MR(麻しん・風しん混合）1期・2期の予防接種は、麻しんと風しんの予防のために行われるワクチン接種です。麻しんは麻しんウイルスによって引き起こされる急性の全身感染症であり、風しんは風しんウイルスによって引き起こされる急性の発疹性感染症です。この予防接種は、江戸川区内の指定医療機関で行われており、対象者や接種時期、費用などの詳細は区のウェブサイトで確認することができます。",
+      "description": "麻しんは、麻しんウイルスによって引き起こされる急性の全身感染症として知られています。",
+      "target": {
+        "targetPersons": "■MR2期\n5歳以上7歳未満の方で、小学校就学前の4月1日から3月31日まで\n（注）令和6年度は、平成30年4月2日から平成31年4月1日生まれの方が対象です。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 5,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "■MR2期\n5歳以上7歳未満の方で、小学校就学前の4月1日から3月31日まで\n（注）令和6年度は、平成30年4月2日から平成31年4月1日生まれの方が対象です。"
+      },
+      "support": {
+        "description": "MR(麻しん・風しん混合）1期・2期の予防接種",
+        "monetarySupport": null,
+        "materiallySupport": "MR(麻しん・風しん混合）1期・2期の予防接種"
+      },
+      "cost": "0",
+      "costConditions": "（注）ただし、指定医療機関以外で接種する場合、予診票を持参しない場合、対象年齢を1日でも過ぎた場合は有料となります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "区内指定医療機関;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/iryokikan.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "予診票の送付時期\n■MR1期\n1歳になる月の上旬\n\n■MR2期\n小学校就学前年の4月上旬"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/mr.html",
+        "title": "MR(麻しん・風しん混合）1期・2期の予防接種について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部保健予防課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+13+UM54",
+        "organization": "1000020131237",
+        "compartment": "健康部保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-01",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の医療費助成制度（ぜん息など）",
+        "shortName": "B型・C型ウイルス肝炎治療医療費助成制度／肝がん・重度肝硬変医療費助成制度"
+      },
+      "summary": "ウイルス性肝炎に関する助成・給付金制度は、江戸川区内に住民登録されている方のための制度です。具体的には、B型・C型ウイルス肝炎治療医療費助成制度や肝がん・重度肝硬変医療費助成制度などがあります。また、肝炎精密検査費用助成制度もあり、定期検査費用が助成されます（所得制限あり）。詳細や申請については、東京都の保健医療局のホームページを参照してください。",
+      "description": "B型・C型ウイルス肝炎治療医療費助成制度／肝がん・重度肝硬変医療費助成制度\n江戸川区内に住民登録されている方の申請受付を、江戸川保健所および区内の健康サポートセンターで行っています。\nB型・C型ウイルス肝炎治療医療費助成制度;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/iryo/josei/hepatitis.html\n肝がん・重度肝硬変医療費助成制度;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/iryo/josei/liver_cancer.html\n\n肝炎精密検査費用助成【定期検査】\n肝炎ウイルスによる慢性肝炎・肝硬変・肝がんで療養中で、「B型・C型ウイルス肝炎治療医療費助成制度」を受けていない方は、年2回まで定期検査費用が助成されます（所得制限あり）。\n対象は血液検査、超音波検査（肝硬変・肝がんはCT・MRI）などで、東京都が指定する医療機関で受けたものです。\n制度の詳細と申請については、東京都に直接お問い合わせください。\n問い合わせ、申請先\n東京都保健医療局ホームページ「東京都のウイルス肝炎対策」;https://www.hokeniryo.metro.tokyo.lg.jp/kenkou/kenkou/kanen_senryaku/index.html\n東京都保健医療局保健政策部疾病対策課\n〒163-8001\n東京都新宿区西新宿2丁目8番1号\n電話：03-5320-4476\n\nC型肝炎特別措置法に基づく給付金\n出産や手術での大量出血の際に、特定の血液製剤を投与されたことにより、C型肝炎ウイルスに感染した方に対して給付金を支給する国の制度です。\n給付金の支給を受けるためには、2023年1月16日までに国を相手とする裁判を提起する必要があります。\n問い合わせ先\n下記リンクより、厚生労働省に直接お問い合わせください。\n厚生労働省ホームページ「出産や手術で大量出血した方等へ」;http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000150855.html\n政府広報オンライン;http://www.gov-online.go.jp/useful/article/201207/1.html\n\n特定B型肝炎ウイルス感染者給付金等の支給に関する特別措置法に基づく給付金\nこの給付金は、7歳になるまでに、集団予防接種等（昭和23年7月1日から昭和63年1月27日までの間に限る）の際の注射器の連続使用により、B型肝炎ウイルスに感染した方と、その方から母子感染した方（これらの方々の相続人を含む）に対して、給付金を支給する国の制度です。\n給付の対象となる方の認定は、裁判所において救済要件に合致するかどうか、証拠に基づき確認していくこととなります。このため、この給付金を受け取るためには、国を相手とする国家賠償請求訴訟を提起して、国との間で和解等を行う必要があります。\n問い合わせ先\n下記リンクより、厚生労働省に直接お問い合わせください。\n厚生労働省ホームページ「B型肝炎訴訟について」;http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/b-kanen/",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/kansen/kanen/hepatitis-payment.html",
+        "title": "ウイルス性肝炎に関する助成・給付金制度"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉部障害者福祉課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://faq.city.edogawa.tokyo.jp/cgi-bin/faq/form.cgi",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+13+UM66",
+        "organization": "1000020131237",
+        "compartment": "福祉部障害者福祉課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-07-03",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": null,
+        "targetCode": null,
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "日本脳炎予防接種"
+      },
+      "summary": "日本脳炎予防接種は、日本脳炎という病気を予防するために行われるワクチン接種のことです。日本脳炎は、日本脳炎ウイルスによって引き起こされる感染症で、蚊を介して感染します。症状としては、高熱、頭痛、嘔吐などが現れ、神経系の障害を引き起こすこともあります。日本脳炎予防接種は、生後6か月から7歳6か月までの子どもや、9歳から13歳未満の子どもを対象としています。特例制度もあり、平成7年4月2日から平成19年4月1日生まれの方、平成19年4月2日から平成21年10月1日生まれた方も対象となる場合があります。詳細は江戸川区のホームページをご覧ください。",
+      "description": "日本脳炎は、日本脳炎ウイルスにより発生する疾病で、蚊を介して感染します。以前は子どもや高齢者に多くみられた病気です。突然の高熱、頭痛、嘔吐などで発病し、意識障害や麻痺等の神経系の障害を引き起こす病気で、後遺症を残すことや死に至ることもあります。",
+      "target": {
+        "targetPersons": "1期\n生後6か月から7歳6か月に至るまで\n平成21年10月1日以前に生まれた方は特例制度の対象となります。詳しくは、日本脳炎予防接種の特例についてのページをご覧ください。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "■1期\n生後6か月から7歳6か月に至るまで"
+      },
+      "support": {
+        "description": "日本脳炎ワクチン予防接種1期・2期の予防接種",
+        "monetarySupport": null,
+        "materiallySupport": "日本脳炎ワクチン予防接種1期・2期の予防接種"
+      },
+      "cost": "0",
+      "costConditions": "（注）ただし、指定医療機関以外で接種する場合、予診票を持参しない場合、対象年齢を1日でも過ぎた場合は有料となります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "1期\n生後6か月から7歳6か月に至るまで\n平成21年10月1日以前に生まれた方は特例制度の対象となります。詳しくは、日本脳炎予防接種の特例についてのページをご覧ください。"
+      },
+      "implementationPlace": {
+        "implementationName": "区内指定医療機関;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/iryokikan.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "予診票の送付時期\n■1期（初回1回目から2回目）\n3歳になる月の上旬\n\n■1期（追加）\n4歳になる月の上旬\n\n平成29年4月1日から平成30年3月31日生まれの方は、一時的なワクチン不足による国からの指示で、令和4年度の5歳になる月の上旬に送付しました。\n\n■2期\n9歳になる月の上旬\n\n平成24年4月1日から平成25年3月31日生まれの方は、一時的なワクチン不足による国からの指示で、令和4年度の10歳になる月の上旬に送付しました。"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/nichinou.html;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/nitinoukakudai.html",
+        "title": "日本脳炎予防接種について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部保健予防課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+14+UM54",
+        "organization": "1000020131237",
+        "compartment": "健康部保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-01",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "日本脳炎予防接種"
+      },
+      "summary": "日本脳炎予防接種は、日本脳炎という病気を予防するために行われるワクチン接種のことです。日本脳炎は、日本脳炎ウイルスによって引き起こされる感染症で、蚊を介して感染します。症状としては、高熱、頭痛、嘔吐などが現れ、神経系の障害を引き起こすこともあります。日本脳炎予防接種は、生後6か月から7歳6か月までの子どもや、9歳から13歳未満の子どもを対象としています。特例制度もあり、平成7年4月2日から平成19年4月1日生まれの方、平成19年4月2日から平成21年10月1日生まれた方も対象となる場合があります。詳細は江戸川区のホームページをご覧ください。",
+      "description": "日本脳炎は、日本脳炎ウイルスにより発生する疾病で、蚊を介して感染します。以前は子どもや高齢者に多くみられた病気です。突然の高熱、頭痛、嘔吐などで発病し、意識障害や麻痺等の神経系の障害を引き起こす病気で、後遺症を残すことや死に至ることもあります。",
+      "target": {
+        "targetPersons": "2期\n9歳から13歳未満まで\n平成19年4月1日以前に生まれた方は特例制度の対象となります。詳しくは、日本脳炎予防接種の特例についてのページをご覧ください。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 9,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "■2期\n9歳から13歳未満まで"
+      },
+      "support": {
+        "description": "日本脳炎ワクチン予防接種1期・2期の予防接種",
+        "monetarySupport": null,
+        "materiallySupport": "日本脳炎ワクチン予防接種1期・2期の予防接種"
+      },
+      "cost": "0",
+      "costConditions": "（注）ただし、指定医療機関以外で接種する場合、予診票を持参しない場合、対象年齢を1日でも過ぎた場合は有料となります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "2期\n9歳から13歳未満まで\n平成19年4月1日以前に生まれた方は特例制度の対象となります。詳しくは、日本脳炎予防接種の特例についてのページをご覧ください。"
+      },
+      "implementationPlace": {
+        "implementationName": "区内指定医療機関;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/iryokikan.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "予診票の送付時期\n■1期（初回1回目から2回目）\n3歳になる月の上旬\n\n■1期（追加）\n4歳になる月の上旬\n\n平成29年4月1日から平成30年3月31日生まれの方は、一時的なワクチン不足による国からの指示で、令和4年度の5歳になる月の上旬に送付しました。\n\n■2期\n9歳になる月の上旬\n\n平成24年4月1日から平成25年3月31日生まれの方は、一時的なワクチン不足による国からの指示で、令和4年度の10歳になる月の上旬に送付しました。"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/nichinou.html,https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/nitinoukakudai.html",
+        "title": "日本脳炎予防接種について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部保健予防課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+15+UM54",
+        "organization": "1000020131237",
+        "compartment": "健康部保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-01",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "ロタウイルス予防接種"
+      },
+      "summary": "令和2年10月1日よりロタウイルス予防接種が定期接種化され、対象者は無料で受けられます。ロタウイルスによって引き起こされる急性の胃腸炎で、乳幼児期（0～6歳ころ）にかかりやすい病気です。主な症状は、水のような下痢、吐き気、嘔吐（おうと）、発熱、腹痛です。\nふつう、5歳までにほぼすべての子どもがロタウイルスに感染するといわれています。脱水症状がひどくなると入院治療が必要になることがあります。5歳までの急性胃腸炎の入院患者のうち、40～50％前後はロタウイルスが原因です。\nロタウイルス感染症の予防接種として接種できるワクチンは2種類あります。\n ワクチンにより対象期間や接種回数が異なりますが、どちらも予防効果や安全性に差はありません。\n原則、接種するワクチンの途中回数での変更はできません。同じワクチンで規定の回数分の接種を受けてください。",
+      "description": "接種するワクチンにより対象となる期間が異なります。\nロタリックス　出生6週0日後から出生24週0日後まで\nロタテック　出生6週0日後から出生32週0日後まで",
+      "target": {
+        "targetPersons": "接種するワクチンにより対象となる期間が異なります。\n\n■ロタリックス\n出生6週0日後から出生24週0日後まで\n\n■ロタテック\n出生6週0日後から出生32週0日後まで",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "接種するワクチンにより対象となる期間が異なります。\nロタリックス　出生6週0日後から出生24週0日後まで\nロタテック　出生6週0日後から出生32週0日後まで"
+      },
+      "support": {
+        "description": "接種するワクチンにより接種回数が異なります。\nロタリックス　27日以上の間隔をあけて2回接種\nただし、1回目接種は出生14週6日後までに接種してください。安全性の観点から、1回目接種を出生15週0日後以降に受けることはおすすめしていません。\nロタテック　27日以上の間隔をあけて3回接種\nただし、1回目接種は出生14週6日後までに接種してください。安全性の観点から、1回目接種を出生15週0日後以降に受けることはおすすめしていません。",
+        "monetarySupport": null,
+        "materiallySupport": "接種するワクチンにより接種回数が異なります。\nロタリックス　27日以上の間隔をあけて2回接種\nただし、1回目接種は出生14週6日後までに接種してください。安全性の観点から、1回目接種を出生15週0日後以降に受けることはおすすめしていません。\nロタテック　27日以上の間隔をあけて3回接種\nただし、1回目接種は出生14週6日後までに接種してください。安全性の観点から、1回目接種を出生15週0日後以降に受けることはおすすめしていません。"
+      },
+      "cost": "0",
+      "costConditions": "（注）ただし、指定医療機関以外で接種する場合、予診票を持参しない場合、対象年齢を1日でも過ぎた場合は有料となります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "生後2か月になる月の上旬\n（注）3回分の予診票を送付いたします。ロタリックスを接種される場合、3回目は使用しませんのでご注意ください。"
+      },
+      "implementationPlace": {
+        "implementationName": "区内指定医療機関;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/iryokikan.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "予診票の送付時期\n生後2か月になる月の上旬"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/rota.html",
+        "title": "ロタウイルス予防接種について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部保健予防課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+16+UM54",
+        "organization": "1000020131237",
+        "compartment": "健康部保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-01",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "小児用肺炎球菌ワクチン予防接種"
+      },
+      "summary": "小児用肺炎球菌ワクチン予防接種は、肺炎球菌感染症を予防するためのワクチン接種です。肺炎球菌感染症は、肺炎球菌という細菌によって引き起こされる病気で、特に乳幼児に注意が必要です。このワクチンは、生後2か月から5歳までの子どもを対象にしています。接種回数やスケジュールは、年齢によって異なります。詳細な情報は、江戸川区の公式ウェブサイトを参照してください。",
+      "description": "肺炎球菌感染症は、肺炎球菌という細菌によって発生する病気で、そのほとんどが5歳未満で発生し、特に乳幼児で発生に注意が必要です。\n主に気道の分泌物により感染を起こし、症状がないまま菌を保有（保菌）して日常生活を送っている子どもも多くいます。集団生活が始まるとほとんどの子どもが持っているといわれる菌で、主に気道の分泌物により感染を起こします。しかし、これらこの菌が何らかのきっかけで進展すると、肺炎、中耳炎、敗血症、髄膜炎等になったり、あるいは血液中に菌が侵入するなどして重篤な状態になることがあります。",
+      "target": {
+        "targetPersons": "生後2か月から5歳に至るまでの方",
+        "lessThan": {
+          "targetAge": 5,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後2か月から5歳に至るまでの方"
+      },
+      "support": {
+        "description": "標準的な接種期間\n初回接種開始：生後2か月から生後7か月に至るまで\n初回接種の間隔：1歳に至るまでに27日以上の間隔をおいて3回接種\n追加接種：初回接種終了後60日以上の間隔をおいて、1歳から1歳3か月に至るまでの間に1回接種",
+        "monetarySupport": null,
+        "materiallySupport": "標準的な接種期間\n初回接種開始：生後2か月から生後7か月に至るまで\n初回接種の間隔：1歳に至るまでに27日以上の間隔をおいて3回接種\n追加接種：初回接種終了後60日以上の間隔をおいて、1歳から1歳3か月に至るまでの間に1回接種"
+      },
+      "cost": "0",
+      "costConditions": "（注）ただし、指定医療機関以外で接種する場合、予診票を持参しない場合、対象年齢を1日でも過ぎた場合は有料となります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "標準的な接種期間\n初回接種開始：生後2か月から生後7か月に至るまで\n初回接種の間隔：1歳に至るまでに27日以上の間隔をおいて3回接種\n追加接種：初回接種終了後60日以上の間隔をおいて、1歳から1歳3か月に至るまでの間に1回接種"
+      },
+      "implementationPlace": {
+        "implementationName": "区内指定医療機関;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/iryokikan.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "HPをご覧ください",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "予診票の送付時期\n初回（1回目から3回目）：生後2か月になる月の上旬\n\n追加：1歳になる月の上旬"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/rota.html",
+        "title": "小児用肺炎球菌ワクチン予防接種について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部保健予防課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+17+UM54",
+        "organization": "1000020131237",
+        "compartment": "健康部保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-06",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "子宮頸がんワクチン予防接種"
+      },
+      "summary": "子宮頸がんワクチン予防接種は、子宮頸がん（HPV）を予防するためのワクチンの接種です。子宮頸がんは、子宮の入り口である子宮頸部にできるがんであり、性行為によって感染することが多いです。子宮頸がんワクチンは、発がん性HPV（ヒトパピローマウイルス）による感染を予防するために接種されます。ワクチン接種によって、子宮頸がんの発症リスクを低減することが期待されています。\n\n子宮頸がんワクチン予防接種は、平成25年6月から積極的勧奨が差し控えられていましたが、令和3年11月に厚生労働省より、積極的勧奨を再開することが通知されました。現在は、通常の接種対象の方だけでなく、積極的勧奨の差し控えにより接種機会を逃した方に対しても公費での接種が実施されています。子宮頸がんワクチンの接種後も、ワクチンでは予防できない型の発がん性HPVによる病変を早期発見するために、子宮頸がん検診の受診が必要です。",
+      "description": "子宮頸がん（HPV）ワクチン予防接種は平成25年6月から積極的勧奨が差し控えられていましたが、令和3年11月に厚生労働省より、積極的勧奨を再開することが通知がされました。\n厚生労働省において、最新の知見を踏まえ、改めてHPVワクチンの安全性について特段の懸念が認められないことが確認され、接種によって子宮頸がんを予防できるという有効性が副反応のリスクを明らかに上回ると認められたためです。\n現在、通常の接種対象の方だけでなく、積極的勧奨の差し控えにより接種機会を逃した方に対して公平な接種機会を確保するために、令和4年4月1日から令和7年3月31日までの3年間、キャッチアップ接種として公費での接種も実施しています。\nまた、令和5年1月30日付で厚生労働省から予防接種実施規則の一部を改正する省令が公布され、令和5年4月1日からHPVワクチンに9価ワクチン（シルガード9）が追加されることになりました。これにより定期接種及びキャッチアップ接種の対象ワクチンは2価ワクチン（サーバリックス）・4価ワクチン（ガーダシル）・9価ワクチン（シルガード9）の3種類になります。\n令和5年4月から、定期接種対象者及びキャッチアップ接種対象者は、9価ワクチン（シルガード9）も公費で接種することができます。",
+      "target": {
+        "targetPersons": "■予診票の送付対象者\n令和5年度において中学1年生の女子（平成22年4月2日から平成23年4月1日生まれの女子）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "令和6年度において中学1年生の女子（平成23年4月2日から平成24年4月1日生まれの女子）"
+      },
+      "support": {
+        "description": "定期接種(小学校6年生から高校1年生に相当する年齢の女子)\nキャッチアップ接種(平成9年4月2日から平成20年4月1日生まれの女子)（注）積極的勧奨の差し控え期間に接種対象年齢を過ぎてしまった方へ",
+        "monetarySupport": null,
+        "materiallySupport": "定期接種(小学校6年生から高校1年生に相当する年齢の女子)\nキャッチアップ接種(平成9年4月2日から平成20年4月1日生まれの女子)（注）積極的勧奨の差し控え期間に接種対象年齢を過ぎてしまった方へ"
+      },
+      "cost": "0",
+      "costConditions": "（注）ただし、指定医療機関以外で接種する場合、予診票を持参しない場合、対象年齢を1日でも過ぎた場合は有料となります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": "2025-03-31",
+        "toHM": null,
+        "conditions": "接種期限\n令和7年3月31日まで\n（注）転入や任意接種済の方など、区に接種履歴が無い方は、接種が完了していても予診票が届く場合があります。既に接種を完了(3回接種)している方は、届いた予診票を破棄してください。\n標準的な接種期間\n中学校1年生から高等学校1年生に相当する年度\n令和6年度において高等学校2年生相当の女子（平成19年4月2日から平成20年4月1日生まれの女子で、予診票の発行歴があり、かつ子宮頸がんワクチン3回目の接種歴が江戸川区にない方）"
+      },
+      "implementationPlace": {
+        "implementationName": "区内指定医療機関;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/iryokikan.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/sikyuukeigann.html",
+        "title": "子宮頸がんワクチン予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部保健予防課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+18+UM54",
+        "organization": "1000020131237",
+        "compartment": "健康部保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-02",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "水痘ワクチン"
+      },
+      "summary": "水痘ワクチン予防接種は、いわゆる「みずぼうそう」と呼ばれる水痘という病気を予防するためのワクチン接種です。水痘は水痘帯状疱疹ウイルスによって引き起こされる発疹性の病気で、主に小児に発症します。水痘は空気感染、飛沫感染、接触感染によって広がります。水痘の症状は発熱や発疹であり、一部の重症化することもあります。水痘ワクチン予防接種は、1歳から3歳までの子供を対象に、1歳の上旬に予防接種の予約を行い、1歳から1歳3か月までの間に1回目の接種を受け、その後6か月から1年の間隔をおいて2回目の接種を受けることが標準的なスケジュールです。水痘ワクチン予防接種は、江戸川区内の指定医療機関または23区内の指定医療機関で受けることができます。費用は無料ですが、予診票を持参しない場合や対象年齢を1日でも過ぎた場合は有料となります。詳細な情報は江戸川区のwebサイトを参照してください。",
+      "description": "水痘は主に小児の病気で、9歳以下での発症が90%以上を占めると言われています。小児における重症化は、熱性痙攣、肺炎、気管支炎等の合併症によるものです。成人での水痘も稀に見られますが、成人に水痘が発症した場合、水痘そのものが重症化するリスクが高いと言われています。",
+      "target": {
+        "targetPersons": "1歳から3歳に至るまで",
+        "lessThan": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1歳から3歳に至るまで"
+      },
+      "support": {
+        "description": "1回目：1歳から1歳3か月に達するまでの間に接種\n2回目：1回目の接種後6か月から1年の間隔をおいて接種",
+        "monetarySupport": null,
+        "materiallySupport": "1回目：1歳から1歳3か月に達するまでの間に接種\n2回目：1回目の接種後6か月から1年の間隔をおいて接種"
+      },
+      "cost": "0",
+      "costConditions": "（注）ただし、指定医療機関以外で接種する場合、予診票を持参しない場合、対象年齢を1日でも過ぎた場合は有料となります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "1回目：1歳から1歳3か月に達するまでの間に接種\n2回目：1回目の接種後6か月から1年の間隔をおいて接種"
+      },
+      "implementationPlace": {
+        "implementationName": "区内指定医療機関;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/iryokikan.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "HPをご覧ください",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "予診票の送付時期\n1歳になる月の上旬"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/rota.html",
+        "title": "水痘ワクチンについて"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部保健予防課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+19+UM54",
+        "organization": "1000020131237",
+        "compartment": "健康部保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-01",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊娠の届出・母子健康手帳の交付",
+        "shortName": "妊娠届・親子健康手帳（母子健康手帳）"
+      },
+      "summary": "妊娠がわかったら妊娠の届出をしてください。妊娠の届出をした妊婦さんに母子健康手帳を交付します。母子健康手帳は、妊娠からお子さんが１８歳までの、母と子の健康の記録です。育児、予防接種、健康診査などの際に必要となります。",
+      "description": "妊娠の届出について\n医療機関で妊娠を確認されたら健康サポートセンター;https://www.city.edogawa.tokyo.jp/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/index.htmlに妊娠届を出しましょう。\n妊娠届を提出後、親子健康手帳（母子健康手帳）と妊婦健康診査受診票等が入った「母と子の保健バッグ」をお渡しします。\n\n江戸川区では安心して出産を迎えていただくために、保健師等による妊婦全数面接事業「ぴよママ相談」;https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/kosodateouennjigyou.htmlを行っています。ぴよママ相談終了後には「ぴよママギフト」（こども夢商品券9,500円分）をお渡ししています。\n詳しくは「ぴよママ相談（妊婦全数面接事業）」をご覧ください。\n\nまた、令和5年4月からは、ぴよママ相談終了後に「出産応援ギフト」の電子申請をしていただきます。詳しくは「出産・子育て応援給付金事業（国事業）」;https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/shussankosodatekouhukin.htmlをご覧ください。\n\n郵送申請をご希望の方は「郵送申請について」、マイナンバーカードによる電子申請をご希望の方は「電子申請（マイナンバーカード「ぴったりサービス」）について」をお読みいただき、注意点をご確認ください。\n（郵送申請や電子申請だけでは「ぴよママギフト」はお渡ししていません。）\n\n 必要書類\n妊婦本人の場合\n身元確認書類（例：マイナンバーカード（個人番号カード）、運転免許証、パスポートなど写真付きの場合1点、健康保険証など写真なしの場合は2点）\nマイナンバーカード（個人番号カード）又は通知カード\n診察券等（必須ではありませんが病院・助産所名と住所、医師・助産師名、妊娠週数、出産予定日などを記載していただきますのであるとスムーズです。）\n代理人の場合\n代理権確認書類（任意代理人：委任状や妊婦本人しか持ちえない書類。例：妊婦の運転免許や健康保険証など、法定代理人（妊婦が20歳未満など）：戸籍謄本、住民票、妊婦本人しか持ちえない書類）\n代理人の身元確認書類（例：マイナンバーカード（個人番号カード）、運転免許証、パスポートなど写真付きの場合1点、健康保険証など写真なしの場合は2点）\n妊婦のマイナンバーカード（個人番号カード）又は通知カード\n診察券等（必須ではありませんが病院・助産所名と住所、医師・助産師名、妊娠週数、出産予定日などを記載していただきますのであるとスムーズです。）\n委任状（PDF：315KB）;https://www.city.edogawa.tokyo.jp/documents/7755/ininboshite.pdf別ウィンドウで開きます\n\nマイナンバー利用について等の詳細は「妊娠届提出時の本人確認について」をご覧ください。\n\n届出窓口\n各健康サポートセンター\n\n受付時間\n月曜日から金曜日の午前8時30分から午後4時30分まで（祝日及び年末年始を除く）\n\nお渡しするもの\n親子健康手帳（母子健康手帳）\n妊娠、出産の経過やお子さんの成長、予防接種などを記録する手帳です。\n親子健康手帳（母子健康手帳）に妊娠中の経過などが記入されていると、里帰り出産などの際にもこれまでの経過がわかり診察の参考になります。子どもが大きくなってからも発育・発達の経過や予防接種の記録が役に立ちます。\n\n（注）江戸川区では、父の育児参画の推進や学齢期までの記録欄の追加など内容を拡充し、親しみやすい冊子として、令和2年度より「母子健康手帳」の表記を「親子健康手帳（母子健康手帳）」としています。\n\n母と子の保健バッグ\n都内契約医療機関で利用できる「妊婦健康診査受診票」「妊婦歯科健診受診票」「新生児聴覚検査受診票」の他、区で実施している事業のパンフレットや保健サービスの案内、マタニティマーク等が入っています。\n\n郵送申請について\n郵送申請を希望される方は、次のものをご準備・ご郵送ください。郵送での妊娠届受理後に「親子健康手帳（母子健康手帳）」と「母と子の保健バック」を返送いたします。\n\n準備するもの\n妊娠届出書（PDF：519KB）;https://www.city.edogawa.tokyo.jp/documents/7755/r3ninshintodoke.pdf別ウィンドウで開きますをダウンロードし、個人番号以外の箇所を記入してください。（個人番号は記入しないでください。）\n本人確認書類の写し（例：マイナンバーカード（個人番号カード）の表（おもて）面のみ（注意）、運転免許証、パスポート、健康保険証など、住所確認できるもの）\n（注意）マイナンバーカードは、プラスチック製のICチップ付きカードです。表（おもて）面は氏名・住所・性別・生年月日・顔写真が表示されています。裏面にはマイナンバーが表示されていますので、裏面の写しは添付しないでください。\n返送用のレターパックライト（370円）：返送先の宛名（氏名・住所・電話）を記入してください。\n1から3を下記へ郵送してください。\n\n郵送先\n〒132-8507\n江戸川区中央4丁目24番19号\n健康サービス課母子保健係\n\n郵送申請の注意事項\n親子健康手帳（母子健康手帳）や妊婦健康診査受診票がお手元に到着するまでに、投函後10日から2週間程度かかります。\n江戸川区では安心して出産を迎えていただくために、保健師等による妊婦全数面接事業（ぴよママ相談）を行っています。「ぴよママ相談」終了後には「ぴよママギフト」（こども夢商品券9,500円分）をお渡ししています。体調をみて、出産前（妊娠中）に健康サポートセンターにお越しください。\nぴったりサービスからの電子申請について\nマイナポータル（妊娠の届出）から「ログイン」をしたうえで、申請手続きを行ってください。\n\n妊娠の届出の電子申請ページ別ウィンドウで開きます\n\nぴったりサービスの注意事項\n電子申請するためにはマイナンバーカード（個人番号カード）が必要です。また、スマートフォン別ウィンドウで開きますもしくはカードリーダライター付きのパソコンが必要です。\n申請できるのは妊婦の方ご本人のみです。代理申請はできません。\n申請には必ず「ログイン」が必要です。\n電子申請後、必ず母子保健係（電話：03-5661-2466）にご連絡ください。\n親子健康手帳（母子健康手帳）、妊婦健康診査受診票等の交付は健康サポートセンターで行いますので、電子申請後、別途必要書類を持って健康サポートセンター窓口へお越しいただくことになります。\n（電子申請を行っても、親子健康手帳（母子健康手帳）等はお送りいたしません。）\n江戸川区では安心して出産を迎えていただくために、保健師等による妊婦全数面接事業「ぴよママ相談」を行っています。\n「ぴよママ相談」終了後には「ぴよママギフト」（こども夢商品券9,500円分）をお渡ししています。体調をみて、出産前（妊娠中）に健康サポートセンターにお越しください。\nお問い合わせ\n健康サービス課母子保健係（電話：03-5661-2466）\n\n関連リンク\nマタニティーマーク妊娠届提出時の本人確認について\n妊婦全数面接事業（ぴよママ相談）\n妊婦健診;https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/ninpukenshin.html\n新生児訪問;https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kodomo/homon.html\n赤ちゃん訪問事業;https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kodomo/mimamori.html\n先天性風しん症候群について（厚生労働省ホームページ）;https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/rubella/\n子育て支援アプリ「ぴよナビえどがわ」;https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/piyonabi.html",
+      "target": {
+        "targetPersons": "妊婦",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "親子健康手帳（母子健康手帳）\n妊娠、出産の経過やお子さんの成長、予防接種などを記録する手帳です。\n親子健康手帳（母子健康手帳）に妊娠中の経過などが記入されていると、里帰り出産などの際にもこれまでの経過がわかり診察の参考になります。子どもが大きくなってからも発育・発達の経過や予防接種の記録が役に立ちます。\n\n（注）江戸川区では、父の育児参画の推進や学齢期までの記録欄の追加など内容を拡充し、親しみやすい冊子として、令和2年度より「母子健康手帳」の表記を「親子健康手帳（母子健康手帳）」としています。\n\n母と子の保健バッグ\n都内契約医療機関で利用できる「妊婦健康診査受診票」「妊婦歯科健診受診票」「新生児聴覚検査受診票」の他、区で実施している事業のパンフレットや保健サービスの案内、マタニティマーク等が入っています。",
+        "monetarySupport": null,
+        "materiallySupport": "親子健康手帳（母子健康手帳）\n妊娠、出産の経過やお子さんの成長、予防接種などを記録する手帳です。\n親子健康手帳（母子健康手帳）に妊娠中の経過などが記入されていると、里帰り出産などの際にもこれまでの経過がわかり診察の参考になります。子どもが大きくなってからも発育・発達の経過や予防接種の記録が役に立ちます。\n\n（注）江戸川区では、父の育児参画の推進や学齢期までの記録欄の追加など内容を拡充し、親しみやすい冊子として、令和2年度より「母子健康手帳」の表記を「親子健康手帳（母子健康手帳）」としています。\n\n母と子の保健バッグ\n都内契約医療機関で利用できる「妊婦健康診査受診票」「妊婦歯科健診受診票」「新生児聴覚検査受診票」の他、区で実施している事業のパンフレットや保健サービスの案内、マタニティマーク等が入っています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": "16:30",
+        "conditions": "月曜日から金曜日の午前8時30分から午後4時30分まで（祝日及び年末年始を除く）"
+      },
+      "electronicSubmission": true,
+      "belongings": "妊婦本人の場合\n身元確認書類（例：マイナンバーカード（個人番号カード）、運転免許証、パスポートなど写真付きの場合1点、健康保険証など写真なしの場合は2点）\nマイナンバーカード（個人番号カード）又は通知カード\n診察券等（必須ではありませんが病院・助産所名と住所、医師・助産師名、妊娠週数、出産予定日などを記載していただきますのであるとスムーズです。）\n代理人の場合\n代理権確認書類（任意代理人：委任状や妊婦本人しか持ちえない書類。例：妊婦の運転免許や健康保険証など、法定代理人（妊婦が20歳未満など）：戸籍謄本、住民票、妊婦本人しか持ちえない書類）\n代理人の身元確認書類（例：マイナンバーカード（個人番号カード）、運転免許証、パスポートなど写真付きの場合1点、健康保険証など写真なしの場合は2点）\n妊婦のマイナンバーカード（個人番号カード）又は通知カード\n診察券等（必須ではありませんが病院・助産所名と住所、医師・助産師名、妊娠週数、出産予定日などを記載していただきますのであるとスムーズです。）\n委任状（PDF：315KB）;https://www.city.edogawa.tokyo.jp/documents/7755/ininboshite.pdf\n\nマイナンバー利用について等の詳細は「妊娠届提出時の本人確認について」をご覧ください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "お住まいの地域の健康サポートセンター",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kodomo/homon.html",
+          "title": "新生児訪問"
+        },
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/ninpukenshin.html",
+          "title": "妊婦健診"
+        },
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/documents/7755/r3ninshintodoke.pdf",
+          "title": "妊娠届出書（PDF：519KB）"
+        },
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/ninnshinntodokehonnninnkakuninn.html",
+          "title": "妊娠届提出時の本人確認について」"
+        },
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/documents/7755/ininboshite.pdf",
+          "title": "委任状（PDF：315KB）"
+        },
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/shussankosodatekouhukin.html",
+          "title": "出産・子育て応援給付金事業（国事業）"
+        },
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/index.html",
+          "title": "健康サポートセンター"
+        },
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/kosodateouennjigyou.html",
+          "title": "婦全数面接事業「ぴよママ相談」"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/rubella/",
+          "title": "先天性風しん症候群について（厚生労働省ホームページ）子育て支援アプリ「ぴよナビえどがわ」"
+        },
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kodomo/mimamori.html",
+          "title": "赤ちゃん訪問事業"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/boshitecho.html",
+        "title": "妊娠届・親子健康手帳（母子健康手帳）"
+      },
+      "formLink": [
+        {
+          "uri": "https://app.oss.myna.go.jp/Application/procdetail/initGet?kc9XUt9I8/CU41afS8P1OaaLxX/9+D2bXPzn80LiqLRKeI438ftq6avj3ZAt+N8AcoQuG3PXNguA/exUOrTECpoRgQMvC1nFYsqZ30Du7y0e5dVC/9bMTh67hHd8S3kP2sk/hZqwcYlOVI9rpi/B7g==",
+          "title": "妊娠の届出の電子申請ページ（外部サイトへリンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "健康サービス課母子保健係",
+        "contactPhone": "03-5661-2466",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://faq.city.edogawa.tokyo.jp/cgi-bin/faq/form.cgi",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+1+UM1",
+        "organization": "1000020131237",
+        "compartment": "健康サービス課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-02-01",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第15条（妊娠の届出）、第16条（母子健康手帳）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "077"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "骨髄移植等により免疫を消失した方の予防接種再接種費用の助成"
+      },
+      "summary": "骨髄移植等により免疫を消失した方の予防接種再接種費用の助成は、骨髄移植等により免疫が消失した方が、定期予防接種として接種を受けたワクチンの予防効果が期待できず、再接種が必要と医師に診断された場合に、再度予防接種を受ける際の接種費用の一部または全額を助成する制度です。助成額は、実際に支払った金額と江戸川区が区内指定医療機関と契約する契約単価のうち、金額が少ない方が適用されます。助成を受けるためには、事前申請が必要であり、再接種後に償還払いの申請を行う必要があります。具体的な申請方法や必要な書類については、保健予防課庶務係の窓口にお問い合わせください。",
+      "description": "骨髄移植等により、定期予防接種として接種を受けたワクチンの予防効果が期待できず再接種が必要と医師に診断された方に対して、再度予防接種を受ける際の接種費用の一部又は全額を助成します。",
+      "target": {
+        "targetPersons": "下記の全てに該当する方(ロタウイルスは、再接種費用助成の対象外です。)\n■骨髄移植等により、定期予防接種として接種を受けたワクチンの予防効果が期待できず再接種が必要と医師に診断された方\n■再接種日に江戸川区に住民登録がある方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "下記のうち金額が少ない方\n■実際に支払った金額\n■江戸川区が区内指定医療機関と契約する契約単価",
+        "monetarySupport": null,
+        "materiallySupport": "下記のうち金額が少ない方\n■実際に支払った金額\n■江戸川区が区内指定医療機関と契約する契約単価"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "事前申請が必要です。\n事前申請を行わずに再接種した場合は、費用助成の対象外となります。",
+      "procedurePersons": null,
+      "procedureMethod": "HPをご覧ください",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "健康部保健予防課庶務係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/kotsuzuiishoku_saisesshu.html",
+        "title": "骨髄移植等により免疫を消失した方の予防接種再接種費用の助成について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部保健予防課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+1+UM54",
+        "organization": "1000020131237",
+        "compartment": "健康部保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-01",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種再接種費用助成金交付要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "任意予防接種",
+        "shortName": "MR（麻しん・風しん）ワクチン任意予防接種の接種費用助成の実施"
+      },
+      "summary": "江戸川区では、麻しん・風しんの感染の拡大防止を図るため、以下のお子様に、MRワクチン（麻しん風しん混合ワクチン）任意予防接種の接種費用の助成を実施します。対象のお子様には区内指定医療機関のみで使用できる予防接種予診票をお渡ししますので、母子健康手帳をご持参のうえ、各健康サポートセンターまでお越しください。",
+      "description": "江戸川区では、麻しん・風しんの感染の拡大防止を図るため、以下のお子様に、MRワクチン（麻しん風しん混合ワクチン）任意予防接種の接種費用の助成を令和7年3月31日まで実施します。対象のお子様には区内指定医療機関のみで使用できる予防接種予診票をお渡ししますので、母子健康手帳をご持参のうえ、各健康サポートセンターまでお越しください。",
+      "target": {
+        "targetPersons": "■MR1期任意接種対象者満2歳以上、満6歳未満（小学校就学前の1年度に当たる者を除く）の者で、MR1期定期接種を受けていない方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "■MR1期任意接種対象者満2歳以上、満6歳未満（小学校就学前の1年度に当たる者を除く）の者で、MR1期定期接種を受けていない方"
+      },
+      "support": {
+        "description": "江戸川区では、麻しん・風しんの感染の拡大防止を図るため、以下のお子様に、MRワクチン（麻しん風しん混合ワクチン）任意予防接種の接種費用の助成を実施しています。",
+        "monetarySupport": null,
+        "materiallySupport": "江戸川区では、麻しん・風しんの感染の拡大防止を図るため、以下のお子様に、MRワクチン（麻しん風しん混合ワクチン）任意予防接種の接種費用の助成を実施しています。"
+      },
+      "cost": "0",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": "2024-04-01",
+        "fromHM": null,
+        "toYMD": "2025-03-31",
+        "toHM": null,
+        "conditions": "令和6年4月1日から令和7年3月31日まで"
+      },
+      "implementationPlace": {
+        "implementationName": "区内指定医療機関;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/iryokikan.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "対象のお子様には区内指定医療機関のみで使用できる予防接種予診票をお渡ししますので、母子健康手帳をご持参のうえ、各健康サポートセンターまでお越しください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "区内指定医療機関のみで使用できる予防接種予診票、母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/ninisesshu.html",
+        "title": "MR（麻しん・風しん）ワクチン任意予防接種の接種費用助成の実施について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部保健予防課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+1+UM55",
+        "organization": "1000020131237",
+        "compartment": "健康部保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-06",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "任意予防接種等実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の医療費助成制度（ぜん息など）",
+        "shortName": "医療費助成・助成制度"
+      },
+      "summary": "医療費助成・助成制度は、江戸川区が提供している医療費の一部を助成する制度です。具体的には、健康保険の自己負担額を助成する制度や、特定疾患（指定難病）の医療費を助成する制度などがあります。また、人工透析やB型・C型ウイルス肝炎治療など特定の疾患にかかる医療費の助成も行われています。詳細な内容や申請方法については、江戸川区のウェブサイトを参照してください。",
+      "description": "医療費助成\n\n健康保険の自己負担額を助成する制度\n\n特定疾患（指定難病）医療費助成制度;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/iryo/josei/nanbyo.html\n東京都の医療費助成「マル都医療券」;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/iryo/josei/maruto.html\n人工透析にかかる医療費助成;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/iryo/josei/dialysis.html\n先天性血液凝固因子欠乏症等にかかる医療費助成;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/iryo/josei/hemophilia.htmlhttps://www.city.edogawa.tokyo.jp/e054/kenko/iryo/iryo/josei/hemophilia.html\nB型・C型ウイルス肝炎治療医療費助成制度;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/iryo/josei/hepatitis.html\n肝がん・重度肝硬変入院医療費助成制度;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/iryo/josei/liver_cancer.html\n東京都大気汚染医療費助成制度;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/iryo/josei/taikiosen.html\n小児慢性特定疾病医療費給付制度;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/iryo/josei/shouni-mansei.html\n小児慢性特定疾病医療機関・小児慢性特定疾病指定医の指定等の申請について（医療機関関係者用）;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/iryo/josei/shouni-mansei-shitei.html\n小児精神障害者入院医療費助成制度;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/iryo/josei/shoniseishin.html\n自立支援医療費制度（精神通院医療）;https://www.city.edogawa.tokyo.jp/e054/kenko/kenko/kokoro/kokoro/seido/jiritsushien.html\n妊娠時の医療費助成;https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/ninshin.html\n未熟児養育医療;https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kodomo/iryohi/youikuiryou.html\n自立支援医療（育成医療）;https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kodomo/iryohi/ikuseiiryou.html\n小児精神障害者入院医療費助成制度;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/iryo/josei/shoniseishin.html\n結核医療費助成について(医療費公費負担制度）;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/kansen/kekkaku/kekkaku.html\nウイルス性肝炎に関する助成・給付金制度;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/kansen/kanen/hepatitis-payment.html\n助成事業\n\n検査・健診など保健適応外の医療費の助成、給付や支援事業\n\n在宅人工呼吸器使用者自家発電装置給付事業;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/iryo/josei/zaitakuzinkoukokyuuki.html\n小児慢性特定疾病児童等日常生活用具給付事業;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/iryo/josei/shonimansei.html\n被爆者援護;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/iryo/josei/hibaku.html\n石綿健康被害救済制度;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/iryo/josei/ishiwata.html\n骨髄等移植ドナー支援事業助成金制度;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/iryo/josei/bone-marrow.html\n「新生児聴覚検査」の費用の一部助成;https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kodomo/shinseijichoukaku.html\n療育給付;https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kodomo/iryohi/ryouikuiryou.html\n無症状の妊婦への分娩前ウイルス検査費用助成（新型コロナウイルス感染症対策）;https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/corona/yorisoigatashien.html\n特定不妊治療費の助成について;https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/funin.html\n江戸川区禁煙外来治療費助成金交付事業;https://www.city.edogawa.tokyo.jp/e051/kenko/iryo/iryo/josei/kinnennjosei/index.html\n妊婦健診（妊婦健康診査）;https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/ninpukenshin.html\n里帰り先等で接種した予防接種費用の助成について;https://www.city.edogawa.tokyo.jp/e052/kenko/iryo/yobosesshu/yobousesshu_shoukanbarai.html\n",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e057/kenko/kenko/josei.html",
+        "title": "医療費助成・助成制度"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+1+UM66",
+        "organization": "1000020131237",
+        "compartment": "福祉部障害者福祉課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-03-18",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": null,
+        "targetCode": null,
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "長期にわたり療養を必要とする疾病にかかった者等の定期予防接種の機会の確保"
+      },
+      "summary": "長期にわたり療養を必要とする疾病にかかった者等の定期予防接種の機会の確保とは、江戸川区において、特定の疾病にかかった人が定期予防接種を受ける機会を確保することを指しています。政令で定められる予防接種の対象であった人で、長期にわたり療養を必要とする特定の疾病やそれに準ずるやむを得ない事情で、予防接種を受けることができなかった場合でも、法定年齢を過ぎていても予防接種を受けることができる場合があります。医師の記載した理由書を提出する必要があります。具体的な対象疾病や接種期間については、区のウェブサイトで確認することができます。",
+      "description": "政令で定める予防接種の対象であった者で、当該予防接種の対象であった間に、長期にわたり療養を必要とする特定の疾病（対象疾病一覧をご覧ください）又は、それに準ずるやむを得ない事情で、予防接種を受けることができなかったと認められる者は、法定年齢を過ぎていても予防接種を受けることができる場合があります。対象に該当する場合は、医師の記載した理由書を提出してください。",
+      "target": {
+        "targetPersons": "1.次に掲げる疾病にかかった者（やむを得ず定期接種を受けることができなかった場合に限る）\n（1）重症複合免疫不全症、無ガンマグロブリン血症その他免疫の機能に支障を生じさせる重篤な疾病。\n（2）白血病、再生不良性貧血、重症筋無力症、若年性関節リウマチ、全身性エリテマトーデス、潰瘍性大腸炎、ネフローゼ症候群その他免疫の機能を抑制する治療を必要とする重篤な疾病。\n（3）上記（1）又は（2）の疾病に準ずると認められる者\n（注）上記に該当する疾病の例は、別表に掲げるとおりである。ただし、これは別表に掲げる疾病にかかったことのある者又はかかっている者が一律に予防接種不適当者であるということを意味するものではなく、予防接種実施の可否の判断は、あくまで予診を行う医師の判断のもと行う。\n2.臓器の移植を受けた後、免疫機能を抑制する治療を受けた者（やむを得ず定期接種を受けることができなかった場合に限る）\n3.医学的知見に基づき1又は2に準ずると認められる者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "政令で定める予防接種の対象であった者で、当該予防接種の対象であった間に、長期にわたり療養を必要とする特定の疾病（対象疾病一覧をご覧ください）又は、それに準ずるやむを得ない事情で、予防接種を受けることができなかったと認められる者は、法定年齢を過ぎていても予防接種を受けることができる場合があります。対象に該当する場合は、医師の記載した理由書を提出してください。",
+        "monetarySupport": null,
+        "materiallySupport": "政令で定める予防接種の対象であった者で、当該予防接種の対象であった間に、長期にわたり療養を必要とする特定の疾病（対象疾病一覧をご覧ください）又は、それに準ずるやむを得ない事情で、予防接種を受けることができなかったと認められる者は、法定年齢を過ぎていても予防接種を受けることができる場合があります。対象に該当する場合は、医師の記載した理由書を提出してください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "こどもの定期予防接種（ロタウイルスは、対象外です。）\n定期予防接種を受けることができなかった事情がなくなってから、2年間。\nただし、実施する予防接種によっては下記のとおり年齢制限あり。\nBCG：4歳に至るまで\n小児用肺炎球菌：6歳に至るまで\nヒブワクチン：10歳に至るまで\n4種混合（DPT-IPV）：15歳に至るまで\n高齢者の肺炎球菌予防接種\n予防接種を受けることができなかった事情がなくなってから、1年間。"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "医師の記載した理由書を保健予防課へ提出してください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "健康部保健予防課庶務係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/sesshukikainokakuho.html",
+        "title": "長期にわたり療養を必要とする疾病にかかった者等の定期予防接種の機会の確保について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部保健予防課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+2+UM54",
+        "organization": "1000020131237",
+        "compartment": "健康部保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-01",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "任意予防接種",
+        "shortName": "MR（麻しん・風しん）ワクチン任意予防接種の接種費用助成の実施"
+      },
+      "summary": "江戸川区では、麻しん・風しんの感染の拡大防止を図るため、以下のお子様に、MRワクチン（麻しん風しん混合ワクチン）任意予防接種の接種費用の助成を実施します。対象のお子様には区内指定医療機関のみで使用できる予防接種予診票をお渡ししますので、母子健康手帳をご持参のうえ、各健康サポートセンターまでお越しください。",
+      "description": "江戸川区では、麻しん・風しんの感染の拡大防止を図るため、以下のお子様に、MRワクチン（麻しん風しん混合ワクチン）任意予防接種の接種費用の助成を令和7年3月31日まで実施します。対象のお子様には区内指定医療機関のみで使用できる予防接種予診票をお渡ししますので、母子健康手帳をご持参のうえ、各健康サポートセンターまでお越しください。",
+      "target": {
+        "targetPersons": "■MR2期任意接種対象者\n小学校在学中でMR2期定期予防接種を受けていない方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 12,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 6,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "■MR2期任意接種対象者小学校在学中でMR2期定期予防接種を受けていない方"
+      },
+      "support": {
+        "description": "江戸川区では、麻しん・風しんの感染の拡大防止を図るため、以下のお子様に、MRワクチン（麻しん風しん混合ワクチン）任意予防接種の接種費用の助成を実施しています。",
+        "monetarySupport": null,
+        "materiallySupport": "江戸川区では、麻しん・風しんの感染の拡大防止を図るため、以下のお子様に、MRワクチン（麻しん風しん混合ワクチン）任意予防接種の接種費用の助成を実施しています。"
+      },
+      "cost": "0",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": "2024-04-01",
+        "fromHM": null,
+        "toYMD": "2025-03-31",
+        "toHM": null,
+        "conditions": "令和6年4月1日から令和7年3月31日まで"
+      },
+      "implementationPlace": {
+        "implementationName": "区内指定医療機関;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/iryokikan.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "対象のお子様には区内指定医療機関のみで使用できる予防接種予診票をお渡ししますので、母子健康手帳をご持参のうえ、各健康サポートセンターまでお越しください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "区内指定医療機関のみで使用できる予防接種予診票、母子健康手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/ninisesshu.html",
+        "title": "MR（麻しん・風しん）ワクチン任意予防接種の接種費用助成の実施について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部保健予防課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+2+UM55",
+        "organization": "1000020131237",
+        "compartment": "健康部保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-06",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "任意予防接種等実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "里帰り先等で接種した予防接種費用の助成"
+      },
+      "summary": "里帰り先等で接種した予防接種費用の助成は、江戸川区が提供している制度の一つです。この制度では、江戸川区に住民登録がある方が、里帰り先などで接種した予防接種の費用の一部または全額を助成してもらうことができます。助成の対象となる定期接種は、接種前に江戸川区から依頼書の発行を受けた定期接種に限られます。助成額は、実際に支払った金額と江戸川区が区内指定医療機関と契約する接種単価のうち、金額が少ない方が適用されます。申請には、母子健康手帳や予防接種済証、領収書原本などが必要です。申請先は各健康サポートセンターです。",
+      "description": "■東京23区外の医療機関\n■東京23区内の契約医療機関以外（喘息、アレルギー等の疾患により主治医の監督が必要となる等の特別の事情がある場合に限ります。）\n制度の利用に当たっては、接種前に江戸川区から依頼書の発行を受ける必要があります。",
+      "target": {
+        "targetPersons": "接種日時点で江戸川区に住民登録がある方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "接種前に江戸川区より依頼書の発行を受けた以下の定期接種\n（注）接種前に依頼書の発行を受けていない定期接種については、償還払い制度の対象にはなりません。\nヒブ、小児用肺炎球菌、B型肝炎、ロタウイルス（令和2年8月1日以降に生まれた者に限る。）、四種混合（DPT-IPV）、BCG、不活化ポリオ、水痘、MR（麻しん風しん混合）、日本脳炎、子宮頸がん、二種混合（DT）、麻しん単体、風しん単体、3種混合（DPT）",
+        "monetarySupport": null,
+        "materiallySupport": "接種前に江戸川区より依頼書の発行を受けた以下の定期接種\n（注）接種前に依頼書の発行を受けていない定期接種については、償還払い制度の対象にはなりません。\nヒブ、小児用肺炎球菌、B型肝炎、ロタウイルス（令和2年8月1日以降に生まれた者に限る。）、四種混合（DPT-IPV）、BCG、不活化ポリオ、水痘、MR（麻しん風しん混合）、日本脳炎、子宮頸がん、二種混合（DT）、麻しん単体、風しん単体、3種混合（DPT）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "接種日から1年以内"
+      },
+      "electronicSubmission": false,
+      "belongings": "1.母子健康手帳、予防接種済証、接種済みの記載がある予診票等\n2.医療機関が発行した領収書原本（複数のワクチンを接種した場合、ワクチン毎の金額がわかる明細書を含む）\n3.印鑑（朱肉を使用するもの。スタンプ印不可）\n4.振込先の口座のわかる通帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "各健康サポートセンター\n（注）手続きにはお時間がかかる場合があります。大変申し訳ありませんが、あらかじめご了承いただき、お時間に余裕をもってお越しください。",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/yobousesshu_shoukanbarai.html",
+        "title": "里帰り先等で接種した予防接種費用の助成について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部保健予防課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+3+UM54",
+        "organization": "1000020131237",
+        "compartment": "健康部保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-23",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "任意予防接種",
+        "shortName": "おたふくかぜワクチン任意接種費用の一部助成（区独自事業）"
+      },
+      "summary": "江戸川区では、令和4年10月接種分より、江戸川区内の契約医療機関で、おたふくかぜワクチン任意接種費用の一部助成を実施しています。なお、償還払いはありません。\nおたふくかぜ予防接種は、任意予防接種であり、義務付けはありません。\n接種を希望される方は、医師とよく相談のうえ、接種してください。",
+      "description": "江戸川区では、令和4年10月接種分より、江戸川区内の契約医療機関で、おたふくかぜワクチン任意接種費用の一部助成を実施しています。なお、償還払いはありません。\nおたふくかぜ予防接種は、任意予防接種であり、義務付けはありません。\n接種を希望される方は、医師とよく相談のうえ、接種してください。",
+      "target": {
+        "targetPersons": "接種日時点で江戸川区に住民登録がある満1歳から小学校就学前年度のお子様\n\n（注）既におたふくかぜ予防接種を2回受けた方、おたふくかぜに罹患したことがある方は対象外です。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 6,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "接種日時点で江戸川区に住民登録がある満1歳から小学校就学前年度のお子様"
+      },
+      "support": {
+        "description": "接種1回につき上限3,000円を2回まで助成します。\n（注）任意接種ですので、接種費用は医療機関により異なります。接種費用から助成額3,000円を差し引いた額を実施医療機関でお支払いください。\n（注）おたふくかぜワクチン任意予防接種を既に1回接種した方は1回まで助成します。\n（注）予診のみの方は助成の対象から除きます。\n以下に該当する方は、自己負担免除となります。助成額3,000円の予診票が届いた場合は、予診票を各窓口に持参し、無料接種のための手続きを受けてください。\n生活保護受給者→受付窓口：生活援護第一課、生活援護第二課及び生活援護第三課\n「中国残留邦人等の円滑な帰国の促進並びに永住帰国した中国残留邦人等及び特定配偶者の自立の支援に関する法律」による支援給付受給者→受付窓口：生活援護第一課（生活援護第二課及び生活援護第三課では受け付けていませんのでご注意ください。）",
+        "monetarySupport": "3000",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": "接種した費用の償還払いはありません。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "1回目：1歳になる月の上旬\n2回目：小学校就学前年度の4月上旬\n（注）事業開始の令和4年10月には次の対象者に予診票を送付しました。\n1回目：1歳（令和3年10月生まれまで）から令和4年度中に5歳になる方\n1回目・2回目：令和4年度中に6歳になる方"
+      },
+      "implementationPlace": {
+        "implementationName": "区内指定医療機関;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/iryokikan.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/otahuku.html",
+        "title": "おたふくかぜワクチン任意接種費用の一部助成のお知らせ（区独自事業）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部保健予防課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+3+UM55",
+        "organization": "1000020131237",
+        "compartment": "健康部保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-01",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "任意予防接種等実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "五種混合（ジフテリア・百日咳・破傷風・ポリオ・ヒブ）"
+      },
+      "summary": "五種混合（ジフテリア・百日咳・破傷風・ポリオ・ヒブ）は、ジフテリア、百日咳、破傷風、ポリオ、ヒブの５つの疾病に対する予防接種のことです。これらの疾病は、感染すると重篤な症状を引き起こすことがありますが、予防接種によって感染を予防することができます。四種混合の予防接種は、生後2か月から7歳6か月までの子どもを対象としています。",
+      "description": "ジフテリアはジフテリア菌により発生する疾病です。その発生は最後に報告されたのが、1999年であり稀になりましたが、かつては年間8万人以上の患者が発生し、そのうち10％程度が亡くなっていた重要な病気です。\n主に気道の分泌物によってうつり、喉などに感染して毒素を放出します。この毒素が心臓の筋肉や神経に作用することで、眼球や横隔膜（呼吸に必要な筋肉）などの麻痺、心不全等を来たして、重篤になる場合や亡くなってしまう場合があります。\n百日せきは百日咳菌によって発生します。名前のとおり激しい咳をともなう病気で、一歳以下の乳児、とくに生後6か月以下の子どもでは亡くなってしまうこともあります。\n主に気道の分泌物によってうつり、咳のために乳幼児では呼吸ができなくなるために全身が青紫色になってしまうこと（チアノーゼ）やけいれんを起こすことがあります。また、窒息や肺炎等の合併症が致命的となることがあります。\n破傷風は、破傷風菌により発生し、かかった場合に亡くなる割合が非常に高い病気です。以前は新生児の発生もみられましたが、近年は30歳以上の成人を中心に患者が発生しています。\n主に傷口に菌が入り込んで感染を起こし毒素を通して、さまざまな神経に作用します。口が開き難い、顎が疲れるといった症状に始まり、歩行や排尿・排便の障害などを経て、最後には全身の筋肉が固くなって体を弓のように反り返らせたり、息ができなくなったりし、亡くなることもあります。\nポリオ（急性灰白髄炎）は脊髄性小児麻痺とも呼ばれ、ポリオウイルスによって発生する疾病です。名前のとおり子ども（特に5歳以下）がかかることが多く、麻痺などを起こすことのある病気です。\n主に感染した人の便を介してうつり、手足の筋肉や呼吸する筋肉等に作用して麻痺を生じることがあります。永続的な後遺症を残すことがあり、特に成人では亡くなる確率も高いものとなっています。\nヒブ感染症は、ヘモフィルスインフルエンザ菌b型（Haemophilus influenzae type b）という細菌によって発生する病気で、そのほとんどが5歳未満で発生し、特に乳幼児で発生に注意が必要です。\n主に気道の分泌物により感染を起こし、症状がないまま菌を保有（保菌）して日常生活を送っている子どもも多くいます。この菌が何らかのきっかけで進展すると、肺炎、敗血症、髄膜炎、化膿性の関節炎等の重篤な疾患を引き起こすことがあります。",
+      "target": {
+        "targetPersons": "生後2か月から7歳6か月までの方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後2か月から7歳6か月に至るまで（注）令和5年4月から四種混合の接種対象年齢が「生後3か月以上」から「生後2か月以上」に拡大されました。"
+      },
+      "support": {
+        "description": "接種回数・スケジュール\n1歳に至るまでに1回接種\n\n■標準的な接種時期\n生後5か月から生後8か月の間に1回接種",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種の助成を行います。接種回数・スケジュール\n1歳に至るまでに1回接種\n\n■標準的な接種時期\n生後5か月から生後8か月の間に1回接種"
+      },
+      "cost": "0",
+      "costConditions": "（注）ただし、指定医療機関以外で接種する場合、予診票を持参しない場合、対象年齢を1日でも過ぎた場合は有料となります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "生後2か月から7歳6か月に至るまで（注）令和5年4月から四種混合の接種対象年齢が「生後3か月以上」から「生後2か月以上」に拡大されました。"
+      },
+      "implementationPlace": {
+        "implementationName": "区内指定医療機関https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/iryokikan.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "予診票の送付時期\n生後2か月になる月の上旬"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/dptipv.html",
+          "title": "五種混合・四種混合・二種混合ワクチン予防接種"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/iryo/yobosesshu/dptipv.html",
+        "title": "四種混合（ジフテリア・百日咳・破傷風・ポリオ）・二種混合（ジフテリア・破傷風）について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部保健予防課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+4+UM54",
+        "organization": "1000020131237",
+        "compartment": "健康部保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-01-18",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+        "shortName": "子育て応援アプリ「ぴよナビ えどがわ」"
+      },
+      "summary": "令和4年1月から新生児訪問の申込みができるようになりました。このアプリでは妊婦さんの健康状態やお子さんの成長の記録、予防接種のスケジュール管理ができ、それを家族で共有できる機能がついています。また、江戸川区からの最新情報がリアルタイムで届きます。親子健康手帳（母子健康手帳）と合わせてご活用ください。",
+      "description": "令和4年1月から新生児訪問の申込みができるようになりました。\n\nこのアプリでは妊婦さんの健康状態やお子さんの成長の記録、予防接種のスケジュール管理ができ、それを家族で共有できる機能がついています。\nまた、江戸川区からの最新情報がリアルタイムで届きます。\n親子健康手帳（母子健康手帳）と合わせてご活用ください。",
+      "target": {
+        "targetPersons": "対象者記載なし",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "令和4年1月から新生児訪問の申込みができるようになりました。このアプリでは妊婦さんの健康状態やお子さんの成長の記録、予防接種のスケジュール管理ができ、それを家族で共有できる機能がついています。また、江戸川区からの最新情報がリアルタイムで届きます。親子健康手帳（母子健康手帳）と合わせてご活用ください。",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/piyonabi.html",
+        "title": "子育て応援アプリ「ぴよナビ えどがわ」"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部健康サービス課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+5+UM34",
+        "organization": "1000020131237",
+        "compartment": "健康部健康サービス課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-08-25",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088",
+          "089",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "二種混合（ジフテリア・破傷風）"
+      },
+      "summary": "二種混合（ジフテリア・破傷風）は、ジフテリア、破傷風の2つの疾病に対する予防接種のことです。これらの疾病は、感染すると重篤な症状を引き起こすことがありますが、予防接種によって感染を予防することができます。二種混合の予防接種は、11歳から13歳未満までの子どもを対象としています。",
+      "description": "ジフテリアはジフテリア菌により発生する疾病です。その発生は最後に報告されたのが、1999年であり稀になりましたが、かつては年間8万人以上の患者が発生し、そのうち10％程度が亡くなっていた重要な病気です。\n主に気道の分泌物によってうつり、喉などに感染して毒素を放出します。この毒素が心臓の筋肉や神経に作用することで、眼球や横隔膜（呼吸に必要な筋肉）などの麻痺、心不全等を来たして、重篤になる場合や亡くなってしまう場合があります。\n破傷風は、破傷風菌により発生し、かかった場合に亡くなる割合が非常に高い病気です。以前は新生児の発生もみられましたが、近年は30歳以上の成人を中心に患者が発生しています。\n主に傷口に菌が入り込んで感染を起こし毒素を通して、さまざまな神経に作用します。口が開き難い、顎が疲れるといった症状に始まり、歩行や排尿・排便の障害などを経て、最後には全身の筋肉が固くなって体を弓のように反り返らせたり、息ができなくなったりし、亡くなることもあります。",
+      "target": {
+        "targetPersons": "11歳から13歳未満までの方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 11,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "11歳から13歳未満まで"
+      },
+      "support": {
+        "description": "接種回数・スケジュール\n3回（27日以上の間隔をおいて2回接種した後、第1回目の接種から139日以上の間隔をおいて1回接種）\n\n■標準的な接種期間\n生後2か月から生後9か月に至るまで",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種の助成を行います。"
+      },
+      "cost": "0",
+      "costConditions": "（注）ただし、指定医療機関以外で接種する場合、予診票を持参しない場合、対象年齢を1日でも過ぎた場合は有料となります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "11歳から13歳未満まで"
+      },
+      "implementationPlace": {
+        "implementationName": "区内指定医療機関https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/iryokikan.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "予診票の送付時期\n生後2か月になる月の上旬",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/dptipv.html",
+        "title": "五種混合・四種混合・二種混合ワクチン予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部保健予防課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+5+UM54",
+        "organization": "1000020131237",
+        "compartment": "健康部保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-01",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "BCG予防接種"
+      },
+      "summary": "BCG予防接種は、結核菌による結核感染を予防するためのワクチン接種です。結核は、肺だけでなく身体の他の部分にも影響を及ぼす感染症であり、結核菌に感染した場合は必ずしもすぐに発症しないこともあります。BCGワクチンは、結核菌に対する免疫を高めることで感染を予防する効果があります。対象者は、生後5か月から生後8か月の間に1回接種となります。具体的な接種方法や対象者については、江戸川区の公式ウェブサイトを参照してください。",
+      "description": "結核は、結核菌によって発生するわが国の主要な感染症の一つです。毎年新たに1万5,000人以上の患者が発生しており、世界的にみても日本はまだ結核の低まん延国ではありません。\nいわゆる空気感染を起こし、一般的には肺の内部で増えて、咳、痰、呼吸困難等の症状を呈することが多いですが、肺以外の腎臓、骨、脳など身体のあらゆる部分に影響を及ぼすことがあります。また、結核菌に感染した場合、必ずしもすぐに発症するわけではなく、体内に留まったのち再び活動を開始し、発症することがあります。",
+      "target": {
+        "targetPersons": "1歳に至るまでの間",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1歳に至るまでに1回接種"
+      },
+      "support": {
+        "description": "接種回数・スケジュール\n初回：20日以上の間隔をおいて3回接種\n\n追加：初回接種終了後、6か月以上の間隔をおいて1回接種\n\n標準的な接種時期\n初回：生後2か月から1歳に至るまでの間に、20日から56日までの間隔をおいて3回接種\n\n追加：初回接種終了後、1年から1年6か月までの間隔をおいて1回接種",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種の助成を行います。接種回数・スケジュール\n初回：20日以上の間隔をおいて3回接種\n\n追加：初回接種終了後、6か月以上の間隔をおいて1回接種\n\n標準的な接種時期\n初回：生後2か月から1歳に至るまでの間に、20日から56日までの間隔をおいて3回接種\n\n追加：初回接種終了後、1年から1年6か月までの間隔をおいて1回接種"
+      },
+      "cost": "0",
+      "costConditions": "（注）ただし、指定医療機関以外で接種する場合、予診票を持参しない場合、対象年齢を1日でも過ぎた場合は有料となります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "1歳に至るまでの間"
+      },
+      "implementationPlace": {
+        "implementationName": "区内指定医療機関https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/iryokikan.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/bcg.html",
+        "title": "BCGワクチン予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部保健予防課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+6+UM54",
+        "organization": "1000020131237",
+        "compartment": "健康部保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-01",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "B型肝炎ワクチン"
+      },
+      "summary": "B型肝炎ワクチンは、B型肝炎ウイルス感染によっておこる肝臓の病気であるB型肝炎を予防するためのワクチンです。B型肝炎ウイルスへの感染は、感染した血液等に接触した場合に起こります。B型肝炎ワクチンは、生後2か月から生後9か月までの方を対象に、3回の接種が推奨されています。接種は区内指定医療機関または23区内指定医療機関で行われ、費用は無料です。ただし、指定医療機関以外で接種する場合や、予診票を持参しない場合、対象年齢を1日でも過ぎた場合は有料となります。",
+      "description": "B型肝炎は、B型肝炎ウイルス感染によっておこる肝臓の病気です。B型肝炎ウイルスへの感染は、B型肝炎ウイルスに感染した血液等に接触した場合に、感染を起こすことがあり、一過性の感染で終わる場合と、そのまま感染している状態が続いてしまう場合（この状態をキャリアといいます）があります。また、経過の違いから、急性肝炎と慢性肝炎があり、急性肝炎は稀に劇症化する場合もあることから注意が必要です。キャリアになると慢性肝炎になることがあり、そのうち一部の人では肝硬変や肝がんなど命に関わる病気を引き起こすこともあります。",
+      "target": {
+        "targetPersons": "1歳に至るまで",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1歳に至るまで"
+      },
+      "support": {
+        "description": "接種回数・スケジュール\n11歳から13歳未満までの間に1回接種\n\n標準的な接種時期\n11歳から12歳に達するまでの期間に1回接種",
+        "monetarySupport": null,
+        "materiallySupport": "予防接種の助成を行います。接種回数・スケジュール\n11歳から13歳未満までの間に1回接種\n\n標準的な接種時期\n11歳から12歳に達するまでの期間に1回接種"
+      },
+      "cost": "0",
+      "costConditions": "（注）ただし、指定医療機関以外で接種する場合、予診票を持参しない場合、対象年齢を1日でも過ぎた場合は有料となります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "1歳に至るまで"
+      },
+      "implementationPlace": {
+        "implementationName": "区内指定医療機関https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/iryokikan.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/documents/7738/bkanhayamihyou_1.pdf",
+          "title": "B型肝炎ワクチン接種早見表"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/bgatakannennteiki.html",
+        "title": "B型肝炎ワクチン予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部保健予防課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+7+UM54",
+        "organization": "1000020131237",
+        "compartment": "健康部保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-01",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "風しん抗体検査"
+      },
+      "summary": "妊娠を希望されている１９歳以上の女性と、同居する１９歳以上の者について風しんの抗体価が基準値以上あるかどうかの検査",
+      "description": "先天性風しん症候群（CRS）とは、妊婦、特に妊娠初期の女性が風疹にかかると、胎児が風しんウイルスに感染し、精神や身体の発達の遅れなどの障害のあるお子さんが生まれる可能性があります。これらの障害を、先天性風しん症候群といいます。その予防のための検査です。",
+      "target": {
+        "targetPersons": "江戸川区民で以下のいずれかに該当する方で、風しん抗体検査により予防接種が必要とされた方（HI法で16倍以下、EIA法でEIA価8.0未満の方）\n （1）妊娠を予定又は希望している女性（19歳以上の方）\n （2）妊娠を予定又は希望している女性と同居している19歳以上の方\n （3）妊娠している女性と同居している19歳以上の方\n ただし、下記の方は上記（1）から（2）に該当の場合でも対象となりませんのでご注意ください。\n この制度を利用したことがある方\n 検査で確定診断を受けた風しんの既往歴がある方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "江戸川区民で以下のいずれかに該当する方で、風しん抗体検査により予防接種が必要とされた方（HI法で16倍以下、EIA法でEIA価8.0未満の方）\n（1）妊娠を予定又は希望している女性（19歳以上の方）\n（2）妊娠を予定又は希望している女性と同居している19歳以上の方\n（3）妊娠している女性と同居している19歳以上の方\nただし、下記の方は上記（1）から（2）に該当の場合でも対象となりませんのでご注意ください。\nこの制度を利用したことがある方\n検査で確定診断を受けた風しんの既往歴がある方"
+      },
+      "support": {
+        "description": "風しんの抗体検査と予防接種の助成を行います。",
+        "monetarySupport": "0",
+        "materiallySupport": "風しんの抗体検査と予防接種の助成を行います。"
+      },
+      "cost": "0",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": "2024-04-01",
+        "fromHM": null,
+        "toYMD": "2025-03-31",
+        "toHM": null,
+        "conditions": "令和6年4月1日から令和7年3月31日まで"
+      },
+      "implementationPlace": {
+        "implementationName": "区内指定医療機関;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/iryokikan.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "お近くの区内指定医療機関へ、区の風しん抗体検査制度の利用をお申し出ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "氏名、現住所、年齢の確認できる身分証（免許証や保険証など）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/fushin.html",
+        "title": "風しん抗体検査及び予防接種を実施します（区独自事業）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部保健予防課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+8+UM54",
+        "organization": "1000020131237",
+        "compartment": "健康部保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-05-10",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "風しん予防接種"
+      },
+      "summary": "妊娠を希望されている１９歳以上の女性と、同居する１９歳以上の者について風しんの抗体価が基準値以上あるかどうかの検査を受け、抗体価が基準値以下の場合に風しんの予防接種を受けられます。",
+      "description": "先天性風しん症候群（CRS）とは、妊婦、特に妊娠初期の女性が風疹にかかると、胎児が風しんウイルスに感染し、精神や身体の発達の遅れなどの障害のあるお子さんが生まれる可能性があります。これらの障害を、先天性風しん症候群といいます。その予防のための検査です。",
+      "target": {
+        "targetPersons": "江戸川区民で以下のいずれかに該当する方で、風しん抗体検査により予防接種が必要とされた方（HI法で16倍以下、EIA法でEIA価8.0未満の方）\n（1）妊娠を予定又は希望している女性（19歳以上の方）\n（2）妊娠を予定又は希望している女性と同居している19歳以上の方\n（3）妊娠している女性と同居している19歳以上の方\nただし、下記の方は上記（1）から（2）に該当の場合でも対象となりませんのでご注意ください。\nこの制度を利用したことがある方\n検査で確定診断を受けた風しんの既往歴がある方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 19,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "江戸川区民で以下のいずれかに該当する方で、風しん抗体検査により予防接種が必要とされた方（HI法で16倍以下、EIA法でEIA価8.0未満の方）\n（1）妊娠を予定又は希望している女性（19歳以上の方）\n（2）妊娠を予定又は希望している女性と同居している19歳以上の方\n（3）妊娠している女性と同居している19歳以上の方\nただし、下記の方は上記（1）から（2）に該当の場合でも対象となりませんのでご注意ください。\nこの制度を利用したことがある方\n検査で確定診断を受けた風しんの既往歴がある方"
+      },
+      "support": {
+        "description": "風しんの抗体検査と予防接種の助成を行います。\n\n接種ワクチン\nMRワクチン（麻しん・風しん混合ワクチン）",
+        "monetarySupport": "0",
+        "materiallySupport": "風しんの抗体検査と予防接種の助成を行います。\n\n接種ワクチン\nMRワクチン（麻しん・風しん混合ワクチン）"
+      },
+      "cost": "0",
+      "costConditions": "無料、助成は1度限りです。",
+      "implementationPeriod": {
+        "fromYMD": "2024-04-01",
+        "fromHM": null,
+        "toYMD": "2025-03-31",
+        "toHM": null,
+        "conditions": "令和6年4月1日から令和7年3月31日まで"
+      },
+      "implementationPlace": {
+        "implementationName": "区内指定医療機関;https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/iryokikan.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "お近くの区内指定医療機関へ、区の風しん抗体検査制度の利用をお申し出ください。",
+      "procedurePersons": null,
+      "procedureMethod": "接種を受けるには（1）風しんの抗体検査を区内指定医療機関にて受診してください。\n（2）抗体検査の結果が1から2週間程度でご自宅へ郵送されます。\n（3）お近くの健康サポートセンターの窓口にて予防接種予診票の交付を受けてください。\n（注）接種を受ける方が来所される場合は、接種を受ける方の身分証と抗体検査結果をご持参ください。\n（注）代理の方が来所される場合は、委任状（又は接種を受ける方の身分証）、代理の方の身分証、接種を受ける方の抗体検査の結果をご持参ください。\n予診票交付申請書（PDF：90KB）別ウィンドウで開きます\n委任状（PDF：54KB）別ウィンドウで開きます\n（4）予防接種予診票と身分証（氏名、現住所、生年月日の確認できるもの）を指定医療機関にご持参ください。事前の予約が必要な場合がございますので、必ず接種前に医療機関へお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "予防接種予診票と氏名、現住所、年齢の確認できる身分証（免許証や保険証など）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e054/kenko/iryo/yobosesshu/fushin.html",
+        "title": "風しん抗体検査及び予防接種を実施します（区独自事業）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部保健予防課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e054/kuseijoho/gaiyo/soshiki/kenko/hokenyobo.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+9+UM54",
+        "organization": "1000020131237",
+        "compartment": "健康部保健予防課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-05-10",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

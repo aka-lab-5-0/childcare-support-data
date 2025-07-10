@@ -1,0 +1,3843 @@
+{
+  "version": "2025-07-10T02:38:54.120Z",
+  "areaCode": "131237",
+  "areaName": "江戸川区",
+  "category": "medical",
+  "count": 30,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関するサポート",
+        "shortName": "子どもと家庭のおとなりさん事業"
+      },
+      "summary": "子どもと家庭のおとなりさん事業は、年度内48回を上限（ご家庭によって利用可能回数が異なります）として子育ての支援が必要な家庭へ支援員が伺い、必要なお手伝いを行う事業です。また、必要に応じて保護者の話の傾聴や、協働して家事や育児を行うことにより保護者の子育てに関する悩みや不安感の解消を図ります。",
+      "description": "おとなりさん事業とは\n\n子どもと家庭のおとなりさん事業は、年度内48回を上限（ご家庭によって利用可能回数が異なります）として子育ての支援が必要な家庭へ支援員が伺い、必要なお手伝いを行う事業です。\n\nまた、必要に応じて保護者の話の傾聴や、協働して家事や育児を行うことにより保護者の子育てに関する悩みや不安感の解消を図ります。\n\nおとなりさんでは以下のような支援を行っています。\n\n・乳児支援（沐浴・育児支援・離乳食等）\n    例：離乳食の作り方や食べさせ方を支援員に教わる、沐浴のサポート、育児の相談\n・子ども支援（遊び・学び・支援同行等）\n    例：子どもとの遊び、子どもとの遊び方を教わる、子育て広場などの子どものために必要な場所への同行\n・家事支援（掃除・洗濯・買い物等）\n    例：子どもの学習スペースを作るために支援員と一緒に家財を整理する、骨折など一時的な傷病で家事が出来ない方に代わりお買い物などを行う\n・学習支援（家庭での学習・同行支援等）\n    例：共育プラザなどの子どものための施設への同行、宿題をやる習慣づけを行う\n\n支援員について\n\n一定の研修を受講した地域の方が登録しています。\n支援員としての活動に興味がある方は、下記ページをご覧ください。\n「おうち食堂」「おとなりさん」支援員募集\nhttps://www.city.edogawa.tokyo.jp/e077/kosodate/kosodate/kosodateshienjigyo/shieninboshu.html",
+      "target": {
+        "targetPersons": "対象者記載なし",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "子どもと家庭のおとなりさん事業は、年度内48回を上限（ご家庭によって利用可能回数が異なります）として子育ての支援が必要な家庭へ支援員が伺い、必要なお手伝いを行う事業です。",
+        "monetarySupport": null,
+        "materiallySupport": "子どもと家庭のおとなりさん事業は、年度内48回を上限（ご家庭によって利用可能回数が異なります）として子育ての支援が必要な家庭へ支援員が伺い、必要なお手伝いを行う事業です。"
+      },
+      "cost": "0",
+      "costConditions": "自己負担はありません。ただし、同行支援の際にかかる交通費等、支援内容によっては実費をご自身で負担していただく必要があります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "利用にあたっては家庭訪問を行い、ご家庭の状況をお伺いしたうえで利用可否の判断を行います。\n\nお伺いする内容（下記は一例です）\n\n・保護者の方やお子さんの傷病\n・経済状況\n・ご親族について\n・どんな支援が必要なのか　など\n\n支援員を派遣する都合上、マッチングできず結果的に派遣が出来ない場合がありますので、予めご了承ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e077/kosodate/kosodate/kosodateshienjigyo/otonarisan.html",
+        "title": "子どもと家庭のおとなりさん事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 児童相談所相談課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e077/kuseijoho/gaiyo/soshiki/kodomo/childguidanceoffice.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+10+UM106",
+        "organization": "1000020131237",
+        "compartment": "子ども家庭部 児童相談所相談課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-01-05",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て支援拠点・地域子育て支援センター",
+        "shortName": "なごみの家"
+      },
+      "summary": "誰もが集える地域の拠点として、子育て中の親子も気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+      "description": "なごみの家の3つの機能\n1 なんでも相談\n世代や分野を問わず相談を受け止め、専門機関や地域の皆さまと連携して解決への支援を行います。身近な窓口として、どんな些細なことでもご相談いただけます。\n\n2 誰でも集える交流の場\n誰でも気軽に立ち寄り交流のできる場を提供します。気軽にふらっとお立ち寄りください。\n3 地域のネットワークづくり\n町会・自治会や民生・児童委員等の地域住民、医療関係者、熟年相談室等の福祉関係者、警察・消防等による顔の見える関係づくりを進め、地域課題の把握・解決を図ります。",
+      "target": {
+        "targetPersons": "地域の皆さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "なごみの家",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:30",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "月曜（祝日・休日の場合は火曜も休館）、祝日・休日（土曜・日曜の場合は開館）、年末年始",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e039/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/fukushi/nagominoie.html",
+        "title": "なごみの家"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉部福祉推進課;https://www.city.edogawa.tokyo.jp/e039/kuseijoho/gaiyo/soshiki/fukushi/fukushi.html",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://faq.city.edogawa.tokyo.jp/cgi-bin/faq/form.cgi",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+10+UM110",
+        "organization": "1000020131237",
+        "compartment": null,
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-09-14",
+      "odInformation": {
+        "updateDate": "2024-03-19",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": null,
+        "targetCode": null,
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関するサポート",
+        "shortName": "愛の手帳（療育手帳）"
+      },
+      "summary": "愛の手帳は、児童相談所または知的障害者更生相談所（東京都心身障害者福祉センター）において知的障害者であると判定された方に交付されるもので、各種の福祉サービスを受けるために必要となるものです。なお、障害の程度は判定により1度から4度に区分されます。また、国の制度として療育手帳があり、愛の手帳はこの療育手帳の適用を受けます。",
+      "description": "愛の手帳は、児童相談所または知的障害者更生相談所（東京都心身障害者福祉センター）において知的障害者であると判定された方に交付されるもので、各種の福祉サービスを受けるために必要となるものです。なお、障害の程度は判定により1度から4度に区分されます。\nまた、国の制度として療育手帳があり、愛の手帳はこの療育手帳の適用を受けます。",
+      "target": {
+        "targetPersons": "児童相談所または知的障害者更生相談所（東京都心身障害者福祉センター）において知的障害者であると判定された方",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "愛の手帳（療育手帳）の様式について\n愛の手帳（療育手帳）の発行書式は従前の紙タイプに加え、カードタイプのいずれかから選ぶことができます。\n\n■愛の手帳（療育手帳）で受けられる公共料金の割引・税の軽減等\nhttps://www.city.edogawa.tokyo.jp/kenko/fukushikaigo/shogaisha/waribiki/index.html\n詳しくはお問合せください。\n\n■愛の手帳（療育手帳）で受けられる手当\nhttps://www.city.edogawa.tokyo.jp/kenko/fukushikaigo/shogaisha/teate/teate/index.html\n詳しくはお問合せください。",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "下記に電話で予約し、判定を受けます。\n【18歳未満の方】\n江戸川区児童相談所「はあとポート」\n江戸川区中央3丁目4番18号\n電話：03-5678-1810（代表）\n\n【18歳以上の方】\n東京都心身障害者福祉センター\n新宿区神楽河岸1丁目1番　東京都飯田橋庁舎（セントラルプラザ）14階\n電話：03-3235-2961",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "福祉部障害者福祉課愛の手帳相談係\n電話：03-5662-0053\nFAX：03-3656-5874",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e041/kenko/fukushikaigo/shogaisha/techo/ainotecho.html",
+        "title": "愛の手帳（療育手帳）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉部障害者福祉課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e041/kuseijoho/gaiyo/soshiki/fukushi/syogai.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+1+UM106",
+        "organization": "1000020131237",
+        "compartment": "福祉部障害者福祉課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-09-28",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て広場",
+        "shortName": "子育てひろば"
+      },
+      "summary": "区内の子育てひろばは、小学校就学前のお子さんが安心して遊べるスペースがあり、子育て中の親子が気軽に集い、仲間づくりを通して子育てに関する相談や情報交換等を行う機会を提供しています。また、お子さんの年齢に応じた各種イベントなども行っています。（イベントの詳細については、江戸川区サイトや区報などでお知らせしています。）",
+      "description": "江戸川区児童相談所はあとポートの1階にある「地域交流スペース」で、「はあとポート子育てひろば」をオープンしています。就学前のお子さんと保護者が自由に立ち寄り遊ぶことができます。",
+      "target": {
+        "targetPersons": "就学前のお子さんと保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 6,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "就学前のお子さんと保護者が自由に立ち寄り遊ぶことができます"
+      },
+      "support": {
+        "description": "「子育てひろば」は、就学前の乳幼児と保護者を対象に、自由に遊び、交流しながら、子育ての仲間づくりや情報交換ができる場です。育児でお困りのことがあればお気軽にご相談ください。また、必要に応じて健康サポートセンター等の専門機関と連携して育児をサポートします。区内20か所に設置していますので、お気軽にご来所ください。",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e047/kuseijoho/gaiyo/shisetsuguide/bunya/kosodate/hiroba/index.html",
+        "title": "子育てひろばについて"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て支援課計画係",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e047/kuseijoho/gaiyo/soshiki/kodomo/kosodate.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+1+UM112",
+        "organization": "1000020131237",
+        "compartment": "子ども家庭部子育て支援課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-05-17",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第6項"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小児科救急",
+        "shortName": "子どもの救急"
+      },
+      "summary": "江戸川区では、市内の小児科医がローテーションを組んで、休日や夜間に、赤ちゃんやお子さんが救急の際の診療を行っています。子どもが急な病気やけがをしたときなどの相談・連絡先についてご紹介します。",
+      "description": "子どもが急な病気やけがをしたときなどの相談・連絡先についてご紹介します。\n\nお悩みの時は\n\n東京消防庁救急相談センター（外部サイトへリンク）（別ウィンドウで開きます）\nhttp://www.tfd.metro.tokyo.jp/kb/index.htm\n「救急車を呼んだ方がいいかしら？」お迷いになった時ご相談ください。毎日24時間お答えします\nプッシュ回線用プッシュ回線用の固定電話の固定電話：♯7119\n電話：03-3212-2323（ダイヤル回線）\n\n東京都医療機関案内サービスひまわりホームページ（外部サイトへリンク）（別ウィンドウで開きます）\nhttp://www.himawari.metro.tokyo.jp/qq/qq13tomnlt.asp\n休日や夜間など、開いている医療機関が分からない時などに、検索することができます。\n\nこどもの救急（外部サイトへリンク）（別ウィンドウで開きます）\nhttp://kodomo-qq.jp/\nおかあさんのための救急＆予防サイト\n 子供の健康相談室（小児救急相談）\n\n東京都では保健所や保健センターが閉庁する時間帯に、子供の健康・救急に関する相談に、看護師や保健師等が応じています。また、必要に応じて小児科医師が小児救急相談にお答えします。（電話相談のため、医師が診断をするものではありません。）\n\n子供の健康相談室（小児救急相談）（外部サイトへリンク）（別ウィンドウで開きます）\nhttp://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/k_soudan.html\nプッシュ回線用の固定電話、携帯電話：#8000\nダイヤル回線・IP電話等すべての電話：03-5285-8898\n平日：午後6時～翌朝8時　土曜・日曜・祝日及び年末年始：午前8時～翌朝8時",
+      "target": {
+        "targetPersons": "対象者記載なし",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "休日・夜間の急病\n\nやむをえない急病の場合、江戸川区医師会の休日急病診療所、夜間急病診療所を受診してください。\n\n急病診療所はあくまで急病のみの対応となります。そのため限られた診療器具で診察しています。医師も深夜帯は一人で対応しています。お待たせする場合もありますがご理解ください。また、応急処置のため、薬の処方は最小限となります。\n\n最近、親御さんの都合で休日や深夜に受診するお子さんが増えています。医療機関の診療時間内であれば、医療機関で受診した方が設備も整っておりさらに安心です。\n|内容|電話番号|時間|場所|\n|:----|:----|:----|:----|\n|医師会休日急病診療所_（小児科・内科）|03-5667-7775|日曜・祝休日　午前9時から午後5時|江戸川区医師会地域医療支援センター1階https://www.edogawa-med.jp/yakan/kyujitsu.html_西瑞江5丁目1番地6|\n|医師会夜間急病診療所_（小児科・内科）|03-5667-7775|毎日　午後9時から翌朝6時|江戸川区医師会地域医療支援センター1階https://www.edogawa-med.jp/yakan/index.html_西瑞江5丁目1番地6|\n\n休日・夜間急病診療・休日当番医（外部サイトへリンク）（別ウィンドウで開きます）（江戸川区医師会ホームページ）\nhttps://www.edogawa-med.jp/yakan/toubani.html\n休日歯科応急診療（外部サイトへリンク）（別ウィンドウで開きます）（江戸川区歯科医師会ホームページ）\nhttp://www.edo418.jp/kyouryokujigyo/index.shtml\n休日応急当番接（整）骨院\nhttps://www.city.edogawa.tokyo.jp/e051/bosaianzen/anzen/iryo/taisei/kyujitsu.html\n\n区内の救急医療体制\n\n救急医療体制（夜間・休日／外科・内科・その他）\nhttps://www.city.edogawa.tokyo.jp/e051/bosaianzen/anzen/iryo/taisei/kinkyu.html",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "医師会休日急病診療所（小児科・内科）",
+        "implementationAddress": "西瑞江5丁目1番地6"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "虐待相談・連絡窓口\n\n・児童相談所（はあとポート）　電話：03-5678-1810\nhttps://www.city.edogawa.tokyo.jp/jiso/index.html\n\n・児童相談所虐待対応ダイヤル（24時間対応）　電話：189\n\n［緊急の場合］子どもの生命に危険がある場合などは「警察　110番」へご連絡ください。\n\n警察署\n\n・小松川警察署（外部サイトへリンク）（別ウィンドウで開きます）　松島1丁目19番22号　電話：03-3674-0110\nhttps://www.keishicho.metro.tokyo.lg.jp/about_mpd/shokai/ichiran/kankatsu/komatsugawa/index.html\n・小岩警察署（外部サイトへリンク）（別ウィンドウで開きます）　東小岩6丁目9番17号　電話：03-3671-0110\nhttps://www.keishicho.metro.tokyo.lg.jp/about_mpd/shokai/ichiran/kankatsu/koiwa/index.html\n・葛西警察署（外部サイトへリンク）（別ウィンドウで開きます）　東葛西6丁目39番1号　電話：03-3687-0110\nhttps://www.keishicho.metro.tokyo.lg.jp/about_mpd/shokai/ichiran/kankatsu/kasai/index.html\n\n問い合わせ\n\n・医療機関について健康推進課　電話：03-5661-2462\n・子育て相談・児童虐待について子ども家庭支援センター　電話：03-3877-2433",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e051/kosodate/kosodate_ouen/kinkyu.html",
+        "title": "子どもの救急"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部健康推進課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e051/kuseijoho/gaiyo/soshiki/kenko/suishin.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+1+UM114",
+        "organization": "1000020131237",
+        "compartment": "健康部健康推進課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-07-11",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "医療法",
+        "regulationArticle": "第30条の4第2項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "078"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関する相談窓口一覧",
+        "shortName": "ヤングケアラーについて"
+      },
+      "summary": "江戸川区内の子育てに関する相談窓口の一覧です。「ヤングケアラー」とは、本来大人が担うと想定されているような家事や家族の世話などを日常的に行っている子どものことです。国の調査では、ヤングケアラーの4割以上が、1日平均5時間以上、介護や世話を行っていること、ヤングケアラーの3割以上が学校にあまり行けていない（休みがち）といった状況にあることが判明しています。子どもへの支援の必要性やどのような支援を必要としているか（ニーズ）」を確認したうえで、必要な支援や関係機関につないでいくことが求められています。",
+      "description": "こども家庭庁　特設ホームページ「子どもが子どもでいられる街に。～みんなでヤングケアラーを支える社会を目指して～」は下記画像をクリックしてください。\n\nこども家庭庁ホームページ「子どもが子どもでいられる街に」（外部サイトへリンク）（別ウィンドウで開きます）\nhttp://www.mhlw.go.jp/young-carer/\n\n「ヤングケアラー」とは、本来大人が担うと想定されているような家事や家族の世話などを日常的に行っている子どものことです。\n\n国の調査では、ヤングケアラーの4割以上が、1日平均5時間以上、介護や世話を行っていること、ヤングケアラーの3割以上が学校にあまり行けていない（休みがち）といった状況にあることが判明しています。\n\n子どもへの支援の必要性やどのような支援を必要としているか（ニーズ）」を確認したうえで、必要な支援や関係機関につないでいくことが求められています。\n\n・ヤングケアラーの具体例の紹介\n・ヤングケアラーの普及啓発動画の紹介\n・ヤングケアラーの情報コンテンツの紹介\n・ヤングケアラー・コーディネーターについて\n・江戸川区ヤングケアラー相談支援等補助事業\n・東京都ヤングケアラー支援マニュアルについて\n・相談窓口\n\n ヤングケアラーの具体例の紹介\n\nこども家庭庁「ヤングケアラーについて」（外部サイトへリンク）（別ウィンドウで開きます）https://www.cfa.go.jp/policies/young-carer\n\nこども家庭庁では、ヤングケアラーの具体例を以下のように紹介しています。\n\n    障害や病気のある家族に代わり、買い物・料理・掃除・洗濯などの家事をしている\n    家族に代わり、幼いきょうだいの世話をしている\n    障がいや病気のあるきょうだいの世話や見守りをしている\n    目を離せない家族の見守りや声かけなどの気づかいをしている\n    日本語が第一言語でない家族や障がいのある家族のために通訳をしている\n    家計を支えるために労働をして、障がいや病気のある家族を助けている\n    アルコール・薬物・ギャンブルなどの問題のある家族に対応している\n    がん・難病・精神疾患などの慢性的な病気の家族の看病をしている\n    障がいや病気のある家族の身の回りの世話をしている\n    障がいや病気のある家族の入浴やトイレの介助をしている\n\n「ヤングケアラー」の子どもたちは、本来大人が担うと想定されるような家事や家族の世話などを日常的に行っていることにより、学校に行けなかったり、友達と遊ぶ時間がなかったり、自身がしたいと思っていたクラブ活動ができなかったり、宿題などの勉強に割く時間がつくれなかったりするなど、本来守られるべき子ども自身の権利を侵害されている可能性があります。\n\nヤングケアラーの普及啓発動画の紹介\n【Social Film】「二人の高校生」\n\n【企画】NPO法人Learning for All（外部サイトへリンク）（別ウィンドウで開きます）\nhttps://learningforall.or.jp/\n『NPO法人Learning for All』は、「子どもの貧困に、本質的解決を。」をミッションに掲げ、困難を抱える子どもたちへ学習支援と居場所づくりを展開。地域の様々なステークホルダーと協力しながら、6歳から18歳の子ども達の生活圏に必要なすべての支援・機会がそろう「地域協働型子ども包括支援」のモデルを構築。本モデルを全国へ広げ、すべての子ども達が自分の可能性を信じ、自分の力で人生を切り拓くことのできる社会の実現を目指しています。\n\n【制作】株式会社 SEAMES\n\n『株式会社 SEAMES』はアート・メディア・エンタメの力を通しあらゆる社会課題への認知を広げ、同時にアクションの方法や解決への新しいアイデアを提示する会社として、「二人の高校生」の動画を制作しました。\n陽菜のせかい\n【企画・監修】一般社団法人 ケアラーアクションネットワーク協会（外部サイトへリンク）（別ウィンドウで開きます）\nhttps://canjpn.jimdofree.com/\n『一般社団法人ケアラーアクションネットワーク協会』は、ケアラー同士が出会い、共感しあえる居場所づくりと、ケア経験を活かして人生を豊かにするプログラムを提供しています。ケアラーの声を聞くことで、「家族の世話をするのは当たり前」という、社会にある\"見えない壁\"が無くなり、ケアラーと家族への理解が深まり、ケアラーが誇りを持てる社会が実現することを目指しています。\n\nヤングケアラーの情報コンテンツの紹介 \n一般社団法人日本ケアラー連盟\n\n『一般社団法人日本ケアラー連盟』は、ケアラー（家族等無償の介護者）、ケアラーを気遣う人、ケアラーの抱える問題を社会的に解決しようという志をもつ人が集い、すべての世代のケアラーが、ケアにより心身の健康をそこねたり、学業や仕事に制約を受けたり、貧困や社会的孤立に追い込まれることなく、個人の尊厳が守られ、安定した生活を送り、将来への希望を持てるよう、その人生を地域や社会全体で支えるしくみづくりをめざしています。\n\n一般社団法人日本ケアラー連盟「ケアラー・ヤングケアラーについて知りたい皆様へ」（外部サイトへリンク）（別ウィンドウで開きます）\nhttps://youngcarerpj.jimdofree.com/\n\nNPO法人ぷるすあるは\n\n『NPO法人 ぷるすあるは』は、「精神障がいを抱えた親とその\"子ども\"を応援しています」。\n『ぷるすあるは』は、精神科の看護師と、医師が、2015年6月に設立したNPO法人です。精神障がいやこころの不調、発達凸凹を抱えた家庭や、さまざまな事情の中で、頑張っている子どもたちを、絵本やウェブサイトなどの情報コンテンツを通して応援しています。\nさまざまな情報発信を通して、精神保健全般に関する普及啓発活動も行っています。\n\nNPO法人ぷらすあるは「ヤングケアラーのみなさんへ」（外部サイトへリンク）（別ウィンドウで開きます）\nhttps://kidsinfost.net/2020/09/19/carer-2/\n\nヤングケアラー・コーディネーターについて \n\n江戸川区児童相談所「はあとポート」では、ヤングケアラー・コーディネーターを配置しています。\n\nヤングケアラー・コーディネーターは、ヤングケアラーを発見・把握した場合に家庭の状況に応じ、適切なサービスにつなげられるよう、関係機関、支援者団体等と連携して相談・支援、適切な機関へのつなぎを行う専門職です。\n\n当事者の方や支援者の方を問わず、相談を受け付けています。\n\nycc\n江戸川区ヤングケアラー相談支援等補助事業\n\n令和5年度の募集は終了しました。\n\n江戸川区では、ヤングケアラーが気軽に相談でき、同様の境遇にあるお子さん同士や経験者との交流を通じて、精神的な負担軽減につながる場所及び機会の提供等を行う団体に対し、その活動に要する費用の一部を補助します。\n\n制度の詳細\n\n区内で活動を行っている団体の紹介\n一般社団法人 ケアラーパートナー木の根っこ\n\n『一般社団法人ケアラーパートナー木の根っこ』は、ヤングケアラーが集う居場所「ヤングケアラーズカフェ若葉」を中央、鹿骨の2ヵ所で開設しています。(一般社団法人ケアラーパートナー木の根っこは「令和5年度江戸川区ヤングケアラー相談支援等補助事業」採択団体です。)\n若葉・中央\n\n    日時：毎月第2土曜日 16時から18時\n    会場：ほっとマンマ(江戸川区中央2丁目4番18号 ほっと館1階)\n    対象：中学生以上\n\n若葉・鹿骨\n\n    日時：毎月第1土曜日 16時から18時\n    会場：えるぷらん(江戸川区鹿骨5丁目26番7号)\n    対象：中学生以上\n\n申し込み・問い合わせ先\n\n    電話：03-6823-8077\n    団体のホームページURL：kino-necco.com（外部サイトへリンク）（別ウィンドウで開きます）\n\n若葉カード表\n\n若葉カード裏\n労働者協同組合ワーカーズコープ・センター事業団(江戸川ベースnappa)\n\n労働者協同組合ワーカーズコープ・センター事業団が運営する『江戸川ベースnappa』では、ヤングケアラーの居場所事業「ひだまりcafe nappa」を開設しています。また、お弁当の宅配や学習支援などの活動も行っています。(労働者協同組合ワーカーズコープ・センター事業団は「令和5年度江戸川区ヤングケアラー相談支援等補助事業」採択団体です。)\nひだまりcafe nappa\n\n    日時：毎週日曜日 12時から18時\n    会場：江戸川ベースnappa(江戸川区東葛西1丁目9番15号)\n\n申し込み・問い合わせ先\n    電話：03-5605-8116\n    団体のホームページURL：江戸川ベースnappa (amebaownd.com)（外部サイトへリンク）\nhttps://edogawabasenappa.amebaownd.com/\n\nリーフレット表\n\nリーフレット裏\n\n特定非営利活動法人東京ソテリア\n\n『特定非営利活動法人東京ソテリア』は、「家族の心の健康が気になる」、「きょうだいや親のお世話をしている」、「家庭のことで忙しく、勉強や部活に打ち込む時間がない」等の悩みを抱える子どもを対象にした相談窓口の開設や、子ども達が気軽に集うことができる居場所事業を実施しています。(特定非営利活動法人東京ソテリアは「令和4年度東京都ヤングケアラー相談支援等補助事業」採択団体です。)\n相談・問い合わせ先\n\n    日時：毎週水曜日、金曜日、日曜日 16時から22時\n    メール：yc@soteria.jp\n    LINE：@641klbgi\n\n居場所グループ\n\n    日時：毎週月曜日 17時から19時\n    会場：地域活動支援センターはるえ野(江戸川区春江町2丁目41番8号)\n    申し込み：03-5664-6070までお電話いただくか、上記のメールまたはLINEにご連絡ください。\n    団体のホームページURL：https://soteria.jp/（外部サイトへリンク）（別ウィンドウで開きます）\n\nチラシ\n\n東京都ヤングケアラー支援マニュアルについて\n\n地域で関係機関が緊密に連携し、ヤングケアラーに早期に気づくとともに、見守り、寄り添いや具体的な支援につなぐことができるよう、東京都がヤングケアラー支援マニュアルを公開しています。\n\n東京都福祉保健局「ヤングケアラー」ページ（外部サイトへリンク）（別ウィンドウで開きます）\nhttps://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/young-carer.html",
+      "target": {
+        "targetPersons": "対象者記載なし",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "ヤングケアラーについて",
+        "monetarySupport": null,
+        "materiallySupport": "ヤングケアラーについて"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "「もしかしたら、あの子はヤングケアラーかもしれない」と周囲に気になるお子さんがいたり「自分はヤングケアラーかもしれない」と思ったら、江戸川区児童相談所にご相談ください。\n\n江戸川区児童相談所　はあとポート\n\n電話：03-5678-1810（有料通話）\n電話：0120-189-783（無料通話）\n午前8時30分から午後5時（月曜日から土曜日／注：祝日・年末年始を除く）\n\n日曜日・祝日・夜間　電話：189（無料通話）",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e077/kosodate/jiso/jigyoguide/young/index.html",
+        "title": "ヤングケアラーについて"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 児童相談所相談課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e077/kuseijoho/gaiyo/soshiki/kodomo/childguidanceoffice.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+1+UM115",
+        "organization": "1000020131237",
+        "compartment": "子ども家庭部 児童相談所相談課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-02-19",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "医療法",
+        "regulationArticle": "第30条の4第2項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "江戸川区の子育てに関する相談",
+        "shortName": "子育て相談"
+      },
+      "summary": "子育てに関する相談",
+      "description": "子育てに関する相談をお受けしています。一人で悩まずぜひご連絡ください。",
+      "target": {
+        "targetPersons": "対象者記載なし",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "子育てに関する相談",
+        "monetarySupport": null,
+        "materiallySupport": "子育てに関する相談"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "健康サポートセンター、江戸川区児童相談所（はあとポート）、区立保育園、区立幼稚園、共育プラザ、夜間電話相談、東京都こども医療ガイド",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kodomo/ikujisodan.html",
+        "title": "子どもの相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部健康サービス課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+1+UM119",
+        "organization": "1000020131237",
+        "compartment": "健康部健康サービス課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-04-21",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小学校・中学校の就学援助費",
+        "shortName": "就学援助費"
+      },
+      "summary": "経済的な理由により就学が困難と認められる、公立の小学校・中学校に通学する児童・生徒の保護者を対象に、学用品費、修学旅行費、給食費などを支給します。",
+      "description": "就学援助のご案内\n\n就学援助制度とは、経済的に就学が困難なご家庭に、学校生活で必要な費用の一部を江戸川区が援助する制度です。就学援助は保護者の申請に基づき、世帯全体の前年所得額を基準とします。\n\n就学援助費申請のお知らせ（PDF：993KB）（別ウィンドウで開きます）\nhttps://www.city.edogawa.tokyo.jp/documents/8766/5osirase.pdf\n\n支給方法について\n\n上記の各援助費（学校給食費・医療費を除く）は、区から保護者口座に直接振込をします。入金は、8月以降を予定しています。なお、学校給食費は学校長の口座へ振込みいたします。\n（注）江戸川区立以外の小学校・中学校に在籍している方は翌年の4月頃に、一年分を一括で振込みいたします。\n\nその他\n\n就学援助の制度は、認定された方に就学援助費を支給するものであり、教材費等の納付が免除されるものではありません。学校納付金については、学校の指示に従って納めてください。",
+      "target": {
+        "targetPersons": "江戸川区に住んでいて、江戸川区立または国公立の小学校・中学校、不登校特例校に通学しているお子様がいるご家庭で、次のいずれかに該当するご家庭が対象となります。\n江戸川区以外にお住まいの方は、住所地の教育委員会にご相談ください。\n\n1.生活保護を受けている方\n2.前年度又は当年度中に生活保護の廃止・停止を受けた方\n3.世帯全員の前年合計所得が基準以下の方\n\n|世帯構成例|<|前年中の世帯所得|\n|:----|:----|:----|\n|2人|父または母33歳、子ども（小1）|227万円以下|\n|^|父または母38歳、子ども（中1）|242万円以下|\n|3人|父35歳、母31歳、子ども（小1）|289万円以下|\n|^|父39歳、母37歳、子ども（中1）|306万円以下|\n|4人|父38歳、母33歳、子ども（小3、4歳）|319万円以下|\n|^|父42歳、母38歳、子ども（中1、小4）|350万円以下|\n|5人|父38歳、母32歳、子ども（小4、小2）、祖母65歳|372万円以下|\n|^|父48歳、母45歳、子ども（高校生、中2、小4）|390万円以下|\n\n上記表は大体の目安であり、世帯構成・年齢等により変わります。\n\n世帯所得は、世帯構成員の年齢等により世帯ごとに異なりますので、お問い合わせいただいても審査前に世帯所得の計算をすることはできません。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 15,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 6,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "江戸川区に住んでいて、江戸川区立または国公立の小学校・中学校、不登校特例校に通学しているお子様がいるご家庭"
+      },
+      "support": {
+        "description": "1.学用品・通学用品費\n2.学校給食費\n3.校外活動費\n4.新入学児童生徒学用品費\n5.修学旅行費\n6.林間学校費\n7.音楽鑑賞教室費\n8.セカンドスクール費（小学校のみ）\n9.ウィンタースクール費（小学校のみ）\n10.スケート教室費（小学校のみ）\n11.卒業記念アルバム費\n12.クラブ活動費（中学校のみ。ボール等、部員全員が共通に使用・負担するものに限る）\n13.医療費（学校保健安全法に基づくもの。虫歯・中耳炎などの学校病のみ）\n14.通学費（特別支援学級通級者・日本語学級通級者のみ）\n\n（注1）生活保護を受けている方の1、2、4、12、14の援助費は、福祉事務所から支給されます。\n（注2）認定結果が出る前に行う行事などの費用は、認定後支給します。\n（注3）13の医療費については、医療機関を受診する際、医療券を交付します。\n就学援助の詳細については認定者のみなさんへ（PDF：504KB）（別ウィンドウで開きます）をご覧ください。\n医療券交付の手続きには、平成28年1月からマイナンバーを利用します。\n番号確認と本人確認を行いますので、ご協力をお願いします。\n詳しくは江戸川区でマイナンバーを利用する主な事務のページをご覧ください。\n（注4）江戸川区では令和元年度小学校・中学校へ入学のお子さまがいる方より、新入学児童生徒学用品費の前倒し支給を行っております。小学校に入学されるお子さまがいる方には、別途「新入学児童生徒学用品費の前倒し支給」の申請書をご自宅に郵送いたします。詳しくは、新入学児童生徒学用品費の前倒し支給のページをご覧ください。\nhttps://www.city.edogawa.tokyo.jp/documents/8766/5ninteisyanominasan.pdf\nhttps://www.city.edogawa.tokyo.jp/e038/kurashi/mynumber/seido/seidotoha/omonagyomu.html#CMSmyna\nhttps://www.city.edogawa.tokyo.jp/e069/kosodate/kyoiku/kyouiku/tetuduki/2020sinniyuugakugakuyouhinnhi.html",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "認定結果の通知\n\n1.江戸川区立の小学校・中学校に在籍している方については7月以降にご自宅へ郵送で通知します。\n2.江戸川区立以外の小学校・中学校に在籍している方については10月以降にご自宅へ郵送で通知します。\n\n結果内容は以下の通りです。\n\n・【要保護・準要保護】\n    援助が受けられます。援助の内容は同封の「就学援助認定者のみなさんへ」をご確認ください。\n・【準要保護（費目認定）】\n    「給食費」のみ援助が受けられます。\n・【否認定】\n    ご家族の収入額が認定基準を超えているため、本年度は援助を受けることはできません。\n・【保留】\n    下記の理由により認定の可否を保留にしています。期限までに手続きがない場合は審査できませんので、申請を無効とさせていただきます。\n        （例1）令和5年○月○日現在、ご家族に収入等の確認ができない方がいるため、審査できません。令和5年1月1日現在、江戸川区にご住所がある方は収入の有無にかかわらず、○月○日までに区役所4階の課税課で税の申告をしてください。\n        （例2）令和5年○月○日現在、ご家族に収入等の確認ができない方がいるため審査できません。令和5年1月2日以降江戸川区に転入された方は、令和4年分の所得を証明するもの（令和5年度課税証明書）を○月○日までには学務課学事係へ提出してください。\n        （例3）申請書の内容が確認できないため保留です。○月○日までに学務課学事係にお問い合わせください。\n        （例4）令和5年○月○日現在、ご家族に収入等の確認ができない方がいるため審査できません。江戸川区外に住民登録をしている方がいる場合は、その方の令和4年分の所得を証明するもの（令和5年度課税証明書等）と氏名・住所・生年月日がわかる書類（住民票・保険証の写し等）を○月○日までに学校又は学務課学事係へ提出してください。令和5年1月2日以降江戸川区に転入された方は、令和4年分の所得を証明するもの（令和5年度課税証明書等）を○月○日までに学校又は学務課学事係へ提出してください。\n・【審査不能】\n    期限まで手続きがなかったため、審査することができませんでした。そのためこの申請は無効となります。なお、再申請は随時受付けしますが、認定された場合、援助が受けられるのは再申請があった月からとなります。\n・【受給資格喪失】\n    受給資格喪失のため、喪失日以降援助を受けることができません。\n\n否認定の結果が出ている場合でも、家族状況の急変（離婚・主たる生計者である保護者の死亡）、主たる生計者である保護者のリストラ、倒産による失業、事故・病気等の事由で再申請が可能な場合があります。詳しくは学務課学事係へご相談ください。",
+      "procedurePersons": null,
+      "procedureMethod": "就学援助の申請手続き\n江戸川区立小学校・中学校に在籍している児童生徒の保護者の方\n\n毎年4月に学校を通じて申請書を配付します。就学援助を希望される方は、必要事項を記入して、学校に提出してください。年度の途中でも申請できます。\n江戸川区立以外の国公立の小学校・中学校に在籍している児童生徒の保護者の方\n\n就学援助を希望される方は、毎年度申請が必要です。年度の途中でも申請できます。申請書類は直接、学務課学事係に受け取りにきていただくか、郵送にて請求ください。なお、令和5年度より電子申請を受け付けております。\n申請書類の郵送請求方法\n\n1.就学援助申請書類請求書\n    請求書に必要事項をご記入ください。請求書をダウンロードできない場合は、白紙等に次の必要事項をご記入ください。1枚で3名分まで請求できます。\n    請求書（PDF：5KB）（別ウィンドウで開きます）\nhttps://www.city.edogawa.tokyo.jp/documents/8766/seikyuusyo.pdf\n    ・請求者（保護者）氏名\n    ・請求者（保護者）連絡先\n    ・求者（保護者）住所\n    ・就学援助を申請する児童生徒の氏名・在籍校名\n2.返信用封筒\n    お手持ちの封筒に、請求者（保護者）の郵便番号・住所・氏名を記入し、94円切手を貼ってください。\n3.請求先\n    お手持ちの封筒に請求書・返信用封筒を同封の上、以下の宛先に請求ください。\n    〒132-8501（住所の記入は不要）\n    江戸川区教育委員会事務局学務課学事係宛\n\n就学援助費の申請方法\n\n1.電子申請\n    東京共同電子申請・届出サービスから申請を受付します。下記の「電子申請システム」から申請画面へお進みください。なお、申請完了後、メールが届きますのでご確認ください。\n    電子申請システム（外部サイトへリンク）（別ウィンドウで開きます）\nhttps://www.shinsei.elg-front.jp/tokyo2/navi/procList.do?fromAction=1&govCode=13123&keyWord=1000840\n    ≪お知らせ≫令和6年4月より「ぴったりサービス（外部サイトへリンク）（別ウィンドウで開きます）」での電子申請を開始予定です。利用にはマイナンバーカードが必要です。\nhttps://app.oss.myna.go.jp/Application/procdetail/initGet?kc9XUt9I8/CU41afS8P1OaaLxX/9+D2bXPzn80LiqLRKeI438ftq6avj3ZAt+N8AW9q6EDQcH6gd79sU8Jz/WDkumilvLbbCkze8C79kjkQd0qVNG53HDV+kdQaO5xfqGcX0haZaG8l6AxAmPd0ijg==\n2.郵送提出\n    申請書に必要事項を記入し、ご郵送ください。\n    【郵送先】\n    〒132-8501江戸川区中央1丁目4番1号\n    江戸川区教育委員会事務局学務課学事係宛\n    普通郵便では、郵便事故の際に補償ができません。追跡サービス付き郵便物でのご利用をお勧めします。\n3.窓口にて申請\n    申請書に必要事項を記入し、学務課学事係（本庁舎4階5番）にご提出ください。。\n\n注意事項\n\n1.江戸川区立の小・中学校に在籍している場合、電子申請はできません。在籍校から配布される申請書にてご申請ください。\n2.下記に該当する場合は電子データによる添付書類が必要となります。\n   ・【令和5年1月2日以降に江戸川区に転入された方】\n        令和5年度課税・非課税証明書、所得証明書等（令和4年分の所得金額・扶養情報が記載されているもの）\n   ・【家族の中に江戸川区以外に住民登録をしている人がいる方（単身赴任の父母・遠隔地扶養の子）】\n        令和5年度課税・非課税証明書、所得証明書等（令和4年分の所得金額及び扶養情報が記載されているもの。自治体によって名称が異なります）\n        住所、氏名及び生年月日がわかる書類（住民票、保険証の写し等）\n\n区域外就学援助費のお知らせ（PDF：163KB）（別ウィンドウで開きます）\nhttps://www.city.edogawa.tokyo.jp/documents/8766/kuikigaiosirase.pdf",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e069/kosodate/kyoiku/kyouiku/tetuduki/shugakuenjo.html",
+        "title": "就学援助費"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?fromAction=1&govCode=13123&keyWord=1000840&procCode=11013305;https://app.oss.myna.go.jp/Application/procdetail/initGet?kc9XUt9I8/CU41afS8P1OaaLxX/9+D2bXPzn80LiqLRKeI438ftq6avj3ZAt+N8AW9q6EDQcH6gd79sU8Jz/WDkumilvLbbCkze8C79kjkQd0qVNG53HDV+kdQaO5xfqGcX0haZaG8l6AxAmPd0ijg==",
+          "title": "電子申請システム（外部サイトへリンク）（別ウィンドウで開きます）;ぴったりサービス（外部サイトへリンク）（別ウィンドウで開きます）"
+        }
+      ],
+      "contact": {
+        "contactName": "教育委員会事務局学務課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e069/kuseijoho/gaiyo/soshiki/kyoiku/gakumu.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+1+UM126",
+        "organization": "1000020131237",
+        "compartment": "教育委員会事務局学務課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-11-06",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "学校教育法",
+        "regulationArticle": "第19条"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "078"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産後ケア事業",
+        "shortName": "産後ケア（訪問型）事業"
+      },
+      "summary": "産後のお母さんとお子さんに対して、助産師等専門職による母子ケアを提供する事業です。",
+      "description": "産後ケア（訪問型）事業では、出産後のお母さんが助産師の訪問によりご自宅で授乳指導や乳房ケア、育児相談が受けられます。",
+      "target": {
+        "targetPersons": "江戸川区に住民登録があり、産後ケアを希望する産後1年未満のお母さんとその赤ちゃん",
+        "lessThan": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "江戸川区に住民登録があり、産後ケアを希望する産後1年未満のお母さんとその赤ちゃん"
+      },
+      "support": {
+        "description": "助産師による授乳指導や乳房ケア\n産後の身体の悩みや気分の落ち込み、不安の相談\n育児全般に関する相談・指導等\n\n1回の出産につき3回まで",
+        "monetarySupport": null,
+        "materiallySupport": "助産師による授乳指導や乳房ケア\n産後の身体の悩みや気分の落ち込み、不安の相談\n育児全般に関する相談・指導等"
+      },
+      "cost": null,
+      "costConditions": "1回2,000円\n\n住民税非課税世帯、生活保護世帯は全額免除されます。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "09:00",
+        "toYMD": null,
+        "toHM": "17:00",
+        "conditions": "月曜日から金曜日（祝日、年末年始を除く）\n\n午前9時から午後5時まで（1回あたり約1時間）"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "https://krs.bz/pasonalc/m?f=75\n・上記のお申し込みボタンをクリックすると「江戸川区産後ケア（訪問型）事業のお申込みフォーム」のページとなります。\n・メールフォームをご利用いただけない方は、お電話（電話番号：0120-646-634）からもお申し込みいただけます。\n・「江戸川区産後ケア（訪問型）利用規約（PDF：772KB）（別ウィンドウで開きます）」をお読みいただき、ご同意の上お申し込みください。\n産後ケア事業利用後、必要に応じて区の保健師と情報共有し、育児を継続支援させていただきます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "株式会社パソナライフケア\n住所：東京都港区南青山3丁目1番30号\n電話番号：0120-646-634",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/sangokea/houmon.html",
+        "title": "産後ケア（訪問型）事業"
+      },
+      "formLink": [
+        {
+          "uri": "https://krs.bz/pasonalc/m?f=75",
+          "title": "江戸川区産後ケア（訪問型）事業お申込みフォーム"
+        }
+      ],
+      "contact": {
+        "contactName": "健康部健康サービス課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+1+UM15",
+        "organization": "1000020131237",
+        "compartment": "健康部健康サービス課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-01-18",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条の2（産後ケア事業）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出産育児一時金",
+        "shortName": "出産したとき（出産育児一時金）"
+      },
+      "summary": "国民健康保険に加入している方が出産したときは、その世帯主からの申請により、出産育児一時金を支給します。原則として直接支払制度により、医療機関に直接お支払いします。なお、直接支払制度に対応していない医療機関などで出産された場合も、「受取代理制度」や出産後の申請により、出産育児一時金の支給を受けることができます。",
+      "description": "被保険者が出産したとき、申請により1児につき50万円（注釈1）が世帯主に支給されます。\n\n（注釈1）令和5年3月31日以前の出産は、1児につき42万円です。本ページ中「50万円」とある箇所もすべて同様です。\n（注釈2）妊娠12週（85日）以上であれば死産、流産及び人工妊娠中絶でも支給します。\n（注釈3）他の健康保険に本人として1年以上加入し、退職後半年以内に出産した場合は、加入していた健康保険に申請できます(その場合、国保からは支給されません。)。\n受取方法は下記の3通りです。\n\n1.「直接支払制度」を利用する場合\n江戸川区への手続きは不要です。\n\n「直接支払制度」の利用を希望される場合は、医療機関にご相談ください（「直接支払制度」を実施していない医療機関もあります。）。\n出産育児一時金を国保が医療機関に直接支払うため、被保険者は出産費用から50万円を引いた金額を支払うだけで済みます。\n出産費用が50万円未満の場合は、申請により国保から世帯主へ差額をお支払いします（該当する方にはお知らせをお送りします。）。\n\n2.「受取代理制度」を利用する場合\n事前に世帯主が国保に申請することで、出産後に国保から医療機関等へ出産育児一時金を支払う制度です。\nこれにより、被保険者は出産費用から50万円を引いた金額を支払うだけで出産できるようになります。\n「受取代理制度」の利用を希望される場合は、医療機関等にご相談されたうえで、下記の申請窓口へ申請してください（「受取代理制度」を実施していない医療機関もあります。）。\n出産費用が50万円未満の場合は、国保から世帯主へ差額をお支払いします。\n\n3.いずれの制度も利用しない場合\n出産後、世帯主の申請により50万円が支給されます。\n\n（注意1）海外での出産で支給対象となるのは、日本国内に住所があり居住実態のある方が短期間の海外渡航中にされた出産です。その確認のため、申請時に必要なものが異なりますのでお問い合わせください。\n（注意2）平成31年4月1日付厚生労働省通知「海外療養費及び海外出産に係る出産育児一時金の支給の厳正化に向けた対策等について」を受け、海外出産に係る出産育児一時金の不正請求を防止するため、支給申請に対する審査を強化しております。",
+      "target": {
+        "targetPersons": "被保険者が出産したとき",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "被保険者が出産したとき、申請により1児につき50万円（注釈1）が世帯主に支給されます。\n\n（注釈1）令和5年3月31日以前の出産は、1児につき42万円です。本ページ中「50万円」とある箇所もすべて同様です。\n（注釈2）妊娠12週（85日）以上であれば死産、流産及び人工妊娠中絶でも支給します。\n（注釈3）他の健康保険に本人として1年以上加入し、退職後半年以内に出産した場合は、加入していた健康保険に申請できます(その場合、国保からは支給されません。)。\n受取方法は下記の3通りです。\n1.「直接支払制度」を利用する場合\n江戸川区への手続きは不要です。\n\n「直接支払制度」の利用を希望される場合は、医療機関にご相談ください（「直接支払制度」を実施していない医療機関もあります。）。\n出産育児一時金を国保が医療機関に直接支払うため、被保険者は出産費用から50万円を引いた金額を支払うだけで済みます。\n出産費用が50万円未満の場合は、申請により国保から世帯主へ差額をお支払いします（該当する方にはお知らせをお送りします。）。\n\n2.「受取代理制度」を利用する場合\n事前に世帯主が国保に申請することで、出産後に国保から医療機関等へ出産育児一時金を支払う制度です。\nこれにより、被保険者は出産費用から50万円を引いた金額を支払うだけで出産できるようになります。\n「受取代理制度」の利用を希望される場合は、医療機関等にご相談されたうえで、下記の申請窓口へ申請してください（「受取代理制度」を実施していない医療機関もあります。）。\n出産費用が50万円未満の場合は、国保から世帯主へ差額をお支払いします。\n\n3.いずれの制度も利用しない場合\n出産後、世帯主の申請により50万円が支給されます。\n\n（注意1）海外での出産で支給対象となるのは、日本国内に住所があり居住実態のある方が短期間の海外渡航中にされた出産です。その確認のため、申請時に必要なものが異なりますのでお問い合わせください。\n（注意2）平成31年4月1日付厚生労働省通知「海外療養費及び海外出産に係る出産育児一時金の支給の厳正化に向けた対策等について」を受け、海外出産に係る出産育児一時金の不正請求を防止するため、支給申請に対する審査を強化しております。",
+        "monetarySupport": "被保険者が出産したとき、申請により1児につき50万円（注釈1）が世帯主に支給されます。\n\n（注釈1）令和5年3月31日以前の出産は、1児につき42万円です。本ページ中「50万円」とある箇所もすべて同様です。\n（注釈2）妊娠12週（85日）以上であれば死産、流産及び人工妊娠中絶でも支給します。\n（注釈3）他の健康保険に本人として1年以上加入し、退職後半年以内に出産した場合は、加入していた健康保険に申請できます(その場合、国保からは支給されません。)。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "1.「直接支払制度」を利用する場合\n江戸川区への手続きは不要です。\n\n「直接支払制度」の利用を希望される場合は、医療機関にご相談ください（「直接支払制度」を実施していない医療機関もあります。）。\n出産費用が50万円未満の場合は、申請により国保から世帯主へ差額をお支払いします（該当する方にはお知らせをお送りします。）。\n2.「受取代理制度」を利用する場合\n医療機関等にご相談されたうえで、下記の申請窓口へ申請してください（「受取代理制度」を実施していない医療機関もあります。）。\n出産費用が50万円未満の場合は、国保から世帯主へ差額をお支払いします。\n3.いずれの制度も利用しない場合\n下記の申請窓口へ申請してください。",
+      "procedurePersons": null,
+      "procedureMethod": "区役所区民課・各事務所の保険年金係窓口で手続きしてください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "1.「直接支払制度」を利用する場合\n医療機関にご相談ください\n2.「受取代理制度」を利用する場合\n医療機関等にご相談されたうえで、出産予定日の2か月前から下記の申請窓口で受付できます。\n差額の申請は事由が発生した日の翌日から2年を過ぎると時効となり申請できません。\n3.いずれの制度も利用しない場合\n事由が発生した日の翌日から2年を過ぎると時効となり申請できません。"
+      },
+      "electronicSubmission": false,
+      "belongings": "2.「受取代理制度」を利用する場合\n世帯主及び出産する被保険者のマイナンバー（個人番号）が確認できるもの,窓口にお越しになる方の本人確認ができるもの,出産する被保険者の保険証,母子健康手帳（医師の証明書）\n3.いずれの制度も利用しない場合\n世帯主及び出産する被保険者のマイナンバー（個人番号）が確認できるもの,窓口にお越しになる方の本人確認ができるもの,出産する被保険者の保険証,母子健康手帳（医師の証明書）,世帯主の口座番号等が確認できるもの",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "区役所区民課・各事務所の保険年金係窓口",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e053/kurashi/iryohoken/kokuho/kyuhu/sinsei/childbirth.html",
+        "title": "出産したとき（出産育児一時金）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部医療保険課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e053/kuseijoho/gaiyo/soshiki/kenko/iryohoken.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+1+UM19",
+        "organization": "1000020131237",
+        "compartment": "健康部医療保険課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-05-24",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民健康保険法",
+        "regulationArticle": "第58条(第二節　その他の給付)"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+        "shortName": "ぴよママ相談（妊婦全数面接事業）"
+      },
+      "summary": "妊娠中の出産・子育て等に関する様々な不安や悩みを軽減し、安心して出産を迎えていただくため、保健師等の専門職員が妊婦の方全員に面談をする「ぴよママ相談」を行います。妊娠中に「ぴよママ相談」を終了された方には「ぴよママギフト（１万円分）」、「出産応援ギフト」をお渡しします。医療機関で妊娠が確認された方は、お住まいの地域の健康サポートセンターへお越しください。来所が難しい場合はご相談ください。",
+      "description": "ぴよママ相談\n妊娠中の出産・子育て等に関する様々な不安や悩みを軽減し、安心して出産を迎えていただくため、保健師等の専門職員が妊婦の方全員に面談をする「ぴよママ相談」を行います。妊娠中に「ぴよママ相談」を終了された方には「ぴよママギフト（１万円分）」、「出産応援ギフト」をお渡しします。\n医療機関で妊娠が確認された方は、お住まいの地域の健康サポートセンターへお越しください。来所が難しい場合はご相談ください。https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/shokanichiran.html",
+      "target": {
+        "targetPersons": "1.江戸川区に住所を有する妊婦\n2.他自治体で妊娠届出書を提出し、江戸川区に転入した妊婦",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "「ぴよママギフト（１万円分）」、「出産応援ギフト」",
+        "monetarySupport": "「ぴよママギフト（１万円分）」10,000、「出産応援ギフト」50,000",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": "16:30",
+        "conditions": "月曜日から金曜日の午前8時30分から午後4時30分まで（祝日及び年末年始を除く）"
+      },
+      "implementationPlace": {
+        "implementationName": "お住まいの地域の健康サポートセンター\nhttps://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/shokanichiran.html\n\n妊婦の方ご本人が妊娠届を提出した場合\nその場でぴよママ相談を行います。\n妊婦以外の方が妊娠届を提出した場合\n妊婦の方ご本人に健康サポートセンターにお越しいただき、ぴよママ相談を行います。妊娠届提出時に渡された控えと母子健康手帳、二次元コードが読み取れるスマートフォン等をお持ちください。（「出産応援ギフト」の電子申請をしていただきます。）\n他自治体で妊娠届出書を提出し、江戸川区に転入された妊婦の方\n各健康サポートセンターでぴよママ相談を行います。母子健康手帳を忘れずにご持参ください。",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "お住まいの地域の健康サポートセンターhttps://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/shokanichiran.html",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/boshitecho.html;https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/ninnshinntodokehonnninnkakuninn.html;https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/piyonabi.html",
+          "title": "妊娠届・親子健康手帳（母子健康手帳）;妊娠届提出時の本人確認について;子育て応援アプリ「ぴよナビえどがわ」"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/kosodateouennjigyou.html",
+        "title": "ぴよママ相談（妊婦全数面接事業）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部健康サービス課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+1+UM34",
+        "organization": "1000020131237",
+        "compartment": "健康部健康サービス課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-01-29",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088",
+          "089",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊娠・出産に関するその他のこと",
+        "shortName": "プレコンセプションケア支援事業"
+      },
+      "summary": "江戸川区では令和6年1月からプレコンセプションケア支援事業を開始しました。相談窓口の開設や、アプリを活用した健康管理を支援します。プレコンセプションケアとは、将来の妊娠・出産や自らの健康のため、すべての若い男女の健康を応援する取り組みです。",
+      "description": "月経や性に関すること、将来妊娠できるか不安といった悩みについて医師と相談でき、希望する方は必要に応じて、AMH検査や精液検査などを受けることができる「プレコン相談」を実施します。また、女性のための健康情報サービス『ルナルナ』を運営する株式会社エムティーアイと連携協定を結び、無料でご覧いただける江戸川区プレコンセプションケア支援事業の特設ページを作成しました。詳細は江戸川区ホームページをご覧ください。\n",
+      "target": {
+        "targetPersons": "【プレコン相談の対象者】下記の全てに該当する方\n\n事前予約日および相談日において江戸川区に住民登録がある中学生から結婚（事実婚を含む）前の方\n女性について、相談日における年齢が39歳以下の方\n事前予約をしている方（事前予約なしでの利用はできません。）\n検査を希望する場合は、江戸川区が実施するプレコン相談における検査を1度も受けたことがない方(18歳未満の方が検査を受ける場合は、保護者の同意が必要になります。)",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 39,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "女性について、相談日における年齢が39歳以下"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "0",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "江戸川区医師会医療検査センター（タワーホール船堀;https://www.city.edogawa.tokyo.jp/e026/kuseijoho/gaiyo/shisetsuguide/bunya/bunkachiiki/towerhall/index.html6階）",
+        "implementationAddress": null
+      },
+      "capacity": "1回につき4名",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "予約方法\n\nオンライン予約のみ\n原則、毎月第1土曜日の午前10時から、当月に実施するプレコン相談の予約を開始します。\n以下の予約フォームからお申し込みください。\n\nプレコン相談事前予約フォーム;https://logoform.jp/f/PhWg4",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "プレコン相談を利用する方の本人確認書類（氏名・住所・生年月日が確認できるもの）\nマイナンバーカード、運転免許証、健康保険証など",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kenkodukuri/preconception.html",
+        "title": "プレコンセプションケア支援事業"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/f/PhWg4",
+          "title": "プレコン相談事前予約フォーム"
+        }
+      ],
+      "contact": {
+        "contactName": "健康部健康サービス課;https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://faq.city.edogawa.tokyo.jp/cgi-bin/faq/form.cgi",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+1+UM48",
+        "organization": "1000020131237",
+        "compartment": "健康部健康サービス課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-02",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": null,
+        "targetCode": null,
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月未満児）",
+        "shortName": "乳児健康診査（3・4か月）"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として【3か月・4か月】児健康診査を実施しています。",
+      "description": "医師による診察\n身体測定\n個別相談（保健師による健康・育児相談、栄養士による栄養相談）",
+      "target": {
+        "targetPersons": "0歳3か月以上、0歳6か月未満のお子様とその保護者（注）0歳6か月を迎えると受けられません。\n\n健康診査の対象時期は、0歳3か月から0歳4か月の頃になります。\n\n通知時期\n0歳3か月に達する月の下旬に、健康診査のご案内を郵送します。",
+        "lessThan": {
+          "targetAge": 0,
+          "targetAgeOfMonths": 6
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": 3
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "0歳3か月以上、0歳6か月未満のお子様とその保護者（注）0歳6か月を迎えると受けられません。\n健康診査の対象時期は、0歳3か月から0歳4か月の頃になります。"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "お住まいの地域の健康サポートセンター;https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/shokanichiran.html\n\n・会場の変更はできません。\n・お車での来所はご遠慮ください。",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "0歳3か月に達する月の下旬に、健康診査のご案内を郵送します。",
+      "procedurePersons": null,
+      "procedureMethod": "里帰り等で江戸川区以外の自治体で乳児健康診査を希望する場合\n里帰り等の理由で他自治体で乳児健康診査をご希望の方は、下記の内容を電話等で事前にご確認のうえ、電子申請にて申請してください。\n\n依頼先の自治体が乳児健康診査を受け入れているかどうか\n依頼先の自治体名の確認（市区町村名）\n依頼先の自治体の部署名と住所（郵便番号を含む）\n\n申請方法\n電子申請サービスを通して申請する。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "1.母子健康手帳\n2.乳幼児健康診査のお知らせ兼乳児健康診査質問票（事前に記入してお持ちください）EnglishVersion（PDF：1,428KB）;https://www.city.edogawa.tokyo.jp/documents/18745/nyuuken-question-english.pdf\n3.子育て質問票（事前に記入してお持ちください）\n4.バスタオル\n5.健康保険証（子）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1621486555963",
+          "title": "健康サポートセンター"
+        },
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/piyonabi.html",
+          "title": "子育て応援アプリ「ぴよナビえどがわ」"
+        },
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/kosodate/kosodate_ouen/index.html",
+          "title": "子育て応援サイト"
+        },
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/kenko/kenko/kodomo/index.html",
+          "title": "赤ちゃん・子どもの健康"
+        },
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kodomo/kenshin/rinyuushokukousyuukai.html",
+          "title": "乳児健康診査（3・4か月）他自治体への依頼申請\n離乳食講習会のご案内"
+        },
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/documents/18745/nyuuken-question-english.pdf",
+          "title": "English Version（PDF：1"
+        },
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/shokanichiran.html",
+          "title": "428KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kodomo/kenshin/nyuujikenkoushinsa.html",
+        "title": "乳児健康診査（3・4か月）"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1621486555963",
+          "title": "乳児健康診査（3・4か月）他自治体への依頼申請"
+        }
+      ],
+      "contact": {
+        "contactName": "健康部健康サービス課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+1+UM49",
+        "organization": "1000020131237",
+        "compartment": "健康部健康サービス課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-05-31",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "1歳6か月児健康診査",
+        "shortName": "1歳6か月児健康診査（内科健診）"
+      },
+      "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。江戸川区では1歳6か月児健康診査を実施しています。小児科医による診察のほか、歯科健診も行います。",
+      "description": "・身体測定\n・健康診査\n・保健指導（「受診票」に書かれている内容）\n\n子育て中に知っておきたいこと「子どもの心と体を育てよう」\nこの時期のお子さんの特徴や遊び方等について分かりやすい資料をご紹介します。\n\n「みてみて1歳6か月児～子どもの心と体を育てよう～」（PDF：2,005KB）（別ウィンドウで開きます）\nhttps://www.city.edogawa.tokyo.jp/documents/19169/1sai6kagetu_hattatu.pdf\n（編集協力）国立精神・神経医療研究センター精神保健研究所、児童・思春期精神保健研究部信濃医療福祉センター\n（発行元）諏訪保健福祉事務所管内保健業務研究会\n\nお子さんの発達発育等でご心配なことやご相談がありましたら、各健康サポートセンターまでお問合せください。",
+      "target": {
+        "targetPersons": "1歳6か月から2歳未満のお子様とその保護者\n（注）2歳になる日の前日まで受診できます。2歳を迎えると受診できません。\n\n通知時期\n1歳5か月に達する月の下旬\n（1歳6か月児歯科健診のご案内と一緒にお送りします。）",
+        "lessThan": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1歳6か月から2歳未満のお子様とその保護者\n（注）2歳になる日の前日まで受診できます。2歳を迎えると受診できません。"
+      },
+      "support": {
+        "description": "・身体測定\n・健康診査\n・保健指導（「受診票」に書かれている内容）",
+        "monetarySupport": null,
+        "materiallySupport": "・身体測定\n・健康診査\n・保健指導（「受診票」に書かれている内容）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "区内指定医療機関\n\n医療機関では、混雑や病気の感染を避けるため健康診査の日時を定めている場合がありますので、前もって医療機関にお問い合わせのうえ受診してください。",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "1歳5か月に達する月の下旬\n（1歳6か月児歯科健診のご案内と一緒にお送りします。）",
+      "procedurePersons": null,
+      "procedureMethod": "里帰り等で江戸川区以外の自治体で1歳6か月児健康診査を希望する場合\n里帰り等の理由で他自治体で乳児健康診査をご希望の方は、下記の内容を電話等で事前にご確認のうえ、電子申請にて申請してください。\n\n依頼先の自治体が1歳6か月児健康診査を受け入れているかどうか\n依頼先の自治体名の確認（市区町村名）\n依頼先の自治体の部署名と住所（郵便番号を含む）\n申請方法\n電子申請サービスを通して申請する\n内容に不備等があった場合は母子保健係からご連絡します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "・1歳6か月児健康診査受診票（事前に記入してお持ちください）\n・母子健康手帳\n・健康保険証と乳幼児医療証（治療が行われたときに必要になります。）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kodomo/kenshin/16naika.html",
+        "title": "1歳6か月児健康診査（内科健診）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部健康サービス課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+1+UM51",
+        "organization": "1000020131237",
+        "compartment": "健康部健康サービス課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-12-13",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088",
+          "089",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "3歳児健康診査",
+        "shortName": "3歳児健康診査"
+      },
+      "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。江戸川区では3歳児健康診査を実施しています。小児科医による診察のほか、歯科健診も行います。",
+      "description": "3歳児健康診査\n\n診査受診の際のお願い\n感染予防の観点から混雑を避けるため予約制となります。ご予約については、3歳児健康診査のお知らせをご覧ください。\n内容\n歯科医師による歯科健診\n尿検査\n屈折検査（目の検査）\n身体測定\n医師による内科健診\n個別相談（保健師による健康・育児相談、栄養士による栄養相談、歯科衛生士による歯科相談）\n\nスポットビジョンスクリーナーによる屈折検査を実施します。",
+      "target": {
+        "targetPersons": "3歳以上4歳未満のお子様とその保護者",
+        "lessThan": {
+          "targetAge": 4,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "健康診査の対象時期は、3歳1か月の頃になります"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "お住まいの地域の健康サポートセンター;https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/shokanichiran.html\n\n・会場の変更はできません。\n・お車でのご来所はご遠慮ください。",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "3歳に達する月の下旬に、健康診査のご案内を郵送します。",
+      "procedurePersons": null,
+      "procedureMethod": "里帰り等で江戸川区以外の自治体で3歳児健康診査を希望する場合\n里帰り等の理由で他自治体で3歳児健康診査をご希望の方は、下記の内容を電話等で事前にご確認のうえ、電子申請又はお電話にて申請してください。\n\n依頼先の自治体が3歳児健康診査を受け入れているかどうか\n依頼先の自治体名の確認（市区町村名）\n依頼先の自治体の部署名と住所（郵便番号を含む）\n申請方法\n東京共同電子申請・届出サービスを通して申請する。（下記の3歳児健康診査他自治体への依頼申請をクリックしてください。申請フォームに移ります。）\n3歳児健康診査他自治体への依頼申請（外部サイトへリンク）（別ウィンドウで開きます）\n内容に不備等があった場合は母子保健係からご連絡します。\n母子保健係へ電話で申請する（電話：03-5661-2466）\nその他\nご不明な点は、お知らせに記載されている健康サポートセンターへお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "1.母子健康手帳\n2.健康保険証\n3.3歳児健康診査のお知らせ兼3歳児健康診査問診票（事前に記入してお持ちください）\n4.目と耳のアンケート（ご自宅で視力検査・聴力検査を行い、記入してお持ちください）\n5.尿検査容器（ご自宅で採尿し、お持ちください）\n6.タオル",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/kosodate/kosodate_ouen/index.html",
+          "title": "子育て応援サイト"
+        },
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kodomo/kenshin/index.html",
+          "title": "子どもの健診（乳幼児健康診査）・講習会一覧"
+        },
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/kenko/kenko/kodomo/index.html",
+          "title": "赤ちゃん・子どもの健康"
+        },
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/piyonabi.html",
+          "title": "子育て応援アプリ「ぴよナビえどがわ」"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kodomo/kenshin/3saijikenkoushinsa.html",
+        "title": "3歳児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部健康サービス課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+1+UM52",
+        "organization": "1000020131237",
+        "compartment": "健康部健康サービス課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-09",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（1歳児歯科健康診査）",
+        "shortName": "1歳6か月児歯科健康診査"
+      },
+      "summary": "満1歳6か月に達し、2歳未満のお子さんとその保護者を対象に、歯科医師による歯科健診、及個別相談（歯科衛生士による歯科相談、保健師による健康・育児相談、栄養士による栄養相談）を実施しています。感染拡大防止の観点から予約制となります。ご予約については、1歳6か月児歯科健康診査のお知らせ（対象者に郵送）をご覧ください。",
+      "description": "1歳6か月児歯科健康診査",
+      "target": {
+        "targetPersons": "満1歳6か月に達し、2歳未満のお子さんとその保護者",
+        "lessThan": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "満1歳6か月に達し、2歳未満のお子さんとその保護者"
+      },
+      "support": {
+        "description": "・歯科医師による歯科健診\n・個別相談（歯科衛生士による歯科相談、保健師による健康・育児相談、栄養士による栄養相談）",
+        "monetarySupport": null,
+        "materiallySupport": "・歯科医師による歯科健診\n・個別相談（歯科衛生士による歯科相談、保健師による健康・育児相談、栄養士による栄養相談）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "お住まいの地域の健康サポートセンター\nhttps://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/shokanichiran.html\n・会場変更はできません。\n・車での来所はご遠慮ください。",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "■健康サポートセンターに来る時のお願い\n・感染予防にご協力をお願いします。\n・健康サポートセンターに来るすべての方は自宅で検温をして来てください。\n・健診は最小限の人数でお越しください。\n\n■以下に該当する方は来所をご遠慮ください。\n・37.5℃以上の発熱、咳などの症状、体調のすぐれない場合\nご理解ご協力をよろしくお願いします。\nまた、お子さまの発育発達等でご心配なことやご相談等がありましたら、お住まいの地域の健康サポートセンターまでお問い合わせください。\nhttps://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/shokanichiran.html\n\n里帰り等で江戸川区以外の自治体で1歳6か月児歯科健康診査を希望する場合\n里帰り等の理由で他自治体で乳児健康診査をご希望の方は、下記の内容を電話等で事前にご確認のうえ、電子申請又はお電話にて申請してください。\n1．依頼先の自治体が1歳6か月児歯科健康診査を受け入れているかどうか\n2．依頼先の自治体名の確認（区・市区町村名）\n3．依頼先の自治体の部署名と住所（郵便番号を含む）",
+      "procedurePersons": null,
+      "procedureMethod": "感染拡大防止の観点から予約制となります。\nご予約については、1歳6か月児歯科健康診査のお知らせ（対象者に郵送）をご覧ください。\n\n1歳5か月に達する月の下旬に、案内を郵送します。\n\n■申請方法\n1．東京共同電子申請・届出サービスを通して申請する。（下記の1歳6か月児歯科健康診査他自治体への依頼申請をクリックしてください。申請フォームに移ります。）\n1歳6か月児歯科健康診査他自治体への依頼申請（外部サイトへリンク）（別ウィンドウで開きます）\nhttps://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1626841569549\n内容に不備等があった場合は母子保健係からご連絡します。\n2．母子保健係へ電話で申請する（電話：03-5661-2466）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "・母子健康手帳（保護者の記録（1歳6か月のころ）を記入してお持ちください）\n・1歳6か月児歯科健康診査質問票\n（質問票英語版（PDF：447KB）（別ウィンドウで開きます）。届いている質問票に直接記入して下さい。）\nhttps://www.city.edogawa.tokyo.jp/documents/7706/2021english1sai6kagetushika_situmonnhyou.pdf\n・歯ブラシ\n・バスタオル\n・1歳6か月児健康診査の結果（ピンクの用紙）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/documents/7706/16hattatu.pdf;https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/shokanichiran.html;https://www.city.edogawa.tokyo.jp/kenko/kenko/kenkodukuri/shika/kodomo/index.html",
+          "title": "子育て中に知っておきたいこと「子どもの心と体を育てよう」;この時期のお子さんの特徴や遊び方等について分かりやすい資料をご紹介します。;「みてみて1歳6か月児子どもの心と体を育てよう」（PDF：2"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kenkodukuri/shika/ha_kutisoudan/1_6shika.html",
+        "title": "1歳6か月児歯科健康診査"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/uketsuke/form.do?id=1626841569549",
+          "title": "1歳6か月児康診査　他自治体への依頼申請"
+        }
+      ],
+      "contact": {
+        "contactName": "健康部健康サービス課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+1+UM792",
+        "organization": "1000020131237",
+        "compartment": "健康部健康サービス課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-05-22",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "こども家庭センター",
+        "shortName": "江戸川区児童相談所 はあとポート"
+      },
+      "summary": "こども家庭センターでは、全ての妊産婦・子育て家庭の相談支援や、個別に支援が必要な妊産婦や子育て家庭へサポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+      "description": "令和4年6月の児童福祉法等の改正に伴い、令和6年4月以降、各区市町村においては、妊娠期から子育て期まで切れ目のない支援を行う「こども家庭センター」を設置することとされています。\n区では、これまで児童相談所内の児童福祉部門と区内8か所の健康サポートセンターにおける母子保健部門とが連携して、様々な相談に応じて支援を行ってきました。\n令和6年4月からは、これまでの両部門の役割を活かしながら、児童相談所内に新たな係を設けることで両部門の連携を更に促進し、各家庭の状況に応じた切れ目のない支援を行っていきます。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://youtu.be/0kkKfHLNZTI",
+          "title": "江戸川区児童相談所 はあとポート～江戸川区の子どもは江戸川区で守る～"
+        },
+        {
+          "uri": "http://edogawa-yoyaku.livecall.net/",
+          "title": "オンライン相談予約ページ（令和6年9月9日以降の実施日希望の場合）"
+        },
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/index.html",
+          "title": "健康サポートセンター所管区域一覧"
+        },
+        {
+          "uri": "http://edogawa-yoyaku.livecall.jp/",
+          "title": "オンライン相談予約ページ（令和6年9月6日までの実施日希望の場合）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/jiso/donnatokoro.html",
+        "title": "児童相談所ってどんなところ？"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "江戸川区児童相談所 はあとポート",
+        "contactPhone": "03-5678-1810",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+1+UM799",
+        "organization": "1000020131237",
+        "compartment": "子ども家庭部相談課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/10/31",
+      "odInformation": {
+        "updateDate": "2025/02/17",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第10条の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦の歯科健診",
+        "shortName": "妊婦歯科健診"
+      },
+      "summary": "妊娠中に1回受診できます。妊娠中に江戸川区妊婦歯科健診を受診できなかった場合に限り、出産日から起算して1年を経過した日までの間に受診可能です。内容は、問診、口腔内診査。受診方法は区内指定医療機関にお電話等でご予約の上、受診してください。",
+      "description": "妊娠中は女性ホルモンの分泌の変化や食事回数の増加などからむし歯や歯周病になりやすく、進行しやすい時期です。おなかの中の赤ちゃんの歯も育つこの時期に、ぜひ妊婦歯科健診を受けてください。",
+      "target": {
+        "targetPersons": "受診日に江戸川区に住民登録がある妊婦の方。妊娠中に1回。ただし、妊娠中に江戸川区妊婦歯科健診を受診できなかった場合に限り、出産日から起算して1年を経過した日までの間に受診可能（例：4月1日出産の場合は翌年4月1日まで）（注1）江戸川区に転入以前に、他の自治体で既に受診された妊婦の方も受診できます。（注2）出産後に江戸川区に転入した方は受診できません。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "問診、口腔内診査",
+        "monetarySupport": null,
+        "materiallySupport": "問診、口腔内診査"
+      },
+      "cost": "無料",
+      "costConditions": "無料\n（注）健診の結果、治療を行う場合は有料となります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "通年実施しています。"
+      },
+      "implementationPlace": {
+        "implementationName": "区内指定医療機関（2024年1月9日更新）（PDF：166KB）;nhttps://www.city.edogawa.tokyo.jp/documents/12749/ninpusikakenshin20240109.pdf",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "区内指定医療機関（2024年1月9日更新）（PDF：166KB）\nhttps://www.city.edogawa.tokyo.jp/documents/12749/ninpusikakenshin20240109.pdfにお電話等でご予約の上、受診してください。\n（注）指定医療機関にて健診票にご記入の上、受診していただきます。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "・母子健康手帳\n・妊婦歯科健診受診票\n妊婦歯科健診受診票は、母子健康手帳交付時にお渡しします。\n（注）受診票を紛失した方は、受診票が無い旨を受診の際に指定医療機関へお申し出ください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/documents/12749/a4",
+          "title": "区内指定医療機関（2024年1月9日更新）（PDF：166KB）"
+        },
+        {
+          "uri": "ninpushikakenshin-2023.pdf",
+          "title": "妊婦歯科健診リーフレット（英語版）（PDF：559KB）"
+        },
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/documents/12749/a4",
+          "title": "妊婦歯科健診リーフレット（PDF：713KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/ninpushikakenshin.html",
+        "title": "妊婦歯科健診"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部健康サービス課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://faq.city.edogawa.tokyo.jp/cgi-bin/faq/form.cgi",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+1+UM8",
+        "organization": "1000020131237",
+        "compartment": "健康部健康サービス課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-01-19",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第10条（保健指導）・第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "077"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関する相談窓口一覧",
+        "shortName": "児童相談所ってどんなところ？"
+      },
+      "summary": "児童相談所とは、子どもに関する総合相談窓口で、18歳未満の子どもに関することであれば、どんな相談でもお受けします。その他、里親の登録に関する手続きや愛の手帳の申請受付も行います。",
+      "description": "児童相談所とは、子どもに関する総合相談窓口で、18歳未満の子どもに関することであれば、どんな相談でもお受けします。その他、里親の登録に関する手続きや愛の手帳の申請受付も行います。",
+      "target": {
+        "targetPersons": "対象者記載なし",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "児童相談所\n\n相談内容に応じて、心理司や保健師、保育士などの専門の職員が迅速に対応します。\n継続的なサポートが必要な場合は、児童福祉の専門職員を担当者に据え、子どもとその家族に適した援助を行います。",
+        "monetarySupport": null,
+        "materiallySupport": "児童相談所\n\n相談内容に応じて、心理司や保健師、保育士などの専門の職員が迅速に対応します。\n継続的なサポートが必要な場合は、児童福祉の専門職員を担当者に据え、子どもとその家族に適した援助を行います。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "相談したいときはどうしたらいいの？\n\n児童相談所または児童相談所虐待対応ダイヤルに直接お電話ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "児童相談所電話番号（月曜日から土曜日の8時30分から17時（注）祝日・年末年始を除く）\n\n03-5678-1810\n児童相談所虐待対応ダイヤル（24時間対応（通話料無料））\n\n189\nオンライン相談が可能です。\n\nオンライン通信アプリケーションを活用したビデオ通話によるオンライン相談が可能です。\n\nオンライン相談受付日時：月曜日から金曜日の13時～16時(注)祝日・年末年始を除く\n\n下記のリンクから事前予約してください。\n\n江戸川区オンライン相談予約ページ(livecall.jp)（外部サイトへリンク）",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/jiso/donnatokoro.html",
+        "title": "児童相談所ってどんなところ？"
+      },
+      "formLink": [
+        {
+          "uri": "https://edogawa-yoyaku.livecall.jp/#/reservation-menu",
+          "title": "江戸川区オンライン相談予約ページ(livecall.jp)（外部サイトへリンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "江戸川区児童相談所 はあとポート",
+        "contactPhone": "03-5678-1810",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "開館時間8：30～17：00（月～土曜日 ※祝日・年末年始を除く）",
+        "zipCode": "1320021",
+        "contactAddress": "江戸川区中央三丁目4番18号"
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+2+UM115",
+        "organization": "1000020131237",
+        "compartment": "江戸川区児童相談所 はあとポート",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-09-01",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "医療法",
+        "regulationArticle": "第30条の4第2項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産後ケア事業",
+        "shortName": "産後ケア（宿泊型）事業"
+      },
+      "summary": "産後のお母さんとお子さんに対して、助産師等専門職による母子ケアを提供する事業です。",
+      "description": "産後ケア（宿泊型）事業では、産後のお母さんがゆっくり体を休めたり助産師による授乳指導や育児相談が受けられます。",
+      "target": {
+        "targetPersons": "江戸川区に住民登録があり、産後ケアを希望する産後4か月未満のお母さんとその赤ちゃん\n（注意：実施施設によって利用できるお子さんの月齢が異なります。詳しくは各施設にお問い合わせください。）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "江戸川区に住民登録があり、産後ケアを希望する産後4か月未満のお母さんとその赤ちゃん\n（注意：実施施設によって利用できるお子さんの月齢が異なります。詳しくは各施設にお問い合わせください。）"
+      },
+      "support": {
+        "description": "・お母さんのケア（健康状態の確認、休養の確保など）\n・赤ちゃんのケア（健康観察、体重等の発育の確認など）\n・授乳や育児に関する相談・指導等\n・食事の提供（1日3食、初日・最終日は2食）\n\n1回の出産につき5日まで\n（注）利用日前日の正午以降のキャンセルは、利用1日とみなします。",
+        "monetarySupport": null,
+        "materiallySupport": "・お母さんのケア（健康状態の確認、休養の確保など）\n・赤ちゃんのケア（健康観察、体重等の発育の確認など）\n・授乳や育児に関する相談・指導等\n・食事の提供（1日3食、初日・最終日は2食）"
+      },
+      "cost": null,
+      "costConditions": "1日3,500円（1泊2日：7,000円、1日増えるごとに＋　3,500円）\n\n住民税非課税世帯、生活保護世帯は全額免除されます。\n施設までの往復の交通費はご自身の負担となります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "対象になるお子さんの月齢等利用に関する詳細は、各施設にお問合せください。\n\n産後ケア事業利用後、必要に応じて実施施設と区の保健師が連絡を取りながら育児を支援させていただきます。\n\n■産前産後ケアセンター東峯サライ\n東峯サライ（江東区木場6丁目11番3号）（外部サイトへリンク）（別ウィンドウで開きます）\n\n予約専用電話：03-3615-1111\nお問合せ電話：03-3646-0303\n■綾瀬産婦人科外来併設綾瀬産後ケア\n綾瀬産後ケア（葛飾区小菅4丁目8番10号）（外部サイトへリンク）（別ウィンドウで開きます）\n\n予約・問合せ電話：03-3838-6588\n■まつしま病院\nまつしま病院（江戸川区松島1丁目41番29号）（外部サイトへリンク）（別ウィンドウで開きます）\n\n予約・問合せ電話：03-3653-5541\n■東京かつしか赤十字母子医療センター\n東京かつしか赤十字母子医療センター（葛飾区新宿3丁目7番1号）（外部サイトへリンク）（別ウィンドウで開きます）\n\n妊娠中に産後ケア窓口スタッフとの面談を行います。\n\n予約・問合せ電話：03-5876-3511（代表）「産後ケア担当にお問い合わせ」とお伝えください。\n■東京臨海病院（令和5年7月から）\n東京臨海病院（江戸川区臨海町1丁目4番2号）（外部サイトへリンク）（別ウィンドウで開きます）\n\n予約・問合せ電話：03-5605-8815（予約センター）\n■賛育会病院（令和6年4月から）\n賛育会病院（墨田区太平3丁目20番2号）（外部サイトへリンク）（別ウィンドウで開きます）\n\n・予約・問合せ電話：03-3622-9103（予約センター）\n\n・予約受付時間：月曜日から金曜日　9時00分から16時00分　\n■ファミール産院えどがわ（令和6年4月から）\n\nファミール産院えどがわ（江戸川区一之江8丁目15番3号（外部サイトへリンク）（別ウィンドウで開きます））\n\n・予約・問合せ電話：03-3656-5750",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "利用手順（1）利用申請と承認番号の取得（施設の予約には承認番号が必要です）\n電子申請又は郵送申請（郵便料金は自己負担）で利用申請をしてください。申請後【承認番号】を発行致します。\n\n申請は妊娠28週（8か月）から可能です。（但し、利用日に区民でないと使えません。）\nお急ぎの方は【承認番号】を電話でお伝えしますので、電子申請後に母子保健係（電話：03-5661-2466）までお電話ください。\n利用手順（2）【承認番号】を利用した施設の予約\n申請内容を確認後、【承認番号】を記載した「利用承認通知書」をご自宅に郵送します。（お急ぎの方は【承認番号】を電話でお伝えしますので、電子申請後に母子保健係（電話：03-5661-2466）までお電話ください。）\n\n【承認番号】を取得したら利用したい施設の予約又は仮予約が取れます。直接利用施設にお問い合わせください。\n宿泊型とデイサービス型それぞれの【承認番号】を発行します。\n（注）予約の際に【承認番号】が必要となります。申請前の予約はできません。\n\n利用手順（3）施設利用当日に「利用承認通知書」を提示する\n「利用承認通知書」は支払いに必要になります。大切に保管してください。\n\n（注）「利用申請承認通知書」は1度の申請で宿泊型は5日まで、デイサービス型は2回まで利用できます。大切に保管してください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "健康サービス課母子保健係\n電話：03-5661-2466\n（注）土曜日・日曜日・祝日・年末年始を除く午前8時30分から午後5時",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/sangokea/shukuhaku.html",
+        "title": "産後ケア（宿泊型）事業"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/L6MJ/436449",
+          "title": "電子申請サービス"
+        }
+      ],
+      "contact": {
+        "contactName": "健康部健康サービス課",
+        "contactPhone": "03-5661-2466",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+2+UM15",
+        "organization": "1000020131237",
+        "compartment": "健康部健康サービス課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-31",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条の2（産後ケア事業）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "歯の健康教室",
+        "shortName": "1歳児歯科相談（歯ッピー教室）"
+      },
+      "summary": "1歳のお子さんの歯科相談を行っています。",
+      "description": "歯ッピー教室は、1歳のお子さんの歯科相談を行っています。",
+      "target": {
+        "targetPersons": "満1歳に達し、1歳6か月未満のお子さん",
+        "lessThan": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "満1歳に達し、1歳6か月未満のお子さん"
+      },
+      "support": {
+        "description": "・歯科衛生士によるむし歯予防の話、個別相談",
+        "monetarySupport": null,
+        "materiallySupport": "・歯科衛生士によるむし歯予防の話、個別相談"
+      },
+      "cost": "無料",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "はがきに記載します。\n日程変更は、はがきに記載されている健康サポートセンターへお問い合わせください。\nhttps://www.city.edogawa.tokyo.jp/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/index.html"
+      },
+      "implementationPlace": {
+        "implementationName": "健康サポートセンター\nhttps://www.city.edogawa.tokyo.jp/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/index.html\n・車での来所はご遠慮ください。",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "1歳1か月に達する月の下旬に、はがきを郵送します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "・母子健康手帳・歯ブラシ・バスタオル・はがき",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kenkodukuri/shika/ha_kutisoudan/1sai.html",
+        "title": "1歳児歯科相談（歯ッピー教室）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部健康サービス課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+2+UM32",
+        "organization": "1000020131237",
+        "compartment": "健康部健康サービス課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-13",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+        "shortName": "妊娠8か月頃の妊婦"
+      },
+      "summary": "出産・子育て応援事業の「伴走型相談支援」の一環として、妊娠8か月頃の妊婦さんに対してアンケートの回答をお願いしています。また、希望者は助産師等の専門職とオンライン等で面談を行うことができます。対象者へは令和5年3月ごろより個別通知を郵送しますので、そちらをご覧ください。",
+      "description": "出産・子育て応援事業の「伴走型相談支援」の一環として、妊娠8か月頃の妊婦さんに対してアンケートの回答をお願いしています。また、希望者は助産師等の専門職とオンライン等で面談を行うことができます。\n\n対象者へは令和5年3月ごろより個別通知を郵送しますので、そちらをご覧ください。",
+      "target": {
+        "targetPersons": "妊娠8か月頃の妊婦",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "妊娠8か月頃の妊婦"
+      },
+      "support": {
+        "description": "希望者は助産師等の専門職とオンライン等で面談を行うことができます。",
+        "monetarySupport": null,
+        "materiallySupport": "希望者は助産師等の専門職とオンライン等で面談を行うことができます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "対象者へは令和5年3月ごろより個別通知を郵送しますので、そちらをご覧ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.cfa.go.jp/policies/shussan-kosodate/;https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/kosodateouennjigyou.html?mode=preview;https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kodomo/homon.html?mode=preview;https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/tokyoshussanouenn.html?mode=preview;https://www.city.edogawa.tokyo.jp/e053/kurashi/iryohoken/kokuho/kyuhu/sinsei/childbirth.html?mode=preview",
+          "title": "妊婦・子育て家庭への伴走型相談支援と経済的支援の一体的実施（出産・子育て応援交付金）（外部サイトへリンク）（別ウィンドウで開きます）;ぴよママ相談（妊婦全数面接事業）;新生児訪問;東京都出産応援事業（赤ちゃんファースト）;出産一時金"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/ninshin8m.html",
+        "title": "妊娠8か月頃の妊婦さんへ"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部健康サービス課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+2+UM34",
+        "organization": "1000020131237",
+        "compartment": "健康部健康サービス課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-08-15",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088",
+          "089",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産後ケア事業",
+        "shortName": "産後ケア（デイサービス型）事業"
+      },
+      "summary": "産後のお母さんとお子さんに対して、助産師等専門職による母子ケアを提供する事業です。",
+      "description": "産後ケア（デイサービス型）事業は日帰りタイプの産後ケアです。産後のお母さんの心身をゆっくり休めたり、助産師による授乳指導や育児相談が受けられます。",
+      "target": {
+        "targetPersons": "江戸川区に住民登録があり、産後ケアを希望する産後4か月未満のお母さんとその赤ちゃん\n（注意：実施施設によって利用できるお子さんの月齢が異なります。詳しくは各施設にお問い合わせください。）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "江戸川区に住民登録があり、産後ケアを希望する産後4か月未満のお母さんとその赤ちゃん\n（注意：実施施設によって利用できるお子さんの月齢が異なります。詳しくは各施設にお問い合わせください。）"
+      },
+      "support": {
+        "description": "1回の出産につき2回まで\n（注）利用日前日の正午以降のキャンセルは、利用1回とみなします。",
+        "monetarySupport": null,
+        "materiallySupport": "・お母さんのケア（健康状態の確認、休養の確保など）\n・赤ちゃんのケア（健康観察、体重等の発育の確認など）\n・授乳や育児に関する相談・指導等\n・食事の提供（利用日の昼食のみ）"
+      },
+      "cost": "3000",
+      "costConditions": "1回3,000円\n\n 住民税非課税世帯、生活保護世帯は全額免除されます。\n\n施設までの往復の交通費はご自身の負担となります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "利用時間\n午前10時から午後3時まで\n\n（注意：実施施設により終了時間が異なる場合があります。詳しくは各施設にお問い合わせください。）"
+      },
+      "implementationPlace": {
+        "implementationName": "対象になるお子さんの月齢等利用に関する詳細は、各施設にお問合せください。\n\n産後ケア事業利用後、必要に応じて実施施設と区の保健師が連絡を取りながら育児を支援させていただきます。\n\n■産前産後ケアセンター東峯サライ\n東峯サライ（江東区木場6丁目11番3号）（外部サイトへリンク）（別ウィンドウで開きます）\n\n予約専用電話：03-3615-1111\nお問合せ電話：03-3646-0303\n■綾瀬産婦人科外来併設綾瀬産後ケア\n綾瀬産後ケア（葛飾区小菅4丁目8番10号）（外部サイトへリンク）（別ウィンドウで開きます）\n\n予約・問合せ電話：03-3838-6588\n■五の橋産婦人科\n五の橋産婦人科（江東区亀戸6丁目1番6号）（外部サイトへリンク）（別ウィンドウで開きます）\n\n予約・問合せ電話：03-3636-6000\n■まつしま病院（令和5年6月から）\nまつしま病院（江戸川区松島1丁目41番29号）（外部サイトへリンク）（別ウィンドウで開きます）\n\n予約・問合せ電話：03-3653-5541\n■東京臨海病院（令和5年7月から）\n東京臨海病院（江戸川区臨海町1丁目4番2号）（外部サイトへリンク）（別ウィンドウで開きます）\n\n予約・問合せ電話：03-5605-8815（予約センター）\n■ファミール産院えどがわ（令和6年4月から）\n\nファミール産院えどがわ（江戸川区一之江8丁目15番3号（外部サイトへリンク）（別ウィンドウで開きます））\n\n・予約・問合せ電話：03-3656-5750\n■賛育会病院（令和6年4月から）\n賛育会病院（墨田区太平3丁目20番2号）（外部サイトへリンク）（別ウィンドウで開きます）\n\n・予約・問合せ電話：03-3622-9103（予約センター）\n\n・予約受付時間：月曜日から金曜日　9時00分から16時00分",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "15:00",
+        "condiutilizationConditionstions": "利用時間\n午前10時から午後3時まで\n\n（注意：実施施設により終了時間が異なる場合があります。詳しくは各施設にお問い合わせください。）"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "利用手順（1）利用申請と承認番号の取得（施設の予約には承認番号が必要です）\n電子申請又は郵送申請（郵便料金は自己負担）で利用申請をしてください。申請後【承認番号】を発行致します。\n\n申請は妊娠28週（8か月）から可能です。（但し、利用日に区民でないと使えません。）\nお急ぎの方は【承認番号】を電話でお伝えしますので、電子申請後に母子保健係（電話：03-5661-2466）までお電話ください。\n利用手順（2）【承認番号】を利用した施設の予約\n申請内容を確認後、【承認番号】を記載した「利用承認通知書」をご自宅に郵送します。（お急ぎの方は【承認番号】を電話でお伝えしますので、電子申請後に母子保健係（電話：03-5661-2466）までお電話ください。）\n\n【承認番号】を取得したら利用したい施設の予約又は仮予約が取れます。直接利用施設にお問い合わせください。\n宿泊型とデイサービス型それぞれの【承認番号】を発行します。\n（注）予約の際に【承認番号】が必要となります。申請前の予約はできません。\n\n利用手順（3）施設利用当日に「利用承認通知書」を提示する\n「利用承認通知書」は支払いに必要になります。大切に保管してください。\n\n（注）「利用申請承認通知書」は1度の申請で宿泊型は5日まで、デイサービス型は2回まで利用できます。大切に保管してください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "健康サービス課母子保健係\n電話：03-5661-2466\n（注）土曜日・日曜日・祝日・年末年始を除く午前8時30分から午後5時",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/sangokea/tuusyo.html",
+        "title": "産後ケア（デイサービス型）事業"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/L6MJ/436449",
+          "title": "電子申請サービス"
+        }
+      ],
+      "contact": {
+        "contactName": "健康部健康サービス課",
+        "contactPhone": "03-5661-2466",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+3+UM15",
+        "organization": "1000020131237",
+        "compartment": "健康部健康サービス課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-31",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条の2（産後ケア事業）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "母子父子寡婦福祉資金",
+        "shortName": "江戸川区母子福祉生活一時資金"
+      },
+      "summary": "江戸川区内に3ヶ月以上居住し、20歳未満の子を扶養し就労している母子家庭の母のための貸付金です。災害・疾病等の突然の出費のため生活資金が不足し、かつ資金を他から借りることが困難な方に15万円以内で資金をお貸しします。なお、この貸付金は家賃や光熱水費等の滞納分の支払いには利用できません。ご相談は予約制となりますので、来所前にお電話にてご予約をお願いいたします。",
+      "description": "江戸川区内に3ヶ月以上居住し、20歳未満の子を扶養し就労している母子家庭の母のための貸付金です。災害・疾病等の突然の出費のため生活資金が不足し、かつ資金を他から借りることが困難な方に15万円以内で資金をお貸しします。なお、この貸付金は家賃や光熱水費等の滞納分の支払いには利用できません。\n\nご相談は予約制となりますので、来所前にお電話にてご予約をお願いいたします。ご予約の際に相談概要の聞きとりをいたします。\n\n違約金\n返済期限が過ぎると、年7.3パーセントの違約金をいただくことになります。",
+      "target": {
+        "targetPersons": "貸付を受けることができる方\n\n    区内に引き続き3か月以上居住している方。\n    生活保護を受けていない方。\n    勤務先に生活資金等の貸付制度がない方。\n    江戸川区生活一時資金を借りていない方。\n    この資金の貸付を受けた後、返済が確実である（働いている）方。\n\n借りられる要件\n\n    災害等により、住宅又は家財に被害を受けた場合。\n    本人又は同居の親族が疾病又は障害を受け、治療に要する費用に困窮する場合。\n    食料その他日常の生活必需品の購入に困窮する場合。\n    本人又は同居の親族の結婚、就職又は葬祭等のため支出を要する場合。\n    冠婚葬祭等で、やむを得ない理由により旅行するため支出を要する場合。",
+        "lessThan": {
+          "targetAge": 20,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "江戸川区内に3ヶ月以上居住し、20歳未満の子を扶養し就労している母子家庭の母"
+      },
+      "support": {
+        "description": "15万円\n貸付の要件等により貸付額を決めさせていただきます。",
+        "monetarySupport": "150000",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": "利子\n無利子",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "返済方法\n毎月決められた金額を返済していただきます（均等月賦返済）。\n毎月末に指定いただいた口座より引き落としとなります。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "返済期間\n貸付の翌月から20か月以内"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "人権・男女共同参画推進センター相談啓発係\n住所：江戸川区瑞江2丁目9番15号（人権・男女共同参画推進センター）\n電話：03-6231-8150（直通）",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e090/kosodate/kosodate/teateshien/shisaku/yushi.html",
+        "title": "ひとり親家庭への融資（東京都母子及び父子福祉資金）母子家庭への融資（江戸川区母子福祉生活一時資金）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "総務部人権・男女共同参画推進センター",
+        "contactPhone": "03-6231-8150",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e090/kuseijoho/gaiyo/soshiki/soumu/jinken.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+3+UM28",
+        "organization": "1000020131237",
+        "compartment": "総務部人権・男女共同参画推進センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-09-06",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子及び父子並びに寡婦福祉法",
+        "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "078"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+        "shortName": "妊娠・出産に関する相談"
+      },
+      "summary": "妊娠や出産に関する様々な悩みについて、相談に応じています。",
+      "description": "妊娠や出産に関する様々な悩みについて、相談に応じています。\n\n妊娠したけれどちょっと不安、ちょっと心配…誰かに相談したい。\nなかなか妊娠できない、妊娠しても継続しない…。\n妊娠中の体調のことが気になっている。\n出産費用が心配。\n出産後の子育てに不安がある。\nひとりで悩まずお気軽にご相談ください。",
+      "target": {
+        "targetPersons": "対象者記載なし",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "健康サポートセンター\n妊娠相談ほっとライン\nLINE「妊娠したかも相談＠東京」\n妊産婦向け助産師オンライン相談\n不妊・不育ホットライン\n東京都女性のための健康ホットライン",
+        "monetarySupport": null,
+        "materiallySupport": "健康サポートセンター\n妊娠相談ほっとライン\nLINE「妊娠したかも相談＠東京」\n妊産婦向け助産師オンライン相談\n不妊・不育ホットライン\n東京都女性のための健康ホットライン"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "各健康サポートセンターには保健師がいますので、お気軽にご相談ください。\n月曜日から金曜日（祝日・祭日、年末年始を除く）午前8時30分から午後5時\n\n・中央健康サポートセンター\n電話：03-5661-2467\n・小岩健康サポートセンター\n電話：03-3658-3171\n・東部健康サポートセンター\n電話：03-3678-6441\n・清新町健康サポートセンター\n電話：03-3878-1221\n・葛西健康サポートセンター\n電話：03-3688-0154\n・鹿骨健康サポートセンター\n電話：03-3678-8711\n・小松川健康サポートセンター\n電話：03-3683-5531\n・なぎさ健康サポートセンター\n電話：03-5675-2515",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "妊娠相談ほっとライン\n妊娠や出産に関する様々な悩みについて、専門の相談員が電話やメールで相談に応じています。\n月曜日から日曜日（元日を除く）午前10時から午後10時\n電話：03-5339-1133\n\nメール相談の方法、詳細は下記、東京都福祉保健局のホームページをご覧ください。\n\n妊娠相談ほっとライン（外部サイトへリンク）（別ウィンドウで開きます）\nhttp://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/ninshin-hotline.html\n\nLINE「妊娠したかも相談＠東京」\n「妊娠したかも」「避妊に失敗したかも」「アフターピルの飲み方は？」などの質問や疑問、悩みや疑問に、チャットボット形式でお答えします。24時間365日、LINEで気軽に使えます。\n\n方法1：下記の二次元コードを読み取る。\nLINE相談二次元コード\n方法2：「ホーム」＞「友だち追加」＞「検索」でID「@ninshin_tokyo」を検索する。\n妊産婦向け助産師オンライン相談\nコロナ禍で不安や悩みを抱える妊産婦さんを対象に、東京都助産師会の助産師がオンラインで相談に応じています。相談は予約制です。\n\n開設期間：令和3年1月4日から令和6年3月31日まで\n\n相談時間\n\n月・水・金・土曜日　午前10時から午後5時\n毎月第2・第4日曜日　午前10時から午後3時\n年末年始（12月29日～1月3日）を除く\n1回30分要予約（30日前から2日前まで予約可能）\n予約、詳細は下記、東京都福祉保健局のホームページをご覧ください。\n\n妊産婦向け助産師オンライン相談（外部サイトへリンク）（別ウィンドウで開きます）\nhttps://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/ninsanpu-online.html\n\n不妊・不育ホットライン\n不妊症や不育症の悩みについて、専門の研修を受けたピアカウンセラーが相談に応じたり、検査や治療に関する情報提供を行っています。\n\n火曜日（祝日・年末年始を除く）午前10時から午後7時\n毎月1回土曜日　午前10時から午後4時まで（詳細は下記、東京都福祉保健局のホームページをご覧ください。）\n電話：03-3235-7455\n\n詳細は下記、東京都福祉保健局のホームページをご覧ください。\n\n不妊・不育ホットライン（外部サイトへリンク）（別ウィンドウで開きます）\nhttps://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/h_soudan.html\n\n東京都女性のための健康ホットライン\n思春期の悩みや更年期の不調、避妊に関すること、婦人科疾患など、年齢を問わず女性ならではのからだとこころの悩みに、看護師などの専門職が電話やメールでご相談に応じます。\n月曜日から金曜日（元日を除く）午前10時から午後4時\n電話：03-5339-1155\n\nメール相談の方法、詳細は下記、東京都福祉保健局のホームページをご覧ください。\n\n東京都女性のための健康ホットライン（外部サイトへリンク）（別ウィンドウで開きます）\nhttp://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/w_soudan.html",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/boshitecho.html;https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/ninpukenshin.html;https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/hellobaby.html;https://www.ninkatsuka.metro.tokyo.lg.jp/",
+          "title": "妊娠届・親子健康手帳（母子健康手帳）;妊婦健診;ハローベビー教室;東京都妊活課（外部サイトへリンク）（別ウィンドウで開きます）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/ninshinsoudan.html",
+        "title": "妊娠・出産に関する相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部健康サービス課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+3+UM34",
+        "organization": "1000020131237",
+        "compartment": "健康部健康サービス課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-08-08",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088",
+          "089",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（2歳児歯科健康診査）",
+        "shortName": "2歳6か月児歯科健診"
+      },
+      "summary": "満2歳6か月に達し、3歳未満のお子さんを対象に、歯科医師による歯科健診、歯科衛生士による歯科相談、及びフッ素塗布（希望者、有料880円）を実施しております。2歳6か月児歯科健診は3歳未満まで受診することができます。ご予約については、はがき（対象者に郵送）をご覧ください。",
+      "description": "2歳6か月児歯科健診",
+      "target": {
+        "targetPersons": "満2歳6か月に達し、3歳未満のお子さん",
+        "lessThan": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 2,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "満2歳6か月に達し、3歳未満のお子さん。2歳6か月児歯科健診は3歳未満まで受診することができます。"
+      },
+      "support": {
+        "description": "・歯科医師による歯科健診・歯科衛生士による個別相談・フッ素塗布（希望者、有料）",
+        "monetarySupport": null,
+        "materiallySupport": "・歯科医師による歯科健診・個別相談"
+      },
+      "cost": "無料",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "健康サポートセンター\nhttps://www.city.edogawa.tokyo.jp/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/index.html\n・会場変更はできません。\n・車での来所はご遠慮ください。",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "予約制",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "・母子健康手帳・歯ブラシ・バスタオル・はがき",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kenkodukuri/shika/ha_kutisoudan/2_6shika.html",
+        "title": "2歳6か月児歯科健診"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部健康サービス課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+3+UM792",
+        "organization": "1000020131237",
+        "compartment": "健康部健康サービス課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-01",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "歯の健康教室",
+        "shortName": "2歳児歯科相談（歯ウツー教室）"
+      },
+      "summary": "歯ウツー教室は、2歳のお子さんの歯科相談を行っています。",
+      "description": "歯ウツー教室は、2歳のお子さんの歯科相談を行っています。",
+      "target": {
+        "targetPersons": "満2歳に達し、2歳6か月未満のお子さん",
+        "lessThan": {
+          "targetAge": 2,
+          "targetAgeOfMonths": 6
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "満2歳に達し、2歳6か月未満のお子さん"
+      },
+      "support": {
+        "description": "・歯科衛生士によるむし歯予防の話、個別相談",
+        "monetarySupport": null,
+        "materiallySupport": "・歯科衛生士によるむし歯予防の話、個別相談"
+      },
+      "cost": "無料",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "はがきに記載します。\n日程変更は、はがきに記載されている健康サポートセンターへお問い合わせください。\nhttps://www.city.edogawa.tokyo.jp/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/index.html"
+      },
+      "implementationPlace": {
+        "implementationName": "健康サポートセンター\nhttps://www.city.edogawa.tokyo.jp/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/index.html\n・車での来所はご遠慮ください。",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "2歳に達する月の下旬に、はがきを郵送します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "・母子健康手帳・歯ブラシ・バスタオル・はがき",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kenkodukuri/shika/ha_kutisoudan/2shika.html",
+        "title": "2歳児歯科相談（歯ウツー教室）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部健康サービス課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+4+UM32",
+        "organization": "1000020131237",
+        "compartment": "健康部健康サービス課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-13",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+        "shortName": "妊娠にとまどい、出産に不安を抱えている方へ"
+      },
+      "summary": "妊娠や出産に関する戸惑いや不安について、様々な方法で相談に応じています。相談料はすべて無料です。ひとりで悩まず、まずはご相談ください。（インターネット接続料金は除く）",
+      "description": "妊娠や出産に関する戸惑いや不安について、様々な方法で相談に応じています。相談料はすべて無料です。ひとりで悩まず、まずはご相談ください。（インターネット接続料金は除く）\n\n相談例\n・妊娠したかも、彼女を妊娠させたかも…誰にも相談できない。\n・妊娠したけれど不安、心配、こわい、どうしたらいいか分からない…\n・一人で産んで育てたいけど、できるか分からない…\n・中絶するのこわい…",
+      "target": {
+        "targetPersons": "対象者記載なし",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠や出産に関する戸惑いや不安について、様々な方法で相談に応じています。",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠や出産に関する戸惑いや不安について、様々な方法で相談に応じています。"
+      },
+      "cost": "0",
+      "costConditions": "相談料はすべて無料です。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "・中央健康サポートセンター\n 電話：03-5661-2467\n・小岩健康サポートセンター\n 電話：03-3658-3171\n・東部健康サポートセンター\n 電話：03-3678-6441\n・清新町健康サポートセンター\n 電話：03-3878-1221\n・葛西健康サポートセンター\n 電話：03-3688-0154\n・鹿骨健康サポートセンター\n 電話：03-3678-8711\n・小松川健康サポートセンター\n 電話：03-3683-5531\n・なぎさ健康サポートセンター\n 電話：03-5675-2515",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:30",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "健康サポートセンターには保健師がおり、電話・面接・訪問でのご相談が可能です。\n月曜日から金曜日（祝日・祭日、年末年始を除く）午前8時30分から午後5時\n　チャットボットでは２４時間３６５日、Eメールでは元日（1月1日）を除く10時00分から22時00分まで相談が可能です。"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "1.LINE\n2.Eメール\n3.電話・面接など\n\nひとりで悩まずご相談ください。\n\nLINE「妊娠したかも相談＠東京」\n\n「妊娠したかも」「避妊に失敗したかも」「アフターピルの飲み方は？」などの質問や疑問、悩みに、チャットボット形式でお答えします。\n\n 手段：LINE\n 時間：24時間365日\n\n 方法1：下記の二次元コードを読み取る。\n LINE相談の二次元コード\n 方法2：「ホーム」＞「友だち追加」＞「検索」でID「@ninshin_tokyo」を検索する。\n\n妊娠相談ほっとライン（外部サイトへリンク）（別ウィンドウで開きます）\n\n妊娠や出産に関する様々な悩みについて、専門の相談員が相談に応じています。\n\n手段：電話・Eメール\n電話での相談時間：元日（1月1日）を除く10時00分から22時00分まで\n電話番号：03-5339-1133\n\nEメールでの相談を希望される方は、下記「妊娠相談ほっとライン」をクリックしてください。\n\n妊娠相談ほっとラインメール相談リンク\n（外部サイトへリンク）（別ウィンドウで開きます）\nhttp://familycare.sociohealth.co.jp/tokyo/soudan/\n委託先：株式会社法研",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/ninshin/ninshintomadoi.html",
+        "title": "妊娠にとまどい、出産に不安を抱えている方へ"
+      },
+      "formLink": [
+        {
+          "uri": "http://familycare.sociohealth.co.jp/tokyo/soudan/",
+          "title": "妊娠相談ほっとライン"
+        }
+      ],
+      "contact": {
+        "contactName": "健康部健康サービス課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+4+UM34",
+        "organization": "1000020131237",
+        "compartment": "健康部健康サービス課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-19",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088",
+          "089",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（3歳児歯科健康診査）",
+        "shortName": "3歳児歯科健診"
+      },
+      "summary": "満3歳に達し、4歳未満のお子様とその保護者を対象に、歯科医師による歯科健診、歯科衛生士による歯科相談を実施しております。内科健診、尿検査等と同時に行っています。ご予約については、3歳児健康診査のお知らせ（対象者に郵送）をご覧ください。",
+      "description": "感染拡大防止の観点から予約制となります。\n\nご予約については、3歳児健康診査のお知らせ（対象者に郵送）をご覧ください。\n\n健康サポートセンターへ来る時のお願い\n\n・感染予防にご協力をお願いします。\n・健康サポートセンターに来るすべての方は自宅で検温をして来てください。\n・健診は最小限の人数で来てください。\n\n以下に該当する方は来所をご遠慮ください。\n\n・37.5℃以上の発熱、咳などの症状、体調のすぐれない場合\n\nご理解ご協力をよろしくお願いします。\n\n3歳の頃の子どもの歯の情報のページへ\nhttps://www.city.edogawa.tokyo.jp/kenko/kenko/kenkodukuri/shika/kodomo/index.html",
+      "target": {
+        "targetPersons": "満3歳に達し、4歳未満のお子様とその保護者",
+        "lessThan": {
+          "targetAge": 4,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "・歯科医師による歯科健診\n・歯科衛生士による歯科相談\n\n内科健診、尿検査等と同時に行っています。",
+        "monetarySupport": null,
+        "materiallySupport": "・歯科医師による歯科健診\n・歯科衛生士による歯科相談\n\n内科健診、尿検査等と同時に行っています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "3歳に達する月の下旬に、案内を郵送します。"
+      },
+      "implementationPlace": {
+        "implementationName": "健康サポートセンター\nhttps://www.city.edogawa.tokyo.jp/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/kenko/index.html\n\n    会場変更はできません。\n    車での来所はご遠慮ください。",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "■健康サポートセンターに来る時のお願い\n・感染予防にご協力をお願いします。\n・健康サポートセンターに来るすべての方は自宅で検温をして来てください。\n・健診は最小限の人数で来てください。\n\n以下に該当する方は来所をご遠慮ください。\n・37.5℃以上の発熱、咳などの症状、体調のすぐれない場合\nご理解ご協力をよろしくお願いいたします。",
+      "procedurePersons": null,
+      "procedureMethod": "3歳に達する月の下旬に、案内を郵送します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳\n健康保険証\n３歳児健康診査のお知らせ兼３歳児健康診査の問診票\nタオル",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.edogawa.tokyo.jp/kenko/kenko/kenkodukuri/shika/kodomo/index.html",
+          "title": "3歳の頃の子どもの歯の情報のページへ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e052/kenko/kenko/kenkodukuri/shika/ha_kutisoudan/3shika.html",
+        "title": "3歳児歯科健診"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部健康サービス課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+5+UM792",
+        "organization": "1000020131237",
+        "compartment": "健康部健康サービス課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-01",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関するサポート",
+        "shortName": "江戸川区子育ておむつ定期便"
+      },
+      "summary": "令和5年4月1日以降にお生まれになった0歳のお子さんがいるご家庭を対象に、子育て支援に関する研修を受けた見守り配達員が毎月ご自宅を訪問し、子育て世帯の見守りを行います。見守り配達員に子育てに関するお悩みや近況をお聞かせください。また、訪問時にお会いできた際には、おむつなどのベビー用品をお渡しします。",
+      "description": "令和5年4月1日以降にお生まれになった0歳のお子さんがいるご家庭を対象に、子育て支援に関する研修を受けた見守り配達員が毎月ご自宅を訪問し、子育て世帯の見守りを行います。見守り配達員に子育てに関するお悩みや近況をお聞かせください。また、訪問時にお会いできた際には、おむつなどのベビー用品をお渡しします。\n\n見守り配達員について\n\n・「見守り配達員」は専用のユニフォームを着用し、配達員の証明書を身に着けて当該事業の訪問であることを明確にします。また、感染症対策として消毒の徹底とマスク着用を行います。ご理解とご協力をお願いします。\n・「見守り配達員」は、子育て支援等に関する研修を受講し、子育て経験のある方が中心となります。子育てに関する日ごろのお悩みや不安等がありましたらご相談ください。",
+      "target": {
+        "targetPersons": "次のすべてに該当する世帯。\n\n・令和5年4月1日以降に生まれた満1歳に達する日の前日までの乳児（対象乳児）及びその養育者が属する世帯\n・対象乳児を養育している世帯\n・対象乳児が乳児院又は里親に措置されていない世帯\n\n（注意）里帰りをされている場合は対象にはなりません",
+        "lessThan": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "次のすべてに該当する世帯。\n\n・令和5年4月1日以降に生まれた満1歳に達する日の前日までの乳児（対象乳児）及びその養育者が属する世帯\n・対象乳児を養育している世帯\n・対象乳児が乳児院又は里親に措置されていない世帯\n\n（注意）里帰りをされている場合は対象にはなりません"
+      },
+      "support": {
+        "description": "おむつなどのベビー用品",
+        "monetarySupport": null,
+        "materiallySupport": "おむつなどのベビー用品"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": "2024-01-31",
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "令和6年1月31日（水曜日）より、対象となる世帯に案内書類一式が順次発送されます。\n\n案内書類にある二次元コードを読み取り、専用のポータルサイトで登録を行います。\n\n登録後、見守り訪問日とベビー用品を選択し、申請を行います。\n\n妊娠8か月を迎える妊婦の方にも案内書類一式が送付され、仮登録を行うことができます。出生届の提出後、登録完了の通知が専用のポータルサイトに届きます。登録完了後、見守り訪問日とベビー用品の選択が可能となります。\n\n（注意）妊娠中に仮登録を行い、出産後の入籍等で世帯が変更になった場合は、再度登録が必要となる場合があります。\n\n（注意）詳しくは、対象世帯に送付される案内通知をご確認ください。",
+      "procedurePeriod": {
+        "fromYMD": "2024-01-31",
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "江戸川区子育ておむつ定期便コールセンター　電話：0570-077-166\n\n（注意）祝日を除く、月曜日から金曜日の午前9時から午後5時まで",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.edogawa.tokyo.jp/e052/kosodate/kosodate/omutsuteikibin.html",
+        "title": "江戸川区子育ておむつ定期便"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部健康サービス課",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.edogawa.tokyo.jp/e052/kuseijoho/gaiyo/soshiki/kenko/service.html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131237;江戸川区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020131237+6+UM106",
+        "organization": "1000020131237",
+        "compartment": "健康部健康サービス課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-01-15",
+      "odInformation": {
+        "updateDate": "2024-03-12",
+        "updater": "江戸川区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

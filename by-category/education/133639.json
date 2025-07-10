@@ -1,0 +1,131 @@
+{
+  "version": "2025-07-10T02:38:54.146Z",
+  "areaCode": "133639",
+  "areaName": "新島村",
+  "category": "education",
+  "count": 1,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "離乳食教室",
+        "shortName": "離乳食教室"
+      },
+      "summary": "新生児～おおむね1歳までの児の家族を対象に、離乳食を始める時のポイントやすすめ方についての講座を開催しています。離乳食のいろいろな悩みに栄養士がお答えします。",
+      "description": "離乳食教室\nホーム > 施設案内 > 保健センター・診療所等 > さわやか健康センター > 食育事業 > 離乳食教室\n\n新生児～おおむね1歳までの児の家族を対象に、時期別の離乳食の試食とポイントの紹介を、新島、式根島とも年2回(半年に1回の間隔)で行っています。\n令和6年度\n|地区|と　き|ところ|対　象|\n|:----|:----|:----|:----|\n|新島|5月22日、11月13日|さわやか健康センター|新生児～おおむね1歳6か月の子どもと家族|\n|式根島|5月23日、11月14日|式根島開発総合センター|^|\n",
+      "target": {
+        "targetPersons": "新生児～おおむね1歳までの児の家族を対象",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "令和6年度\n|地区|と　き|ところ|対　象|\n|新島|5月22日、11月13日|さわやか健康センター|新生児～おおむね1歳6か月の子どもと家族|\n|式根島|5月23日、11月14日|式根島開発総合センター|^|\n"
+      },
+      "implementationPlace": {
+        "implementationName": "新島\tさわやか健康センター\n式根島　式根島開発総合センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.niijima.com/facility/health-center_clinic/sawayakakenkou-center/shokuikujigyou/rinyuushokukyoushitsu.html",
+        "title": "離乳食教室"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "新島村さわやか健康センター",
+        "contactPhone": "04992-5-1856",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1000402",
+        "contactAddress": "東京都新島村本村3丁目12番8号"
+      },
+      "area": {
+        "areaCode": "133639;新島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133639+1+UM798",
+        "organization": "9000020133639",
+        "compartment": "新島村さわやか健康センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "新島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法、食育基本法",
+        "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）、法第5条（子どもの食育における保護者、教育関係者等の役割）、21条 （地域における食生活の改善のための取組の推進）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

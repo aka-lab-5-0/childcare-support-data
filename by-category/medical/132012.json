@@ -1,0 +1,2857 @@
+{
+  "version": "2025-07-10T02:38:54.120Z",
+  "areaCode": "132012",
+  "areaName": "八王子市",
+  "category": "medical",
+  "count": 22,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "先天性代謝異常等検査",
+        "shortName": "先天性代謝異常等検査"
+      },
+      "summary": "東京都ではフェニルケトン尿症等の先天性代謝異常や先天性甲状腺機能低下症（クレチン症）などの内分泌疾患を早期に発見するために、先天性代謝異常等検査を行っています。\nこれらの疾患を放っておくと、生まれた時は健康に見えても、身体障害や知的障害が発生したり、時には生命の危険にさらされたりする場合もあります。しかし、疾患を早期に発見し、適切な治療を続けることで、障害などの発生を未然に防ぐことができます。",
+      "description": "先天性代謝異常等検査(東京都実施)\n更新日：2021年03月24日\n「先天性代謝異常等検査のお知らせ」のご案内は「親と子の保健バック」の中に入っています。\n「先天性代謝異常検査申込書」は、出産する医療機関で配布、申し込みをしています。\n\n赤ちゃんの病気の早期発見、早期治療のための検査です。\n生後5日から7日に、赤ちゃんのかかとからごく少量の血液をとって検査します。\n\n東京都福祉保健局 先天性代謝異常検査について(外部リンク);https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/shussan/taisyaijou.html\n\n先天性代謝異常とは\n生まれつき、必要な酵素やホルモンが欠けているために起こる病気のことです。\nこの検査では19の疾患を検査します。早期に発見すれば予防できます。",
+      "target": {
+        "targetPersons": "生後5日から7日に、赤ちゃん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後5日から7日に、赤ちゃんのかかとからごく少量の血液をとって検査します。"
+      },
+      "support": {
+        "description": "赤ちゃんの病気の早期発見、早期治療のための検査です。\n生後5日から7日に、赤ちゃんのかかとからごく少量の血液をとって検査します。",
+        "monetarySupport": null,
+        "materiallySupport": "赤ちゃんの病気の早期発見、早期治療のための検査です。\n生後5日から7日に、赤ちゃんのかかとからごく少量の血液をとって検査します。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "「先天性代謝異常検査申込書」は、出産する医療機関で配布、申し込みをしています。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "出産する医療機関",
+      "relatedLink": [
+        {
+          "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/shussan/taisyaijou.html",
+          "title": "東京都福祉保健局 先天性代謝異常検査について(外部リンク)"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://kosodate.city.hachioji.tokyo.jp/scene/akachangaumaretara/akachannokenkokanri/987.html",
+        "title": "先天性代謝異常等検査(東京都実施)"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康医療部大横保健福祉センター（保健担当）",
+        "contactPhone": "042-625-9200",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform450600.html",
+        "contactComment": "ファックス：042-627-5887",
+        "zipCode": "1920062",
+        "contactAddress": "八王子市大横町11-35"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+1+UM10",
+        "organization": "1000020132012",
+        "compartment": "健康医療部大横保健福祉センター（保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-03-24",
+      "odInformation": {
+        "updateDate": "2024-07-20",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦訪問",
+        "shortName": "妊婦訪問指導"
+      },
+      "summary": "妊産婦の方（妊娠中または出産後1年以内）を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、妊娠期間中や出産後の不安や悩みについての相談等を行います。",
+      "description": "妊婦訪問指導\n更新日：2021年03月24日\n妊娠中は精神的に不安定になりやすいものです。そこで、安心して出産・育児ができるよう、保健師、妊産婦・新生児訪問指導員がご家庭に伺い、ご相談をお受けします。\n\n対象\n妊娠中で体調や育児などに不安のある方\n\n利用方法\n大横保健福祉センター・東浅川保健福祉センター・南大沢保健福祉センターへご連絡ください\n\nあなたのお住まいを担当する保健福祉センターは (PDFファイル: 124.2KB);https://kosodate.city.hachioji.tokyo.jp/material/files/group/8/kenniki_07482495.pdf\n\nお問い合わせ先\n大横保健福祉センター 042-625-9200\n東浅川保健福祉センター 042-667-1331\n南大沢保健福祉センター 042-679-2205",
+      "target": {
+        "targetPersons": "妊娠中で体調や育児などに不安のある方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "安心して出産・育児ができるよう、保健師、妊産婦・新生児訪問指導員がご家庭に伺い、ご相談をお受けします。",
+        "monetarySupport": null,
+        "materiallySupport": "安心して出産・育児ができるよう、保健師、妊産婦・新生児訪問指導員がご家庭に伺い、ご相談をお受けします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "大横保健福祉センター・東浅川保健福祉センター・南大沢保健福祉センターへご連絡ください\n\nあなたのお住まいを担当する保健福祉センターは (PDFファイル: 124.2KB);https://kosodate.city.hachioji.tokyo.jp/material/files/group/8/kenniki_07482495.pdf",
+      "procedurePersons": null,
+      "procedureMethod": "大横保健福祉センター・東浅川保健福祉センター・南大沢保健福祉センターへご連絡ください",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "大横保健福祉センター・東浅川保健福祉センター・南大沢保健福祉センター",
+      "relatedLink": [
+        {
+          "uri": "https://kosodate.city.hachioji.tokyo.jp/material/files/group/8/kenniki_07482495.pdf",
+          "title": "あなたのお住まいを担当する保健福祉センターは (PDFファイル: 124.2KB)"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://kosodate.city.hachioji.tokyo.jp/soshiki/oyokohokenfukushicenter/576.html",
+        "title": "妊婦訪問指導"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康医療部大横保健福祉センター（保健担当）",
+        "contactPhone": "042-625-9200",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform450600.html",
+        "contactComment": "ファックス：042-627-5887",
+        "zipCode": "1920062",
+        "contactAddress": "八王子市大横町11-35"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+1+UM11",
+        "organization": "1000020132012",
+        "compartment": "健康医療部大横保健福祉センター（保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-03-24",
+      "odInformation": {
+        "updateDate": "2024-07-20",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条（妊産婦の訪問指導等）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小児科救急",
+        "shortName": "子どもの救急"
+      },
+      "summary": "八王子市では、市内医療機関（南多摩病院）で、随時24時間、お子さんに緊急で治療が必要な場合診療を行っています。",
+      "description": "小児救急（随時24時間）\nお子さんに緊急で治療が必要な場合には、南多摩病院が診療します。来院する前にはお電話を。\n\n南多摩病院（小児科）\n\n郵便番号 193-0832 東京都八王子市散田町3-10-1\n\n電話番号 042-663-0111",
+      "target": {
+        "targetPersons": "お子さんに緊急で治療が必要な場合",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "小児科",
+        "monetarySupport": null,
+        "materiallySupport": "小児科"
+      },
+      "cost": null,
+      "costConditions": "診療内容に応じて費用が発生します。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "南多摩病院",
+        "implementationAddress": "〒193-0832\n八王子市散田町3-10-1"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "来院前にお電話をしてください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "保険証",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hachioji.tokyo.jp/emergency/medical/p005723.html",
+        "title": "救急診療・救急相談・医療機関を探す"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "南多摩病院（小児科）",
+        "contactPhone": "042-663-0111",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1930832",
+        "contactAddress": "八王子市散田町3-10-1"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+1+UM114",
+        "organization": "1000020132012",
+        "compartment": "健康医療部健康医療政策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-22",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関するその他のこと",
+        "shortName": "医ケア児コーディネーター"
+      },
+      "summary": "医療的ケア児等やそのご家族からの相談を受け付け、状況と成長に応じた必要な支援機関の紹介や調整を行います。",
+      "description": "医療的ケア児等コーディネーター事業について\n更新日：令和6年7月8日 ページID：P0031368 印刷する\n医療的ケア児等コーディネーター事業\n医療的ケア児等コーディネーター事業とは\n　医療的ケア児等やそのご家族が保健・医療・福祉・その他関連分野の連携したサポートを受け、心身の状況とその成長に応じた適切な支援を受けることにより、住み慣れた地域で安心して生活していくための支援体制を推進していくことを目的とします。\n支援内容\n1 相談窓口の設置\n　医療的ケア児等やそのご家族からの相談を受け付け、状況と成長に応じた必要な支援機関の紹介や調整を行います。\n\n2 関係機関との連絡調整、地域での支援体制づくり\n　関係機関と連携を取り、地域全体で包括的に支援ができる体制を整えます。\n　そのために、関係機関からの支援に係る相談に乗り、状況に応じて助言します。\n　また、関係機関へ医療的ケア児支援に必要な知識習得を目的とした研修を行い、地域資源の発掘や能力の向上を図ります。\n対象者\n　1　市内在住で日常的に医療的ケアを必要とするお子さんとその家族\n　2　医療的ケア児等の支援を行う関係機関等\n相談先及び開所日時\n相談先\n　社会福祉法人日本心身障害児協会 島田療育センターはちおうじ\n　電話番号：070－2822－3315\n\n　一般社団法人シーズ\n　電話番号：080－4615－8555\n\n開所日時\n　まずはお電話にてご相談ください。※R5.1.4から開所予定です。\n|9時～17時|月|火|水|木|金|\n|^|●|●|●|休|●|\n\n※祝日及び年末年始を除きます\n※木曜日は地域の体制づくりのために支援者への研修や協力機関を増やす取組等の必要な活動を行います。\n支援体制のイメージ\n支援体制のイメージ\n\nイベントのお知らせ\n現在予定しているイベントはございません。\n皆様ご参加ありがとうございました。\n\n過去実施したイベントはこちら↓\n医療的ケア児等コーディネーター事業主催のイベント一覧;https://www.city.hachioji.tokyo.jp/kurashi/welfare/001/p034161.html",
+      "target": {
+        "targetPersons": "市内在住で日常的に医療的ケアを必要とするお子さんとその家族",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hachioji.tokyo.jp/kurashi/welfare/001/p031368.html",
+        "title": "医療的ケア児等コーディネーター事業について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉部障害者福祉課（福祉・自立支援医療担当）",
+        "contactPhone": "042-620-7245",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "ファックス：042-623-2444",
+        "zipCode": "1928501",
+        "contactAddress": "八王子市元本郷町三丁目24番1号"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+1+UM120",
+        "organization": "1000020132012",
+        "compartment": "福祉部障害者福祉課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-07-08",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "八王子市医療的ケア児等コーディネーター事業実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "母子父子寡婦福祉資金",
+        "shortName": "母子福祉資金・父子福祉資金の貸付"
+      },
+      "summary": "母子家庭の母、父子家庭の父、および寡婦の方の経済的自立や、扶養しているお子さんの福祉増進のために、必要な資金をお貸しする制度です。",
+      "description": "母子福祉資金・父子福祉資金の貸付\n更新日：2023年05月29日\n母子福祉資金・父子福祉資金\n母子家庭又は父子家庭の方が、経済的に自立して、安定した生活を送るために必要とする資金をお貸ししています。ただし、貸付金額は必要額のみとなるため、限度額より少なくなる場合があります。\n貸付にあたっては審査を行いますので、審査の結果お貸しできない場合があります。\n\n貸付ご希望の方は、「事前相談」が必要となります。また、貸付決定までに時間がかかりますので、お早めに電話でご予約のうえ、子育て支援課へお越しください。\n（電話予約 月曜日～金曜日(祝日等を除く) 午前8時30分～午後5時 電話番号042-620-7362）\n\nこの資金は、借り受けた皆様からの償還金が、他の母子家庭や父子家庭の皆様に貸し付ける財源となります。無理のない償還計画を立て、これから借りる方々のためにも必ず償還してください。\n\n対象者\n市内に6か月以上住んでいて、20歳未満のお子さんを扶養している母子家庭の母又は父子家庭の父等。\n\n連帯保証人\n原則として、東京都内（親族であれば都外でも可）に居住し、資金を借りる方と別生計かつ一定以上の収入があり、他に保証人をしていない方（償還完了時に70歳以下であること）が必要です。\n\n(注意)資金種別、貸付総額や貸付対象者の収入状況等により、連帯保証人を立てていただく場合があります。\n\n審査\n貸付にあたっては審査を行います。審査の結果、貸付の目的を達成することが困難と認められるときや、自立を妨げるものと考えられるときは、お貸しできない場合があります。\n\n償還方法\n原則として、資金種別の期限内に月賦による元利均等償還となります。\n\n相談・申請窓口\n子ども家庭部 子育て支援課 ひとり親支援担当\n\n月曜日～金曜日（祝日等を除く）午前8時30分～午後5時\n\n電話番号 042-620-7362\n\n母子・父子自立支援員がおりますので、「貸付金」や生活上のいろいろな問題についてご相談ください。\n\n主な貸付金の種類・限度額\n修学資金\n児童が高校、短大、大学、大学院、高専または専修学校において修学するために必要な資金。\n\n限度額 月額18,000円（公立高校）～183,000円（大学院・博士課程）(注意)学校種別、貸付対象者の収入状況や連帯保証人の有無などにより異なります。\n\n償還期間 標準10年（専修学校の一般課程は5年）\n利子 無利子\n\n就学支度資金\n児童が高校、短大、大学、大学院、高専、専修学校および厚生労働大臣が定める修業施設への入学・入所に要する資金。学校種別により異なります。\n限度額 150,000円（公立高校）～590,000円（私立大学・大学院）など\n償還期間 標準10年（専修学校の一般課程は5年）\n利子 無利子\n\n修業資金\n児童が就職に必要な知識技能を習得するために必要な資金\n限度額 習得期間中（5年以内）月額68,000円\n償還期間 6年\n利子 無利子\n\n転宅資金\n転居に必要な敷金・前家賃・運送代にあてるための資金\n限度額 260,000円\n償還期間 3年\n利子 原則無利子\n\n技能習得資金\n母又は父が就職するために必要な知識技能を習得するための資金\n限度額 習得期間中（5年以内）月額68,000円\n償還期間 標準10年\n利子 原則無利子\n\n生活資金\n技能習得期間中または医療・介護を受けている期間中の生活費\nひとり親家庭になって7年未満の方で生活の安定を図るために必要な資金（養育費取得のための裁判費用もあり）\n失業中（離職から1年以内）の生活費（貸付期間は1年以内）\n限度額 月額70,000円から141,000円\n償還期間 技能習得期間は標準10年、その他は8年または5年\n利子 原則無利子\n\n母子福祉資金・父子福祉資金のごあんない。\n貸付パンフレット 1ページ (PDFファイル: 345.1KB);https://kosodate.city.hachioji.tokyo.jp/material/files/group/4/kashitsukeR504p1.pdf\n\n貸付パンフレット 2・3ページ (PDFファイル: 427.9KB);https://kosodate.city.hachioji.tokyo.jp/material/files/group/4/kashitsukeR504p23.pdf\n\n貸付パンフレット 4ページ (PDFファイル: 166.2KB);https://kosodate.city.hachioji.tokyo.jp/material/files/group/4/kashitsukeR504p4.pdf",
+      "target": {
+        "targetPersons": "市内に6か月以上住んでいて、20歳未満のお子さんを扶養している母子家庭の母又は父子家庭の父等。\n",
+        "lessThan": {
+          "targetAge": 20,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "20歳未満のお子さんを扶養している母子家庭の母又は父子家庭の父等。"
+      },
+      "support": {
+        "description": "修学資金\n児童が高校、短大、大学、大学院、高専または専修学校において修学するために必要な資金。\n\n限度額 月額18,000円（公立高校）～183,000円（大学院・博士課程）(注意)学校種別、貸付対象者の収入状況や連帯保証人の有無などにより異なります。\n\n償還期間 標準10年（専修学校の一般課程は5年）\n利子 無利子\n\n就学支度資金\n児童が高校、短大、大学、大学院、高専、専修学校および厚生労働大臣が定める修業施設への入学・入所に要する資金。学校種別により異なります。\n限度額 150,000円（公立高校）～590,000円（私立大学・大学院）など\n償還期間 標準10年（専修学校の一般課程は5年）\n利子 無利子\n\n修業資金\n児童が就職に必要な知識技能を習得するために必要な資金\n限度額 習得期間中（5年以内）月額68,000円\n償還期間 6年\n利子 無利子\n\n転宅資金\n転居に必要な敷金・前家賃・運送代にあてるための資金\n限度額 260,000円\n償還期間 3年\n利子 原則無利子\n\n技能習得資金\n母又は父が就職するために必要な知識技能を習得するための資金\n限度額 習得期間中（5年以内）月額68,000円\n償還期間 標準10年\n利子 原則無利子\n\n生活資金\n技能習得期間中または医療・介護を受けている期間中の生活費\nひとり親家庭になって7年未満の方で生活の安定を図るために必要な資金（養育費取得のための裁判費用もあり）\n失業中（離職から1年以内）の生活費（貸付期間は1年以内）\n限度額 月額70,000円から141,000円\n償還期間 技能習得期間は標準10年、その他は8年または5年\n利子 原則無利子",
+        "monetarySupport": "修学資金\n限度額 月額18,000円（公立高校）～183,000円（大学院・博士課程）\n修学支度資金\n限度額 150,000円（公立高校）～590,000円（私立大学・大学院）など\n修業資金\n限度額 習得期間中（5年以内）月額68,000円\n転宅資金\n限度額 260,000円\n技能習得資金\n限度額 習得期間中（5年以内）月額68,000円\n生活資金\n限度額 月額70,000円から141,000円\n",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": "原則として、資金種別の期限内に月賦による元利均等償還となります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "貸付にあたっては審査を行います。審査の結果、貸付の目的を達成することが困難と認められるときや、自立を妨げるものと考えられるときは、お貸しできない場合があります。",
+      "procedurePersons": null,
+      "procedureMethod": "貸付にあたっては審査を行います。審査の結果、貸付の目的を達成することが困難と認められるときや、自立を妨げるものと考えられるときは、お貸しできない場合があります。\n\n貸付ご希望の方は、「事前相談」が必要となります。また、貸付決定までに時間がかかりますので、お早めに電話でご予約のうえ、子育て支援課へお越しください。\n（電話予約 月曜日～金曜日(祝日等を除く) 午前8時30分～午後5時 電話番号042-620-7362）\n",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": "17:00",
+        "conditions": "貸付決定までに時間がかかりますので、お早めに電話でご予約のうえ、子育て支援課へお越しください。\n（電話予約 月曜日～金曜日(祝日等を除く) 午前8時30分～午後5時 電話番号042-620-7362）\n"
+      },
+      "electronicSubmission": false,
+      "belongings": "１ 貸付申請書、償還計画書\n２ 戸籍謄本\n３ 申請者…個人情報調査等同意書、誓約書、印鑑登\n録証明書、所得証明書等\n４ 連帯借受人…個人情報調査等同意書、誓約書、印\n鑑登録証明書等\n５ 連帯保証人…保証人承諾書、個人情報調査等同意\n書、誓約書、住民票の写し（本籍入り）、印鑑登録\n証明書、所得証明書等\n６ 生活費収支内訳書（直近３か月分の給料明細や\n公共料金の領収書の写等）\n７ 資金の種類に応じ必要な書類（中面の「資金一\n覧」をご覧ください。）\n※公簿等で確認できる場合は、省略できます",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "子育て支援課",
+      "relatedLink": [
+        {
+          "uri": "https://kosodate.city.hachioji.tokyo.jp/material/files/group/4/kashitsukeR504p23.pdf",
+          "title": "貸付パンフレット 2・3ページ (PDFファイル: 427.9KB)"
+        },
+        {
+          "uri": "https://kosodate.city.hachioji.tokyo.jp/material/files/group/4/kashitsukeR504p4.pdf",
+          "title": "貸付パンフレット 4ページ (PDFファイル: 166.2KB)"
+        },
+        {
+          "uri": "https://kosodate.city.hachioji.tokyo.jp/material/files/group/4/kashitsukeR504p1.pdf",
+          "title": "貸付パンフレット 1ページ (PDFファイル: 345.1KB)"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://kosodate.city.hachioji.tokyo.jp/mokuteki/hitorioyakatei/kashitsukeseido/793.html",
+        "title": "母子福祉資金・父子福祉資金の貸付"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子育て支援課（母子・父子自立支援担当）",
+        "contactPhone": "042-620-7300",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform470400.html",
+        "contactComment": "ファックス：042-621-2711",
+        "zipCode": "1928501",
+        "contactAddress": "八王子市元本郷町3-24-1（本庁舎事務棟4階）"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+1+UM28",
+        "organization": "1000020132012",
+        "compartment": "子ども家庭部子育て支援課（母子・父子自立支援担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-05-29",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子及び父子並びに寡婦福祉法",
+        "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": " 夜間救急診療室"
+      },
+      "summary": "八王子市では、年中無休で午後8時から午後11時に、市内医療機関（南多摩病院）に委託し、診療を行っています。",
+      "description": "夜間救急診療室・休日歯科応急診療所のご案内\n更新日：令和5年10月1日 ページID：P0005726 \n夜間救急診療室（診療科目：内科・小児科）\n来院前に必ず下記電話番号にお電話してから受診してください。\n\n急病の方のための診療室です。混雑防止のため、検査目的等の受診はお控えください。\n\n※外科については救急病院をご利用ください。（対応できる病院は＃7119へお問い合わせください。）\n\n住所\n〒193-0832\n\n八王子市散田町3-10-1　南多摩病院 1階\n\n案内図（南多摩病院）\n\n電話番号\n042-663-9911\n\n診療時間\n毎日、午後8時から午後11時まで\n\n診療科目\n内科・小児科\n\n夜間救急診療所の移転について\n令和5年10月1日より、夜間救急診療所が移転しました。\n\n来院の際はご注意ください。\n\n10月1日から夜間救急診療業務を委託（PDF形式 488キロバイト）;https://www.city.hachioji.tokyo.jp/emergency/medical/p005726_d/fil/123.pdf\n\n休日歯科応急診療所\n急な歯痛に対する応急処置を行っています。\n\n住所\n〒193-0931\n\n八王子市台町4-33-13　八王子市小児・障害メディカルセンター 夜間救急棟 2階\n\n※敷地内は一方通行です。北側（八王子高校側）の駐車場入口からお入りください。\n\n案内図　（小児・障害メディカルセンター　内）\n\n電話番号\n042-622-7026\n\n診療日\n日曜日・祝日・休日・年末年始（12月29日から1月3日）\n\n受付時間\n午前9時から午後4時まで\n\n隣接する市の休日歯科診療\n町田市の休日歯科診療（外部リンク）;http://www.city.machida.tokyo.jp/iryo/iryo/kyubyo/kyuzitusika.html\n日野市の休日歯科診療（外部リンク）;http://www.city.hino.lg.jp/kurashi/annzen/iryo/1002361.html \n多摩市の休日歯科診療（外部リンク）;https://www.city.tama.lg.jp/kenkofukushi/1008237/iryo/1002731.html\n関連ファイル\n10月1日から夜間救急診療業務を委託（PDF形式 488キロバイト）;https://www.city.hachioji.tokyo.jp/emergency/medical/p005726_d/fil/123.pdf\n\n※PDFファイルの閲覧には、Adobe Acrobat Reader DC(新しいウインドウが開き八王子市のサイトを離れます)が必要です。",
+      "target": {
+        "targetPersons": "急病の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "内科・小児科",
+        "monetarySupport": null,
+        "materiallySupport": "内科・小児科"
+      },
+      "cost": null,
+      "costConditions": "診療内容に応じて費用が発生します。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "毎日"
+      },
+      "implementationPlace": {
+        "implementationName": "夜間救急診療室",
+        "implementationAddress": "〒193-0832\n八王子市散田町3-10-1　南多摩病院 1階"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "20:00",
+        "toHM": "23:00",
+        "condiutilizationConditionstions": "毎日、午後8時から午後11時まで"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "来院前にお電話をしてください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "保険証",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.hachioji.tokyo.jp/emergency/medical/p005726_d/fil/123.pdf",
+          "title": "10月1日から夜間救急診療業務を委託（PDF形式 488キロバイト）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hachioji.tokyo.jp/emergency/medical/p005726.html",
+        "title": "夜間救急診療室・休日歯科応急診療所のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "夜間救急診療室",
+        "contactPhone": "042-663-9911",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1930832",
+        "contactAddress": "八王子市散田町3-10-1　南多摩病院 1階"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+1+UM45",
+        "organization": "1000020132012",
+        "compartment": "健康医療部健康医療政策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-01",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "八王子市夜間救急診療室実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "八王子市の妊娠・出産に関する相談",
+        "shortName": "妊娠に関する相談"
+      },
+      "summary": "妊娠に関する悩みや疑問に保健師や助産師が応じます\nひとりで抱え込まずに保健福祉センターに相談ください",
+      "description": "妊娠に関する相談\n更新日：2021年11月30日\n妊娠に関する悩みや疑問に保健師や助産師が応じます\nひとりで抱え込まずに保健福祉センターに相談ください\n妊娠したかもしれないけれど、どうしたらよいかわからない\n思いがけない妊娠や予定外の妊娠にとまどっている\nその他、様々な悩みの相談に保健師や助産師などの専門職が応じます。\n\n匿名でも構いませんので一人で抱え込まずに安心して相談ください。\n\n相談は市内3か所の保健福祉センター下記連絡先へ\n\n大横保健福祉センター 042-625-9200\n東浅川保健福祉センター 042-667-1331\n南大沢保健福祉センター 042-679-2205\n相談時間 月曜日から土曜日 午前9時から午後4時\n\n八王子市 妊娠・出産・子育て相談案内窓口\n\nどこに相談したらいいかわからない時(はちおうじっ子 子育てほっとライン);https://kosodate.city.hachioji.tokyo.jp/scene/akachannideaumade/sodammadoguchi/1036.html\n\n妊娠したかも相談＠東京（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/ninshin-line-tokyo.html\n東京都 妊娠相談ほっとライン(外部リンク);https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/ninshin-hotline.html\n東京都 不妊・不育ほっとライン（（補足）不育症 妊娠はするけれども流産や死産を繰り返す）(外部リンク);https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/h_soudan.html",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠に関する悩みや疑問に保健師や助産師が応じます",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠に関する悩みや疑問に保健師や助産師が応じます"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "09:00",
+        "toYMD": null,
+        "toHM": "16:00",
+        "conditions": "月曜日から土曜日"
+      },
+      "implementationPlace": {
+        "implementationName": "大横保健福祉センター 042-625-9200\n東浅川保健福祉センター 042-667-1331\n南大沢保健福祉センター 042-679-2205",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "16:00",
+        "condiutilizationConditionstions": "午前9時から午後4時"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "相談は市内3か所の保健福祉センター下記連絡先へ\n\n大横保健福祉センター 042-625-9200\n東浅川保健福祉センター 042-667-1331\n南大沢保健福祉センター 042-679-2205\n相談時間 月曜日から土曜日 午前9時から午後4時\n\n八王子市 妊娠・出産・子育て相談案内窓口\n\nどこに相談したらいいかわからない時(はちおうじっ子 子育てほっとライン);https://kosodate.city.hachioji.tokyo.jp/scene/akachannideaumade/sodammadoguchi/1036.html\n\n妊娠したかも相談＠東京（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/ninshin-line-tokyo.html\n東京都 妊娠相談ほっとライン(外部リンク);https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/ninshin-hotline.html\n東京都 不妊・不育ほっとライン（（補足）不育症 妊娠はするけれども流産や死産を繰り返す）(外部リンク);https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/h_soudan.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "相談時間 月曜日から土曜日 午前9時から午後4時"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://kosodate.city.hachioji.tokyo.jp/scene/akachannideaumade/sodammadoguchi/1036.html",
+          "title": "どこに相談したらいいかわからない時(はちおうじっ子 子育てほっとライン)"
+        },
+        {
+          "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/ninshin-line-tokyo.html",
+          "title": "妊娠したかも相談＠東京（外部リンク）"
+        },
+        {
+          "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/ninshin-hotline.html",
+          "title": "東京都 妊娠相談ほっとライン(外部リンク)"
+        },
+        {
+          "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/h_soudan.html",
+          "title": "東京都 不妊・不育ほっとライン（（補足）不育症 妊娠はするけれども流産や死産を繰り返す）(外部リンク)"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://kosodate.city.hachioji.tokyo.jp/mokuteki/sodanshitai/ninshinnikansurusodan/1138.html",
+        "title": "妊娠に関する相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康医療部大横保健福祉センター（保健担当）",
+        "contactPhone": "042-625-9200",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform450600.html",
+        "contactComment": "ファックス：042-627-5887",
+        "zipCode": "1920062",
+        "contactAddress": "健康医療部大横保健福祉センター（保健担当）"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+1+UM47",
+        "organization": "1000020132012",
+        "compartment": "健康医療部大横保健福祉センター（保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-11-30",
+      "odInformation": {
+        "updateDate": "2024-07-18",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "伴走型相談支援",
+        "shortName": "伴走型相談支援"
+      },
+      "summary": "すべての妊婦さんと子育て家庭が安心して出産・子育てができるように、妊娠から出産・子育てまでの一貫した「伴走型相談支援」を実施しています。",
+      "description": "出産・子育て応援交付金事業\n更新日：2024年04月01日\n国の令和4年度第二次補正予算が成立し、妊娠期から出産・子育てまで一貫して身近で相談に応じ、様々なニーズに即した必要な支援につなぐ伴走型相談支援の充実を図るとともに、経済的支援（出産・子育て応援ギフト）を一体として実施する事業が、創設されました。\n\n本市では、令和5年(2023年)4月1日から事業を開始しました。\n\nhttps://kosodate.city.hachioji.tokyo.jp/material/images/group/8/syussankosodatenagare.png\n「妊婦・子育て家庭への伴走型相談支援と経済的支援の一体的実施（出産・子育て応援交付金）」（こども家庭庁ホームページ）;https://www.cfa.go.jp/policies/shussan-kosodate/\n\n伴走型相談支援\n八王子市では、安心して妊娠・出産・子育てができるよう、身近な相談場所として市内3か所の保健福祉センターで、切れ目ない支援に取り組んでいます。保健師、栄養士、歯科衛生士等の専門職がいますので、今後も不安や悩みごとなどお気軽にご相談ください。\n\n妊婦面談（妊娠中）、あかちゃん訪問（出生後）で面談を実施しています。その他パパママクラスなど各種事業を実施していますので、ぜひご利用ください。\n出産・子育て応援ギフト対象者に実施するアンケートをお送りいただいた方には、内容に応じて保健福祉センターもしくは子ども家庭支援センターからご連絡させていただくことがあります。\n妊娠8か月頃を迎えた妊婦さんに、出産を間近に控え心配や不安なことがないかを伺うアンケートを郵送します。二次元コードからの返信をお願いします。面談での相談もお受けします。\nその他の時期でも、お気軽にご相談ください。\n経済的支援\n【出産応援ギフト】妊娠1回に対してギフトカード\n【子育て応援ギフト】出生したお子さん1人に対してギフトカード\n\nどちらも専用Webサイトにアクセスし、育児用品、子育て支援サービスまたは生活支援用品（家電製品ほか）等の提供を受けられるIDとパスワードが記載されたギフトカードです。\n\n出産応援ギフト・子育て応援ギフトの申請について\n【出産応援ギフト】妊娠届を提出された方;https://kosodate.city.hachioji.tokyo.jp/soshiki/oyokohokenfukushicenter/2613.html\n\n【子育て応援ギフト】ご出産された方;https://kosodate.city.hachioji.tokyo.jp/soshiki/oyokohokenfukushicenter/2611.html",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "八王子市では、安心して妊娠・出産・子育てができるよう、身近な相談場所として市内3か所の保健福祉センターで、切れ目ない支援に取り組んでいます。保健師、栄養士、歯科衛生士等の専門職がいますので、今後も不安や悩みごとなどお気軽にご相談ください。\n\n妊婦面談（妊娠中）、あかちゃん訪問（出生後）で面談を実施しています。その他パパママクラスなど各種事業を実施していますので、ぜひご利用ください。\n出産・子育て応援ギフト対象者に実施するアンケートをお送りいただいた方には、内容に応じて保健福祉センターもしくは子ども家庭支援センターからご連絡させていただくことがあります。\n妊娠8か月頃を迎えた妊婦さんに、出産を間近に控え心配や不安なことがないかを伺うアンケートを郵送します。二次元コードからの返信をお願いします。面談での相談もお受けします。\nその他の時期でも、お気軽にご相談ください。",
+        "monetarySupport": null,
+        "materiallySupport": "八王子市では、安心して妊娠・出産・子育てができるよう、身近な相談場所として市内3か所の保健福祉センターで、切れ目ない支援に取り組んでいます。保健師、栄養士、歯科衛生士等の専門職がいますので、今後も不安や悩みごとなどお気軽にご相談ください。\n\n妊婦面談（妊娠中）、あかちゃん訪問（出生後）で面談を実施しています。その他パパママクラスなど各種事業を実施していますので、ぜひご利用ください。\n出産・子育て応援ギフト対象者に実施するアンケートをお送りいただいた方には、内容に応じて保健福祉センターもしくは子ども家庭支援センターからご連絡させていただくことがあります。\n妊娠8か月頃を迎えた妊婦さんに、出産を間近に控え心配や不安なことがないかを伺うアンケートを郵送します。二次元コードからの返信をお願いします。面談での相談もお受けします。\nその他の時期でも、お気軽にご相談ください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://kosodate.city.hachioji.tokyo.jp/material/images/group/8/syussankosodatenagare.png",
+          "title": "フロー図"
+        },
+        {
+          "uri": "https://www.cfa.go.jp/policies/shussan-kosodate/",
+          "title": "「妊婦・子育て家庭への伴走型相談支援と経済的支援の一体的実施（出産・子育て応援交付金）」（こども家庭庁ホームページ）"
+        },
+        {
+          "uri": "https://kosodate.city.hachioji.tokyo.jp/soshiki/oyokohokenfukushicenter/2613.html",
+          "title": "【出産応援ギフト】妊娠届を提出された方"
+        },
+        {
+          "uri": "https://kosodate.city.hachioji.tokyo.jp/soshiki/oyokohokenfukushicenter/2611.html",
+          "title": "【子育て応援ギフト】ご出産された方"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://kosodate.city.hachioji.tokyo.jp/nenrei/0sai/2592.html",
+        "title": "出産・子育て応援交付金事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康医療部大横保健福祉センター（保健担当）",
+        "contactPhone": "042-625-9200",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform450600.html",
+        "contactComment": "ファックス：042-627-5887",
+        "zipCode": "1920062",
+        "contactAddress": "八王子市大横町11-35"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+1+UM5011",
+        "organization": "1000020132012",
+        "compartment": "健康医療部大横保健福祉センター（保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-18",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "伴走型相談支援及び出産・子育て応援給付金の一体的実施事業の実施について（子発1226第1号 令和4年12月26日）",
+        "regulationArticle": "別紙：伴走型相談支援及び出産・子育て応援給付金の一体的実施事業実施要綱「伴走型相談支援」（別添１） "
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "母子家庭等就業・自立支援センター",
+        "shortName": "母子家庭等就業・自立支援センター事業"
+      },
+      "summary": "ひとり親家庭の親等に対し、就業相談から就業情報の提供等までの一貫した就業支援サービスや、支援につながる情報提供など生活支援サービスを提供します。",
+      "description": "ひとり親家庭や離婚を考えている方のために以下の支援を行う事業です。¥n１　就業支援事業¥nキャリアの確認と履歴書の作成補助などの就労相談から本人の希望に沿いひとり親などに理解がある求人開拓と、そのマッチングを行う支援¥n２　就業支援講習会等事業¥nパソコン講座や資格取得、親子で自己研鑽を行うセミナーなど開催¥n３　テレワーク推進事業¥n３か月間テレワークに関するスキルを学び、就労支援を行う¥n４　広報啓発・広聴ニーズ把握活動等事業¥nメールマガジンの配信やLINEでの情報提供とニーズ調査",
+      "target": {
+        "targetPersons": "母子家庭の母及び父子家庭の父等",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "母子家庭の母及び父子家庭の父等に対し、きめ細やかな就業相談、就職に直接結びつく就業支援講習会、一人ひとりのニーズに沿った就業情報の提供などの一貫した就業支援サービスや、支援につながる情報提供など生活支援サービスを実施する事業です。",
+        "monetarySupport": "きめ細やかな就業相談,就職に直接結びつく就業支援講習会,一人ひとりのニーズに沿った就業情報の提供などの一貫した就業支援サービス,メールマガジンの配信などの生活支援サービス",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate.city.hachioji.tokyo.jp/mokuteki/hitorioyakatei/shugyoshien/792.html",
+        "title": "母子家庭等就業・自立支援センター事業とは"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子育て支援課（母子・父子自立支援担当）",
+        "contactPhone": "042-620-7300　",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform470400.html",
+        "contactComment": null,
+        "zipCode": "1928501",
+        "contactAddress": "八王子市元本郷町3-24-1（本庁舎事務棟4階）"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+1+UM5027",
+        "organization": "1000020132012",
+        "compartment": "子ども家庭部子育て支援課（母子・父子自立支援担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021/03/24",
+      "odInformation": {
+        "updateDate": "2025/02/18",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+        "shortName": "産前産後期間相当分の国民健康保険税の減額"
+      },
+      "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分）の均等割保険料と所得割保険料が免除されます。",
+      "description": "産前産後期間相当分の国民健康保険税の減額について\n更新日：令和6年4月1日 ページID：P0033075 印刷する\n産前産後期間相当分の国民健康保険税が減額されます\n　子育て世帯の負担軽減や次世代育成支援等の観点から、出産する被保険者（以下「出産被保険者」） に係る産前産後期間相当分の国民健康保険税（以下「保険税」） の所得割額と均等割額 が減額されます。\n\n※この制度での出産とは、妊娠85日（4か月）以上の分娩で、死産、流産（人工妊娠中絶を含む）、早産の場合も対象となります。\n届出受付開始日\n　令和6年（2024年）1月4日（木）\n減額対象期間\n　出産予定日（出産日）の前月（多胎妊娠の場合は3か月）から翌々月までの期間\n\n・免除対象期間イメージ\nhttps://www.city.hachioji.tokyo.jp/kurashi/nenkin/001/003/003/p033075_d/img/001.png\n対象者および対象保険税\n　出産日（出産予定日）が令和5年（2023年）11月1日以降の出産被保険者にかかる保険税の所得割額と均等割額を減額します。\n\n※ただし、減額対象月は令和6年（2024年）1月からとなります。\n\n　（例）令和5年（2023年）11月出産の場合　→　令和6年（2024年）1月分の保険税を免除\n\n令和5年（2023年）12月出産の場合　→　令和6年（2024年）1月・2月分の保険税を免除\n\n届出時期\n　出産予定日の6か月前から届出可能です。（出産後も届出可能です）\n持ち物\n1. 出産予定日（出産日）や単胎・多胎妊娠の事実を確認できる、母子健康手帳や医療機関が発行した証明書等の書類\n　※多胎妊娠の場合は人数分が必要となります。\n　※死産、流産などの場合は医療機関が発行した証明書などが必要となります。\n2. 世帯主及び出産被保険者のマイナンバーのわかるもの（マイナンバーカード等）\n3. 届出される方の本人確認書類（マイナンバーカード等）\n届出先\n・保険年金課　資格課税担当（市役所本庁舎1階13番窓口）\n・市民部各事務所\n\n※郵送でも届出可能です。届出書（以下のリンク先よりダウンロードしてください）および 出産予定日（出産日）や単胎・多胎妊娠の事実を確認できる、 母子健康手帳や医療機関が発行した証明書等の写しを以下の宛先へ郵送してください。\n\n　〒 192-8501\n　東京都八王子市元本郷町3-24-1 保険年金課 資格課税担当\n届出書\n　出産被保険者に係る保険税減額届出書（PDF形式 255キロバイト）;https://www.city.hachioji.tokyo.jp/kurashi/nenkin/001/003/003/p033075_d/fil/20231228sanzensango.pdf\nその他\n・届出がない場合でも、当市で出産の事実が確認できた場合は、自動的に出産被保険者の保険税を減額する場合があります。ただし、確認できない場合には減額されないため、忘れずに届出をお願いします。\n・保険税賦課限度額に達している世帯については、制度適用後も保険税額が変わらない場合がありますので、ご了承ください。\n\n関連ファイル\n出産被保険者に係る保険税減額届出書（PDF形式 255キロバイト）;https://www.city.hachioji.tokyo.jp/kurashi/nenkin/001/003/003/p033075_d/fil/20231228sanzensango.pdf\n\n※PDFファイルの閲覧には、Adobe Acrobat Reader DC(新しいウインドウが開き八王子市のサイトを離れます)が必要です。",
+      "target": {
+        "targetPersons": "出産日（出産予定日）が令和5年（2023年）11月1日以降の出産被保険者にかかる保険税の所得割額と均等割額を減額します。\n\n※ただし、減額対象月は令和6年（2024年）1月からとなります。\n\n　（例）令和5年（2023年）11月出産の場合　→　令和6年（2024年）1月分の保険税を免除\n\n　　　　令和5年（2023年）12月出産の場合　→　令和6年（2024年）1月・2月分の保険税を免除",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "子育て世帯の負担軽減や次世代育成支援等の観点から、出産する被保険者（以下「出産被保険者」） に係る産前産後期間相当分の国民健康保険税（以下「保険税」） の所得割額と均等割額 が減額されます。",
+        "monetarySupport": "子育て世帯の負担軽減や次世代育成支援等の観点から、出産する被保険者（以下「出産被保険者」） に係る産前産後期間相当分の国民健康保険税（以下「保険税」） の所得割額と均等割額 が減額されます。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": "出産日（出産予定日）が令和5年（2023年）11月1日以降の出産被保険者にかかる保険税の所得割額と均等割額を減額します。\n\n※ただし、減額対象月は令和6年（2024年）1月からとなります。\n\n　（例）令和5年（2023年）11月出産の場合　→　令和6年（2024年）1月分の保険税を免除\n\n　　　　令和5年（2023年）12月出産の場合　→　令和6年（2024年）1月・2月分の保険税を免除",
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産予定日の6か月前から届出可能です。（出産後も届出可能です）"
+      },
+      "electronicSubmission": false,
+      "belongings": "1. 出産予定日（出産日）や単胎・多胎妊娠の事実を確認できる、母子健康手帳や医療機関が発行した証明書等の書類\n　※多胎妊娠の場合は人数分が必要となります。\n　※死産、流産などの場合は医療機関が発行した証明書などが必要となります。\n2. 世帯主及び出産被保険者のマイナンバーのわかるもの（マイナンバーカード等）\n3. 届出される方の本人確認書類（マイナンバーカード等）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hachioji.tokyo.jp/kurashi/nenkin/001/003/003/p033075.html",
+        "title": "産前産後期間相当分の国民健康保険税の減額について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康医療部保険年金課（資格課税担当）",
+        "contactPhone": "042-620-7236",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform450300.html?PAGE_NO=33075",
+        "contactComment": "ファックス：042-626-8421",
+        "zipCode": "1928501",
+        "contactAddress": "八王子市元本郷町三丁目24番1号"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+1+UM5035",
+        "organization": "1000020132012",
+        "compartment": "健康医療部保険年金課（資格課税担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "地方税法",
+        "regulationArticle": "地方税法第703条の5第3項"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003",
+          "015"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "こども食堂",
+        "shortName": "子ども食堂"
+      },
+      "summary": "「こども食堂」とは、こどもが一人でも行ける無料または低額の食堂です。こども食堂は、生活に困窮する子育て世帯への支援だけでなく、虐待の防止のための見守りや、地域の交流、こどもへの多様な経験の提供など様々な役割を担っており、国としてもこの取組を支援しています。",
+      "description": "子ども食堂\n地域の子どもを支える市民活動のひとつに、「子ども食堂」と呼ばれる活動があります。\nあたたかいふんいきと会話のなかで、無料または安い値段で子どもが食事をすることができます。\n八王子市内にも、このような活動が少しずつ広がっています。\n下の「子ども食堂・無料学習塾などの紹介」では、八王子市内の「子ども食堂」の場所、日時などを紹介しています。\n\n子どものみなさん、家から行けるところがあるか見てみてね。\n\n大人の方は、お手伝いや寄付などできましたらよろしくお願いします。\n\n（お問い合わせ、相談は、恐れ入りますが各実施団体にお問い合わせください。）\n\n子ども食堂・無料学習塾などの紹介\n地域子ども支援事業に登録する市内の子ども食堂・無料塾・居場所・フードバンクを紹介するパンフレットを作成しました。（2024年12月発行）\n\nまた、子ども食堂の開催予定や各団体の詳細などについては、「はちおうじミライ応援団※」ホームページからご確認ください。\n\n※「はちおうじミライ応援団」とは、地域子ども支援事業の登録団体等で構成されるネットワークの愛称です。\n\n関連リンク\n東京都が都内で子ども食堂を始めようと考えている方に向けて、「子供食堂スタートブック」を作成しました。冊子には、開催場所や必要な手続きなど、立ち上げに必要なポイントや、実際の子ども食堂の事例紹介が掲載されています。以下のリンク先からご覧いただけますので、ぜひご活用ください。",
+      "target": {
+        "targetPersons": "地域の子ども",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "あたたかいふんいきと会話のなかで、無料または安い値段で子どもが食事をすることができます。",
+        "monetarySupport": null,
+        "materiallySupport": "食事"
+      },
+      "cost": "無料または安い値段",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "「はちおうじミライ応援団」パンフレット（2024年12月発行） (PDFファイル: 770.8KB);https://kosodate.city.hachioji.tokyo.jp/material/files/group/2/R6pamphlet.pdf,「はちおうじミライ応援団」ホームページ（外部リンク）;https://hachioji-mirai.com/",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//kosodate/kodomoshokudou.html",
+          "title": "【東京都作成】「子供食堂スタートブック」（外部リンク）"
+        },
+        {
+          "uri": "https://kosodate.city.hachioji.tokyo.jp/scene/kodomonoibasho/kodomoshokudo/942.html",
+          "title": "「子ども食堂」など、子どもを支える市民活動をつなぎます"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://kosodate.city.hachioji.tokyo.jp/scene/kodomonoibasho/kodomoshokudo/993.html",
+        "title": "子ども食堂・無料学習塾など"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子どものしあわせ課",
+        "contactPhone": "042-620-7391",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform470100.html",
+        "contactComment": null,
+        "zipCode": "1928501",
+        "contactAddress": "八王子市元本郷町3-24-1（本庁舎事務棟4階）"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+1+UM5036",
+        "organization": "1000020132012",
+        "compartment": "子ども家庭部子どものしあわせ課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023/12/27",
+      "odInformation": {
+        "updateDate": "2025/02/14",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（2歳児歯科健康診査）",
+        "shortName": "2歳児対象　幼児歯科検診"
+      },
+      "summary": "1歳6か月児歯科健診後、経過観察が必要な方に歯科健診を行っています。",
+      "description": "2歳児対象 幼児歯科健診\n更新日：2024年03月15日\n幼児歯科健診\n・1歳6か月児歯科健診後、経過観察が必要な方に歯科健診を行っています。\n\n※1歳6か月児歯科健診後、むし歯予防のために経過観察が必要な方には個別でご案内を\n\nお送りしています。（2歳児全員が対象ではありません）\n\n・転入された方や健診希望の方は、管轄の保健福祉センターへご相談ください。\n\n内容\n・歯科健診（治療は行いません）\n\n・歯みがき実習などの個別相談\n\n日時・会場\nお住まいの町名によって健診会場が異なります。\n\n指定した日時・会場以外をご希望の場合は、必ず電話等で事前にお知らせください。\n\n健診会場、健診日程については下記をご覧ください。\n\n令和6年度（2024年度）幼児歯科健診日程 (PDFファイル: 49.5KB);https://kosodate.city.hachioji.tokyo.jp/material/files/group/8/R6youzishikakenshinnittei.pdf\n\nあなたのお住まいの健診会場 (PDFファイル: 108.1KB);https://kosodate.city.hachioji.tokyo.jp/material/files/group/8/anatanoosumainokenshinkaijo.pdf\n\n持ち物\n・母子健康手帳\n\n・幼児歯科健診案内はがき\n\nお願い\n・遅れる場合は必ずご連絡ください。\n\n・日程変更やキャンセルの場合はご連絡ください。\n\n・発熱など、体調不良時の来所はご遠慮ください。",
+      "target": {
+        "targetPersons": "・1歳6か月児歯科健診後、経過観察が必要な方に歯科健診を行っています。\n\n※1歳6か月児歯科健診後、むし歯予防のために経過観察が必要な方には個別でご案内を\n\nお送りしています。（2歳児全員が対象ではありません）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "conditions": "・1歳6か月児歯科健診後、経過観察が必要な方に歯科健診を行っています。\n\n※1歳6か月児歯科健診後、むし歯予防のために経過観察が必要な方には個別でご案内をお送りしています。（2歳児全員が対象ではありません）"
+      },
+      "support": {
+        "description": "・歯科健診（治療は行いません）\n・歯みがき実習などの個別相談",
+        "monetarySupport": null,
+        "materiallySupport": "・歯科健診（治療は行いません）\n・歯みがき実習などの個別相談"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "令和6年度（2024年度）幼児歯科健診日程 (PDFファイル: 49.5KB);https://kosodate.city.hachioji.tokyo.jp/material/files/group/8/R6youzishikakenshinnittei.pdf"
+      },
+      "implementationPlace": {
+        "implementationName": "あなたのお住まいの健診会場 (PDFファイル: 108.1KB);https://kosodate.city.hachioji.tokyo.jp/material/files/group/8/anatanoosumainokenshinkaijo.pdf",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳\n幼児歯科検診案内はがき",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://kosodate.city.hachioji.tokyo.jp/material/files/group/8/R6youzishikakenshinnittei.pdf",
+          "title": "令和6年度（2024年度）幼児歯科健診日程 (PDFファイル: 49.5KB)"
+        },
+        {
+          "uri": "https://kosodate.city.hachioji.tokyo.jp/material/files/group/8/anatanoosumainokenshinkaijo.pdf",
+          "title": "あなたのお住まいの健診会場 (PDFファイル: 108.1KB)"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://kosodate.city.hachioji.tokyo.jp/scene/kodomonokenko/nyuyojikenshin/3030.html",
+        "title": "2歳児対象　幼児歯科検診"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "大横保健福祉センター,東浅川保健福祉センター,南大沢保健福祉センター",
+        "contactPhone": "042-625-9200,042-667-1331,042-679-2205",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "ファックス 042-627-5887,ファックス 042-667-7829,ファックス 042-679-2214",
+        "zipCode": "1920062,1930834,1920364",
+        "contactAddress": "大横町11-35,東浅川町551-1,南大沢2-27 フレスコ南大沢公共棟1階"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+1+UM792",
+        "organization": "1000020132012",
+        "compartment": "大横保健福祉センター,東浅川保健福祉センター,南大沢保健福祉センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-15",
+      "odInformation": {
+        "updateDate": "2024-07-18",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）、乳幼児歯科相談実施要綱"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後期間の国民年金保険料免除",
+        "shortName": "産前産後免除"
+      },
+      "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+      "description": "産前産後免除\n更新日：平成31年4月18日 ページID：P0024459 印刷する\n産前産後免除とは\n国民年金の産前産後免除は、次世代育成支援の観点で創設された仕組みです。\n国民年金に加入している方（第1号被保険者）が出産を行った場合に、出産前後の一定期間の国民年金保険料が免除されます。\n\n対象者\n国民年金第1号被保険者で、出産日（出産予定日）が平成31年（2019年）2月1日以降の方\n\n※国民年金第1号被保険者については以下のページを参考にしてください。\n被保険者;https://www.city.hachioji.tokyo.jp/kurashi/nenkin/003/002/p003542.html\n\n産前産後期間\n出産予定日または出産日が属する月の、前月から4か月間（以下「産前産後期間」といいます。）の国民年金保険料が免除されます。\nなお、多胎妊娠（双子のお子さんなど）の場合は、出産予定日または出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。\nhttps://www.city.hachioji.tokyo.jp/kurashi/nenkin/003/002/p024459_d/img/001.jpg\n出産の範囲\n妊娠85日（4か月）以上の分娩（死産、流産、早産、人工妊娠中絶を含む）をされた方が対象です。\n\nお手続き方法\n申請可能な期間について　\n平成31年（2019年）4月1日（月）以降であれば、受付期限はありません（※）。\n出産予定日の6か月前から提出することが可能です。\n\nなお、平成31年（2019年）4月1日の施行日より前の事前受付は認められていません。\n\n※産前産後免除の届出には期限が設けられていません。そのため、納付書に記載された納付期限を過ぎた後に届出を行った場合であっても、産前産後期間の保険料は免除対象となります。\n\n【ケース1】\n平成31年（2019年）10月15日が出産予定日である場合、6か月前の平成31年（2019年）4月15日以降に届出を行うことができます。\n【ケース2】\n平成31年（2019年）2月1日～3月31日が出産日だった場合、免除制度開始の平成31年（2019年）4月1日以降に届出を行うことができます。\n\n※免除制度開始前の出産の場合は、施行日前の特別な取り扱いとなり、平成31年（2019年）2月に出産した場合は同年4月のみ、平成31年（2019年）3月に出産した場合は同年4月と5月の2か月間が産前産後免除の対象期間です。\n\n申請受付について\n申請書（国民年金被保険者関係届書）に、必要事項を記載したものを受け付けます。\n\n申請書は八王子市役所および市民部各事務所に設置されているほか、八王子年金事務所でも受け取ることができます。\nまた、日本年金機構のホームページでもダウンロードが可能です。\n\n※八王子市で里帰り出産などを行った方で住民登録（住民票）が八王子市にない方は、住民登録地での届出をお願います。\n\n添付書類　\n出産前（出産予定日で申請する場合）\n出産予定日のわかる書類（以下のいずれか1つ）\n\n　母子健康手帳（コピーで可）\n　医療機関が発行した出産の予定日などの証明書\n　その他出産の予定日を明らかにすることができる書類\n\n出産後\n出産日のわかる書類（以下のいずれか1つ）\n\n　戸籍謄（抄）本\n　戸籍記載事項証明書\n　出生届出受理証明書\n　母子健康手帳\n　住民票\n　医療機関が発行した出産の日等の証明書\n　その他出産の日および身分関係を明らかにすることができる書類\n\nなお、届出時に窓口において出産日および身分関係が確認できる場合は、証明書類を添える必要はありません。\n\n死産等\n死産日のわかる書類（以下のいずれか1つ）　\n\n　死産証明書\n　死胎埋火葬許可証\n　母子健康手帳\n　医療機関が発行した死産等の証明書\n　その他死産等の日および身分関係を明らかにすることができる書類\n\n決定通知について\n申請から1～2か月で日本年金機構から決定通知が届きます。\n\n注意点\n国民年金の任意加入をしている方\n　海外にお住まいの方などのうち国民年金に任意加入している方は、産前産後免除には該当しません。\n\n国民年金保険料の免除を受けている方\n産前産後免除期間は、国民年金の保険料納付済期間に算入されるため、法定免除・申請免除よりも有利となる免除ですので、優先的に適用されます。\nただし、法定免除、申請免除、納付猶予、学生納付特例が承認されている期間に産前産後免除に該当した場合、産前産後免除期間終了後、改めて届出を行う必要はありません。\n\n付加保険料を納付することができる期間\n産前産後免除は、他の保険料免除と異なり、所得の有無にかかわらず保険料の負担を免除するので、当該期間については付加保険料を納付することも選択できます。その取扱いについてはこれまでと変更ありません。\n\n日本年金機構のホームページについて\n産前産後期間の国民年金保険料免除の制度について、詳しくは次のホームページもあわせてご確認ください。\n\n日本年金機構のホームページへ（産前産後期間の免除制度について）;https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html（外部リンク）\n\n日本年金機構のホームページへ（よくあるご質問）;https://www.nenkin.go.jp/service/kokunen/menjo/20180810.files/QA.pdf（外部リンク）",
+      "target": {
+        "targetPersons": "国民年金第1号被保険者で、出産日（出産予定日）が平成31年（2019年）2月1日以降の方\n※国民年金第1号被保険者については以下のページを参考にしてください。\n被保険者;https://www.city.hachioji.tokyo.jp/kurashi/nenkin/003/002/p003542.html",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "国民年金第1号被保険者で、出産日（出産予定日）が平成31年（2019年）2月1日以降の方\n※国民年金第1号被保険者については以下のページを参考にしてください。\n被保険者;https://www.city.hachioji.tokyo.jp/kurashi/nenkin/003/002/p003542.html"
+      },
+      "support": {
+        "description": "出産予定日または出産日が属する月の、前月から4か月間（以下「産前産後期間」といいます。）の国民年金保険料が免除されます。\nなお、多胎妊娠（双子のお子さんなど）の場合は、出産予定日または出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。",
+        "monetarySupport": "出産予定日または出産日が属する月の、前月から4か月間（以下「産前産後期間」といいます。）の国民年金保険料が免除されます。\nなお、多胎妊娠（双子のお子さんなど）の場合は、出産予定日または出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産予定日または出産日が属する月の、前月から4か月間（以下「産前産後期間」といいます。）の国民年金保険料が免除されます。\nなお、多胎妊娠（双子のお子さんなど）の場合は、出産予定日または出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": "国民年金第1号被保険者で、出産日（出産予定日）が平成31年（2019年）2月1日以降の方\n※国民年金第1号被保険者については以下のページを参考にしてください。\n被保険者;https://www.city.hachioji.tokyo.jp/kurashi/nenkin/003/002/p003542.html",
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申請受付について\n申請書（国民年金被保険者関係届書）に、必要事項を記載したものを受け付けます。\n\n申請書は八王子市役所および市民部各事務所に設置されているほか、八王子年金事務所でも受け取ることができます。\nまた、日本年金機構のホームページでもダウンロードが可能です。\n\n※八王子市で里帰り出産などを行った方で住民登録（住民票）が八王子市にない方は、住民登録地での届出をお願います。\n\n添付書類　\n出産前（出産予定日で申請する場合）\n出産予定日のわかる書類（以下のいずれか1つ）\n母子健康手帳（コピーで可）\n医療機関が発行した出産の予定日などの証明書\nその他出産の予定日を明らかにすることができる書類\n\n出産後\n出産日のわかる書類（以下のいずれか1つ）\n\n戸籍謄（抄）本\n戸籍記載事項証明書\n\n出生届出受理証明書\n母子健康手帳\n住民票\n医療機関が発行した出産の日等の証明書\nその他出産の日および身分関係を明らかにすることができる書類\n\nなお、届出時に窓口において出産日および身分関係が確認できる場合は、証明書類を添える必要はありません。\n\n死産等\n死産日のわかる書類（以下のいずれか1つ）　\n\n死産証明書\n死胎埋火葬許可証\n母子健康手帳\n医療機関が発行した死産等の証明書\nその他死産等の日および身分関係を明らかにすることができる書類\n\n決定通知について\n申請から1～2か月で日本年金機構から決定通知が届きます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "平成31年（2019年）4月1日（月）以降であれば、受付期限はありません（※）。\n出産予定日の6か月前から提出することが可能です。\n\nなお、平成31年（2019年）4月1日の施行日より前の事前受付は認められていません。\n\n※産前産後免除の届出には期限が設けられていません。そのため、納付書に記載された納付期限を過ぎた後に届出を行った場合であっても、産前産後期間の保険料は免除対象となります。\n\n【ケース1】\n平成31年（2019年）10月15日が出産予定日である場合、6か月前の平成31年（2019年）4月15日以降に届出を行うことができます。\n【ケース2】\n平成31年（2019年）2月1日～3月31日が出産日だった場合、免除制度開始の平成31年（2019年）4月1日以降に届出を行うことができます。\n\n※免除制度開始前の出産の場合は、施行日前の特別な取り扱いとなり、平成31年（2019年）2月に出産した場合は同年4月のみ、平成31年（2019年）3月に出産した場合は同年4月と5月の2か月間が産前産後免除の対象期間です。"
+      },
+      "electronicSubmission": false,
+      "belongings": "添付書類\n出産前（出産予定日で申請する場合）\n出産予定日のわかる書類（以下のいずれか1つ）\n\n　母子健康手帳（コピーで可）\n医療機関が発行した出産の予定日などの証明書\nその他出産の予定日を明らかにすることができる書類\n\n出産後\n出産日のわかる書類（以下のいずれか1つ）\n\n戸籍謄（抄）本\n　戸籍記載事項証明書\n　出生届出受理証明書\n母子健康手帳\n住民票\n　医療機関が発行した出産の日等の証明書\nその他出産の日および身分関係を明らかにすることができる書類\n\nなお、届出時に窓口において出産日および身分関係が確認できる場合は、証明書類を添える必要はありません。\n\n死産等\n死産日のわかる書類（以下のいずれか1つ）\n\n死産証明書\n　死胎埋火葬許可証\n母子健康手帳\n医療機関が発行した死産等の証明書\nその他死産等の日および身分関係を明らかにすることができる書類",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html",
+          "title": "日本年金機構のホームページへ（産前産後期間の免除制度について）（外部リンク）"
+        },
+        {
+          "uri": "https://www.nenkin.go.jp/service/kokunen/menjo/20180810.files/QA.pdf",
+          "title": "日本年金機構のホームページへ（よくあるご質問）（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hachioji.tokyo.jp/kurashi/nenkin/003/002/p024459.html",
+        "title": "産前産後免除"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康医療部保険年金課（国民年金担当）",
+        "contactPhone": "042-620-7238",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "ファックス：042-626-8421",
+        "zipCode": "1928501",
+        "contactAddress": "八王子市元本郷町三丁目24番1号"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+1+UM793",
+        "organization": "1000020132012",
+        "compartment": "健康医療部保険年金課（国民年金担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2019-04-18",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民年金法",
+        "regulationArticle": "第88条の2（保険料の納付義務）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "016"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "こども家庭センター",
+        "shortName": "子ども家庭支援センター"
+      },
+      "summary": "八王子市の【子ども家庭支援センター】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+      "description": "子ども家庭支援センター移転のお知らせ\n令和6年7月29日より、八王子市保健所内へ移転しました。\n移転に伴い、休館日であった毎月第一火曜日は開館します。\n電話番号・ファックス番号に変更はありません。\n\n親子つどいの広場東町は、引き続き同じ場所で運営します。\n\n子どもと家庭に関する総合相談\n0歳から18歳未満のお子さんとご家庭に関するあらゆる相談に応じています。保護者からの相談のほか、お子さん自身からの相談もお受けしています。専門の相談員があなたといっしょに考えます。ひとりで悩まず、ほんの少し勇気を出して、相談してみてください。\nプライバシーは守られますので、お気軽にご相談ください。\n\n子ども家庭支援センターの総合相談詳細\n継続してのご相談は、お住いの地域の地域子ども家庭支援センターでお受けします。\n\nご案内しますので、まずはお電話ください。\n\n子どもと家庭に関するメール相談\n子どもと家庭に関する総合相談メール相談フォーム;https://www.city.hachioji.tokyo.jp/inquiry/mailform710000.html\n\n子ども家庭支援センターのご案内\n所在地\n東京都八王子市明神町三丁目19番2号\n東京たま未来メッセ 庁舎・会議室棟4階（八王子市保健所内）\n\n電話番号\n042-656-8225\n\n地図\nJR 八王子駅北口 徒歩5分\n京王線 京王八王子駅 徒歩4分",
+      "target": {
+        "targetPersons": "八王子市内に住所を有する18歳未満のお子さんと保護者",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "八王子市内に住所を有する18歳未満のお子さんと保護者"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "無料",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "月～金曜日 9時～19時\n土曜日 9時～17時\n"
+      },
+      "specificDate": null,
+      "holiday": "日曜日、休日、祝日、12月29日～1月3日",
+      "utilization": "電話で相談、または事前に電話予約をして対面での相談\n（電話番号 042-656-8225）",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "東京都八王子市明神町三丁目19番2号\n東京たま未来メッセ 庁舎・会議室棟4階（八王子市保健所内）",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate.city.hachioji.tokyo.jp/mokuteki/shiritai/kosodateshienshisetsujoho/kodomokateishiencenter_oyakofureaihiroba_family_support_center/sougousoudan/703.html",
+        "title": "子ども家庭支援センター (子どもと家庭に関する総合相談)"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子ども家庭支援センター",
+        "contactPhone": "042-656-8225",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform470600.html",
+        "contactComment": null,
+        "zipCode": "1920046",
+        "contactAddress": "八王子市明神町三丁目19番2号（東京たま未来メッセ庁舎・会議室棟4階八王子市保健所内）"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+1+UM799",
+        "organization": "1000020132012",
+        "compartment": "子ども家庭部子ども家庭支援センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/07/30",
+      "odInformation": {
+        "updateDate": "2025/02/15",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第10条の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦の歯科健診",
+        "shortName": "妊婦歯科健診"
+      },
+      "summary": "妊娠中は体調の変化により、歯ぐきが腫れたり、歯の痛みが出ることがあります。また産後は育児に忙しくなり、歯科治療に行く機械を逃してしまうこともあります。妊婦歯科健診を受けて安心して出産に臨みましょう。",
+      "description": "妊婦歯科健診を受けましょう\n妊娠中は体調の変化により、歯ぐきが腫れたり、歯の痛みが出ることがあります。また、産後は育児に忙しくなり、歯科治療に行く機会を逃してしまうこともあります。妊婦歯科健診を受けて安心して出産に臨みましょう。\n\n令和4年度から、妊婦歯科健診の受診方法が変わりました。指定医療機関で歯科健診を行います。妊娠中に1回、無料で受診ができますので、受診をする前に、保健福祉センター窓口で受診券をお受け取りください。妊婦面談の際にもご案内しています。\n\n妊婦歯科健診受診券は、保健福祉センター窓口で発行しています\n大横保健福祉センター 午前9時～午後4時（日曜日・祝日・年末年始を除く）\n\n電話番号042-625-9200 ファックス042-627-5887\n\n東浅川保健福祉センター 午前9時～午後4時（第2月曜日・日曜日・祝日・年末年始を除く）\n\n電話番号042-667-1331 ファックス042-667-7829\n\n南大沢保健福祉センター午前9時～午後4時（日曜日・祝日・年末年始を除く）\n\n電話番号042-679-2205 ファックス042-679-2214\n\n詳しくは、各保健福祉センターへお問合せください\n\n妊婦歯科健診について\n1 対象\n八王子市に住民登録のある妊婦の方\n\n2 実施場所\n下記の実施医療機関一覧表をご覧ください\n\n3 受診費用\n妊婦の方は、保健福祉センター窓口で発行される受診券を提出することで無料になります\n\nなお、受診後の申し出は無料となりませんのでご注意ください\n\n4 受診方法\n下記の実施医療機関一覧表から、受診を希望する医療機関に直接電話等で予約をしてください\n\n（医療機関により診療時間・休診日が異なります。事前に医療機関に電話等でご確認ください）\n\n5 健診内容\n口腔内診査・歯周病検査\n\n（健診内容に歯石除去は含まれません。歯石除去をご希望の方は、別日に再度受診していただく必要があります）\n\n6 健診当日お持ちいただくもの\n（1）妊婦歯科健診受診券 （お忘れになると無料で受診できません）\n\n（2）母子健康手帳 （妊娠中であることの確認のため提示してください）\n\n（3）健康保険証等本人確認ができるもの\n\n7 受診の際のご注意\n（1）健診当日は受診前に歯みがきをしてください\n\n（2）口紅を拭いてから受診してください\n\n8 健診結果について\n当日、歯科医から説明します。なお、医療機関において母子健康手帳への記載はしませんので、お渡しする記録票受診者控を母子健康手帳と一緒に保管してください。\n\n実施医療機関\n令和6年度（2024年度）妊婦歯科健診 実施医療機関一覧表 (PDFファイル: 167.0KB);https://kosodate.city.hachioji.tokyo.jp/material/files/group/8/reiwa6ninpsushikairyoukikan.pdf\n\n妊婦さんのお口の健康\n妊娠中は女性ホルモンやつわり、不規則な食生活の影響で、むし歯や歯周病になりやすくなります。赤ちゃんにむし歯菌をうつさないためにも妊婦さんや家族のお口を清潔に保ちましょう。\n\n妊婦さんのお口の健康 (PDFファイル: 784.4KB);https://kosodate.city.hachioji.tokyo.jp/material/files/group/8/ninpushika.pdf\n\n関連ページ\n妊婦さんとご家族のための講座(保健福祉センター);https://kosodate.city.hachioji.tokyo.jp/scene/akachannideaumade/mamanokenkokanri/982.html",
+      "target": {
+        "targetPersons": "八王子市に住民登録のある妊婦の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "口腔内診査・歯周病検査\n\n（健診内容に歯石除去は含まれません。歯石除去をご希望の方は、別日に再度受診していただく必要があります）",
+        "monetarySupport": null,
+        "materiallySupport": "口腔内診査・歯周病検査\n\n（健診内容に歯石除去は含まれません。歯石除去をご希望の方は、別日に再度受診していただく必要があります）"
+      },
+      "cost": null,
+      "costConditions": "妊婦の方は、保健福祉センター窓口で発行される受診券を提出することで無料になります\n\nなお、受診後の申し出は無料となりませんのでご注意ください",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "令和6年度（2024年度）妊婦歯科健診 実施医療機関一覧表 (PDFファイル: 167.0KB);https://kosodate.city.hachioji.tokyo.jp/material/files/group/8/reiwa6ninpsushikairyoukikan.pdf",
+        "implementationAddress": "令和6年度（2024年度）妊婦歯科健診 実施医療機関一覧表 (PDFファイル: 167.0KB);https://kosodate.city.hachioji.tokyo.jp/material/files/group/8/reiwa6ninpsushikairyoukikan.pdf"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "受診の際のご注意\n（1）健診当日は受診前に歯みがきをしてください\n\n（2）口紅を拭いてから受診してください",
+      "procedurePersons": null,
+      "procedureMethod": "令和4年度から、妊婦歯科健診の受診方法が変わりました。指定医療機関で歯科健診を行います。妊娠中に1回、無料で受診ができますので、受診をする前に、保健福祉センター窓口で受診券をお受け取りください。妊婦面談の際にもご案内しています。\n下記の実施医療機関一覧表から、受診を希望する医療機関に直接電話等で予約をしてください\n\n（医療機関により診療時間・休診日が異なります。事前に医療機関に電話等でご確認ください）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "09:00",
+        "toYMD": null,
+        "toHM": "16:00",
+        "conditions": "大横保健福祉センター 午前9時～午後4時（日曜日・祝日・年末年始を除く）\n\n電話番号042-625-9200 ファックス042-627-5887\n\n東浅川保健福祉センター 午前9時～午後4時（第2月曜日・日曜日・祝日・年末年始を除く）\n\n電話番号042-667-1331 ファックス042-667-7829\n\n南大沢保健福祉センター午前9時～午後4時（日曜日・祝日・年末年始を除く）\n\n電話番号042-679-2205 ファックス042-679-2214"
+      },
+      "electronicSubmission": false,
+      "belongings": "健診当日お持ちいただくもの\n（1）妊婦歯科健診受診券 （お忘れになると無料で受診できません）\n\n（2）母子健康手帳 （妊娠中であることの確認のため提示してください）\n\n（3）健康保険証等本人確認ができるもの",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "妊婦歯科健診受診券は、保健福祉センター窓口で発行しています\n大横保健福祉センター 午前9時～午後4時（日曜日・祝日・年末年始を除く）\n\n電話番号042-625-9200 ファックス042-627-5887\n\n東浅川保健福祉センター 午前9時～午後4時（第2月曜日・日曜日・祝日・年末年始を除く）\n\n電話番号042-667-1331 ファックス042-667-7829\n\n南大沢保健福祉センター午前9時～午後4時（日曜日・祝日・年末年始を除く）\n\n電話番号042-679-2205 ファックス042-679-2214\n\n詳しくは、各保健福祉センターへお問合せください",
+      "relatedLink": [
+        {
+          "uri": "https://kosodate.city.hachioji.tokyo.jp/material/files/group/8/R6iryoukikan.pdf",
+          "title": "令和6年度（2024年度）妊婦歯科健診 実施医療機関一覧表 (PDFファイル: 166.5KB)"
+        },
+        {
+          "uri": "https://kosodate.city.hachioji.tokyo.jp/material/files/group/8/ninpushika.pdf",
+          "title": "妊婦さんのお口の健康 (PDFファイル: 784.4KB)"
+        },
+        {
+          "uri": "https://kosodate.city.hachioji.tokyo.jp/scene/akachannideaumade/mamanokenkokanri/982.html",
+          "title": "妊婦さんとご家族のための講座(保健福祉センター)"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://kosodate.city.hachioji.tokyo.jp/scene/akachannideaumade/mamanokenkokanri/2340.html",
+        "title": "妊婦歯科健診"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康医療部大横保健福祉センター（保健担当）",
+        "contactPhone": "042-625-9200",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform450600.html",
+        "contactComment": "ファックス：042-627-5887",
+        "zipCode": "1920062",
+        "contactAddress": "八王子市大横町11-35"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+1+UM8",
+        "organization": "1000020132012",
+        "compartment": "健康医療部大横保健福祉センター（保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-18",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）、八王子市一般歯科健康診査（妊婦）実施要綱"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自立支援医療制度（精神通院医療）",
+        "shortName": "自立支援医療（精神通院）"
+      },
+      "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+      "description": "オンライン申請について\n一部の申請はオンラインでも行えます。\n詳細はこちらのページをご確認ください。\n\n制度名\n正式名称 自立支援医療（精神通院）\n\nその他\n有効期間は、原則として窓口で申請を受理した日から1年間です。\n\n更新手続き\n更新は有効期限の3か月前から申請できますので、必ず期限が切れる前に手続をしてください。\n\nこんなときは連絡を\n住所・氏名・通院している指定の医療機関・薬局等に変更があったとき、加入している健康保険が変わったとき",
+      "target": {
+        "targetPersons": "精神疾患を理由として通院している方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "精神疾患の治療のため、病院（薬局・デイケア・訪問看護を含む）の通院医療に対し補助を行います。入院医療は適用外です。",
+        "monetarySupport": "自己負担は、原則として医療費の1割となります。保険と公費で9割を負担します。社会保険の被保険者の区市町村民税が非課税の場合、または、本人の加入する国民健康保険世帯が非課税の場合は自己負担分についても助成します。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": "2006/04/01",
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "健康保険証\n・国民健康保険（市・組合）・・・ 世帯の国保加入者全員\n・後期高齢者医療・・・世帯の後期高齢者医療加入者全員\n・健康保険、共済組合・・・ 受診している本人のみ \n・生活保護受給証明書（都外で生活保護を利用されている方のみ。八王子市の生活保護を利用の場合は不要です。）  \n \n所定の診断書（手帳と同時申請の場合は手帳用の診断書）\n（新規・再開・診断書が必要な更新の場合のみ）\n \n自立支援医療（精神通院）受給者証及び国保受給者証（お持ちの方のみ）\n \n世帯の所得状況が確認できる書類（事前にお問い合わせください。なお、令和6年1月1日現在八王子市に住民票があり、税申告をしている場合は必要ありません。）\n \n被保険者が非課税の場合（健康保険等）、または、非課税世帯の場合（国民健康保険等）は、受給者本人の収入がわかる書類（令和5年中の障害年金等の振込通知書等）\n \n印鑑 （他道府県からの転入手続きの場合のみ必要です。）\n \n個人番号（マイナンバー）を証明する書類\n〔申請に来られる方が受給者本人の場合〕以下の(1)～(3)のいずれかを御用意ください\n\n　(1)　個人番号カード\n\n　(2)　個人番号確認書類＋写真付き本人確認書類（運転免許証・パスポート・障害者手帳　等）\n\n　(3)　個人番号確認書類＋写真なし本人確認書類2つ以上（健康保険証、年金手帳　等）\n\n※個人番号確認書類とは「通知カード（記載内容が住民票の内容と一致しているものに限る）」または「個人番号が記載された住民票の写し」です。「個人番号通知書」は使用できません。\n\n〔申請に来られる方と受給者が異なる場合〕\n受給者の方の御手続きが困難な場合には、同居の親族や成年後見人等による申請が可能です。\nその場合には上記のものに加え、以下を御用意ください。\n\n申請に来られる方の写真付き本人確認書類（運転免許証・パスポート・障害者手帳　等）\n登記事項証明書（成年後見人、保佐人等の方のみ）\n\n※同居の親族や成年後見人等の方以外が御手続きを御希望される場合は、事前に御相談ください。\n\n※申請者が18歳未満の場合、保護者分の上記の(1)～(3)のいずれかについても御用意ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "健康保険証\n・国民健康保険（市・組合）・・・ 世帯の国保加入者全員\n・後期高齢者医療・・・ 世帯の後期高齢者医療加入者全員\n・健康保険、共済組合・・・ 受診している本人のみ \n・生活保護受給証明書（都外で生活保護を利用されている方のみ。八王子市の生活保護を利用の場合は不要です。）  \n \n所定の診断書（手帳と同時申請の場合は手帳用の診断書）\n（新規・再開・診断書が必要な更新の場合のみ）\n \n自立支援医療（精神通院）受給者証及び国保受給者証（お持ちの方のみ）\n \n世帯の所得状況が確認できる書類（事前にお問い合わせください。なお、令和6年1月1日現在八王子市に住民票があり、税申告をしている場合は必要ありません。）\n \n被保険者が非課税の場合（健康保険等）、または、非課税世帯の場合（国民健康保険等）は、受給者本人の収入がわかる書類（令和5年中の障害年金等の振込通知書等）\n \n印鑑 （他道府県からの転入手続きの場合のみ必要です。）\n \n個人番号（マイナンバー）を証明する書類\n〔申請に来られる方が受給者本人の場合〕以下の(1)～(3)のいずれかを御用意ください\n\n　(1)　個人番号カード\n\n　(2)　個人番号確認書類＋写真付き本人確認書類（運転免許証・パスポート・障害者手帳　等）\n\n　(3)　個人番号確認書類＋写真なし本人確認書類2つ以上（健康保険証、年金手帳　等）\n\n※個人番号確認書類とは「通知カード（記載内容が住民票の内容と一致しているものに限る）」または「個人番号が記載された住民票の写し」です。「個人番号通知書」は使用できません。\n\n〔申請に来られる方と受給者が異なる場合〕\n受給者の方の御手続きが困難な場合には、同居の親族や成年後見人等による申請が可能です。\nその場合には上記のものに加え、以下を御用意ください。\n\n申請に来られる方の写真付き本人確認書類（運転免許証・パスポート・障害者手帳　等）\n登記事項証明書（成年後見人、保佐人等の方のみ）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "・障害者福祉課 電話番号 042-620-7245 ファックス 042-623-2444\n月曜日～金曜日（祝日、年末年始を除く） 8時30分から17時まで\n\n・八王子駅南口総合事務所（転入手続きを除く） 電話番号 042-620-1159\n　※月曜日～金曜日（祝日、年末年始を除く） 10時から17時まで\n\n・南大沢事務所（転入手続きを除く） 電話番号 042-679-2207\n　※火曜日及び木曜日のみ（祝日、年末年始を除く）10時から17時まで",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hachioji.tokyo.jp/kurashi/welfare/005/004/p004180.html",
+        "title": "自立支援医療（精神通院）"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.hachioji.tokyo.jp/kurashi/welfare/005/004/p034456.html",
+          "title": "自立支援医療（精神通院）のオンライン申請"
+        }
+      ],
+      "contact": {
+        "contactName": "福祉部障害者福祉課（福祉・自立支援医療担当）",
+        "contactPhone": "042-620-7245",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform440600.html?PAGE_NO=4180",
+        "contactComment": null,
+        "zipCode": "1928501",
+        "contactAddress": "八王子市元本郷町三丁目24番1号"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+1+UM824",
+        "organization": "1000020132012",
+        "compartment": "福祉部障害者福祉課（福祉・自立支援医療担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/11/13",
+      "odInformation": {
+        "updateDate": "2025/03/13",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律",
+        "regulationArticle": "第58条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "025",
+          "027"
+        ],
+        "targetCode": [
+          "087",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+        "shortName": "ファーストバースデーサポート事業"
+      },
+      "summary": "八王子市では、1歳のお誕生日を迎えたお子さんを育てているご家庭の育児状況を確認させていただき、必要なサービスのご紹介や相談支援を実施します。\n対象者にはアンケートを送付します。現在の状況をご記入いただき、返信用封筒で保健福祉センターへお送りください。\nアンケートの返送をしてくださった方に、ファーストバースデー子育て応援ギフトをお届けします。",
+      "description": "ファーストバースデーサポート事業】について\n更新日：2024年04月19日\n\nお子さんの1歳のお誕生日、おめでとうございます。\n八王子市では、1歳のお誕生日を迎えたお子さんを育てているご家庭の育児状況を確認させていただき、必要なサービスのご紹介や相談支援を実施します。\n対象者にはアンケートを送付します。現在の状況をご記入いただき、返信用封筒で保健福祉センターへお送りください。\nアンケートの返送をしてくださった方に、ファーストバースデー子育て応援ギフトをお届けします。\nなお、内容確認や支援のために電話等でご連絡させていただくことがあります。また、アンケート内容は子ども家庭支援センターと情報共有し、相談支援に利用する場合があります。ご了承ください。\n\n対象者\n八王子市に住民登録があり、満1歳のお誕生日を迎えるお子さんを養育しているご家庭\n\nアンケート提出日（郵便の場合は消印日）において八王子市民であること\nアンケートは、1歳になる月に対象の方に送付されます。\n対象者あての個別の通知文に記載された提出期限までに、お早目にお送りください。\n\nファーストバースデー子育て応援ギフトの内容\nファーストバースデー子育て応援ギフト（以下、ギフトという。）は、おもちゃ、ベビー・子ども用品等との交換や、遊園地等施設の利用にご使用いただけます。アプリや会員登録の必要がなく、スマートフォンを活用してお使いいただけるe-Giftです。なお、スマートフォンをお持ちでない方へは、紙の商品券をお送りしますので、ご希望の方はアンケートのチェック欄にチェックをお願いします。\n\n令和5年（2023年）3月31日までに出生したお子さん\n第1子の場合：1万円分、第2子の場合：2万円分、第3子以降の場合：3万円分\n\n令和5年（2023年）4月1日以降に出生したお子さん\n第1子の場合：6万円分、第2子の場合：7万円分、第3子以降の場合：8万円分\n\nご注意\n対象となるお子さんが1歳になった日において、家計を同一（補足）とする兄弟姉妹のうち、18歳未満の子を一番上から数えます。\n〈補足〉家計を同一とは、同居している場合や、別居しているが扶養関係にある場合を指します。\n\n※アンケート到着後、ギフトを一般書留でお送りします。ただし、金額によっては簡易書留でお送りします。\n\n問い合わせ・相談先\n大横保健福祉センター\n〒192-0062 八王子市大横町11-35\n電話番号：042-625-9200 ファックス：042-627-5887\n\n東浅川保健福祉センター\n〒193-0834 八王子市東浅川町551-1\n電話番号：042-667-1331 ファックス：042-667-7829\n\n南大沢保健福祉センター\n〒192-0364 八王子市南大沢2-27 フレスコ南大沢公共棟1階\n電話番号：042-679-2205 ファックス：042-679-2214",
+      "target": {
+        "targetPersons": "八王子市に住民登録があり、満1歳のお誕生日を迎えるお子さんを養育しているご家庭\n\nアンケート提出日（郵便の場合は消印日）において八王子市民であること\nアンケートは、1歳になる月に対象の方に送付されます。\n対象者あての個別の通知文に記載された提出期限までに、お早目にお送りください。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "八王子市に住民登録があり、満1歳のお誕生日を迎えるお子さんを養育しているご家庭"
+      },
+      "support": {
+        "description": "八王子市では、1歳のお誕生日を迎えたお子さんを育てているご家庭の育児状況を確認させていただき、必要なサービスのご紹介や相談支援を実施します。\n対象者にはアンケートを送付します。現在の状況をご記入いただき、返信用封筒で保健福祉センターへお送りください。\nアンケートの返送をしてくださった方に、ファーストバースデー子育て応援ギフトをお届けします。\nなお、内容確認や支援のために電話等でご連絡させていただくことがあります。また、アンケート内容は子ども家庭支援センターと情報共有し、相談支援に利用する場合があります。ご了承ください。\n対象者\n八王子市に住民登録があり、満1歳のお誕生日を迎えるお子さんを養育しているご家庭\n\nアンケート提出日（郵便の場合は消印日）において八王子市民であること\n\nアンケートは、1歳になる月に対象の方に送付されます。\n対象者あての個別の通知文に記載された提出期限までに、お早目にお送りください。\n\nファーストバースデー子育て応援ギフトの内容\nファーストバースデー子育て応援ギフト（以下、ギフトという。）は、おもちゃ、ベビー・子ども用品等との交換や、遊園地等施設の利用にご使用いただけます。アプリや会員登録の必要がなく、スマートフォンを活用してお使いいただけるe-Giftです。なお、スマートフォンをお持ちでない方へは、紙の商品券をお送りしますので、ご希望の方はアンケートのチェック欄にチェックをお願いします。\n\n令和5年（2023年）3月31日までに出生したお子さん\n第1子の場合：1万円分、第2子の場合：2万円分、第3子以降の場合：3万円分\n\n令和5年（2023年）4月1日以降に出生したお子さん\n第1子の場合：6万円分、第2子の場合：7万円分、第3子以降の場合：8万円分",
+        "monetarySupport": "令和5年（2023年）3月31日までに出生したお子さん\n第1子の場合：1万円分、第2子の場合：2万円分、第3子以降の場合：3万円分\n\n令和5年（2023年）4月1日以降に出生したお子さん\n第1子の場合：6万円分、第2子の場合：7万円分、第3子以降の場合：8万円分",
+        "materiallySupport": "必要なサービスのご紹介や相談支援を実施します。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "対象者にはアンケートを送付します。",
+      "procedurePersons": null,
+      "procedureMethod": "現在の状況をご記入いただき、返信用封筒で保健福祉センターへお送りください。\nアンケートの返送をしてくださった方に、ファーストバースデー子育て応援ギフトをお届けします。\nなお、内容確認や支援のために電話等でご連絡させていただくことがあります。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "アンケートは、1歳になる月に対象の方に送付されます。\n対象者あての個別の通知文に記載された提出期限までに、お早目にお送りください。"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "大横保健福祉センター\n〒192-0062 八王子市大横町11-35\n電話番号：042-625-9200 ファックス：042-627-5887\n\n東浅川保健福祉センター\n〒193-0834 八王子市東浅川町551-1\n電話番号：042-667-1331 ファックス：042-667-7829\n\n南大沢保健福祉センター\n〒192-0364 八王子市南大沢2-27 フレスコ南大沢公共棟1階\n電話番号：042-679-2205 ファックス：042-679-2214",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate.city.hachioji.tokyo.jp/scene/akachangaumaretara/mamanocare_sangonoshien/959.html",
+        "title": "【ファーストバースデーサポート事業】について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康医療部大横保健福祉センター（保健担当）",
+        "contactPhone": "042-625-9200",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform450600.html",
+        "contactComment": "ファックス：042-627-5887",
+        "zipCode": "1920062",
+        "contactAddress": "健康医療部大横保健福祉センター（保健担当）"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+2+UM34",
+        "organization": "1000020132012",
+        "compartment": "健康医療部大横保健福祉センター（保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-19",
+      "odInformation": {
+        "updateDate": "2024-07-18",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "とうきょうママパパ応援事業実施要綱"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "八王子市の妊娠・出産に関する相談",
+        "shortName": "はちおうじっ子 子育てほっとライン"
+      },
+      "summary": "妊娠、出産、育児に関することで、どこに相談したらいいかわからない時は、042-686-2115（ハロー ニッコリ イイコ）まで、お電話ください。保健師等が、相談内容をお聞きして安心して子育てができるよう相談に応じます。",
+      "description": "どこに相談したらいいかわからない時(はちおうじっ子 子育てほっとライン)\n更新日：2022年09月23日\nはちおうじっ子 子育てほっとライン\n妊娠、出産、育児に関することで、\n\nどこに相談したらいいかわからない時は、\n\n042-686-2115（ハロー ニッコリ イイコ）\n\nまで、お電話ください。\n\n保健師等が、相談内容をお聞きして\n\n安心して子育てができるよう相談に応じます。\n\n相談時間 通年（年末年始・第1日曜日を除く）\n\n8時30分から17時\n\nメールの相談は下記の「お問い合わせメールフォーム」から、お願いします。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "非公表",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate.city.hachioji.tokyo.jp/mokuteki/sodanshitai/ninshinnikansurusodan/1433.html",
+        "title": "どこに相談したらいいかわからない時(はちおうじっ子 子育てほっとライン)"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康医療部大横保健福祉センター（保健担当）",
+        "contactPhone": "042-625-9200",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1920062",
+        "contactAddress": "八王子市大横町11-35"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+2+UM47",
+        "organization": "1000020132012",
+        "compartment": "健康医療部大横保健福祉センター（保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-09-23",
+      "odInformation": {
+        "updateDate": "2024-07-18",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+        "shortName": "妊産婦・乳幼児保健指導"
+      },
+      "summary": "一般保健指導（診察、血液・尿検査、血圧測定等）や歯科保健指導（診察）が受けられます。",
+      "description": "妊産婦・乳幼児保健指導、母子栄養食品の支給\n更新日：2021年04月23日\n\n妊産婦・乳幼児保健指導\n対象者\n生活保護世帯または市民税の非課税世帯の妊産婦および乳幼児\n\n内容\n一般保健指導（診察、血液・尿検査、血圧測定等）や歯科保健指導（診察）が受けられます。\n\n母子栄養食品の支給\n対象者\n生活保護受給世帯の妊産婦または乳児\n市民税が非課税の世帯（申請した年度）の妊産婦または乳児\n所得税が非課税の世帯（前年）の妊産婦または乳児\n内容\n母体の保護及び乳児の健康増進のため、経済的に余裕のない方に、妊産婦・授乳婦用粉乳または、乳児用調整粉乳（粉ミルク）を、無料で支給しています。\n\n支給期間\n妊産婦は、申請した翌月から、乳児の出生後4か月めまで、乳児は医師が必要と認めたものに限り、認められた月もしくは申請した翌月から満1歳の誕生月まで支給されます。\n\n支給される物\n妊産婦 1人1か月概ね780グラム（スティックタイプ）\n乳児 1人1か月概ね880グラム（1缶）\n申請に必要な書類\n母子健康手帳\n対象となる妊婦または乳幼児のものをご持参ください。\n\n生活保護受給証明書\n生活保護の受給している方は受給していることの証明書が必要です。下記の場所でお求めください。\n\n市役所本庁舎地下1階\n\n福祉部生活福祉地区第一課または生活福祉地区第二課\n\n生活保護制度の概要;https://www.city.hachioji.tokyo.jp/kurashi/welfare/007/003/p003919.html\n\n市民税・都民税課税（非課税）証明書（所得の証明）\n市民税または所得税が非課税の方は、非課税であることの証明書が必要となります。下記の場所でお求めください。\n\n市役所本庁舎2階税制課\n市民部各事務所\n手数料がかかります。\n申請する月によって提出していただく年度が変わります。詳しくはお問い合わせください。\n\n市民税・都民税課税（非課税）証明書 （所得の証明）;https://www.city.hachioji.tokyo.jp/kurashi/zeikin/002/002/p012233.html\n\n確定申告の写しまたは源泉徴収票のいずれか\n確定申告をされている方やお勤めの方は確定申告書または源泉徴収票が必要となります。\n\n確定申告書は税務署に提出したものの写し\n源泉徴収票は勤め先からもらったものの写し\n申請する月によって提出していただく年度が変わります。詳しくはお問い合わせください。\n\n医師が栄養強化の必要を認めた意見書（乳児の場合）\n養育医療または栄養補給が必要と医師が認めた意見書が必要となります。\n意見書の様式は、各保健福祉センターでお配りしています。\n病院でもらえる場合もありますが、手数料がかかることがありますので、事前に病院にご確認ください。",
+      "target": {
+        "targetPersons": "生活保護世帯または市民税の非課税世帯の妊産婦および乳幼児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "一般保健指導（診察、血液・尿検査、血圧測定等）や歯科保健指導（診察）が受けられます。",
+        "monetarySupport": null,
+        "materiallySupport": "一般保健指導（診察、血液・尿検査、血圧測定等）や歯科保健指導（診察）が受けられます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "生活保護受給証明書\n生活保護の受給している方は受給していることの証明書が必要です。下記の場所でお求めください。\n\n市役所本庁舎地下1階\n\n福祉部生活福祉地区第一課または生活福祉地区第二課\n\n生活保護制度の概要;https://www.city.hachioji.tokyo.jp/kurashi/welfare/007/003/p003919.html\n\n市民税・都民税課税（非課税）証明書（所得の証明）\n市民税または所得税が非課税の方は、非課税であることの証明書が必要となります。下記の場所でお求めください。\n\n市役所本庁舎2階税制課\n市民部各事務所\n手数料がかかります。\n申請する月によって提出していただく年度が変わります。詳しくはお問い合わせください。\n\n市民税・都民税課税（非課税）証明書 （所得の証明）;https://www.city.hachioji.tokyo.jp/kurashi/zeikin/002/002/p012233.html",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳\n対象となる妊婦または乳幼児のものをご持参ください。\n\n生活保護受給証明書\n生活保護の受給している方は受給していることの証明書が必要です。下記の場所でお求めください。\n\n市役所本庁舎地下1階\n\n福祉部生活福祉地区第一課または生活福祉地区第二課\n\n生活保護制度の概要;https://www.city.hachioji.tokyo.jp/kurashi/welfare/007/003/p003919.html\n\n市民税・都民税課税（非課税）証明書（所得の証明）\n市民税または所得税が非課税の方は、非課税であることの証明書が必要となります。下記の場所でお求めください。\n\n市役所本庁舎2階税制課\n市民部各事務所\n手数料がかかります。\n申請する月によって提出していただく年度が変わります。詳しくはお問い合わせください。\n\n市民税・都民税課税（非課税）証明書 （所得の証明）;https://www.city.hachioji.tokyo.jp/kurashi/zeikin/002/002/p012233.html\n\n確定申告の写しまたは源泉徴収票のいずれか\n確定申告をされている方やお勤めの方は確定申告書または源泉徴収票が必要となります。\n\n確定申告書は税務署に提出したものの写し\n源泉徴収票は勤め先からもらったものの写し\n申請する月によって提出していただく年度が変わります。詳しくはお問い合わせください。\n\n医師が栄養強化の必要を認めた意見書（乳児の場合）\n養育医療または栄養補給が必要と医師が認めた意見書が必要となります。\n意見書の様式は、各保健福祉センターでお配りしています。\n病院でもらえる場合もありますが、手数料がかかることがありますので、事前に病院にご確認ください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.hachioji.tokyo.jp/kurashi/welfare/007/003/p003919.html",
+          "title": "生活保護制度の概要"
+        },
+        {
+          "uri": "https://www.city.hachioji.tokyo.jp/kurashi/zeikin/002/002/p012233.html",
+          "title": "市民税・都民税課税（非課税）証明書 （所得の証明）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://kosodate.city.hachioji.tokyo.jp/scene/akachangaumaretara/akachannokenkokanri/1308.html",
+        "title": "妊産婦・乳幼児保健指導、母子栄養食品の支給"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康医療部大横保健福祉センター（保健担当）",
+        "contactPhone": "042-625-9200",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform450600.html",
+        "contactComment": "ファックス：042-627-5887",
+        "zipCode": "1920062",
+        "contactAddress": "八王子市大横町11-35"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+3+UM34",
+        "organization": "1000020132012",
+        "compartment": "健康医療部大横保健福祉センター（保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-04-23",
+      "odInformation": {
+        "updateDate": "2024-07-18",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "小児休日・全夜間救急医療制度"
+      },
+      "summary": "八王子市では、休日や深夜（午後11時から翌日の朝）、お子さんに緊急で治療が必要な場合には、本市中核病院（東京医科大学八王子医療センター・東海大学医学部付属八王子病院）が交代で診療を行っています。",
+      "description": "小児休日・全夜間救急医療制度\n休日や深夜（午後11時から翌日の朝）、お子さんに緊急で治療が必要な場合には、本市中核病院（東京医科大学八王子医療センター・東海大学医学部付属八王子病院）が交代で診療します。来院する前にはお電話で症状を相談してください。\n\n奇数日\n東海大学医学部付属八王子病院\n郵便番号 192-0032 東京都八王子市石川町1838\n電話番号 042-639-1111\n\n偶数日\n東京医科大学八王子医療センター\n郵便番号 193-0998 東京都八王子市館町1163\n電話番号 042-665-5611\n(注意）休日 日曜日、祝日、年末年始（12月29日から1月3日）",
+      "target": {
+        "targetPersons": "お子さんに緊急で治療が必要な場合",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "小児科",
+        "monetarySupport": null,
+        "materiallySupport": "小児科"
+      },
+      "cost": null,
+      "costConditions": "診療内容に応じて費用が発生します。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "奇数日は東海大学医学部付属八王子病院、偶数日及び休日、日曜日、祝日、年末年始は東京医科大学八王子医療センターにて診療"
+      },
+      "implementationPlace": {
+        "implementationName": "①東海大学医学部付属八王子病院,②東京医科大学八王子医療センター",
+        "implementationAddress": "①〒192-0032\n東京都八王子市石川町1838\n\n②〒193-0998\n東京都八王子市館町1163"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "23:00",
+        "toHM": null,
+        "condiutilizationConditionstions": "休日や深夜（午後11時から翌日の朝）"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "来院前にお電話をしてください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "保険証",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hachioji.tokyo.jp/emergency/medical/p005723.html",
+        "title": "救急診療・救急相談・医療機関を探す"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "①東海大学医学部付属八王子病院,②東京医科大学八王子医療センター",
+        "contactPhone": "042-639-1111,042-665-5611",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1920032,1930998",
+        "contactAddress": "八王子市石川町1838,八王子市館町1163"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+3+UM45",
+        "organization": "1000020132012",
+        "compartment": "健康医療部健康医療政策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-22",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+        "shortName": "母子栄養食品の支給"
+      },
+      "summary": "母体の保護及び乳児の健康増進のため、経済的に余裕のない方に、妊産婦・授乳婦用粉乳または、乳児用調整粉乳（粉ミルク）を、無料で支給しています。",
+      "description": "妊産婦・乳幼児保健指導、母子栄養食品の支給\n更新日：2021年04月23日\n\n妊産婦・乳幼児保健指導\n対象者\n生活保護世帯または市民税の非課税世帯の妊産婦および乳幼児\n\n内容\n一般保健指導（診察、血液・尿検査、血圧測定等）や歯科保健指導（診察）が受けられます。\n\n母子栄養食品の支給\n対象者\n生活保護受給世帯の妊産婦または乳児\n市民税が非課税の世帯（申請した年度）の妊産婦または乳児\n所得税が非課税の世帯（前年）の妊産婦または乳児\n内容\n母体の保護及び乳児の健康増進のため、経済的に余裕のない方に、妊産婦・授乳婦用粉乳または、乳児用調整粉乳（粉ミルク）を、無料で支給しています。\n\n支給期間\n妊産婦は、申請した翌月から、乳児の出生後4か月めまで、乳児は医師が必要と認めたものに限り、認められた月もしくは申請した翌月から満1歳の誕生月まで支給されます。\n\n支給される物\n妊産婦 1人1か月概ね780グラム（スティックタイプ）\n乳児 1人1か月概ね880グラム（1缶）\n申請に必要な書類\n母子健康手帳\n対象となる妊婦または乳幼児のものをご持参ください。\n\n生活保護受給証明書\n生活保護の受給している方は受給していることの証明書が必要です。下記の場所でお求めください。\n\n市役所本庁舎地下1階\n\n福祉部生活福祉地区第一課または生活福祉地区第二課\n\n生活保護制度の概要;https://www.city.hachioji.tokyo.jp/kurashi/welfare/007/003/p003919.html\n\n市民税・都民税課税（非課税）証明書（所得の証明）\n市民税または所得税が非課税の方は、非課税であることの証明書が必要となります。下記の場所でお求めください。\n\n市役所本庁舎2階税制課\n市民部各事務所\n手数料がかかります。\n申請する月によって提出していただく年度が変わります。詳しくはお問い合わせください。\n\n市民税・都民税課税（非課税）証明書 （所得の証明）;https://www.city.hachioji.tokyo.jp/kurashi/zeikin/002/002/p012233.html\n\n確定申告の写しまたは源泉徴収票のいずれか\n確定申告をされている方やお勤めの方は確定申告書または源泉徴収票が必要となります。\n\n確定申告書は税務署に提出したものの写し\n源泉徴収票は勤め先からもらったものの写し\n申請する月によって提出していただく年度が変わります。詳しくはお問い合わせください。\n\n医師が栄養強化の必要を認めた意見書（乳児の場合）\n養育医療または栄養補給が必要と医師が認めた意見書が必要となります。\n意見書の様式は、各保健福祉センターでお配りしています。\n病院でもらえる場合もありますが、手数料がかかることがありますので、事前に病院にご確認ください。",
+      "target": {
+        "targetPersons": "生活保護受給世帯の妊産婦または乳児\n市民税が非課税の世帯（申請した年度）の妊産婦または乳児\n所得税が非課税の世帯（前年）の妊産婦または乳児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "内容\n母体の保護及び乳児の健康増進のため、経済的に余裕のない方に、妊産婦・授乳婦用粉乳または、乳児用調整粉乳（粉ミルク）を、無料で支給しています。\n\n支給期間\n妊産婦は、申請した翌月から、乳児の出生後4か月めまで、乳児は医師が必要と認めたものに限り、認められた月もしくは申請した翌月から満1歳の誕生月まで支給されます。\n\n支給される物\n妊産婦 1人1か月概ね780グラム（スティックタイプ）\n乳児 1人1か月概ね880グラム（1缶）",
+        "monetarySupport": null,
+        "materiallySupport": "母体の保護及び乳児の健康増進のため、経済的に余裕のない方に、妊産婦・授乳婦用粉乳または、乳児用調整粉乳（粉ミルク）を、無料で支給しています。\n\n支給される物\n妊産婦 1人1か月概ね780グラム（スティックタイプ）\n乳児 1人1か月概ね880グラム（1缶）"
+      },
+      "cost": null,
+      "costConditions": "無料で支給しています。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "妊産婦は、申請した翌月から、乳児の出生後4か月めまで、乳児は医師が必要と認めたものに限り、認められた月もしくは申請した翌月から満1歳の誕生月まで支給されます。"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "生活保護受給証明書\n生活保護の受給している方は受給していることの証明書が必要です。下記の場所でお求めください。\n\n市役所本庁舎地下1階\n\n福祉部生活福祉地区第一課または生活福祉地区第二課\n\n生活保護制度の概要;https://www.city.hachioji.tokyo.jp/kurashi/welfare/007/003/p003919.html\n\n市民税・都民税課税（非課税）証明書（所得の証明）\n市民税または所得税が非課税の方は、非課税であることの証明書が必要となります。下記の場所でお求めください。\n\n市役所本庁舎2階税制課\n市民部各事務所\n手数料がかかります。\n申請する月によって提出していただく年度が変わります。詳しくはお問い合わせください。\n\n市民税・都民税課税（非課税）証明書 （所得の証明）;https://www.city.hachioji.tokyo.jp/kurashi/zeikin/002/002/p012233.html",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳\n対象となる妊婦または乳幼児のものをご持参ください。\n\n生活保護受給証明書\n生活保護の受給している方は受給していることの証明書が必要です。下記の場所でお求めください。\n\n市役所本庁舎地下1階\n\n福祉部生活福祉地区第一課または生活福祉地区第二課\n\n生活保護制度の概要;https://www.city.hachioji.tokyo.jp/kurashi/welfare/007/003/p003919.html\n\n市民税・都民税課税（非課税）証明書（所得の証明）\n市民税または所得税が非課税の方は、非課税であることの証明書が必要となります。下記の場所でお求めください。\n\n市役所本庁舎2階税制課\n市民部各事務所\n手数料がかかります。\n申請する月によって提出していただく年度が変わります。詳しくはお問い合わせください。\n\n市民税・都民税課税（非課税）証明書 （所得の証明）;https://www.city.hachioji.tokyo.jp/kurashi/zeikin/002/002/p012233.html\n\n確定申告の写しまたは源泉徴収票のいずれか\n確定申告をされている方やお勤めの方は確定申告書または源泉徴収票が必要となります。\n\n確定申告書は税務署に提出したものの写し\n源泉徴収票は勤め先からもらったものの写し\n申請する月によって提出していただく年度が変わります。詳しくはお問い合わせください。\n\n医師が栄養強化の必要を認めた意見書（乳児の場合）\n養育医療または栄養補給が必要と医師が認めた意見書が必要となります。\n意見書の様式は、各保健福祉センターでお配りしています。\n病院でもらえる場合もありますが、手数料がかかることがありますので、事前に病院にご確認ください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.hachioji.tokyo.jp/kurashi/zeikin/002/002/p012233.html",
+          "title": "市民税・都民税課税（非課税）証明書 （所得の証明）"
+        },
+        {
+          "uri": "https://www.city.hachioji.tokyo.jp/kurashi/welfare/007/003/p003919.html",
+          "title": "生活保護制度の概要"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://kosodate.city.hachioji.tokyo.jp/scene/akachangaumaretara/akachannokenkokanri/1308.html",
+        "title": "妊産婦・乳幼児保健指導、母子栄養食品の支給"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康医療部大横保健福祉センター（保健担当）",
+        "contactPhone": "042-625-9200",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform450600.html",
+        "contactComment": "ファックス：042-627-5887",
+        "zipCode": "1920062",
+        "contactAddress": "八王子市大横町11-35"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+4+UM34",
+        "organization": "1000020132012",
+        "compartment": "健康医療部大横保健福祉センター（保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-04-23",
+      "odInformation": {
+        "updateDate": "2024-07-18",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "休日救急診療"
+      },
+      "summary": "八王子市では、日曜日・祝日・年末年始に、市内医療機関の当番制で、原則午前９時から午後５時に診療を行っています。",
+      "description": "こどもの救急 もしものときに（リンク集）\n更新日：平成28年6月29日 ページID：P0005724 印刷する\nこどもの救急\nこどもの救急\n厚生労働省研究班 社団法人 日本小児科学会により監修されたホームページです。生後1か月から6歳のお子さんを対象年齢とした「おかあさんのための救急、予防サイト」です。\n\nこどもの救急;http://kodomo-qq.jp/(外部リンク)\n知って安心 暮らしの中の医療情報ナビ\n東京都が作成した冊子「知って安心暮らしの中の医療情報ナビ」の内容をアニメーション形式とテキスト形式でご覧いただけます\n\n知って安心 暮らしの中の医療情報ナビ;http://www.fukushihoken.metro.tokyo.jp/inavi/(外部リンク)\n東京都 こども医療ガイド\nこのホームページに掲載されている内容は、 医師、保健師などにより作成されています。\nお子様の保護者の皆様などが病気やケア、 育児などについて勉強されるに際して、その 支援や参考になることを目指しています。\n\n内容は、家庭向けの医学書やガイドと同様に一般的な知識の提供です。\n特に症状に対する対処のしかたをご案内する「病気やケガの対処のしかた」は、皆様の判断の参考として提供するものです。お子様の症状をみて医師がおこなう診断ではありません。\nこのホームページは、緊急時ではなく少し気がかりな点があるときや、また日頃の余裕のある時間に、お子様の病気やケア、育児の勉強の一環として使用しましょう。また会話タイプは、お子様と一緒に楽しみながら使用すると楽しいでしょう。\n東京都 こども医療ガイド;http://www.guide.metro.tokyo.jp/(外部リンク)\nTOKYO子育て情報サービス\n東京都では、安心して子育てができるよう、妊娠、子育て及び事故防止等に関する情報を365日24時間、電話（音声自動応答）とファックスにより提供する「TOKYO子育て情報サービス」を行っています。\n\nTOKYO子育て情報サービス;http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/info_service/index.html (外部リンク)\n乳幼児期の事故防止学習ソフト「見つけて防ごう。子どもにとっての身近な危険」\n東京都では、多くの乳幼児が日常生活の中で事故に遭い、救急車で運ばれています。\n子どもの事故には、周りの大人が、子どもの年齢や成長段階に応じた特性と行動を知り、適切な対策をとることで、防げるものがあります。\nそこで、東京都では、子どもにとっての身近な危険を大人が実感することで、日常生活の中での事故防止対策に活かせるよう、学習ソフトを作成しました\n\n乳幼児期の事故防止学習ソフト「見つけて防ごう。子どもにとっての身近な危険」;http://www.fukushihoken.metro.tokyo.jp/kodomo/shussan/nyuyoji/jikoboushi.html (外部リンク)\n「子どもに安全をプレゼント」\n東京都が作成した乳幼児の事故防止のための普及啓発用リーフレットです。\n年齢発達に応じた子どもの事故防止策をチェックすることにより、実践的な知識が身につきます。\n\n「子どもに安全をプレゼント」;http://www.niph.go.jp/soshiki/shogai/jikoboshi/general/index.html(外部リンク)\n母と子の健康相談室（小児救急相談） ＃8000\n東京都では、保健所や保健センターが閉庁する時間帯に、母と子の健康に関する不安や悩みに対して電話相談を行っています。\n子どもの健康上の相談、育児相談、妊娠中の健康や生活の相談など、母と子の健康に関する相談に、経験豊富な保健師や助産師がお答えしています。\nまた、必要に応じて小児科医師が小児救急相談にお答えします。（電話相談のため、医師が診断をするものではありません。）\n\n母と子の健康相談室（小児救急相談）;http://www.fukushihoken.metro.tokyo.jp/kodomo/sodan/k_soudan.html(外部リンク)\n乳幼児の事故防止と災害対策について\n乳幼児期の事故防止学習ソフト\n乳幼児の事故防止教育ハンドブック\n子どもに安全をプレゼント\n東京都版チャイルドビジョン（幼児視界体験メガネ）\n地震がくる前に子どものためにできること\n妊産婦・乳幼児を守る災害対策ガイドライン\n災害体験に学ぶ（妊婦や乳幼児の保護者に伝えたいこと）\n妊婦・乳幼児の災害対策に関する都民アンケート集計結果\n都内区市町村の妊婦・乳幼児に関連した防災対策調査結果\n「子どもを守る災害対策検討会」名簿\n乳幼児の事故防止と災害対策について;http://www.fukushihoken.metro.tokyo.jp/kodomo/shussan/nyuyoji/index.html (外部リンク)",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "小児科・外科・内科",
+        "monetarySupport": null,
+        "materiallySupport": "小児科・外科・内科"
+      },
+      "cost": null,
+      "costConditions": "診療内容に応じて費用が発生します。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "市内医療機関（当番制）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "八王子市ホームページもしくは広報にて担当医療機関をご確認ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "保険証",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hachioji.tokyo.jp/emergency/medical/p033343.html",
+        "title": "休日救急診療"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "市内各医療機関",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "八王子市ホームページもしくは広報でご確認ください。",
+        "zipCode": null,
+        "contactAddress": "八王子市ホームページもしくは広報でご確認ください。"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+4+UM45",
+        "organization": "1000020132012",
+        "compartment": "健康医療部健康医療政策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-06-20",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

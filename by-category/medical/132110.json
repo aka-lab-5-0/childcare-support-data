@@ -1,0 +1,4258 @@
+{
+  "version": "2025-07-10T02:38:54.130Z",
+  "areaCode": "132110",
+  "areaName": "小平市",
+  "category": "medical",
+  "count": 31,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦訪問",
+        "shortName": "妊産婦訪問"
+      },
+      "summary": "妊産婦の方（妊娠中または出産後1年以内）を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、妊娠期間中や出産後の不安や悩みについての相談等を行います。",
+      "description": "健康状態の確認や必要な保健指導、妊娠期間中や出産後の不安や悩みについての相談等を行います。\nまた、新生児・産婦訪問として出産された全員の方に助産師や保健師が訪問しています。\n\n新生児・産婦訪問\n小平市こども家庭センターでは赤ちゃんやお母さんの健康のために、出産された全員の方に保健師や助産師が訪問しています。\n\n 訪問では、赤ちゃんの体重測定、育児の相談、お母さんの健康についての相談などができます。\n\n申請方法\n母子健康手帳交付時にお渡ししている「母と子の保健バッグ」に同封しているお誕生連絡票（出生通知票）を出産後1か月以内に同封の返信用封筒でこども家庭センター（健康センター内）まで郵送してください。（封筒の差出有効期間を経過しても、そのまま使用できますので、切手を貼らずに投函してください。）\n\n（注）紛失した場合には下の添付ファイル「お誕生連絡票」をプリントアウトしてお使いください。\n\n対象者\n生後4か月に達する日までの全ての方\n\n訪問者\n保健師や助産師が訪問します。（小平市職員証や訪問指導員証を携帯しています。） \n\n添付ファイル\nお誕生連絡票（PDF 571.7KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/6110/006110/att_0000005.pdf",
+      "target": {
+        "targetPersons": "妊産婦の方（妊娠中または出産後1年以内）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "訪問して、妊娠期間中や出産後の不安や悩みについての相談等を行います。",
+        "monetarySupport": null,
+        "materiallySupport": "訪問して、妊娠期間中や出産後の不安や悩みについての相談等を行います。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "妊産婦の方または代理人",
+      "procedureMethod": "手続き窓口に電話等で連絡してください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/006/006110.html",
+        "title": "新生児・産婦訪問"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健担当",
+        "contactPhone": "042-346-3701",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM11",
+        "organization": "2000020132110",
+        "compartment": "こども家庭センター母子保健担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-16",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条（妊産婦の訪問指導等）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て支援拠点・地域子育て支援センター",
+        "shortName": "小平市子ども家庭支援センター"
+      },
+      "summary": "乳幼児と保護者の遊び場、仲間づくりの場である子育て交流広場を常設しています。子育ての不安・悩みの相談もできます。\nまた、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+      "description": "ままごとコーナー、絵本コーナー、制作コーナー、赤ちゃんコーナーなどいろいろなコーナーとおもちゃを用意しています。授乳ができる場所もあります。\nまた、子どもの発達講座をはじめとした多くの講座や季節の行事などのイベントを行っています。詳しくは、小平市子ども家庭支援センターホームページ（外部リンク）;http://fukushi.unchusha.com/kodomokatei_kodaira/toppage.htmlをご覧ください。",
+      "target": {
+        "targetPersons": "市内に居住する乳幼児とその保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "乳幼児と保護者の遊び場、仲間づくりの場の提供。\n子育てに関する相談も行っています。",
+        "monetarySupport": null,
+        "materiallySupport": "乳幼児と保護者の遊び場、仲間づくりの場の提供。\n子育てに関する相談も行っています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "小平市子ども家庭支援センター",
+        "implementationAddress": "小平市小川東町4-2-1　小平元気村おがわ東２階"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "18:00",
+        "condiutilizationConditionstions": "開館日\n火曜日から土曜日まで（祝日、年末年始を除く）\n開館時間\n午前10時から午後6時まで"
+      },
+      "specificDate": null,
+      "holiday": "日曜日、月曜日、祝日、12月29日から1月3日までの年末年始",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "http://www.fukushihoken.metro.tokyo.jp/jicen/",
+          "title": "東京都児童相談センター（外部リンク）"
+        },
+        {
+          "uri": "http://fukushi.unchusha.com/kodomokatei_kodaira/toppage.html",
+          "title": "小平市子ども家庭支援センターホームページ（外部リンク）"
+        },
+        {
+          "uri": "http://www.fukushihoken.metro.tokyo.jp/jicen/info/jisou_info/kodaira.html",
+          "title": "東京都小平児童相談所（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/003/003608.html",
+          "title": "子育て相談一覧"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/003/003792.html",
+        "title": "小平市子ども家庭支援センター"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小平市子ども家庭支援センター",
+        "contactPhone": "042-348-2100",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-348-2101",
+        "zipCode": "1870031",
+        "contactAddress": "小平市小川東町4-2-1　小平元気村おがわ東２階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM110",
+        "organization": "2000020132110",
+        "compartment": "小平市子ども家庭支援センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-10-22",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法、児童福祉法",
+        "regulationArticle": "第6条の3第6項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小児科救急",
+        "shortName": "救急病院"
+      },
+      "summary": "小平市では、市内の小児科医がローテーションを組んで、休日や夜間に、赤ちゃんやお子さんが救急の際の診療を行っています。",
+      "description": "休日・準夜応急診療と救急病院\n緊急時に受診できる医療機関を紹介します。\n関連リンク\n医療情報ネット\n医療機関の情報が検索できます\n\n診療中の医療機関をさがす\n自宅や勤務先などの近くの医療機関をさがす\n診療科目や診療の領域でさがす\n対応できる外国語でさがす\n詳しくは、医療情報ネットのページ（外部リンク）;https://www.iryou.teikyouseido.mhlw.go.jp/をご覧ください。\n\n東京消防庁救急相談センター「東京版救急受診ガイド」\n病院へ行くか　救急車を呼ぶか　急な病気やけがで迷ったら\n詳しくは、東京版救急受診ガイドのページ（外部リンク）;http://www.tfd.metro.tokyo.jp/hp-kyuuimuka/guide/main/index.htmlをご覧ください。\n\nこどもの救急　おかあさんのための救急、予防サイト\nお子さんの症状にあわせた対処方法が検索できます。\n詳しくは、公益社団法人日本小児科学会こどもの救急のページ（外部リンク）;http://kodomo-qq.jp/をご覧ください。\n\n救急病院\n一橋病院（外部リンク）;https://www.hitotsubashi-hp.or.jp/\n所在地\n小平市学園西町1-2-25\n電話番号\n042-343-1311\n\n24時間救急体制（東京都指定二次救急医療機関）\n曜日により勤務医師の診療科目が異なりますので、事前に電話での確認をお願いします。\n\n公立昭和病院（外部リンク）;https://www.kouritu-showa.jp/\n所在地\n小平市花小金井8-1-1\n電話番号\n042-461-0052\n内科、小児科、外科、産婦人科、脳神経外科等について、24時間体制で行っています。\n\nその他応急診療・救急病院等のお問い合わせ\n厚生労働省新型コロナウイルス感染症相談窓口\n電話番号\n0120-565-653\n\n小平消防署\n電話番号\n042-341-0119\n東京消防庁テレホンサービス\n電話番号\n042-521-2323\n東京消防庁救急相談センター\n電話番号\n♯7119（携帯電話、PHS、プッシュ回線）または、042-521-2323\n東京都保健医療情報センター\n電話番号\n03-5272-0303",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "救急病院\n一橋病院（外部リンク）;https://www.hitotsubashi-hp.or.jp/\n所在地\n小平市学園西町1-2-25\n電話番号\n042-343-1311\n\n24時間救急体制（東京都指定二次救急医療機関）\n曜日により勤務医師の診療科目が異なりますので、事前に電話での確認をお願いします。\n\n公立昭和病院（外部リンク）;https://www.kouritu-showa.jp/\n所在地\n小平市花小金井8-1-1\n電話番号\n042-461-0052\n内科、小児科、外科、産婦人科、脳神経外科等について、24時間体制で行っています。",
+        "monetarySupport": null,
+        "materiallySupport": "救急病院\n一橋病院（外部リンク）;https://www.hitotsubashi-hp.or.jp/\n所在地\n小平市学園西町1-2-25\n電話番号\n042-343-1311\n\n24時間救急体制（東京都指定二次救急医療機関）\n曜日により勤務医師の診療科目が異なりますので、事前に電話での確認をお願いします。\n\n公立昭和病院（外部リンク）;https://www.kouritu-showa.jp/\n所在地\n小平市花小金井8-1-1\n電話番号\n042-461-0052\n内科、小児科、外科、産婦人科、脳神経外科等について、24時間体制で行っています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "一橋病院,公立昭和病院",
+        "implementationAddress": "小平市学園西町1-2-25,小平市花小金井8-1-1"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "24時間救急体制,24時間体制"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "電話番号\n042-343-1311\n曜日により勤務医師の診療科目が異なりますので、事前に電話での確認をお願いします。\n\n電話番号\n042-461-0052",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "http://kodomo-qq.jp/",
+          "title": "公益社団法人日本小児科学会こどもの救急のページ（外部リンク）"
+        },
+        {
+          "uri": "http://www.tfd.metro.tokyo.jp/hp-kyuuimuka/guide/main/index.html",
+          "title": "東京版救急受診ガイドのページ（外部リンク）"
+        },
+        {
+          "uri": "https://www.iryou.teikyouseido.mhlw.go.jp/",
+          "title": "医療情報ネットのページ（外部リンク）"
+        },
+        {
+          "uri": "https://www.kouritu-showa.jp/",
+          "title": "公立昭和病院（外部リンク）"
+        },
+        {
+          "uri": "https://www.hitotsubashi-hp.or.jp/",
+          "title": "一橋病院（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/017/017073.html",
+        "title": "休日・準夜応急診療と救急病院"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康推進課予防担当",
+        "contactPhone": "042-346-3700",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM114",
+        "organization": "2000020132110",
+        "compartment": "健康推進課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-17",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関する相談窓口一覧",
+        "shortName": "相談窓口の一覧"
+      },
+      "summary": "小平市内の子育てに関する相談窓口の一覧です。",
+      "description": "相談窓口の一覧\nお子さんのことで心配なことがある、子育てのことで悩んでいる・困っているなど、ご相談ください。\n\n小平市の相談窓口\n子ども家庭支援センター\n0歳から18歳までの子どもと家庭の総合相談窓口です。\n詳しくは子ども家庭支援センター【相談・交流】;https://www.city.kodaira.tokyo.jp/kurashi/000/000225.htmlをご覧ください。\n\n電話：042-348-2102\n開館日：火曜～土曜（祝日・年末年始を除く）10時～18時\n\nティーンズ相談室　ユッカ\n小平市内にお住いの中学生から19歳までの方の相談窓口です。家族のこと、自分自身のこと、学校のこと、友達のこと、進学のこと…お子さんからも相談を受け付けています。\n\n詳しくはティーンズ相談室;https://www.city.kodaira.tokyo.jp/kurashi/053/053932.htmlをご覧ください。\n\n電話：042-313-2391\n\n開館日：水曜・金曜;13時～19時、土曜;10時～18時、木曜;13時～18時（電話相談のみ）\n\nお母さんとお子さんの健康相談（健康センター）\n保健師、助産師、管理栄養士、歯科衛生士が相談に応じます。\n詳しくはお母さんとお子さんの健康相談;https://www.city.kodaira.tokyo.jp/kurashi/049/049419.htmlをご覧ください。\n\n電話：042-346-3701\n月曜～金曜（祝日、年末年始を除く）8時30分～17時\n\n女性相談\n専門相談員が、女性の悩みごと（生き方、家族、職場の悩み、配偶者、交際相手からの暴力など）に応じます。\n詳しくは女性相談室;https://www.city.kodaira.tokyo.jp/kurashi/051/051382.htmlをご覧ください。\n\n電話：042-345-2415\n\n月曜（祝日、年末年始を除く）10時～18時\n火曜～土曜（祝日、年末年始を除く）10時～16時\nひとり親相談\nひとり親家庭の悩みごと(生活・住宅・離婚・養育・就労など）について、情報提供・相談支援をを行っています。詳しくはひとり親相談;https://www.city.kodaira.tokyo.jp/kurashi/049/049815.htmlをご覧ください。\n\n電話：042-341-1211　内線2442\n月曜～金曜（祝日、年末年始を除く）8時30分～16時\n\n教育相談室\n就学後のお子さんの性格や行動で気になること、勉強のこと、その他教育上の問題で心配なことに、教育相談員が相談に応じます。\n詳しくは教育相談;https://www.city.kodaira.tokyo.jp/kurashi/001/001254.htmlをご覧ください。\n\n電話：042-343-9411\n月曜～金曜（祝日、年末年始を除く）11時～18時（水曜は14時～18時）\n(注)電話相談　10時30分～18時(注)受付は17時30分まで（水曜は13時～18時）\n\n児童発達支援センター\n就学前の児童を対象に療育を行うほか、18歳未満の子どもと家族を対象に、発達支援相談を受けるなど、さまざまな支援を行っています。\n\n詳しくは児童発達支援センターが開設しました;https://www.city.kodaira.tokyo.jp/kurashi/096/096822.htmlをご覧ください。\n\n電話：042-347-1131\n\n開館日：月曜～金曜（祝日・年末年始を除く）9時～17時\n\n児童館、子ども広場など\n児童館（乳幼児と保護者、小学生、中学生、高校生）\n遊びを通して、子どもたちの健やかな成長を図り、情操を豊かにすることを目的とした施設です。詳しくは児童館;https://www.city.kodaira.tokyo.jp/kurashi/003/003829.htmlをご覧ください。\n\n花小金井南児童館　電話 042-461-9988\n小川町二丁目児童館　電話 042-345-6454\n小川町一丁目児童館　電話 042-347-2428\n子ども広場（乳幼児と保護者、小学生、中学生対象）\n専門のスタッフが子育ての相談、保護者の交流、子どもの遊び指導、子育て情報の提供、講習会などを行っています。詳しくは子ども広場;https://www.city.kodaira.tokyo.jp/kurashi/000/000216.htmlをご覧ください。\n\nその他の相談先一覧\n東京都小平児童相談所（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/jicen/info/jisou_info/kodaira.html\n原則18歳未満の子供に関する相談や通告について、子供本人・家族・学校の先生・地域の方々など、どなたからも受け付けています。虐待相談、育成相談、障がい相談、非行相談、里親に関する相談ができます。\n\n子ゴコロ・親ゴコロ相談＠東京（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/katei/linesoudan.html\n無料通話アプリLINE（ライン）を利用した子どもや保護者からの相談窓口を開設しています。子育ての悩みや困っていることなども、LINEでなら話せるかもしれません。ひとりで抱え込まず相談ください。\n\n4152（よいこに）電話相談（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/jicen/annai/4152.html\n東京都児童相談センターでは、18歳未満のお子さんに関するあらゆる相談を受けています。子供からの相談、親からの相談を受け付けています。\n\n東京都教育相談センター（外部リンク）;https://e-sodan.metro.tokyo.lg.jp/\n幼児から高校生相当年齢までの、友人関係やいじめに関する相談、子育てに関する相談や、学校生活に関する相談、ヤングケアラーに起因する相談など、様々な相談を受け付けています。\n\nいじめ相談ホットライン\n電話：0120-53-8288（24時間対応）\n警視庁立川少年センター（外部リンク）;https://www.wakapota.metro.tokyo.lg.jp/org/250/\n子どもの非行などの問題でお悩みの方や、いじめや犯罪等の被害に遭い、精神的ショックを受けている少年のために、心理専門の職員が相談に応じています。\n\nこども相談室（一般社団法人　東京臨床心理士会）（外部リンク）;https://www.tsccp.jp/k-s/\nいじめや友人関係で悩むお子さんや、子育てに悩むご家族からの相談を臨床心理士がお受けします。\n\n子どもの悩みごと相談（第二東京弁護士会）（外部リンク）;https://niben.jp/legaladvice/soudan/kojin/kodomo.html\n子どもやそのご両親からの相談をお受けしています。いじめ・虐待・少年事件、家族の問題、無戸籍問題など、相談に応じています。\n\n子どもの人権110番（法務省人権擁護局）（外部リンク）;https://www.moj.go.jp/JINKEN/jinken112.html\nともだちから いじめられて がっこうにいきたくない、いえのひとに いやなことをされる、ぶかつでぼうりょく・ぼうげんをうけているなど、このような なやみをそうだんできます。こどものじんけんをまもるためのそうだんです。大人からの相談もできます。\n\n東京都ひきこもりサポートネット（外部リンク）;https://www.hikikomori-tokyo.jp/howto/first.php\nひきこもりに関することで悩んでいるご本人やご家族・ごきょうだい、ご友人からの相談を受け付けています。\n\n都立小児総合医療センター（こころの電話相談室）（外部リンク）;https://www.wakapota.metro.tokyo.lg.jp/org/2435/\n幼児（3歳前後）から高校生までの、お子さんの行動やこころの発達・問題に関する相談を受け付けています。\n\n東京こどもネット・ケータイヘルプデスク　こたエール（外部リンク）;https://www.tokyohelpdesk.metro.tokyo.lg.jp/helpdesk/\nインターネットや携帯電話でのトラブルなどで困っている都内に在学、在勤、在住している方のための相談窓口です。\n\n子供の健康相談室（小児救急相談）（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/k_soudan.html\n子どもの健康、救急に関する相談に関する相談に看護師や保健師等が応じています。また、必要に応じて小児科医が対応します。\n\nTOKYO子育て情報サービス（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/info_service/info-service.html\n　東京都では、安心して子育てができるよう、妊娠、子育て及び事故防止等に関する情報をインターネットにより提供する「TOKYO子育て情報サービス」を行っています。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "小平市の相談窓口\n子ども家庭支援センター\n0歳から18歳までの子どもと家庭の総合相談窓口です。\n詳しくは子ども家庭支援センター【相談・交流】;https://www.city.kodaira.tokyo.jp/kurashi/000/000225.htmlをご覧ください。\n\n電話：042-348-2102\n開館日：火曜～土曜（祝日・年末年始を除く）10時～18時\n\nティーンズ相談室　ユッカ\n小平市内にお住いの中学生から19歳までの方の相談窓口です。家族のこと、自分自身のこと、学校のこと、友達のこと、進学のこと…お子さんからも相談を受け付けています。\n\n詳しくはティーンズ相談室;https://www.city.kodaira.tokyo.jp/kurashi/053/053932.htmlをご覧ください。\n\n電話：042-313-2391\n\n開館日：水曜・金曜;13時～19時、土曜;10時～18時、木曜;13時～18時（電話相談のみ）\n\nお母さんとお子さんの健康相談（健康センター）\n保健師、助産師、管理栄養士、歯科衛生士が相談に応じます。\n詳しくはお母さんとお子さんの健康相談;https://www.city.kodaira.tokyo.jp/kurashi/049/049419.htmlをご覧ください。\n\n電話：042-346-3701\n月曜～金曜（祝日、年末年始を除く）8時30分～17時\n\n女性相談\n専門相談員が、女性の悩みごと（生き方、家族、職場の悩み、配偶者、交際相手からの暴力など）に応じます。\n詳しくは女性相談室;https://www.city.kodaira.tokyo.jp/kurashi/051/051382.htmlをご覧ください。\n\n電話：042-345-2415\n\n月曜（祝日、年末年始を除く）10時～18時\n火曜～土曜（祝日、年末年始を除く）10時～16時\nひとり親相談\nひとり親家庭の悩みごと(生活・住宅・離婚・養育・就労など）について、情報提供・相談支援をを行っています。詳しくはひとり親相談;https://www.city.kodaira.tokyo.jp/kurashi/049/049815.htmlをご覧ください。\n\n電話：042-341-1211　内線2442\n月曜～金曜（祝日、年末年始を除く）8時30分～16時\n\n教育相談室\n就学後のお子さんの性格や行動で気になること、勉強のこと、その他教育上の問題で心配なことに、教育相談員が相談に応じます。\n詳しくは教育相談;https://www.city.kodaira.tokyo.jp/kurashi/001/001254.htmlをご覧ください。\n\n電話：042-343-9411\n月曜～金曜（祝日、年末年始を除く）11時～18時（水曜は14時～18時）\n(注)電話相談　10時30分～18時(注)受付は17時30分まで（水曜は13時～18時）\n\n児童発達支援センター\n就学前の児童を対象に療育を行うほか、18歳未満の子どもと家族を対象に、発達支援相談を受けるなど、さまざまな支援を行っています。\n\n詳しくは児童発達支援センターが開設しました;https://www.city.kodaira.tokyo.jp/kurashi/096/096822.htmlをご覧ください。\n\n電話：042-347-1131\n\n開館日：月曜～金曜（祝日・年末年始を除く）9時～17時\n\n児童館、子ども広場など\n児童館（乳幼児と保護者、小学生、中学生、高校生）\n遊びを通して、子どもたちの健やかな成長を図り、情操を豊かにすることを目的とした施設です。詳しくは児童館;https://www.city.kodaira.tokyo.jp/kurashi/003/003829.htmlをご覧ください。\n\n花小金井南児童館　電話 042-461-9988\n小川町二丁目児童館　電話 042-345-6454\n小川町一丁目児童館　電話 042-347-2428\n子ども広場（乳幼児と保護者、小学生、中学生対象）\n専門のスタッフが子育ての相談、保護者の交流、子どもの遊び指導、子育て情報の提供、講習会などを行っています。詳しくは子ども広場;https://www.city.kodaira.tokyo.jp/kurashi/000/000216.htmlをご覧ください。\n\nその他の相談先一覧\n東京都小平児童相談所（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/jicen/info/jisou_info/kodaira.html\n原則18歳未満の子供に関する相談や通告について、子供本人・家族・学校の先生・地域の方々など、どなたからも受け付けています。虐待相談、育成相談、障がい相談、非行相談、里親に関する相談ができます。\n\n子ゴコロ・親ゴコロ相談＠東京（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/katei/linesoudan.html\n無料通話アプリLINE（ライン）を利用した子どもや保護者からの相談窓口を開設しています。子育ての悩みや困っていることなども、LINEでなら話せるかもしれません。ひとりで抱え込まず相談ください。\n\n4152（よいこに）電話相談（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/jicen/annai/4152.html\n東京都児童相談センターでは、18歳未満のお子さんに関するあらゆる相談を受けています。子供からの相談、親からの相談を受け付けています。\n\n東京都教育相談センター（外部リンク）;https://e-sodan.metro.tokyo.lg.jp/\n幼児から高校生相当年齢までの、友人関係やいじめに関する相談、子育てに関する相談や、学校生活に関する相談、ヤングケアラーに起因する相談など、様々な相談を受け付けています。\n\nいじめ相談ホットライン\n電話：0120-53-8288（24時間対応）\n警視庁立川少年センター（外部リンク）;https://www.wakapota.metro.tokyo.lg.jp/org/250/\n子どもの非行などの問題でお悩みの方や、いじめや犯罪等の被害に遭い、精神的ショックを受けている少年のために、心理専門の職員が相談に応じています。\n\nこども相談室（一般社団法人　東京臨床心理士会）（外部リンク）;https://www.tsccp.jp/k-s/\nいじめや友人関係で悩むお子さんや、子育てに悩むご家族からの相談を臨床心理士がお受けします。\n\n子どもの悩みごと相談（第二東京弁護士会）（外部リンク）;https://niben.jp/legaladvice/soudan/kojin/kodomo.html\n子どもやそのご両親からの相談をお受けしています。いじめ・虐待・少年事件、家族の問題、無戸籍問題など、相談に応じています。\n\n子どもの人権110番（法務省人権擁護局）（外部リンク）;https://www.moj.go.jp/JINKEN/jinken112.html\nともだちから いじめられて がっこうにいきたくない、いえのひとに いやなことをされる、ぶかつでぼうりょく・ぼうげんをうけているなど、このような なやみをそうだんできます。こどものじんけんをまもるためのそうだんです。大人からの相談もできます。\n\n東京都ひきこもりサポートネット（外部リンク）;https://www.hikikomori-tokyo.jp/howto/first.php\nひきこもりに関することで悩んでいるご本人やご家族・ごきょうだい、ご友人からの相談を受け付けています。\n\n都立小児総合医療センター（こころの電話相談室）（外部リンク）;https://www.wakapota.metro.tokyo.lg.jp/org/2435/\n幼児（3歳前後）から高校生までの、お子さんの行動やこころの発達・問題に関する相談を受け付けています。\n\n東京こどもネット・ケータイヘルプデスク　こたエール（外部リンク）;https://www.tokyohelpdesk.metro.tokyo.lg.jp/helpdesk/\nインターネットや携帯電話でのトラブルなどで困っている都内に在学、在勤、在住している方のための相談窓口です。\n\n子供の健康相談室（小児救急相談）（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/k_soudan.html\n子どもの健康、救急に関する相談に関する相談に看護師や保健師等が応じています。また、必要に応じて小児科医が対応します。\n\nTOKYO子育て情報サービス（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/info_service/info-service.html\n　東京都では、安心して子育てができるよう、妊娠、子育て及び事故防止等に関する情報をインターネットにより提供する「TOKYO子育て情報サービス」を行っています。",
+        "monetarySupport": null,
+        "materiallySupport": "小平市の相談窓口\n子ども家庭支援センター\n0歳から18歳までの子どもと家庭の総合相談窓口です。\n詳しくは子ども家庭支援センター【相談・交流】;https://www.city.kodaira.tokyo.jp/kurashi/000/000225.htmlをご覧ください。\n\n電話：042-348-2102\n開館日：火曜～土曜（祝日・年末年始を除く）10時～18時\n\nティーンズ相談室　ユッカ\n小平市内にお住いの中学生から19歳までの方の相談窓口です。家族のこと、自分自身のこと、学校のこと、友達のこと、進学のこと…お子さんからも相談を受け付けています。\n\n詳しくはティーンズ相談室;https://www.city.kodaira.tokyo.jp/kurashi/053/053932.htmlをご覧ください。\n\n電話：042-313-2391\n\n開館日：水曜・金曜;13時～19時、土曜;10時～18時、木曜;13時～18時（電話相談のみ）\n\nお母さんとお子さんの健康相談（健康センター）\n保健師、助産師、管理栄養士、歯科衛生士が相談に応じます。\n詳しくはお母さんとお子さんの健康相談;https://www.city.kodaira.tokyo.jp/kurashi/049/049419.htmlをご覧ください。\n\n電話：042-346-3701\n月曜～金曜（祝日、年末年始を除く）8時30分～17時\n\n女性相談\n専門相談員が、女性の悩みごと（生き方、家族、職場の悩み、配偶者、交際相手からの暴力など）に応じます。\n詳しくは女性相談室;https://www.city.kodaira.tokyo.jp/kurashi/051/051382.htmlをご覧ください。\n\n電話：042-345-2415\n\n月曜（祝日、年末年始を除く）10時～18時\n火曜～土曜（祝日、年末年始を除く）10時～16時\nひとり親相談\nひとり親家庭の悩みごと(生活・住宅・離婚・養育・就労など）について、情報提供・相談支援をを行っています。詳しくはひとり親相談;https://www.city.kodaira.tokyo.jp/kurashi/049/049815.htmlをご覧ください。\n\n電話：042-341-1211　内線2442\n月曜～金曜（祝日、年末年始を除く）8時30分～16時\n\n教育相談室\n就学後のお子さんの性格や行動で気になること、勉強のこと、その他教育上の問題で心配なことに、教育相談員が相談に応じます。\n詳しくは教育相談;https://www.city.kodaira.tokyo.jp/kurashi/001/001254.htmlをご覧ください。\n\n電話：042-343-9411\n月曜～金曜（祝日、年末年始を除く）11時～18時（水曜は14時～18時）\n(注)電話相談　10時30分～18時(注)受付は17時30分まで（水曜は13時～18時）\n\n児童発達支援センター\n就学前の児童を対象に療育を行うほか、18歳未満の子どもと家族を対象に、発達支援相談を受けるなど、さまざまな支援を行っています。\n\n詳しくは児童発達支援センターが開設しました;https://www.city.kodaira.tokyo.jp/kurashi/096/096822.htmlをご覧ください。\n\n電話：042-347-1131\n\n開館日：月曜～金曜（祝日・年末年始を除く）9時～17時\n\n児童館、子ども広場など\n児童館（乳幼児と保護者、小学生、中学生、高校生）\n遊びを通して、子どもたちの健やかな成長を図り、情操を豊かにすることを目的とした施設です。詳しくは児童館;https://www.city.kodaira.tokyo.jp/kurashi/003/003829.htmlをご覧ください。\n\n花小金井南児童館　電話 042-461-9988\n小川町二丁目児童館　電話 042-345-6454\n小川町一丁目児童館　電話 042-347-2428\n子ども広場（乳幼児と保護者、小学生、中学生対象）\n専門のスタッフが子育ての相談、保護者の交流、子どもの遊び指導、子育て情報の提供、講習会などを行っています。詳しくは子ども広場;https://www.city.kodaira.tokyo.jp/kurashi/000/000216.htmlをご覧ください。\n\nその他の相談先一覧\n東京都小平児童相談所（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/jicen/info/jisou_info/kodaira.html\n原則18歳未満の子供に関する相談や通告について、子供本人・家族・学校の先生・地域の方々など、どなたからも受け付けています。虐待相談、育成相談、障がい相談、非行相談、里親に関する相談ができます。\n\n子ゴコロ・親ゴコロ相談＠東京（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/katei/linesoudan.html\n無料通話アプリLINE（ライン）を利用した子どもや保護者からの相談窓口を開設しています。子育ての悩みや困っていることなども、LINEでなら話せるかもしれません。ひとりで抱え込まず相談ください。\n\n4152（よいこに）電話相談（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/jicen/annai/4152.html\n東京都児童相談センターでは、18歳未満のお子さんに関するあらゆる相談を受けています。子供からの相談、親からの相談を受け付けています。\n\n東京都教育相談センター（外部リンク）;https://e-sodan.metro.tokyo.lg.jp/\n幼児から高校生相当年齢までの、友人関係やいじめに関する相談、子育てに関する相談や、学校生活に関する相談、ヤングケアラーに起因する相談など、様々な相談を受け付けています。\n\nいじめ相談ホットライン\n電話：0120-53-8288（24時間対応）\n警視庁立川少年センター（外部リンク）;https://www.wakapota.metro.tokyo.lg.jp/org/250/\n子どもの非行などの問題でお悩みの方や、いじめや犯罪等の被害に遭い、精神的ショックを受けている少年のために、心理専門の職員が相談に応じています。\n\nこども相談室（一般社団法人　東京臨床心理士会）（外部リンク）;https://www.tsccp.jp/k-s/\nいじめや友人関係で悩むお子さんや、子育てに悩むご家族からの相談を臨床心理士がお受けします。\n\n子どもの悩みごと相談（第二東京弁護士会）（外部リンク）;https://niben.jp/legaladvice/soudan/kojin/kodomo.html\n子どもやそのご両親からの相談をお受けしています。いじめ・虐待・少年事件、家族の問題、無戸籍問題など、相談に応じています。\n\n子どもの人権110番（法務省人権擁護局）（外部リンク）;https://www.moj.go.jp/JINKEN/jinken112.html\nともだちから いじめられて がっこうにいきたくない、いえのひとに いやなことをされる、ぶかつでぼうりょく・ぼうげんをうけているなど、このような なやみをそうだんできます。こどものじんけんをまもるためのそうだんです。大人からの相談もできます。\n\n東京都ひきこもりサポートネット（外部リンク）;https://www.hikikomori-tokyo.jp/howto/first.php\nひきこもりに関することで悩んでいるご本人やご家族・ごきょうだい、ご友人からの相談を受け付けています。\n\n都立小児総合医療センター（こころの電話相談室）（外部リンク）;https://www.wakapota.metro.tokyo.lg.jp/org/2435/\n幼児（3歳前後）から高校生までの、お子さんの行動やこころの発達・問題に関する相談を受け付けています。\n\n東京こどもネット・ケータイヘルプデスク　こたエール（外部リンク）;https://www.tokyohelpdesk.metro.tokyo.lg.jp/helpdesk/\nインターネットや携帯電話でのトラブルなどで困っている都内に在学、在勤、在住している方のための相談窓口です。\n\n子供の健康相談室（小児救急相談）（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/k_soudan.html\n子どもの健康、救急に関する相談に関する相談に看護師や保健師等が応じています。また、必要に応じて小児科医が対応します。\n\nTOKYO子育て情報サービス（外部リンク）;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/info_service/info-service.html\n　東京都では、安心して子育てができるよう、妊娠、子育て及び事故防止等に関する情報をインターネットにより提供する「TOKYO子育て情報サービス」を行っています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.moj.go.jp/JINKEN/jinken112.html",
+          "title": "子どもの人権110番（法務省人権擁護局）（外部リンク）"
+        },
+        {
+          "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/jicen/annai/4152.html",
+          "title": "4152（よいこに）電話相談（外部リンク）"
+        },
+        {
+          "uri": "https://niben.jp/legaladvice/soudan/kojin/kodomo.html",
+          "title": "子どもの悩みごと相談（第二東京弁護士会）（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/003/003829.html",
+          "title": "児童館"
+        },
+        {
+          "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/jicen/info/jisou_info/kodaira.html",
+          "title": "東京都小平児童相談所（外部リンク）"
+        },
+        {
+          "uri": "https://www.tokyohelpdesk.metro.tokyo.lg.jp/helpdesk/",
+          "title": "東京こどもネット・ケータイヘルプデスク　こたエール（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/096/096822.html",
+          "title": "児童発達支援センターが開設しました"
+        },
+        {
+          "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/sodan/k_soudan.html",
+          "title": "子供の健康相談室（小児救急相談）（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/000/000216.html",
+          "title": "子ども広場"
+        },
+        {
+          "uri": "http://www.tokyohelpdesk.jp/",
+          "title": "東京こどもネット・ケータイヘルプデスク（外部リンク）"
+        },
+        {
+          "uri": "https://www.tsccp.jp/k-s/",
+          "title": "こども相談室（一般社団法人　東京臨床心理士会）（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/053/053932.html",
+          "title": "ティーンズ相談室"
+        },
+        {
+          "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/info_service/info-service.html",
+          "title": "TOKYO子育て情報サービス（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/049/049815.html",
+          "title": "ひとり親相談"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/051/051382.html",
+          "title": "女性相談室"
+        },
+        {
+          "uri": "https://www.hikikomori-tokyo.jp/howto/first.php",
+          "title": "東京都ひきこもりサポートネット（外部リンク）"
+        },
+        {
+          "uri": "https://www.wakapota.metro.tokyo.lg.jp/org/2435/",
+          "title": "都立小児総合医療センター（こころの電話相談室）（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/000/000225.html",
+          "title": "子ども家庭支援センター【相談・交流】"
+        },
+        {
+          "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/katei/linesoudan.html",
+          "title": "子ゴコロ・親ゴコロ相談＠東京（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/001/001254.html",
+          "title": "教育相談"
+        },
+        {
+          "uri": "https://www.wakapota.metro.tokyo.lg.jp/org/250/",
+          "title": "警視庁立川少年センター（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/049/049419.html",
+          "title": "お母さんとお子さんの健康相談"
+        },
+        {
+          "uri": "https://e-sodan.metro.tokyo.lg.jp/",
+          "title": "東京都教育相談センター（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/051/051856.html",
+        "title": "相談窓口の一覧"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て支援課",
+        "contactPhone": "042-341-1211",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX:042-346-9200",
+        "zipCode": "1878701",
+        "contactAddress": "小平市小川町2-1333　市役所2階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM115",
+        "organization": "2000020132110",
+        "compartment": "子育て支援課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-02-06",
+      "odInformation": {
+        "updateDate": "2024-07-09",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小平市の子育てに関する相談",
+        "shortName": "子ども家庭支援センター"
+      },
+      "summary": "子ども家庭支援センターは、0歳から18歳までの子どもと家庭の総合窓口です。一人で抱え込まずご相談ください。",
+      "description": "子どもと家庭に関するあらゆる相談・子育て情報の提供や児童虐待に関する相談を行っています。\n電話、メール、来館での相談ができます。面接相談をご希望の方は事前にご連絡ください。\n\n虐待の疑いや発見した場合は、ご連絡ください。ご連絡頂いた方の情報がもれたり、虐待ではなかったとしても責任を問われたりすることはあります。\n(注)受付時間外は、児童相談所虐待対応ダイヤル189（いちはやく）へご連絡ください。",
+      "target": {
+        "targetPersons": "0歳から18歳までの子どもと家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "0歳から18歳まで"
+      },
+      "support": {
+        "description": "こどもと家庭の総合相談を行っています。",
+        "monetarySupport": null,
+        "materiallySupport": "電話相談\nメール相談\n来館での相談（面接を希望の場合は事前連絡をお願いします）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "18:00",
+        "condiutilizationConditionstions": "開館日\n火曜日から土曜日まで（祝日、年末年始を除く）\n開館時間\n午前10時から午後6時まで"
+      },
+      "specificDate": null,
+      "holiday": "日曜日、月曜日、祝日、12月29日から1月3日までの年末年始",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.fukunavi.or.jp/fukunavi/",
+          "title": "とうきょう福祉ナビゲーション（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/084/084591.html",
+        "title": "子育ての不安や悩みは子ども家庭支援センターへ"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小平市子ども家庭支援センター",
+        "contactPhone": "042-348-2102,042-347-3192",
+        "contactEx": null,
+        "contactEmail": "kodomokatei_kodaira@unchusha.com",
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "相談専用電話　042-348-2102\n虐待ほっとライン(虐待相談専用ダイヤル）　042-347-3192　FAX 042-348-2101",
+        "zipCode": "1870031",
+        "contactAddress": "小平市小川東町4-2-1小平元気村おがわ東2F"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM119",
+        "organization": "2000020132110",
+        "compartment": "小平市子ども家庭支援センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-02-06",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "新生児訪問",
+        "shortName": "新生児・産婦訪問"
+      },
+      "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+      "description": "小平市こども家庭センターでは赤ちゃんやお母さんの健康のために、出産された全員の方に保健師や助産師が訪問しています。\n訪問では、赤ちゃんの体重測定、育児の相談、お母さんの健康についての相談などを行います。",
+      "target": {
+        "targetPersons": "生後4か月に達する日までの児と母",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後4か月に達する日までの児と母"
+      },
+      "support": {
+        "description": "訪問では、赤ちゃんの体重測定、育児の相談、お母さんの健康についての相談などができます。",
+        "monetarySupport": null,
+        "materiallySupport": "訪問では、赤ちゃんの体重測定、育児の相談、お母さんの健康についての相談などができます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "生後4か月に達する日までの児の母、代理人",
+      "procedureMethod": "母子健康手帳交付時にお渡ししている「母と子の保健バッグ」に同封しているお誕生連絡票（出生通知票）を出産後1か月以内に同封の返信用封筒でこども家庭センター（健康センター内）まで郵送してください。（封筒の差出有効期間を経過しても、そのまま使用できますので、切手を貼らずに投函してください。）\n\n（注）紛失した場合には下の添付ファイル「お誕生連絡票」をプリントアウトしてお使いください。\nお誕生連絡票（PDF 571.7KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/6110/006110/att_0000005.pdf",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/006/006110.html",
+        "title": "新生児・産婦訪問"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健担当",
+        "contactPhone": "042-346-3701",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM13",
+        "organization": "2000020132110",
+        "compartment": "こども家庭センター母子保健担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-16",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第11条（新生児の訪問指導）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+        "shortName": "新生児・産婦訪問"
+      },
+      "summary": "生後4か月を迎えるまでの乳児がいるご家庭に保健師や助産師の専門職が訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+      "description": "新生児・産婦訪問\n印刷する\n\nツイートする;http://twitter.com/share?url=https%3A%2F%2Fwww.city.kodaira.tokyo.jp%2Fkurashi%2F006%2F006110.html&text=%E6%96%B0%E7%94%9F%E5%85%90%E3%83%BB%E7%94%A3%E5%A9%A6%E8%A8%AA%E5%95%8F%7c%E5%B0%8F%E5%B9%B3%E5%B8%82\nFacebookでシェアする;http://www.facebook.com/share.php?u=https%3A%2F%2Fwww.city.kodaira.tokyo.jp%2Fkurashi%2F006%2F006110.html\nLINEで送る;http://line.me/R/msg/text/?https%3A%2F%2Fwww.city.kodaira.tokyo.jp%2Fkurashi%2F006%2F006110.html\n出産された全員の方に助産師や保健師が訪問しています。\n\n新生児・産婦訪問\n小平市こども家庭センターでは赤ちゃんやお母さんの健康のために、出産された全員の方に保健師や助産師が訪問しています。\n\n 訪問では、赤ちゃんの体重測定、育児の相談、お母さんの健康についての相談などができます。\n\n訪問者\n保健師や助産師が訪問します。（小平市職員証や訪問指導員証を携帯しています。）\n\n添付ファイル",
+      "target": {
+        "targetPersons": "対象者\n生後4か月に達する日までの全ての方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申請方法\n母子健康手帳交付時にお渡ししている「母と子の保健バッグ」に同封しているお誕生連絡票（出生通知票）を出産後1か月以内に同封の返信用封筒でこども家庭センター（健康センター内）まで郵送してください。（封筒の差出有効期間を経過しても、そのまま使用できますので、切手を貼らずに投函してください。）\n\n（注）紛失した場合には下の添付ファイル「お誕生連絡票」をプリントアウトしてお使いください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産後1か月以内"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/006/006110.html",
+        "title": "新生児・産婦訪問"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭部 こども家庭センター母子保健担当",
+        "contactPhone": "電話：042-346-3701",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM14",
+        "organization": "2000020132110",
+        "compartment": "こども家庭部 こども家庭センター母子保健担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/04/16",
+      "odInformation": {
+        "updateDate": "2025/02/12",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第21条の10の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出産育児一時金",
+        "shortName": "出産育児一時金"
+      },
+      "summary": "国民健康保険に加入している方が出産したときは、その世帯主からの申請により、出産育児一時金を支給します。原則として直接支払制度により、医療機関に直接お支払いします。\nなお、直接支払制度に対応していない医療機関などで出産された場合も、「受取代理制度」や出産後の申請により、出産育児一時金の支給を受けることができます。",
+      "description": "出産育児一時金について\n国民健康保険の加入者が出産したとき、出産育児一時金として1児につき50万円(令和5年1月1日以降令和5年3月31日までの間の小平市の国民健康保険の被保険者の出産等は46万円、令和4年12月31日以前の出産等については42万円)が支給されます。\n\n(注)妊娠12週（85日）以上であれば、死産・流産・人工妊娠中絶の場合等でも支給されます。\n\n(注)他の健康保険等から出産育児一時金を受給する場合には、支給されません（健康保険等の加入期間が1年以上あり、退職後半年以内に出産した場合で、健康保険等からの受給を選択した場合）。\n\n支給方法は次のとおりです。\n\n直接支払制度\n出産育児一時金を市から直接医療機関等へ支払います（加入者と医療機関等の契約が必要）。出産費用が50万円を超える場合は、差額を医療機関等へお支払いください。\n\n受取代理制度\n一部の医療機関等では、直接支払制度を行っていない場合がありますが、同様な趣旨で、受取代理制度を利用できる医療機関等があります。\n\n市役所に手続きが必要な方\n令和5年4月1日以降の出産等直接支払い制度を利用した方で、出産費用が50万円に満たない場合（差額が支給されます）。\n令和4年12月31日以前の出産等で直接支払い制度を利用した方で、出産費用が42万円に満たない場合（差額が支給されます）。\n令和5年1月1日以降令和5年3月31日までの出産等で当時小平市の国民健康保険の被保険者であった場合\n直接支払い制度等の利用を希望しない場合、または出産した医療機関等が直接支払制度等に対応していない場合\n外国で出産した場合（出産した方が日本に再入国後に申請）\n(注)　外国で出産した場合は、従来の提出書類に加えて、「海外の医療機関等に対して照会を行うことの同意書」も必要となります。詳しくは、こちらをご確認ください。\n\n申請に必要なもの\n出産した方の保険証\n医療機関等の領収・明細書（出産費用に関するもの）\n印鑑\n振込先がわかるもの（通帳またはカード）\n直接支払制度の未利用が確認できる書類\n外国で出産された方は、再入国済のパスポート\n外国で出産された方は、海外の医療機関等に対して照会を行うことの同意書\n申請時にお子様の住民登録が小平市にない場合は母子健康手帳の出生届出済証明書または出生の証明書（死産・流産の場合は医師の証明書）\n健康保険等の加入期間が1年以上あり、退職後半年以内に出産した場合で、直接支払制度を未利用の場合は、健康保険等から出産育児一時金を支給されない旨の証明書\n申請内容により異なりますので、詳細についてはお問い合わせください。;https://www.city.kodaira.tokyo.jp/kurashi/075/075050.html\n\n申請する場所\n保険年金課（市役所1階）、東部・西部出張所\n添付ファイル\n出産育児一時金申請（請求）書（PDF 260.5KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/2474/002474/att_0000004.pdf\n出産育児一時金申請（請求書）記入見本（PDF 190.8KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/2474/002474/att_0000005.pdf\n海外の医療機関等に対して照会を行うことの同意書（PDF 92.8KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/2474/002474/att_0000003.pdf",
+      "target": {
+        "targetPersons": "国民健康保険の加入者が出産したとき",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "1児につき50万円(令和5年1月1日以降令和5年3月31日までの間の小平市の国民健康保険の被保険者の出産等は46万円、令和4年12月31日以前の出産等については42万円)",
+        "monetarySupport": "1児につき50万円(令和5年1月1日以降令和5年3月31日までの間の小平市の国民健康保険の被保険者の出産等は46万円、令和4年12月31日以前の出産等については42万円)",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "令和5年4月1日以降の出産等直接支払い制度を利用した方で、出産費用が50万円に満たない場合（差額が支給されます）。\n令和4年12月31日以前の出産等で直接支払い制度を利用した方で、出産費用が42万円に満たない場合（差額が支給されます）。\n令和5年1月1日以降令和5年3月31日までの出産等で当時小平市の国民健康保険の被保険者であった場合\n直接支払い制度等の利用を希望しない場合、または出産した医療機関等が直接支払制度等に対応していない場合\n外国で出産した場合（出産した方が日本に再入国後に申請）\n(注)　外国で出産した場合は、従来の提出書類に加えて、「海外の医療機関等に対して照会を行うことの同意書」も必要となります。詳しくは、こちらをご確認ください。",
+      "procedureMethod": "市役所に手続きが必要な方\n令和5年4月1日以降の出産等直接支払い制度を利用した方で、出産費用が50万円に満たない場合（差額が支給されます）。\n令和4年12月31日以前の出産等で直接支払い制度を利用した方で、出産費用が42万円に満たない場合（差額が支給されます）。\n令和5年1月1日以降令和5年3月31日までの出産等で当時小平市の国民健康保険の被保険者であった場合\n直接支払い制度等の利用を希望しない場合、または出産した医療機関等が直接支払制度等に対応していない場合\n外国で出産した場合（出産した方が日本に再入国後に申請）\n(注)　外国で出産した場合は、従来の提出書類に加えて、「海外の医療機関等に対して照会を行うことの同意書」も必要となります。詳しくは、こちらをご確認ください。\n\n申請に必要なもの\n出産した方の保険証\n医療機関等の領収・明細書（出産費用に関するもの）\n印鑑\n振込先がわかるもの（通帳またはカード）\n直接支払制度の未利用が確認できる書類\n外国で出産された方は、再入国済のパスポート\n外国で出産された方は、海外の医療機関等に対して照会を行うことの同意書\n申請時にお子様の住民登録が小平市にない場合は母子健康手帳の出生届出済証明書または出生の証明書（死産・流産の場合は医師の証明書）\n健康保険等の加入期間が1年以上あり、退職後半年以内に出産した場合で、直接支払制度を未利用の場合は、健康保険等から出産育児一時金を支給されない旨の証明書\n申請内容により異なりますので、詳細についてはお問い合わせください。\n\n申請する場所\n保険年金課（市役所1階）、東部・西部出張所",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "出産した方の保険証\n医療機関等の領収・明細書（出産費用に関するもの）\n印鑑\n振込先がわかるもの（通帳またはカード）\n直接支払制度の未利用が確認できる書類\n外国で出産された方は、再入国済のパスポート\n外国で出産された方は、海外の医療機関等に対して照会を行うことの同意書\n申請時にお子様の住民登録が小平市にない場合は母子健康手帳の出生届出済証明書または出生の証明書（死産・流産の場合は医師の証明書）\n健康保険等の加入期間が1年以上あり、退職後半年以内に出産した場合で、直接支払制度を未利用の場合は、健康保険等から出産育児一時金を支給されない旨の証明書\n申請内容により異なりますので、詳細についてはお問い合わせください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "保険年金課（市役所1階）、東部・西部出張所",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/075/075050.html",
+          "title": "詳しくは、こちらをご確認ください。"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/002/002474.html",
+        "title": "出産育児一時金について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保険年金課国民健康保険担当",
+        "contactPhone": "042-346-9529",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-9513",
+        "zipCode": "1878701",
+        "contactAddress": "小平市小川町2-1333　市役所1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM19",
+        "organization": "2000020132110",
+        "compartment": "保険年金課国民健康保険担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民健康保険法",
+        "regulationArticle": "第58条(第二節　その他の給付)"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003",
+          "015"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出産祝い",
+        "shortName": "出産・子育て応援ギフト"
+      },
+      "summary": "妊娠届出を提出し、マタニティサポート面談を受けられた方に５万円相当の出産応援ギフトをお渡しします。\nまた、出生連絡票を提出し、新生児・産婦訪問を受けた方に５万円相当の育児応援ギフトをお渡しします、",
+      "description": "誰もが安心して子どもを産み、育てられるよう、妊娠期から子育て期にわたる切れ目ない支援で子育てを応援します。保健師や助産師等の専門職による相談等を行う「伴走型相談支援」と「経済的支援」を一体的に実施します。\n\n経済的支援の内容\n出産応援ギフトは、小平市で妊娠届出をしてマタニティサポート面談を受けた方に妊婦1人につき5万円相当のギフトカードをお渡しします。ギフトはマタニティサポート面談の終了後に手渡しします。\n子育て応援ギフトは出産後、お誕生連絡票と申請書を一緒にご提出いただき、小平市で新生児・産婦訪問を受けた保護者に対し、子供一人につき５万円相当のギフトカードをお渡しします。ギフトは後日に郵送します。",
+      "target": {
+        "targetPersons": "出産応援ギフト\n妊娠届出を提出し、マタニティサポート面談を受けられた方\n\n子育て応援ギフト\n小平市の新生児・産婦訪問を受けられた方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "出産応援ギフト\n妊婦１人につき５万円相当のギフトカード\n\n子育て応援ギフト\n出生した子一人につき5万円相当のギフトカード",
+        "monetarySupport": "出産応援ギフト\n妊婦１人につき５万円相当のギフトカード\n\n子育て応援ギフト\n出生した子一人につき5万円相当のギフトカード",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "出産応援ギフト\n妊娠届出を提出し、マタニティサポート面談を受けられた方\n\n子育て応援ギフト\n新生児・産婦訪問を受ける方",
+      "procedureMethod": "出産応援ギフト\nマタニティサポート面談時に申請書を記入。\n\n子育て応援ギフト\n出産後、お誕生連絡票と申請書を一緒にご提出いただき、小平市で新生児・産婦訪問を受けた方にギフトをお送りします。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/082/082914.html",
+          "title": "小平市子育て支援アプリ"
+        },
+        {
+          "uri": "https://www.cfa.go.jp/policies/shussan-kosodate/",
+          "title": "【子ども家庭庁】妊婦・子育て家庭への伴走型相談支援と経済的支援の一体的実施（外部リンク）"
+        },
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/tokyo_shussankosodateouen.html",
+          "title": "東京都のホームページ（外部リンク）"
+        },
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/tokyo_shussanouen.html",
+          "title": "【東京都】東京都出産応援事業～赤ちゃんファースト～（令和５年3月31日までに出産された方向け）（外部リンク）"
+        },
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/tokyo_shussankosodateouen.html",
+          "title": "【東京都】出産・子育て応援事業～赤ちゃんファースト～（令和5年4月1日以降に出産される方向け）（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/104/104797.html",
+        "title": "出産・子育て応援事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健担当",
+        "contactPhone": "042-346-3701",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM21",
+        "organization": "2000020132110",
+        "compartment": "こども家庭センター母子保健担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-03",
+      "odInformation": {
+        "updateDate": "2024-07-16",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "出産・子育て応援交付金交付要綱",
+        "regulationArticle": "1～14"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出生届",
+        "shortName": "出生届"
+      },
+      "summary": "出生届とは、生まれてきたお子さんの氏名等を戸籍に記載するための手続きです。\n戸籍に記載されることで、生まれてきたお子さんの親族関係が公的に証明されます。",
+      "description": "出生届\n父母が外国籍の場合はこちら;https://www.city.kodaira.tokyo.jp/kurashi/103/103575.html\n\n届出期間\n生まれた日から14日以内（14日目が市役所の閉庁日にあたるときは、翌開庁日）\n届出場所\n父母の本籍地\n届出人の所在地\nお子さまの出生地\n上記のいずれかの市区町村役場に届出してください。\n届出人\n生まれた子の父又は母\n父と母が届出人になるときは、2人の署名と生年月日を記入してください。\n父又は母が届出人になれない場合は下記お問合せ先にご相談ください。\n届出に必要なもの\n出生届書1通（出生証明書と一体になっています。医療機関等で出産された場合、出生届の右側「出生証明書」に医師などが証明したものを渡されます。左側の「出生届」に必要事項を記入してください。）\n記載方法は法務省ウェブサイトをご確認ください。「法務省：出生届」（外部リンク）;https://www.moj.go.jp/ONLINE/FAMILYREGISTER/5-1.html\n母子健康手帳;https://www.city.kodaira.tokyo.jp/kurashi/008/008601.html\nその他の注意事項\nお子さまの名前に使える漢字かどうかを確認したい場合は、法務局ホームページの「戸籍統一文字情報」（外部リンク）;http://houmukyoku.moj.go.jp/homu/static/goannai_index_kosekikokuseki.htmlから検索できます。（ひらがな及びカタカナも使用することができます）\n日本人のお子さまが海外で生まれた場合にも届出が必要です。詳細は、法務省民事局のホームページ[国際結婚,海外での出生等に関する戸籍Q＆A]（外部リンク）;http://www.moj.go.jp/MINJI/minji15.html又は生まれた国の在外公館（外務省ホームページ）（外部リンク）;https://www.mofa.go.jp/mofaj/link/zaigai/index.htmlを確認してください。\n出生届を提出後、住民票に記載されてから概ね4週間程度でマイナンバーを通知する個人番号通知書が簡易書留にてご自宅に郵送されます。個人番号通知書は、マイナンバーを証明する書類としては使用できません。取り急ぎマイナンバーを知りたい又は証明したい場合は、住民登録のある市区町村にてマイナンバー入りの住民票を請求してください。\n出生にともなう手続きのチェックシートはこちらから;https://www.city.kodaira.tokyo.jp/kurashi/059/059423.html\n届書の記入や届出方法についてご不明な点がございましたら、ご提出前にお問い合わせください。\n小平市にて届出ができる場所と時間はこちら;https://www.city.kodaira.tokyo.jp/kurashi/000/000220.html\nよくある質問\n出生届を出したその日に住民票等の証明書がとれますか？;https://www.city.kodaira.tokyo.jp/faq/003/003963.html\n出生届を出したことを証明するもの;https://www.city.kodaira.tokyo.jp/faq/003/003959.html\n出生届を出してから戸籍ができるまでの期間;https://www.city.kodaira.tokyo.jp/faq/003/003955.html\n出生届を届出人が出しに行くことができない場合;https://www.city.kodaira.tokyo.jp/faq/003/003968.html\n出生届出済証明書の再発行について;https://www.city.kodaira.tokyo.jp/faq/079/079073.html",
+      "target": {
+        "targetPersons": "生まれた子の父又は母",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "生まれた子の父又は母、法定代理人、同居者、医師または助産師等",
+      "procedureMethod": "父母の本籍地\n届出人の所在地\nお子さまの出生地\n上記のいずれかの市区町村役場に届出してください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": "17:15",
+        "conditions": "生まれた日から14日以内（14日目が市役所の閉庁日にあたるときは、翌開庁日）"
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳;https://www.city.kodaira.tokyo.jp/kurashi/008/008601.html",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "市民課（平日の手続き時間以外は宿日直扱い）",
+      "relatedLink": [
+        {
+          "uri": "http://houmukyoku.moj.go.jp/homu/static/goannai_index_kosekikokuseki.html",
+          "title": "「戸籍統一文字情報」（外部リンク）"
+        },
+        {
+          "uri": "http://www.moj.go.jp/MINJI/minji15.html",
+          "title": "[国際結婚"
+        },
+        {
+          "uri": "https://www.moj.go.jp/ONLINE/FAMILYREGISTER/5-1.html",
+          "title": "「法務省：出生届」（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/faq/003/003963.html",
+          "title": "小平市にて届出ができる場所と時間はこちら"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/000/000220.html",
+          "title": "出生にともなう手続きのチェックシートはこちらから"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/faq/003/003968.html",
+          "title": "出生届を出してから戸籍ができるまでの期間"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/000/000067.html",
+          "title": "出生届出済証明書の再発行について"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/000/000068.html",
+          "title": "戸籍全部・個人事項証明書等の請求方法"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/059/059423.html",
+          "title": "生まれた国の在外公館（外務省ホームページ）（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/faq/003/003959.html",
+          "title": "出生届を出したその日に住民票等の証明書がとれますか？"
+        },
+        {
+          "uri": "https://www.mofa.go.jp/mofaj/link/zaigai/index.html",
+          "title": "海外での出生等に関する戸籍Q＆A]（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/faq/003/003955.html",
+          "title": "出生届を出したことを証明するもの"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/008/008601.html",
+          "title": "母子健康手帳"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/103/103575.html",
+          "title": "父母が外国籍の場合はこちら"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/faq/079/079073.html",
+          "title": "出生届を届出人が出しに行くことができない場合"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/003/003888.html",
+        "title": "出生届"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "市民課戸籍担当",
+        "contactPhone": "042-312-1083",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-342-1227",
+        "zipCode": "1878701",
+        "contactAddress": "小平市小川町2-1333　市役所1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM3",
+        "organization": "2000020132110",
+        "compartment": "市民課戸籍担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-01-23",
+      "odInformation": {
+        "updateDate": "2024-06-27",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "戸籍法",
+        "regulationArticle": "第49条、第52条"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "077"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "休日応急診療"
+      },
+      "summary": "小平市では、夜間や日曜・祝日、年末年始に、市内の医療機関の協力のもと、当番制で診療を行っています。\nなお、小児（15歳以下）のお子さんの救急の時は、小児科救急当番医をご利用ください。\n「小児科救急」https://www.city.kodaira.tokyo.jp/kurashi/017/017073.html",
+      "description": "休日応急診療と救急病院\n緊急時に受診できる医療機関を紹介します。\n\n休日応急診療について\n休日応急診療は小平市健康センター1階で実施しています。\n新型コロナウイルス感染症等の予防のため基本的な感染防止対策を徹底したうえで実施しており、施設の都合上、令和4年12月から当面の間は完全予約制で実施しています。\n・診療科目は内科、小児科となります。\n・予約方法は電話のみとなります。必ず事前に予約の上、来院をお願いします。（電話番号：042-346-3706）\n(注)事前の予約なしに直接来院されても、窓口での受付はできません。\n・受診の際は発熱や風邪症状の有無を問わず、マスクの着用にご協力をお願いします。\n・予約枠の都合上、受診をお断りすることもありますのであらかじめご了承ください。\n・応急診療所では無症状の方に関する検査は行っていません。発熱やのどの痛み等の症状があり医師の診療が必要な方のみとなります。\n・受診当日は診断を迅速に行うため、必要最低限の検査・投薬のみとなります。\n\n休日応急診療　\t日曜日、祝日\t、年末年始\n診療時間　午前9時～午後5時\n予約受付時間　午前8時45分～午後4時30分　電話予約のみ。\n電話予約のみ。\n\n診療場所\n一般社団法人小平市医師会 応急診療所\n(注)小平市医師会ホームページ（外部リンク）;http://www.kodaira-med.or.jp/でもご案内しています。\n\n所在地　小平市学園東町1-19-12　小平市健康センター内\n\n電話番号　042-346-3706\n完全予約制のため必ず事前に電話の上、予約してください。\n受診方法等については、電話でお伝えします。お伝えした内容に従い、受診をお願いします。\n(注)お問い合わせの状況により、電話がつながりにくい場合があります。\n（特に受付開始後1時間程度は電話が混み合います。）\n呼吸困難や強い倦怠感など、命にかかわるような場合は、迷わずに救急車（電話119）を呼んでください。\n発熱、風邪症状で受診される方へ\n・健康保険証、各種医療費受給者証、おくすり手帳を忘れずにお持ちください。\n・高校生以下の受診は、保護者の同伴が必要です。\n・PCR検査は実施しておりません。医師の判断により、新型コロナウイルス感染症とインフルエンザを同時に検査できる抗原定性検査等を実施します。\n・診察医の判断により、受診された方を救急病院等へ紹介、転送する場合があります。\n\n＜マイナンバーカードの健康保険証利用について＞\n・応急診療所は、マイナンバーカードを用いて医療情報を取得できる体制を整備しています。\n・受診者ご自身にマイナンバーカードを使用した受付の認証操作をお願いしています。\n・マイナンバーカードの健康保険証利用を通じて正確な情報（薬剤情報、特定健診情報及びその他必要な情報等）を取得、活用するために、マイナンバーカードの健康保険証利用についてご理解とご協力をお願いします。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "休日応急診療は小平市健康センター1階で実施しています。\n新型コロナウイルス感染症等の予防のため基本的な感染防止対策を徹底したうえで実施しており、施設の都合上、令和4年12月から当面の間は完全予約制で実施しています。\n\n・診療科目は内科、小児科となります。\n・予約方法は電話のみとなります。必ず事前に予約の上、来院をお願いします。\n（電話番号：042-346-3706）\n(注)事前の予約なしに直接来院されても、窓口での受付はできません。\n・受診の際は発熱や風邪症状の有無を問わず、マスクの着用にご協力をお願いします。\n・予約枠の都合上、受診をお断りすることもありますのであらかじめご了承ください。\n・応急診療所では無症状の方に関する検査は行っていません。発熱やのどの痛み等の症状があり医師の診療が必要な方のみとなります。\n・受診当日は診断を迅速に行うため、必要最低限の検査・投薬のみとなります。",
+        "monetarySupport": null,
+        "materiallySupport": "休日応急診療は小平市健康センター1階で実施しています。\n新型コロナウイルス感染症等の予防のため基本的な感染防止対策を徹底したうえで実施しており、施設の都合上、令和4年12月から当面の間は完全予約制で実施しています。\n\n・診療科目は内科、小児科となります。\n・予約方法は電話のみとなります。必ず事前に予約の上、来院をお願いします。\n（電話番号：042-346-3706）\n(注)事前の予約なしに直接来院されても、窓口での受付はできません。\n・受診の際は発熱や風邪症状の有無を問わず、マスクの着用にご協力をお願いします。\n・予約枠の都合上、受診をお断りすることもありますのであらかじめご了承ください。\n・応急診療所では無症状の方に関する検査は行っていません。発熱やのどの痛み等の症状があり医師の診療が必要な方のみとなります。\n・受診当日は診断を迅速に行うため、必要最低限の検査・投薬のみとなります。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "一般社団法人小平市医師会 応急診療所",
+        "implementationAddress": "小平市学園東町1-19-12　小平市健康センター内"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "||日程|診療時間|予約受付時間|\n|:----|:----|:----|:----|\n|休日応急診療|日曜日、祝日、<br>年末年始|午前9時～<br>午後5時|午前8時45分～<br>午後4時30分<br>電話予約のみ。|\n|準夜応急診療|月曜～日曜日<br>（年中無休）|午後7時30分～<br>午後10時30分|午後7時～<br>午後10時<br>電話予約のみ。|\n\n（注）12月29日から1月3日までの年末年始の診療時間は、午後6時30分から午後10時30分まで"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "042-346-3706\n\n完全予約制のため必ず事前に電話の上、予約してください。\n受診方法等については、電話でお伝えします。お伝えした内容に従い、受診をお願いします。\n(注)お問い合わせの状況により、電話がつながりにくい場合があります。\n（特に受付開始後1時間程度は電話が混み合います。）\n呼吸困難や強い倦怠感など、命にかかわるような場合は、迷わずに救急車（電話119）を呼んでください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "08:45",
+        "toYMD": null,
+        "toHM": "16:30",
+        "conditions": "||日程|診療時間|予約受付時間|\n|:----|:----|:----|:----|\n|休日応急診療|日曜日、祝日、<br>年末年始|午前9時～<br>午後5時|午前8時45分～<br>午後4時30分<br>電話予約のみ。|\n|準夜応急診療|月曜～日曜日<br>（年中無休）|午後7時30分～<br>午後10時30分|午後7時～<br>午後10時<br>電話予約のみ。|\n\n（注）12月29日から1月3日までの年末年始の診療時間は、午後6時30分から午後10時30分まで"
+      },
+      "electronicSubmission": false,
+      "belongings": "健康保険証,各種医療費受給者証,おくすり手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.kouritu-showa.jp/",
+          "title": "公立昭和病院（外部リンク）"
+        },
+        {
+          "uri": "http://www.kodaira-dent.org/emergency.html",
+          "title": "小平市歯科医師会ホームページの当番医の検索ページ（外部リンク）"
+        },
+        {
+          "uri": "http://kodomo-qq.jp/",
+          "title": "公益社団法人日本小児科学会こどもの救急のページ（外部リンク）"
+        },
+        {
+          "uri": "http://www.tfd.metro.tokyo.jp/hp-kyuuimuka/guide/main/index.html",
+          "title": "東京版救急受診ガイドのページ（外部リンク）"
+        },
+        {
+          "uri": "https://www.iryou.teikyouseido.mhlw.go.jp/",
+          "title": "医療情報ネットのページ（外部リンク）"
+        },
+        {
+          "uri": "https://www.hitotsubashi-hp.or.jp/",
+          "title": "一橋病院（外部リンク）"
+        },
+        {
+          "uri": "http://www.kodaira-med.or.jp/",
+          "title": "小平市医師会ホームページ（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/017/017073.html",
+        "title": "休日・準夜応急診療と救急病院"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康推進課予防担当",
+        "contactPhone": "042-346-3700",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM45",
+        "organization": "2000020132110",
+        "compartment": "健康推進課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-17",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月未満児）",
+        "shortName": "3～4か月児健康診査"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、健康保持と増進を目的として、3～4か月児健康診査を実施しています。",
+      "description": "問診\n計測（身長・体重・頭囲）\n小児科診察\n個別相談（保健師・管理栄養士・助産師・歯科衛生士）",
+      "target": {
+        "targetPersons": "生後3～4か月児\n生後4か月目にお越しいただきます。対象の方には生後3か月目（その月の10日前後）に、個別に通知を郵送します。\n\n（注）生後3～6か月未満まで受けることができます。対象月が都合の悪い方や転入してきた方は、下記問合せ先にご連絡ください。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": 5
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 3
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後3～５か月未満まで"
+      },
+      "support": {
+        "description": "小児科医による診察を実施しています。",
+        "monetarySupport": null,
+        "materiallySupport": "問診、身体計測、診察、個別相談"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "（とき）原則として第1水曜・第3木曜の午後\n（受付） 午後0時15分から1時15分まで\n＊所要時間は待ち時間を含めると、おおよそ1時間30分かかります。"
+      },
+      "implementationPlace": {
+        "implementationName": "小平市健康センター",
+        "implementationAddress": "小平市学園東町1-19-12"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "対象の方に個別に通知いたします。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳,3～4か月児健康診査・産婦健康相談アンケート,3～4か月児健康診査追加アンケート,健康保険証,バスタオル,お子さんのお出かけグッズ",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/007/007774.html",
+        "title": "3～4か月児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健担当",
+        "contactPhone": "042-346-3701",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM49",
+        "organization": "2000020132110",
+        "compartment": "こども家庭センター母子保健担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "6～7か月児健診、9～10か月児健診（個別健診）"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、健康保持と増進を目的として乳幼児健康診査（6～7か月児、9～10か月児）を医療機関で実施しています。",
+      "description": "6～7か月児健康診査、9～10か月児健康診査ともに、個別の医療機関における健診です。\n健康センターで行う3～4か月児健康診査の時に、受診票とご案内を配布します。医療機関にお問い合わせの上予約し、受診票を持って受診してください。\n受診内容は問診、身体計測、診察となります。\n(注)東京都内で転入した方は、そのままお持ちの受診票が使えます。\n(注)東京都外から転入した方は、こども家庭センター 母子保健担当までお問い合わせください。",
+      "target": {
+        "targetPersons": "（6～7か月児健康診査）6か月～8か月未満のお子さん\n（９～10か月児健康診査）9か月～11か月未満のお子さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "（6～7か月児健康診査）6か月～8か月未満のお子さん\n（9～10か月児健康診査）9か月～11か月未満のお子さん"
+      },
+      "support": {
+        "description": "乳幼児健康診査（6～7か月児、9～10か月児）を実施しています。",
+        "monetarySupport": null,
+        "materiallySupport": "問診、身体計測、診察"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "指定医療機関",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "東京都内で転入した方,東京都外から転入した方",
+      "procedureMethod": "健康センターで行う3～4か月児健康診査の時に、受診票とご案内を配布します。\n医療機関にお問い合わせの上予約し、受診票を持って受診してください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "受診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/048/048678.html",
+        "title": "6～7か月児健診、9～10か月児健診（個別健診）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健担当",
+        "contactPhone": "042-346-3701",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM50",
+        "organization": "2000020132110",
+        "compartment": "こども家庭センター母子保健担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-08",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "伴走型相談支援",
+        "shortName": "妊娠８か月アンケート"
+      },
+      "summary": "すべての妊婦さんと子育て家庭が安心して出産・子育てができるように、妊娠から出産・子育てまでの一貫した「伴走型相談支援」を実施しています。",
+      "description": "妊娠8か月ごろに子育て支援アプリを活用して、妊娠8か月アンケートを実施しています。ご希望の方には妊娠中に保健師や助産師による家庭訪問を行います。妊娠中の体調や出産に向けて不安なことがありましたら、お気軽にご相談ください。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "小平市では伴走型相談支援として、妊娠8か月ごろに子育て支援アプリを活用して、妊娠8か月アンケートを実施しています。",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠8か月アンケート"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "小平市子育て支援アプリをダウンロードのうえ、出産予定日やお子さまの誕生日などの会員情報を必ずご登録ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/tokyo_shussankosodateouen.html",
+          "title": "【東京都】出産・子育て応援事業～赤ちゃんファースト～（令和5年4月1日以降に出産される方向け）（外部リンク）"
+        },
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/tokyo_shussanouen.html",
+          "title": "【東京都】東京都出産応援事業～赤ちゃんファースト～（令和５年3月31日までに出産された方向け）（外部リンク）"
+        },
+        {
+          "uri": "https://www.cfa.go.jp/policies/shussan-kosodate/",
+          "title": "【子ども家庭庁】妊婦・子育て家庭への伴走型相談支援と経済的支援の一体的実施（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/104/104797.html",
+        "title": "出産・子育て応援事業"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/082/082914.html",
+          "title": "小平市子育て支援アプリ"
+        }
+      ],
+      "contact": {
+        "contactName": "こども家庭センター母子保健担当",
+        "contactPhone": "042-346-3701",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM5011",
+        "organization": "2000020132110",
+        "compartment": "こども家庭センター母子保健担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-03",
+      "odInformation": {
+        "updateDate": "2024-07-08",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "伴走型相談支援及び出産・子育て応援給付金の一体的実施事業の実施について（子発1226第1号 令和4年12月26日）",
+        "regulationArticle": "別紙：伴走型相談支援及び出産・子育て応援給付金の一体的実施事業実施要綱「伴走型相談支援」（別添１）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自立支援医療制度",
+        "shortName": "自立支援医療費制度（精神通院医療）のご案内"
+      },
+      "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+      "description": "自立支援医療費制度（精神通院医療）のご案内\n精神疾患のための診療費や薬代、デイケアや訪問看護に係る費用の自己負担を、原則3割から1割に軽減する制度です。\n\n東京都の審査により認定を受けた方には受給者証を交付します。\n\n対象者\n精神疾患を理由として、通院医療を継続的に必要とする方（てんかん診療を含む）\n\n注）世帯の所得や通院先により対象外となる場合があります。\n\n必要書類\n自立支援医療費（精神通院）支給認定申請書（障がい者支援課窓口にあります）\n所定様式の診断書（申請日から3か月以内に発行されたもの。有効期限内の更新申請の場合、診断書の提出は2年に1度です。）\n自立支援医療受給者証（精神通院）の原本（更新、再開申請の方）\n健康保険証（国民健康保険組合、後期高齢者医療制度の方は世帯全員分）、もしくは生活保護受給証明書\n市・都民税の課税状況が分かる書類\n印鑑\nマイナンバーが確認できるもの\n本人確認書類\n追加交付のための「理由書」（医師の指示により、複数の医療機関や薬局を利用の方、または訪問看護を利用する方のみ必要）\n注）市・都民税の課税状況が分かる書類について\n\n国民健康保険・国民健康保険組合、後期高齢者医療制度の方は、同じ保険に加入されている方全員分の課税状況の確認が必要です。社会保険、共済組合の方は、被保険者の課税状況の確認が必要です。\n\n該当年度の1月1日時点で住民票が小平市にあり、税の申告をしていれば、同意書に基づき税書類を省略することができます。\n\n申請方法\n必要書類をそろえ、障がい者支援課へ\n\n注）東部出張所、西部出張所、動く市役所では手続きや書類のお渡しはできません。\n\n精神障害者保健福祉手帳を同時申請される方へ\n精神障害者保健福祉手帳と同時申請（手帳も診断書で同日申請）する場合は、医療機関に「手帳用診断書」をご依頼ください。\n\n詳しくは、精神障害者保健福祉手帳のご案内;https://www.city.kodaira.tokyo.jp/kurashi/003/003637.htmlをご覧ください。",
+      "target": {
+        "targetPersons": "精神疾患を理由として、通院医療を継続的に必要とする方（てんかん診療を含む）\n\n注）世帯の所得や通院先により対象外となる場合があります。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "精神疾患のための診療費や薬代、デイケアや訪問看護に係る費用の自己負担を、原則3割から1割に軽減する制度です。\n\n東京都の審査により認定を受けた方には受給者証を交付します。",
+        "monetarySupport": "精神疾患のための診療費や薬代、デイケアや訪問看護に係る費用の自己負担を、原則3割から1割に軽減する制度です。\n\n東京都の審査により認定を受けた方には受給者証を交付します。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申請方法\n必要書類をそろえ、障がい者支援課へ\n\n注）東部出張所、西部出張所、動く市役所では手続きや書類のお渡しはできません。\n\n精神障害者保健福祉手帳を同時申請される方へ\n精神障害者保健福祉手帳と同時申請（手帳も診断書で同日申請）する場合は、医療機関に「手帳用診断書」をご依頼ください。\n\n詳しくは、精神障害者保健福祉手帳のご案内をご覧ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "必要書類\n所定様式の診断書（申請日から3か月以内に発行されたもの。有効期限内の更新申請の場合、診断書の提出は2年に1度です。）\n自立支援医療受給者証（精神通院）の原本（更新、再開申請の方）\n健康保険証（国民健康保険組合、後期高齢者医療制度の方は世帯全員分）、もしくは生活保護受給証明書\n市・都民税の課税状況が分かる書類\n印鑑\nマイナンバーが確認できるもの\n本人確認書類\n追加交付のための「理由書」（医師の指示により、複数の医療機関や薬局を利用の方、または訪問看護を利用する方のみ必要）\n注）市・都民税の課税状況が分かる書類について\n\n国民健康保険・国民健康保険組合、後期高齢者医療制度の方は、同じ保険に加入されている方全員分の課税状況の確認が必要です。社会保険、共済組合の方は、被保険者の課税状況の確認が必要です。\n\n該当年度の1月1日時点で住民票が小平市にあり、税の申告をしていれば、同意書に基づき税書類を省略することができます。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "障がい者支援課",
+      "relatedLink": [
+        {
+          "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/shougai/nichijo/tsuuin/seishintsuuin.html",
+          "title": "自立支援医療費制度（精神通院医療）について（東京都福祉保健局）（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/003/003641.html",
+          "title": "精神障害者保健福祉手帳のご案内"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/003/003641.html",
+        "title": "自立支援医療費制度（精神通院医療）のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "障がい者支援課サービス支援担当",
+        "contactPhone": "042-346-9542",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-9541",
+        "zipCode": "1878701",
+        "contactAddress": "小平市小川町2-1333　健康福祉事務センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM5037",
+        "organization": "2000020132110",
+        "compartment": "障がい者支援課サービス支援担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-03-23",
+      "odInformation": {
+        "updateDate": "2024-06-27",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律",
+        "regulationArticle": "第58条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "025",
+          "027"
+        ],
+        "targetCode": [
+          "087",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "1歳6か月児健康診査",
+        "shortName": "1歳6か月児健康診査"
+      },
+      "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。小平市では1歳6か月児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "問診・計測（身長・体重・頭囲）\n小児科診察\n歯科診察\n個別相談（保健師・管理栄養士・歯科衛生士）",
+      "target": {
+        "targetPersons": "1歳6か月以上2歳未満の幼児",
+        "lessThan": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1歳6か月以上2歳未満の幼児"
+      },
+      "support": {
+        "description": "小児科医による診察のほか、歯科健診も行います。",
+        "monetarySupport": null,
+        "materiallySupport": "問診・計測（身長・体重・頭囲）・小児科診察・歯科診察・個別相談（保健師・管理栄養士・歯科衛生士）"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "（とき）原則として、第2・4水曜日の午後\n（受付）　午後0時～1時30分\n（注）所要時間の目安は1時間30分程度ですが、場合により1時間30分以上かかることがあります。お時間に余裕を持ってお越しください。"
+      },
+      "implementationPlace": {
+        "implementationName": "小平市健康センター",
+        "implementationAddress": "小平市学園東町1-19-12"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "1歳6か月頃、個別に通知",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳,1歳6か月児健康診査アンケート,1歳6か月児健康診査追加アンケート,お子さんの健康保険証,替えのおむつ,お子さんのお出かけグッズ,（歯科健診を利用中の方のみ）お約束票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/007/007772.html",
+        "title": "1歳6か月児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健担当",
+        "contactPhone": "042-346-3701",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM51",
+        "organization": "2000020132110",
+        "compartment": "こども家庭センター母子保健担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-31",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "3歳児健康診査",
+        "shortName": "3歳児健康診査"
+      },
+      "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。小平市では3歳児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "問診\n計測（身長・体重）\n小児科診察\n歯科診察\n尿検査\n目の屈折検査・視力検査(必要時)\n聴覚検査（必要時）\n個別相談（保健師・管理栄養士・歯科衛生士）",
+      "target": {
+        "targetPersons": "3歳以上4歳未満の幼児\n健診時期は3歳2か月～3歳4か月頃",
+        "lessThan": {
+          "targetAge": 4,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "3歳以上4歳未満の幼児"
+      },
+      "support": {
+        "description": "小児科医による診察のほか、歯科健診も行います。",
+        "monetarySupport": null,
+        "materiallySupport": "問診・計測（身長・体重）・小児科診察・歯科診察・尿検査・目の屈折検査・視力検査(必要時)・聴覚検査（必要時）・個別相談（保健師・管理栄養士・歯科衛生士）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "（とき）原則として、第2・4木曜日の午後\n（受付）　午後0時10分から1時40分まで\n＊所要時間は、待ち時間を含めるとおおよそ1時間30分です。"
+      },
+      "implementationPlace": {
+        "implementationName": "小平市健康センター",
+        "implementationAddress": "小平市学園東町1-19-12"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "3歳1か月～3歳3か月頃、個別に通知",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳,3歳児健康診査アンケート,追加アンケート,目と耳のアンケート,お子さんの尿（持参できない方は、当日受付にお申し出ください）,健康保険証,（歯科健診を利用中の方のみ）お約束票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/006/006510.html",
+        "title": "3歳児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健担当",
+        "contactPhone": "042-346-3701",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM52",
+        "organization": "2000020132110",
+        "compartment": "こども家庭センター母子保健担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-18",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の乳幼児健診",
+        "shortName": "すこやか健診"
+      },
+      "summary": "お子さんの発達について心配がある方を対象に、専門の医師による健康診査と専門職による相談を行なっています。",
+      "description": "小児神経科医による診察、個別指導（理学療法士・作業療法士）、個別相談（保健師・管理栄養士・歯科衛生士）",
+      "target": {
+        "targetPersons": "就学前までの乳幼児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "小児神経科医による健康診査と専門職による相談を行なっています。",
+        "monetarySupport": null,
+        "materiallySupport": "小児神経科医による診察、個別指導（理学療法士・作業療法士）、個別相談（保健師・管理栄養士・歯科衛生士）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "（とき）原則として第1月曜日の午後"
+      },
+      "implementationPlace": {
+        "implementationName": "健康センター",
+        "implementationAddress": "小平市学園東町1-19-12"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "電話等で予約",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/054/054507.html",
+        "title": "すこやか健診"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健担当",
+        "contactPhone": "042-346-3701",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM53",
+        "organization": "2000020132110",
+        "compartment": "こども家庭センター母子保健担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-16",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（1～4歳児歯科健康診査）",
+        "shortName": "幼児歯科相談"
+      },
+      "summary": "2～3か月ごとに継続して歯科健診と歯みがき指導をうけることができます。",
+      "description": "2～3か月ごとに継続して歯科健診と歯みがき指導をうけることができます。",
+      "target": {
+        "targetPersons": "1歳から4歳1か月未満のお子さんと保護者",
+        "lessThan": {
+          "targetAge": 4,
+          "targetAgeOfMonths": 1
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1歳から4歳1か月未満のお子さん"
+      },
+      "support": {
+        "description": "2～3か月ごとに継続して歯科健診と歯みがき指導をうけることができます。",
+        "monetarySupport": null,
+        "materiallySupport": "2～3か月ごとに継続して歯科健診と歯みがき指導をうけることができます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "小平市健康センター",
+        "implementationAddress": "小平市学園東町1-19-12"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "火曜日　受付　午後1時15分～午後2時45分\n水曜日　受付　午前9時45分～午前11時15分\n木曜日　受付　午前9時45分～午前11時15分"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "初めての方のみ、こだっこWeb予約からお申し込みください。\n(ご都合が悪くなったときは、必ずキャンセルをお願いします。)\n２回目以降は歯科健診来所時に予約がとれます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/038/038525.html",
+        "title": "幼児歯科相談～1歳からの歯科健診～"
+      },
+      "formLink": [
+        {
+          "uri": "https://kodaira.city-ca.jp/",
+          "title": "こだっこWeb予約"
+        }
+      ],
+      "contact": {
+        "contactName": "こども家庭センター母子保健担当",
+        "contactPhone": "042-346-3705",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM792",
+        "organization": "2000020132110",
+        "compartment": "こども家庭センター母子保健担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-15",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後期間の国民年金保険料免除",
+        "shortName": "産前産後期間の免除"
+      },
+      "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+      "description": "国民年金保険料　産前産後期間の免除制度\n平成31年4月から、出産予定または出産したことによる、国民年金保険料の納付が免除される制度が開始しました。ご利用には、届出が必要です。\n\n産前産後期間の免除とは\n平成31年4月から、出産の予定日または出産日が属する月の前月から4か月間（産前産後期間）について、国民年金保険料が免除されます。なお、多胎妊娠の場合は、出産の予定日または出産日が属する月の3か月前から6か月間国民年金保険料が免除されます。\n\n免除された期間については、保険料を納付した期間として扱います。よって、産前産後期間の免除は、老齢基礎年金の受給額に反映されます。\n出産の定義\n妊娠85日（4か月）以上の分娩をいい、早産、死産、流産及び人工妊娠中絶を含みます。\n\n産前産後期間の免除の対象者\n以下の2点について該当する方\n\n小平市に住民記録（住民票）がある方\n国民年金第1号被保険者で出産日が平成31年2月1日以降の方\n「第2号被保険者（厚生年金加入者）」及び「第3号被保険者（第2号被保険者に扶養されている配偶者）」の方は届出できません。詳しくは、勤務先または配偶者の勤務先までご相談ください。\n注意事項\n被保険者の住民記録（住民票）に基づく届出となります。里帰り出産や国外出産等で一時的にお住まいの方（小平市に住民記録の無い方）の届出は受付できません。また、小平市に子のみの住民記録（住民票）があっても受付できません。\n平成31年2月1日～平成31年3月31日の期間においては、既に出産された子のみ対象となります。出産前（出産の予定日）を理由とした事前届出を受付できるのは、平成31年4月1日以降に出産の予定日のある方のみとなります。\n免除期間\n単胎の場合\n出産（予定）日が属する月の前月から4か月間\n（例）12月に出産した（または出産予定の）場合\n|8月|9月|10月|11月|12月|1月|2月|3月|\n|:----|:----|:----|:----|:----|:----|:----|:----|\n|―|―|―|該当|該当|該当|該当|―|\n出産（予定）日に属する月が12月となるため、前月の11月を起点として4か月の期間が免除となります。\n\n多胎の場合\n出産（予定）日が属する月の3か月前から6か月間\n（例）12月に出産した（または出産予定の）場合\n|8月|9月|10月|11月|12月|1月|2月|3月|\n|:----|:----|:----|:----|:----|:----|:----|:----|\n|―|該当|該当|該当|該当|該当|該当|―|\n出産（予定）日に属する月が12月となるため、3か月前の9月を起点として6か月の期間が免除となります。\n\n付加保険料（付加年金）について\n付加保険料（付加年金）;https://www.city.kodaira.tokyo.jp/kurashi/078/078463.htmlは免除の対象になりません（納付意思に基づくもののため）。免除に該当する期間については、別途納付する必要があります。\n\n納付を希望しない場合は、脱退（喪失）のお手続きをしてください。\n\nその他の制度との関係\n産前産後の免除に該当する期間について、他の制度の期間と重複した場合、以下のとおり優先順位があります。\n\n第2号被保険者（厚生年金加入者）・第3号被保険者（第2号被保険者に扶養されている配偶者）\n産前産後免除\n法定免除\n一般免除・納付猶予・学生納付特例\n各種取扱い\n既に納付をしていた場合\n免除に該当する期間を先に納付されていた場合、還付（返金）となります。届出後、日本年金機構より還付通知の送付を行いますので、必要事項を記入して日本年金機構へご返送ください。ただし、過去2年以内に未納期間があった場合は、還付より充当（過去の未納期間に充てること）が優先されます。\n\n還付及び充当の通知の発送は、日本年金機構に返送してから1～2か月後となります。\n\n口座振替やクレジットカードで納付されている場合も、上記と同様になります。産前産後の免除に該当する期間が終了した後、自動的に同じ口座やクレジットカードからの引き落としが再開されます。\n出産予定日が変更になった場合\n原則としてお手続きは不要となりますが、免除に該当する期間（月数）が増える場合に限り変更の届出をしていただくことができます。変更の際は、事前に窓口までご相談ください。\n\n年金の種類が変更になった場合\n 届出後、「第2号被保険者（厚生年金加入者）」または「第3号被保険者（第2号被保険者に扶養されている配偶者）」になった場合、お手続きは不要です。また、再度「第1号被保険者」になった場合でもお手続きは不要です（既に届出をした「第1号被保険者」の産前産後の免除に該当する期間が活かされるため）。\n\n年金受給額への影響について\n老齢基礎年金以外では、死亡一時金（老齢基礎年金を受け取る前に亡くなった方のいるご遺族への制度）や脱退一時金（外国籍の方が帰国されるときの制度）の保険料納付済み期間として参入されます。詳しくは、管轄の年金事務所までお問い合わせください。\n\n結果通知\n届出から1～2か月後に、日本年金機構から送付されます。\n\n提出書類\n国民年金　手続きに必要な届出書・申請書一覧;https://www.city.kodaira.tokyo.jp/kurashi/078/078472.html＞国民年金被保険者関係届（申出）書\n\n届出ができるとき\n出産予定日の6か月前から（出産後の手続き期限はありません。）\n\n届出に必要なもの\n本人が届出する場合\n本人確認ができる身分証明書;https://www.city.kodaira.tokyo.jp/kurashi/045/045570.html\n基礎年金番号が分かる書類（年金手帳、基礎年金番号通知書、納付書など）または、個人番号が確認できる書類（個人番号カード、通知カードなど）\n以下の（1）から（3）までの出産に係るいずれかの書類\n代理人が届出する場合\n委任状\n委任者（本人）の基礎年金番号やマイナンバー等が不明な場合には、委任者（本人）の本人確認書類の写し\n代理人の本人確認ができる身分証明書;https://www.city.kodaira.tokyo.jp/kurashi/045/045570.html\n以下の（1）から（3）までの出産に係るいずれかの書類\n（1）出産前に産前産後免除に係る届出を行う場合\n\n出産の予定日を確認できる書類（母子健康手帳、医療機関が発行した出産の予定日等の証明書その他の出産の予定日を明らかにすることができる書類）の写し\n（2）出産後に産前産後免除に係る届出を行う場合\n\n出産の日及び親子関係を明らかにする書類（戸籍謄（抄）本、戸籍記載事項証明書、出生届受理証明書、母子健康手帳、医療機関が発行した出産の日等の証明書その他の出産の日及び親子関係を明らかにすることができる書類）の写し\n郵送で届出する場合\n提出書類\n\n国民年金　手続きに必要な届出書・申請書一覧;https://www.city.kodaira.tokyo.jp/kurashi/078/078472.html＞国民年金被保険者関係届（申出）書の下記の部分について記入いただきますようお願いいたします。\n・届書の上部と下部の「太枠」欄（基礎年金番号や届出される方の氏名など）\n\n・届書の「産前産後免除該当届（14）」欄（分娩予定日など）\n\n・届書の「単体・多胎の別」欄（該当する番号にマル）\n\n本人確認ができる身分証明書のコピー\n当該日を確認できる以下の（1）から（3）までのいずれかの書類のコピー\n（1）出産前に産前産後免除に係る届の場合\n\n母子健康手帳の分娩予定日を記載したページと母子健康手帳の表紙\n\n（2）出産後に産前産後免除に係る届の場合\n\n母子健康手帳の出生届出済証明のページと母子健康手帳の表紙\n\n受付窓口\n保険年金課（本庁舎1階）\n武蔵野年金事務所\n注意事項\n東部出張所、西部出張所、動く市役所での受付はしていません。\n\n受付時間\n保険年金課\n月曜から金曜　午前8時30分から午後5時\n土曜　午前8時30分から午後0時15分\n武蔵野年金事務所\n直接お問合わせください。",
+      "target": {
+        "targetPersons": "以下の2点について該当する方\n\n小平市に住民記録（住民票）がある方\n国民年金第1号被保険者で出産日が平成31年2月1日以降の方\n「第2号被保険者（厚生年金加入者）」及び「第3号被保険者（第2号被保険者に扶養されている配偶者）」の方は届出できません。詳しくは、勤務先または配偶者の勤務先までご相談ください。\n注意事項\n被保険者の住民記録（住民票）に基づく届出となります。里帰り出産や国外出産等で一時的にお住まいの方（小平市に住民記録の無い方）の届出は受付できません。また、小平市に子のみの住民記録（住民票）があっても受付できません。\n平成31年2月1日～平成31年3月31日の期間においては、既に出産された子のみ対象となります。出産前（出産の予定日）を理由とした事前届出を受付できるのは、平成31年4月1日以降に出産の予定日のある方のみとなります。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "平成31年4月から、出産の予定日または出産日が属する月の前月から4か月間（産前産後期間）について、国民年金保険料が免除されます。なお、多胎妊娠の場合は、出産の予定日または出産日が属する月の3か月前から6か月間国民年金保険料が免除されます。",
+        "monetarySupport": "平成31年4月から、出産の予定日または出産日が属する月の前月から4か月間（産前産後期間）について、国民年金保険料が免除されます。なお、多胎妊娠の場合は、出産の予定日または出産日が属する月の3か月前から6か月間国民年金保険料が免除されます。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": "国民年金第1号被保険者で出産日が平成31年2月1日以降の方",
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "本人,代理人",
+      "procedureMethod": "届出に必要なもの\n本人が届出する場合\n本人確認ができる身分証明書\n基礎年金番号が分かる書類（年金手帳、基礎年金番号通知書、納付書など）または、個人番号が確認できる書類（個人番号カード、通知カードなど）\n以下の（1）から（3）までの出産に係るいずれかの書類\n代理人が届出する場合\n委任状\n委任者（本人）の基礎年金番号やマイナンバー等が不明な場合には、委任者（本人）の本人確認書類の写し\n代理人の本人確認ができる身分証明書\n以下の（1）から（3）までの出産に係るいずれかの書類\n（1）出産前に産前産後免除に係る届出を行う場合\n\n出産の予定日を確認できる書類（母子健康手帳、医療機関が発行した出産の予定日等の証明書その他の出産の予定日を明らかにすることができる書類）の写し\n（2）出産後に産前産後免除に係る届出を行う場合\n\n出産の日及び親子関係を明らかにする書類（戸籍謄（抄）本、戸籍記載事項証明書、出生届受理証明書、母子健康手帳、医療機関が発行した出産の日等の証明書その他の出産の日及び親子関係を明らかにすることができる書類）の写し\n郵送で届出する場合\n提出書類\n\n国民年金　手続きに必要な届出書・申請書一覧＞国民年金被保険者関係届（申出）書の下記の部分について記入いただきますようお願いいたします。\n・届書の上部と下部の「太枠」欄（基礎年金番号や届出される方の氏名など）\n\n・届書の「産前産後免除該当届（14）」欄（分娩予定日など）\n\n・届書の「単体・多胎の別」欄（該当する番号にマル）\n\n本人確認ができる身分証明書のコピー\n当該日を確認できる以下の（1）から（3）までのいずれかの書類のコピー\n（1）出産前に産前産後免除に係る届の場合\n\n母子健康手帳の分娩予定日を記載したページと母子健康手帳の表紙\n\n（2）出産後に産前産後免除に係る届の場合\n\n母子健康手帳の出生届出済証明のページと母子健康手帳の表紙",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "保険年金課\n月曜から金曜　午前8時30分から午後5時\n土曜　午前8時30分から午後0時15分\n武蔵野年金事務所\n直接お問合わせください。"
+      },
+      "electronicSubmission": false,
+      "belongings": "届出に必要なもの\n本人が届出する場合\n本人確認ができる身分証明書;https://www.city.kodaira.tokyo.jp/kurashi/045/045570.html\n基礎年金番号が分かる書類（年金手帳、基礎年金番号通知書、納付書など）または、個人番号が確認できる書類（個人番号カード、通知カードなど）\n以下の（1）から（3）までの出産に係るいずれかの書類\n代理人が届出する場合\n委任状\n委任者（本人）の基礎年金番号やマイナンバー等が不明な場合には、委任者（本人）の本人確認書類の写し\n代理人の本人確認ができる身分証明書;https://www.city.kodaira.tokyo.jp/kurashi/045/045570.html\n以下の（1）から（3）までの出産に係るいずれかの書類\n（1）出産前に産前産後免除に係る届出を行う場合\n\n出産の予定日を確認できる書類（母子健康手帳、医療機関が発行した出産の予定日等の証明書その他の出産の予定日を明らかにすることができる書類）の写し\n（2）出産後に産前産後免除に係る届出を行う場合\n\n出産の日及び親子関係を明らかにする書類（戸籍謄（抄）本、戸籍記載事項証明書、出生届受理証明書、母子健康手帳、医療機関が発行した出産の日等の証明書その他の出産の日及び親子関係を明らかにすることができる書類）の写し",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "保険年金課（本庁舎1階）\n武蔵野年金事務所\n注意事項\n東部出張所、西部出張所、動く市役所での受付はしていません。",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/078/078463.html",
+          "title": "付加保険料（付加年金）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/045/045570.html",
+          "title": "本人確認ができる身分証明書"
+        },
+        {
+          "uri": "https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html",
+          "title": "日本年金機構（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/045/045570.html",
+          "title": "代理人の本人確認ができる身分証明書"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/074/074063.html",
+        "title": "国民年金保険料　産前産後期間の免除制度"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保険年金課国民年金担当",
+        "contactPhone": "042-346-9531",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-9513",
+        "zipCode": "1878701",
+        "contactAddress": "小平市小川町2-1333　市役所1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM793",
+        "organization": "2000020132110",
+        "compartment": "保険年金課国民年金担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-07-04",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民年金法",
+        "regulationArticle": "第88条の2（保険料の納付義務）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "016"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦の歯科健診",
+        "shortName": "妊婦歯科健診"
+      },
+      "summary": "妊娠中や出産後は女性ホルモンの分泌の変化や食事回数の増加などから虫歯や歯周病になりやすく、進行しやすい時期です。こうした時期のお口の中の健康を維持するために、歯科健診をおすすめしています。自己負担はありません。母子手帳交付時に検診に必要な小平市妊婦歯科健康診査受診券をお渡ししています。",
+      "description": "成人・妊婦歯科健診\n成人歯科健診と妊婦歯科健診を紹介するページです。\n口腔ケアは、健康維持に大切です。健診を受診して、病気の早期発見・早期治療に努めましょう。\n\n成人歯科検診・妊婦歯科健診\n歯周疾患が発症・発生しやすい時期である妊婦に対し、口腔疾患の早期発見を図ることを目的に実施しています。\n\n自己負担　なし\n（注）妊婦歯科健診で定められた検査内容以外の検査や処置、治療を行った場合は費用（自己負担）が発生します。\n\n検査内容　問診、歯の検査、歯周病検査、指導\n（注）受診は妊娠中に1回となります。\n\nところ　市内指定医療機関\n\n受診方法\n母子健康手帳の交付時にお渡しする、「母と子の保健バッグ」に同封される小平市妊婦歯科健康診査受診券受診券、母子健康手帳、健康保険証を指定医療機関に持参。\n小平市に転入された妊婦の方で、他の市区町村で母子健康手帳の交付を受けた方については、妊婦歯科健診をまだ受けていない場合、受診券の申請をいただきました上で、受診券を交付いたします。\n\n医療機関一覧　令和6年度妊婦歯科医療機関一覧表（令和6年4月1日現在）（PDF 142.5KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/25848/025848/att_0000002.pdf\n\n健口（けんこう）チェック\n日本歯科医師会は、誰もが気軽にお口の状態を確認できるアプリ「健口（けんこう）チェック」を公開しています。同アプリは、スマートフォンを活用して、自身の口腔内の問題点に気付くことができるのが特徴です。\n\nアプリ「健口(けんこう)チェック」を公開 | 日本歯科医師会（外部リンク）;https://www.jda.or.jp/jda/release/detail_221.html",
+      "target": {
+        "targetPersons": "妊婦",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "問診、歯の検査、歯周病検査、指導",
+        "monetarySupport": null,
+        "materiallySupport": "問診、歯の検査、歯周病検査、指導"
+      },
+      "cost": null,
+      "costConditions": "無料\n\n（注）妊婦歯科健診で定められた検査内容以外の検査や処置、治療を行った場合は費用（自己負担）が発生します。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "小平市に転入された妊婦の方で、他の市区町村で母子健康手帳の交付を受けた方については、妊婦歯科健診をまだ受けていない場合、受診券の申請をいただきました上で、受診券を交付いたします。",
+      "procedurePersons": "妊婦",
+      "procedureMethod": "母子健康手帳の交付時にお渡しする、「母と子の保健バッグ」に同封される小平市妊婦歯科健康診査受診券、母子健康手帳、健康保険証を指定医療機関に持参。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳の交付時にお渡しする、「母と子の保健バッグ」に同封される小平市妊婦歯科健康診査受診券、母子健康手帳、健康保険証",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "令和6年度妊婦歯科医療機関一覧表（令和6年4月1日現在）（PDF 142.5KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/25848/025848/att_0000002.pdf",
+      "relatedLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13211&procCode=11019863",
+          "title": "電子申請サービスはこちらから（外部リンク）"
+        },
+        {
+          "uri": "https://www.jda.or.jp/jda/release/detail_221.html",
+          "title": "アプリ「健口(けんこう)チェック」を公開 | 日本歯科医師会（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/25848/025848/att_0000002.pdf",
+          "title": "令和6年度妊婦歯科医療機関一覧表（令和6年4月1日現在）（PDF 142.5KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/025/025848.html#ninpu",
+        "title": "成人・妊婦歯科健診"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康推進課予防担当",
+        "contactPhone": "042-346-3700",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM8",
+        "organization": "2000020132110",
+        "compartment": "健康推進課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-03",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第10条（保健指導）・第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自立支援医療制度（精神通院医療）",
+        "shortName": "自立支援医療費制度（精神通院医療）"
+      },
+      "summary": "精神障害者等が自立した日常生活又は社会生活を営むことができるよう、精神障害の状態の軽減のために必要な医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+      "description": "自立支援医療費制度（精神通院医療）のご案内\n印刷する\n\nツイートする;http://twitter.com/share?url=https%3A%2F%2Fwww.city.kodaira.tokyo.jp%2Fkurashi%2F003%2F003641.html&text=%E8%87%AA%E7%AB%8B%E6%94%AF%E6%8F%B4%E5%8C%BB%E7%99%82%E8%B2%BB%E5%88%B6%E5%BA%A6%EF%BC%88%E7%B2%BE%E7%A5%9E%E9%80%9A%E9%99%A2%E5%8C%BB%E7%99%82%EF%BC%89%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85%7c%E5%B0%8F%E5%B9%B3%E5%B8%82\nFacebookでシェアする;http://www.facebook.com/share.php?u=https%3A%2F%2Fwww.city.kodaira.tokyo.jp%2Fkurashi%2F003%2F003641.html\nLINEで送る;http://line.me/R/msg/text/?https%3A%2F%2Fwww.city.kodaira.tokyo.jp%2Fkurashi%2F003%2F003641.html\n東京都の審査により認定を受けた方には受給者証を交付します。\n\n注）世帯の所得や通院先により対象外となる場合があります。\n\n精神障害者保健福祉手帳を同時申請される方へ\n精神障害者保健福祉手帳と同時申請（手帳も診断書で同日申請）する場合は、医療機関に「手帳用診断書」をご依頼ください。\n\n詳しくは、精神障害者保健福祉手帳のご案内;https://www.city.kodaira.tokyo.jp/kurashi/003/003637.htmlをご覧ください。\n\n関連リンク",
+      "target": {
+        "targetPersons": "対象者\n精神疾患を理由として、通院医療を継続的に必要とする方（てんかんを含む）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "精神通院医療に係る診療費や薬代、デイケアや訪問看護の自己負担を、原則3割から1割に軽減する制度です。",
+        "monetarySupport": "費用の自己負担を、原則3割から1割に軽減",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申請方法\n 必要書類をそろえ、障がい者支援課へ\n\n注）東部出張所、西部出張所、動く市役所では手続きや書類のお渡しはできません。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "必要書類\n自立支援医療費（精神通院）支給認定申請書（障がい者支援課窓口にあります）\n所定様式の診断書（申請日から3か月以内に発行されたもの。有効期限内の更新申請の場合、診断書の提出は2年に1度です。）\n自立支援医療受給者証（精神通院）の原本（更新、再開申請の方）\n健康保険資格情報の確認書類（次のいずれか①健康保険証（有効期限内のもの）②資格確認書③マイナポータルの資格情報画面のスクリーンショットを印刷したもの　※国民健康保険組合、国民健康保険（小平市以外）、後期高齢者医療制度の方は同一保険に加入している世帯員全員分）。もしくは生活保護受給証明書\n市・都民税の課税状況が分かる書類\n印鑑\nマイナンバーが確認できるもの\n本人確認書類\n追加交付のための「理由書」（医師の指示により、複数の医療機関や薬局を利用の方、または訪問看護を利用する方のみ必要）\n注）市・都民税の課税状況が分かる書類について\n\n国民健康保険・国民健康保険組合、後期高齢者医療制度の方は、同じ保険に加入されている方全員分の課税状況の確認が必要です。社会保険、共済組合の方は、被保険者の課税状況の確認が必要です。\n\n該当年度の1月1日時点で住民票が小平市にあり、税の申告をしていれば、同意書に基づき税書類を省略することができます。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "障がい者支援課",
+      "relatedLink": [
+        {
+          "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/shougai/nichijo/tsuuin/seishintsuuin.html",
+          "title": "自立支援医療費制度（精神通院医療）について（東京都福祉保健局）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/003/003637.html",
+          "title": "精神障害者保健福祉手帳のご案内"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/003/003641.html",
+        "title": "自立支援医療費制度（精神通院医療）のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康福祉部 障がい者支援課サービス支援担当",
+        "contactPhone": "電話：042-346-9542",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1878701",
+        "contactAddress": "小平市小川町2-1333　健康福祉事務センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM824",
+        "organization": "2000020132110",
+        "compartment": "健康福祉部 障がい者支援課サービス支援担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022/03/23",
+      "odInformation": {
+        "updateDate": "2025/02/10",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律",
+        "regulationArticle": "第58条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "025",
+          "027"
+        ],
+        "targetCode": [
+          "087",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小平市の子育てに関する相談",
+        "shortName": "お母さんとお子さんの健康相談"
+      },
+      "summary": "こども家庭センターでは、お子さんやお母さんの健康に関する相談を電話及び面接にて保健師、助産師、管理栄養士、歯科衛生士が行っています。",
+      "description": "電話や面接による相談（保健師、助産師、管理栄養士、歯科衛生士）",
+      "target": {
+        "targetPersons": "乳幼児期のこどもを持つ保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "お子さんやお母さんの健康に関する相談を電話及び面接にて保健師、助産師、管理栄養士、歯科衛生士が行っています。",
+        "monetarySupport": null,
+        "materiallySupport": "電話や面接による相談（保健師、助産師、管理栄養士、歯科衛生士）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": "17:00",
+        "conditions": "月～金\n午前８時３０分～午後５時"
+      },
+      "implementationPlace": {
+        "implementationName": "健康センター",
+        "implementationAddress": "小平市学園東町1-19-12"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "電話または来所",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/086/086367.html",
+          "title": "子育て世代包括支援センター事業"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/049/049419.html",
+        "title": "お母さんとお子さんの健康相談（健康センター）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健担当",
+        "contactPhone": "042-346-3701",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+2+UM119",
+        "organization": "2000020132110",
+        "compartment": "こども家庭センター母子保健担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "準夜応急診療"
+      },
+      "summary": "小平市では、夜間や日曜・祝日、年末年始に、市内の医療機関の協力のもと、当番制で診療を行っています。\nなお、小児（15歳以下）のお子さんの救急の時は、小児科救急当番医をご利用ください。\n「小児科救急」https://www.city.kodaira.tokyo.jp/kurashi/017/017073.html",
+      "description": "準夜応急診療と救急病院\n緊急時に受診できる医療機関を紹介します。\n準夜応急診療について\n準夜応急診療は小平市健康センター1階で実施しています。\n新型コロナウイルス感染症等の予防のため基本的な感染防止対策を徹底したうえで実施しており、施設の都合上、令和4年12月から当面の間は完全予約制で実施しています。\n・診療科目は内科、小児科となります。\n・予約方法は電話のみとなります。必ず事前に予約の上、来院をお願いします。　（電話番号：042-346-3706）\n(注)事前の予約なしに直接来院されても、窓口での受付はできません。\n・受診の際は発熱や風邪症状の有無を問わず、マスクの着用にご協力をお願いします。\n・予約枠の都合上、受診をお断りすることもありますのであらかじめご了承ください。\n・応急診療所では無症状の方に関する検査は行っていません。発熱やのどの痛み等の症状があり医師の診療が必要な方のみとなります。\n・受診当日は診断を迅速に行うため、必要最低限の検査・投薬のみとなります。\n\n準夜応急診療\t　月曜～日曜日（年中無休）\n診療時間 \n午後7時30分～午後10時30分\t\n予約受付時間\n午後7時～午後10時\n電話予約のみ。\n（注）12月29日から1月3日までの年末年始の診療時間は、午後6時30分から午後10時30分まで\n\n診療場所\n一般社団法人小平市医師会 応急診療所\n(注)小平市医師会ホームページ（外部リンク）;http://www.kodaira-med.or.jp/でもご案内しています。\n\n所在地\n小平市学園東町1-19-12　小平市健康センター内\n\n電話番号　042-346-3706\n完全予約制のため必ず事前に電話の上、予約してください。\n\n受診方法等については、電話でお伝えします。お伝えした内容に従い、受診をお願いします。\n(注)お問い合わせの状況により、電話がつながりにくい場合があります。\n（特に受付開始後1時間程度は電話が混み合います。）\n呼吸困難や強い倦怠感など、命にかかわるような場合は、迷わずに救急車（電話119）を呼んでください。\n発熱、風邪症状で受診される方へ\n・健康保険証、各種医療費受給者証、おくすり手帳を忘れずにお持ちください。\n・高校生以下の受診は、保護者の同伴が必要です。\n・PCR検査は実施しておりません。医師の判断により、新型コロナウイルス感染症とインフルエンザを同時に検査できる抗原定性検査等を実施します。\n・診察医の判断により、受診された方を救急病院等へ紹介、転送する場合があります。\n\n＜マイナンバーカードの健康保険証利用について＞\n・応急診療所は、マイナンバーカードを用いて医療情報を取得できる体制を整備しています。\n・受診者ご自身にマイナンバーカードを使用した受付の認証操作をお願いしています。\n・マイナンバーカードの健康保険証利用を通じて正確な情報（薬剤情報、特定健診情報及びその他必要な情報等）を取得、活用するために、マイナンバーカードの健康保険証利用についてご理解とご協力をお願いします。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "準夜応急診療は小平市健康センター1階で実施しています。\n新型コロナウイルス感染症等の予防のため基本的な感染防止対策を徹底したうえで実施しており、施設の都合上、令和4年12月から当面の間は完全予約制で実施しています。\n\n・診療科目は内科、小児科となります。\n・予約方法は電話のみとなります。必ず事前に予約の上、来院をお願いします。\n（電話番号：042-346-3706）\n(注)事前の予約なしに直接来院されても、窓口での受付はできません。\n・受診の際は発熱や風邪症状の有無を問わず、マスクの着用にご協力をお願いします。\n・予約枠の都合上、受診をお断りすることもありますのであらかじめご了承ください。\n・応急診療所では無症状の方に関する検査は行っていません。発熱やのどの痛み等の症状があり医師の診療が必要な方のみとなります。\n・受診当日は診断を迅速に行うため、必要最低限の検査・投薬のみとなります。",
+        "monetarySupport": null,
+        "materiallySupport": "準夜応急診療は小平市健康センター1階で実施しています。\n新型コロナウイルス感染症等の予防のため基本的な感染防止対策を徹底したうえで実施しており、施設の都合上、令和4年12月から当面の間は完全予約制で実施しています。\n\n・診療科目は内科、小児科となります。\n・予約方法は電話のみとなります。必ず事前に予約の上、来院をお願いします。\n（電話番号：042-346-3706）\n(注)事前の予約なしに直接来院されても、窓口での受付はできません。\n・受診の際は発熱や風邪症状の有無を問わず、マスクの着用にご協力をお願いします。\n・予約枠の都合上、受診をお断りすることもありますのであらかじめご了承ください。\n・応急診療所では無症状の方に関する検査は行っていません。発熱やのどの痛み等の症状があり医師の診療が必要な方のみとなります。\n・受診当日は診断を迅速に行うため、必要最低限の検査・投薬のみとなります。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "一般社団法人小平市医師会 応急診療所",
+        "implementationAddress": "小平市学園東町1-19-12　小平市健康センター内"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "||日程|診療時間|予約受付時間|\n|:----|:----|:----|:----|\n|休日応急診療|日曜日、祝日、<br>年末年始|午前9時～<br>午後5時|午前8時45分～<br>午後4時30分<br>電話予約のみ。|\n|準夜応急診療|月曜～日曜日<br>（年中無休）|午後7時30分～<br>午後10時30分|午後7時～<br>午後10時<br>電話予約のみ。|\n\n（注）12月29日から1月3日までの年末年始の診療時間は、午後6時30分から午後10時30分まで"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "042-346-3706\n\n完全予約制のため必ず事前に電話の上、予約してください。\n受診方法等については、電話でお伝えします。お伝えした内容に従い、受診をお願いします。\n(注)お問い合わせの状況により、電話がつながりにくい場合があります。\n（特に受付開始後1時間程度は電話が混み合います。）\n呼吸困難や強い倦怠感など、命にかかわるような場合は、迷わずに救急車（電話119）を呼んでください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "19:00",
+        "toYMD": null,
+        "toHM": "22:00",
+        "conditions": "||日程|診療時間|予約受付時間|\n|:----|:----|:----|:----|\n|休日応急診療|日曜日、祝日、<br>年末年始|午前9時～<br>午後5時|午前8時45分～<br>午後4時30分<br>電話予約のみ。|"
+      },
+      "electronicSubmission": false,
+      "belongings": "健康保険証,各種医療費受給者証,おくすり手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "http://www.tfd.metro.tokyo.jp/hp-kyuuimuka/guide/main/index.html",
+          "title": "東京版救急受診ガイドのページ（外部リンク）"
+        },
+        {
+          "uri": "http://kodomo-qq.jp/",
+          "title": "公益社団法人日本小児科学会こどもの救急のページ（外部リンク）"
+        },
+        {
+          "uri": "http://www.kodaira-med.or.jp/",
+          "title": "小平市医師会ホームページ（外部リンク）"
+        },
+        {
+          "uri": "https://www.kouritu-showa.jp/",
+          "title": "公立昭和病院（外部リンク）"
+        },
+        {
+          "uri": "https://www.hitotsubashi-hp.or.jp/",
+          "title": "一橋病院（外部リンク）"
+        },
+        {
+          "uri": "https://www.iryou.teikyouseido.mhlw.go.jp/",
+          "title": "医療情報ネットのページ（外部リンク）"
+        },
+        {
+          "uri": "http://www.kodaira-dent.org/emergency.html",
+          "title": "小平市歯科医師会ホームページの当番医の検索ページ（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/017/017073.html",
+        "title": "休日・準夜応急診療と救急病院"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康推進課予防担当",
+        "contactPhone": "042-346-3700",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+2+UM45",
+        "organization": "2000020132110",
+        "compartment": "健康推進課予防担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-17",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小平市の妊娠・出産に関する相談",
+        "shortName": "マタニティサポート面談"
+      },
+      "summary": "妊娠された全ての方（転入された妊婦も含む）を対象に、「マタニティサポート面談」を実施しています。",
+      "description": "面談では、妊娠中や出産後のさまざまな疑問や不安を相談できます。母子保健サービスをご紹介しながら、安心して出産を迎えられるようサポートしています。\nすでに母子健康手帳をお持ちで、転入元の区市町村でマタニティサポート面談を受けた妊婦さんも小平市での面談の対象です。\n 面談を受けた方に、出産応援ギフト（5万円分）;https://www.city.kodaira.tokyo.jp/kurashi/104/104797.htmlと育児パッケージ（1万円分）をお渡しします。注）転入元の区市町村で出産応援ギフトを受け取っている方は、育児パッケージのみのお渡しとなります。\n\n（面談方法）原則、 予約制\n\nオンラインによる面談も実施しております。\n\nタイトルに「オンライン妊婦面談希望」、本文に[1]氏名[2]生年月日[3]電話番号をご記入の上、下記のメールアドレスに送信してください。\n\n面談の予約・問合せ先\n予約はこだっこWeb予約から\n\nこだっこWeb予約;https://www.city.kodaira.tokyo.jp/kurashi/files/86372/086372/att_0000002.png\n注）こだっこWeb予約は希望日の前日（土日祝日を除く）の午前8時まで可能です。\n\nそれ以降はお電話でお問い合わせください。\n\n電話：042-346-3701\n\nメールアドレス：kodomokatei-c@city.kodaira.lg.jp（オンライン面談の場合のみ）\n\n面談時間\nお一人40分程度\n\n持ち物\n本人確認書類（マイナンバーカード、運転免許証、パスポートなど）\n母子健康手帳（すでに交付を受けている方）\nA4サイズが入る袋\n母子健康手帳交付を同時に行う方は母子手帳交付　マタニティ面談のご案内（PDF 357.4KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/86372/086372/att_0000004.pdfもご確認ください。",
+      "target": {
+        "targetPersons": "妊娠された全ての方（転入された妊婦も含む）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "面談では、妊娠中や出産後のさまざまな疑問や不安を相談できます。",
+        "monetarySupport": null,
+        "materiallySupport": "母子保健サービスをご紹介しながら、安心して出産を迎えられるようサポートしています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "|場所|曜日|時間帯|備考|\n|:----|:----|:----|:----|健康センター|月曜日～金曜日|午前８時３０分～午後５時|マタニティサポート面談は予約優先|\n|花小金井南公民館|火曜日|午前９時～午後４時|要予約|\n|小川西町地域センター|火曜日(午前)、木曜日（午後）|午前：９時～正午、午後：１時～午後４時|要予約|",
+        "implementationAddress": "（小平市健康センター）小平市学園東町1-19-12,（花小金井南公民館）小平市花小金井南町2-12-6,（小川西町地域センター）小平市小川西町5-4-17"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "祝日、年末年始",
+      "utilization": null,
+      "procedurePersons": "妊娠された全ての方（転入された妊婦も含む）",
+      "procedureMethod": "予約はこだっこWeb予約から\nこだっこWeb予約;https://www.city.kodaira.tokyo.jp/kurashi/files/86372/086372/att_0000002.png \n注）こだっこWeb予約は希望日の前日（土日祝日を除く）の午前8時まで可能です。それ以降はお電話でお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "こだっこWeb予約は希望日の前日（土日祝日を除く）の午前8時まで"
+      },
+      "electronicSubmission": true,
+      "belongings": "本人確認書類（マイナンバーカード、運転免許証、パスポートなど）,母子健康手帳（すでに交付を受けている方）,A4サイズが入る袋",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/86372/086372/att_0000004.pdf",
+          "title": "母子手帳交付　マタニティ面談のご案内（PDF 357.4KB）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/104/104797.html",
+          "title": "出産応援ギフト"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/086/086372.html",
+        "title": "マタニティサポート面談（妊婦面談）"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/86372/086372/att_0000002.png",
+          "title": "こだっこWeb予約"
+        }
+      ],
+      "contact": {
+        "contactName": "こども家庭センター母子保健担当",
+        "contactPhone": "042-346-3701",
+        "contactEx": null,
+        "contactEmail": "kodomokatei-c@city.kodaira.lg.jp",
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+2+UM47",
+        "organization": "2000020132110",
+        "compartment": "こども家庭センター母子保健担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-04",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（5歳児歯科健康診査）",
+        "shortName": "5歳児歯科健康診査"
+      },
+      "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。5歳児歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+      "description": "歯科健診、歯科の健康教室、個別相談（保健・栄養・歯科）",
+      "target": {
+        "targetPersons": "5歳から5歳4か月のお子さんと保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 5,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 5,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "5歳から5歳4か月のお子さん"
+      },
+      "support": {
+        "description": "歯科医師による歯科健診\n歯科衛生士による歯科講話\n個別相談（保健師・管理栄養士・歯科衛生士）希望制",
+        "monetarySupport": null,
+        "materiallySupport": "歯科医師による歯科健診\n歯科衛生士による歯科講話\n個別相談（保健師・管理栄養士・歯科衛生士）希望制"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "受付時間午後1時15分から2時30分まで\n（健診は午後1時30分から）"
+      },
+      "implementationPlace": {
+        "implementationName": "小平市健康センター",
+        "implementationAddress": "小平市学園東町1-19-12"
+      },
+      "capacity": "定員30組",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "5歳の誕生月の前月に個別に通知します。\n希望月の前日15日から受付開始です。こだっこWeb予約からお申し込みください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "希望月の前日15日から受付開始"
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳,アンケート用紙,ハブラシ,コップ",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/006/006554.html",
+        "title": "5歳児歯科健康診査"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/6554/006554/att_0000008.png",
+          "title": "こだっこWeb予約"
+        }
+      ],
+      "contact": {
+        "contactName": "こども家庭センター母子保健担当",
+        "contactPhone": "042-346-3701",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+2+UM792",
+        "organization": "2000020132110",
+        "compartment": "こども家庭センター母子保健担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-15",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小平市の子育てに関する相談",
+        "shortName": "教育相談"
+      },
+      "summary": "お子さんの学習・不登校・集団になじめない・性格・気になるくせなど、心配ごとの相談をお受けいたします。",
+      "description": "教育相談\n教育相談室（小平元気村おがわ東内）\n幼児、小・中学生の学習・不登校・集団になじめない・気になる癖など、子どもの行動について心配なことは、教育相談室をご利用ください。\n\n電話：042-343-9411\n\n来所相談\n月曜～金曜（水曜は午後2時から、祝日は除く）午前11時～午後6時（予約制）（受付は午後5時まで）\n\n電話相談\n月曜～金曜（水曜は午後1時から、祝日は除く）午前10時30分～午後6時（受付は午後5時30分まで）\n\n東京都教育相談センター(外部リンク;https://e-sodan.metro.tokyo.lg.jp/)\n幼児から高校生相当年齢までの方の友人関係、いじめ、家族関係、学校生活、不登校の悩みや不安等、子供の性格や行動、しつけ、発達障害、自傷行為、家庭内暴力、不登校等、高校への進級・進路などに関する相談を、原則、都内在住・在籍の幼児から高校生相当の年齢までの方、その保護者・親族及び教職員から受け付けています。\n\n教育相談一般・東京都いじめ相談ホットライン\n電話：0120-53-8288（24時間365日受付）\n\n高校進級・進路・入学相談\n電話：03-3360-4175\n\n通訳を介した外国人児童・生徒の高校等進路・教育相談\n電話：0120-53-8288\n\n小平児童相談所（外部リンク;https://www.fukushihoken.metro.tokyo.lg.jp/jicen/info/jisou_info/kodaira.html）\n性格行動、精神や身体の発達、非行、虐待などの専門的な相談をはじめ、18歳未満の子どものあらゆる相談に応じます。性格行動、精神や身体の発達、非行、虐待などの専門的な相談をはじめ、18歳未満の子どものあらゆる相談に応じます。\n\n住所：小平市花小金井1-31-24(東京都多摩小平保健所内3階)\n\n電話：042-467-3711",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "幼児、小・中学生の学習・不登校・集団になじめない・気になる癖など、子どもの行動について心配なことは、教育相談室をご利用ください。",
+        "monetarySupport": null,
+        "materiallySupport": "幼児、小・中学生の学習・不登校・集団になじめない・気になる癖など、子どもの行動について心配なことは、教育相談室をご利用ください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "教育相談室",
+        "implementationAddress": "小平市小川東町4-2-1　小平元気村おがわ東3階"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "来所相談\n月曜～金曜（水曜は午後2時から、祝日は除く）午前11時～午後6時（予約制）（受付は午後5時まで）\n\n電話相談\n月曜～金曜（水曜は午後1時から、祝日は除く）午前10時30分～午後6時（受付は午後5時30分まで）"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/022/022308.html",
+          "title": "小平市教育支援室 あゆみ教室"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/001/001253.html",
+          "title": "高校・専門学校など"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/000/000147.html",
+          "title": "小・中学校への入学・転学、就学相談"
+        },
+        {
+          "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/jicen/info/jisou_info/kodaira.html",
+          "title": "（外部リンク）"
+        },
+        {
+          "uri": "https://e-sodan.metro.tokyo.lg.jp/",
+          "title": "(外部リンク)"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/001/001254.html",
+        "title": "教育相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小平市教育相談室",
+        "contactPhone": "042-343-9411",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX：042-343-9410",
+        "zipCode": "1870031",
+        "contactAddress": "小平市小川東町4-2-1　小平元気村おがわ東3階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+3+UM119",
+        "organization": "2000020132110",
+        "compartment": "小平市教育相談室",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-12-28",
+      "odInformation": {
+        "updateDate": "2024-07-16",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "離乳食教室",
+        "shortName": "かむかむ教室"
+      },
+      "summary": "１歳１０か月から３歳６か月までのお子さんとその保護者を対象に、嚙む力を育てるための講座を開催しています。",
+      "description": "講話、ふれあい遊び、簡単な調理体験、試食、個別相談",
+      "target": {
+        "targetPersons": "市内在住の1歳10か月～3歳6か月のお子さんと保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 10
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1歳10か月～3歳6か月"
+      },
+      "support": {
+        "description": "「かむ力を育てよう」をテーマに、食事・歯の生え方・遊び・こころの面から一緒に考えます。講話、ふれあい遊び、簡単な調理体験を行います。",
+        "monetarySupport": null,
+        "materiallySupport": "講話、ふれあい遊び、簡単な調理体験"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "10:00",
+        "toYMD": null,
+        "toHM": "12:00",
+        "conditions": "|とき |申込開始日|\n|:----|:----|\n|5月28日(火曜)| 4月20日（土曜）|\n|8月30日(金曜)| 7月20日（土曜）|\n|11月29日(金曜) |10月20日（日曜）|\n|令和7年2月28日(金曜)| 令和7年1月20日（月曜）|"
+      },
+      "implementationPlace": {
+        "implementationName": "健康センター2階",
+        "implementationAddress": "小平市学園東町1-19-12"
+      },
+      "capacity": "15組（先着順）",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申込開始日より、こだっこWeb予約から→https://kodaira.city-ca.jp/（外部リンク）",
+      "procedurePeriod": {
+        "fromYMD": "2024-04-20",
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "|とき|申込開始日|\n|:----|:----|\n|5月28日(火曜)|4月20日（土曜）|\n|8月30日(金曜)|7月20日（土曜）|\n|11月29日(金曜)|10月20日（日曜）|\n|令和7年2月28日(金曜)|令和7年1月20日（月曜）|"
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳,筆記用具,エプロンと三角巾（幼児用と保護者用）,マスク（保護者用）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/000/000257.html",
+          "title": "離乳食教室（5か月～1歳6か月児）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/002/002450.html",
+          "title": "もぐもぐ教室（7か月～11か月、離乳食 調理実習）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/002/002451.html",
+        "title": "かむかむ教室（1歳10か月～3歳6か月、幼児食講習会）"
+      },
+      "formLink": [
+        {
+          "uri": "https://kodaira.city-ca.jp/",
+          "title": "こだっこWeb予約"
+        }
+      ],
+      "contact": {
+        "contactName": "こども家庭センター母子保健担当",
+        "contactPhone": "042-346-3701",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+3+UM798",
+        "organization": "2000020132110",
+        "compartment": "こども家庭センター母子保健担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法、食育基本法",
+        "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）、法第5条（子どもの食育における保護者、教育関係者等の役割）、21条 （地域における食生活の改善のための取組の推進）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小平市の子育てに関する相談",
+        "shortName": "子育て相談"
+      },
+      "summary": "子育て中の保護者が心身ともにゆとりを持って子育てに楽しさや喜びを感じることができるようにいろいろな相談窓口を設置しています。",
+      "description": "子育て相談\n子育て中の保護者が心身ともにゆとりを持って子育てに楽しさや喜びを感じることができるようにいろいろな相談窓口を設置しています。\n\n子育てに悩んだとき・ちょっと聞きたいとき\n児童館（乳幼児～高校生）\n児童館は子どもたちが遊びを通して人とのつながりや心を豊かにし、いろいろな体験をしていく広場です。\n\n子育ての悩みなどおしゃべりにいらしてください。\n\n詳しくは、児童館のページ;https://www.city.kodaira.tokyo.jp/kurashi/index02004001.htmlをご覧ください。\n\n子ども広場（乳幼児～中学生）\n乳幼児とその保護者の交流、子育て相談や子どもの遊びの指導を行っています。\n\n子育ての悩みなどおしゃべりにいらしてください。\n\n詳しくは、子ども広場のページ;https://www.city.kodaira.tokyo.jp/kurashi/index02004002.htmlをご覧ください。\n\nじっくり話したい方\n子ども家庭支援センター（18歳まで）\n子ども家庭支援ワーカーが子育て相談を、電話・面談・FAX・メールで受けています。専門相談員（臨床心理士・言語聴覚士など）との相談（要予約）もあります。ほかの方やお子さんとはなれて別室で話ができます。\n\n元気村おがわ東の2階です。\n\n子育て交流広場があるのでお子さんの様子を見ながら相談を受けることができます。\n\n気軽に遊びに来て、気になったことはスタッフにどんどん聞いてください。\n\n>>子ども家庭支援センター;https://www.city.kodaira.tokyo.jp/kurashi/000/000225.html\n\n東京都ひきこもりサポートネット\nひきこもりのご本人やご家族・ご友人からの相談を受け付けています。\n\n一人で悩まないで、まずはご相談ください。\n\n>>東京ひきこもりサポートネット（外部リンク）;http://www.hikikomori-tokyo.jp/\n\n相談先一覧\n相談窓口の一覧;https://www.city.kodaira.tokyo.jp/kurashi/051/051856.htmlをご覧ください。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "子育てに悩んだとき・ちょっと聞きたいとき\n児童館（乳幼児～高校生）\n児童館は子どもたちが遊びを通して人とのつながりや心を豊かにし、いろいろな体験をしていく広場です。\n\n子育ての悩みなどおしゃべりにいらしてください。\n\n詳しくは、児童館のページ;https://www.city.kodaira.tokyo.jp/kurashi/index02004001.htmlをご覧ください。\n\n子ども広場（乳幼児～中学生）\n乳幼児とその保護者の交流、子育て相談や子どもの遊びの指導を行っています。\n\n子育ての悩みなどおしゃべりにいらしてください。\n\n詳しくは、子ども広場のページ;https://www.city.kodaira.tokyo.jp/kurashi/index02004002.htmlをご覧ください。\n\nじっくり話したい方\n子ども家庭支援センター（18歳まで）\n子ども家庭支援ワーカーが子育て相談を、電話・面談・FAX・メールで受けています。専門相談員（臨床心理士・言語聴覚士など）との相談（要予約）もあります。ほかの方やお子さんとはなれて別室で話ができます。\n\n元気村おがわ東の2階です。\n\n子育て交流広場があるのでお子さんの様子を見ながら相談を受けることができます。\n\n気軽に遊びに来て、気になったことはスタッフにどんどん聞いてください。\n\n>>子ども家庭支援センター;https://www.city.kodaira.tokyo.jp/kurashi/000/000225.html\n\n東京都ひきこもりサポートネット\nひきこもりのご本人やご家族・ご友人からの相談を受け付けています。\n\n一人で悩まないで、まずはご相談ください。\n\n>>東京ひきこもりサポートネット（外部リンク）;http://www.hikikomori-tokyo.jp/\n\n相談先一覧\n相談窓口の一覧;https://www.city.kodaira.tokyo.jp/kurashi/051/051856.htmlをご覧ください。",
+        "monetarySupport": null,
+        "materiallySupport": "子育てに悩んだとき・ちょっと聞きたいとき\n児童館（乳幼児～高校生）\n児童館は子どもたちが遊びを通して人とのつながりや心を豊かにし、いろいろな体験をしていく広場です。\n\n子育ての悩みなどおしゃべりにいらしてください。\n\n詳しくは、児童館のページ;https://www.city.kodaira.tokyo.jp/kurashi/index02004001.htmlをご覧ください。\n\n子ども広場（乳幼児～中学生）\n乳幼児とその保護者の交流、子育て相談や子どもの遊びの指導を行っています。\n\n子育ての悩みなどおしゃべりにいらしてください。\n\n詳しくは、子ども広場のページ;https://www.city.kodaira.tokyo.jp/kurashi/index02004002.htmlをご覧ください。\n\nじっくり話したい方\n子ども家庭支援センター（18歳まで）\n子ども家庭支援ワーカーが子育て相談を、電話・面談・FAX・メールで受けています。専門相談員（臨床心理士・言語聴覚士など）との相談（要予約）もあります。ほかの方やお子さんとはなれて別室で話ができます。\n\n元気村おがわ東の2階です。\n\n子育て交流広場があるのでお子さんの様子を見ながら相談を受けることができます。\n\n気軽に遊びに来て、気になったことはスタッフにどんどん聞いてください。\n\n>>子ども家庭支援センター;https://www.city.kodaira.tokyo.jp/kurashi/000/000225.html\n\n東京都ひきこもりサポートネット\nひきこもりのご本人やご家族・ご友人からの相談を受け付けています。\n\n一人で悩まないで、まずはご相談ください。\n\n>>東京ひきこもりサポートネット（外部リンク）;http://www.hikikomori-tokyo.jp/\n\n相談先一覧\n相談窓口の一覧;https://www.city.kodaira.tokyo.jp/kurashi/051/051856.htmlをご覧ください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/index02004001.html",
+          "title": "児童館のページ"
+        },
+        {
+          "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/jicen/info/jisou_info/kodaira.html",
+          "title": "小平児童相談所（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/000/000225.html",
+          "title": ">>子ども家庭支援センター"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/051/051856.html",
+          "title": "相談窓口の一覧"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/index02004002.html",
+          "title": "子ども広場のページ"
+        },
+        {
+          "uri": "http://www.hikikomori-tokyo.jp/",
+          "title": ">>東京ひきこもりサポートネット（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/003/003608.html",
+        "title": "子育て相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て支援課子育て支援担当",
+        "contactPhone": "042-346-9821",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+4+UM119",
+        "organization": "2000020132110",
+        "compartment": "子育て支援課子育て支援担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-07-27",
+      "odInformation": {
+        "updateDate": "2024-07-09",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小平市の子育てに関する相談",
+        "shortName": "心理発達相談"
+      },
+      "summary": "お子さんへの対応や発達についての相談を行っています。",
+      "description": "臨床心理士等による個別相談",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "年６０回\n詳しくはお問い合わせください"
+      },
+      "implementationPlace": {
+        "implementationName": "小平市健康センター　1階",
+        "implementationAddress": "小平市学園東町1-19-12"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "午前９時３０分～正午または午後１時５０分から午後４時"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/049/049419.html",
+        "title": "お母さんとお子さんの健康相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健担当",
+        "contactPhone": "042-346-3701",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+7+UM119",
+        "organization": "2000020132110",
+        "compartment": "こども家庭センター母子保健担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-07-17",
+      "odInformation": {
+        "updateDate": "2024-07-08",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小平市の子育てに関する相談",
+        "shortName": "ピッコロの会"
+      },
+      "summary": "ちょっと早く、ちょっと小さくママのもとにやってきた赤ちゃんとママのつどいです。",
+      "description": "|フリートーク|参加者同士で交流し、不安な気持ちや悩み、体験談を共有しましょう。|\n|ふれあい遊び|助産師がふれあい遊びを紹介します。|\n|ミニ講話|臨床心理士・管理栄養士による講話を行います。|\n|計測|ご希望の方のみ、身長・体重の測定を行います。|\n|個別相談|保健師・助産師・臨床心理士・管理栄養士・歯科衛生士による個別相談（希望の方のみ）|",
+      "target": {
+        "targetPersons": "36週以前に生まれた、または出生体重2,500グラム以下で生まれた1歳未満のお子さんとお母さん（修正月齢で計算）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "36週以前に生まれた、または出生体重2,500グラム以下で生まれた1歳未満のお子さんとお母さん（修正月齢で計算）"
+      },
+      "support": {
+        "description": "ちょっと早く、ちょっと小さくママのもとにやってきた赤ちゃんの集いです。",
+        "monetarySupport": null,
+        "materiallySupport": "フリートーク\nふれあい遊び\nミニ講話\n個別相談"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "令和6年6月28日（金曜）\n令和6年10月25日（金曜）\n令和6年12月6日（金曜）\n令和7年2月28日（金曜）"
+      },
+      "implementationPlace": {
+        "implementationName": "小平市健康センター　1階",
+        "implementationAddress": "小平市学園東町1-19-12"
+      },
+      "capacity": "15組（初回参加優先）",
+      "utilizationTime": {
+        "fromHM": "13:30",
+        "toHM": "15:30",
+        "condiutilizationConditionstions": "午後１時３０分～午後３時３０分"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "手続き窓口へ電話申込",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "市報掲載後申込受付、締め切り切りは開催の２日前"
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳,バスタオル,お子さんのお出かけグッズ",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/112/112075.html",
+        "title": "ピッコロの会"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健担当",
+        "contactPhone": "042-346-3701",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+8+UM119",
+        "organization": "2000020132110",
+        "compartment": "こども家庭センター母子保健担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-28",
+      "odInformation": {
+        "updateDate": "2024-07-08",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    }
+  ]
+}

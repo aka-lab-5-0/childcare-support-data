@@ -1,0 +1,2405 @@
+{
+  "version": "2025-07-10T02:38:54.134Z",
+  "areaCode": "132187",
+  "areaName": "福生市",
+  "category": "vaccination",
+  "count": 18,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "水痘（みずぼうそう）ワクチンの接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "平成26年度10月1日から、水痘（みずぼうそう）ワクチンは公費で接種ができる定期接種として導入されました。\n\n対象者\n接種日当日に福生市に住所を有する、生後12月から36月未満の方\n\n接種回数\n2回\n初回接種終了後、3月以上の間隔をあけて追加接種をおこないます。\n\n過去に水痘にかかったことがある方は対象外となります。\nまた、過去にご自身で水痘の予防接種を受けた事がある場合、その回数分を差し引いた回数が接種回数となりますので、ご注意ください。\n\n接種方法\n市内指定医療機関で保護者同伴の上、接種をお受けください。\n（注意）接種を受ける前に、以下の注意事項をお読みになり、接種してください。\n※指定医療機関については下部リンク「個別に受ける定期予防接種の概要」内の「個別予防接種について（指定医療機関一覧）」をご参照ください。\n\n水痘ワクチン注意事項 （PDF 266.0KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/492/suitoutyuuijikou.pdf\n接種当日用意するもの\n保険証、母子健康手帳、予診票\n\n関連情報\n個別に受ける定期予防接種の概要;https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+      "target": {
+        "targetPersons": "接種日当日に福生市に住所を有する、生後12月から36月未満の方",
+        "lessThan": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "接種日当日に福生市に住所を有する、生後12月から36月未満の方"
+      },
+      "support": {
+        "description": "公費で接種ができる定期接種",
+        "monetarySupport": "公費で接種ができる定期接種",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "生後12月から36月未満\n\n接種回数\n2回\n初回接種終了後、3月以上の間隔をあけて追加接種をおこないます。"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "予診票がつづられた予防接種ノートを生後2か月を迎える方に保健センターから送付します。",
+      "procedurePersons": "保護者同伴",
+      "procedureMethod": "接種回数\n2回\n初回接種終了後、3月以上の間隔をあけて追加接種をおこないます。\n\n過去に水痘にかかったことがある方は対象外となります。\nまた、過去にご自身で水痘の予防接種を受けた事がある場合、その回数分を差し引いた回数が接種回数となりますので、ご注意ください。\n\n接種方法\n市内指定医療機関で保護者同伴の上、接種をお受けください。\n（注意）接種を受ける前に、以下の注意事項をお読みになり、接種してください。\n※指定医療機関については下部リンク「個別に受ける定期予防接種の概要」内の「個別予防接種について（指定医療機関一覧）」をご参照ください。\n\n水痘ワクチン注意事項 （PDF 266.0KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/492/suitoutyuuijikou.pdf\n接種当日用意するもの\n保険証、母子健康手帳、予診票\n\n関連情報\n個別に受ける定期予防接種の概要;https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "保険証、母子健康手帳、予診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "市内指定医療機関",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/492/suitoutyuuijikou.pdf",
+          "title": "水痘ワクチン注意事項 （PDF 266.0KB）"
+        },
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+          "title": "個別に受ける定期予防接種の概要"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1002492.html",
+        "title": "水痘（みずぼうそう）ワクチンの接種について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　健康管理係",
+        "contactPhone": "042-552-0061",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1970011",
+        "contactAddress": "福生市福生2125-3（福生市保健センター）"
+      },
+      "area": {
+        "areaCode": "132187;福生市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132187+10+UM54",
+        "organization": "8000020132187",
+        "compartment": "福祉保健部　健康課　健康管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2020-04-03",
+      "odInformation": {
+        "updateDate": "2024-07-16",
+        "updater": "福生市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "MR（麻しん風しん混合）予防接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "MR（麻しん風しん混合）予防接種についてお知らせします。\n\n麻しんと風しんの予防接種は、1歳から2歳未満の間に1回、小学校に上がる前の1年間の間に1回の計2回接種となっております。接種期間が定められておりますので、受け忘れのないようお早めに接種をお受けください。\n\n令和7年度のMR（麻しん風しん混合）予防接種対象者\n・第1期　1歳から2歳未満の方\n・第2期　平成31年4月2日から令和2年4月1日までに生まれた方\n（注意）第2期の接種期間は、令和７年4月1日から令和8年3月31日です令和6年度内にMRワクチンを接種できなかった方へ令和6年度におけるMRワクチンの大幅な供給不足に伴い、次の対象者について接種対象期間が延長となりました。〇対象者第1期令和4年4月2日から令和5年4月1日生まれの方（令和6年度に2歳に達した方）第2期平成30年4月2日から平成31年4月1日生まれの方（令和6年度に年長児相当であった方）〇延長期間令和7年4月1日から令和9年3月31日までの2年間〇接種方法令和7年度接種対象者と同様、予診票を持参のうえ、市内指定医療機関にて接種をしてください。\n平成24年度をもちまして、第3期（中学1年生相当）及び第4期（高校3年生相当）のMR定期接種は終了しました。\n\n接種方法\n市内指定医療機関で保護者同伴の上、接種をお受けください。\n（注意）接種を受ける前に、以下の注意事項をお読みになり、接種してください。\n※指定医療機関については下部リンク「個別に受ける定期予防接種の概要」内の「個別予防接種について（指定医療機関一覧）」をご参照ください。\n\nMRワクチン接種の注意事項 （PDF 282.1KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/499/mrexplanation.pdf\n接種当日用意する者\n保険証、母子健康手帳、予診票\n\nMR・麻しん・風しんの制度が変更になりました\n平成18年6月2日に予防接種施行令が改正されました。\nそのため、MR（麻しん風しん混合）ワクチン、麻しんワクチン、風しんワクチンを使用した1期（1歳から2歳未満）、2期（5歳から7歳未満 小学校就学前1年間）の二回接種に変更になりました。すでに麻しん、風しんの予防接種を接種済みの方も接種が必要になりますので、接種状況をご確認のうえ市内指定医療機関で接種してください。（公費接種）\n\n関連情報\n個別に受ける定期予防接種の概要;https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+      "target": {
+        "targetPersons": "・第1期　1歳から2歳未満の方\n・第2期　平成31年4月2日から令和２年4月1日までに生まれた方\n（注意）第2期の接種期間は、令和6年4月1日から令和7年3月31日です。\n平成24年度をもちまして、第3期（中学1年生相当）及び第4期（高校3年生相当）のMR定期接種は終了しました。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "・第1期　1歳から2歳未満の方\n・第2期　平成30年4月2日から平成31年4月1日までに生まれた方"
+      },
+      "support": {
+        "description": "公費接種",
+        "monetarySupport": "公費接種",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "1歳から2歳未満の間に1回、小学校に上がる前の1年間の間に1回の計2回"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "１期：予診票がつづられた予防接種ノートを生後2か月を迎える方に保健センターから送付します。\n２期：予診票（対象の方に市から送付します）",
+      "procedurePersons": "保護者同伴",
+      "procedureMethod": "接種方法\n市内指定医療機関で保護者同伴の上、接種をお受けください。\n（注意）接種を受ける前に、以下の注意事項をお読みになり、接種してください。\n※指定医療機関については下部リンク「個別に受ける定期予防接種の概要」内の「個別予防接種について（指定医療機関一覧）」をご参照ください。\n\nMRワクチン接種の注意事項 （PDF 282.1KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/499/mrexplanation.pdf\n接種当日用意する者\n保険証、母子健康手帳、予診票\n\nMR・麻しん・風しんの制度が変更になりました\n平成18年6月2日に予防接種施行令が改正されました。\nそのため、MR（麻しん風しん混合）ワクチン、麻しんワクチン、風しんワクチンを使用した1期（1歳から2歳未満）、2期（5歳から7歳未満 小学校就学前1年間）の二回接種に変更になりました。すでに麻しん、風しんの予防接種を接種済みの方も接種が必要になりますので、接種状況をご確認のうえ市内指定医療機関で接種してください。（公費接種）\n\n関連情報\n個別に受ける定期予防接種の概要;https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "保険証、母子健康手帳、予診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "市内指定医療機関",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/499/mrexplanation.pdf",
+          "title": "MRワクチン接種の注意事項 （PDF 282.1KB）"
+        },
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+          "title": "個別に受ける定期予防接種の概要"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1002499.html",
+        "title": "MR（麻しん風しん混合）予防接種を受けましょう！"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　健康管理係",
+        "contactPhone": "042-552-0061",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1970011",
+        "contactAddress": "福生市福生2125-3（福生市保健センター）"
+      },
+      "area": {
+        "areaCode": "132187;福生市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132187+11+UM54",
+        "organization": "8000020132187",
+        "compartment": "福祉保健部　健康課　健康管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2025/04/01",
+      "odInformation": {
+        "updateDate": "2024-07-16",
+        "updater": "福生市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "日本脳炎予防接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "日本脳炎予防接種についてお知らせします。\n\n対象者\n1期：接種日当日に福生市に住所を有する、生後6か月から7歳6か月未満の方\n※3歳未満で日本脳炎ワクチンを接種する場合は、ワクチンの量が0.25mlとなりますので、御注意ください。\n2期：接種日当日に福生市に住所を有する、9歳から13歳未満の方\n\n接種方法\n市内指定医療機関で保護者同伴の上、接種をお受けください。\n（注意）接種を受ける前に、以下の注意事項をお読みになり、接種してください。\n※指定医療機関については下部リンク「個別に受ける定期予防接種の概要」内の「個別予防接種について（指定医療機関一覧）」をご参照ください。\n\n日本脳炎予防接種の注意事項 （PDF 260.9KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/004/366/jevexplanation.pdf\n接種当日用意するもの\n保険証、母子健康手帳、予診票\n\n接種回数\n4回\n\n・1期：3回\n1期初回：初回接種は6日以上の間隔をあけて2回接種。\n1期追加：追加接種は初回接種終了後6月以上あけて1回接種を行います。\n・2期：1回\n2期：1回の接種で完了です。\n特例措置対象者\n日本脳炎の予防接種は、以前ワクチン接種後にADEM（急性散在性脳脊髄炎）という疾患が発生したケースがあり、ワクチンとの因果関係が否定できなかったことから平成17年5月より積極的な勧奨を控えておりましたが、平成21年度より新しいワクチンが開発されたことに伴い、積極的な勧奨が再開となりました。勧奨が控えられていた時期に対象者だったお子さんは、未接種分を公費（無料）で接種できるよう特例措置が設けられております。\n\n特例措置対象者\n1.平成7年4月2日から平成19年4月1日までの間に生まれたお子さんは、特例措置として、20歳の誕生日の前日までであれば、日本脳炎第1期、第2期の未接種分を公費（無料）で接種いただけます。\n2.平成19年4月2日から平成21年10月1日までの間に生まれたお子さんは、特例措置として、9歳から13歳未満の間であれば、日本脳炎第1期、第2期の未接種分を公費（無料）で接種いただけます。\n関連情報\n個別に受ける定期予防接種の概要;https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+      "target": {
+        "targetPersons": "1期：接種日当日に福生市に住所を有する、生後6か月から7歳6か月未満の方\n※3歳未満で日本脳炎ワクチンを接種する場合は、ワクチンの量が0.25mlとなりますので、御注意ください。\n2期：接種日当日に福生市に住所を有する、9歳から13歳未満の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1期：接種日当日に福生市に住所を有する、生後6か月から7歳6か月未満の方\n※3歳未満で日本脳炎ワクチンを接種する場合は、ワクチンの量が0.25mlとなりますので、御注意ください。\n2期：接種日当日に福生市に住所を有する、9歳から13歳未満の方"
+      },
+      "support": {
+        "description": "日本脳炎の予防接種は、以前ワクチン接種後にADEM（急性散在性脳脊髄炎）という疾患が発生したケースがあり、ワクチンとの因果関係が否定できなかったことから平成17年5月より積極的な勧奨を控えておりましたが、平成21年度より新しいワクチンが開発されたことに伴い、積極的な勧奨が再開となりました。勧奨が控えられていた時期に対象者だったお子さんは、未接種分を公費（無料）で接種できるよう特例措置が設けられております。\n\n特例措置対象者\n平成7年4月2日から平成19年4月1日までの間に生まれたお子さんは、特例措置として、20歳の誕生日の前日までであれば、日本脳炎第1期、第2期の未接種分を公費（無料）で接種いただけます。\n平成19年4月2日から平成21年10月1日までの間に生まれたお子さんは、特例措置として、9歳から13歳未満の間であれば、日本脳炎第1期、第2期の未接種分を公費（無料）で接種いただけます。",
+        "monetarySupport": "日本脳炎の予防接種は、以前ワクチン接種後にADEM（急性散在性脳脊髄炎）という疾患が発生したケースがあり、ワクチンとの因果関係が否定できなかったことから平成17年5月より積極的な勧奨を控えておりましたが、平成21年度より新しいワクチンが開発されたことに伴い、積極的な勧奨が再開となりました。勧奨が控えられていた時期に対象者だったお子さんは、未接種分を公費（無料）で接種できるよう特例措置が設けられております。\n\n特例措置対象者\n平成7年4月2日から平成19年4月1日までの間に生まれたお子さんは、特例措置として、20歳の誕生日の前日までであれば、日本脳炎第1期、第2期の未接種分を公費（無料）で接種いただけます。\n平成19年4月2日から平成21年10月1日までの間に生まれたお子さんは、特例措置として、9歳から13歳未満の間であれば、日本脳炎第1期、第2期の未接種分を公費（無料）で接種いただけます。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "1期：生後6か月から7歳6か月未満\n2期：9歳から13歳未満\n\n接種回数\n4回\n\n・1期：3回\n1期初回：初回接種は6日以上の間隔をあけて2回接種。\n1期追加：追加接種は初回接種終了後6月以上あけて1回接種を行います。\n・2期：1回\n2期：1回の接種で完了です。"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "１期：予診票がつづられた予防接種ノートを生後2か月を迎える方に保健センターから送付します。\n２期：予診票（対象の方に市から送付します）",
+      "procedurePersons": "保護者同伴",
+      "procedureMethod": "接種方法\n市内指定医療機関で保護者同伴の上、接種をお受けください。\n（注意）接種を受ける前に、以下の注意事項をお読みになり、接種してください。\n※指定医療機関については下部リンク「個別に受ける定期予防接種の概要」内の「個別予防接種について（指定医療機関一覧）」をご参照ください。\n\n日本脳炎予防接種の注意事項 （PDF 260.9KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/004/366/jevexplanation.pdf\n接種当日用意するもの\n保険証、母子健康手帳、予診票\n\n接種回数\n4回\n\n・1期：3回\n1期初回：初回接種は6日以上の間隔をあけて2回接種。\n1期追加：追加接種は初回接種終了後6月以上あけて1回接種を行います。\n・2期：1回\n2期：1回の接種で完了です。\n特例措置対象者\n日本脳炎の予防接種は、以前ワクチン接種後にADEM（急性散在性脳脊髄炎）という疾患が発生したケースがあり、ワクチンとの因果関係が否定できなかったことから平成17年5月より積極的な勧奨を控えておりましたが、平成21年度より新しいワクチンが開発されたことに伴い、積極的な勧奨が再開となりました。勧奨が控えられていた時期に対象者だったお子さんは、未接種分を公費（無料）で接種できるよう特例措置が設けられております。\n\n特例措置対象者\n1.平成7年4月2日から平成19年4月1日までの間に生まれたお子さんは、特例措置として、20歳の誕生日の前日までであれば、日本脳炎第1期、第2期の未接種分を公費（無料）で接種いただけます。\n2.平成19年4月2日から平成21年10月1日までの間に生まれたお子さんは、特例措置として、9歳から13歳未満の間であれば、日本脳炎第1期、第2期の未接種分を公費（無料）で接種いただけます。\n関連情報\n個別に受ける定期予防接種の概要;https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "保険証、母子健康手帳、予診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "市内指定医療機関",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+          "title": "個別に受ける定期予防接種の概要"
+        },
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/004/366/jevexplanation.pdf",
+          "title": "日本脳炎予防接種の注意事項 （PDF 260.9KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1004366.html",
+        "title": "日本脳炎予防接種について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　健康管理係",
+        "contactPhone": "042-552-0061",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1970011",
+        "contactAddress": "福生市福生2125-3（福生市保健センター）"
+      },
+      "area": {
+        "areaCode": "132187;福生市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132187+12+UM54",
+        "organization": "8000020132187",
+        "compartment": "福祉保健部　健康課　健康管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2020-04-03",
+      "odInformation": {
+        "updateDate": "2024-07-16",
+        "updater": "福生市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "子宮頸がん予防ワクチンの接種\n積極的勧奨の再開"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "子宮頸がん予防ワクチンの接種についてお知らせします。\n\n積極的勧奨の再開について\n子宮頸がん予防ワクチン（HPVワクチン）は、平成25年4月1日より定期予防接種になりましたが、ワクチン接種後に、ワクチンとの因果関係を否定できない持続的な痛みが特異的に見られたことから、平成25年6月14日付け厚生労働省通知により、同副反応の発生頻度等がより明らかになり、国民に適切な情報提供ができるまでの間、定期接種を積極的に勧奨すべきではないとされていました。\n\nその後、ワクチンの安全性及び有効性が副反応のリスクを明らかに上回ることが認められたため、令和3年11月26日付け厚生労働省通知により、令和4年4月より積極的勧奨が再開することとなりました。\n\n「小学校6年～高校1年相当の女の子と保護者の方へ大切なお知らせ」厚生労働省リーフレット（概要版） （PDF 2.7MB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r6teikigaiyou.pdf\n「小学校6年～高校1年相当の女の子と保護者の方へ大切なお知らせ」厚生労働省リーフレット（詳細版） （PDF 3.6MB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r6teikisyousai.pdf\n「HPVワクチンを受けたお子様と保護者の方へ」厚生労働省リーフレット （PDF 1.3MB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/hpvuketaato.pdf\n対象者\n接種日当日に福生市に住所を有する、小学校6年生から高校1年生相当の女子\n\n接種方法\n市内指定医療機関で保護者同伴のうえ、接種をお受けください。\n（注1）接種を受ける前に、以下の注意事項をお読みになり、接種してください。\n（注2）接種を受ける方が13歳以上である場合は、事前に予診票及び説明書に記載されている予防接種の効果、副反応、健康被害救済について、保護者の確認の上、予診票への署名があれば、保護者の同伴は不要です。\n\n子宮頸がん予防ワクチン（サーバリックス）の注意事項 （PDF 204.2KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r5cervarix.pdf\n子宮頸がん予防ワクチン（ガーダシル）の注意事項 （PDF 221.0KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r5gardasil.pdf\n子宮頸がん予防ワクチン（シルガード9）の注意事項 （PDF 211.8KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r5silgard.pdf\n令和6年度子宮頸がん予防ワクチン接種指定医療機関一覧 （PDF 57.5KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r6iryoukikan.pdf\n予診票について\n中学校1年生相当及び高校1年生相当の対象者の方へ、郵送でお送りします。それ以外の年代で接種をご希望の方は、保健センターへお問い合わせください。\n\n接種当日用意するもの\n保険証、母子健康手帳、またはこれまで接種した子宮頸がん予防ワクチンの種類が分かるもの、予診票\n\n（注）原則、過去に接種歴のあるワクチンと同一の種類のワクチンを使用することとなっています。次の場合は、接種する医療機関の医師に相談してください。\n\n・過去に接種したワクチンの種類が不明\n・これまでに2価HPVワクチン（サーバリックス）または4価HPVワクチン（ガーダシル）を1回または2回接種した方で、残りの回数を9価HPVワクチン（シルガード9）で接種したい\n接種回数・接種間隔\n下記のとおり間隔をあけて、2回または3回接種します。\n接種するワクチンの種類及び年齢により回数・接種間隔が変わりますので、ご注意ください。\n\n※9価HPVワクチン（シルガード9）を使用し、1回目の接種を15歳になるまでに受ける場合、2回の接種で完了とすることが可能です。\n\n2価HPVワクチン（サーバリックス）\n・2回目\n1回目の接種から1か月以上\n・3回目\n1回目の接種から5か月以上（標準的には6か月以上）かつ2回目の接種から2か月半以上\n4価HPVワクチン（ガーダシル）\n・2回目\n1回目の接種から1か月以上（標準的には2か月以上）\n・3回目\n2回目の接種から3か月以上（標準的には1回目の接種から6か月以上）\n9価HPVワクチン（シルガード9）\n＜3回接種の場合＞\n\n・2回目\n1回目の接種から1か月以上（標準的には2か月以上）\n・3回目\n2回目の接種から3か月以上（標準的には1回目の接種から6か月以上）\n＜2回接種の場合＞\n\n・2回目\n1回目の接種から5か月以上（標準的には6か月以上）\n（注）対象となる年齢の方で、過去に任意接種として一部接種された方は、残りの回数を定期接種として接種することができますので、接種の際は、母子手帳の接種歴をご確認ください。\n\n定期接種の機会を逃した方へ（キャッチアップ接種）\n積極的勧奨の差し控えにより、定期接種の機会を逃してしまった方に対して公平な接種期間を確保する観点から、令和4年度から3年間、特例として定期接種の対象年齢を超えた方でも公費での接種が可能となりました。\n\n「HPVワクチンの接種を逃した方に接種の機会をご提供します」厚生労働省リーフレット （PDF 2.1MB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r6catchup.pdf\nヒトパピローマウイルス（HPV）ワクチンの接種を逃した方へ～キャッチアップ接種のご案内～（外部リンク）;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou/hpv_catch-up-vaccination.html\n対象者\n接種日当日に福生市に住所を有する、平成9年4月2日から平成20年4月1日生まれの女子で、過去に子宮頸がん予防ワクチン（HPVワクチン）の接種を合計3回受けていない方\n\n接種方法\n小学校6年生から高校1年生相当の女子と同様\n\n※キャッチアップ接種対象者の方は、保護者の同意は不要です。\n\n予診票について\n接種をご希望の方は、保健センターへお問い合わせください。\n\n接種当日用意するもの\n小学校6年生から高校1年生相当の女子と同様\n\n接種回数・接種間隔\n小学校6年生から高校1年生相当の女子と同様\n\n9価HPVワクチン（シルガード9）について\nこれまで公費で接種可能な子宮頸がん予防ワクチン（HPVワクチン）は、サーバリックス（2価HPVワクチン）とガーダシル（4価HPVワクチン）のみでしたが、令和5年4月からシルガード9（9価HPVワクチン）が対象に追加されました。\n\n「小学校6年～高校1年相当の女の子と保護者の方へ」厚生労働省リーフレット （PDF 603.5KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r6teiki.pdf\n「平成9年度生まれ～平成19年度生まれの女性へ」厚生労働省リーフレット （PDF 491.1KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r6catchup2.pdf\n9価ヒトパピローマウイルス（HPV）ワクチン（シルガード9）について（厚生労働省ホームページ）（外部リンク）;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou/hpv_9-valentHPVvaccine.html\n子宮頸がん予防ワクチン接種費用の助成について\n平成25年6月14日付け厚生労働省通知に基づき積極的勧奨を差し控えていたことにより接種機会を逃した方が、自費で子宮頸がん予防ワクチンの接種を受けた場合、接種費用の一部を助成します。詳しくは次のページをご覧ください。\n\n子宮頸がん予防ワクチン接種費用の助成について;https://www.city.fussa.tokyo.jp/life/child/health/1016484.html\n子宮頸がん予防ワクチン相談窓口\n子宮頸がん予防ワクチンの相談窓口が設置されました。\n子宮頸がん予防ワクチンの基礎知識から副反応が発生した場合の医療機関や相談先が掲載されておりますのて、内容に合わせてお問合せください。\n詳細は以下外部リンクよりご確認ください。\n\nHPVワクチンの定期予防接種について（東京都ホームページ）（外部リンク）;https://www.hokeniryo.metro.tokyo.lg.jp/kansen/hpv.html\nヒトパピローマウイルス感染症（子宮頸がん予防ワクチン）：相談窓口記載あり（厚生労働省ホームページ）（外部リンク）;https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou28/\n感染症・予防接種相談窓口（厚生労働省ホームページ）（外部リンク）;https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou01/inful_consult.html",
+      "target": {
+        "targetPersons": "接種日当日に福生市に住所を有する、小学校6年生から高校1年生相当の女子",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "接種日当日に福生市に住所を有する、小学校6年生から高校1年生相当の女子"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "予診票について\n中学校1年生相当及び高校1年生相当の対象者の方へ、郵送でお送りします。それ以外の年代で接種をご希望の方は、保健センターへお問い合わせください。",
+      "procedurePersons": "保護者同伴\n接種を受ける方が13歳以上である場合は、事前に予診票及び説明書に記載されている予防接種の効果、副反応、健康被害救済について、保護者の確認の上、予診票への署名があれば、保護者の同伴は不要です。",
+      "procedureMethod": "子宮頸がん予防ワクチン（HPVワクチン）は、平成25年4月1日より定期予防接種になりましたが、ワクチン接種後に、ワクチンとの因果関係を否定できない持続的な痛みが特異的に見られたことから、平成25年6月14日付け厚生労働省通知により、同副反応の発生頻度等がより明らかになり、国民に適切な情報提供ができるまでの間、定期接種を積極的に勧奨すべきではないとされていました。\n\nその後、ワクチンの安全性及び有効性が副反応のリスクを明らかに上回ることが認められたため、令和3年11月26日付け厚生労働省通知により、令和4年4月より積極的勧奨が再開することとなりました。\n\n「小学校6年～高校1年相当の女の子と保護者の方へ大切なお知らせ」厚生労働省リーフレット（概要版） （PDF 2.7MB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r6teikigaiyou.pdf\n「小学校6年～高校1年相当の女の子と保護者の方へ大切なお知らせ」厚生労働省リーフレット（詳細版） （PDF 3.6MB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r6teikisyousai.pdf\n「HPVワクチンを受けたお子様と保護者の方へ」厚生労働省リーフレット （PDF 1.3MB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/hpvuketaato.pdf\n対象者\n接種日当日に福生市に住所を有する、小学校6年生から高校1年生相当の女子\n\n接種方法\n市内指定医療機関で保護者同伴のうえ、接種をお受けください。\n（注1）接種を受ける前に、以下の注意事項をお読みになり、接種してください。\n（注2）接種を受ける方が13歳以上である場合は、事前に予診票及び説明書に記載されている予防接種の効果、副反応、健康被害救済について、保護者の確認の上、予診票への署名があれば、保護者の同伴は不要です。\n\n子宮頸がん予防ワクチン（サーバリックス）の注意事項 （PDF 204.2KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r5cervarix.pdf\n子宮頸がん予防ワクチン（ガーダシル）の注意事項 （PDF 221.0KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r5gardasil.pdf\n子宮頸がん予防ワクチン（シルガード9）の注意事項 （PDF 211.8KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r5silgard.pdf\n令和6年度子宮頸がん予防ワクチン接種指定医療機関一覧 （PDF 57.5KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r6iryoukikan.pdf\n予診票について\n中学校1年生相当及び高校1年生相当の対象者の方へ、郵送でお送りします。それ以外の年代で接種をご希望の方は、保健センターへお問い合わせください。\n\n接種当日用意するもの\n保険証、母子健康手帳、またはこれまで接種した子宮頸がん予防ワクチンの種類が分かるもの、予診票\n\n（注）原則、過去に接種歴のあるワクチンと同一の種類のワクチンを使用することとなっています。次の場合は、接種する医療機関の医師に相談してください。\n\n・過去に接種したワクチンの種類が不明\n・これまでに2価HPVワクチン（サーバリックス）または4価HPVワクチン（ガーダシル）を1回または2回接種した方で、残りの回数を9価HPVワクチン（シルガード9）で接種したい\n接種回数・接種間隔\n下記のとおり間隔をあけて、2回または3回接種します。\n接種するワクチンの種類及び年齢により回数・接種間隔が変わりますので、ご注意ください。\n\n※9価HPVワクチン（シルガード9）を使用し、1回目の接種を15歳になるまでに受ける場合、2回の接種で完了とすることが可能です。\n\n2価HPVワクチン（サーバリックス）\n・2回目\n1回目の接種から1か月以上\n・3回目\n1回目の接種から5か月以上（標準的には6か月以上）かつ2回目の接種から2か月半以上\n4価HPVワクチン（ガーダシル）\n・2回目\n1回目の接種から1か月以上（標準的には2か月以上）\n・3回目\n2回目の接種から3か月以上（標準的には1回目の接種から6か月以上）\n9価HPVワクチン（シルガード9）\n＜3回接種の場合＞\n\n・2回目\n1回目の接種から1か月以上（標準的には2か月以上）\n・3回目\n2回目の接種から3か月以上（標準的には1回目の接種から6か月以上）\n＜2回接種の場合＞\n\n・2回目\n1回目の接種から5か月以上（標準的には6か月以上）\n（注）対象となる年齢の方で、過去に任意接種として一部接種された方は、残りの回数を定期接種として接種することができますので、接種の際は、母子手帳の接種歴をご確認ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "保険証、母子健康手帳、またはこれまで接種した子宮頸がん予防ワクチンの種類が分かるもの、予診票\n\n（注）原則、過去に接種歴のあるワクチンと同一の種類のワクチンを使用することとなっています。次の場合は、接種する医療機関の医師に相談してください。\n\n・過去に接種したワクチンの種類が不明\n・これまでに2価HPVワクチン（サーバリックス）または4価HPVワクチン（ガーダシル）を1回または2回接種した方で、残りの回数を9価HPVワクチン（シルガード9）で接種したい",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "市内指定医療機関",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r5silgard.pdf",
+          "title": "子宮頸がん予防ワクチン（シルガード9）の注意事項 （PDF 211.8KB）"
+        },
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r6iryoukikan.pdf",
+          "title": "令和6年度子宮頸がん予防ワクチン接種指定医療機関一覧 （PDF 57.5KB）"
+        },
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r6teikisyousai.pdf",
+          "title": "「小学校6年～高校1年相当の女の子と保護者の方へ大切なお知らせ」厚生労働省リーフレット（詳細版） （PDF 3.6MB）"
+        },
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r6teikigaiyou.pdf",
+          "title": "「小学校6年～高校1年相当の女の子と保護者の方へ大切なお知らせ」厚生労働省リーフレット（概要版） （PDF 2.7MB）"
+        },
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/hpvuketaato.pdf",
+          "title": "「HPVワクチンを受けたお子様と保護者の方へ」厚生労働省リーフレット （PDF 1.3MB）"
+        },
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r5cervarix.pdf",
+          "title": "子宮頸がん予防ワクチン（サーバリックス）の注意事項 （PDF 204.2KB）"
+        },
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r5gardasil.pdf",
+          "title": "子宮頸がん予防ワクチン（ガーダシル）の注意事項 （PDF 221.0KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1002496.html",
+        "title": "子宮頸がん予防ワクチンの接種について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　健康管理係",
+        "contactPhone": "042-552-0061",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1970011",
+        "contactAddress": "福生市福生2125-3（福生市保健センター）"
+      },
+      "area": {
+        "areaCode": "132187;福生市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132187+13+UM54",
+        "organization": "8000020132187",
+        "compartment": "福祉保健部　健康課　健康管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-11",
+      "odInformation": {
+        "updateDate": "2024-07-16",
+        "updater": "福生市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "子宮頸がん予防ワクチンの接種\n定期接種の機会を逃した方へ（キャッチアップ接種）"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "子宮頸がん予防ワクチンの接種についてお知らせします。【キャッチアップ接種に関するお知らせ】キャッチアップ接種期間については、令和7年3月末までとされていましたが、昨夏以降の大幅な需要増により、HPVワクチンの接種を希望しても受けられなかった方がいる状況等を踏まえ、次の対象者については、接種期間を令和8年3月31日まで延長します。○対象者：・キャッチアップ接種対象者（平成9年4月2日から平成20年4月1日生まれの女子）のうち、令和4年4月1日から令和7年3月31日までの間にHPVワクチンを1回以上接種した方・平成20年度（平成20年4月2日から平成21年4月1日まで）生まれの女子で、令和4年4月1日から令和7年3月31日までの間にHPVワクチンを1回以上接種した方\n\n\n積極的勧奨の再開について\n子宮頸がん予防ワクチン（HPVワクチン）は、平成25年4月1日より定期予防接種になりましたが、ワクチン接種後に、ワクチンとの因果関係を否定できない持続的な痛みが特異的に見られたことから、平成25年6月14日付け厚生労働省通知により、同副反応の発生頻度等がより明らかになり、国民に適切な情報提供ができるまでの間、定期接種を積極的に勧奨すべきではないとされていました。\n\nその後、ワクチンの安全性及び有効性が副反応のリスクを明らかに上回ることが認められたため、令和3年11月26日付け厚生労働省通知により、令和4年4月より積極的勧奨が再開することとなりました。\n\n「小学校6年～高校1年相当の女の子と保護者の方へ大切なお知らせ」厚生労働省リーフレット（概要版） （PDF 2.7MB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r6teikigaiyou.pdf\n「小学校6年～高校1年相当の女の子と保護者の方へ大切なお知らせ」厚生労働省リーフレット（詳細版） （PDF 3.6MB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r6teikisyousai.pdf\n「HPVワクチンを受けたお子様と保護者の方へ」厚生労働省リーフレット （PDF 1.3MB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/hpvuketaato.pdf\n対象者\n接種日当日に福生市に住所を有する、小学校6年生から高校1年生相当の女子\n\n接種方法\n市内指定医療機関で保護者同伴のうえ、接種をお受けください。\n（注1）接種を受ける前に、以下の注意事項をお読みになり、接種してください。\n（注2）接種を受ける方が13歳以上である場合は、事前に予診票及び説明書に記載されている予防接種の効果、副反応、健康被害救済について、保護者の確認の上、予診票への署名があれば、保護者の同伴は不要です。\n\n子宮頸がん予防ワクチン（サーバリックス）の注意事項 （PDF 204.2KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r5cervarix.pdf\n子宮頸がん予防ワクチン（ガーダシル）の注意事項 （PDF 221.0KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r5gardasil.pdf\n子宮頸がん予防ワクチン（シルガード9）の注意事項 （PDF 211.8KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r5silgard.pdf\n令和6年度子宮頸がん予防ワクチン接種指定医療機関一覧 （PDF 57.5KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r6iryoukikan.pdf\n予診票について\n中学校1年生相当及び高校1年生相当の対象者の方へ、郵送でお送りします。それ以外の年代で接種をご希望の方は、保健センターへお問い合わせください。\n\n接種当日用意するもの\n保険証、母子健康手帳、またはこれまで接種した子宮頸がん予防ワクチンの種類が分かるもの、予診票\n\n（注）原則、過去に接種歴のあるワクチンと同一の種類のワクチンを使用することとなっています。次の場合は、接種する医療機関の医師に相談してください。\n\n・過去に接種したワクチンの種類が不明\n・これまでに2価HPVワクチン（サーバリックス）または4価HPVワクチン（ガーダシル）を1回または2回接種した方で、残りの回数を9価HPVワクチン（シルガード9）で接種したい\n接種回数・接種間隔\n下記のとおり間隔をあけて、2回または3回接種します。\n接種するワクチンの種類及び年齢により回数・接種間隔が変わりますので、ご注意ください。\n\n※9価HPVワクチン（シルガード9）を使用し、1回目の接種を15歳になるまでに受ける場合、2回の接種で完了とすることが可能です。\n\n2価HPVワクチン（サーバリックス）\n・2回目\n1回目の接種から1か月以上\n・3回目\n1回目の接種から5か月以上（標準的には6か月以上）かつ2回目の接種から2か月半以上\n4価HPVワクチン（ガーダシル）\n・2回目\n1回目の接種から1か月以上（標準的には2か月以上）\n・3回目\n2回目の接種から3か月以上（標準的には1回目の接種から6か月以上）\n9価HPVワクチン（シルガード9）\n＜3回接種の場合＞\n\n・2回目\n1回目の接種から1か月以上（標準的には2か月以上）\n・3回目\n2回目の接種から3か月以上（標準的には1回目の接種から6か月以上）\n＜2回接種の場合＞\n\n・2回目\n1回目の接種から5か月以上（標準的には6か月以上）\n（注）対象となる年齢の方で、過去に任意接種として一部接種された方は、残りの回数を定期接種として接種することができますので、接種の際は、母子手帳の接種歴をご確認ください。\n\n定期接種の機会を逃した方へ（キャッチアップ接種）\n積極的勧奨の差し控えにより、定期接種の機会を逃してしまった方に対して公平な接種期間を確保する観点から、令和4年度から3年間、特例として定期接種の対象年齢を超えた方でも公費での接種が可能となりました。\n\n「HPVワクチンの接種を逃した方に接種の機会をご提供します」厚生労働省リーフレット （PDF 2.1MB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r6catchup.pdf\nヒトパピローマウイルス（HPV）ワクチンの接種を逃した方へ～キャッチアップ接種のご案内～（外部リンク）;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou/hpv_catch-up-vaccination.html\n対象者\n接種日当日に福生市に住所を有する、平成9年4月2日から平成20年4月1日生まれの女子で、過去に子宮頸がん予防ワクチン（HPVワクチン）の接種を合計3回受けていない方\n\n接種方法\n小学校6年生から高校1年生相当の女子と同様\n\n※キャッチアップ接種対象者の方は、保護者の同意は不要です。\n\n予診票について\n接種をご希望の方は、保健センターへお問い合わせください。\n\n接種当日用意するもの\n小学校6年生から高校1年生相当の女子と同様\n\n接種回数・接種間隔\n小学校6年生から高校1年生相当の女子と同様\n\n9価HPVワクチン（シルガード9）について\nこれまで公費で接種可能な子宮頸がん予防ワクチン（HPVワクチン）は、サーバリックス（2価HPVワクチン）とガーダシル（4価HPVワクチン）のみでしたが、令和5年4月からシルガード9（9価HPVワクチン）が対象に追加されました。\n\n「小学校6年～高校1年相当の女の子と保護者の方へ」厚生労働省リーフレット （PDF 603.5KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r6teiki.pdf\n「平成9年度生まれ～平成19年度生まれの女性へ」厚生労働省リーフレット （PDF 491.1KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r6catchup2.pdf\n9価ヒトパピローマウイルス（HPV）ワクチン（シルガード9）について（厚生労働省ホームページ）（外部リンク）;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou/hpv_9-valentHPVvaccine.html\n子宮頸がん予防ワクチン接種費用の助成について\n平成25年6月14日付け厚生労働省通知に基づき積極的勧奨を差し控えていたことにより接種機会を逃した方が、自費で子宮頸がん予防ワクチンの接種を受けた場合、接種費用の一部を助成します。詳しくは次のページをご覧ください。\n\n子宮頸がん予防ワクチン接種費用の助成について;https://www.city.fussa.tokyo.jp/life/child/health/1016484.html\n子宮頸がん予防ワクチン相談窓口\n子宮頸がん予防ワクチンの相談窓口が設置されました。\n子宮頸がん予防ワクチンの基礎知識から副反応が発生した場合の医療機関や相談先が掲載されておりますのて、内容に合わせてお問合せください。\n詳細は以下外部リンクよりご確認ください。\n\nHPVワクチンの定期予防接種について（東京都ホームページ）（外部リンク）;https://www.hokeniryo.metro.tokyo.lg.jp/kansen/hpv.html\nヒトパピローマウイルス感染症（子宮頸がん予防ワクチン）：相談窓口記載あり（厚生労働省ホームページ）（外部リンク）;https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou28/\n感染症・予防接種相談窓口（厚生労働省ホームページ）（外部リンク）;https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou01/inful_consult.html",
+      "target": {
+        "targetPersons": "接種日当日に福生市に住所を有する、平成9年4月2日から平成20年4月1日生まれの女子で、過去に子宮頸がん予防ワクチン（HPVワクチン）の接種を合計3回受けていない方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "接種日当日に福生市に住所を有する、平成9年4月2日から平成20年4月1日生まれの女子で、過去に子宮頸がん予防ワクチン（HPVワクチン）の接種を合計3回受けていない方"
+      },
+      "support": {
+        "description": "令和4年度から3年間、特例として定期接種の対象年齢を超えた方でも公費での接種が可能となりました。",
+        "monetarySupport": "令和4年度から3年間、特例として定期接種の対象年齢を超えた方でも公費での接種が可能となりました。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "予診票について\n接種をご希望の方は、保健センターへお問い合わせください。",
+      "procedurePersons": null,
+      "procedureMethod": "積極的勧奨の差し控えにより、定期接種の機会を逃してしまった方に対して公平な接種期間を確保する観点から、令和4年度から3年間、特例として定期接種の対象年齢を超えた方でも公費での接種が可能となりました。\n\n「HPVワクチンの接種を逃した方に接種の機会をご提供します」厚生労働省リーフレット （PDF 2.1MB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r6catchup.pdf\nヒトパピローマウイルス（HPV）ワクチンの接種を逃した方へ～キャッチアップ接種のご案内～（外部リンク）;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou/hpv_catch-up-vaccination.html\n\n接種方法\n小学校6年生から高校1年生相当の女子と同様\n\n※キャッチアップ接種対象者の方は、保護者の同意は不要です。\n\n予診票について\n接種をご希望の方は、保健センターへお問い合わせください。\n\n接種当日用意するもの\n小学校6年生から高校1年生相当の女子と同様\n\n接種回数・接種間隔\n小学校6年生から高校1年生相当の女子と同様",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "小学校6年生から高校1年生相当の女子と同様",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/496/r6catchup.pdf",
+          "title": "「HPVワクチンの接種を逃した方に接種の機会をご提供します」厚生労働省リーフレット （PDF 2.1MB）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou/hpv_catch-up-vaccination.html",
+          "title": "ヒトパピローマウイルス（HPV）ワクチンの接種を逃した方へ～キャッチアップ接種のご案内～（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1002496.html",
+        "title": "子宮頸がん予防ワクチンの接種について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　健康管理係",
+        "contactPhone": "042-552-0061",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1970011",
+        "contactAddress": "福生市福生2125-3（福生市保健センター）"
+      },
+      "area": {
+        "areaCode": "132187;福生市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132187+14+UM54",
+        "organization": "8000020132187",
+        "compartment": "福祉保健部　健康課　健康管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2025/04/01",
+      "odInformation": {
+        "updateDate": "2024-07-16",
+        "updater": "福生市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "長期にわたる疾患等のため定期接種を受けられなかった方"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "長期にわたる疾患等の事情により、定期接種を受けられなかった方は、その事情がなくなった日から2年間定期接種の対象者となります。\n\n対象者\n以下の（ア）から（ウ）の疾病にかかったことにより、医師の判断でやむを得ず定期予防接種を受けることができなかった方\n該当のある方は、保険証・母子手帳・定期接種を受けることができなかったと判断した理由等を記載した医師の診断書等を持参のうえ、保健センターまでご相談ください。\n\n（ア）\n重症複合免疫不全症、無ガンマグロブリン血症その他免疫の機能に支障を生じさせる重篤な疾病\n\n（イ）\n白血病、再生不良性貧血、重症筋無力症、若年性関節リウマチ、全身性エリテマトーデス、潰瘍性大腸炎、ネフローゼ症候群その他免疫の機能を抑制する治療を必要とする重篤な疾病\n\n（ウ）\n医学的知見に基づきア又はイに準ずると認められるもの\n\n対象期間の特例\n以下のワクチンを接種する場合は、接種年齢の上限がありますのでご注意ください。\n\n・四種混合ワクチンを接種する場合は、15歳に達するまでの間\n・結核については、4歳に達するまでの間\n・Hib感染症については、10歳に達するまでの間\n・小児の肺炎球菌感染症については、6歳に達するまでの間",
+      "target": {
+        "targetPersons": "長期にわたる疾患等の事情により、定期接種を受けられなかった方は、その事情がなくなった日から2年間定期接種の対象者となります。\n\n対象者\n以下の（ア）から（ウ）の疾病にかかったことにより、医師の判断でやむを得ず定期予防接種を受けることができなかった方\n該当のある方は、保険証・母子手帳・定期接種を受けることができなかったと判断した理由等を記載した医師の診断書等を持参のうえ、保健センターまでご相談ください。\n\n（ア）\n重症複合免疫不全症、無ガンマグロブリン血症その他免疫の機能に支障を生じさせる重篤な疾病\n\n（イ）\n白血病、再生不良性貧血、重症筋無力症、若年性関節リウマチ、全身性エリテマトーデス、潰瘍性大腸炎、ネフローゼ症候群その他免疫の機能を抑制する治療を必要とする重篤な疾病\n\n（ウ）\n医学的知見に基づきア又はイに準ずると認められるもの",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "長期にわたる疾患等の事情により、定期接種を受けられなかった方は、その事情がなくなった日から2年間定期接種の対象者となります。\n対象期間の特例\n以下のワクチンを接種する場合は、接種年齢の上限がありますのでご注意ください。\n\n・四種混合ワクチンを接種する場合は、15歳に達するまでの間\n・結核については、4歳に達するまでの間\n・Hib感染症については、10歳に達するまでの間\n・小児の肺炎球菌感染症については、6歳に達するまでの間"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "以下の（ア）から（ウ）の疾病にかかったことにより、医師の判断でやむを得ず定期予防接種を受けることができなかった方\n該当のある方は、保険証・母子手帳・定期接種を受けることができなかったと判断した理由等を記載した医師の診断書等を持参のうえ、保健センターまでご相談ください。\n\n（ア）\n重症複合免疫不全症、無ガンマグロブリン血症その他免疫の機能に支障を生じさせる重篤な疾病\n\n（イ）\n白血病、再生不良性貧血、重症筋無力症、若年性関節リウマチ、全身性エリテマトーデス、潰瘍性大腸炎、ネフローゼ症候群その他免疫の機能を抑制する治療を必要とする重篤な疾病\n\n（ウ）\n医学的知見に基づきア又はイに準ずると認められるもの",
+      "procedureMethod": "該当のある方は、保険証・母子手帳・定期接種を受けることができなかったと判断した理由等を記載した医師の診断書等を持参のうえ、保健センターまでご相談ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "保険証・母子手帳・定期接種を受けることができなかったと判断した理由等を記載した医師の診断書等を持参",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "保健センター",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1002503.html",
+        "title": "長期にわたる疾患等のため定期接種を受けられなかった方について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　健康管理係",
+        "contactPhone": "042-552-0061",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1970011",
+        "contactAddress": "福生市福生2125-3（福生市保健センター）"
+      },
+      "area": {
+        "areaCode": "132187;福生市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132187+15+UM54",
+        "organization": "8000020132187",
+        "compartment": "福祉保健部　健康課　健康管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2016-08-23",
+      "odInformation": {
+        "updateDate": "2024-07-16",
+        "updater": "福生市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊娠の届出・母子健康手帳の交付",
+        "shortName": "母子健康手帳の交付"
+      },
+      "summary": "妊娠がわかったら妊娠の届出をしてください。妊娠の届出をした妊婦さんに母子健康手帳を交付します。母子健康手帳は、妊娠からお子さんが小学校に入学するまでの、母と子の健康の記録です。育児、予防接種、健康診査などの際に必要となります。",
+      "description": "母子健康手帳の交付\n医療機関で妊娠が確認できた方は、医師に出産予定日を確認のうえ、できるだけ早い時期（妊娠11週以内）に妊娠の届け出をしましょう。\n\n妊娠・出産の経過、子どもの発育状況、健康診査、予防接種等を記録する母子健康手帳と妊婦健康診査受診票、出生通知票などが入った母と子の保健バックをお渡しします。\n\n【対象者】妊娠された方で、市内に住民登録のある方\n\n【持ち物】\n\n・個人番号が確認できるもの：個人番号カード、通知カード等\n\n・本人確認ができるもの（個人番号カード持参の場合は不要です）：\n\n　　写真のあるもの（運転免許証、パスポート、在留カード等）・・・いずれか一つ\n\n　　写真のないもの（年金手帳等）・・・二つ以上\n\n　振込先口座のわかるもの（妊婦さんご本人の名義のもの）\n\n【届け先】福生市こども家庭センター課母子保健係（保健センター2階）\n\n※代理人が申請する場合は、次の持ち物が必要です。\n\n【代理人の持ち物】\n\n・代理権の確認ができるもの：妊婦本人からの委任状等\n\n・代理人の身元の確認ができるもの：\n\n　　写真のあるもの（個人番号カード、運転免許証、在留カード等）・・・いずれか一つ\n\n　写真のないもの（年金手帳等）・・・二つ以上\n\n・妊婦本人の個人番号が確認できるもの：個人番号カード、通知カード等\n\n　振込先口座のわかるもの（妊婦さんご本人の名義のもの）\n\n※母子健康手帳交付の際は面接を行いますので、時間に余裕をもってお越しください。\n\n※妊婦さんの負担軽減のため、面談は原則予約制です。医療機関等で母子健康手帳の案内を受けた妊婦さんは、事前にこども家庭センター課母子保健係で予約をとり、お越しください。\n\n妊娠届出書（兼）妊婦健康診査受診票交付申請書 （PDF 369.3KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/011/090/ninnshin.pdf",
+      "target": {
+        "targetPersons": "妊娠された方で、市内に住民登録のある方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "医療機関で妊娠が確認できた方は、医師に出産予定日を確認のうえ、できるだけ早い時期（妊娠11週以内）に妊娠の届け出をしましょう。\n\n妊娠・出産の経過、子どもの発育状況、健康診査、予防接種等を記録する母子健康手帳と妊婦健康診査受診票、出生通知票などが入った母と子の保健バッグをお渡しします。",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠・出産の経過、子どもの発育状況、健康診査、予防接種等を記録する母子健康手帳と妊婦健康診査受診票、出生通知票などが入った母と子の保健バックをお渡しします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "福生市こども家庭センター課母子保健係（保健センター2階）",
+        "implementationAddress": "福生市福生2125-3（福生市保健センター2階）"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "面談は原則予約制です。医療機関等で母子健康手帳の案内を受けた妊婦さんは、事前にこども家庭センター課母子保健係で予約をとり、お越しください。",
+      "procedurePersons": "妊娠された方で、市内に住民登録のある方,代理人",
+      "procedureMethod": "【持ち物】\n\n・個人番号が確認できるもの：個人番号カード、通知カード等\n\n・本人確認ができるもの（個人番号カード持参の場合は不要です）：\n\n　　写真のあるもの（運転免許証、パスポート、在留カード等）・・・いずれか一つ\n\n　　写真のないもの（年金手帳等）・・・二つ以上\n\n・妊婦本人の振込口座番号がわかるもの（通帳、カード等）\n\n　振込先口座のわかるもの（妊婦さんご本人の名義のもの）\n\n【届け先】福生市こども家庭センター課母子保健係（保健センター2階）\n\n※代理人が申請する場合は、次の持ち物が必要です。\n\n【代理人の持ち物】\n\n・代理権の確認ができるもの：妊婦本人からの委任状等\n\n・代理人の身元の確認ができるもの：\n\n　　写真のあるもの（個人番号カード、運転免許証、在留カード等）・・・いずれか一つ\n\n　　写真のないもの（年金手帳等）・・・二つ以上\n\n・妊婦本人の個人番号が確認できるもの：個人番号カード、通知カード等\n\n　振込先口座のわかるもの（妊婦さんご本人の名義のもの）\n\n※母子健康手帳交付の際は面接を行いますので、時間に余裕をもってお越しください。\n\n※妊婦さんの負担軽減のため、面談は原則予約制です。医療機関等で母子健康手帳の案内を受けた妊婦さんは、事前にこども家庭センター課母子保健係で予約をとり、お越しください。\n　　\n妊娠届出書（兼）妊婦健康診査受診票交付申請書 （PDF 171.2KB）：https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/011/090/ninnshin.pdf",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "【持ち物】\n\n・個人番号が確認できるもの：個人番号カード、通知カード等\n\n・本人確認ができるもの（個人番号カード持参の場合は不要です）：\n\n　　写真のあるもの（運転免許証、パスポート、在留カード等）・・・いずれか一つ\n\n　　写真のないもの（年金手帳等）・・・二つ以上\n\n・妊婦名義の口座番号がわかるもの（通帳、カード）\n\n※代理人が申請する場合は、次の持ち物が必要です。\n\n【代理人の持ち物】\n\n・代理権の確認ができるもの：妊婦本人からの委任状等\n\n・代理人の身元の確認ができるもの：\n\n　　写真のあるもの（個人番号カード、運転免許証、在留カード等）・・・いずれか一つ\n\n　　写真のないもの（年金手帳等）・・・二つ以上\n\n・妊婦名義の口座番号がわかるもの（通帳、カード）\n\n・妊婦本人の個人番号が確認できるもの：個人番号カード、通知カード等",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "福生市こども家庭センター課母子保健係（保健センター2階）",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.fussa.tokyo.jp/kofukunavi/1012668/1019921.html",
+        "title": "母子健康手帳の交付"
+      },
+      "formLink": [
+        {
+          "uri": "https://myna.go.jp/search",
+          "title": "マイナポータル"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども家庭部　こども家庭センター課　母子保健係",
+        "contactPhone": "042-552-0312",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1970011",
+        "contactAddress": "福生市福生2125-3（福生市保健センター2階）"
+      },
+      "area": {
+        "areaCode": "132187;福生市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132187+1+UM1",
+        "organization": "8000020132187",
+        "compartment": "子ども家庭部　こども家庭センター課　母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2025/04/01",
+      "odInformation": {
+        "updateDate": "2024-07-16",
+        "updater": "福生市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第15条（妊娠の届出）、第16条（母子健康手帳）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "077",
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児医療費（子ども医療費）の助成",
+        "shortName": "乳幼児医療費助成制度"
+      },
+      "summary": "子どもの保健対策を充実し、子育て世帯の経済的負担を軽減するため、お子さんが病気やけがなどにより健康保険を使って医療機関で受診した場合、保険診療の自己負担分（2割または3割）の一部を助成しています。",
+      "description": "乳幼児が医療機関等で受診する際、健康保険証と乳幼児医療証（マル乳医療証）を提示することにより、医療費のうち保険診療の自己負担を助成する制度です。\n\n対象となる方\n福生市に住所のある0から6歳（小学校入学前まで）の乳幼児を養育している方\n\n※所得制限はありません。\n\nただし、次のいずれかに該当する場合は、対象となりません。\n\n1.健康保険に加入していない\n2.自己負担がないひとり親家庭等医療費助成（マル親）を受けている\n3.自己負担がない心身障害者医療費助成（マル障）を受けている\n4.児童福祉施設等に入所していて医療費の自己負担がない\n5.生活保護を受けている\n6.里親に委託されている\n※　義務教育就学児医療費助成制度及び高校生等医療費助成制度とは異なる制度です。小学1年生から中学3年生までの年齢の児童についてはマル子（義務教育就学児医療費助成制度）、高校1年生相当から高校3年生相当の年齢の児童についてはマル青（高校生等医療費助成制度）をご参照ください。\n\nマル子（義務教育就学児医療費助成制度）;https://www.city.fussa.tokyo.jp/life/child/rearing/1002519.html\nマル青（高校生等医療費助成制度）;https://www.city.fussa.tokyo.jp/life/child/rearing/1017042.html\n助成内容\n乳幼児が医療機関等で受診したときの健康保険の適用がある医療費の自己負担分を助成します。\n\n補装具等は健康保険が適用されたものであれば、助成対象となります。\n\n助成対象外となるもの\n・健康診断、予防接種、薬の容器代、検診料、診断書料、特定療養費（一定基準の病院等を紹介状なしで受診したとき）等、保険適用されないもの\n・入院時の食事療養標準負担額\n・交通事故等の第三者による診療にかかる医療費\n医療証の申請方法\nお子様の出生届や福生市への転入手続きの際にご案内しております。\n\nその際、以下のものが必要になります。\n\n・健康保険証の写し（対象児童）\n※　マイナンバー制度による情報連携により税情報が取得できない場合（DV避難者等）は住民税課税（非課税）証明書が必要になります。\n\n※その他必要に応じて書類を提出いただきますので、詳しくはお問い合わせください。\n\n領収書での精算手続き\n次のいずれかに該当する場合は、領収書での精算手続きができます。\n\n1.医療証が届く前に受診したとき\n2.都外で受診したとき\n3.補装具や治療用眼鏡を作成したとき\n4.東京都以外の「国民」健康保険加入しているとき\n＜精算手続き前にご確認お願いします＞\n\n次のいずれかに該当する場合は、医療証の手続きの前に、健康保険組合等での手続きが必要です。\n\n・健康保険証と医療証を両方とも使わずに全額を自己負担（10割負担）したとき\n・補装具や治療用眼鏡を作成したとき\n・高額療養費に該当するとき\n（注意）健康保険組合等から支給額の通知書（「支給決定通知書」等）が届いたら、医療助成分の手続きをしてください。\n\n（注意）健康保険組合等に領収書や補装具の証明書、治療用眼鏡の処方箋などの原本を提出するときは、あらかじめコピーをとっておいてください。\n\n申請方法\n市役所1階8番子ども育成課窓口で助成の申請をしてください。その際以下のものが必要になります。\n\n1.領収書\n   ※受診者名、受診日、保険点数、領収額、医療機関の名称・所在地の記載のあるもの\n2.医療証\n3.申請者名義の口座番号等がわかるもの\n※健康保険組合等での精算手続きをしたときは、以下の書類を提出してください。\n\n1.健康保険組合等から支給額の通知書（「支給決定通知書」等）の原本\n2.領収書（健康保険組合等に原本を提出した場合は、写しで可）\n3.補装具の指示書または証明書の写し（補装具を作成したとき）\n4.眼鏡の処方箋または指示書の写し（治療用眼鏡を作成したとき）\nお願い\n交通事故等にあったら…\n交通事故等の第三者（加害者）からの行為によって負傷し医療証を使用する場合は、必ず子ども育成課手当助成係に届け出てください。届け出の前に治療費を受け取ったり、示談を済ませてしまった場合は医療助成額を後から返還していただく場合もございますのでご注意ください。\n\n住所や健康保険等に変更があったら…\n・住所\n・健康保険証\n・保護者、児童の氏名\nこれらの内容が変更になったときは届け出が必要です。市役所で手続きしてください。\n\n有効期間の更新について\n医療証の更新は毎年10月1日になります。最新の医療証については、例年9月末に送付しております。10月1日以降になっても届かない場合は、子ども育成課手当助成係までお問い合わせください。\n\n（注意） 現況届が必要となる方には用紙を送付しますので、必要書類を確認のうえ、期限までに提出してください。\n\n医療証の再交付\n医療証をなくしたり、汚れて使えなくなったときは再交付いたします。郵送でもお手続きいただけますが、新たに発行する医療証はお手元に届くまでに少々お時間をいただきます。\n\nお急ぎの場合は、市役所1階8番子ども育成課窓口までお越しください。\n\n乳幼児医療費助成制度医療証再交付申請書 （Word 18.5KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/518/marunyuusaikoufu.docx\nオンライン申請\n乳幼児医療費助成（マル乳）の一部の手続きがオンライン申請できるようになりました！\n\n便利なオンライン申請を、ぜひご利用ください。\n\n子育てに関するオンライン申請;https://www.city.fussa.tokyo.jp/kofukunavi/1012673/1018356.html",
+      "target": {
+        "targetPersons": "福生市に住所のある0から6歳（小学校入学前まで）の乳幼児を養育している方\n\n※所得制限はありません。\n\nただし、次のいずれかに該当する場合は、対象となりません。\n\n1.健康保険に加入していない\n2.自己負担がないひとり親家庭等医療費助成（マル親）を受けている\n3.自己負担がない心身障害者医療費助成（マル障）を受けている\n4.児童福祉施設等に入所していて医療費の自己負担がない\n5.生活保護を受けている\n6.里親に委託されている",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 6,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "福生市に住所のある0から6歳（小学校入学前まで）の乳幼児を養育している方"
+      },
+      "support": {
+        "description": "乳幼児が医療機関等で受診したときの健康保険の適用がある医療費の自己負担分を助成します。\n\n補装具等は健康保険が適用されたものであれば、助成対象となります。\n\n助成対象外となるもの\n・健康診断、予防接種、薬の容器代、検診料、診断書料、特定療養費（一定基準の病院等を紹介状なしで受診したとき）等、保険適用されないもの\n・入院時の食事療養標準負担額\n・交通事故等の第三者による診療にかかる医療費",
+        "monetarySupport": "乳幼児が医療機関等で受診したときの健康保険の適用がある医療費の自己負担分を助成します。\n\n補装具等は健康保険が適用されたものであれば、助成対象となります。\n\n助成対象外となるもの\n・健康診断、予防接種、薬の容器代、検診料、診断書料、特定療養費（一定基準の病院等を紹介状なしで受診したとき）等、保険適用されないもの\n・入院時の食事療養標準負担額\n・交通事故等の第三者による診療にかかる医療費",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "お子様の出生届や福生市への転入手続きの際にご案内しております。",
+      "procedurePersons": "福生市に住所のある0から6歳（小学校入学前まで）の乳幼児を養育している方\n医療証をなくしたり、汚れて使えなくなったときは再交付いたします。",
+      "procedureMethod": "医療証の申請方法\nお子様の出生届や福生市への転入手続きの際にご案内しております。\n\nその際、以下のものが必要になります。\n\n・健康保険証の写し（対象児童）\n※　マイナンバー制度による情報連携により税情報が取得できない場合（DV避難者等）は住民税課税（非課税）証明書が必要になります。\n\n※その他必要に応じて書類を提出いただきますので、詳しくはお問い合わせください。\n\n領収書での精算手続き\n次のいずれかに該当する場合は、領収書での精算手続きができます。\n\n1.医療証が届く前に受診したとき\n2.都外で受診したとき\n3.補装具や治療用眼鏡を作成したとき\n4.東京都以外の「国民」健康保険加入しているとき\n＜精算手続き前にご確認お願いします＞\n\n次のいずれかに該当する場合は、医療証の手続きの前に、健康保険組合等での手続きが必要です。\n\n・健康保険証と医療証を両方とも使わずに全額を自己負担（10割負担）したとき\n・補装具や治療用眼鏡を作成したとき\n・高額療養費に該当するとき\n（注意）健康保険組合等から支給額の通知書（「支給決定通知書」等）が届いたら、医療助成分の手続きをしてください。\n\n（注意）健康保険組合等に領収書や補装具の証明書、治療用眼鏡の処方箋などの原本を提出するときは、あらかじめコピーをとっておいてください。\n\n申請方法\n市役所1階8番子ども育成課窓口で助成の申請をしてください。その際以下のものが必要になります。\n\n1.領収書\n   ※受診者名、受診日、保険点数、領収額、医療機関の名称・所在地の記載のあるもの\n2.医療証\n3.申請者名義の口座番号等がわかるもの\n※健康保険組合等での精算手続きをしたときは、以下の書類を提出してください。\n\n1.健康保険組合等から支給額の通知書（「支給決定通知書」等）の原本\n2.領収書（健康保険組合等に原本を提出した場合は、写しで可）\n3.補装具の指示書または証明書の写し（補装具を作成したとき）\n4.眼鏡の処方箋または指示書の写し（治療用眼鏡を作成したとき）\nお願い\n交通事故等にあったら…\n交通事故等の第三者（加害者）からの行為によって負傷し医療証を使用する場合は、必ず子ども育成課手当助成係に届け出てください。届け出の前に治療費を受け取ったり、示談を済ませてしまった場合は医療助成額を後から返還していただく場合もございますのでご注意ください。\n\n住所や健康保険等に変更があったら…\n・住所\n・健康保険証\n・保護者、児童の氏名\nこれらの内容が変更になったときは届け出が必要です。市役所で手続きしてください。\n\n有効期間の更新について\n医療証の更新は毎年10月1日になります。最新の医療証については、例年9月末に送付しております。10月1日以降になっても届かない場合は、子ども育成課手当助成係までお問い合わせください。\n\n（注意） 現況届が必要となる方には用紙を送付しますので、必要書類を確認のうえ、期限までに提出してください。\n\n医療証の再交付\n医療証をなくしたり、汚れて使えなくなったときは再交付いたします。郵送でもお手続きいただけますが、新たに発行する医療証はお手元に届くまでに少々お時間をいただきます。\n\nお急ぎの場合は、市役所1階8番子ども育成課窓口までお越しください。\n\n乳幼児医療費助成制度医療証再交付申請書 （Word 18.5KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/518/marunyuusaikoufu.docx\nオンライン申請\n乳幼児医療費助成（マル乳）の一部の手続きがオンライン申請できるようになりました！\n\n便利なオンライン申請を、ぜひご利用ください。\n\n子育てに関するオンライン申請;https://www.city.fussa.tokyo.jp/kofukunavi/1012673/1018356.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "市役所1階8番子ども育成課窓口",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/life/child/rearing/1002519.html",
+          "title": "マル子（義務教育就学児医療費助成制度）"
+        },
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/life/child/rearing/1017042.html",
+          "title": "マル青（高校生等医療費助成制度）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.fussa.tokyo.jp/life/child/rearing/1002518.html",
+        "title": "マル乳医療証（乳幼児医療費助成制度）"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/kofukunavi/1012673/1018356.html",
+          "title": "子育てに関するオンライン申請"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども家庭部　子ども育成課　手当助成係",
+        "contactPhone": "042-551-1737",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1978501",
+        "contactAddress": "東京都福生市本町5"
+      },
+      "area": {
+        "areaCode": "132187;福生市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132187+1+UM23",
+        "organization": "8000020132187",
+        "compartment": "子ども家庭部　子ども育成課　手当助成係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-12-27",
+      "odInformation": {
+        "updateDate": "2024-07-16",
+        "updater": "福生市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "個別に受ける定期予防接種の概要"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "個別定期接種についての概要を紹介しています。\n\n個別定期接種について\n個別接種で実施する予防接種\n個別接種は、直接医療機関で接種してください。（一部医療機関は要予約。病院で接種する場合は外来受付へ申し出てください）。\n\n・ヒブワクチン（ヘモフィルスインフルエンザ菌b型）\n・小児用肺炎球菌ワクチン\n・B型肝炎ワクチン\n・ロタウイルスワクチン\n・四種混合ワクチン（百日せき、ジフテリア、破傷風、ポリオ）\n・五種混合ワクチン（百日せき、ジフテリア、破傷風、ポリオ、ヒブ）\n・ポリオワクチン（単独不活化ワクチン）\n・三種混合ワクチン（百日せき、ジフテリア、破傷風）\n・水痘（みずぼうそう）ワクチン\n・MR（麻しん・風しん混合）ワクチン\n・麻しん（はしか）ワクチン\n・風しんワクチン\n（注意）麻しんまたは風しんの既罹患者（麻しんまたは風しんにかかった者）においても、麻しんワクチンまたは風しんワクチンもしくは麻しん風しん混合ワクチン（MR）を使用することができます。\n・日本脳炎ワクチン\n・子宮頸がん予防ワクチン\n個別接種の受け方\n予防接種受付時間内に母子健康手帳、保険証、予診票（2枚複写）を持って直接医療機関で接種してください。（予診票をお持ちでない方は、保健センターまでお越しください。）\n\n・一部医療機関は要予約。病院で接種する場合は外来受付へ申し出てください。\n・医療機関により、予防接種受付時間と一般診療の受付時間が異なることがありますので、ご確認ください。\n・詳しくは、予防接種ノート（生後2か月を迎える方に保健センターから送付します。）、または個別予防接種について（指定医療機関一覧）をご覧ください。\n個別定期予防接種について（指定医療機関一覧） （PDF 107.5KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/495/r6iryoukikan.pdf\n接種対象年齢・病気とワクチンの説明\n予防接種対象年齢と、病気とワクチンの内容について予防接種ノート（市から郵送します）等から抜粋してご案内します。接種の前にぜひご覧ください。\n\nヒブワクチン、小児用肺炎球菌ワクチン\n・2か月から5歳未満\n詳しくは、下記「ヒブワクチン・小児用肺炎球菌ワクチンの接種について」のページをご覧ください。\nヒブワクチン・小児用肺炎球菌ワクチンの接種について;https://www.city.fussa.tokyo.jp/life/child/health/1002497.html\nB型肝炎ワクチン\n・生後から1歳未満\n詳しくは、下記「B型肝炎ワクチン予防接種について」のページをご覧ください。\nB型肝炎ワクチン予防接種について;https://www.city.fussa.tokyo.jp/life/child/health/1005666.html\nロタウイルスワクチン \n・ロタリックス…出生6週後から24週後まで\n・ロタテック…出生6週後から32週後まで\n※ワクチンが2種類あり、それぞれ回数と接種の期限が異なります。\n　詳しくは、下記「ロタウイルスワクチン予防接種について」のページをご覧ください。\nロタウイルスワクチン予防接種について;https://www.city.fussa.tokyo.jp/life/child/health/1010524.html\n五種混合ワクチン（百日せき、ジフテリア、破傷風、ポリオ、ヒブ）\n四種混合ワクチン（百日せき、ジフテリア、破傷風、ポリオ）\n・2か月から7歳6か月未満\n詳しくは、下記「五種混合・四種混合ワクチン接種について」のページをご覧ください。\n五種混合・四種混合ワクチンの接種について;https://www.city.fussa.tokyo.jp/life/child/health/1002498.html\nポリオワクチン\n・2か月から7歳6か月未満\n平成24年9月からの不活化ポリオワクチン導入に伴い、接種方法が変わりました。詳しくは、下記「ポリオワクチンの接種について」のページをご覧ください。\nポリオワクチンの接種について;https://www.city.fussa.tokyo.jp/life/child/health/1002500.html\n三種混合ワクチン（百日せき、ジフテリア、破傷風）\n・2か月から7歳6か月未満\n三種混合について （PDF 271.6KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/495/3konnew.pdf\n水痘（みずぼうそう）ワクチン\n・生後12月から36月\n詳しくは、下記「水痘（みずぼうそう）ワクチンの接種について」のページをご覧ください。\n水痘（みずぼうそう）ワクチンの接種について;https://www.city.fussa.tokyo.jp/life/child/health/1002492.html\nMR（麻しん・風しん混合）ワクチン\n・1期（1回接種）1歳から2歳未満\n・2期（1回接種）5歳から7歳未満で小学校就学前1年間\n副反応について、最新の情報に更新しました。\n\nMR（麻しん風しん混合ワクチン）について （PDF 340.9KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/495/mr.pdf\nMR（麻しん風しん混合）予防接種を受けましょう！;https://www.city.fussa.tokyo.jp/life/child/health/1002499.html\n麻しんワクチン・風しんワクチン（単独接種）\n・1期（1回接種）1歳から2歳未満\n・2期（1回接種）5歳から7歳未満で小学校就学前1年間\n麻しんまたは風しんの既罹患者（麻しんまたは風しんにかかった者）においても、麻しんワクチンまたは風しんワクチン若しくは麻しん風しん混合ワクチン（MR）を使用することができます。\n\n日本脳炎ワクチン\n・1期 3歳から7歳6か月未満\n・2期 9歳から13歳未満\n日本脳炎は平成23年5月20日の予防接種法一部改正により、対象者が追加されています。詳しくは「定期予防接種についてのお知らせ」のページをご覧ください。\n\n副反応について、最新の情報に更新しました。\n\n日本脳炎について （PDF 302.2KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/495/m1cpmb000002fjnj.pdf\n子宮頸がん予防ワクチン（HPVワクチン）\n・小学校6年生から高校1年生相当の女子\n詳しくは、下記「子宮頸がん予防ワクチンの接種について」のページをご覧ください。\n子宮頸がん予防ワクチンの接種について;https://www.city.fussa.tokyo.jp/life/child/health/1002496.html",
+      "target": {
+        "targetPersons": "ヒブワクチン、小児用肺炎球菌ワクチン\n・2か月から5歳未満\n詳しくは、下記「ヒブワクチン・小児用肺炎球菌ワクチンの接種について」のページをご覧ください。\nヒブワクチン・小児用肺炎球菌ワクチンの接種について;https://www.city.fussa.tokyo.jp/life/child/health/1002497.html\nB型肝炎ワクチン\n・生後から1歳未満\n詳しくは、下記「B型肝炎ワクチン予防接種について」のページをご覧ください。\nB型肝炎ワクチン予防接種について;https://www.city.fussa.tokyo.jp/life/child/health/1005666.html\nロタウイルスワクチン \n・ロタリックス…出生6週後から24週後まで\n・ロタテック…出生6週後から32週後まで\n※ワクチンが2種類あり、それぞれ回数と接種の期限が異なります。\n　詳しくは、下記「ロタウイルスワクチン予防接種について」のページをご覧ください。\nロタウイルスワクチン予防接種について;https://www.city.fussa.tokyo.jp/life/child/health/1010524.html\n五種混合ワクチン（百日せき、ジフテリア、破傷風、ポリオ、ヒブ）\n四種混合ワクチン（百日せき、ジフテリア、破傷風、ポリオ）\n・2か月から7歳6か月未満\n詳しくは、下記「五種混合・四種混合ワクチン接種について」のページをご覧ください。\n五種混合・四種混合ワクチンの接種について;https://www.city.fussa.tokyo.jp/life/child/health/1002498.html\nポリオワクチン\n・2か月から7歳6か月未満\n平成24年9月からの不活化ポリオワクチン導入に伴い、接種方法が変わりました。詳しくは、下記「ポリオワクチンの接種について」のページをご覧ください。\nポリオワクチンの接種について;https://www.city.fussa.tokyo.jp/life/child/health/1002500.html\n三種混合ワクチン（百日せき、ジフテリア、破傷風）\n・2か月から7歳6か月未満\n三種混合について （PDF 271.6KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/495/3konnew.pdf\n水痘（みずぼうそう）ワクチン\n・生後12月から36月\n詳しくは、下記「水痘（みずぼうそう）ワクチンの接種について」のページをご覧ください。\n水痘（みずぼうそう）ワクチンの接種について;https://www.city.fussa.tokyo.jp/life/child/health/1002492.html\nMR（麻しん・風しん混合）ワクチン\n・1期（1回接種）1歳から2歳未満\n・2期（1回接種）5歳から7歳未満で小学校就学前1年間\n\nMR（麻しん風しん混合）予防接種を受けましょう！;https://www.city.fussa.tokyo.jp/life/child/health/1002499.html\n麻しんワクチン・風しんワクチン（単独接種）\n・1期（1回接種）1歳から2歳未満\n・2期（1回接種）5歳から7歳未満で小学校就学前1年間\n麻しんまたは風しんの既罹患者（麻しんまたは風しんにかかった者）においても、麻しんワクチンまたは風しんワクチン若しくは麻しん風しん混合ワクチン（MR）を使用することができます。\n\n日本脳炎ワクチン\n・1期 3歳から7歳6か月未満\n・2期 9歳から13歳未満\n日本脳炎は平成23年5月20日の予防接種法一部改正により、対象者が追加されています。詳しくは「定期予防接種についてのお知らせ」のページをご覧ください。\n\n子宮頸がん予防ワクチン（HPVワクチン）\n・小学校6年生から高校1年生相当の女子\n詳しくは、下記「子宮頸がん予防ワクチンの接種について」のページをご覧ください。\n子宮頸がん予防ワクチンの接種について;https://www.city.fussa.tokyo.jp/life/child/health/1002496.html",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "ヒブワクチン、小児用肺炎球菌ワクチン\n・2か月から5歳未満\nB型肝炎ワクチン\n・生後から1歳未満\n\nロタウイルスワクチン \n・ロタリックス…出生6週後から24週後まで\n・ロタテック…出生6週後から32週後まで\n五種混合ワクチン（百日せき、ジフテリア、破傷風、ポリオ、ヒブ）\n四種混合ワクチン（百日せき、ジフテリア、破傷風、ポリオ）\n・2か月から7歳6か月未満\nポリオワクチン\n・2か月から7歳6か月未満\n三種混合ワクチン（百日せき、ジフテリア、破傷風）\n・2か月から7歳6か月未満\n水痘（みずぼうそう）ワクチン\n・生後12月から36月\nMR（麻しん・風しん混合）ワクチン\n・1期（1回接種）1歳から2歳未満\n・2期（1回接種）5歳から7歳未満で小学校就学前1年間\n麻しんワクチン・風しんワクチン（単独接種）\n・1期（1回接種）1歳から2歳未満\n・2期（1回接種）5歳から7歳未満で小学校就学前1年間\n日本脳炎ワクチン\n・1期 3歳から7歳6か月未満\n・2期 9歳から13歳未満\n子宮頸がん予防ワクチン（HPVワクチン）\n・小学校6年生から高校1年生相当の女子"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "予防接種受付時間内に"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "予防接種ノート（生後2か月を迎える方に保健センターから送付します。）、または個別予防接種について（指定医療機関一覧）をご覧ください。\n個別定期予防接種について（指定医療機関一覧） （PDF 107.5KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/495/r6iryoukikan.pdf",
+      "procedurePersons": null,
+      "procedureMethod": "個別接種の受け方\n予防接種受付時間内に母子健康手帳、保険証、予診票（2枚複写）を持って直接医療機関で接種してください。（予診票をお持ちでない方は、保健センターまでお越しください。）\n\n一部医療機関は要予約。病院で接種する場合は外来受付へ申し出てください。\n医療機関により、予防接種受付時間と一般診療の受付時間が異なることがありますので、ご確認ください。\n詳しくは、予防接種ノート（生後2か月を迎える方に保健センターから送付します。）、または個別予防接種について（指定医療機関一覧）をご覧ください。\n個別定期予防接種について（指定医療機関一覧） （PDF 107.5KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/495/r6iryoukikan.pdf",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "予防接種受付時間内に"
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳、保険証、予診票（2枚複写）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "医療機関",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/495/r6iryoukikan.pdf",
+          "title": "個別定期予防接種について（指定医療機関一覧） （PDF 107.5KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+        "title": "個別に受ける定期予防接種の概要"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　健康管理係",
+        "contactPhone": "042-552-0061",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1970011",
+        "contactAddress": "福生市福生2125-3（福生市保健センター）"
+      },
+      "area": {
+        "areaCode": "132187;福生市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132187+1+UM54",
+        "organization": "8000020132187",
+        "compartment": "福祉保健部　健康課　健康管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-16",
+        "updater": "福生市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "任意予防接種",
+        "shortName": "予防接種健康被害救済制度\n任意接種による健康被害"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。\nこのうち福生市では、次の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+      "description": "予防接種健康被害救済制度についてご案内します。\n\n予防接種を受けた後、一定の期間の間に注射部位が腫れや発熱などの副反応があらわれる事があります。\n副反応の大部分は通常数日で回復しますが、まれに高熱が続いたり、ひきつけ・けいれんや脳炎などの重大な副反応を起こすことがあります。\nワクチン接種による副反応で健康被害が生じた場合、臨時接種、定期接種または任意接種いずれの場合についても補償制度があります。\n\n臨時接種及び定期接種による健康被害\n予防接種法に基づく臨時接種及び定期接種によって引き起こされた副反応により、医療機関での治療が必要になった場合、生活に支障がでるような障がいを残すなどの健康被害が生じた場合には、予防接種法に基づく給付を受けることができます。\n健康被害の程度等に応じて、医療費、医療手当、障害児養育年金、障害年金、死亡一時金、葬祭料の区分があり、法律で定められた金額が支給されます。死亡一時金、葬祭料以外については、治療が終了する又は障がいが治癒する期間まで支給されます。\nただし、その健康被害が予防接種によって引き起こされたものか、別の要因（予防接種をする前あるいは後に紛れ込んだ感染症あるいは別の原因等）によるものなのかの因果関係を、予防接種・感染症医療・法律等、各分野の専門家からなる国の審査会にて審議し、予防接種によるものと認定された場合に給付を受けることができます。\n\n予防接種健康被害救済制度について（厚生労働省ホームページ）（外部リンク）;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_kenkouhigaikyuusai.html\n4gatu;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/502/4gatuiko.jpg\n4月以降のコロナワクチン接種に係る救済制度の取扱いについて （PDF 258.9KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/502/4gatuikou.pdf\n任意接種による健康被害\n予防接種法で定められたもの以外の予防接種は、任意接種となります。\n任意接種によって健康被害を受けた場合は、独立行政法人医薬品医療機器総合機構法に基づく補償となります。\n\n医薬品副作用被害救済制度について（独立行政法人医薬品医療機器総合機構のホームページ）（外部リンク）;https://www.pmda.go.jp/kenkouhigai_camp/index.html\nまた、以下の予防接種については、市で加入している予防接種事故賠償保険による補償が適用されます。\n\n・市で費用助成をしている任意の予防接種で健康被害を受けた場合\n・予防接種法に基づく定期の予防接種として定められた接種間隔から外れていて、保護者の同意を得て個別に接種を行った場合\n接種について、または接種後の副反応についてご質問、ご相談がある場合は保健センターまたは医療機関までお問合せください。",
+      "target": {
+        "targetPersons": "任意接種によって健康被害を受けた場合",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "任意接種によって健康被害を受けた場合は、独立行政法人医薬品医療機器総合機構法に基づく補償となります。\nまた、以下の予防接種については、市で加入している予防接種事故賠償保険による補償が適用されます。\n\n・市で費用助成をしている任意の予防接種で健康被害を受けた場合\n・予防接種法に基づく定期の予防接種として定められた接種間隔から外れていて、保護者の同意を得て個別に接種を行った場合",
+        "monetarySupport": "任意接種によって健康被害を受けた場合は、独立行政法人医薬品医療機器総合機構法に基づく補償となります。\nまた、以下の予防接種については、市で加入している予防接種事故賠償保険による補償が適用されます。\n\n・市で費用助成をしている任意の予防接種で健康被害を受けた場合\n・予防接種法に基づく定期の予防接種として定められた接種間隔から外れていて、保護者の同意を得て個別に接種を行った場合",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "任意接種によって健康被害を受けた場合\n市で費用助成をしている任意の予防接種で健康被害を受けた場合\n予防接種法に基づく定期の予防接種として定められた接種間隔から外れていて、保護者の同意を得て個別に接種を行った場合",
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.pmda.go.jp/kenkouhigai_camp/index.html",
+          "title": "医薬品副作用被害救済制度について（独立行政法人医薬品医療機器総合機構のホームページ）（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1002502.html",
+        "title": "予防接種健康被害救済制度について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　健康管理係",
+        "contactPhone": "042-552-0061",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1970011",
+        "contactAddress": "福生市福生2125-3（福生市保健センター）"
+      },
+      "area": {
+        "areaCode": "132187;福生市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132187+1+UM55",
+        "organization": "8000020132187",
+        "compartment": "福祉保健部　健康課　健康管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-29",
+      "odInformation": {
+        "updateDate": "2024-07-16",
+        "updater": "福生市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "独立行政法人医薬品医療機器総合機構法",
+        "regulationArticle": "第16条（副作用救済給付）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "予防接種健康被害救済制度\n臨時接種及び定期接種による健康被害"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "予防接種健康被害救済制度についてご案内します。\n\n予防接種を受けた後、一定の期間の間に注射部位が腫れや発熱などの副反応があらわれる事があります。\n副反応の大部分は通常数日で回復しますが、まれに高熱が続いたり、ひきつけ・けいれんや脳炎などの重大な副反応を起こすことがあります。\nワクチン接種による副反応で健康被害が生じた場合、臨時接種、定期接種または任意接種いずれの場合についても補償制度があります。\n\n臨時接種及び定期接種による健康被害\n予防接種法に基づく臨時接種及び定期接種によって引き起こされた副反応により、医療機関での治療が必要になった場合、生活に支障がでるような障がいを残すなどの健康被害が生じた場合には、予防接種法に基づく給付を受けることができます。\n健康被害の程度等に応じて、医療費、医療手当、障害児養育年金、障害年金、死亡一時金、葬祭料の区分があり、法律で定められた金額が支給されます。死亡一時金、葬祭料以外については、治療が終了する又は障がいが治癒する期間まで支給されます。\nただし、その健康被害が予防接種によって引き起こされたものか、別の要因（予防接種をする前あるいは後に紛れ込んだ感染症あるいは別の原因等）によるものなのかの因果関係を、予防接種・感染症医療・法律等、各分野の専門家からなる国の審査会にて審議し、予防接種によるものと認定された場合に給付を受けることができます。\n\n予防接種健康被害救済制度について（厚生労働省ホームページ）（外部リンク）;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_kenkouhigaikyuusai.html\n4gatu;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/502/4gatuiko.jpg\n4月以降のコロナワクチン接種に係る救済制度の取扱いについて （PDF 258.9KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/502/4gatuikou.pdf\n任意接種による健康被害\n予防接種法で定められたもの以外の予防接種は、任意接種となります。\n任意接種によって健康被害を受けた場合は、独立行政法人医薬品医療機器総合機構法に基づく補償となります。\n\n医薬品副作用被害救済制度について（独立行政法人医薬品医療機器総合機構のホームページ）（外部リンク）;https://www.pmda.go.jp/kenkouhigai_camp/index.html\nまた、以下の予防接種については、市で加入している予防接種事故賠償保険による補償が適用されます。\n\n・市で費用助成をしている任意の予防接種で健康被害を受けた場合\n・予防接種法に基づく定期の予防接種として定められた接種間隔から外れていて、保護者の同意を得て個別に接種を行った場合\n接種について、または接種後の副反応についてご質問、ご相談がある場合は保健センターまたは医療機関までお問合せください。",
+      "target": {
+        "targetPersons": "予防接種法に基づく臨時接種及び定期接種によって引き起こされた副反応により、医療機関での治療が必要になった場合、生活に支障がでるような障がいを残すなどの健康被害が生じた場合",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "予防接種法に基づく臨時接種及び定期接種によって引き起こされた副反応により、医療機関での治療が必要になった場合、生活に支障がでるような障がいを残すなどの健康被害が生じた場合には、予防接種法に基づく給付を受けることができます。\n健康被害の程度等に応じて、医療費、医療手当、障害児養育年金、障害年金、死亡一時金、葬祭料の区分があり、法律で定められた金額が支給されます。死亡一時金、葬祭料以外については、治療が終了する又は障がいが治癒する期間まで支給されます。",
+        "monetarySupport": "予防接種法に基づく臨時接種及び定期接種によって引き起こされた副反応により、医療機関での治療が必要になった場合、生活に支障がでるような障がいを残すなどの健康被害が生じた場合には、予防接種法に基づく給付を受けることができます。\n健康被害の程度等に応じて、医療費、医療手当、障害児養育年金、障害年金、死亡一時金、葬祭料の区分があり、法律で定められた金額が支給されます。死亡一時金、葬祭料以外については、治療が終了する又は障がいが治癒する期間まで支給されます。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "予防接種法に基づく臨時接種及び定期接種によって引き起こされた副反応により、医療機関での治療が必要になった場合、生活に支障がでるような障がいを残すなどの健康被害が生じた場合",
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/502/4gatuikou.pdf",
+          "title": "4月以降のコロナワクチン接種に係る救済制度の取扱いについて （PDF 258.9KB）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_kenkouhigaikyuusai.html",
+          "title": "予防接種健康被害救済制度について（厚生労働省ホームページ）（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1002502.html",
+        "title": "予防接種健康被害救済制度について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　健康管理係",
+        "contactPhone": "042-552-0061",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1970011",
+        "contactAddress": "福生市福生2125-3（福生市保健センター）"
+      },
+      "area": {
+        "areaCode": "132187;福生市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132187+2+UM54",
+        "organization": "8000020132187",
+        "compartment": "福祉保健部　健康課　健康管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-29",
+      "odInformation": {
+        "updateDate": "2024-07-16",
+        "updater": "福生市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "BCG"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "市で実施している、定期予防接種についてご案内します。\n\n予防接種の種類\n定期予防接種\n\n伝染のおそれがある疾病の発生及びまん延を予防するために、予防接種法に基づき、市で実施している予防接種です。\n以下の予防接種について、対象の年齢を迎えた方には郵送でご案内をしています。\n\n・BCG\n・四種混合ワクチン（ジフテリア、百日せき、破傷風、ポリオ）\n・五種混合ワクチン（ジフテリア、百日せき、破傷風、ポリオ、ヒブ）\n・麻しん風しん混合ワクチン\n・水痘ワクチン\n・日本脳炎ワクチン\n・ヒブワクチン\n・小児用肺炎球菌ワクチン\n・子宮頸がん予防ワクチン\n・B型肝炎ワクチン\n・ロタウイルスワクチン\n予防接種法に定められた接種年齢・間隔の範囲内であれば、無料（公費負担）で接種ができます。\n\n任意予防接種\n\n予防接種法で定められたもの以外の予防接種、また定期接種であっても対象年齢・間隔以外で実施した予防接種は、任意の予防接種となります。接種費用については自己負担となります。\n\n（注意）定期予防接種、任意予防接種いずれの予防接種も、保護者の方が予防接種の効果や副反応などについて理解したうえで、接種に同意したときに限り、接種が行われます。\n\n集団接種で受ける定期予防接種\nBCG\n\n対象年齢\n対象者：生後1歳に至るまでの間にある方\n標準的接種期間：生後5か月から8か月未満まで 1回の接種で完了です。\n（注意）平成25年4月1日から、対象となる年齢が拡大されました。生後1歳になるまで接種ができますが、\nなるべく生後5か月から8か月の間に受けてください。\n\n実施場所\n保健センター\n※感染症拡大防止のため、距離の確保や窓を開けての換気などの対策を講じて実施いたします。\n\n保健センター;https://www.city.fussa.tokyo.jp/map/shiyakusho/1001599.html\n日程・受付時間\n日程・受付時間等は、「BCG集団接種日程」をご覧ください。\n対象者につきましては、個別通知でお知らせします。\n\nBCG集団接種日程 （PDF 110.8KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/493/r6bcg2.pdf\n持ち物\n母子健康手帳、予診票、保険証\n\n接種時には\n本人の体調が分かる保護者の方が同伴してください。お子さんの体調が悪い場合は、無理せず延期してください。次回の日程等については保健センターへご連絡ください。\n\nBCGについて （PDF 109.6KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/493/r6bcgsetumei.pdf\n個別で接種する定期予防接種\nB型肝炎、ヒブワクチン、小児用肺炎球菌ワクチン、ロタウイルスワクチン、四種混合（百日せき、ジフテリア、破傷風、ポリオ）、五種混合（百日せき、ジフテリア、破傷風、ポリオ、ヒブ）MR、麻しん（はしか）、風しん、水痘、日本脳炎、子宮頸がん予防ワクチンは個別に、市内指定医療機関で接種してください。接種方法・接種医療機関等については、「個別に受ける予防接種の概要」をご覧ください。\n\n個別に受ける定期予防接種の概要;https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+      "target": {
+        "targetPersons": "生後1歳に至るまでの間にある方",
+        "lessThan": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後1歳に至るまでの間にある方"
+      },
+      "support": {
+        "description": "予防接種法に定められた接種年齢・間隔の範囲内であれば、無料（公費負担）で接種ができます。",
+        "monetarySupport": "予防接種法に定められた接種年齢・間隔の範囲内であれば、無料（公費負担）で接種ができます。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "生後1歳に至るまでの間\n標準的接種期間：生後5か月から8か月未満まで 1回の接種で完了です。"
+      },
+      "implementationPlace": {
+        "implementationName": "保健センター\n※感染症拡大防止のため、距離の確保や窓を開けての換気などの対策を講じて実施いたします。\n\n保健センター;https://www.city.fussa.tokyo.jp/map/shiyakusho/1001599.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "対象者につきましては、個別通知でお知らせします。",
+      "procedurePersons": "本人の体調が分かる保護者の方が同伴してください。",
+      "procedureMethod": "実施場所\n保健センター\n※感染症拡大防止のため、距離の確保や窓を開けての換気などの対策を講じて実施いたします。\n\n保健センター;https://www.city.fussa.tokyo.jp/map/shiyakusho/1001599.html\n日程・受付時間\n日程・受付時間等は、「BCG集団接種日程」をご覧ください。\n対象者につきましては、個別通知でお知らせします。\n\nBCG集団接種日程 （PDF 110.8KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/493/r6bcg2.pdf\n持ち物\n母子健康手帳、予診票、保険証\n\n接種時には\n本人の体調が分かる保護者の方が同伴してください。お子さんの体調が悪い場合は、無理せず延期してください。次回の日程等については保健センターへご連絡ください。\n\nBCGについて （PDF 109.6KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/493/r6bcgsetumei.pdf",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "日程・受付時間等は、「BCG集団接種日程」をご覧ください。\nBCG集団接種日程 （PDF 110.8KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/493/r6bcg2.pdf"
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳、予診票、保険証",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "保健センター\n※感染症拡大防止のため、距離の確保や窓を開けての換気などの対策を講じて実施いたします。\n\n保健センター;https://www.city.fussa.tokyo.jp/map/shiyakusho/1001599.html",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/493/r6bcg2.pdf",
+          "title": "BCG集団接種日程 （PDF 110.8KB）"
+        },
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/493/r6bcgsetumei.pdf",
+          "title": "BCGについて （PDF 109.6KB）"
+        },
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/map/shiyakusho/1001599.html",
+          "title": "保健センター"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1002493.html",
+        "title": "令和6年度定期予防接種について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　健康管理係",
+        "contactPhone": "042-552-0061",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1970011",
+        "contactAddress": "福生市福生2125-3（福生市保健センター）"
+      },
+      "area": {
+        "areaCode": "132187;福生市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132187+3+UM54",
+        "organization": "8000020132187",
+        "compartment": "福祉保健部　健康課　健康管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-16",
+        "updater": "福生市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "ヒブワクチン・小児用肺炎球菌ワクチンの接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "平成25年度から、ヒブワクチン・小児用肺炎球菌ワクチンは公費で接種ができる定期接種として導入されました。\n\nヒブワクチンの受け方\nヒブワクチンの注意事項 （PDF 211.6KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/497/251.pdf\n対象年齢\n生後2か月から5歳に至るまで\n\n接種時期・回数\nヒブワクチンは接種をはじめた時期で、接種回数が変わります。個別接種となりますので、\n\n市の指定医療機関で接種を受けてください。\n\n標準的接種スケジュール\n\n生後2か月から7か月未満\n\nで接種を始める場合\n\n（全4回）\n\n・初回接種\n1歳に至るまでの間に、27日以上（標準的には27日（医師が必要と認めた場合には20日）から56日までの）間隔をあけて3回接種※1\n・追加接種\n初回接種終了後から7か月以上（標準的には7か月から13か月まで）あけて追加接種\n生後7か月から1歳未満\n\nで接種をはじめる場合\n\n（全3回）\n\n・初回接種\n1歳に至るまでの間に、27日以上（標準的には27日（医師が必要と認めた場合には20日）から56日までの）間隔をあけて2回接種※1\n・追加接種\n初回接種終了後から7か月以上（標準的には7か月から13か月まで）の間隔をあけて1回接種\n1歳から5歳未満で接種をはじめる場合\n\n（全1回）\n\n・初回接種\n　　1回の接種で完了です。\n\n当日の持ち物\n母子健康手帳・保険証・予診票\n\n予診票はボールペンで記入し、記入もれがないようにしてください。\n\n当日の注意\n・予防接種の説明（配布した「予防接種ノート」の説明書）をよく読んでから受診してください。\n\n・お子さんの体調が少しでも悪いときは、無理をしないで他の日程でお受けください。\n\n他の予防接種との間隔に注意してください\n・制限なし\n\n生ワクチン→ヒブワクチン\n\nヒブワクチン以外の不活化ワクチン→ヒブワクチン\n\nヒブワクチン→他の予防接種\n\n・27日以上（医師が必要と認めた場合20日）標準的には27日から56日）\n\nヒブワクチン（初回接種）→ヒブワクチン（初回接種）\n\n・初回接種終了後7か月以上（標準的には7か月から13か月後）\n\nヒブワクチン（初回接種）→ヒブワクチン（追加接種）\n\n小児用肺炎球菌ワクチンの受け方\n小児用肺炎球菌ワクチンの注意事項 （PDF 133.0KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/497/pcv15.pdf\n対象年齢\n生後2か月から5歳に至るまで\n\n接種時期・回数\n小児用肺炎球菌ワクチンは接種を始めた時期で、接種回数が変わります。個別接種となりますので、市の指定医療機関で接種を受けてください。\n\n生後2月から7月未満で接種をはじめる場合（全4回）\n（標準的接種期間）\n\n・初回接種\n生後2か月から7か月に\nなお、2回目は2歳まで、3回目は1歳までに接種する。超えた場合は追加接種のみを行う。\n・4回目（追加接種）\n3回目終了後、60日以上あけて追加接種。\nなお、追加接種は生後1歳以降に行う。 \n生後7月から1歳未満3回接種\n・初回1回目、2回目\n27日以上の間隔をあけて接種。\nなお、2回目は生後2歳になるまでに接種。超えた場合は追加接種のみを行う\n・3回目（追加接種）\n2回目終了後、60日以上あけて追加接種。\nなお、追加接種は生後1歳以降に行う。\n生後1歳から2歳未満2回接種\n・2回目（追加接種）\n60日以上の間隔をあけて追加接種。\n生後2歳から5歳未満1回接種\n関連情報\n個別に受ける定期予防接種の概要;https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+      "target": {
+        "targetPersons": "生後2か月から5歳に至るまで",
+        "lessThan": {
+          "targetAge": 5,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後2か月から5歳に至るまで"
+      },
+      "support": {
+        "description": "公費で接種ができる定期接種",
+        "monetarySupport": "公費で接種ができる定期接種",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "生後2か月から5歳に至るまで\n\n接種時期・回数\nヒブワクチンは接種をはじめた時期で、接種回数が変わります。個別接種となりますので、\n\n市の指定医療機関で接種を受けてください。\n\n標準的接種スケジュール\n\n生後2か月から7か月未満\n\nで接種を始める場合\n\n（全4回）\n\n・初回接種\n1歳に至るまでの間に、27日以上（標準的には27日（医師が必要と認めた場合には20日）から56日までの）間隔をあけて3回接種※1\n・追加接種\n初回接種終了後から7か月以上（標準的には7か月から13か月まで）あけて追加接種\n生後7か月から1歳未満\n\nで接種をはじめる場合\n\n（全3回）\n\n・初回接種\n1歳に至るまでの間に、27日以上（標準的には27日（医師が必要と認めた場合には20日）から56日までの）間隔をあけて2回接種※1\n・追加接種\n初回接種終了後から7か月以上（標準的には7か月から13か月まで）の間隔をあけて1回接種\n1歳から5歳未満で接種をはじめる場合\n\n（全1回）\n\n・初回接種\n　　1回の接種で完了です。\n\n接種時期・回数\n小児用肺炎球菌ワクチンは接種を始めた時期で、接種回数が変わります。個別接種となりますので、市の指定医療機関で接種を受けてください。\n\n生後2月から7月未満で接種をはじめる場合（全4回）\n（標準的接種期間）\n\n・初回接種\n生後2か月から7か月に\nなお、2回目は2歳まで、3回目は1歳までに接種する。超えた場合は追加接種のみを行う。\n・4回目（追加接種）\n3回目終了後、60日以上あけて追加接種。\nなお、追加接種は生後1歳以降に行う。 \n生後7月から1歳未満3回接種\n・初回1回目、2回目\n27日以上の間隔をあけて接種。\nなお、2回目は生後2歳になるまでに接種。超えた場合は追加接種のみを行う\n・3回目（追加接種）\n2回目終了後、60日以上あけて追加接種。\nなお、追加接種は生後1歳以降に行う。\n生後1歳から2歳未満2回接種\n・2回目（追加接種）\n60日以上の間隔をあけて追加接種。\n生後2歳から5歳未満1回接種"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "予診票がつづられた予防接種ノートを生後2か月を迎える方に保健センターから送付します。",
+      "procedurePersons": "保護者同伴",
+      "procedureMethod": "ヒブワクチンの受け方\nヒブワクチンの注意事項 （PDF 211.6KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/497/251.pdf\n\n接種時期・回数\nヒブワクチンは接種をはじめた時期で、接種回数が変わります。個別接種となりますので、\n\n市の指定医療機関で接種を受けてください。\n\n標準的接種スケジュール\n\n生後2か月から7か月未満\n\nで接種を始める場合\n\n（全4回）\n\n・初回接種\n1歳に至るまでの間に、27日以上（標準的には27日（医師が必要と認めた場合には20日）から56日までの）間隔をあけて3回接種※1\n・追加接種\n初回接種終了後から7か月以上（標準的には7か月から13か月まで）あけて追加接種\n生後7か月から1歳未満\n\nで接種をはじめる場合\n\n（全3回）\n\n・初回接種\n1歳に至るまでの間に、27日以上（標準的には27日（医師が必要と認めた場合には20日）から56日までの）間隔をあけて2回接種※1\n・追加接種\n初回接種終了後から7か月以上（標準的には7か月から13か月まで）の間隔をあけて1回接種\n1歳から5歳未満で接種をはじめる場合\n\n（全1回）\n\n・初回接種\n　　1回の接種で完了です。\n\n当日の持ち物\n母子健康手帳・保険証・予診票\n\n予診票はボールペンで記入し、記入もれがないようにしてください。\n\n当日の注意\n・予防接種の説明（配布した「予防接種ノート」の説明書）をよく読んでから受診してください。\n\n・お子さんの体調が少しでも悪いときは、無理をしないで他の日程でお受けください。\n\n他の予防接種との間隔に注意してください\n・制限なし\n\n生ワクチン→ヒブワクチン\n\nヒブワクチン以外の不活化ワクチン→ヒブワクチン\n\nヒブワクチン→他の予防接種\n\n・27日以上（医師が必要と認めた場合20日）標準的には27日から56日）\n\nヒブワクチン（初回接種）→ヒブワクチン（初回接種）\n\n・初回接種終了後7か月以上（標準的には7か月から13か月後）\n\nヒブワクチン（初回接種）→ヒブワクチン（追加接種）\n\n小児用肺炎球菌ワクチンの受け方\n小児用肺炎球菌ワクチンの注意事項 （PDF 133.0KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/497/pcv15.pdf\n\n接種時期・回数\n小児用肺炎球菌ワクチンは接種を始めた時期で、接種回数が変わります。個別接種となりますので、市の指定医療機関で接種を受けてください。\n\n生後2月から7月未満で接種をはじめる場合（全4回）\n（標準的接種期間）\n\n・初回接種\n生後2か月から7か月に\nなお、2回目は2歳まで、3回目は1歳までに接種する。超えた場合は追加接種のみを行う。\n・4回目（追加接種）\n3回目終了後、60日以上あけて追加接種。\nなお、追加接種は生後1歳以降に行う。 \n生後7月から1歳未満3回接種\n・初回1回目、2回目\n27日以上の間隔をあけて接種。\nなお、2回目は生後2歳になるまでに接種。超えた場合は追加接種のみを行う\n・3回目（追加接種）\n2回目終了後、60日以上あけて追加接種。\nなお、追加接種は生後1歳以降に行う。\n生後1歳から2歳未満2回接種\n・2回目（追加接種）\n60日以上の間隔をあけて追加接種。\n生後2歳から5歳未満1回接種",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳・保険証・予診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "市の指定医療機関",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+          "title": "個別に受ける定期予防接種の概要"
+        },
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/497/251.pdf",
+          "title": "ヒブワクチンの注意事項 （PDF 211.6KB）"
+        },
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/497/pcv15.pdf",
+          "title": "小児用肺炎球菌ワクチンの注意事項 （PDF 133.0KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1002497.html",
+        "title": "ヒブワクチン・小児用肺炎球菌ワクチンの接種について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　健康管理係",
+        "contactPhone": "042-552-0061",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1970011",
+        "contactAddress": "福生市福生2125-3（福生市保健センター）"
+      },
+      "area": {
+        "areaCode": "132187;福生市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132187+4+UM54",
+        "organization": "8000020132187",
+        "compartment": "福祉保健部　健康課　健康管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-16",
+        "updater": "福生市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "B型肝炎ワクチン予防接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "平成28年10月1日から、B型肝炎ワクチンは公費で接種ができる定期接種として導入されました。\n\n対象者\n平成28年4月1日以降に生まれた、生後1歳に至るまでの方\n※（1）過去に御自身でB型肝炎の予防接種を受けている場合は、その回数を差し引いた回数を公費（無料）\n　　　　で接種いただけます。\n※（2）母子感染予防として健康保険を適用して出産直後にB型肝炎ワクチンを接種されている方は、定期\n　　　　接種の対象から除かれます。\n\n接種回数\n全3回\n\n生後2か月から9か月までの期間を標準的な接種期間とし、27日以上の間隔をおいて2回接種した後、第1回目の接種から139日以上の間隔をおいて1回接種します。\n\n接種方法\n市内指定医療機関で保護者同伴の上、接種をお受けください。\n（注意）接種を受ける前に、以下の注意事項をお読みになり、接種してください。\n※指定医療機関については下部リンク「個別に受ける定期予防接種の概要」内の「個別予防接種について（指定医療機関一覧）」をご参照ください。\n\nB型肝炎ワクチン注意事項 （PDF 272.9KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/005/666/bgatakannennwakutinnsetumei.pdf\n接種当日に用意するもの\n保険証、母子健康手帳、予診票\n\n関連情報\n個別に受ける定期予防接種の概要;https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+      "target": {
+        "targetPersons": "平成28年4月1日以降に生まれた、生後1歳に至るまでの方\n※（1）過去に御自身でB型肝炎の予防接種を受けている場合は、その回数を差し引いた回数を公費（無料）\n　　　　で接種いただけます。\n※（2）母子感染予防として健康保険を適用して出産直後にB型肝炎ワクチンを接種されている方は、定期\n　　　　接種の対象から除かれます。",
+        "lessThan": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "平成28年4月1日以降に生まれた、生後1歳に至るまでの方"
+      },
+      "support": {
+        "description": "公費で接種ができる定期接種",
+        "monetarySupport": "公費で接種ができる定期接種",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "接種回数\n全3回\n\n生後2か月から9か月までの期間を標準的な接種期間とし、27日以上の間隔をおいて2回接種した後、第1回目の接種から139日以上の間隔をおいて1回接種します。"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "予診票がつづられた予防接種ノートを生後2か月を迎える方に保健センターから送付します。",
+      "procedurePersons": "保護者同伴",
+      "procedureMethod": "接種回数\n全3回\n\n生後2か月から9か月までの期間を標準的な接種期間とし、27日以上の間隔をおいて2回接種した後、第1回目の接種から139日以上の間隔をおいて1回接種します。\n\n接種方法\n市内指定医療機関で保護者同伴の上、接種をお受けください。\n（注意）接種を受ける前に、以下の注意事項をお読みになり、接種してください。\n※指定医療機関については下部リンク「個別に受ける定期予防接種の概要」内の「個別予防接種について（指定医療機関一覧）」をご参照ください。\n\nB型肝炎ワクチン注意事項 （PDF 272.9KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/005/666/bgatakannennwakutinnsetumei.pdf\n接種当日に用意するもの\n保険証、母子健康手帳、予診票\n\n関連情報\n個別に受ける定期予防接種の概要;https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "保険証、母子健康手帳、予診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "市内指定医療機関",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+          "title": "個別に受ける定期予防接種の概要"
+        },
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/005/666/bgatakannennwakutinnsetumei.pdf",
+          "title": "B型肝炎ワクチン注意事項 （PDF 272.9KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1005666.html",
+        "title": "B型肝炎ワクチン予防接種について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　健康管理係",
+        "contactPhone": "042-552-0061",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1970011",
+        "contactAddress": "福生市福生2125-3（福生市保健センター）"
+      },
+      "area": {
+        "areaCode": "132187;福生市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132187+5+UM54",
+        "organization": "8000020132187",
+        "compartment": "福祉保健部　健康課　健康管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2020-04-03",
+      "odInformation": {
+        "updateDate": "2024-07-16",
+        "updater": "福生市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "ロタウイルスワクチン予防接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "令和2年10月1日から、令和2年8月1日生まれ以降の子を対象に、公費で接種ができる定期接種として導入されます。\n\n対象者\n令和2年8月1日以降に生まれた方\n※ワクチンが2種類あり、それぞれ回数と接種の期限が異なります\n\n接種回数\nロタリックス（経口弱毒生ヒトロタウイルスワクチン」（1価）…27日以上の間隔をあけて、生後24週までに全2回\n\nロタテック「5価経口弱毒生ロタウイルスワクチン」（5価）…27日以上の間隔をあけて、生後32週までに全3回\n\n※初回接種は生後14週6日までに受けてください。\n※どちらか一方のみを選択して既定の回数の接種を完了してください。\n　なおどちらのワクチンを接種しても有効性に差はありません。\n\n接種方法\n市内指定医療機関で保護者同伴の上、接種をお受けください。\n（注意）接種を受ける前に、以下の注意事項をお読みになり、接種してください。\n※指定医療機関については下部リンク「個別に受ける定期予防接種の概要」内の「個別予防接種について（指定医療機関一覧）」を御参照ください。\n\nロタウイルスワクチン注意事項 （PDF 164.0KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/010/524/rotasetumei.pdf\n接種当日に用意するもの\n保険証、母子健康手帳、予診票\n\n関連情報\n個別に受ける定期予防接種の概要;https://www.city.fussa.tokyo.jp/life/child/health/1002495.html\nロタウイルスについて（厚生労働省）（外部リンク）;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou03/rota_index.html",
+      "target": {
+        "targetPersons": "令和2年8月1日以降に生まれた方\n※初回接種は生後14週6日までに受けてください。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "令和2年8月1日以降に生まれた方\n※初回接種は生後14週6日までに受けてください。"
+      },
+      "support": {
+        "description": "公費で接種ができる定期接種",
+        "monetarySupport": "公費で接種ができる定期接種",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "ロタリックス（経口弱毒生ヒトロタウイルスワクチン」（1価）…27日以上の間隔をあけて、生後24週までに全2回\n\nロタテック「5価経口弱毒生ロタウイルスワクチン」（5価）…27日以上の間隔をあけて、生後32週までに全3回\n\n※初回接種は生後14週6日までに受けてください。"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "予診票がつづられた予防接種ノートを生後2か月を迎える方に保健センターから送付します。",
+      "procedurePersons": "保護者同伴",
+      "procedureMethod": "接種回数\nロタリックス（経口弱毒生ヒトロタウイルスワクチン」（1価）…27日以上の間隔をあけて、生後24週までに全2回\n\nロタテック「5価経口弱毒生ロタウイルスワクチン」（5価）…27日以上の間隔をあけて、生後32週までに全3回\n\n※初回接種は生後14週6日までに受けてください。\n※どちらか一方のみを選択して既定の回数の接種を完了してください。\n　なおどちらのワクチンを接種しても有効性に差はありません。\n\n接種方法\n市内指定医療機関で保護者同伴の上、接種をお受けください。\n（注意）接種を受ける前に、以下の注意事項をお読みになり、接種してください。\n※指定医療機関については下部リンク「個別に受ける定期予防接種の概要」内の「個別予防接種について（指定医療機関一覧）」を御参照ください。\n\nロタウイルスワクチン注意事項 （PDF 164.0KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/010/524/rotasetumei.pdf\n接種当日に用意するもの\n保険証、母子健康手帳、予診票\n\n関連情報\n個別に受ける定期予防接種の概要;https://www.city.fussa.tokyo.jp/life/child/health/1002495.html\nロタウイルスについて（厚生労働省）（外部リンク）;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou03/rota_index.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "保険証、母子健康手帳、予診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "市内指定医療機関",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+          "title": "個別に受ける定期予防接種の概要"
+        },
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/010/524/rotasetumei.pdf",
+          "title": "ロタウイルスワクチン注意事項 （PDF 164.0KB）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou03/rota_index.html",
+          "title": "ロタウイルスについて（厚生労働省）（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1010524.html",
+        "title": "ロタウイルスワクチン予防接種について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　健康管理係",
+        "contactPhone": "042-552-0061",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1970011",
+        "contactAddress": "福生市福生2125-3（福生市保健センター）"
+      },
+      "area": {
+        "areaCode": "132187;福生市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132187+6+UM54",
+        "organization": "8000020132187",
+        "compartment": "福祉保健部　健康課　健康管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2020-09-17",
+      "odInformation": {
+        "updateDate": "2024-07-16",
+        "updater": "福生市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "五種混合・四種混合ワクチンの接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "五種混合ワクチン【ジフテリア、百日せき、破傷風、急性灰白髄炎（ポリオ）、ヒブ】及び四種混合ワクチン【ジフテリア、百日せき、破傷風、急性灰白髄炎（ポリオ）】の接種についてお知らせします。\n\n令和6年4月1日より、四種混合ワクチンにヒブワクチンが加わった、五種混合ワクチンが公費で受けられるようになりました。\n\n対象者\n接種日当日に福生市に住所を有する、生後2か月から7歳6か月未満の方\n\n※四種混合ワクチンで接種を開始した方は原則、四種混合ワクチンで接種を完了させてください。\n\n接種方法\n市内指定医療機関で保護者同伴の上、接種をお受けください。\n（注意）接種を受ける前に、以下の注意事項をお読みになり、接種してください。\n※指定医療機関については下部リンク「個別に受ける定期予防接種の概要」内の「個別予防接種について（指定医療機関一覧）」をご参照ください。\n\n五種混合ワクチン接種の注意事項 （PDF 155.9KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/498/r6gokon.pdf\n四種混合ワクチン接種の注意事項 （PDF 148.2KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/498/r6yonkon.pdf\n接種当日用意するもの\n保険証、母子健康手帳、予診票（対象の方に市から送付します）\n\n接種回数\n4回\n\n初回接種を20日以上の間隔をあけて3回、追加接種を初回接種終了後6月以上あけて1回接種を行います。\n\n五種混合及び四種混合の標準的接種間隔\n初回接種：生後2か月から12か月の間に20から56日間の接種間隔をあけて3回接種\n追加接種：初回接種終了後12から18月に達するまでの期間に1回追加接種を行う。\n\n関連情報\n個別に受ける定期予防接種の概要;https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+      "target": {
+        "targetPersons": "接種日当日に福生市に住所を有する、生後2か月から7歳6か月未満の方\n\n※四種混合ワクチンで接種を開始した方は原則、四種混合ワクチンで接種を完了させてください。",
+        "lessThan": {
+          "targetAge": 7,
+          "targetAgeOfMonths": 6
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "接種日当日に福生市に住所を有する、生後2か月から7歳6か月未満の方"
+      },
+      "support": {
+        "description": "五種混合ワクチンが公費で受けられるようになりました。",
+        "monetarySupport": "五種混合ワクチンが公費で受けられるようになりました。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "生後2か月から7歳6か月未満\n接種回数\n4回\n\n初回接種を20日以上の間隔をあけて3回、追加接種を初回接種終了後6月以上あけて1回接種を行います。\n\n五種混合及び四種混合の標準的接種間隔\n初回接種：生後2か月から12か月の間に20から56日間の接種間隔をあけて3回接種\n追加接種：初回接種終了後12から18月に達するまでの期間に1回追加接種を行う。"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "予診票（対象の方に市から送付します）",
+      "procedurePersons": "保護者同伴",
+      "procedureMethod": "接種方法\n市内指定医療機関で保護者同伴の上、接種をお受けください。\n（注意）接種を受ける前に、以下の注意事項をお読みになり、接種してください。\n※指定医療機関については下部リンク「個別に受ける定期予防接種の概要」内の「個別予防接種について（指定医療機関一覧）」をご参照ください。\n\n五種混合ワクチン接種の注意事項 （PDF 155.9KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/498/r6gokon.pdf\n四種混合ワクチン接種の注意事項 （PDF 148.2KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/498/r6yonkon.pdf\n接種当日用意するもの\n保険証、母子健康手帳、予診票（対象の方に市から送付します）\n\n接種回数\n4回\n\n初回接種を20日以上の間隔をあけて3回、追加接種を初回接種終了後6月以上あけて1回接種を行います。\n\n五種混合及び四種混合の標準的接種間隔\n初回接種：生後2か月から12か月の間に20から56日間の接種間隔をあけて3回接種\n追加接種：初回接種終了後12から18月に達するまでの期間に1回追加接種を行う。\n\n関連情報\n個別に受ける定期予防接種の概要;https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "保険証、母子健康手帳、予診票（対象の方に市から送付します）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "市内指定医療機関",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/498/r6gokon.pdf",
+          "title": "五種混合ワクチン接種の注意事項 （PDF 155.9KB）"
+        },
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+          "title": "個別に受ける定期予防接種の概要"
+        },
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/498/r6yonkon.pdf",
+          "title": "四種混合ワクチン接種の注意事項 （PDF 148.2KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1002498.html",
+        "title": "五種混合・四種混合ワクチンの接種について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　健康管理係",
+        "contactPhone": "042-552-0061",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1970011",
+        "contactAddress": "福生市福生2125-3（福生市保健センター）"
+      },
+      "area": {
+        "areaCode": "132187;福生市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132187+7+UM54",
+        "organization": "8000020132187",
+        "compartment": "福祉保健部　健康課　健康管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-16",
+        "updater": "福生市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "ポリオワクチンの接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "ポリオワクチンの接種についてお知らせします。\n\n対象者\n接種日当日に福生市に住所を有する、生後2か月から7歳6か月未満の方\n\n※令和5年4月1日より接種対象年齢が生後2か月からと変更になりました。\n\n接種方法\n市内指定医療機関で保護者同伴の上、接種をお受けください。\n（注意）接種を受ける前に、以下の注意事項をお読みになり、接種してください。\n※指定医療機関については下部リンク「個別に受ける定期予防接種の概要」内の「個別予防接種について（指定医療機関一覧）」をご参照ください。\n\n不活化ポリオワクチン接種の注意事項 （PDF 276.4KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/500/polionew.pdf\n接種回数\n4回\n\n初回接種を20日以上の間隔をあけて3回、追加接種を初回接種終了後6月以上あけて1回接種を行います。\n\n不活化ポリオの標準的接種間隔\n初回接種：生後2か月から12か月の間に20から56日の接種間隔をあけて3回接種\n追加接種：初回接種終了後12から18月に達するまでの期間に1回追加接種を行う。\n\n生ポリオワクチンを接種している場合\n（注意）生ポリオワクチンとは経口接種（飲むタイプ）のワクチンです。\n\n生ポリオワクチンを1回接種している場合\n不活化ポリオワクチンを3回接種します。\n\n・1回目の生ポリオワクチンから27日以上の間隔をあけて2回目を接種。\n・2回目の不活化ポリオワクチンから20日以上の間隔をあけて3回目を接種。\n・3回目の不活化ポリオワクチンから6か月以上の間隔をあけて追加接種1回で完了です。\n生ポリオワクチンを2回接種している場合\n不活化ポリオワクチンの接種は必要ありません。\n\n（注1）任意接種で既に不活化ポリオワクチンを接種されている方は、合計4回になるように残りの回数を受けてください。\n（注2）平成24年9月から、これまでの生ポリオワクチンの経口接種（口からワクチンを飲む）から、不活化ポリオワクチンの皮下接種（皮下への注射）に切り替わりました。\n（注3）平成24年10月23日から不活化ポリオワクチンの追加接種が定期の予防接種としてできるようになりました。\n\n関連情報\n個別に受ける定期予防接種の概要;https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+      "target": {
+        "targetPersons": "接種日当日に福生市に住所を有する、生後2か月から7歳6か月未満の方\n\n※令和5年4月1日より接種対象年齢が生後2か月からと変更になりました。",
+        "lessThan": {
+          "targetAge": 7,
+          "targetAgeOfMonths": 6
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "接種日当日に福生市に住所を有する、生後2か月から7歳6か月未満の方"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "生後2か月から7歳6か月未満\n接種回数\n4回\n\n初回接種を20日以上の間隔をあけて3回、追加接種を初回接種終了後6月以上あけて1回接種を行います。\n\n不活化ポリオの標準的接種間隔\n初回接種：生後2か月から12か月の間に20から56日の接種間隔をあけて3回接種\n追加接種：初回接種終了後12から18月に達するまでの期間に1回追加接種を行う。"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "保護者同伴",
+      "procedureMethod": "接種方法\n市内指定医療機関で保護者同伴の上、接種をお受けください。\n（注意）接種を受ける前に、以下の注意事項をお読みになり、接種してください。\n※指定医療機関については下部リンク「個別に受ける定期予防接種の概要」内の「個別予防接種について（指定医療機関一覧）」をご参照ください。\n\n不活化ポリオワクチン接種の注意事項 （PDF 276.4KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/500/polionew.pdf\n接種回数\n4回\n\n初回接種を20日以上の間隔をあけて3回、追加接種を初回接種終了後6月以上あけて1回接種を行います。\n\n不活化ポリオの標準的接種間隔\n初回接種：生後2か月から12か月の間に20から56日の接種間隔をあけて3回接種\n追加接種：初回接種終了後12から18月に達するまでの期間に1回追加接種を行う。\n\n生ポリオワクチンを接種している場合\n（注意）生ポリオワクチンとは経口接種（飲むタイプ）のワクチンです。\n\n生ポリオワクチンを1回接種している場合\n不活化ポリオワクチンを3回接種します。\n\n・1回目の生ポリオワクチンから27日以上の間隔をあけて2回目を接種。\n・2回目の不活化ポリオワクチンから20日以上の間隔をあけて3回目を接種。\n・3回目の不活化ポリオワクチンから6か月以上の間隔をあけて追加接種1回で完了です。\n生ポリオワクチンを2回接種している場合\n不活化ポリオワクチンの接種は必要ありません。\n\n（注1）任意接種で既に不活化ポリオワクチンを接種されている方は、合計4回になるように残りの回数を受けてください。\n（注2）平成24年9月から、これまでの生ポリオワクチンの経口接種（口からワクチンを飲む）から、不活化ポリオワクチンの皮下接種（皮下への注射）に切り替わりました。\n（注3）平成24年10月23日から不活化ポリオワクチンの追加接種が定期の予防接種としてできるようになりました。\n\n関連情報\n個別に受ける定期予防接種の概要;https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "市内指定医療機関",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+          "title": "個別に受ける定期予防接種の概要"
+        },
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/002/500/polionew.pdf",
+          "title": "不活化ポリオワクチン接種の注意事項 （PDF 276.4KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1002500.html",
+        "title": "ポリオワクチンの接種について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　健康管理係",
+        "contactPhone": "042-552-0061",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1970011",
+        "contactAddress": "福生市福生2125-3（福生市保健センター）"
+      },
+      "area": {
+        "areaCode": "132187;福生市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132187+8+UM54",
+        "organization": "8000020132187",
+        "compartment": "福祉保健部　健康課　健康管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-16",
+        "updater": "福生市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "二種混合ワクチン接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "二種混合ワクチン【ジフテリア、破傷風】の接種についてお知らせします。\n\n二種混合の予防接種は、乳幼児の頃に接種した三種混合ワクチン（ジフテリア、百日せき、破傷風）のうち、ジフテリアと破傷風の免疫強化を目的に行うもので、11歳から13歳未満の間に1回接種をすることとなっております。受け忘れのないよう、お早めに接種をお受けください。\n\n対象者\n接種日当日に福生市に住所を有する、11歳から13歳未満の方\n\n接種方法\n市内指定医療機関で保護者同伴の上、接種をお受けください。\n（注意）接種を受ける前に、以下の注意事項をお読みになり、接種してください。\n※指定医療機関については下部リンク「個別に受ける定期予防接種の概要」内の「個別予防接種について（指定医療機関一覧）」をご参照ください。\n\n二種混合ワクチン接種の注意事項 （PDF 251.3KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/004/360/dtexplanation.pdf\n接種当日用意するもの\n保険証、母子健康手帳、予診票（対象の方に市から送付します）\n\n接種回数\n1回の接種で完了です。\n\n関連情報\n個別に受ける定期予防接種の概要;https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+      "target": {
+        "targetPersons": "接種日当日に福生市に住所を有する、11歳から13歳未満の方",
+        "lessThan": {
+          "targetAge": 13,
+          "targetAgeOfMonths": 0
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 11,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "接種日当日に福生市に住所を有する、11歳から13歳未満の方"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "11歳から13歳未満の間に1回接種"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "予診票（対象の方に市から送付します）",
+      "procedurePersons": "保護者同伴",
+      "procedureMethod": "接種方法\n市内指定医療機関で保護者同伴の上、接種をお受けください。\n（注意）接種を受ける前に、以下の注意事項をお読みになり、接種してください。\n※指定医療機関については下部リンク「個別に受ける定期予防接種の概要」内の「個別予防接種について（指定医療機関一覧）」をご参照ください。\n\n二種混合ワクチン接種の注意事項 （PDF 251.3KB）;https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/004/360/dtexplanation.pdf\n接種当日用意するもの\n保険証、母子健康手帳、予診票（対象の方に市から送付します）\n\n接種回数\n1回の接種で完了です。\n\n関連情報\n個別に受ける定期予防接種の概要;https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "保険証、母子健康手帳、予診票（対象の方に市から送付します）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "市内指定医療機関",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1002495.html",
+          "title": "個別に受ける定期予防接種の概要"
+        },
+        {
+          "uri": "https://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/004/360/dtexplanation.pdf",
+          "title": "二種混合ワクチン接種の注意事項 （PDF 251.3KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.fussa.tokyo.jp/life/child/health/1004360.html",
+        "title": "二種混合ワクチン接種について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　健康管理係",
+        "contactPhone": "042-552-0061",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1970011",
+        "contactAddress": "福生市福生2125-3（福生市保健センター）"
+      },
+      "area": {
+        "areaCode": "132187;福生市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132187+9+UM54",
+        "organization": "8000020132187",
+        "compartment": "福祉保健部　健康課　健康管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2020-04-03",
+      "odInformation": {
+        "updateDate": "2024-07-16",
+        "updater": "福生市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

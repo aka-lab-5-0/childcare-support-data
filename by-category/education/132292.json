@@ -1,0 +1,529 @@
+{
+  "version": "2025-07-10T02:38:54.143Z",
+  "areaCode": "132292",
+  "areaName": "西東京市",
+  "category": "education",
+  "count": 4,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+        "shortName": "赤ちゃん訪問（新生児・産婦訪問）"
+      },
+      "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+      "description": "市では、赤ちゃんやお母さんの健康のために、赤ちゃんがお生まれになった全てのご家庭を助産師または保健師が訪問する『赤ちゃん訪問（新生児・産婦訪問）』を行っています。\n赤ちゃんがお生まれになったら、赤ちゃん訪問はがき（出生通知票）を速やかに郵送してください。\n赤ちゃん訪問はがきは、母子健康手帳交付の際にお渡ししている「母と子の保健ファイル」に同封されています。\n紛失や転入などで赤ちゃん訪問はがきをお持ちでない方は電話でもお受けできます。健康課までご連絡ください。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "助産師または保健師がご自宅にお伺いし、赤ちゃんの体重測定、発育・発達状況の確認、授乳相談、お母さんの体調の相談、地域情報の紹介などを行います。\nみなさまに安心してご利用いただけるよう、訪問の際は身分証明書を提示いたします。\n不審に思われた場合は、身分証明書の提示を求めてください。",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/yobosessyu/kodomoyobosesshushokan.html",
+          "title": "子どもの定期予防接種費用助成（償還払い）制度\n里帰り先で予防接種を希望される方はこちらもご覧ください。"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.nishitokyo.lg.jp/kosodate/bosi/syussan/shinseijihoumon.html",
+        "title": "赤ちゃん訪問（新生児・産婦訪問）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康課",
+        "contactPhone": "042-438-4037",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "FAX：042-422-7309",
+        "zipCode": "2028555",
+        "contactAddress": "西東京市中町一丁目5番1号　防災・保谷保健福祉総合センター4階"
+      },
+      "area": {
+        "areaCode": "132292;西東京市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132292+1+UM14",
+        "organization": "1000020132292",
+        "compartment": "健康課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/11/22",
+      "odInformation": {
+        "updateDate": "2025/02/19",
+        "updater": "西東京市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第21条の10の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "放課後子供教室",
+        "shortName": "放課後子供教室事業（校庭・体育館開放含む）"
+      },
+      "summary": "地域住民の参画を得て、放課後等に全ての児童を対象として、学習や体験・交流といった多様な活動を行っています。",
+      "description": "放課後子供教室とは、放課後や週末等に学校の余裕教室等を活用して、児童生徒等の安全・安心な活動場所を確保し、地域と学校が連携・協働して学習や様々な体験・交流活動の機会を定期的・継続的に提供する放課後等の活動です。\n主な活動として（1）体験・交流活動（2）校庭・体育館開放を実施しています。\n当市では各小学校（全18校）にある学校施設開放運営協議会に事業を委託し、地域住民の皆様の参画・協力を頂くことで、学校・家庭・地域が連携・協働して、自立的・継続的に子どもを取り巻く課題を解決できる地域社会を目指します。\n遵守事項\n・車での来校は、原則禁止しています。\n・遊具に関しては、備え付けのものを使用してください。\n・堅い球（硬式野球、軟式野球等）によるキャッチボール、バット等（ゴルフのクラブ含む）のスイング、ラクビー等のタックルを伴うプレー等は禁止しています。\n・野球、サッカー等、試合形式の利用は禁止しています。\n・その他、実施校でのルールに従って利用してください。\n放課後サポーター募集\n・放課後子供教室にご協力頂けるサポーターを募集しております。詳細は社会教育課までご連絡ください。\n※市職員と面談後、希望に添えない場合もあります。ご了承ください。\n放課後子供教室事業サポーター募集について（PDF：308KB）;https://www.city.nishitokyo.lg.jp/enjoy/syogaigakusyu/shisetukaihou.files/sapo-ta-bosyuutirasi.pdf",
+      "target": {
+        "targetPersons": "児童・生徒等および保護者が付き添う幼児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "※利用対象は各学校施設開放運営協議会によって異なります。"
+      },
+      "support": {
+        "description": "（1）体験・交流活動\n学校の校庭や体育館、空き教室を利用し、体験・交流活動を実施しています。\n各学校施設開放運営協議会によって工作教室やプログラミング教室など多岐に渡るメニューが展開されており、実施内容は様々です。\n体験・交流活動は、主にその小学校に在籍する児童を対象に実施しています。\n詳細は学校施設開放運営協議会または社会教育課にお問い合わせください。\n（2）校庭・体育館開放\n放課後サポーター（地域住民）の見守りのもと、学校の校庭や体育館等を開放しています。\n開放日時や利用対象は各学校施設開放運営協議会によって異なります。\n詳細は学校施設開放運営協議会または社会教育課へお問い合わせください。",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "市立小学校18校の校庭、体育館等の学校施設\n|北町・下保谷・東町・栄町・泉町| | | | |\n|:----|:----|:----|:----|:----|\n| |やっている日|ばしょ|でんわ|おしらせ|\n|こどもカフェ「とんのいえ」|第4木曜日　午後3時30分から5時30分|泉町四丁目3番21号|090-6112-1687|おしらせ（PDF：187KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/tonnoie1-3gatu.pdf|\n|SOMPO流子ども食堂（そんぽの家S保谷北町）|第2土曜日　午前11時から午後1時|北町六丁目1番28号|042-439-0320|おしらせ（PDF：4,741KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/sompoR6.pdf|\n|SOMPO流子ども食堂（そんぽの家S保谷駅前）|第4土曜日　午前11時30分から午後3時|東町三丁目5番2号|042-438-5520|おしらせ（PDF：4,741KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/sompoR6.pdf|\n|SOMPO流子ども食堂（そんぽの家S西東京泉町）|第4土曜日　午前11時30分から午後3時|泉町二丁目14番13号|042-438-6130|おしらせ（PDF：4,741KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/sompoR6.pdf|\n|保谷苑こども食堂|第3水曜日　午後6時から午後7時|栄町三丁目6番2号　保谷苑|042-423-5002|おしらせ（PDF：843KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/houyaen10.11.12.pdf|\n| | | | | |\n|中町・富士町・保谷町| | | | |\n| |やっている日|ばしょ|でんわ|おしらせ|\n|こども食堂げんき|第2日曜日　午前11時30分から午後1時30分|富士町一丁目1番1号|070-1273-0547|ホームページ（外部リンク）　ダウンロードのリンク　新規ウインドウで開きます。QRコード（PDF：12KB）\nホームページ（外部リンク）;http://www.genki-kodomo-sk.sakura.ne.jp/, QRコード（PDF：12KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/genkiqrcode.pdf, いりぐち（PDF：347KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/genkiiriguti.pdf, てんない1（PDF：328KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/genkitennai1.pdf, てんない2（PDF：318KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/genkitennai2.pdf, メニュー（PDF：341KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/genkimenu.pdf|\n|「木・々」子ども食堂|第4日曜日　午前11時から午後1時　週2回夕食弁当配布|コミュニティーレストラン木・々（もくもく）　保谷町六丁目25番1号|042-425-6800|おしらせ（PDF：604KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/mokumoku12gatu.pdf|\n|子ども食堂　おひさまキッチン|月曜日から金曜日（平日）　午後3時から8時|保谷町四丁目11番26号　メトロウェストビルディング1階|042-497-5070|ホームページ（外部リンク）;https://ohisama-kitchen.com/, いりぐち（PDF：140KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/ohisamairiguti.pdf, てんない（PDF：109KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/ohisamasyokudou.pdf, メニュー1（PDF：1,336KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/ohisamamenu1.pdf, メニュー2（PDF：2,877KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/ohisamamenu2.pdf, メニュー3（PDF：1,271KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/ohisamamenu3.pdf|\n|おひさまフードパントリー|第2・第4日曜日　午前11時から午後2時　※事前申込制　申込はホームページより| | |ホームページ（外部リンク）;https://ohisama-foodpantry.com/|\n|SOMPO流子ども食堂（そんぽの家西東京）|第2土曜日　午前11時45分から午後2時|中町六丁目5番12号|042-425-8200|おしらせ（PDF：4,741KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/sompoR6.pdf|\n|みらいラボ子ども食堂|第1火曜日（フードパントリー&工作）・最終火曜日（子ども食堂）　午後3時30分から5時30分|保谷町三丁目25番14号|042-452-7711|おしらせ（PDF：345KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/mirailabo9-10gatu.pdf|\n| | | | | |\n|ひばりが丘北・ひばりが丘・住吉町・谷戸町・緑町・北原町| | | | |\n| |やっている日|ばしょ|でんわ|おしらせ|\n|浦野屋やきとんてるてるひばりが丘店子ども食堂|第3日曜日　正午から午後2時|浦野屋やきとんてるてるひばりが丘店　ひばりが丘北四丁目2番24号|042-439-4280| |\n|こども食堂　ジョイフル|第4金曜日　午後5時から7時|ひばりが丘北教会　ひばりが丘北四丁目3番13号|042-423-8377| |\n|YLわいえるこども食堂|月曜日から土曜日　午前11時から午後4時30分　配食も実施|YLひばりが丘書房　ひばりが丘北一丁目7番14号|042-439-3550|おしらせ（PDF：1,216KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/ylsyokkudou.pdf|\n|ひばりが丘スープキッチン|毎週水曜日　午後6時から7時30分（事前予約制）|JASMIN　Co-Works　ひばりが丘一丁目4番27号|080-4608-3609|ホームページ（外部リンク）;https://www.instagram.com/jasmin_coworks/|\n|こひつじ食堂|第4土曜日　午後0時30から2時30分|東京若枝教会　住吉町六丁目14番5号|080-9393-8464| |\n|放課後キッチン・ごろごろ|第3木曜日　午後4時から6時|緑町3丁目アパート集会所　緑町三丁目8番|090-9323-1835|おしらせ（PDF：378KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/gorogoro5nendo.pdf|\n|放課後キッチン・ごろごろwithヒバジバ食堂|第1火曜日　午後4時から8時|ひばりが丘児童センター　ひばりが丘三丁目1番25号|090-9323-1835|おしらせ（PDF：353KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/gorogorohibajiba5nendo.pdf|\n|こども食堂　陽気なキッチン|毎月12日　午後4時から7時30分（テイクアウトも可）|天理教田無分教会　緑町二丁目1番8号|042-461-0363/090-1501-8005|おしらせ（PDF：754KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/youkinakichen.pdf|\n| | | | | |\n|東伏見・柳沢・新町・向台町・南町| | | | |\n| |やっている日|ばしょ|でんわ|おしらせ|\n|やぎさわ子ども食堂|第2日曜日　午後5時から6時30分　惣菜・食材等の配布　午後4時から5時|西武柳沢キリスト教会　柳沢二丁目11番13号|042-458-0251|おしらせ（PDF：63KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/yagisawa6gatu.pdf|\n|わいわいクッキング|第3土曜日　午前10時30分から午後1時30分|田無公民館　実習室　南町五丁目6番11号|080-3174-5771|おしらせ（PDF：931KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/waiwai12gatu.pdf,おしらせ（令和6年度）（PDF：1,473KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/waiwaiR6.pdf|\n|こども食堂　プネウマ|第1日曜日　午前11時30分から午後1時30分|東伏見コミュニティーセンター　東伏見五丁目10番22号|090-4078-7506|お知らせ（PDF：2,590KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/puneuma2gatu.pdf|\n|こども・地域　あおぞら食堂|第4土曜日　午前11時30分から午後1時|東京聖新会　向台町二丁目16番22号|042-468-5133|おしらせ（PDF：636KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/aozorasyokudou.pdf|\n|SOMPO流子ども食堂（そんぽの家S武蔵野）|第2土曜日　午前11時30分から午後3時|新町五丁目14番14号|0422-50-8515|おしらせ（PDF：4,741KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/sompoR6.pdf|\n|SOMPO流子ども食堂（そんぽの家柳沢）|第3土曜日　正午から午後3時|柳沢三丁目5番27号|042-460-8080|おしらせ（PDF：4,741KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/sompoR6.pdf|\n|SOMPO流子ども食堂（そんぽの家S東伏見）|第2土曜日　午後1時から2時30分|東伏見四丁目4番25号|042-450-6601|おしらせ（PDF：4,741KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/sompoR6.pdf|\n|子ども食堂「ゆいな」|第4土曜日　午後1時から午後2時30分（事前予約制）※状況により開催週が変更になることがあります|看護小規模多機能ゆいなの森　地域交流室　南町五丁目1番15号|042-452-3692|おしらせ（PDF：736KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/yuina12gatu.pdf|\n|むさとく こども食堂|月1回不定期　午後6時から7時30分|武蔵野徳洲会病院内 1階売店前　向台町三丁目5番48号|042-465-0760|おしらせ（PDF：489KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/musatokuopen.pdf, おしらせ（PDF：502KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/musatoku12gatu.pdf|\n|こども食堂「ありがとう」|毎月28日　午後4時から7時|東伏見一丁目17番5号|042-464-4882|おしらせ11月（PDF：46KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/arigatou2024.11.pdf, おしらせ12月（PDF：45KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/arigatou2024.12.pdf|\n| | | | | |\n|田無町・芝久保町・西原町| | | | |\n| |やっている日|ばしょ|でんわ|おしらせ|\n|子ども食堂　ゆいまーる|毎週土曜日　午前11時30分から午後3時30分|大繁　田無町三丁目5番20号|070-4322-4059|おしらせ（PDF：1,816KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/yuimaaru.pdf|\n|子ども食堂　しばくぼ～の|第1土曜日　正午から午後2時|芝久保サロンしゃくなげ　芝久保町三丁目11番3号|042-497-5180（社会福祉協議会）|おしらせ（PDF：155KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/r5shibakubo-no2.pdf|\n|子ども食堂　飯もり山|第3土曜日　午後4時30分から6時30分|芝久保サロンしゃくなげ　芝久保町三丁目11番3号|042-497-5180（社会福祉協議会）|おしらせ（PDF：139KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/meshimoriyama12-2gatu.pdf|\n|SOMPO流子ども食堂（そんぽの家ひばりが丘）|第2土曜日　正午から午後1時30分|西原町五丁目3番12号|042-460-5503|おしらせ（PDF：4,741KB）;https://www.city.nishitokyo.lg.jp/kosodate/nodoka/72310920220330105233014.files/sompoR6.pdf|",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "参考までに基本的な開放時間をお知らせします。\n※開放時間は各学校施設開放運営協議会によって異なります。\n|校庭| |\n|:----|:----|\n|3月から10月まで（春休み・夏休みを除く）| |\n|曜日|時間|\n|水曜日以外の平日|午後4時から午後5時30分まで|\n|水曜日|午後3時から午後5時30分まで|\n|土曜日・日曜日・休日|午前9時から午後1時まで又は午後1時から午後5時30分まで|\n|11月から2月まで（冬休みを除く）| |\n|曜日|時間|\n|水曜日|午後3時から午後4時30分まで|\n|土曜日・日曜日・休日|午前9時から午後1時まで又は午後1時から午後4時30分まで|\n|春休み・夏休み| |\n|曜日|時間|\n|月曜日から金曜日まで|午前9時から午後1時まで又は午後1時から午後5時30分まで|\n|冬休み| |\n|曜日|時間|\n|月曜日から金曜日まで|午前9時から午後1時まで又は午後1時から午後4時30分まで|\n|体育館| |\n|:----|:----|\n|3月から10月まで（春休み・夏休みを除く）| |\n|曜日|時間|\n|土曜日|午前9時から午後1時まで又は午後1時から午後5時30分まで|\n|11月から2月まで（冬休みを除く）| |\n|曜日|時間|\n|土曜日|午前9時から午後1時まで又は午後1時から午後4時30分まで|\n注意\n・上記の開放時間は、基本的な時間です。小学校で違いがありますので、詳しくはお近くの学校施設開放運営協議会または社会教育課にお問い合わせください。\n・12月29日から翌年1月3日までは、開放していません。このほかにも、学校行事等により開放できないことがあります。\n・天候、校庭の状態、光化学スモッグ等により中止になる場合があります。"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.nishitokyo.lg.jp/enjoy/syogaigakusyu/shisetukaihou.html",
+        "title": "放課後子供教室事業（校庭・体育館開放含む）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "社会教育課",
+        "contactPhone": "042-420-2831",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.nishitokyo.lg.jp/cgi-bin/formmail/formmail.cgi?d=140100",
+        "contactComment": "FAX：042-420-2891",
+        "zipCode": "1888666",
+        "contactAddress": "西東京市南町五丁目6番13号　田無第二庁舎3階"
+      },
+      "area": {
+        "areaCode": "132292;西東京市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132292+1+UM5028",
+        "organization": "1000020132292",
+        "compartment": "社会教育課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/09/18",
+      "odInformation": {
+        "updateDate": "2025/02/26",
+        "updater": "西東京市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "放課後児童クラブ",
+        "shortName": "学童クラブ"
+      },
+      "summary": "放課後児童クラブは、保護者が就労などにより、昼間家庭にいない小学校に就学しているお子さんに対し、適切な遊びおよび生活の場を与え、児童の健全な育成および保護者の就労と子育ての両立支援を図ることを目的としています。",
+      "description": "学童クラブとは\n\n学童クラブとは、児童が放課後帰宅しても、保護者等が就労や疾病等により児童を監護することができない場合、保護者に代わって生活の場を確保し適切な遊びや指導をおこなうことで、児童の心身の健全な育成を図るための事業です。\n\n対象児童\n西東京市に居住中または西東京市立小学校に在学中の、小学4年生までの児童です（障害児は6年生まで）。\n\n学童クラブの指導時間\nカッコ内時間は、勤務状況等による最長指導時間です。\n\n通常日　下校時から午後5時（午後6時）\n春休み・夏休み・冬休み　午前8時30分から午後5時（午後6時）\n学校休業日　午前8時30分から午後5時（午後6時）\n土曜日　午前8時30分から午後5時（午後6時）\n※土曜日は、監護に欠ける事が勤務証明書等により明確な児童のみ利用が可能\n\n学童クラブの休日\n日曜日・国民の祝日・年末年始等\n\n学童クラブの生活\n通常は、下校してから自由遊び、集団遊びなど自主的に活動します。みんなでおやつを食べた後、係活動を実施している学童クラブもあります。\nまた、行事として遠足、工作、おやつ作り、児童館行事への参加などがあります。\n\n一日指導日（学校休業日）の流れ\n|時間|生活|\n|:----|:----|\n|午前8時30分|自由遊び・そうじ（室内・室外）など|\n|午前9時|自主学習の時間|\n|午前10時|自由遊び|\n|午前11時45分|あとかたづけ・昼食・休憩（おひるね）|\n|午後2時|自由遊び|\n|午後4時|おやつ|\n|午後5時|帰宅|\n|午後6時|帰宅（保護者の帰りが遅い児童のみ）|\n\n※1日の流れはあくまでも目安であり、施設の規模や児童数などによって、施設ごとに指導内容は異なります。\n\n※民間委託している学童クラブでは、有料での午後6時以降の時間延長も行っています。詳細は各学童クラブにお問い合わせください。\nなお、民間委託している学童クラブについては、下記関連リンクの「施設一覧」をご参照ください。\n\n学校伝染病について\n学校伝染病（おたふく風邪・インフルエンザ・はしか・風しん・水ぼうそう・手足口病・りんご病・溶連菌感染症など）の対応は、学校に準じます。医師より登所許可があった場合は、下記よりダウンロードした「治癒報告書」をご記入いただき、学童クラブへ提出してください。\n\n治癒報告書（PDF：265KB）;https://www.city.nishitokyo.lg.jp/kosodate/gakudoclub/about.files/chiyuhoukoku.pdf\n\n学童クラブのしおり\n学童クラブでの一日の流れ、持ち物や注意事項などについて記載しています。\n\n学童クラブのしおり（PDF：2,520KB）;https://www.city.nishitokyo.lg.jp/kosodate/gakudoclub/about.files/gakudoshiori.pdf\n\n退会について\n年度の途中で学童クラブを退会する場合は、退会届の提出が必要です。\n\n提出先は、児童青少年課窓口（田無第二庁舎2階）または入会している学童クラブです。\n\n※注1　日付を遡っての退会はできません。かならず退会日までに届出をしてください。\n※注2　毎月15日までに退会する場合は当月の育成料および間食費の半額、16日以降の場合は全額が掛かります。\n\n退会届（PDF：61KB）;https://www.city.nishitokyo.lg.jp/kosodate/gakudoclub/about.files/taikaitodoke.pdf\n\n育成料及び間食費について\n学童クラブの利用には、育成料及び間食費がかかります。\n学童クラブ育成料等の金額は、月額7,000円（育成料6,000円、間食費1,000円）です。\nただし、同一世帯で学童クラブに在籍する児童が2人以上の場合の2人目以降の児童については、1人あたりの育成料が半額になります。\n\n減免制度について\n育成料及び間食費には減免制度があります。\n\n1 減免を受けられる方\n\n減免対象（PDF：101KB）;https://www.city.nishitokyo.lg.jp/kosodate/gakudoclub/about.files/R6hyou.pdf\n\n2　提出書類\n\n減免申請書（DOCファイル：44KB）;https://www.city.nishitokyo.lg.jp/kosodate/gakudoclub/about.files/R6shinnseisho.doc\n\n減免申請書（PDF：115KB）;https://www.city.nishitokyo.lg.jp/kosodate/gakudoclub/about.files/R6shinnseisho.pdf\n\n3　申請\n西東京市役所田無第二庁舎2階　児童青少年課へ持参または郵送（児童館や学童クラブへの提出は、できません）\n\n※注意\n育成料等の減免は、毎年度申請が必要です。前年度に減免を受けられていた方も、改めて申請をしないと減免を受けられません。\n\n※詳しくは、児童青少年課（042-460-9843）にお問い合わせください。\n\n関連リンク\n学童クラブ入会申請について;https://www.city.nishitokyo.lg.jp/kosodate/gakudoclub/nyukaisinsei.html\n\n学童クラブに入会希望の方は、こちらで入会要件の確認や申請書類等のダウンロードができます。\n\n施設一覧;https://www.city.nishitokyo.lg.jp/kosodate/gakudoclub/sisetuitiran.html\n\n市内学童クラブの一覧です。",
+      "target": {
+        "targetPersons": "西東京市に居住中または西東京市立小学校に在学中の、小学4年生までの児童です（障害児は6年生まで）。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "小学4年生までの児童です（障害児は6年生まで）"
+      },
+      "support": {
+        "description": "通常は、下校してから自由遊び、集団遊びなど自主的に活動します。みんなでおやつを食べた後、係活動を実施している学童クラブもあります。\nまた、行事として遠足、工作、おやつ作り、児童館行事への参加などがあります。\n\n一日指導日（学校休業日）の流れ\n|時間|生活|\n|:----|:----|\n|午前8時30分|自由遊び・そうじ（室内・室外）など|\n|午前9時|自主学習の時間|\n|午前10時|自由遊び|\n|午前11時45分|あとかたづけ・昼食・休憩（おひるね）|\n|午後2時|自由遊び|\n|午後4時|おやつ|\n|午後5時|帰宅|\n|午後6時|帰宅（保護者の帰りが遅い児童のみ）|\n\n※1日の流れはあくまでも目安であり、施設の規模や児童数などによって、施設ごとに指導内容は異なります。\n\n※民間委託している学童クラブでは、有料での午後6時以降の時間延長も行っています。詳細は各学童クラブにお問い合わせください。",
+        "monetarySupport": null,
+        "materiallySupport": "通常は、下校してから自由遊び、集団遊びなど自主的に活動します。みんなでおやつを食べた後、係活動を実施している学童クラブもあります。\nまた、行事として遠足、工作、おやつ作り、児童館行事への参加などがあります。\n\n一日指導日（学校休業日）の流れ\n|時間|生活|\n|:----|:----|\n|午前8時30分|自由遊び・そうじ（室内・室外）など|\n|午前9時|自主学習の時間|\n|午前10時|自由遊び|\n|午前11時45分|あとかたづけ・昼食・休憩（おひるね）|\n|午後2時|自由遊び|\n|午後4時|おやつ|\n|午後5時|帰宅|\n|午後6時|帰宅（保護者の帰りが遅い児童のみ）|\n\n※1日の流れはあくまでも目安であり、施設の規模や児童数などによって、施設ごとに指導内容は異なります。\n\n※民間委託している学童クラブでは、有料での午後6時以降の時間延長も行っています。詳細は各学童クラブにお問い合わせください。"
+      },
+      "cost": "7000",
+      "costConditions": "学童クラブの利用には、育成料及び間食費がかかります。\n学童クラブ育成料等の金額は、月額7,000円（育成料6,000円、間食費1,000円）です。\nただし、同一世帯で学童クラブに在籍する児童が2人以上の場合の2人目以降の児童については、1人あたりの育成料が半額になります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "学童クラブの指導時間\nカッコ内時間は、勤務状況等による最長指導時間です。\n\n通常日　下校時から午後5時（午後6時）\n春休み・夏休み・冬休み　午前8時30分から午後5時（午後6時）\n学校休業日　午前8時30分から午後5時（午後6時）\n土曜日　午前8時30分から午後5時（午後6時）\n※土曜日は、監護に欠ける事が勤務証明書等により明確な児童のみ利用が可能"
+      },
+      "specificDate": null,
+      "holiday": "日曜日・国民の祝日・年末年始等",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "学童クラブ入会申請について;https://www.city.nishitokyo.lg.jp/kosodate/gakudoclub/nyukaisinsei.html\n\n学童クラブに入会希望の方は、こちらで入会要件の確認や申請書類等のダウンロードができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.nishitokyo.lg.jp/kosodate/gakudoclub/nyukaisinsei.html",
+          "title": "減免対象（PDF：101KB）"
+        },
+        {
+          "uri": "https://www.city.nishitokyo.lg.jp/kosodate/gakudoclub/about.files/gakudoshiori.pdf",
+          "title": "学童クラブのしおり（PDF：2"
+        },
+        {
+          "uri": "https://www.city.nishitokyo.lg.jp/kosodate/gakudoclub/about.files/R6hyou.pdf",
+          "title": "520KB）"
+        },
+        {
+          "uri": "https://www.city.nishitokyo.lg.jp/kosodate/gakudoclub/sisetuitiran.html",
+          "title": "学童クラブ入会申請について"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.nishitokyo.lg.jp/kosodate/gakudoclub/about.html",
+        "title": "学童クラブとは"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "児童青少年課",
+        "contactPhone": "042-460-9843",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1888666",
+        "contactAddress": "西東京市南町五丁目6番13号"
+      },
+      "area": {
+        "areaCode": "132292;西東京市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132292+1+UM79",
+        "organization": "1000020132292",
+        "compartment": "児童青少年課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-30",
+      "odInformation": {
+        "updateDate": "2024-07-11",
+        "updater": "西東京市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第2項"
+      },
+      "tag": {
+        "categoryCode": [
+          "005"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関するサポート",
+        "shortName": "令和6年度　ペアレントトレーニングに学ぶほめる子育て～親子のグッドサイクルのために～"
+      },
+      "summary": "ペアレントトレーニングを基にした親子の関係性をよく（グッドサイクルに）するための講座、ワークショップです。家庭での実践も含めて、１コース３回行います。",
+      "description": "令和6年度　ペアレントトレーニングに学ぶほめる子育て～親子のグッドサイクルのために～\n\nチラシ;https://www.city.nishitokyo.lg.jp/kosodate/hiiragi/shiminkoza/r6peatore.images/peatore.png\n\n講師紹介\n神谷未和子先生\n臨床発達心理士、元西東京市こどもの発達センターひいらぎ所長\n\n時間\n午前10時から11時45分（開場9時45分）\nどちらのコースも同じ時間です。\n\n保谷駅前公民館コース\n5月16日（木曜日）\n6月6日（木曜日）\n6月27日（木曜日）\n\n田無公民館コース\n9月30日（月曜日）\n10月21日（月曜日）\n11月11日（月曜日）\n\n定員\n50名\n\n対象\n・西東京市に在住、または在園の概ね幼児期から小学校低学年のお子様の保護者様。\n・3回連続で参加できる方が優先です。\n\n申し込み方法\nチラシのQRコードまたは下記リンクよりお申し込みください。\n\n申込フォーム（外部リンク）;https://logoform.jp/form/AAZE/527141",
+      "target": {
+        "targetPersons": "・西東京市に在住、または在園の概ね幼児期から小学校低学年のお子様の保護者様。\n・3回連続で参加できる方が優先です。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "10:00",
+        "toYMD": null,
+        "toHM": "11:45",
+        "conditions": "時間\n午前10時から11時45分（開場9時45分）\nどちらのコースも同じ時間です。\n\n保谷駅前公民館コース\n5月16日（木曜日）\n6月6日（木曜日）\n6月27日（木曜日）\n\n田無公民館コース\n9月30日（月曜日）\n10月21日（月曜日）\n11月11日（月曜日）"
+      },
+      "implementationPlace": {
+        "implementationName": "保谷駅前公民館,田無公民館",
+        "implementationAddress": null
+      },
+      "capacity": "50名",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "チラシのQRコードまたは下記リンクよりお申し込みください。\n\n申込フォーム（外部リンク）;https://logoform.jp/form/AAZE/527141",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.nishitokyo.lg.jp/kosodate/hiiragi/shiminkoza/r6peatore.images/peatore.png",
+          "title": "チラシ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.nishitokyo.lg.jp/kosodate/hiiragi/shiminkoza/r6peatore.html",
+        "title": "令和6年度　ペアレントトレーニングに学ぶほめる子育て～親子のグッドサイクルのために～"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/AAZE/527141",
+          "title": "申込フォーム（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "西東京市児童発達支援センターひいらぎ",
+        "contactPhone": "042-422-9897",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": "西東京市住吉町6-15-6住吉会館ルピナス1階"
+      },
+      "area": {
+        "areaCode": "132292;西東京市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132292+3+UM106",
+        "organization": "1000020132292",
+        "compartment": "西東京市児童発達支援センターひいらぎ",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-05",
+      "odInformation": {
+        "updateDate": "2024-07-11",
+        "updater": "西東京市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第43条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

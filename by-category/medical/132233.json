@@ -1,0 +1,2692 @@
+{
+  "version": "2025-07-10T02:38:54.139Z",
+  "areaCode": "132233",
+  "areaName": "武蔵村山市",
+  "category": "medical",
+  "count": 21,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "子育て支援拠点・地域子育て支援センター",
+        "shortName": "子ども家庭センター"
+      },
+      "summary": "武蔵村山市では子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+      "description": "施設案内　子ども家庭センター\n令和6年4月1日に施設名称が「子ども・子育て支援センター」から「子ども家庭センター」に変更となりました。\n\n施設案内\n所在地\n東京都武蔵村山市学園四丁目5-1\n武蔵村山市民総合センター2階\n\n子ども家庭支援センター係\n電話番号\n042-590-1152\n\n窓口受付時間\n午前8時30分～午後7時\n相談受付は、午後7時まで\nひろばの利用は、午前10時～午後4時\n子育て支援サービスの受付は、午前9時～午後5時\n\n休館日\n日曜日、祝日、年末年始\n\n業務内容\n18歳までの子どもと、子どものいる家庭の相談\nひろば、子育て支援サービスの受付\n\n母子保健係　子育て世代包括支援センター「ハグはぐ・むらやま」\n電話番号\n042-564-5421\n\n窓口受付時間\n午前8時30分～午後5時15分\n＊母子健康手帳の交付は事前にお問い合わせください。\n\n休館日\n土曜日、日曜日、祝日、年末年始\n\n業務内容\n乳幼児健診、乳幼児歯科健診、各種教室、母子健康手帳の交付、育児相談など",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "18歳までの子どもと、子どものいる家庭の相談\nひろば、子育て支援サービスの受付",
+        "monetarySupport": null,
+        "materiallySupport": "18歳までの子どもと、子どものいる家庭の相談\nひろば、子育て支援サービスの受付"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:30",
+        "toHM": "19:00",
+        "condiutilizationConditionstions": "午前8時30分～午後7時\n相談受付は、午後7時まで\nひろばの利用は、午前10時～午後4時\n子育て支援サービスの受付は、午前9時～午後5時"
+      },
+      "specificDate": null,
+      "holiday": "日曜日、祝日、年末年始",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.musashimurayama.lg.jp/kosodate/odekake/shisetsu/1003800.html",
+        "title": "施設案内　子ども家庭センター"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子ども子育て支援課母子保健係",
+        "contactPhone": "042-564-5421",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_07c/1003800",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132233;武蔵村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132233+1+UM110",
+        "organization": "3000020132233",
+        "compartment": "子ども家庭部子ども子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-02",
+      "odInformation": {
+        "updateDate": "2024-07-19",
+        "updater": "武蔵村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法、児童福祉法",
+        "regulationArticle": "第6条の3第6項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て広場",
+        "shortName": "ひろば"
+      },
+      "summary": "市内の子育てひろばは、小学校就学前のお子さんが安心して遊べるスペースがあり、子育て中の親子が気軽に集い、仲間づくりを通して子育てに関する相談や情報交換等を行う機会を提供しています。また、お子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、武蔵村山市サイトや市報などでお知らせしています。）",
+      "description": "武蔵村山市子ども家庭支援センター\nひろばのご案内\nひろば\n子ども家庭支援センターでは親子ひろばを開設しています。ご利用いただけるのは0歳～6歳までの未就学児のお子さんとその保護者のかたです。月に何度かイベントも行っています。ぜひご利用ください。\n\nイベントについてはこちら（各月子育てイベント情報）;http://www.city.musashimurayama.lg.jp/kankou/event/kodomo/1001778/index.htmlをご覧ください。\n\n|相談日|月曜日から土曜日まで|\n|:----|:----|\n|開所時間|午前10時から午後4時まで|\n|場所|武蔵村山市　市民総合センター2階（武蔵村山市学園四丁目5番地の1）|\n\n利用案内\n市内在住のかたはもちろん、市外にお住まいのかたもご利用いただけます。お気軽にお越しください。\nひろばのある市民総合センターは複合施設です。駐車場は譲り合ってご利用ください。\n安全のため、ひろばの利用時はお子さんから目を離さず付き添ってください。\n\n【ひろばの利用方法】\n（1）　受付します\nお越しの際は必ずスタッフにお声かけいただき、「来所カード」を記入してください。\n＊初めてご利用されるかたにはひろばの説明と利用案内をします。\nひろばは「ひよこルーム」と「うさぎルーム」の2部屋あります。人数制限がなければ、好きなお部屋に入ることができます。\n\n（2）　荷物\nお部屋の荷物置きスペースをご利用ください。\n貴重品は各自の責任で管理してください。\n\n（3）　食事や飲み物など\nひろばでの飲食はできません。館内1階の交流スペースをご利用ください。\n水分補給のみ廊下の椅子をご利用ください。\nミルク用のお湯は用意してありますので、必要なかたはスタッフまでお声かけください。\n\n（4）　おもちゃ\nひろばの絵本やおもちゃはご自由にお使いください。\n使用後の片づけにご協力お願いします。\n\n（5）　ごみやおむつ\nごみはすべてお持ち帰りください。\nおむつ交換は「誰でもトイレ」またはセンター内のトイレをご利用いただき、汚れたおむつはお持ち帰りください。\n\n（7）　準備ができたら、ルールを守って元気に遊んでね！\n\n【新型コロナウイルス感染防止のためのひろば利用の注意点】\n・1部屋の利用者は5組までとさせていただきます。（多数の利用希望者がいる場合は1時間を目安に先にいらっしゃったかたにお声かけさせていただき、ご退出いただく場合があります。）\n・感染拡大防止の観点から部屋の移動は原則禁止とさせていただきます。\n・利用前に検温をしていただきます。体温が37.5℃以上の場合はひろばの利用はできません。\n・家族に体調不良のかたがいる場合はひろばはご利用できません。\n・保護者のかたはマスクを着用ください。",
+      "target": {
+        "targetPersons": "0歳～6歳までの未就学児のお子さんとその保護者のかたで",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 6,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "0歳～6歳までの未就学児のお子さんとその保護者のかたで"
+      },
+      "support": {
+        "description": "月に何度かイベントも行っています。ぜひご利用ください。\n\nイベントについてはこちら（各月子育てイベント情報）;http://www.city.musashimurayama.lg.jp/kankou/event/kodomo/1001778/index.htmlをご覧ください。",
+        "monetarySupport": null,
+        "materiallySupport": "月に何度かイベントも行っています。ぜひご利用ください。\n\nイベントについてはこちら（各月子育てイベント情報）;http://www.city.musashimurayama.lg.jp/kankou/event/kodomo/1001778/index.htmlをご覧ください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "武蔵村山市　市民総合センター2階",
+        "implementationAddress": "武蔵村山市学園四丁目5番地の1"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "16:00",
+        "condiutilizationConditionstions": "月曜日から土曜日まで\n午前10時から午後4時まで"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "（1）　受付します\nお越しの際は必ずスタッフにお声かけいただき、「来所カード」を記入してください。\n＊初めてご利用されるかたにはひろばの説明と利用案内をします。\nひろばは「ひよこルーム」と「うさぎルーム」の2部屋あります。人数制限がなければ、好きなお部屋に入ることができます。\n\n（2）　荷物\nお部屋の荷物置きスペースをご利用ください。\n貴重品は各自の責任で管理してください。\n\n（3）　食事や飲み物など\nひろばでの飲食はできません。館内1階の交流スペースをご利用ください。\n水分補給のみ廊下の椅子をご利用ください。\nミルク用のお湯は用意してありますので、必要なかたはスタッフまでお声かけください。\n\n（4）　おもちゃ\nひろばの絵本やおもちゃはご自由にお使いください。\n使用後の片づけにご協力お願いします。\n\n（5）　ごみやおむつ\nごみはすべてお持ち帰りください。\nおむつ交換は「誰でもトイレ」またはセンター内のトイレをご利用いただき、汚れたおむつはお持ち帰りください。\n\n（7）　準備ができたら、ルールを守って元気に遊んでね！\n\n【新型コロナウイルス感染防止のためのひろば利用の注意点】\n・1部屋の利用者は5組までとさせていただきます。（多数の利用希望者がいる場合は1時間を目安に先にいらっしゃったかたにお声かけさせていただき、ご退出いただく場合があります。）\n・感染拡大防止の観点から部屋の移動は原則禁止とさせていただきます。\n・利用前に検温をしていただきます。体温が37.5℃以上の場合はひろばの利用はできません。\n・家族に体調不良のかたがいる場合はひろばはご利用できません。\n・保護者のかたはマスクを着用ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.musashimurayama.lg.jp/kankou/event/kodomo/1001778/index.html",
+          "title": "こちら（各月子育てイベント情報）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.musashimurayama.lg.jp/kosodate/soudan/gyakutai/1008733.html",
+        "title": "武蔵村山市子ども家庭支援センター"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども子育て支援課 子ども家庭支援センター係",
+        "contactPhone": "042-590-1152",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_04b/1008733",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132233;武蔵村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132233+1+UM112",
+        "organization": "3000020132233",
+        "compartment": "子ども家庭部 子ども子育て支援課 子ども家庭支援センター係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-07-09",
+      "odInformation": {
+        "updateDate": "2024-07-19",
+        "updater": "武蔵村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第6項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "新生児訪問",
+        "shortName": "こんにちは赤ちゃん訪問（乳児家庭全戸訪問事業）"
+      },
+      "summary": "新生児を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+      "description": "こんにちは赤ちゃん訪問（乳児家庭全戸訪問事業）\n事業概要\n武蔵村山市では、保健師、助産師又は看護師が、赤ちゃんの生まれたすべてのご家庭に家庭訪問をさせていただく「こんにちは赤ちゃん訪問」を実施し、赤ちゃんの体重測定や育児の相談、育児支援サービスの紹介等をしています。\n家庭訪問は、母子健康手帳交付時にお渡ししている「赤ちゃん連絡票（出生通知表）」の返信等をもとに実施しています。\n赤ちゃんが生まれたら「赤ちゃん連絡票（出生通知表）」をなるべく早い時期に必ず提出してください。\n「赤ちゃん連絡票（出生通知票）」を紛失した方は、以下からダウンロードすることができます。\nまた、東京共同電子申請・届出サービスからも提出することができます。\n赤ちゃん連絡票（出生通知票） （PDF 167.5KB）;https://www.city.musashimurayama.lg.jp/_res/projects/default_project/_page_/001/003/730/renraku.pdf\n東京共同電子申請・届出サービス（外部リンク）;https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13223&procCode=11011787\n\n訪問時期\n対象となる乳児が、出生後4か月を迎えるまでの間に訪問します。\n具体的な訪問日程は、ご自宅を訪問する予定の訪問指導員（保健師、助産師又は看護師）から電話により調整させていただきます。また、訪問指導員は、訪問指導員証を携帯しています。\n\n子育て応援ギフトの支給\nこんにちは赤ちゃん訪問による面談（こんにちは赤ちゃん面談）をお受けいただいた方に、子育て応援ギフト（5万円相当）を支給します。\nご自宅を訪問する保健師、助産師又は看護師が、支給に必要な申請書の記入依頼と回収を行います。\n子育て応援ギフトは、申請内容の審査後、書留郵便で郵送します。郵送までに2か月程度の期間を要する場合がありますので、ご了承ください。\n\n関連情報\n出産子育て応援事業（伴走型相談支援と経済的支援の一体的実施）;https://www.city.musashimurayama.lg.jp/kosodate/todoke/1017327.html",
+      "target": {
+        "targetPersons": "赤ちゃんの生まれたすべてのご家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "赤ちゃんの体重測定や育児の相談、育児支援サービスの紹介等",
+        "monetarySupport": null,
+        "materiallySupport": "赤ちゃんの体重測定や育児の相談、育児支援サービスの紹介等"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "対象となる乳児が、出生後4か月を迎えるまでの間"
+      },
+      "implementationPlace": {
+        "implementationName": "自宅",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "家庭訪問は、母子健康手帳交付時にお渡ししている「赤ちゃん連絡票（出生通知表）」の返信等をもとに実施しています。\n赤ちゃんが生まれたら「赤ちゃん連絡票（出生通知表）」をなるべく早い時期に必ず提出してください。\n「赤ちゃん連絡票（出生通知票）」を紛失した方は、以下からダウンロードすることができます。\nまた、東京共同電子申請・届出サービスからも提出することができます。\n赤ちゃん連絡票（出生通知票） （PDF 167.5KB）;https://www.city.musashimurayama.lg.jp/_res/projects/default_project/_page_/001/003/730/renraku.pdf\n東京共同電子申請・届出サービス（外部リンク）;https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13223&procCode=11011787",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.musashimurayama.lg.jp/kosodate/todoke/1017327.html",
+          "title": "出産子育て応援事業（伴走型相談支援と経済的支援の一体的実施）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.musashimurayama.lg.jp/kosodate/todoke/1016360/1003730.html",
+        "title": "こんにちは赤ちゃん訪問（乳児家庭全戸訪問事業）"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13223&procCode=11011787",
+          "title": "東京共同電子申請・届出サービス（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども家庭部子ども子育て支援課母子保健係",
+        "contactPhone": "042-564-5421",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_07c/1003730",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132233;武蔵村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132233+1+UM13",
+        "organization": "3000020132233",
+        "compartment": "子ども家庭部子ども子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "武蔵村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第11条（新生児の訪問指導）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+        "shortName": "こんにちは赤ちゃん訪問（乳児家庭全戸訪問事業）"
+      },
+      "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+      "description": "武蔵村山市では、保健師、助産師又は看護師が、赤ちゃんの生まれたすべてのご家庭に家庭訪問をさせていただく「こんにちは赤ちゃん訪問」を実施し、赤ちゃんの体重測定や育児の相談、育児支援サービスの紹介等をしています。\n家庭訪問は、母子健康手帳交付時にお渡ししている「赤ちゃん連絡票（出生通知表）」の返信等をもとに実施しています。\n赤ちゃんが生まれたら「赤ちゃん連絡票（出生通知表）」をなるべく早い時期に必ず提出してください。\n「赤ちゃん連絡票（出生通知票）」を紛失した方は、以下からダウンロードすることができます。\n（電子申請による提出も受け付けています。）\n赤ちゃん連絡票（出生通知票） （PDF 167.5KB）;https://www.city.musashimurayama.lg.jp/_res/projects/default_project/_page_/001/003/730/renraku.pdf\n＜電子申請>赤ちゃん連絡票（出生通知表）（外部リンク）;https://logoform.jp/from/tJJz/676209",
+      "target": {
+        "targetPersons": "出生後4か月を迎えるまで",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "こんにちは赤ちゃん訪問による面談（こんにちは赤ちゃん面談）をお受けいただいた方に、子育て応援ギフト（5万円相当）を支給します。\nご自宅を訪問する保健師、助産師又は看護師が、支給に必要な申請書の記入依頼と回収を行います。\n子育て応援ギフトは、申請内容の審査後、書留郵便で郵送します。郵送までに2か月程度の期間を要する場合がありますので、ご了承ください。",
+        "monetarySupport": "子育て応援ギフト（5万円相当）",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "対象となる乳児が、出生後4か月を迎えるまでの間に訪問します。\n具体的な訪問日程は、ご自宅を訪問する予定の訪問指導員（保健師、助産師又は看護師）から電話により調整させていただきます。また、訪問指導員は、訪問指導員証を携帯しています。"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "赤ちゃんが生まれたら「赤ちゃん連絡票（出生通知表）」をなるべく早い時期に必ず提出してください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.musashimurayama.lg.jp/kosodate/todoke/1017327.html",
+          "title": "出産子育て応援事業（伴走型相談支援と経済的支援の一体的実施）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.musashimurayama.lg.jp/kosodate/todoke/1016360/1003730.html",
+        "title": "こんにちは赤ちゃん訪問（乳児家庭全戸訪問事業）"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/from/tJJz/676209",
+          "title": "＜電子申請>赤ちゃん連絡票（出生通知表）（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども家庭部子ども子育て支援課母子保健係",
+        "contactPhone": "042-564-5421",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_07c/1003730",
+        "contactComment": "FAX：042-590-1226",
+        "zipCode": "2088502",
+        "contactAddress": "東京都武蔵村山市学園4丁目5番地の1"
+      },
+      "area": {
+        "areaCode": "132233;武蔵村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132233+1+UM14",
+        "organization": "3000020132233",
+        "compartment": "子ども家庭部子ども子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023/04/01",
+      "odInformation": {
+        "updateDate": "2025/02/28",
+        "updater": "武蔵村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第21条の10の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "パパとママのためのマタニティクラス"
+      },
+      "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、武蔵村山市では保健師、栄養士、助産師などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+      "description": "パパとママのためのマタニティクラス\nパパとママのためのマタニティクラスを開催しています\n妊娠おめでとうございます。\n武蔵村山市では妊娠中を健やかにすごし、元気な赤ちゃんを産むために、マタニティクラスを1コース3日間制で開催しています。\n地域でのお友達づくりや妊娠・出産・育児のことなどについて学びませんか。\n申し込みは予約制です。ご不明な点等ございましたら、子ども子育て支援課母子保健係にお問い合わせください。\n\n教室の詳細\n対象\n妊婦さんとそのパートナー\n＊なるべく妊娠5か月～8か月の安定した時期にお受けください。\n\n実施内容\n3日間のコースとなります。\n1日目：妊娠中の生活（歯科健診と歯の健康、妊産婦の栄養）\n2日目：お産にむけて（妊娠中の生活、お産の経過と母乳育児）\n3日目：赤ちゃんのいる生活（沐浴実習、衣類・赤ちゃんの育児、産後のメンタル）\n\n開催日\n日程表\n|開催月|1日目|2日目|3日目|\n|:----|:----|:----|:----|\n|令和6年　 4月|15日（月曜日）|18日（木曜日）|20日（土曜日）|\n|6月|17日（月曜日）|20日（木曜日）|22日（土曜日）|\n|8月|19日（月曜日）|22日（木曜日）|24日（土曜日）|\n|10月|21日（月曜日）|24日（木曜日）|26日（土曜日）|\n|　　　　 12月|16日（月曜日）|19日（木曜日）|21日（土曜日）|\n|令和7年2月|17日（月曜日）|20日（木曜日）|22日（土曜日）|\n\n時間\n午後1時から午後3時30分\n＊変更となる場合があります。\n\n場所\n武蔵村山市民総合センター2階　子ども家庭センター\n\n費用\n無料\n持ち物\n母子健康手帳・筆記用具・歯ブラシ・コップ・手鏡\n＊その他、必要なかたはお茶などの水分、おやつ等をご持参ください。\n\n定員\n8組（申込先着順）\n\nお申込み・問い合わせ先\n＊申込み受付は、開催月の初日（土日祝日を除く）午前9時から開始します。\n＊電話又は東京共同電子申請・届出サービスからお申込みください（電子申請の場合は、下のリンク先から希望月の受付画面へと進んでください。なお、申込み受付開始日以前は、エラー表示となります。）。\n\n武蔵村山市民総合センター2階　子ども子育て支援課　母子保健係\n〒208-8502\n武蔵村山市学園4丁目5番地の1\n電話：042-564-5421\n東京共同電子申請・届出サービス（外部リンク）;https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13223&procCode=11014360\n\nマタニティクラスにお申込みされるかたへ\n・予約後、やむを得ずキャンセルをされる場合は、ご連絡をお願いします。\n・当日は、ご自宅で体温測定をしてから来所をお願いします。\n・マスクの着用は任意となりますので、必要に応じて持参してください。\n・駐車場に限りがあるため、車での来所は出来るだけご遠慮ください。\n\n東京都助産師会YouTubeチャンネル\n東京都助産師会では、妊産婦のかたやご家族に役立つ動画をご紹介しています。\n東京都助産師会YouTubeチャンネル（外部リンク）;https://www.youtube.com/channel/UCyx2_vJ6qmw8YkA_yc7sRJQ",
+      "target": {
+        "targetPersons": "妊婦さんとそのパートナー\n＊なるべく妊娠5か月～8か月の安定した時期にお受けください。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "3日間のコースとなります。\n\n1日目：妊娠中の生活（歯科健診と歯の健康、妊産婦の栄養）\n2日目：お産にむけて（妊娠中の生活、お産の経過と母乳育児）\n3日目：赤ちゃんのいる生活（沐浴実習、衣類・赤ちゃんの育児、産後のメンタル）",
+        "monetarySupport": null,
+        "materiallySupport": "3日間のコースとなります。\n\n1日目：妊娠中の生活（歯科健診と歯の健康、妊産婦の栄養）\n2日目：お産にむけて（妊娠中の生活、お産の経過と母乳育児）\n3日目：赤ちゃんのいる生活（沐浴実習、衣類・赤ちゃんの育児、産後のメンタル）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "13:00",
+        "toYMD": null,
+        "toHM": "15:30",
+        "conditions": "開催日\n日程表\n開催月|1日目|2日目|3日目|\n|:----|:----|:----|:----|\n|令和6年　 4月|15日（月曜日）|18日（木曜日）|20日（土曜日）|\n| 6月|17日（月曜日）|20日（木曜日）|22日（土曜日）|\n|8月|19日（月曜日）|22日（木曜日）|24日（土曜日）|\n|10月|21日（月曜日）|24日（木曜日）|26日（土曜日）|\n|12月|16日（月曜日）|19日（木曜日）|21日（土曜日）|\n|令和7年2月|17日（月曜日）|20日（木曜日）|22日（土曜日）|\n\n時間\n午後1時から午後3時30分\n＊変更となる場合があります。"
+      },
+      "implementationPlace": {
+        "implementationName": "武蔵村山市民総合センター2階　子ども家庭センター",
+        "implementationAddress": "武蔵村山市学園4丁目5番地の1"
+      },
+      "capacity": "8組（申込先着順）",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申込み受付は、開催月の初日（土日祝日を除く）午前9時から開始します。\n＊電話又は東京共同電子申請・届出サービスからお申込みください（電子申請の場合は、下のリンク先から希望月の受付画面へと進んでください。なお、申込み受付開始日以前は、エラー表示となります。）。\n\n武蔵村山市民総合センター2階　子ども子育て支援課　母子保健係\n〒208-8502\n武蔵村山市学園4丁目5番地の1\n電話：042-564-5421\n東京共同電子申請・届出サービス（外部リンク）;https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13223&procCode=11014360",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "09:00",
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳・筆記用具・歯ブラシ・コップ・手鏡\n＊その他、必要なかたはお茶などの水分、おやつ等をご持参ください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "武蔵村山市民総合センター2階　子ども子育て支援課　母子保健係",
+      "relatedLink": [
+        {
+          "uri": "https://www.youtube.com/channel/UCyx2_vJ6qmw8YkA_yc7sRJQ",
+          "title": "東京都助産師会YouTubeチャンネル（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.musashimurayama.lg.jp/kosodate/todoke/1016359/1003731.html",
+        "title": "パパとママのためのマタニティクラス"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?govCode=13223&procCode=11014360",
+          "title": "東京共同電子申請・届出サービス（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども家庭部子ども子育て支援課母子保健係",
+        "contactPhone": "042-564-5421",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_07c/1003731",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132233;武蔵村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132233+1+UM31",
+        "organization": "3000020132233",
+        "compartment": "子ども家庭部子ども子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-03",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "武蔵村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "休日急患診療所\n（休日診療）"
+      },
+      "summary": "市では、休日等における内科・小児科の急病のかたを対象として、当市医師会の協力を得て、休日急患診療所を開設しています。",
+      "description": "休日急患診療所\n休日診療は、内科・小児科の急病のかたを対象として日曜・祝日及び年末年始、休日準夜診療は、日曜・祝日の夜間に、保健相談センター1階で行っています。\n（注）受診の際は、事前にお電話（042-564-4114）をしてください。保険証を忘れずに持参してください。また、各種医療証（乳・子・親・障等）をお持ちのかたは必ず保険証と一緒にお持ちください。\n\n|診療種別|開設日|受付時間|診療時間|会場・お問い合わせ|\n|:----|:----|:----|:----|:----|\n|休日診療<br>（内科・小児科）|日曜日・祝日及び年末年始<br>（12月30日から1月3日）|（1）午前9時から午前11時30分まで<br>（2）午後1時から午後4時まで|（1）午前9時30分から正午まで<br>（2）午後1時から午後4時30分まで|市立保健相談センター1階<br>（電話042-564-4114）|\n|休日準夜診療<br>（内科・小児科）|日曜日・祝日<br>（年末年始は実施していません。）|午後5時30分から午後8時30分まで|午後6時から午後9時まで|^|\n\n市立保健相談センター\n地図:https://www.city.musashimurayama.lg.jp/_res/projects/default_project/_page_/001/000/778/map.gif\n\n所在地：武蔵村山市本町1-23",
+      "target": {
+        "targetPersons": "内科・小児科の急病のかた",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "休日診療（内科・小児科）",
+        "monetarySupport": null,
+        "materiallySupport": "休日診療（内科・小児科）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "市立保健相談センター1階",
+        "implementationAddress": "武蔵村山市本町1-23"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "受付時間\n（1）午前9時から午前11時30分まで\n（2）午後1時から午後4時まで\n診療時間\n（1）午前9時30分から正午まで\n（2）午後1時から午後4時30分まで"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "受診の際は、事前にお電話（042-564-4114）をしてください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "（1）午前9時から午前11時30分まで\n（2）午後1時から午後4時まで"
+      },
+      "electronicSubmission": false,
+      "belongings": "保険証を忘れずに持参してください。また、各種医療証（乳・子・青・親・障等）をお持ちのかたは必ず保険証と一緒にお持ちください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "市立保健相談センター1階",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.musashimurayama.lg.jp/kurashi/kenkou/kyukyu/1017406/1000778.html",
+        "title": "急患診療のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康福祉部健康推進課健康推進係",
+        "contactPhone": "042-565-9315",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_07a/1000778",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132233;武蔵村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132233+1+UM45",
+        "organization": "3000020132233",
+        "compartment": "健康福祉部健康推進課健康推進係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-12-06",
+      "odInformation": {
+        "updateDate": "2024-07-08",
+        "updater": "武蔵村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月未満児）",
+        "shortName": "3～4か月児健康診査・産婦健康診査"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として３～４か月児健康診査を実施しています。",
+      "description": "3～4か月児健康診査・産婦健康診査\n3～4か月児健康診査・産婦健康診査はお子さんにとって初めての市で行う健診です。\nお子さんの成長発達の確認だけでなく、産後のママの体調の相談や育児の相談等もできます。\n健康診査対象のかたへは、お子さんが3か月になる頃に個別にご案内をお送りしています。\n（注）転入により前住所地で3～4か月児健康診査・産婦健康診査を受診されていないかたで、受診を希望されるかたはお問い合わせください。\n\n対象者\n生後3～4か月児及びその母親\n＊3～4か月児健康診査は5か月末日まで受診できます。対象日の来所が難しいかたは下記問い合わせ先までご連絡ください。\n\n健診会場\n武蔵村山市民総合センター2階　子ども家庭センター\n所在地：武蔵村山市学園4丁目5番地の1\n\n受付時間\n午後1時から午後2時30分まで\n＊新型コロナウイルス感染拡大防止のため受付時間を指定してご案内しています。\n\n健診内容\n身体測定\n内科診察\n個別相談（保健・育児・栄養・歯科など）\n産婦健康診査\n\n持ち物\n母子健康手帳\n3～4か月児健康診査・産婦健康診査アンケート\nおむつやミルク等身の回りの物\nお子さんの健康保険証（場合により必要）\n大判バスタオル（お子さんを包める大きさのもの）\n\n費用\n無料\n\n実施予定日\n\n|月|日|\n|:----|:----|\n|令和6年 4月|23日|\n|5月|21日、28日|\n|6月|18日|\n|7月|16日、23日|\n|8月|20日|\n|9月|17日、24日|\n|10月|15日、22日|\n|11月|19日、26日|\n|12月|17日|\n|令和7年 1月|21日、28日|\n|2月|18日|\n|3月|18日|\n\n＊実施日は全て火曜日になります。\n\n健康診査に来所されるかたへのお願い\nご案内が届いたかたは、健康診査アンケートをご記入の上、アンケートは当日ご持参ください。\nマスクの着用は任意となりますので、必要に応じて持参してください。\n付き添い者の人数は保護者のかたを含め、最小限にしていただくよう、ご協力をお願いします。\n駐車場に限りがあるため、車での来所は出来るだけご遠慮ください。\nご来場いただく皆様のプライバシー保護及び事故防止のため、会場内での撮影はご遠慮ください。\n\n関連情報\n保健事業予定表;https://www.city.musashimurayama.lg.jp/kurashi/kenkou/1008584.html",
+      "target": {
+        "targetPersons": "生後3～4か月児及びその母親\n＊3～4か月児健康診査は5か月末日まで受診できます。対象日の来所が難しいかたは下記問い合わせ先までご連絡ください。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 3
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後3～4か月児及びその母親"
+      },
+      "support": {
+        "description": "身体測定\n内科診察\n個別相談（保健・育児・栄養・歯科など）\n産婦健康診査",
+        "monetarySupport": null,
+        "materiallySupport": "身体測定\n内科診察\n個別相談（保健・育児・栄養・歯科など）\n産婦健康診査"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "|月|日|\n|:----|:----|\n|令和6年 4月|23日|\n|5月|21日、28日|\n|6月|18日|\n|7月|16日、23日|\n|8月|20日|\n|9月|17日、24日|\n|10月|15日、22日|\n|11月|19日、26日|\n|12月|17日|\n|令和7年 1月|21日、28日|\n|2月|18日|\n|3月|18日|\n\n＊実施日は全て火曜日になります。"
+      },
+      "implementationPlace": {
+        "implementationName": "武蔵村山市民総合センター2階　子ども家庭センター",
+        "implementationAddress": "武蔵村山市学園4丁目5番地の1"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "13:00",
+        "toYMD": null,
+        "toHM": "14:30",
+        "conditions": "午後1時から午後2時30分まで\n＊新型コロナウイルス感染拡大防止のため受付時間を指定してご案内しています。"
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳\n3～4か月児健康診査・産婦健康診査アンケート\nおむつやミルク等身の回りの物\nお子さんの健康保険証（場合により必要）\n大判バスタオル（お子さんを包める大きさのもの）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.musashimurayama.lg.jp/kurashi/kenkou/1008584.html",
+          "title": "保健事業予定表"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.musashimurayama.lg.jp/kosodate/kenshin/kenshin/1008726.html",
+        "title": "3～4か月児健康診査・産婦健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子ども子育て支援課母子保健係",
+        "contactPhone": "042-564-5421",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_07c/1008726",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132233;武蔵村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132233+1+UM49",
+        "organization": "3000020132233",
+        "compartment": "子ども家庭部子ども子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-21",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "武蔵村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "6~7か月・9～10か月児健康診査"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として6～７か月健康診査及び９～１０か月健康診査を実施しています。",
+      "description": "6~7か月・9～10か月児健康診査\n事業のご案内\n武蔵村山市にお住まいの6～7か月・9～10か月の赤ちゃんは、契約医療機関で無料の健康診査が受けられます。\n受診票は子ども家庭センターで3～4か月児健診時にお渡しします。\n\n会場と日程\n都内の契約医療機関で実施します。武蔵村山市内の契約医療機関は、市内協力医療機関一覧のとおりです。\n休診日は各医療機関で異なりますので、事前にお問い合わせの上、健診を受けてください。\n\n持ち物\n受診票\n6～7か月児健康診査：ピンク色\n9～10か月児健康診査：白色\n母子健康手帳\n健康保険証\n乳幼児医療証\n注記　診査項目以外の検査や治療が行われる場合に必要です。\n　　　健康保険証、乳幼児医療証も必ずお持ちください。\n注記　対象月例以外はご利用になれません。\n注記　受診票の太枠内は、保護者がご記入ください。\n\n市内協力医療機関\n市内協力医療機関一覧\n|医療機関名|所在地|電話番号|\n|:----|:----|:----|\n|岩田小児科医院|緑が丘1492番地50-58|042-562-0871|\n|半田医院|大南3丁目54番地の16|042-564-8649|\n|武蔵村山さいとうクリニック|大南3丁目68番地の3|042-590-2266|\n|向日葵クリニック|学園3丁目88番地の2|042-562-1983|\n|伊奈平南クリニック|伊奈平4丁目4番地の1|042-560-1311|\n|北條医院|残堀4丁目113番地の1|042-560--3541|\n|藤田医院|岸1丁目25番地の1|042-560-0363|\n|下田医院|三ツ木3丁目16番地の1|042-560-6387|\n|東京小児療育病院|学園4丁目10番地の1|042-561-2521|\n|武蔵村山病院|榎1丁目1番地の5|042-566-3111|\n|大南ファミリークリニック|大南2丁目1番地の8|042-590-0373|\n\n都内から転入された方へ\n都内の自治体で交付された受診券をそのまま使用できます。\n武蔵村山市で再度受診券を受け取る必要はありません。\n\n都外から転入された方へ\n都外の自治体で交付された受診券は使用できませんので、子ども子育て支援課母子保健係へお問い合わせください。",
+      "target": {
+        "targetPersons": "武蔵村山市にお住まいの6～7か月・9～10か月の赤ちゃん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "武蔵村山市にお住まいの6～7か月・9～10か月の赤ちゃん"
+      },
+      "support": {
+        "description": "契約医療機関で無料の健康診査が受けられます。",
+        "monetarySupport": null,
+        "materiallySupport": "契約医療機関で無料の健康診査が受けられます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "市内協力医療機関一覧\n|医療機関名|所在地|電話番号|\n|:----|:----|:----|\n|岩田小児科医院|緑が丘1492番地50-58|042-562-0871|\n|半田医院|大南3丁目54番地の16|042-564-8649|\n|武蔵村山さいとうクリニック|大南3丁目68番地の3|042-590-2266|\n|向日葵クリニック|学園3丁目88番地の2|042-562-1983|\n|伊奈平南クリニック|伊奈平4丁目4番地の1|042-560-1311|\n|北條医院|残堀4丁目113番地の1|042-560--3541|\n|藤田医院|岸1丁目25番地の1|042-560-0363|\n|下田医院|三ツ木3丁目16番地の1|042-560-6387|\n|東京小児療育病院|学園4丁目10番地の1|042-561-2521|\n|武蔵村山病院|榎1丁目1番地の5|042-566-3111|\n|大南ファミリークリニック|大南2丁目1番地の8|042-590-0373|\n",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "受診票\n6～7か月児健康診査：ピンク色\n9～10か月児健康診査：白色\n母子健康手帳\n健康保険証\n乳幼児医療証\n注記　診査項目以外の検査や治療が行われる場合に必要です。\n　　　健康保険証、乳幼児医療証も必ずお持ちください。\n注記　対象月例以外はご利用になれません。\n注記　受診票の太枠内は、保護者がご記入ください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.musashimurayama.lg.jp/kosodate/kenshin/kenshin/1015990.html",
+        "title": "6~7か月・9～10か月児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子ども子育て支援課母子保健係",
+        "contactPhone": "042-564-5421",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_07c/1015990",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132233;武蔵村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132233+1+UM50",
+        "organization": "3000020132233",
+        "compartment": "子ども家庭部子ども子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-02",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "武蔵村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "伴走型相談支援",
+        "shortName": "伴走型相談支援"
+      },
+      "summary": "すべての妊婦さんと子育て家庭が安心して出産・子育てができるように、妊娠から出産・子育てまでの一貫した「伴走型相談支援」を実施しています。",
+      "description": "出産子育て応援事業（伴走型相談支援と経済的支援の一体的実施）\n伴走型相談支援の概要\n令和5年4月1日以降、伴走型相談支援として、（1）妊娠届出時、（2）妊娠8か月前後、（3）こんにちは赤ちゃん訪問時（乳児家庭全戸訪問時）、（4）その他必要と認められるとき（随時）の機会をとらえて、面談を実施します（表1参照）。\nこんにちは赤ちゃん訪問（乳児家庭全戸訪問）とは、生後4か月を迎えるまでの、すべての乳児のいる家庭を訪問し、子育て支援に関する情報提供や養育環境等の把握を行う事業です。\n\n表1　面談実施のタイミングと実施する面談等\n|面談実施のタイミング|実施する面談|面談の対象者|面談の実施方法|\n|:----|:----|:----|:----|\n|妊娠届出時|妊娠届出面談|妊婦（全員）<br>（パートナー等の同席も可）|原則対面（医師から安静を指示されている方はご相談ください。）|\n|妊娠8か月前後（妊娠7か月頃にご案内とアンケートを郵送します。）|妊娠8か月面談|妊婦（希望者）<br>（パートナー等の同席も可）|原則オンライン（オンライン以外の方法で面談を希望される方はご相談ください。）|\n|こんにちは赤ちゃん訪問時（乳児家庭全戸訪問事業）|こんにちは赤ちゃん面談|産婦（全員）又は出生した子どもの養育者（全員）<br>（家族等の同席も可）|原則対面（市が契約した助産師等がご自宅を訪問します。）|\n|その他必要と認められるとき|随時に面談を実施|妊産婦又は子どもの養育者等|対面、訪問、電話等|\n\nこんにちは赤ちゃん訪問（乳児家庭全戸訪問事業）;https://www.city.musashimurayama.lg.jp/kosodate/todoke/1016360/1003730.html",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "表1　面談実施のタイミングと実施する面談等\n|面談実施のタイミング|実施する面談|面談の対象者|面談の実施方法|\n|:----|:----|:----|:----|\n|妊娠届出時|妊娠届出面談|妊婦（全員）<br>（パートナー等の同席も可）|原則対面（医師から安静を指示されている方はご相談ください。）|\n|妊娠8か月前後（妊娠7か月頃にご案内とアンケートを郵送します。）|妊娠8か月面談|妊婦（希望者）<br>（パートナー等の同席も可）|原則オンライン（オンライン以外の方法で面談を希望される方はご相談ください。）|\n|こんにちは赤ちゃん訪問時（乳児家庭全戸訪問事業）|こんにちは赤ちゃん面談|産婦（全員）又は出生した子どもの養育者（全員）<br>（家族等の同席も可）|原則対面（市が契約した助産師等がご自宅を訪問します。）|\n|その他必要と認められるとき|随時に面談を実施|妊産婦又は子どもの養育者等|対面、訪問、電話等|\n",
+        "monetarySupport": null,
+        "materiallySupport": "表1　面談実施のタイミングと実施する面談等\n|面談実施のタイミング|実施する面談|面談の対象者|面談の実施方法|\n|:----|:----|:----|:----|\n|妊娠届出時|妊娠届出面談|妊婦（全員）<br>（パートナー等の同席も可）|原則対面（医師から安静を指示されている方はご相談ください。）|\n|妊娠8か月前後（妊娠7か月頃にご案内とアンケートを郵送します。）|妊娠8か月面談|妊婦（希望者）<br>（パートナー等の同席も可）|原則オンライン（オンライン以外の方法で面談を希望される方はご相談ください。）|\n|こんにちは赤ちゃん訪問時（乳児家庭全戸訪問事業）|こんにちは赤ちゃん面談|産婦（全員）又は出生した子どもの養育者（全員）<br>（家族等の同席も可）|原則対面（市が契約した助産師等がご自宅を訪問します。）|\n|その他必要と認められるとき|随時に面談を実施|妊産婦又は子どもの養育者等|対面、訪問、電話等|\n"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.musashimurayama.lg.jp/kosodate/todoke/1016360/1003730.html",
+          "title": "こんにちは赤ちゃん訪問（乳児家庭全戸訪問事業）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.musashimurayama.lg.jp/kosodate/todoke/1017327.html",
+        "title": "出産子育て応援事業（伴走型相談支援と経済的支援の一体的実施）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子ども子育て支援課母子保健係",
+        "contactPhone": "042-564-5421",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_07c/1017327",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132233;武蔵村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132233+1+UM5011",
+        "organization": "3000020132233",
+        "compartment": "子ども家庭部子ども子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-03",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "武蔵村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "伴走型相談支援及び出産・子育て応援給付金の一体的実施事業の実施について（子発1226第1号 令和4年12月26日）",
+        "regulationArticle": "別紙：伴走型相談支援及び出産・子育て応援給付金の一体的実施事業実施要綱「伴走型相談支援」（別添１） "
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "1歳6か月児健康診査",
+        "shortName": "1歳6か月児健康診査"
+      },
+      "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。武蔵村山市では1歳6か月児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "1歳6か月児健康診査\n1歳6か月児健康診査について\n1歳6か月の頃は、お子さんの心と身体が大きく成長する時期です。\n健診でお子さんの成長を確認するとともに、日頃の育児の悩みや不安をご相談ください。\n健康診査対象のお子さんへは個別にご案内をお送りします。\n（注）転入により前住所地で1歳6か月健康診査を受診されていないかたで、受診を希望されるかたはお問い合わせください。\n\n対象者\n1歳6か月児\n＊1歳6か月児健康診査は満2歳になる前日まで受診できます。対象日の来所が難しいかたは下記問い合わせ先までご連絡ください。また、健康診査に来られないかたは、健康診査アンケートとお知らせの質問事項を記入の上、返送してください。\n\n健診会場\n武蔵村山市民総合センター2階　子ども家庭センター\n所在地：武蔵村山市学園4丁目5番地の1\n\n受付時間\n午後1時から午後2時まで\n＊新型コロナウイルス感染拡大防止のため受付時間を指定してご案内しています。\n\n健診内容\n身体測定\n診察（内科・歯科）\n個別相談（保健・育児・栄養・歯科など）\n\n持ち物\n母子健康手帳\n1歳6か月児健康診査アンケート\n歯ブラシ\nおむつ等身の回りの物\nお子さんの健康保険証（場合により必要）\n大判バスタオル（お子さんを包める大きさのもの）\n\n費用\n無料\n\n実施予定日\n|月|日|\n|:----|:----|\n|令和6年 4月|5日、19日|\n|5月|17日|\n|6月|7日、21日|\n|7月|5日、19日|\n|8月|2日|\n|9月|6日|\n|10月|4日、18日|\n|11月|15日|\n|12月|6日、20日|\n|令和7年 1月|17日|\n|2月|7日、21日|\n|3月|7日|\n\n＊実施は全て金曜日になります。\n\n健康診査に来所されるかたへのお願い\nご案内が届いたかたは、健康診査アンケートをご記入の上、アンケートは当日ご持参ください。\nお子さんの歯みがきを済ませてからお越しください。\nマスクの着用は任意となりますので、必要に応じて持参してください。\n付き添い者は保護者のかたを含め、最小限にしていただくよう、ご協力をお願いします。\n駐車場に限りがあるため、車での来所は出来るだけご遠慮ください。\nご来場いただく皆様のプライバシー保護及び事故防止のため、会場内での撮影はご遠慮ください。\n\n関連情報\n保健事業予定表;https://www.city.musashimurayama.lg.jp/kurashi/kenkou/1008584.html",
+      "target": {
+        "targetPersons": "1歳6か月児\n＊1歳6か月児健康診査は満2歳になる前日まで受診できます。対象日の来所が難しいかたは下記問い合わせ先までご連絡ください。また、健康診査に来られないかたは、健康診査アンケートとお知らせの質問事項を記入の上、返送してください。",
+        "lessThan": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1歳6か月児\n＊1歳6か月児健康診査は満2歳になる前日まで受診できます。対象日の来所が難しいかたは下記問い合わせ先までご連絡ください。また、健康診査に来られないかたは、健康診査アンケートとお知らせの質問事項を記入の上、返送してください。"
+      },
+      "support": {
+        "description": "身体測定\n診察（内科・歯科）\n個別相談（保健・育児・栄養・歯科など）",
+        "monetarySupport": null,
+        "materiallySupport": "身体測定\n診察（内科・歯科）\n個別相談（保健・育児・栄養・歯科など）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "武蔵村山市民総合センター2階　子ども家庭センター",
+        "implementationAddress": "武蔵村山市学園4丁目5番地の1"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "13:00",
+        "toYMD": null,
+        "toHM": "14:00",
+        "conditions": "午後1時から午後2時まで\n＊新型コロナウイルス感染拡大防止のため受付時間を指定してご案内しています。"
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳\n1歳6か月児健康診査アンケート\n歯ブラシ\nおむつ等身の回りの物\nお子さんの健康保険証（場合により必要）\n大判バスタオル（お子さんを包める大きさのもの）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.musashimurayama.lg.jp/kurashi/kenkou/1008584.html",
+          "title": "保健事業予定表"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.musashimurayama.lg.jp/kosodate/kenshin/kenshin/1008728.html",
+        "title": "1歳6か月児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子ども子育て支援課母子保健係",
+        "contactPhone": "042-564-5421",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_07c/1008728",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132233;武蔵村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132233+1+UM51",
+        "organization": "3000020132233",
+        "compartment": "子ども家庭部子ども子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-21",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "武蔵村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "3歳児健康診査",
+        "shortName": "3歳児健康診査"
+      },
+      "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。武蔵村山市では3歳児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "3歳児健康診査\n3歳児健康診査について\n3歳のお子さんは心と身体の成長がめざましいとても大切な時期です。\n健診でお子さんの成長を確認するとともに、日頃の育児の悩みや不安をご相談ください。\n健康診査対象のお子さんへは個別に通知をお送りします。\n（注）転入により前住所地で3歳児健康診査を受診されていないかたで、受診を希望されるかたはお問い合わせください。\n\n対象者\n3歳児\n＊3歳児健康診査は満4歳になる前日まで受診できます。対象日の来所が難しいかたは下記問い合わせ先までご連絡ください。\n\n健診会場\n武蔵村山市民総合センター2階　子ども家庭センター\n所在地：武蔵村山市学園4丁目5番地の1\n\n受付時間\n午後1時から午後1時45分まで\n＊新型コロナウイルス感染拡大防止のため受付時間を指定してご案内しています。\n\n健診内容\n身体測定\n診察（内科・歯科）\n個別相談（保健・育児・栄養・歯科など）\n尿検査\n視力・聴覚検査\n\n持ち物\n母子健康手帳\n3歳児健康診査アンケート\nお子さんの尿\n目と耳のアンケート\n歯ブラシ\nお子さんの健康保険証（場合により必要）\n大判バスタオル（お子さんを包める大きさのもの）\n\n費用\n無料\n実施予定日\n|月|日|\n|:----|:----|\n|令和6年 4月|10日、24日|\n|5月|22日|\n|6月|12日、26日|\n|7月|10日、24日|\n|8月|28日|\n|9月|11日、25日|\n|10月|9日|\n|11月|13日、27日|\n|12月|11日|\n|令和7年 1月|8日、22日|\n|2月|12日|\n|3月|12日|\n\n＊実施日は全て水曜日になります。\n\n健康診査に来所されるかたへのお願い\nご案内が届いたかたは、健康診査アンケートをご記入の上、アンケートは当日ご持参ください。\nお子さんの歯みがきを済ませてからお越しください。\nマスクの着用は任意となりますので、必要に応じて持参してください。\n付き添い者の人数は保護者のかたを含め、最小限にしていただくよう、ご協力をお願いします。\n駐車場に限りがあるため、車での来所は出来るだけご遠慮ください。\nご来場いただく皆様のプライバシー保護及び事故防止のため、会場内での撮影はご遠慮ください。\n\n関連情報\n保健事業予定表;https://www.city.musashimurayama.lg.jp/kurashi/kenkou/1008584.html",
+      "target": {
+        "targetPersons": "3歳児\n＊3歳児健康診査は満4歳になる前日まで受診できます。対象日の来所が難しいかたは下記問い合わせ先までご連絡ください。",
+        "lessThan": {
+          "targetAge": 4,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "3歳児\n＊3歳児健康診査は満4歳になる前日まで受診できます。対象日の来所が難しいかたは下記問い合わせ先までご連絡ください。"
+      },
+      "support": {
+        "description": "身体測定\n診察（内科・歯科）\n個別相談（保健・育児・栄養・歯科など）\n尿検査\n視力・聴覚検査",
+        "monetarySupport": null,
+        "materiallySupport": "身体測定\n診察（内科・歯科）\n個別相談（保健・育児・栄養・歯科など）\n尿検査\n視力・聴覚検査"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "武蔵村山市民総合センター2階　子ども家庭センター",
+        "implementationAddress": "武蔵村山市学園4丁目5番地の1"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "13:00",
+        "toYMD": null,
+        "toHM": "13:45",
+        "conditions": "午後1時から午後1時45分まで\n＊新型コロナウイルス感染拡大防止のため受付時間を指定してご案内しています。"
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳\n3歳児健康診査アンケート\nお子さんの尿\n目と耳のアンケート\n歯ブラシ\nお子さんの健康保険証（場合により必要）\n大判バスタオル（お子さんを包める大きさのもの）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.musashimurayama.lg.jp/kurashi/kenkou/1008584.html",
+          "title": "保健事業予定表"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.musashimurayama.lg.jp/kosodate/kenshin/kenshin/1008729.html",
+        "title": "3歳児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子ども子育て支援課母子保健係",
+        "contactPhone": "042-564-5421",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_07c/1008728",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132233;武蔵村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132233+1+UM52",
+        "organization": "3000020132233",
+        "compartment": "子ども家庭部子ども子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-21",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "武蔵村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "放課後児童クラブ",
+        "shortName": "学童クラブ"
+      },
+      "summary": "学童クラブは、保護者が就労などにより、昼間家庭にいない小学校に就学しているお子さんに対し、適切な遊びおよび生活の場を与え、児童の健全な育成および保護者の就労と子育ての両立支援を図ることを目的としています。",
+      "description": "令和6年度学童クラブ入所申請のご案内\n令和6年度学童クラブ入所案内について\n学童クラブ入所案内（申請書）配布について\n令和6年度学童クラブ入所案内（申請書）の配布開始日は令和5年10月17日（火曜日）です。\n申請書類については、本ページからダウンロードできます。（10月17日（火曜日）からダウンロード可能となります。）\nまた、配布場所については次のとおりです。\n・市役所1階子ども青少年課（平日　午前8時30分から午後5時15分まで）\n・緑が丘出張所（平日　午前8時30分から午後5時15分まで）\n・各学童クラブ（平日　午後2時から午後6時30分まで）\n・お伊勢の森児童館（平日　午前9時から午後6時まで）\n\n学童クラブ入所申請受付期間\n学童クラブ入所申請書受付日時や場所等については下表のとおりです。\nなお、オンライン申請（電子申請）につきましては、4月入所希望の申請期間中のみ可能となります。\n5月以降に入所を希望される方は、申請書類を直接お伊勢の森児童館又は各学童クラブに持参してください。\n（注）学童クラブ育成料の滞納がある場合は、必ず納付の上、申請してください。\n\n令和6年4月1日から入所を希望する場合（受付終了）\n申請期間\n\n|受付日時|<|受付場所等|\n|:----|:----|:----|\n|令和5年12月1日（金曜日）から15日（金曜日）まで<br>（オンライン先行受付期間）|受付終了|オンライン申請（電子申請）|\n|令和6年1月9日（火曜日）から14日（日曜日）まで|^|オンライン申請（電子申請）|\n|令和6年1月9日（火曜日）から13日（土曜日）まで|^|お伊勢の森児童館|\n\n補欠申請期間\n\n|受付日時|<|受付場所等|\n|:----|:----|:----|\n|令和6年1月15日（月曜日）から2月15日（木曜日）まで|受付終了|オンライン申請（電子申請）|\n|^|^|お伊勢の森児童館|\n\n（注）補欠申請期間は申請期間（1月14日までの受付分）の審査の結果、入所可能な学童クラブについて入所指数が高い児童から定員の範囲内で入所を承認しますので、1月14日（日曜日）までに必ずご申請ください。なお、各学童クラブでは受付を行いませんのでご注意ください。\n（注）急な市内への転入及び家庭の事情等により、申請期間後に緊急で学童クラブを申請したい場合はお伊勢の森児童館までご相談ください。\n\n令和6年5月以降に入所を希望する場合\n\n|受付日時|<|受付場所等|\n|:----|:----|:----|\n|入所希望月の前月15日まで<br>（15日が土曜日、日曜日、祝日の場合はその前の平日）|午後2時から午後6時まで<br>（土、日曜日及び祝日を除く）|各学童クラブ|\n|^|午前9時から午後6時まで<br>（土、日曜日及び祝日を除く）|お伊勢の森児童館|\n\n（注）オンライン申請（電子申請）による手続はできませんのでご注意ください。\n\n入所申請に必要な書類\n受付場所に直接持参する場合\n（1）提出必須である書類\n・学童クラブ入所申請書兼児童台帳（児童ごとに必要です。）\n・保護者の就労状況等を証明する下表の書類（該当するものを提出してください。）\n\n提出書類一覧\n\n|保護者の状況|<|提出書類|\n|:----|:----|:----|\n|(1)|居宅外労働|在勤証明書又は自営業の方は申立書<br>（注）内容について勤務先に確認させていただく場合がありますので、あらかじめご了承ください。|\n|(2)|居宅内労働|^|\n|(3)|求職中|申立書　（注）入所期間は最長で2か月間|\n|(4)|病気、看護、介護|申立書及び医師の診断書|\n|(5)|出産|申立書及び母子手帳等、出産予定日の確認ができる書類の写し<br>（注）入所期間は最長で出産月の前後2か月を含む計5か月間|\n|^|修学|申立書及び在学証明書又は在学していることが確認できる書類|\n|^|採用予定|申立書及び採用予定証明書|\n|^|災害|申立書及びり災証明書|\n\n（2）必要に応じて提出していただく書類\n・学童クラブ支援シート　（注）障害又はアレルギーがある方は必ず提出してください。\n・心身に障害のある児童は、身体障害者手帳の写し、愛の手帳の写しを提出、又は、学童クラブ支援シートに障害名等をご記入ください。なお、病院に受診中又は受診予定の場合も必ずお知らせください。\n\n入所案内及び申請書について\n学童クラブ入所案内及び申請書については、こちらからご覧いただき、ダウンロードしてください。\n\n入所案内\n令和6年度入所案内 （PDF 2.7MB）;https://www.city.musashimurayama.lg.jp/_res/projects/default_project/_page_/001/018/487/r6nyuusyoannai.pdf\n\n申請書\nPDF版 （PDF 347.1KB）;https://www.city.musashimurayama.lg.jp/_res/projects/default_project/_page_/001/018/487/pdfteisyutusyorui.pdf\nエクセル版 （Excel 113.0KB）;https://www.city.musashimurayama.lg.jp/_res/projects/default_project/_page_/001/018/487/xlsteisyutusyorui.xls\n記入例 （PDF 191.9KB）;https://www.city.musashimurayama.lg.jp/_res/projects/default_project/_page_/001/018/487/pdfkinyuurei.pdf\n\n関連情報\n学童クラブについて;https://www.city.musashimurayama.lg.jp/shisetus/kosodate/gakudou/1003811.html",
+      "target": {
+        "targetPersons": "入所要件\n学童クラブに入所できる児童は、武蔵村山市内に住所が有り、小学校に就学中の児童であって、保護者が労働、病気、心身障害、家族の看護、修学、出産等のより昼間家庭にいないため、適切な監護が受けられない児童です。\n\n入所制限\n心身に著しい障害のある児童、病気療養中の児童、学童クラブに自ら通所することができない児童（当該児童を保護者又は保護者が指定する者が学童クラブに送迎する場合を除く。）及び基本的な生活習慣が確立しておらず、集団生活になじめないと認められる児童は、入所できません。\nまた、学童クラブ育成料の滞納がある場合、他入所者との公平性の確保及び入所保留者の解消を図るため、入所できない場合があります。",
+        "lessThan": {
+          "targetAge": 13,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 6,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "学童クラブは次に掲げる活動を行います。\n1.児童の健康管理、安全確保及び情緒の安定に関すること。\n2.遊びの活動への意欲と態度の形成に関すること。\n3.遊びを通して自主性、社会性及び創造性を培うこと。\n4.児童の遊びの活動状況の把握と家族への連絡に関すること。\n5.家庭や地域での遊びの環境づくりへの支援に関すること。\n6.その他児童の健全育成上必要な活動。",
+        "monetarySupport": null,
+        "materiallySupport": "学童クラブは次に掲げる活動を行います。\n1.児童の健康管理、安全確保及び情緒の安定に関すること。\n2.遊びの活動への意欲と態度の形成に関すること。\n3.遊びを通して自主性、社会性及び創造性を培うこと。\n4.児童の遊びの活動状況の把握と家族への連絡に関すること。\n5.家庭や地域での遊びの環境づくりへの支援に関すること。\n6.その他児童の健全育成上必要な活動。"
+      },
+      "cost": "6500",
+      "costConditions": "学童クラブの育成料として、月の初日に在籍する児童の保護者に、児童一人当たり月額6,500円（間食代含む）を負担していただきます。\n注）育成料の納入については、口座振替をご利用ください。\n次の理由に該当する場合は、育成料の減免を受けることができます。減免を受けたい月の末日までに、手続きが必要です。\n減免について\n（1）減額する場合\n同一世帯において二人以上の児童が入所しているときは、二人目以降の育成料を月額4,500円に減額。\n（2）免除する場合\n（注）申請書に証明書を添付してください。\n\n・生活保護を受給しているとき。（生活保護受給証明書が添付が必要です。）\n・住民税が非課税のとき。（非課税証明書の添付が必要です。）\n・災害により、月の全日数を欠席したとき。\n・病気その他の理由により、月の全日数欠席することを事前に届け出たとき。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "小学校の授業日：下校時から午後6時30分まで（午後6時から午後6時30分までは延長保育）\n土曜日及び学校休業日：午前8時から午後6時30分まで（午後6時から午後6時30分までは延長保育）\n日曜日、祝日及び年末年始（12月29日から1月3日）は休みです。\n土曜日については、各児童館での合同保育となります。\n\n土曜日合同保育の一覧\n\n|学童クラブ名|児童館名|\n|:----|:----|\n|学園学童クラブ、本町学童クラブ|お伊勢の森児童館|\n|山王森学童クラブ、三ツ木学童クラブ、中原学童クラブ|山王森児童館|\n|さいかち学童クラブ、雷塚学童クラブ|さいかち児童館|\n|中藤学童クラブ|中藤地区児童館|\n|大南学童クラブ、西大南学童クラブ第一・第二|大南地区児童館|\n|残堀・伊奈平学童クラブ第一・第二|残堀・伊奈平地区児童館|\n"
+      },
+      "specificDate": null,
+      "holiday": "日曜日、祝日及び年末年始（12月29日から1月3日）",
+      "utilization": "令和6年度学童クラブ入所案内（申請書）の配布開始日は令和5年10月17日（火曜日）です。\n申請書類については、本ページからダウンロードできます。（10月17日（火曜日）からダウンロード可能となります。）\nまた、配布場所については次のとおりです。\n・市役所1階子ども青少年課（平日　午前8時30分から午後5時15分まで）\n・緑が丘出張所（平日　午前8時30分から午後5時15分まで）\n・各学童クラブ（平日　午後2時から午後6時30分まで）\n・お伊勢の森児童館（平日　午前9時から午後6時まで）",
+      "procedurePersons": null,
+      "procedureMethod": "|受付日時|<|受付場所等|\n|:----|:----|:----|\n|入所希望月の前月15日まで<br>（15日が土曜日、日曜日、祝日の場合はその前の平日）|午後2時から午後6時まで<br>（土、日曜日及び祝日を除く）|各学童クラブ|\n|^|午前9時から午後6時まで<br>（土、日曜日及び祝日を除く）|お伊勢の森児童館|\n\n（注）オンライン申請（電子申請）による手続はできませんのでご注意ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "14:00",
+        "toYMD": null,
+        "toHM": "18:00",
+        "conditions": "|受付日時|<|受付場所等|\n|:----|:----|:----|\n|入所希望月の前月15日まで<br>（15日が土曜日、日曜日、祝日の場合はその前の平日）|午後2時から午後6時まで<br>（土、日曜日及び祝日を除く）|各学童クラブ|\n|^|午前9時から午後6時まで<br>（土、日曜日及び祝日を除く）|お伊勢の森児童館|\n\n（注）オンライン申請（電子申請）による手続はできませんのでご注意ください。"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "各学童クラブ",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.musashimurayama.lg.jp/shisetus/kosodate/gakudou/1003811.html",
+          "title": "学童クラブについて"
+        },
+        {
+          "uri": "https://www.city.musashimurayama.lg.jp/_res/projects/default_project/_page_/001/018/487/r6nyuusyoannai.pdf",
+          "title": "令和6年度入所案内 （PDF 2.7MB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.musashimurayama.lg.jp/kosodate/azukeru/1012424/gakudou/1018487.html,https://www.city.musashimurayama.lg.jp/shisetus/kosodate/gakudou/1003811.html",
+        "title": "令和6年度学童クラブ入所申請のご案内,学童クラブについて"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども育成課 児童館",
+        "contactPhone": "042-564-5594",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_05c/1003811",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132233;武蔵村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132233+1+UM79",
+        "organization": "3000020132233",
+        "compartment": "子ども家庭部 子ども育成課 児童館",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-01-17",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "武蔵村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第2項"
+      },
+      "tag": {
+        "categoryCode": [
+          "005"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（２歳児歯科健康診査）",
+        "shortName": "2歳児歯科健康診査"
+      },
+      "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。２歳児歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+      "description": "2歳児歯科健康診査\n2歳児歯科健康診査について\nお子さまの歯や歯並びなど気になることはありませんか。\n市では2歳児歯科健康診査を実施しており、歯やお口の健康に役立てていただいています。\n 2歳児歯科健康診査では、ことばや子育ての悩みについても相談をお受けしておりますので、ぜひお受けください。\n対象のかたには事前に個別でご案内をお送りしております。\n（注）転入により前住所地で2歳児歯科健康診査を受診されていないかたで、受診を希望されるかたはお問い合わせください。\n\n対象者\n2歳児\n*2歳児歯科健康診査は満3歳になる前日まで受診できます。対象日の来所が難しいかたは下記問い合わせ先までご連絡ください。また、健康診査に来られないかたは、健康診査アンケートとお知らせの質問事項を記入の上、返送してください。\n\n場所\n武蔵村山市民総合センター2階\n\n受付時間\n12時45分から14時20分まで\n＊受付時間を指定してご案内しています。\n\n健診内容\n歯科健診\nフッ素と布（希望者のみ）\nはみがき練習\n個別相談（歯科・栄養・保健・育児など）\n\n持ち物\n母子健康手帳、歯ブラシ、2歳児歯科健康診査アンケート、バスタオル\n\n費用\n無料\n\n実施予定日\n\n|月|日|\n|:----|:----|\n|令和6年 4月|2日（火曜日）|\n|5月|7日（火曜日）|\n|6月|4日（火曜日）|\n|7月|2日（火曜日）|\n|8月|6日（火曜日）|\n|9月|3日（火曜日）|\n|10月|1日（火曜日）|\n|11月|5日（火曜日）|\n|12月|3日（火曜日）|\n|令和7年 1月|7日（火曜日）|\n|2月|4日（火曜日）|\n|3月|4日（火曜日）|\n\n健康診査に来所されるかたへのお願い\n・ご案内が届いたかたは、健康診査アンケートをご記入の上、アンケートは当日ご持参ください。\n・当日は、ご自宅でお子さんと保護者のかたの体温測定の上、お子さんの歯みがきを済ませてからお越しください。\n・マスクの着用は任意となりますので、必要に応じて持参してください。\n・付き添い者は保護者のかたを含め、最少限にしていただくよう、ご協力をお願いします。\n・駐車場に限りがあるため、車での来所は出来るだけご遠慮ください。\n\n関連情報\n保健事業予定表;https://www.city.musashimurayama.lg.jp/kurashi/kenkou/1008584.html",
+      "target": {
+        "targetPersons": "2歳児\n*2歳児歯科健康診査は満3歳になる前日まで受診できます。対象日の来所が難しいかたは下記問い合わせ先までご連絡ください。また、健康診査に来られないかたは、健康診査アンケートとお知らせの質問事項を記入の上、返送してください。",
+        "lessThan": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "2歳児\n*2歳児歯科健康診査は満3歳になる前日まで受診できます。"
+      },
+      "support": {
+        "description": "歯科健診\nフッ素と布（希望者のみ）\nはみがき練習\n個別相談（歯科・栄養・保健・育児など）",
+        "monetarySupport": null,
+        "materiallySupport": "歯科健診\nフッ素と布（希望者のみ）\nはみがき練習\n個別相談（歯科・栄養・保健・育児など）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "|月|日|\n|:----|:----|\n|令和6年 4月|2日（火曜日）|\n|5月|7日（火曜日）|\n|6月|4日（火曜日）|\n|7月|2日（火曜日）|\n|8月|6日（火曜日）|\n|9月|3日（火曜日）|\n|10月|1日（火曜日）|\n|11月|5日（火曜日）|\n|12月|3日（火曜日）|\n|令和7年 1月|7日（火曜日）|\n|2月|4日（火曜日）|\n|3月|4日（火曜日）|\n"
+      },
+      "implementationPlace": {
+        "implementationName": "武蔵村山市民総合センター2階",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "12:45",
+        "toYMD": null,
+        "toHM": "14:20",
+        "conditions": "12時45分から14時20分まで\n＊受付時間を指定してご案内しています。"
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳、歯ブラシ、2歳児歯科健康診査アンケート、バスタオル",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.musashimurayama.lg.jp/kurashi/kenkou/1008584.html",
+          "title": "保健事業予定表"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.musashimurayama.lg.jp/kosodate/kenshin/kenshin/1010338.html",
+        "title": "2歳児歯科健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子ども子育て支援課母子保健係",
+        "contactPhone": "042-564-5421",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_07c/1010338",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132233;武蔵村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132233+1+UM792",
+        "organization": "3000020132233",
+        "compartment": "子ども家庭部子ども子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-19",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "武蔵村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "こども家庭センター",
+        "shortName": "武蔵村山市子ども家庭支援センター"
+      },
+      "summary": "武蔵村山市子ども家庭支援センターでは、子どもと家庭に関する悩みや不安をなんでも話せる身近な相談窓口です。他の機関と連携を取りながら支援する体制を整えています。",
+      "description": "子どもと家庭に関する総合的な支援を行っています。たとえば育児への不安や家庭での子育て相談、児童虐待についての相談、お子さん自身からの相談などをお受けてしています。相談内容の秘密の保持、プライバシーの保護のため、電子メールでのご相談にはお答えできませんので、ご了承ください。また、ひろばでは、ママ同士のお友だちを作りたい、親子で気軽に遊びに行きたいなど、地域の子育てを支援します。子育てをひとりで頑張らず、お子さんと一緒に、センターに遊びに来てください。",
+      "target": {
+        "targetPersons": "０歳から18歳未満の子どもとその保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "午前8時30分",
+        "toHM": "午後19時",
+        "condiutilizationConditionstions": "月曜日から土曜日（祝日、年末年始を除く）"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "来所又は電話（メールでの相談はできません。）",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.musashimurayama.lg.jp/kosodate/soudan/gyakutai/1008733.html",
+        "title": "武蔵村山市子ども家庭支援センター"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども子育て支援課 子ども家庭支援センター係",
+        "contactPhone": "042-590-1152",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_04b/1008733",
+        "contactComment": "FAX：042-590-1226",
+        "zipCode": "2088502",
+        "contactAddress": "東京都武蔵村山市学園4丁目5番地の1"
+      },
+      "area": {
+        "areaCode": "132233;武蔵村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132233+1+UM799",
+        "organization": "3000020132233",
+        "compartment": "子ども家庭部 子ども子育て支援課 子ども家庭支援センター係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/12/11",
+      "odInformation": {
+        "updateDate": "2025/02/28",
+        "updater": "武蔵村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て支援パスポート",
+        "shortName": "子育て応援とうきょうパスポート事業"
+      },
+      "summary": "「子育て支援パスポート事業」は、子育てを応援しようとする社会的機運の醸成を目的として推進している事業であり、企業・店舗等が、子育て世帯や妊娠中の方がいる世帯に対して、様々なサービスを提供する仕組みです。",
+      "description": "子育て応援とうきょうパスポート事業\n子育て応援とうきょうパスポートのアプリを配信しています！\n　東京都では、子育て世帯や妊娠中のかたに対して、企業や店舗が善意で様々なサービスを提供する「子育て応援とうきょうパスポート事業」を実施しています。\n平成30年2月からは、子育て応援とうきょうパスポートのアプリも配信しています。\n\nアプリではどんなことができるの？？\n粉ミルクのお湯の提供や商品の割引などのサービスを提供している2,000店を超えるパスポート事業の協賛店のほか、赤ちゃん・ふらっと事業登録施設や小児救急医療機関、自転車の一時駐輪場といった、子育てをしながらの外出に役立つ様々な場所を検索することができます。\nサービスや営業時間などによる一覧検索だけでなく、地図機能を使った現在地周辺検索などもできます！\nもちろん「子育て応援とうきょうパスポート」の表示もできます。\n\nアプリの入手方法は？\nアプリのダウンロードには、次の2つの方法があります。アプリは無料でお使いいただけます。\n1.下記の「子育て応援とうきょうパスポート運営サイト」に掲載されている「アプリページ」へのリンクをクリックし、ダウンロードしてください。\n2.「Google Play ストア」または「App Store」から「子育て応援とうきょうパスポートアプリ」と検索し、ダウンロードしてください。\n\nご利用できる世帯は？\n子育て応援パスポート;https://www.city.musashimurayama.lg.jp/_res/projects/default_project/_page_/001/005/539/passport_about.png\n都内在住の18歳未満のお子様がいる、または妊娠中のかたがいる世帯が対象となります。\n\nご利用方法\n・ステッカーが貼ってある協賛店で、サービスを利用したい旨をお申し出ください。\n・その際、パスポートの提示を求められることがあります。\n・パスポートの提示を求められた場合、お子様の年齢が確認できるものや、母子手帳などの提示を求められることがあります。\n・利用規約をよくお読みいただき、同意の上、ご利用ください。\n・運営サイトでは、スマートフォンなどでご利用いただけるデジタルパスポートをダウンロードすることができます。\n\n実施サービスについて\n協賛ステッカー;https://www.city.musashimurayama.lg.jp/_res/projects/default_project/_page_/001/005/539/sutekka.jpg\n協賛ステッカーの貼ってある協賛店では、粉ミルクのお湯やおむつ替えスペースの提供といった乳幼児向けのサービスや、商品の割引等、様々なサービスをご提供します。\n詳細は、「子育て応援とうきょうパスポート運営サイト」で公表しています。\n\n全国共通展開について\nマーク;https://www.city.musashimurayama.lg.jp/_res/projects/default_project/_page_/001/005/539/zennkoku.jpg\n子育て応援とうきょうパスポートは、全国共通展開に参加している他の道府県の店舗でも使用することができます。右記のマークが目印となります。\n　なお、サービスの内容や対象年齢等は各都道府県や店舗などによって異なりますので、自治体のホームページ、または内閣府のホームページ等でご確認ください。\n\n関連情報\n子育て応援とうきょうパスポート運営サイト（外部リンク）;http://kosodate.pass.metro.tokyo.jp/\n東京都福祉保健局ホームページ（外部リンク）;http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/passport/passport01.html",
+      "target": {
+        "targetPersons": "都内在住の18歳未満のお子様がいる、または妊娠中のかたがいる世帯",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "協賛ステッカーの貼ってある協賛店では、粉ミルクのお湯やおむつ替えスペースの提供といった乳幼児向けのサービスや、商品の割引等、様々なサービスをご提供します。\n詳細は、「子育て応援とうきょうパスポート運営サイト」で公表しています。",
+        "monetarySupport": null,
+        "materiallySupport": "協賛ステッカーの貼ってある協賛店では、粉ミルクのお湯やおむつ替えスペースの提供といった乳幼児向けのサービスや、商品の割引等、様々なサービスをご提供します。\n詳細は、「子育て応援とうきょうパスポート運営サイト」で公表しています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "・ステッカーが貼ってある協賛店で、サービスを利用したい旨をお申し出ください。\n・その際、パスポートの提示を求められることがあります。\n・パスポートの提示を求められた場合、お子様の年齢が確認できるものや、母子手帳などの提示を求められることがあります。\n・利用規約をよくお読みいただき、同意の上、ご利用ください。\n・運営サイトでは、スマートフォンなどでご利用いただけるデジタルパスポートをダウンロードすることができます。",
+      "procedurePersons": null,
+      "procedureMethod": "アプリのダウンロードには、次の2つの方法があります。アプリは無料でお使いいただけます。\n記の「子育て応援とうきょうパスポート運営サイト」に掲載されている「アプリページ」へのリンクをクリックし、ダウンロードしてください。\n「Google Play ストア」または「App Store」から「子育て応援とうきょうパスポートアプリ」と検索し、ダウンロードしてください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "http://kosodate.pass.metro.tokyo.jp/",
+          "title": "子育て応援とうきょう会議HP「とうきょう子育てスイッチ」（外部リンク）"
+        },
+        {
+          "uri": "http://kosodate.pass.metro.tokyo.jp/",
+          "title": "東京都福祉保健局ホームページ（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.musashimurayama.lg.jp/kosodate/odekake/1010451/1004416.html",
+        "title": "赤ちゃん・ふらっと"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部 子ども子育て支援課 子ども家庭支援センター係",
+        "contactPhone": "042-590-1152",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_04b/1005539",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132233;武蔵村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132233+1+UM802",
+        "organization": "3000020132233",
+        "compartment": "子ども家庭部 子ども子育て支援課 子ども家庭支援センター係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2019-05-17",
+      "odInformation": {
+        "updateDate": "2024-07-19",
+        "updater": "武蔵村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "少子化社会対策大綱（平成27年3月20日閣議決定）",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自立支援医療制度（精神通院医療）",
+        "shortName": "自立支援医療について"
+      },
+      "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+      "description": "これまでの障害にかかる公費負担医療（精神通院医療・更生医療・育成医療）が自立支援医療に変わり、手続きや利用者負担の仕組みが統一されます。",
+      "target": {
+        "targetPersons": "従来の精神通院医療、更生医療、育成医療の対象になる方と同様の疾病を有する者（一定所得以上の者を除く）。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "自己負担については原則として医療費の1割分となります。\nただし、世帯の所得水準等に応じてひと月あたりの負担に上限額が設定されます。\nまた、入院時の食費（標準負担額相当）については原則自己負担となります。",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "負担上限月額\n一定所得以下\n・生活保護世帯\n負担上限月額　0円\n・低所得1　市民税非課税（本人収入が80万円以下）\n負担上限月額　2,500円\n・低所得2　市民税非課税（本人収入が80万円超）\n負担上限月額　5,000円\n中間所得層\n・中間所得層1　 市民税（所得割）が3.3万円未満\n負担上限月額　医療保険の自己負担限度額\n（育成医療の経過措置の適用を受ける場合　5,000円）\n（高額治療継続者（重度かつ継続）（注釈1）の場合  5,000円）\n・中間所得層2　市民税（所得割）が3.3万円以上23.5万円未満\n負担上限月額　医療保険の自己負担限度額\n（育成医療の経過措置の適用を受ける場合　10,000円）\n（高額治療継続者（重度かつ継続）（注釈1）の場合　10,000円）\n一定所得以上\n・市民税（所得割）が23.5万円以上の場合\n公費負担の対象外\n（高額治療継続者（重度かつ継続）（注釈1）の場合　負担上限月額20,000円）\n市民税の課税・非課税を判断する世帯の単位は、住民票上の家族ではなく、同じ医療保険に加入している家族を同一世帯とします。\n（注釈1）高額治療継続者（重度かつ継続）の範囲は次のとおりです。\n|疾病・症状等から対象となる者|更生医療・育成医療：腎臓機能・小腸機能・免疫機能障害・心臓機能障害（心臓移植後の抗免疫療法に限る）　精神通院医療：統合失調症・躁うつ病・うつ病・てんかん・認知症などの脳機能障害若しくは薬物関連障害の者又は集中・継続的な医療を要する者として精神医療に一定以上の経験を有する医師が判断した者|\n|:----|:----|\n|疾病にかかわらず、高額な費用負担が継続することから対象となる者|医療保険の多数該当の者|\n| | | | | | |",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.musashimurayama.lg.jp/kurashi/shougai/1012128/jiritsushien/1000730.html",
+        "title": "自立支援医療について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康福祉部障害福祉課手当助成係",
+        "contactPhone": "042-590-1185",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_03b/1000730",
+        "contactComment": "FAX：042-562-3966",
+        "zipCode": "2088502",
+        "contactAddress": "東京都武蔵村山市学園四丁目5番地の1　市民総合センター"
+      },
+      "area": {
+        "areaCode": "132233;武蔵村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132233+1+UM824",
+        "organization": "3000020132233",
+        "compartment": "健康福祉部障害福祉課手当助成係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2016/02/20",
+      "odInformation": {
+        "updateDate": "2025/02/28",
+        "updater": "武蔵村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律",
+        "regulationArticle": "第58条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "025",
+          "027"
+        ],
+        "targetCode": [
+          "087",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関するサポート",
+        "shortName": "バースデーサポート事業"
+      },
+      "summary": "武蔵村山市では、1歳を迎えられたお子様を養育するご家庭にバースデー贈呈品（内容は下記参照）を配付するとともに、子育てに関する情報提供や相談支援を行う「バースデーサポート事業」を実施しています。",
+      "description": "バースデーサポート事業\nバースデーサポート事業について\n武蔵村山市では、1歳を迎えられたお子様を養育するご家庭にバースデー贈呈品（内容は下記参照）を配付するとともに、子育てに関する情報提供や相談支援を行う「バースデーサポート事業」を実施しています。\n対象となるご家庭には下記の事業案内通知等を個別に郵送します。\nまた、事業案内通知に従いアンケートを提出したご家庭に、バースデー贈呈品を配付します。\n\n・事業案内通知等の内容\n・東京都からのメッセージ\n・体罰などによらない子育てハンドブック\n・とうきょう子育て応援ブック\n・武蔵村山市バースデーサポート事業のご案内\n・アンケート兼バースデー贈呈品交付申請書\n・「アンケート兼バースデー贈呈品交付申請書」返送用封筒\n\n「バースデー贈呈品」の配付対象\n令和5年4月1日以降に1歳の誕生日を迎えるお子様を養育しているご家庭で、以下のすべてを満たす方が対象となります。\n1.1歳を迎える誕生日に武蔵村山市に住民登録がある方\n2.1歳6か月に達する月末までに「アンケート兼バースデー贈呈品交付申請書」を提出した方\n3.申請書が市に到達した日に武蔵村山市に住民登録がある方\n\n「バースデー贈呈品」の配付方法\n申請書が提出されてから1～2か月後に、ご自宅へ書留郵便でお送りします。\n\n「バースデー贈呈品」の内容\n令和6年度から贈呈品の内容を拡充しました。\n・令和6年4月1日以降に1歳の誕生日を迎えるお子様\n出生順位に応じた額面の「東京都子育て支援専用QUOカードPay」\n　第一子　60,000円\n　第二子　70,000円\n第三子以降　80,000円\n\n・令和5年4月1日から令和6年3月31日までの間に1歳の誕生日を迎えたお子様\n出生順位に応じた額面の「こども商品券」\n第一子　10,000円\n　第二子　20,000円\n　第三子以降　30,000円\n　注記　出生順位とは、1歳を迎えられたお子様が属する同一世帯における子の年齢順です。\n\n東京都子育て支援専用QUOカードPayについて\nレジでの支払い時に、スマートフォンの画面にバーコードを表示させて利用するデジタルギフトです。\nQUOカードPay取扱店のうち、子育て関連商品を扱う特定の店舗でのみ利用可能です。\n東京都子育て支援専用QUOカードPayが使えるお店（外部リンク）;https://www.quocard.com/pay/store/kosodate/\nQUOカードPayに関するお問い合わせ（外部リンク）;https://www.quocard.com/pay/contact/list/",
+      "target": {
+        "targetPersons": "令和5年4月1日以降に1歳の誕生日を迎えるお子様を養育しているご家庭で、以下のすべてを満たす方が対象となります。\n1.1歳を迎える誕生日に武蔵村山市に住民登録がある方\n2.1歳6か月に達する月末までに「アンケート兼バースデー贈呈品交付申請書」を提出した方\n3.申請書が市に到達した日に武蔵村山市に住民登録がある方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "令和5年4月1日以降に1歳の誕生日を迎えるお子様を養育しているご家庭で、以下のすべてを満たす方が対象となります。\n1.1歳を迎える誕生日に武蔵村山市に住民登録がある方\n2.1歳6か月に達する月末までに「アンケート兼バースデー贈呈品交付申請書」を提出した方\n3.申請書が市に到達した日に武蔵村山市に住民登録がある方"
+      },
+      "support": {
+        "description": "対象となるご家庭には下記の事業案内通知等を個別に郵送します。\nまた、事業案内通知に従いアンケートを提出したご家庭に、バースデー贈呈品を配付します。\n\n・事業案内通知等の内容\n・東京都からのメッセージ\n・体罰などによらない子育てハンドブック\n・とうきょう子育て応援ブック\n・武蔵村山市バースデーサポート事業のご案内\n・アンケート兼バースデー贈呈品交付申請書\n・「アンケート兼バースデー贈呈品交付申請書」返送用封筒\n\n「バースデー贈呈品」の配付対象\n令和5年4月1日以降に1歳の誕生日を迎えるお子様を養育しているご家庭で、以下のすべてを満たす方が対象となります。\n1.1歳を迎える誕生日に武蔵村山市に住民登録がある方\n2.1歳6か月に達する月末までに「アンケート兼バースデー贈呈品交付申請書」を提出した方\n3.申請書が市に到達した日に武蔵村山市に住民登録がある方\n\n「バースデー贈呈品」の配付方法\n申請書が提出されてから1～2か月後に、ご自宅へ書留郵便でお送りします。\n\n「バースデー贈呈品」の内容\n令和6年度から贈呈品の内容を拡充しました。\n・令和6年4月1日以降に1歳の誕生日を迎えるお子様\n出生順位に応じた額面の「東京都子育て支援専用QUOカードPay」\n　第一子　60,000円\n　第二子　70,000円\n第三子以降　80,000円\n\n・令和5年4月1日から令和6年3月31日までの間に1歳の誕生日を迎えたお子様\n出生順位に応じた額面の「こども商品券」\n第一子　10,000円\n　第二子　20,000円\n　第三子以降　30,000円\n　注記　出生順位とは、1歳を迎えられたお子様が属する同一世帯における子の年齢順です。",
+        "monetarySupport": "・令和6年4月1日以降に1歳の誕生日を迎えるお子様\n出生順位に応じた額面の「東京都子育て支援専用QUOカードPay」\n　第一子　60,000円\n　第二子　70,000円\n第三子以降　80,000円\n\n・令和5年4月1日から令和6年3月31日までの間に1歳の誕生日を迎えたお子様\n出生順位に応じた額面の「こども商品券」\n第一子　10,000円\n　第二子　20,000円\n　第三子以降　30,000円\n注記　出生順位とは、1歳を迎えられたお子様が属する同一世帯における子の年齢順です。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "1歳6か月に達する月末までに「アンケート兼バースデー贈呈品交付申請書」を提出",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.quocard.com/pay/contact/list/",
+          "title": "QUOカードPayに関するお問い合わせ（外部リンク）"
+        },
+        {
+          "uri": "https://www.quocard.com/pay/store/kosodate/",
+          "title": "東京都子育て支援専用QUOカードPayが使えるお店（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.musashimurayama.lg.jp/kosodate/todoke/1016360/1017366.html",
+        "title": "バースデーサポート事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子ども子育て支援課母子保健係",
+        "contactPhone": "042-564-5421",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_07c/1013131",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132233;武蔵村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132233+2+UM106",
+        "organization": "3000020132233",
+        "compartment": "子ども家庭部子ども子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-25",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "武蔵村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て支援拠点・地域子育て支援センター",
+        "shortName": "母子保健係　子育て世代包括支援センター「ハグはぐ・むらやま」"
+      },
+      "summary": "武蔵村山市では子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。",
+      "description": "施設案内　子ども家庭センター\n令和6年4月1日に施設名称が「子ども・子育て支援センター」から「子ども家庭センター」に変更となりました。\n\n施設案内\n所在地\n東京都武蔵村山市学園四丁目5-1\n武蔵村山市民総合センター2階\n\n子ども家庭支援センター係\n電話番号\n042-590-1152\n\n窓口受付時間\n午前8時30分～午後7時\n相談受付は、午後7時まで\nひろばの利用は、午前10時～午後4時\n子育て支援サービスの受付は、午前9時～午後5時\n\n休館日\n日曜日、祝日、年末年始\n\n業務内容\n18歳までの子どもと、子どものいる家庭の相談\nひろば、子育て支援サービスの受付\n\n母子保健係　子育て世代包括支援センター「ハグはぐ・むらやま」\n電話番号\n042-564-5421\n\n窓口受付時間\n午前8時30分～午後5時15分\n＊母子健康手帳の交付は事前にお問い合わせください。\n\n休館日\n土曜日、日曜日、祝日、年末年始\n\n業務内容\n乳幼児健診、乳幼児歯科健診、各種教室、母子健康手帳の交付、育児相談など",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "乳幼児健診、乳幼児歯科健診、各種教室、母子健康手帳の交付、育児相談など",
+        "monetarySupport": null,
+        "materiallySupport": "乳幼児健診、乳幼児歯科健診、各種教室、母子健康手帳の交付、育児相談など"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:30",
+        "toHM": "17:15",
+        "condiutilizationConditionstions": "午前8時30分～午後5時15分\n＊母子健康手帳の交付は事前にお問い合わせください。"
+      },
+      "specificDate": null,
+      "holiday": "土曜日、日曜日、祝日、年末年始",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.musashimurayama.lg.jp/kosodate/odekake/shisetsu/1003800.html",
+        "title": "施設案内　子ども家庭センター"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子ども子育て支援課母子保健係",
+        "contactPhone": "042-564-5421",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_07c/1003800",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132233;武蔵村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132233+2+UM110",
+        "organization": "3000020132233",
+        "compartment": "子ども家庭部子ども子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-02",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "武蔵村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法、児童福祉法",
+        "regulationArticle": "第6条の3第6項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "休日急患診療所\n（休日準夜診療）"
+      },
+      "summary": "市では、休日等における内科・小児科の急病のかたを対象として、当市医師会の協力を得て、休日急患診療所を開設しています。",
+      "description": "休日急患診療所\n休日診療は、内科・小児科の急病のかたを対象として日曜・祝日及び年末年始、休日準夜診療は、日曜・祝日の夜間に、保健相談センター1階で行っています。\n（注）受診の際は、事前にお電話（042-564-4114）をしてください。保険証を忘れずに持参してください。また、各種医療証（乳・子・親・障等）をお持ちのかたは必ず保険証と一緒にお持ちください。\n\n|診療種別|開設日|受付時間|診療時間|会場・お問い合わせ|\n|:----|:----|:----|:----|:----|\n|休日診療<br>（内科・小児科）|日曜日・祝日及び年末年始<br>（12月30日から1月3日）|（1）午前9時から午前11時30分まで<br>（2）午後1時から午後4時まで|（1）午前9時30分から正午まで<br>（2）午後1時から午後4時30分まで|市立保健相談センター1階<br>（電話042-564-4114）|\n|休日準夜診療<br>（内科・小児科）|日曜日・祝日<br>（年末年始は実施していません。）|午後5時30分から午後8時30分まで|午後6時から午後9時まで|^|\n\n市立保健相談センター\n地図:https://www.city.musashimurayama.lg.jp/_res/projects/default_project/_page_/001/000/778/map.gif\n\n所在地：武蔵村山市本町1-23",
+      "target": {
+        "targetPersons": "内科・小児科の急病のかた",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "休日準夜診療（内科・小児科）",
+        "monetarySupport": null,
+        "materiallySupport": "休日準夜診療（内科・小児科）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "市立保健相談センター1階",
+        "implementationAddress": "武蔵村山市本町1-23"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "受付時間　午後5時30分から午後8時30分まで￥\n診療時間　午後6時から午後9時まで"
+      },
+      "specificDate": null,
+      "holiday": "年末年始",
+      "utilization": "受診の際は、事前にお電話（042-564-4114）をしてください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "17:30",
+        "toYMD": null,
+        "toHM": "20:30",
+        "conditions": "午後5時30分から午後8時30分まで"
+      },
+      "electronicSubmission": false,
+      "belongings": "保険証を忘れずに持参してください。また、各種医療証（乳・子・青・親・障等）をお持ちのかたは必ず保険証と一緒にお持ちください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "市立保健相談センター1階",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.musashimurayama.lg.jp/kurashi/kenkou/kyukyu/1017406/1000778.html",
+        "title": "急患診療のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康福祉部健康推進課健康推進係",
+        "contactPhone": "042-565-9315",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_07a/1000778",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132233;武蔵村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132233+2+UM45",
+        "organization": "3000020132233",
+        "compartment": "健康福祉部健康推進課健康推進係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-12-06",
+      "odInformation": {
+        "updateDate": "2024-07-08",
+        "updater": "武蔵村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（ビーバー歯科健康診査）",
+        "shortName": "ビーバー歯科健康診査"
+      },
+      "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。ビーバー歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+      "description": "乳幼児歯科健康診査（ビーバー歯科健康診査）\nビーバー歯科健康診査について\n 乳歯の前歯が生えそろう1歳頃から、むし歯になりやすい時期です。\n 市では、お子さんの歯やお口の健康を保つため定期的に歯科健診を行っています。是非、お申し込みください。\n\n対象者\n0歳児～6歳児（就学前まで）\n定期歯科健診を希望する乳幼児（予約制）\n\n場所\n武蔵村山市民総合センター2階\n\n受付時間\n12時30分～14時20分\n＊受付時間を指定してご案内しています。\n\n健診内容\n歯科健診、相談、歯科保健指導、予防処置（フッ素、と銀）\n\n健診日程\n\n|月|日|\n|:----|:----|\n|令和6年 4月|17日（水曜日）|\n|5月|15日（水曜日）<br>29日（水曜日）|\n|6月|19日（水曜日）|\n|7月|17日（水曜日）|\n|8月|21日（水曜日）<br>29日（木曜日）|\n|9月|18日（水曜日）|\n|10月|16日（水曜日）|\n|11月|1日（金曜日）<br>20日（水曜日）|\n|12月|18日（水曜日）|\n|令和7年 1月|15日（水曜日）|\n|2月|5日（水曜日）<br>19日（水曜日）|\n|3月|19日（水曜日）|\n\n健康診査に来所されるかたへのお願い\n当日は、ご自宅でお子さんと保護者のかたの体温測定の上、お子さんの歯みがきを済ませてからお越しください。\nマスクの着用は任意となりますので、必要に応じて持参してください。\n付き添い者は保護者のかたを含め、最少限にしていただくよう、ご協力をお願いします。\n駐車場に限りがあるため、車での来所は出来るだけご遠慮ください。\n\n関連情報\n保健事業予定表;https://www.city.musashimurayama.lg.jp/kurashi/kenkou/1008584.html",
+      "target": {
+        "targetPersons": "0歳児～6歳児（就学前まで）\n定期歯科健診を希望する乳幼児（予約制）",
+        "lessThan": {
+          "targetAge": 6,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "0歳児～6歳児（就学前まで）"
+      },
+      "support": {
+        "description": "歯科健診、相談、歯科保健指導、予防処置（フッ素、と銀）",
+        "monetarySupport": null,
+        "materiallySupport": "歯科健診、相談、歯科保健指導、予防処置（フッ素、と銀）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "|月|日|\n|:----|:----|\n|令和6年 4月|17日（水曜日）|\n|5月|15日（水曜日）<br>29日（水曜日）|\n|6月|19日（水曜日）|\n|7月|17日（水曜日）|\n|8月|21日（水曜日）<br>29日（木曜日）|\n|9月|18日（水曜日）|\n|10月|16日（水曜日）|\n|11月|1日（金曜日）<br>20日（水曜日）|\n|12月|18日（水曜日）|\n|令和7年 1月|15日（水曜日）|\n|2月|5日（水曜日）<br>19日（水曜日）|\n|3月|19日（水曜日）|\n"
+      },
+      "implementationPlace": {
+        "implementationName": "武蔵村山市民総合センター2階",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "12:30",
+        "toYMD": null,
+        "toHM": "14:20",
+        "conditions": "12時30分～14時20分\n＊受付時間を指定してご案内しています。"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.musashimurayama.lg.jp/kurashi/kenkou/1008584.html",
+          "title": "保健事業予定表"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.musashimurayama.lg.jp/kosodate/kenshin/kenshin/1010339.html",
+        "title": "乳幼児歯科健康診査（ビーバー歯科健康診査）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子ども子育て支援課母子保健係",
+        "contactPhone": "042-564-5421",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_07c/1010338",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132233;武蔵村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132233+2+UM792",
+        "organization": "3000020132233",
+        "compartment": "子ども家庭部子ども子育て支援課母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-19",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "武蔵村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "休日歯科急患診療所"
+      },
+      "summary": "市では、休日等における歯科の急病のかたを対象として、当市歯科医師会の協力を得て、市内当番歯科医療機関で休日急患診療所を開設しています。　詳しくは、武蔵村山市歯科医師会（電話：042-562-2743）までお問い合わせください。",
+      "description": "休日歯科急患診療所\n休日歯科診療は、歯科の急病のかたを対象として日曜及び年末年始に市内当番歯科医療機関で行っています。　詳しくは、武蔵村山市歯科医師会（電話：042-562-2743）までお問い合わせください。\n（注）受診の際は、保険証を忘れずに持参してください。また、各種医療証（乳・子・親・障等）をお持ちのかたは必ず保険証と一緒にお持ちください。\n\n|診療種別|開設日|受付時間|診療時間|会場・お問い合わせ|\n|:----|:----|:----|:----|:----|\n|休日歯科診療<br>（歯科急患）|日曜日・年末年始<br>（12月29日から1月3日）|（1）午前9時から午前11時30分まで<br>（2）午後1時から午後4時まで|（1）午前9時30分から正午まで<br>（2）午後1時から午後4時30分まで|市内当番歯科医療機関<br>（詳細は以下のリンクをご覧ください。）|\n\n休日歯科診療;https://www.city.musashimurayama.lg.jp/kurashi/kenkou/kyukyu/1017406/1000782.html",
+      "target": {
+        "targetPersons": "歯科の急病のかた",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "休日歯科診療",
+        "monetarySupport": null,
+        "materiallySupport": "休日歯科診療"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "（1）午前9時30分から正午まで\n（2）午後1時から午後4時30分まで"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "受診の際は、保険証を忘れずに持参してください。また、各種医療証（乳・子・親・障等）をお持ちのかたは必ず保険証と一緒にお持ちください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "（1）午前9時から午前11時30分まで\n（2）午後1時から午後4時まで"
+      },
+      "electronicSubmission": false,
+      "belongings": "保険証を忘れずに持参してください。また、各種医療証（乳・子・青・親・障等）をお持ちのかたは必ず保険証と一緒にお持ちください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "武蔵村山市歯科医師会",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.musashimurayama.lg.jp/kurashi/kenkou/kyukyu/1017406/1000782.html",
+          "title": "休日歯科診療"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.musashimurayama.lg.jp/kurashi/kenkou/kyukyu/1017406/1000778.html",
+        "title": "急患診療のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康福祉部健康推進課健康推進係",
+        "contactPhone": "042-565-9315",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.musashimurayama.lg.jp/cgi-crm/CRM030/CRM030_004/e_07a/1000778",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132233;武蔵村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132233+3+UM45",
+        "organization": "3000020132233",
+        "compartment": "健康福祉部健康推進課健康推進係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-12-06",
+      "odInformation": {
+        "updateDate": "2024-07-08",
+        "updater": "武蔵村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

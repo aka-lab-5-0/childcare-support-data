@@ -1,0 +1,773 @@
+{
+  "version": "2025-07-10T02:38:54.145Z",
+  "areaCode": "133612",
+  "areaName": "大島町",
+  "category": "medical",
+  "count": 6,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "出産育児一時金",
+        "shortName": "出産育児一時金"
+      },
+      "summary": "国民健康保険に加入している方が出産したときは、その世帯主からの申請により、出産育児一時金を支給します。原則として直接支払制度により、医療機関に直接お支払いします。\nなお、直接支払制度に対応していない医療機関などで出産された場合も、「受取代理制度」や出産後の申請により、出産育児一時金の支給を受けることができます。",
+      "description": "子供が生まれたとき\n国保被保険者が出産した場合に支給されます。また、妊娠８５日（１２週）以上の死産・流産でも支給されます。\nなお、国保から医療機関等へ直接支払い（直接支払制度）が利用できます。\nただし、他の健康保険から支給される場合、国保からは支給されません。\n\n支給金額\n出生児１児につき５０万円　（※「産科医療補償制度」の対象でない場合は４８万８千円）。\n\n直接支払制度について\n出産に必要な費用について、国保が直接医療機関に支払うことにより、退院時に窓口で出産費用を全額支払う必要がなくなります。\n制度の利用を希望される場合は、出産予定の医療機関等へご相談ください。\n\n窓口受付（直接支払制度未利用または差額支給）\n直接支払制度を利用しなかった場合や、直接支払制度を利用し出産費用が支給金額を下回った場合（差額支給）は、窓口へ申請してください。\n\n申請に必要なもの\n国保被保険者証\n母子健康手帳（死産、流産の場合は医師の証明書）\n印鑑\n振込先口座番号等のわかるもの（通帳等）\n医療機関等が発行する領収書・明細書（出産費用が記載されたもの）\n医療機関等との合意文書（※直接支払い制度の利用について）",
+      "target": {
+        "targetPersons": "国保被保険者が出産した場合",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "国保被保険者が出産した場合に支給されます。また、妊娠８５日（１２週）以上の死産・流産でも支給されます。"
+      },
+      "support": {
+        "description": "出生児１児につき５０万円　（※「産科医療補償制度」の対象でない場合は４８万８千円）。",
+        "monetarySupport": "出生児１児につき５０万円　（※「産科医療補償制度」の対象でない場合は４８万８千円）。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "土曜・日曜・祝日・年末年始",
+      "utilization": "直接支払制度について\n出産に必要な費用について、国保が直接医療機関に支払うことにより、退院時に窓口で出産費用を全額支払う必要がなくなります。\n制度の利用を希望される場合は、出産予定の医療機関等へご相談ください。\n\n窓口受付（直接支払制度未利用または差額支給）\n直接支払制度を利用しなかった場合や、直接支払制度を利用し出産費用が支給金額を下回った場合（差額支給）は、窓口へ申請してください。",
+      "procedurePersons": null,
+      "procedureMethod": "直接支払制度について\n出産に必要な費用について、国保が直接医療機関に支払うことにより、退院時に窓口で出産費用を全額支払う必要がなくなります。\n制度の利用を希望される場合は、出産予定の医療機関等へご相談ください。\n\n窓口受付（直接支払制度未利用または差額支給）\n直接支払制度を利用しなかった場合や、直接支払制度を利用し出産費用が支給金額を下回った場合（差額支給）は、窓口へ申請してください。\n\n申請に必要なもの\n国保被保険者証\n母子健康手帳（死産、流産の場合は医師の証明書）\n印鑑\n振込先口座番号等のわかるもの（通帳等）\n医療機関等が発行する領収書・明細書（出産費用が記載されたもの）\n医療機関等との合意文書（※直接支払い制度の利用について）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": "17:15",
+        "conditions": "平日の午前8時30分から午後5時15分まで（土曜・日曜・祝日・年末年始を除く）"
+      },
+      "electronicSubmission": false,
+      "belongings": "国保被保険者証\n母子健康手帳（死産、流産の場合は医師の証明書）\n印鑑\n振込先口座番号等のわかるもの（通帳等）\n医療機関等が発行する領収書・明細書（出産費用が記載されたもの）\n医療機関等との合意文書（※直接支払い制度の利用について）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "住民課国保年金係窓口",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.oshima.tokyo.jp/soshiki/jumin/shussannikujiitijikin.html",
+        "title": "出産育児一時金"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "住民課国保年金係",
+        "contactPhone": "04992-2-1462",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.oshima.tokyo.jp/soshiki/jumin/shussannikujiitijikin.html",
+        "contactComment": "Fax：04992-2-4430",
+        "zipCode": "1000101",
+        "contactAddress": "東京都大島町元町１－１－１４"
+      },
+      "area": {
+        "areaCode": "133612;大島町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020133612+1+UM19",
+        "organization": "2000020133612",
+        "compartment": "住民課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-30",
+        "updater": "大島町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民健康保険法",
+        "regulationArticle": "第58条(第二節　その他の給付)"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003",
+          "015"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "休日夜間に病気"
+      },
+      "summary": "大島町では、夜間や日曜・祝日、年末年始に、市内の医療機関の協力のもと、当番制で診療を行っています。\nなお、小児のお子さんの救急の時は、小児科救急当番医をご利用ください。\n「小児科救急」内部リンク",
+      "description": "|医院名|電話番号|所在地|\n|:----|:----|:----|\n|大島医療センター;http://www.clinic-jp.org/fujiiclinic/homepage1.htm|04992-2-2345|東京都大島町元町3-2-9|\n\n行く前に必ず電話連絡を。\n\n大島医療センター大島医療センター",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "大島医療センター",
+        "implementationAddress": "東京都大島町元町3-2-9"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "行く前に必ず電話連絡を。",
+      "procedurePersons": "休日夜間に病気になったら",
+      "procedureMethod": "|医院名|電話番号|所在地|\n|:----|:----|:----|\n|大島医療センター;http://www.clinic-jp.org/fujiiclinic/homepage1.htm|04992-2-2345|東京都大島町元町3-2-9|\n\n行く前に必ず電話連絡を。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "大島医療センター",
+      "relatedLink": [
+        {
+          "uri": "http://www.clinic-jp.org/fujiiclinic/homepage1.htm",
+          "title": "大島医療センター"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.town.oshima.tokyo.jp/soshiki/syoubou/emergency.html",
+        "title": "休日夜間に病気になったら"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "大島医療センター",
+        "contactPhone": "04992-2-2345",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.oshima.tokyo.jp/soshiki/syoubou/emergency.html",
+        "contactComment": "行く前に必ず電話連絡を。",
+        "zipCode": "1000101",
+        "contactAddress": "東京都大島町元町3-2-9"
+      },
+      "area": {
+        "areaCode": "133612;大島町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020133612+1+UM45",
+        "organization": "2000020133612",
+        "compartment": null,
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2014-12-25",
+      "odInformation": {
+        "updateDate": "2024-07-30",
+        "updater": "大島町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "大島町の妊娠・出産に関する相談",
+        "shortName": "健康LINE（ライン）サポート事業"
+      },
+      "summary": "不妊治療・不育症、更年期に関する悩みや「病院へ行くほどではないけど、ちょっと気になる」そんなもやもやを解消するサービスが始まりました。普段相談しにくい内容でも24時間、匿名で相談できます。相談には、臨床心理士、不妊症看護認定看護師、保健師、薬剤師、管理栄養士等の専門家チームが対応します。\n\n※相談の回答には３日程度かかります。",
+      "description": "２４時間ＬＩＮＥ（ライン）で健康相談ができます。\n不妊治療・不育症、更年期に関する悩みや「病院へ行くほどではないけど、ちょっと気になる」そんなもやもやを解消するサービスが始まりました。普段相談しにくい内容でも24時間、匿名で相談できます。相談には、臨床心理士、不妊症看護認定看護師、保健師、薬剤師、管理栄養士等の専門家チームが対応します。\n\n※相談の回答には３日程度かかります。\n\n大島町健康LINEサポートチラシ [PDFファイル／12.89MB];https://www.town.oshima.tokyo.jp/uploaded/attachment/5945.pdf\n\n対象者\n大島町に在住、在勤、在学の方\n\n対応相談内容\n（１）妊活・不妊治療について\nタイミング療法、体外受精、顕微授精等\n\n（２）月経トラブルについて\n生理痛、生理不順、ＰＭＳ等\n\n（３）更年期症状\nイライラ、不眠、月経異常等\n\n（４）メンタルについて\n夫婦のコミュニケーション、やる気が出ない、強いストレス、働き方等\n\n（５）育児相談について\n子育ての悩み、子どものこと、離乳食等\n\n（６）その他\n家族やパートナーのこと、職場のこと、食事やお薬のこと、健康に関すること等\n\n登録方法\nまずは、ＬＩＮＥの友だち追加（添付のＱＲコードまたは\n\n「友だち追加」からＩＤ検索＠famione₋supportで登録をお願いします。\n\n健康LINE相談\n\nLINE ID@famione-support\n\n登録方法「大島町」;https://wellbeing.famione.com/lp/oosm/\n\n料金\n無料\n\nLINEのセキュリーティーに関して\n相談のやりとりは、ＬＩＮＥ上でのチャットではなく、別のＵＲＬに移動して行う仕組みになっています。アドバイス等はＬＩＮＥとの連携はしていないため、ＬＩＮＥのサーバーに情報が保管されることはありません。",
+      "target": {
+        "targetPersons": "大島町に在住、在勤、在学の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "大島町に在住、在勤、在学の方",
+        "monetarySupport": null,
+        "materiallySupport": "大島町に在住、在勤、在学の方"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "登録方法\nまずは、ＬＩＮＥの友だち追加（添付のＱＲコードまたは\n\n「友だち追加」からＩＤ検索＠famione₋supportで登録をお願いします。",
+      "procedurePersons": null,
+      "procedureMethod": "登録方法\nまずは、ＬＩＮＥの友だち追加（添付のＱＲコードまたは\n\n「友だち追加」からＩＤ検索＠famione₋supportで登録をお願いします。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://wellbeing.famione.com/lp/oosm/",
+          "title": "登録方法「大島町」"
+        },
+        {
+          "uri": "https://www.town.oshima.tokyo.jp/uploaded/attachment/5945.pdf",
+          "title": "大島町健康LINEサポートチラシ [PDFファイル／12.89MB]"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.town.oshima.tokyo.jp/soshiki/kenkou/kennkourainn.html",
+        "title": "健康LINE（ライン）サポート事業が始まります！"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉けんこう課けんこう係",
+        "contactPhone": "04992-2-1482",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.oshima.tokyo.jp/form/detail.php?sec_sec1=7&inq=03&lif_id=9319",
+        "contactComment": "Fax：04992-2-4430",
+        "zipCode": "1000101",
+        "contactAddress": "東京都大島町元町１－１－１４"
+      },
+      "area": {
+        "areaCode": "133612;大島町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020133612+1+UM47",
+        "organization": "2000020133612",
+        "compartment": "福祉けんこう課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-30",
+        "updater": "大島町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後ヘルパーの派遣",
+        "shortName": "育児支援ヘルパー事業『てんとうむし』"
+      },
+      "summary": "産前産後の体調不良などにより、家事や育児が困難なご家庭に、日常的な掃除・洗濯・食事の支度などの家事や、もく浴・おむつ交換・きょうだいのお世話などの育児を手伝うホームヘルパーを派遣します。",
+      "description": "「どうしよう・・・」「こまったわ・・・」のおかあさん、おとうさんを応援します。\n\n育児支援ヘルパー事業『てんとうむし』\n 出産後、夫以外に家族もいないし、実家も遠いし助けてもらえる人もいなくて不安・・こまったわ。\n どうぞお気軽に、ご相談ください。\n\n―どんな人が、どれくらいの期間、料金は―\n＊大島在住で昼間、育児や家事を手伝ってくれる人がいない家庭等。\n利用期間 母子手帳交付から出産後６ヶ月目の末日まで\n （１日１回を１０回まで）\n利用時間 月曜日～土曜日 ９時～５時まで\n利用料金 １回 ２時間まで １，５００円\n ２時間以上４時間まで ３，０００円\n― 問い合わせ先 ―\n大島町子ども家庭支援センター\n電話 ０４９９２－２－２３８１\n【利用申し込みの流れ】\n１．申し込み受付\n・利用日の５日前までに「子ども家庭支援センター」２－２３８１まで連絡し申請書を提出してください。\n２．申請内容を審査します。\n３．決定連絡\n４．当日、申請時間にヘルパーが利用者宅を訪問します。\n５．料金支払いについては後日「納付書」が送付されますのでお支払いください。\n わからないこと、心配なことがありましたらお気軽にご連絡ください。\n相談を待っています。",
+      "target": {
+        "targetPersons": "大島在住で昼間、育児や家事を手伝ってくれる人がいない家庭等。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "利用期間 母子手帳交付から出産後６ヶ月目の末日まで"
+      },
+      "support": {
+        "description": "「どうしよう・・・」「こまったわ・・・」のおかあさん、おとうさんを応援します。",
+        "monetarySupport": null,
+        "materiallySupport": "「どうしよう・・・」「こまったわ・・・」のおかあさん、おとうさんを応援します。"
+      },
+      "cost": null,
+      "costConditions": "利用料金 １回 ２時間まで １，５００円\n２時間以上４時間まで ３，０００円",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "月曜日～土曜日 ９時～５時まで"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "【利用申し込みの流れ】\n１．申し込み受付\n・利用日の５日前までに「子ども家庭支援センター」２－２３８１まで連絡し申請書を提出してください。\n２．申請内容を審査します。\n３．決定連絡\n４．当日、申請時間にヘルパーが利用者宅を訪問します。\n５．料金支払いについては後日「納付書」が送付されますのでお支払いください。",
+      "procedurePersons": null,
+      "procedureMethod": "【利用申し込みの流れ】\n１．申し込み受付\n・利用日の５日前までに「子ども家庭支援センター」２－２３８１まで連絡し申請書を提出してください。\n２．申請内容を審査します。\n３．決定連絡\n４．当日、申請時間にヘルパーが利用者宅を訪問します。\n５．料金支払いについては後日「納付書」が送付されますのでお支払いください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "利用日の５日前までに「子ども家庭支援センター」２－２３８１まで連絡し申請書を提出してください。"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "大島町子ども家庭支援センター",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.oshima.tokyo.jp/uploaded/attachment/3193.pdf",
+        "title": "育児支援ヘルパー事業『てんとうむし』"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "大島町子ども家庭支援センター",
+        "contactPhone": "04992-2-2381",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133612;大島町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020133612+1+UM785",
+        "organization": "2000020133612",
+        "compartment": "大島町子ども家庭支援センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-30",
+        "updater": "大島町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "大島町の子育てに関する相談",
+        "shortName": "けんこう相談"
+      },
+      "summary": "福祉けんこう課けんこう係では、保健師、栄養士、歯科衛生士の専門スタッフが、町民の皆さんの健康保持および健康づくりを推進するため、さまざまな事業を実施しています。\n心や身体の健康について知りたいことや悩んでいることなど、ご相談に応じますのでお気軽にお問い合わせください。",
+      "description": "福祉けんこう課けんこう係では、保健師、栄養士、歯科衛生士の専門スタッフが、町民の皆さんの健康保持および健康づくりを推進するため、さまざまな事業を実施しています。\n心や身体の健康について知りたいことや悩んでいることなど、ご相談に応じますのでお気軽にお問い合わせください。\n\n※予約制となりますので、電話でご連絡ください。\n\n主な相談内容\n生活習慣病の予防、治療について\nがん検診、予防、治療について\n健診・検診の結果について\nおとなの食生活改善について\nベビーの離乳食について\n口臭、虫歯、歯周病の予防やお手入れについて\n歯や歯ぐき、入れ歯などお口に関することについて\n妊娠・出産・子育てについて\n子どもの発達について\nさまざまな年代のこころの相談について",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "主な相談内容\n生活習慣病の予防、治療について\nがん検診、予防、治療について\n健診・検診の結果について\nおとなの食生活改善について\nベビーの離乳食について\n口臭、虫歯、歯周病の予防やお手入れについて\n歯や歯ぐき、入れ歯などお口に関することについて\n妊娠・出産・子育てについて\n子どもの発達について\nさまざまな年代のこころの相談について",
+        "monetarySupport": null,
+        "materiallySupport": "主な相談内容\n生活習慣病の予防、治療について\nがん検診、予防、治療について\n健診・検診の結果について\nおとなの食生活改善について\nベビーの離乳食について\n口臭、虫歯、歯周病の予防やお手入れについて\n歯や歯ぐき、入れ歯などお口に関することについて\n妊娠・出産・子育てについて\n子どもの発達について\nさまざまな年代のこころの相談について"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.oshima.tokyo.jp/soshiki/kenkou/kenkou-soudan.html",
+        "title": "けんこう相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉けんこう課　けんこう係",
+        "contactPhone": "04992-2-1482",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.oshima.tokyo.jp/form/detail.php?sec_sec1=7&inq=03&lif_id=720",
+        "contactComment": null,
+        "zipCode": "1000101",
+        "contactAddress": "東京都大島町元町１－１－１４"
+      },
+      "area": {
+        "areaCode": "133612;大島町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020133612+2+UM119",
+        "organization": "2000020133612",
+        "compartment": "福祉けんこう課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2015-11-26",
+      "odInformation": {
+        "updateDate": "2024-07-30",
+        "updater": "大島町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "大島町の子育てに関する相談",
+        "shortName": "健康LINE（ライン）サポート事業"
+      },
+      "summary": "不妊治療・不育症、更年期に関する悩みや「病院へ行くほどではないけど、ちょっと気になる」そんなもやもやを解消するサービスが始まりました。普段相談しにくい内容でも24時間、匿名で相談できます。相談には、臨床心理士、不妊症看護認定看護師、保健師、薬剤師、管理栄養士等の専門家チームが対応します。",
+      "description": "２４時間ＬＩＮＥ（ライン）で健康相談ができます。\n不妊治療・不育症、更年期に関する悩みや「病院へ行くほどではないけど、ちょっと気になる」そんなもやもやを解消するサービスが始まりました。普段相談しにくい内容でも24時間、匿名で相談できます。相談には、臨床心理士、不妊症看護認定看護師、保健師、薬剤師、管理栄養士等の専門家チームが対応します。\n\n※相談の回答には３日程度かかります。\n\n大島町健康LINEサポートチラシ [PDFファイル／12.89MB]\n\n対象者\n大島町に在住、在勤、在学の方\n\n対応相談内容\n（１）妊活・不妊治療について\nタイミング療法、体外受精、顕微授精等\n\n（２）月経トラブルについて\n生理痛、生理不順、ＰＭＳ等\n\n（３）更年期症状\nイライラ、不眠、月経異常等\n\n（４）メンタルについて\n夫婦のコミュニケーション、やる気が出ない、強いストレス、働き方等\n\n（５）育児相談について\n子育ての悩み、子どものこと、離乳食等\n\n（６）その他\n家族やパートナーのこと、職場のこと、食事やお薬のこと、健康に関すること等\n\n登録方法\nまずは、ＬＩＮＥの友だち追加（添付のＱＲコードまたは「友だち追加」からＩＤ検索＠famione₋supportで登録をお願いします。\n\n健康LINE相談\n\nLINE ID　@famione-support\n\n登録方法「大島町」\n\n料金\n無料\n\nLINEのセキュリーティーに関して\n相談のやりとりは、ＬＩＮＥ上でのチャットではなく、別のＵＲＬに移動して行う仕組みになっています。アドバイス等はＬＩＮＥとの連携はしていないため、ＬＩＮＥのサーバーに情報が保管されることはありません。",
+      "target": {
+        "targetPersons": "大島町に在住、在勤、在学の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "大島町に在住、在勤、在学の方"
+      },
+      "support": {
+        "description": "対応相談内容\n（１）妊活・不妊治療について\nタイミング療法、体外受精、顕微授精等\n\n（２）月経トラブルについて\n生理痛、生理不順、ＰＭＳ等\n\n（３）更年期症状\nイライラ、不眠、月経異常等\n\n（４）メンタルについて\n夫婦のコミュニケーション、やる気が出ない、強いストレス、働き方等\n\n（５）育児相談について\n子育ての悩み、子どものこと、離乳食等\n\n（６）その他\n家族やパートナーのこと、職場のこと、食事やお薬のこと、健康に関すること等",
+        "monetarySupport": null,
+        "materiallySupport": "対応相談内容\n（１）妊活・不妊治療について\nタイミング療法、体外受精、顕微授精等\n\n（２）月経トラブルについて\n生理痛、生理不順、ＰＭＳ等\n\n（３）更年期症状\nイライラ、不眠、月経異常等\n\n（４）メンタルについて\n夫婦のコミュニケーション、やる気が出ない、強いストレス、働き方等\n\n（５）育児相談について\n子育ての悩み、子どものこと、離乳食等\n\n（６）その他\n家族やパートナーのこと、職場のこと、食事やお薬のこと、健康に関すること等"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "24時間"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "登録方法\nまずは、ＬＩＮＥの友だち追加（添付のＱＲコードまたは「友だち追加」からＩＤ検索＠famione₋supportで登録をお願いします。\n\n健康LINE相談\n\nLINE ID　@famione-support\n\n登録方法「大島町」\n\n料金\n無料\n\nLINEのセキュリーティーに関して\n相談のやりとりは、ＬＩＮＥ上でのチャットではなく、別のＵＲＬに移動して行う仕組みになっています。アドバイス等はＬＩＮＥとの連携はしていないため、ＬＩＮＥのサーバーに情報が保管されることはありません。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.town.oshima.tokyo.jp/uploaded/attachment/5945.pdf",
+          "title": "大島町健康LINEサポートチラシ [PDFファイル／12.89MB]"
+        },
+        {
+          "uri": "https://wellbeing.famione.com/lp/oosm/",
+          "title": "登録方法「大島町」"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.town.oshima.tokyo.jp/soshiki/kenkou/kennkourainn.html",
+        "title": "健康LINE（ライン）サポート事業が始まります！"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉けんこう課　けんこう係",
+        "contactPhone": "04992-2-1482",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.oshima.tokyo.jp/form/detail.php?sec_sec1=7&inq=03&lif_id=9319",
+        "contactComment": null,
+        "zipCode": "1000101",
+        "contactAddress": "東京都大島町元町１－１－１４"
+      },
+      "area": {
+        "areaCode": "133612;大島町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020133612+3+UM119",
+        "organization": "2000020133612",
+        "compartment": "福祉けんこう課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-30",
+        "updater": "大島町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    }
+  ]
+}

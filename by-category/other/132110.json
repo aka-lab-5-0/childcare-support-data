@@ -1,0 +1,898 @@
+{
+  "version": "2025-07-10T02:38:54.130Z",
+  "areaCode": "132110",
+  "areaName": "小平市",
+  "category": "other",
+  "count": 7,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "出産費貸付制度",
+        "shortName": "出産費資金の貸付"
+      },
+      "summary": "出産予定日前に出産費用の支払いが必要な方を対象に、出産育児一時金8割に相当する額を限度として出産費用の貸し付けを無利子で行います。",
+      "description": "出産育児一時金について\n出産費資金の貸付\n直接支払制度も受取代理制度も利用せず、出産育児一時金を受けることが見込まれる方のいる世帯を対象に、出産に要する費用を支払うための資金をお貸しします。貸付金額は、出産育児一時金の8割相当額です。\n\n詳細については、お問い合わせください。",
+      "target": {
+        "targetPersons": "直接支払制度も受取代理制度も利用せず、出産育児一時金を受けることが見込まれる方のいる世帯",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "貸付金額は、出産育児一時金の8割相当額です。",
+        "monetarySupport": "貸付金額は、出産育児一時金の8割相当額です。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "直接支払制度も受取代理制度も利用せず、出産育児一時金を受けることが見込まれる方のいる世帯",
+      "procedureMethod": "詳細については、お問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/002/002474.html",
+        "title": "出産育児一時金について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保険年金課国民健康保険担当",
+        "contactPhone": "042-346-9529",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-9513",
+        "zipCode": "1878701",
+        "contactAddress": "小平市小川町2-1333　市役所1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM20",
+        "organization": "2000020132110",
+        "compartment": "保険年金課国民健康保険担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "小平市国民健康保険出産費資金の貸付けに関する条例",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+        "shortName": "産前産後期間の国民健康保険税免除制度"
+      },
+      "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分）の均等割保険料と所得割保険料が免除されます。",
+      "description": "産前産後期間の国民健康保険税免除制度\n令和6年1月から、出産予定または出産したことによる産前産後期間相当分の国民健康保険税が免除される制度が開始しました。免除を受けるには、届出が必要です。\n\n産前産後期間の国民健康保険税の免除について\n出産予定または出産した国民健康保険の被保険者の産前産後期間相当分の国民健康保険税が免除される制度です。\n\n対象となる方・受付期間\n令和5年11月1日以降に出産した国民健康保険被保険者の方が対象です。\n出産とは、妊娠85日以上の分娩をいい、死産、流産(人工妊娠中絶を含む。)および早産の場合も対象となります。\n\n（注）被用者保険に加入されている方は対象になりません。\n\n出産予定日の6ヶ月前から届出ができます。出産後の届出も可能です。\n（注）実際の出産日と出産予定日が異なる月であっても、再度の届出は必要ありません。\n\n国民健康保険税の免除方法\n単胎妊娠の場合は出産予定月(又は出産月)の前月から4ヶ月相当分が減額されます。\n|3ヶ月前|2ヶ月前|1ヶ月前|出産(予定)月|1ヶ月後|2ヶ月後|3ヶ月後|\n|:----|:----|:----|:----|:----|:----|:----|\n|ー|ー|〇|〇|〇|〇|ー|\n多胎妊娠の場合は出産予定月(又は出産月)の3ヶ月前から6ヶ月相当分が減額されます。\n|3ヶ月前|2ヶ月前|1ヶ月前|出産(予定)月|1ヶ月後|2ヶ月後|3ヶ月後|\n|:----|:----|:----|:----|:----|:----|:----|\n|〇|〇|〇|〇|〇|〇|ー|\n（注）産前産後期間相当分の所得割額と均等割額が年額から減額されます。\n\n（注）課税限度額に達している世帯については、保険税額が変わらない場合があります。\n\n（注）産前産後期間中に、小平市と他の自治体で国民健康保険の加入期間がある場合は、両方の自治体で申請が必要です。産前産後期間中に小平市から転出される場合は、「産前産後免除対象者異動連絡票」を発行します。\n\n令和5年度においては、産前産後期間のうち令和6年1月相当分以降の期間だけ、保険税が減額されます。\n【例】令和5年11月に出産\n\n|令和5年8月|9月|10月|11月（出産月）|12月|令和6年1月|2月|\n|:----|:----|:----|:----|:----|:----|:----|\n|ー|ー|ー|ー|ー|〇|ー|\n（注）令和5年11月に出産した場合、令和6年1月相当分の保険税が減額されます。令和6年1月より前の期間については減額の対象となりません。\n\n（注）〇がついた部分が減額の対象期間です。\n\n届出書\n産前産後期間に係る国民健康保険税軽減届出書（PDF 248KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/109487/109487/att_0000001.pdf\n記入見本\n産前産後期間に係る国民健康保険税軽減届出書(見本)（PDF 267.1KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/109487/109487/att_0000002.pdf\n母子健康手帳で写しが必要な箇所について（PDF 613.7KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/109487/109487/att_0000003.pdf\n届出に必要なもの\n届出書\n本人確認ができる身分証明書(運転免許証、個人番号カード、パスポートなど)\n以下の（1）から（2）までの出産に係るいずれかの書類（多胎の場合は人数分の書類が必要です）\n（1）出産前に産前産後免除に係る届出を行う場合\n　出産の予定日を確認できる書類（母子健康手帳など）\n\n（2）出産後に産前産後免除に係る届出を行う場合\n　出産の日及び親子関係を明らかにする書類（母子健康手帳、戸籍謄（抄）本、戸籍記載事項証明書、出生届受理証明書など）\n\n（注）産前産後期間中に、小平市に転入した方で、転入元の自治体から「産前産後免除対象者異動連絡票」が交付されている場合は、そちらもご提出ください。\n\n受付窓口\n保険年金課（本庁舎1階）\n郵送での申請も受け付けています。郵送の場合は上記必要書類の写し（届出書のみ原本）を送付ください。\n\n郵送先：〒187-8701　東京都小平市小川町2-1333　小平市役所保険年金課保険税担当宛\n\n受付時間\n保険年金課\n月曜から金曜　午前8時30分から午後5時\n土曜　午前8時30分から午後0時15分",
+      "target": {
+        "targetPersons": "令和5年11月1日以降に出産した国民健康保険被保険者の方が対象です。\n　出産とは、妊娠85日以上の分娩をいい、死産、流産(人工妊娠中絶を含む。)および早産の場合も対象となります。\n\n（注）被用者保険に加入されている方は対象になりません。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "単胎妊娠の場合は出産予定月(又は出産月)の前月から4ヶ月相当分が減額されます。\n多胎妊娠の場合は出産予定月(又は出産月)の3ヶ月前から6ヶ月相当分が減額されます。",
+        "monetarySupport": "単胎妊娠の場合は出産予定月(又は出産月)の前月から4ヶ月相当分が減額されます。\n多胎妊娠の場合は出産予定月(又は出産月)の3ヶ月前から6ヶ月相当分が減額されます。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "届出に必要なもの\n届出書\n本人確認ができる身分証明書(運転免許証、個人番号カード、パスポートなど)\n以下の（1）から（2）までの出産に係るいずれかの書類（多胎の場合は人数分の書類が必要です）\n（1）出産前に産前産後免除に係る届出を行う場合\n出産の予定日を確認できる書類（母子健康手帳など）\n\n（2）出産後に産前産後免除に係る届出を行う場合\n出産の日及び親子関係を明らかにする書類（母子健康手帳、戸籍謄（抄）本、戸籍記載事項証明書、出生届受理証明書など）\n\n（注）産前産後期間中に、小平市に転入した方で、転入元の自治体から「産前産後免除対象者異動連絡票」が交付されている場合は、そちらもご提出ください。\n\n受付窓口\n保険年金課（本庁舎1階）\n郵送での申請も受け付けています。郵送の場合は上記必要書類の写し（届出書のみ原本）を送付ください。\n\n郵送先：〒187-8701　東京都小平市小川町2-1333　小平市役所保険年金課保険税担当宛",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": "17:00",
+        "conditions": "月曜から金曜　午前8時30分から午後5時\n土曜　午前8時30分から午後0時15分"
+      },
+      "electronicSubmission": false,
+      "belongings": "届出書\n本人確認ができる身分証明書(運転免許証、個人番号カード、パスポートなど)\n以下の（1）から（2）までの出産に係るいずれかの書類（多胎の場合は人数分の書類が必要です）\n（1）出産前に産前産後免除に係る届出を行う場合\n出産の予定日を確認できる書類（母子健康手帳など）\n\n（2）出産後に産前産後免除に係る届出を行う場合\n出産の日及び親子関係を明らかにする書類（母子健康手帳、戸籍謄（抄）本、戸籍記載事項証明書、出生届受理証明書など）\n\n（注）産前産後期間中に、小平市に転入した方で、転入元の自治体から「産前産後免除対象者異動連絡票」が交付されている場合は、そちらもご提出ください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "保険年金課（本庁舎1階）",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/109/109487.html",
+        "title": "産前産後期間の国民健康保険税免除制度"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保険年金課保険税担当",
+        "contactPhone": "042-346-9530",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-9513",
+        "zipCode": "1878701",
+        "contactAddress": "小平市小川町2-1333　市役所1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM5035",
+        "organization": "2000020132110",
+        "compartment": "保険年金課保険税担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-25",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003",
+          "015"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後ヘルパーの派遣",
+        "shortName": "産後ケア事業"
+      },
+      "summary": "産前産後の体調不良などにより、家事や育児が困難なご家庭に、日常的な掃除・洗濯・食事の支度などの家事や、もく浴・おむつ交換・きょうだいのお世話などの育児を手伝うホームヘルパーを派遣します。",
+      "description": "日常的な掃除・洗濯・食事の支度などの家事や、もく浴・おむつ交換・きょうだいのお世話など\n１回２時間まで（多胎児の場合は３時間まで）\n利用時間：午前９時～午後５時まで",
+      "target": {
+        "targetPersons": "原則、医療を必要としない次の方\n心身の不調、または育児不安等がある産後４か月に達しない産婦\n生後４か月になる前日までの乳児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後４か月になる前日までの乳児"
+      },
+      "support": {
+        "description": "育児サポート実務者が訪問して産婦のケアなどに応じます。",
+        "monetarySupport": null,
+        "materiallySupport": "育児サポート実務者が訪問して産婦のケアなどに応じます。"
+      },
+      "cost": "600",
+      "costConditions": "1時間あたり600円",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "午前９時～午後５時"
+      },
+      "specificDate": null,
+      "holiday": "年末年始、祝日",
+      "utilization": null,
+      "procedurePersons": "産後４か月に達する前日までの産婦",
+      "procedureMethod": "電子申請",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "妊娠３２週以降産後４か月に達する日の前日まで"
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/86374/086374/att_0000002.pdf",
+          "title": "産後ケア（助産師）チラシ（PDF 390.4KB）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/86374/086374/att_0000001.pdf",
+          "title": "産後ケア（育児サポート実務者）チラシ（PDF 415KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/112/112887.html",
+        "title": "産後ケア事業"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/exdH/604393",
+          "title": "小平市産後ケア事業電子申請"
+        }
+      ],
+      "contact": {
+        "contactName": "こども家庭センター母子保健担当",
+        "contactPhone": "042-346-3701",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM785",
+        "organization": "2000020132110",
+        "compartment": "こども家庭センター母子保健担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-03",
+      "odInformation": {
+        "updateDate": "2024-07-08",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "小平市子育て世代包括支援センター事業実施要綱",
+        "regulationArticle": "第11条2、第12条、第13条の1(2)、2、3、4、第14条の1(2)、第15条"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出生連絡票・低体重児出生届",
+        "shortName": "お誕生連絡票"
+      },
+      "summary": "赤ちゃんが生まれたら、母子手帳に添付されている出生連絡票（はがき）を記入して、郵送または提出してください。出生連絡票をもとに、「こんにちは赤ちゃん事業（乳幼児全戸訪問）」のご連絡をします。\n",
+      "description": "赤ちゃんが生まれたら、母子手帳に添付されている出生連絡票（はがき）を記入して、郵送または提出してください。出生連絡票をもとに、「こんにちは赤ちゃん事業（乳幼児全戸訪問）」のご連絡をします。",
+      "target": {
+        "targetPersons": "出産された全員の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "児が生後4か月に達する日まで"
+      },
+      "support": {
+        "description": "出生届を出された方に助産師や保健師が訪問しています。",
+        "monetarySupport": null,
+        "materiallySupport": "出生届を出された方に助産師や保健師が訪問しています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "健康手帳交付時にお渡ししている「母と子の保健バッグ」に同封しているお誕生連絡票（出生通知票）を出産後1か月以内に同封の返信用封筒でこども家庭センター（健康センター内）まで郵送してください。（封筒の差出有効期間を経過しても、そのまま使用できますので、切手を貼らずに投函してください。）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産後1か月以内"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/006/006110.html",
+        "title": "新生児・産婦訪問"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健担当",
+        "contactPhone": "042-346-3701",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM791",
+        "organization": "2000020132110",
+        "compartment": "こども家庭センター母子保健担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-16",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第18条（低体重児の届出）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "077"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "授乳・おむつ替え施設（赤ちゃんの駅等）",
+        "shortName": "赤ちゃん・ふらっと"
+      },
+      "summary": "「赤ちゃん・ふらっと」は、赤ちゃんを連れた方が安心して外出を楽しめるように、おむつ替えや授乳のためにふらっと立ち寄ることのできるスペースの愛称です。「赤ちゃん・ふらっと」の出入り口などには、適合証の「赤ちゃん・ふらっとマーク」を提示していますので、お気軽にご利用ください。",
+      "description": "「赤ちゃん・ふらっと」 インこだいら\n「赤ちゃん・ふらっと」とは\n「赤ちゃん・ふらっと」は、赤ちゃんを連れた方が安心して外出を楽しめるように、おむつ替えや授乳のためにふらっと立ち寄ることのできるスペースの愛称です。\n\n赤ちゃん・ふらっとマーク\n「赤ちゃん・ふらっと」の出入り口などには、適合証の「赤ちゃん・ふらっとマーク」を提示していますので、お気軽にご利用ください。\n\n「赤ちゃん・ふらっと」小平市内施設一覧（PDF 559.7KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/49774/049774/att_0000006.pdf",
+      "target": {
+        "targetPersons": "赤ちゃんを連れた方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "おむつ替えや授乳のためにふらっと立ち寄ることのできるスペース",
+        "monetarySupport": null,
+        "materiallySupport": "おむつ替えや授乳のためにふらっと立ち寄ることのできるスペース"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "「赤ちゃん・ふらっと」小平市内施設一覧（PDF 559.7KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/49774/049774/att_0000006.pdf",
+        "implementationAddress": "「赤ちゃん・ふらっと」小平市内施設一覧（PDF 559.7KB）;https://www.city.kodaira.tokyo.jp/kurashi/files/49774/049774/att_0000006.pdf"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/akachanflat.html",
+          "title": "東京都「赤ちゃん・ふらっと事業」ホームページ（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.kodaira.tokyo.jp/kurashi/files/49774/049774/att_0000006.pdf",
+          "title": "「赤ちゃん・ふらっと」小平市内施設一覧（PDF 559.7KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/049/049774.html",
+        "title": "「赤ちゃん・ふらっと」 インこだいら"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て支援課子育て支援担当",
+        "contactPhone": "042-346-9821",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-9200",
+        "zipCode": "1878701",
+        "contactAddress": "小平市小川町2-1333　市役所2階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+1+UM800",
+        "organization": "2000020132110",
+        "compartment": "子育て支援課子育て支援担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-01-30",
+      "odInformation": {
+        "updateDate": "2024-07-09",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後ヘルパーの派遣",
+        "shortName": "多胎児家庭支援サポート事業"
+      },
+      "summary": "産前産後の体調不良などにより、家事や育児が困難なご家庭に、日常的な掃除・洗濯・食事の支度などの家事や、もく浴・おむつ交換・きょうだいのお世話などの育児を手伝うホームヘルパーを派遣します。",
+      "description": "産前産後の体調不良などにより、家事や育児が困難なご家庭に、日常的な掃除・洗濯・食事の支度などの家事や、もく浴・おむつ交換・きょうだいのお世話などの育児を手伝うホームヘルパーを派遣します。",
+      "target": {
+        "targetPersons": "多胎児を妊娠中の方\n3歳未満の多胎児を育児中の方",
+        "lessThan": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "3歳未満の多胎児"
+      },
+      "support": {
+        "description": "多胎児を妊娠・出産されたご家庭が家事支援や育児支援、移動支援等を利用する際、一部助成された額でサービスを利用できます。",
+        "monetarySupport": null,
+        "materiallySupport": "多胎児を妊娠・出産されたご家庭が家事支援や育児支援、移動支援等を利用する際、一部助成された額でサービスを利用できます。"
+      },
+      "cost": "800",
+      "costConditions": "1時間あたり800円（交通費別）\n注）派遣できるヘルパーは1人のみです。加算料金等が利用者の実費として別途かかる場合があります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "1回あたり2時間程度（年度内60時間まで）\n午前9時から午後5時（土曜、日曜、祝日、年末年始を除く）\n注）上記基本利用時間外の利用を希望される場合は、直接事業所にご相談ください。\n注）前日の午後4時を過ぎてキャンセルする場合、キャンセル料として2,000円がかかります。"
+      },
+      "specificDate": null,
+      "holiday": "土曜、日曜、祝日、年末年始",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "（申込み　問合せ）\n一般社団法人にこにこ　いたわりヘルパーセンター　電話：042-302-1448\nNPO法人子育てサポートきらら　電話：042-345-8262",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/086/086373.html",
+        "title": "多胎児家庭支援事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健担当",
+        "contactPhone": "042-346-3701",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.kodaira.tokyo.jp/cgi-bin/mailform/mail.cgi",
+        "contactComment": "FAX：042-346-3705",
+        "zipCode": "1870043",
+        "contactAddress": "小平市学園東町1-19-12　健康センター1階"
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020132110+2+UM785",
+        "organization": "2000020132110",
+        "compartment": "こども家庭センター母子保健担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-03",
+      "odInformation": {
+        "updateDate": "2024-07-09",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "小平市子育て世代包括支援センター事業実施要綱",
+        "regulationArticle": "第3条、第8条、第9条1(2)イ、第10条"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "こども食堂",
+        "shortName": "こども食堂"
+      },
+      "summary": "「こども食堂」とは、こどもが一人でも行ける無料または低額の食堂です。こども食堂は、生活に困窮する子育て世帯への支援だけでなく、虐待の防止のための見守りや、地域の交流、こどもへの多様な経験の提供など様々な役割を担っており、国としてもこの取組を支援しています。",
+      "description": "小平市内のこども食堂\n作成部署：こども家庭部 子育て支援課\n印刷する\n\nツイートする;http://twitter.com/share?url=https%3A%2F%2Fwww.city.kodaira.tokyo.jp%2Fkurashi%2F115%2F115973.html&text=%E5%B0%8F%E5%B9%B3%E5%B8%82%E5%86%85%E3%81%AE%E3%81%93%E3%81%A9%E3%82%82%E9%A3%9F%E5%A0%82%7c%E5%B0%8F%E5%B9%B3%E5%B8%82\nFacebookでシェアする;http://www.facebook.com/share.php?u=https%3A%2F%2Fwww.city.kodaira.tokyo.jp%2Fkurashi%2F115%2F115973.html\nLINEで送る;http://line.me/R/msg/text/?https%3A%2F%2Fwww.city.kodaira.tokyo.jp%2Fkurashi%2F115%2F115973.html\n食事をするだけでなく「人と会い会話をする」「地域で見守る」居場所でもあります。\n\n小平市内のこども食堂については、下記リンク先の小平市社会福祉協議会にお問い合わせください。\n\nボランティア、寄付についても随時受け付けております。\n\n関連リンク",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.syakaifukushi.kodaira.tokyo.jp/use-service/kodomosyokudo.html",
+          "title": "小平市社会福祉協議会"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kodaira.tokyo.jp/kurashi/115/115973.html",
+        "title": "小平市内のこども食堂"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小平市社会福祉協議会　地域福祉推進課 こだいら生活相談支援センター",
+        "contactPhone": "TEL:042-349-0151",
+        "contactEx": null,
+        "contactEmail": "vc7@syakaifukushi.kodaira.tokyo.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132110;小平市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+5012705000120+1+UM5036",
+        "organization": "5012705000120",
+        "compartment": "小平市社会福祉協議会　地域福祉推進課 こだいら生活相談支援センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/11/25",
+      "odInformation": {
+        "updateDate": "2025/02/06",
+        "updater": "小平市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

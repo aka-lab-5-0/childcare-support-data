@@ -1,0 +1,1974 @@
+{
+  "version": "2025-07-10T02:38:54.146Z",
+  "areaCode": "134210",
+  "areaName": "小笠原村",
+  "category": "medical",
+  "count": 16,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "図書館の児童サービス（ブックスタートなど）",
+        "shortName": "ブックスタート"
+      },
+      "summary": "ブックスタートとは、赤ちゃんとその保護者に絵本をプレゼントし、絵本を開く楽しい体験とともに、心ふれあうきっかけをつくる活動です。",
+      "description": "ブックスタート\n３，４か月健診の際に絵本３冊をお渡しします。",
+      "target": {
+        "targetPersons": "３，４か月健診",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 3
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "３，４か月健診の際に"
+      },
+      "support": {
+        "description": "３，４か月健診の際に絵本３冊をお渡しします。",
+        "monetarySupport": null,
+        "materiallySupport": "３，４か月健診の際に絵本３冊をお渡しします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "３，４か月健診の際に絵本３冊をお渡しします。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小笠原村村民課福祉係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/kosodate/",
+        "title": "子育て支援"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村村民課福祉係",
+        "contactPhone": "04998-2-3939",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+        "zipCode": "1002101",
+        "contactAddress": "東京都小笠原村父島字西町"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+1+UM105",
+        "organization": "6000020134210",
+        "compartment": "小笠原村村民課福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "小笠原村ブックスタート事業要綱取扱要領",
+        "regulationArticle": "第３条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦訪問",
+        "shortName": "妊婦中期訪問"
+      },
+      "summary": "妊産婦の方（妊娠中または出産後1年以内）を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、妊娠期間中や出産後の不安や悩みについての相談等を行います。",
+      "description": "妊婦中期訪問\n小笠原村では村内で出産ができないため、妊娠32週までには上京していただいています。妊婦中期訪問では保健師が各家庭を訪問し上京前に不安や心配事などについてご相談をお受けしています。",
+      "target": {
+        "targetPersons": "小笠原村では村内で出産ができないため、妊娠32週までには上京していただいています。妊婦中期訪問では保健師が各家庭を訪問し上京前に不安や心配事などについてご相談をお受けしています。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "小笠原村では村内で出産ができないため、妊娠32週までには上京していただいています。妊婦中期訪問では保健師が各家庭を訪問し上京前に不安や心配事などについてご相談をお受けしています。",
+        "monetarySupport": null,
+        "materiallySupport": "妊婦中期訪問では保健師が各家庭を訪問し上京前に不安や心配事などについてご相談をお受けしています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小笠原村村民課福祉係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/syussan/",
+        "title": "出産を予定されている方へ"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村村民課福祉係",
+        "contactPhone": "04998-2-3939",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+        "zipCode": "1002101",
+        "contactAddress": "東京都小笠原村父島字西町"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+1+UM11",
+        "organization": "6000020134210",
+        "compartment": "小笠原村村民課福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条（妊産婦の訪問指導等）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て支援拠点・地域子育て支援センター",
+        "shortName": "子供家庭支援センター、子育て世帯包括支援センター"
+      },
+      "summary": "小笠原村では村内の福祉係内を子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+      "description": "子供家庭支援センター、子育て世帯包括支援センター\n小笠原村では福祉係内に設置しています。妊娠期も含め、子どもと子育て家庭に関する相談を受付け、その内容に応じて、医療機関や児童相談センターなどの関係機関と連携して支援等を行っています。",
+      "target": {
+        "targetPersons": "妊娠期も含め、子どもと子育て家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠期も含め、子どもと子育て家庭に関する相談を受付け、その内容に応じて、医療機関や児童相談センターなどの関係機関と連携して支援等を行っています。",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠期も含め、子どもと子育て家庭に関する相談を受付け、その内容に応じて、医療機関や児童相談センターなどの関係機関と連携して支援等を行っています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": "福祉係内"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "妊娠期も含め、子どもと子育て家庭",
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小笠原村村民課福祉係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/kosodate/",
+        "title": "子育て支援"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村村民課福祉係",
+        "contactPhone": "04998-2-3939",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+        "zipCode": "1002101",
+        "contactAddress": "東京都小笠原村父島字西町"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+1+UM110",
+        "organization": "6000020134210",
+        "compartment": "小笠原村村民課福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法、児童福祉法",
+        "regulationArticle": "第6条の3第6項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小笠原村の子育てに関する相談",
+        "shortName": "子育てに関する相談"
+      },
+      "summary": "生後4か月未満のお子さんのいるすべてのご家庭を保健師や助産師が訪問し、お子さんの健康状態の確認や体重測定、子育てに関する不安や悩みについてのご相談に応じるほか、子育てに関する情報誌のお届けや必要な子育て支援サービスの紹介などをおこないます。",
+      "description": "乳児家庭全戸訪問\n帰島後に保健師や助産師が家庭を訪問し、赤ちゃんの身体測定を行います。また子育てのお悩みやお母さんの体調のことなどの相談に応じます。",
+      "target": {
+        "targetPersons": "乳児家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "乳児家庭全戸訪問\n帰島後に保健師や助産師が家庭を訪問し、赤ちゃんの身体測定を行います。また子育てのお悩みやお母さんの体調のことなどの相談に応じます。",
+        "monetarySupport": null,
+        "materiallySupport": "乳児家庭全戸訪問\n帰島後に保健師や助産師が家庭を訪問し、赤ちゃんの身体測定を行います。また子育てのお悩みやお母さんの体調のことなどの相談に応じます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "乳児家庭全戸",
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小笠原村村民課福祉係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/kosodate/",
+        "title": "子育て支援"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村村民課福祉係",
+        "contactPhone": "04998-2-3939",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+        "zipCode": "1002101",
+        "contactAddress": "東京都小笠原村父島字西町"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+1+UM119",
+        "organization": "6000020134210",
+        "compartment": "小笠原村村民課福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+        "shortName": "乳児家庭全戸訪問"
+      },
+      "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+      "description": "帰島後に保健師や助産師が家庭を訪問し、赤ちゃんの身体測定を行います。また子育てのお悩みやお母さんの体調のことなどの相談に応じます。",
+      "target": {
+        "targetPersons": "対象家庭を訪問する時期は、乳児が生後４か月を迎えるまでの間とする。ただし、対象家庭の都合その他特に認める場合はその限りではない。",
+        "lessThan": {
+          "targetAge": 0,
+          "targetAgeOfMonths": 4
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": "2024-04-01",
+        "fromHM": null,
+        "toYMD": "2025-03-31",
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": "※対象家庭を訪問いたします。"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "役場（母島支所）にてご予約を受付しております。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": "2024-04-01",
+        "fromHM": null,
+        "toYMD": "2025-03-31",
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/kosodate/",
+        "title": "子育て支援"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村役場,母島支所",
+        "contactPhone": "04998-2-3939,04998-3-2111",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1002101,1002211",
+        "contactAddress": "東京都小笠原村父島字西町,東京都小笠原村母島字元地"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+1+UM14",
+        "organization": "6000020134210",
+        "compartment": "村民課福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2025/02/26",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第21条の10の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小笠原村の妊娠・出産に関する相談",
+        "shortName": "助産師相談室"
+      },
+      "summary": "小笠原村では、助産師が妊娠・出産等に関する相談に応じています。",
+      "description": "助産師相談室\n妊娠・出産、母乳相談、乳腺炎、育児相談、月経障害、妊活、更年期症状等すべての女性とその家族の相談に助産師が応じます。（要予約・有料）。詳しくは診療所にお問い合わせください。 お問合せ先　小笠原村診療所2‐3800　母島診療所3-2115",
+      "target": {
+        "targetPersons": "妊娠・出産、母乳相談、乳腺炎、育児相談、月経障害、妊活、更年期症状等すべての女性とその家族",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠・出産、母乳相談、乳腺炎、育児相談、月経障害、妊活、更年期症状等すべての女性とその家族の相談に助産師が応じます。（要予約・有料）。詳しくは診療所にお問い合わせください。 お問合せ先　小笠原村診療所2‐3800　母島診療所3-2115",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠・出産、母乳相談、乳腺炎、育児相談、月経障害、妊活、更年期症状等すべての女性とその家族の相談に助産師が応じます。（要予約・有料）。"
+      },
+      "cost": null,
+      "costConditions": "要予約・有料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "小笠原村診療所,母島診療所",
+        "implementationAddress": "小笠原村診療所 東京都小笠原村父島字清瀬,母島診療所 東京都小笠原村母島字元地"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "詳しくは診療所にお問い合わせください。 お問合せ先　小笠原村診療所2‐3800　母島診療所3-2115",
+      "procedurePersons": "妊娠・出産、母乳相談、乳腺炎、育児相談、月経障害、妊活、更年期症状等すべての女性とその家族の相談に助産師が応じます。（要予約・有料）。",
+      "procedureMethod": "詳しくは診療所にお問い合わせください。 お問合せ先　小笠原村診療所2‐3800　母島診療所3-2115",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小笠原村村民課福祉係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/kosodate/",
+        "title": "子育て支援"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村村民課福祉係",
+        "contactPhone": "04998-2-3939",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+        "zipCode": "1002101",
+        "contactAddress": "東京都小笠原村父島字西町"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+1+UM47",
+        "organization": "6000020134210",
+        "compartment": "小笠原村村民課福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月未満児）",
+        "shortName": "3,4か月検診"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として3か月児健康診査を実施しています。",
+      "description": "乳幼児健診\n小笠原村では3,4か月健診、6,7か月健診、9,10か月健診、1歳6か月健診、2歳6か月歯科健診、3歳児健診を実施しています。対象者には個別通知します。対象時期は目安ですので、詳しくは個別通知をご覧ください。",
+      "target": {
+        "targetPersons": "小笠原村では3,4か月健診、6,7か月健診、9,10か月健診、1歳6か月健診、2歳6か月歯科健診、3歳児健診を実施しています。対象者には個別通知します。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 3
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "小笠原村では3,4か月健診、6,7か月健診、9,10か月健診、1歳6か月健診、2歳6か月歯科健診、3歳児健診を実施しています。対象者には個別通知します。対象時期は目安ですので、詳しくは個別通知をご覧ください。",
+        "monetarySupport": null,
+        "materiallySupport": "小笠原村では3,4か月健診、6,7か月健診、9,10か月健診、1歳6か月健診、2歳6か月歯科健診、3歳児健診を実施しています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "対象者には個別通知します。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小笠原村村民課福祉係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/kosodate/",
+        "title": "子育て支援"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村村民課福祉係",
+        "contactPhone": "04998-2-3939",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+        "zipCode": "1002101",
+        "contactAddress": "東京都小笠原村父島字西町"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+1+UM49",
+        "organization": "6000020134210",
+        "compartment": "小笠原村村民課福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "6,７か月検診"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として乳幼児健康診査6か月から12か月児を実施しています。",
+      "description": "乳幼児健診\n小笠原村では3,4か月健診、6,7か月健診、9,10か月健診、1歳6か月健診、2歳6か月歯科健診、3歳児健診を実施しています。対象者には個別通知します。対象時期は目安ですので、詳しくは個別通知をご覧ください。",
+      "target": {
+        "targetPersons": "小笠原村では3,4か月健診、6,7か月健診、9,10か月健診、1歳6か月健診、2歳6か月歯科健診、3歳児健診を実施しています。対象者には個別通知します。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 7
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "小笠原村では3,4か月健診、6,7か月健診、9,10か月健診、1歳6か月健診、2歳6か月歯科健診、3歳児健診を実施しています。対象者には個別通知します。対象時期は目安ですので、詳しくは個別通知をご覧ください。",
+        "monetarySupport": null,
+        "materiallySupport": "小笠原村では3,4か月健診、6,7か月健診、9,10か月健診、1歳6か月健診、2歳6か月歯科健診、3歳児健診を実施しています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "対象者には個別通知します。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小笠原村村民課福祉係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/kosodate/",
+        "title": "子育て支援"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村村民課福祉係",
+        "contactPhone": "04998-2-3939",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+        "zipCode": "1002101",
+        "contactAddress": "東京都小笠原村父島字西町"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+1+UM50",
+        "organization": "6000020134210",
+        "compartment": "小笠原村村民課福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "1歳6か月児健康診査",
+        "shortName": "1歳6か月児健診"
+      },
+      "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。小笠原村では1歳6か月児健康診査を実施しています。",
+      "description": "乳幼児健診\n小笠原村では3,4か月健診、6,7か月健診、9,10か月健診、1歳6か月健診、2歳6か月歯科健診、3歳児健診を実施しています。対象者には個別通知します。対象時期は目安ですので、詳しくは個別通知をご覧ください。",
+      "target": {
+        "targetPersons": "小笠原村では3,4か月健診、6,7か月健診、9,10か月健診、1歳6か月健診、2歳6か月歯科健診、3歳児健診を実施しています。対象者には個別通知します。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "小笠原村では3,4か月健診、6,7か月健診、9,10か月健診、1歳6か月健診、2歳6か月歯科健診、3歳児健診を実施しています。対象者には個別通知します。対象時期は目安ですので、詳しくは個別通知をご覧ください。",
+        "monetarySupport": null,
+        "materiallySupport": "小笠原村では3,4か月健診、6,7か月健診、9,10か月健診、1歳6か月健診、2歳6か月歯科健診、3歳児健診を実施しています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "対象者には個別通知します。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小笠原村村民課福祉係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/kosodate/",
+        "title": "子育て支援"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村村民課福祉係",
+        "contactPhone": "04998-2-3939",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+        "zipCode": "1002101",
+        "contactAddress": "東京都小笠原村父島字西町"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+1+UM51",
+        "organization": "6000020134210",
+        "compartment": "小笠原村村民課福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "3歳児健康診査",
+        "shortName": "3歳児健診"
+      },
+      "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。小笠原村では3歳児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "乳幼児健診\n小笠原村では3,4か月健診、6,7か月健診、9,10か月健診、1歳6か月健診、2歳6か月歯科健診、3歳児健診を実施しています。対象者には個別通知します。対象時期は目安ですので、詳しくは個別通知をご覧ください。",
+      "target": {
+        "targetPersons": "小笠原村では3,4か月健診、6,7か月健診、9,10か月健診、1歳6か月健診、2歳6か月歯科健診、3歳児健診を実施しています。対象者には個別通知します。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "小笠原村では3,4か月健診、6,7か月健診、9,10か月健診、1歳6か月健診、2歳6か月歯科健診、3歳児健診を実施しています。対象者には個別通知します。対象時期は目安ですので、詳しくは個別通知をご覧ください。",
+        "monetarySupport": null,
+        "materiallySupport": "小笠原村では3,4か月健診、6,7か月健診、9,10か月健診、1歳6か月健診、2歳6か月歯科健診、3歳児健診を実施しています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "対象者には個別通知します。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小笠原村村民課福祉係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/kosodate/",
+        "title": "子育て支援"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村村民課福祉係",
+        "contactPhone": "04998-2-3939",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+        "zipCode": "1002101",
+        "contactAddress": "東京都小笠原村父島字西町"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+1+UM52",
+        "organization": "6000020134210",
+        "compartment": "小笠原村村民課福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "こども家庭センター",
+        "shortName": "子供家庭支援センター、子育て世帯包括支援センター"
+      },
+      "summary": "小笠原村の【子供家庭支援センター、子育て世帯包括支援センター】では、全ての妊産婦・子育て家庭に対する相談等への対応、サポートプランに基づく妊産婦の健康やこどもの養育に関する支援などを行っています。",
+      "description": "小笠原村では福祉係内に設置しています。妊娠期も含め、子どもと子育て家庭に関する相談を受付け、その内容に応じて、医療機関や児童相談センターなどの関係機関と連携して支援等を行っています。",
+      "target": {
+        "targetPersons": "支援センター事業の対象者は、村内に在住する又は在学する１８歳未満の児童及びその保護者並びに子どもと家庭の支援に関わる活動を行い又は行おうとする団体及び個人とする。ただし、村長が特に必要があると認めるときは、この限りでない。",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": 0
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": "2024-04-01",
+        "fromHM": null,
+        "toYMD": "2025-03-31",
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "小笠原村村民課福祉係",
+        "implementationAddress": "東京都小笠原村父島字西町、東京都小笠原村母島字元地"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:00",
+        "toHM": "17:30",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "日曜日及び土曜日、国民の祝日に関する法律（昭和２３年法律第１７８号）に規定する休日、１月２日及び１月３日並びに１２月２９日から１２月３１日までの日",
+      "utilization": "役場（母島支所）にてご予約を受付しております。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": "2024-04-01",
+        "fromHM": null,
+        "toYMD": "2025-03-31",
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/kosodate/",
+        "title": "子育て支援"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村役場,母島支所",
+        "contactPhone": "04998-2-3939,04998-3-2111",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1002101,1002211",
+        "contactAddress": "東京都小笠原村父島字西町,東京都小笠原村母島字元地"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+1+UM799",
+        "organization": "6000020134210",
+        "compartment": "村民課福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2025/02/26",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第10条の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小笠原村の子育てに関する相談",
+        "shortName": "子育てに関する相談"
+      },
+      "summary": "子育てに悩むご家族からの相談をお受けします。",
+      "description": "公認心理師による子育て相談\n公認心理師が年に２回来島し、子育ての個別相談に応じます。就学前のお子さんのくせやしつけ、いじめ、友達関係、発達障害などの相談をお受けしています。",
+      "target": {
+        "targetPersons": "就学前のお子さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "就学前のお子さん"
+      },
+      "support": {
+        "description": "公認心理師による子育て相談\n公認心理師が年に２回来島し、子育ての個別相談に応じます。就学前のお子さんのくせやしつけ、いじめ、友達関係、発達障害などの相談をお受けしています。",
+        "monetarySupport": null,
+        "materiallySupport": "公認心理師による子育て相談\n公認心理師が年に２回来島し、子育ての個別相談に応じます。就学前のお子さんのくせやしつけ、いじめ、友達関係、発達障害などの相談をお受けしています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小笠原村村民課福祉係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/kosodate/",
+        "title": "子育て支援"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村村民課福祉係",
+        "contactPhone": "04998-2-3939",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+        "zipCode": "1002101",
+        "contactAddress": "東京都小笠原村父島字西町"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+2+UM119",
+        "organization": "6000020134210",
+        "compartment": "小笠原村村民課福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "9,１０か月検診"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として乳幼児健康診査6か月から12か月児を実施しています。",
+      "description": "乳幼児健診\n小笠原村では3,4か月健診、6,7か月健診、9,10か月健診、1歳6か月健診、2歳6か月歯科健診、3歳児健診を実施しています。対象者には個別通知します。対象時期は目安ですので、詳しくは個別通知をご覧ください。",
+      "target": {
+        "targetPersons": "小笠原村では3,4か月健診、6,7か月健診、9,10か月健診、1歳6か月健診、2歳6か月歯科健診、3歳児健診を実施しています。対象者には個別通知します。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 10
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 9
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "小笠原村では3,4か月健診、6,7か月健診、9,10か月健診、1歳6か月健診、2歳6か月歯科健診、3歳児健診を実施しています。対象者には個別通知します。対象時期は目安ですので、詳しくは個別通知をご覧ください。",
+        "monetarySupport": null,
+        "materiallySupport": "小笠原村では3,4か月健診、6,7か月健診、9,10か月健診、1歳6か月健診、2歳6か月歯科健診、3歳児健診を実施しています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "対象者には個別通知します。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小笠原村村民課福祉係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/kosodate/",
+        "title": "子育て支援"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村村民課福祉係",
+        "contactPhone": "04998-2-3939",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+        "zipCode": "1002101",
+        "contactAddress": "東京都小笠原村父島字西町"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+2+UM50",
+        "organization": "6000020134210",
+        "compartment": "小笠原村村民課福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "2歳6か月児歯科検診",
+        "shortName": "2歳6か月児歯科検診"
+      },
+      "summary": "小笠原村では2歳6か月歯科検診を実施しています。",
+      "description": "乳幼児健診\n小笠原村では3,4か月健診、6,7か月健診、9,10か月健診、1歳6か月健診、2歳6か月歯科健診、3歳児健診を実施しています。対象者には個別通知します。対象時期は目安ですので、詳しくは個別通知をご覧ください。",
+      "target": {
+        "targetPersons": "小笠原村では3,4か月健診、6,7か月健診、9,10か月健診、1歳6か月健診、2歳6か月歯科健診、3歳児健診を実施しています。対象者には個別通知します。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 2,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "小笠原村では3,4か月健診、6,7か月健診、9,10か月健診、1歳6か月健診、2歳6か月歯科健診、3歳児健診を実施しています。対象者には個別通知します。対象時期は目安ですので、詳しくは個別通知をご覧ください。",
+        "monetarySupport": null,
+        "materiallySupport": "小笠原村では3,4か月健診、6,7か月健診、9,10か月健診、1歳6か月健診、2歳6か月歯科健診、3歳児健診を実施しています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "対象者には個別通知します。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小笠原村村民課福祉係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/kosodate/",
+        "title": "子育て支援"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村村民課福祉係",
+        "contactPhone": "04998-2-3939",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+        "zipCode": "1002101",
+        "contactAddress": "東京都小笠原村父島字西町"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+2+UM51",
+        "organization": "6000020134210",
+        "compartment": "小笠原村村民課福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小笠原村の子育てに関する相談",
+        "shortName": "子育てに関する相談"
+      },
+      "summary": "小笠原地区巡回児童相談として東京都児童相談センターの医師や児童心理司が来島して児童の健康に関する相談に応じます。また18歳までの愛の手帳取得のための相談・検査も行います。",
+      "description": "児童相談センター巡回相談\n小笠原地区巡回児童相談として東京都児童相談センターの医師や児童心理司が来島して児童の健康に関する相談に応じます。また18歳までの愛の手帳取得のための相談・検査も行います。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "児童相談センター巡回相談\n小笠原地区巡回児童相談として東京都児童相談センターの医師や児童心理司が来島して児童の健康に関する相談に応じます。また18歳までの愛の手帳取得のための相談・検査も行います。",
+        "monetarySupport": null,
+        "materiallySupport": "児童相談センター巡回相談\n小笠原地区巡回児童相談として東京都児童相談センターの医師や児童心理司が来島して児童の健康に関する相談に応じます。また18歳までの愛の手帳取得のための相談・検査も行います。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小笠原村村民課福祉係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/kosodate/",
+        "title": "子育て支援"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村村民課福祉係",
+        "contactPhone": "04998-2-3939",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+        "zipCode": "1002101",
+        "contactAddress": "東京都小笠原村父島字西町"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+3+UM119",
+        "organization": "6000020134210",
+        "compartment": "小笠原村村民課福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小笠原村の子育てに関する相談",
+        "shortName": "子育てに関する相談"
+      },
+      "summary": "妊娠や出産、育児に関する悩みを相談することができます。",
+      "description": "助産師相談室\n妊娠・出産、母乳相談、乳腺炎、育児相談、月経障害、妊活、更年期症状等すべての女性とその家族の相談に助産師が応じます。（要予約・有料）。詳しくは診療所にお問い合わせください。 お問合せ先　小笠原村診療所2‐3800　母島診療所3-2115",
+      "target": {
+        "targetPersons": "妊娠・出産、母乳相談、乳腺炎、育児相談、月経障害、妊活、更年期症状等すべての女性とその家族",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "助産師相談室\n妊娠・出産、母乳相談、乳腺炎、育児相談、月経障害、妊活、更年期症状等すべての女性とその家族の相談に助産師が応じます。（要予約・有料）。",
+        "monetarySupport": null,
+        "materiallySupport": "助産師相談室\n妊娠・出産、母乳相談、乳腺炎、育児相談、月経障害、妊活、更年期症状等すべての女性とその家族の相談に助産師が応じます。（要予約・有料）。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "小笠原村診療所,母島診療所",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小笠原村村民課福祉係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.ogasawara.tokyo.jp/sonmin/kosodate/",
+        "title": "子育て支援"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小笠原村村民課福祉係",
+        "contactPhone": "04998-2-3939",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "開庁時間：午前8時00分～午後5時15分（土曜日・日曜日、祝・休日を除く）",
+        "zipCode": "1002101",
+        "contactAddress": "東京都小笠原村父島字西町"
+      },
+      "area": {
+        "areaCode": "134210;小笠原村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020134210+4+UM119",
+        "organization": "6000020134210",
+        "compartment": "小笠原村村民課福祉係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-17",
+        "updater": "小笠原村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

@@ -1,0 +1,758 @@
+{
+  "version": "2025-07-10T02:38:54.145Z",
+  "areaCode": "133612",
+  "areaName": "大島町",
+  "category": "vaccination",
+  "count": 6,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "妊娠の届出・母子健康手帳の交付",
+        "shortName": "妊娠届出"
+      },
+      "summary": "妊娠がわかったら妊娠の届出をしてください。妊娠の届出をした妊婦さんに母子健康手帳を交付します。母子健康手帳は、妊娠からお子さんが小学校に入学するまでの、母と子の健康の記録です。育児、予防接種、健康診査などの際に必要となります。",
+      "description": "すべての妊婦さんが、できるだけ不安なく出産を迎え子育てに取り組めるよう、大島町では平成27年度から「出産・子育て応援事業」をスタートしました。\n\n妊娠届出\n妊娠の診断を受け、医師から母子手帳の交付を受けるよう言われたら、妊娠届出を行なってください。\n\n妊娠届出の際に保健師が面接をしますので、事前にお電話でご予約ください。\n（平日8時30分～17時00分、町役場本庁窓口のみ。当日連絡でも可。都合の合わない方はご相談ください）\n母子手帳と妊婦健康診査受診票が入った「母と子の保健バッグ」をお渡しします。妊婦健康診査受診票により、妊婦健診における一部の検査が無料で受けられます。\n\n妊娠・出産に関する不安（妊娠中の体調、島外での出産、出産費用、上の子への対応等）などありましたら、何でもご相談ください。\n\n\"育児パッケージ”のプレゼント\n子育てに役立つ\"育児パッケージ”をご用意しています。\nマタニティクラスで、または妊娠中期～後期に面接・訪問にてお渡しいたします。\nお楽しみに！",
+      "target": {
+        "targetPersons": "すべての妊婦さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "母子手帳と妊婦健康診査受診票が入った「母と子の保健バッグ」をお渡しします。妊婦健康診査受診票により、妊婦健診における一部の検査が無料で受けられます。",
+        "monetarySupport": "妊婦健康診査受診票により、妊婦健診における一部の検査が無料で受けられます。",
+        "materiallySupport": "母子手帳と妊婦健康診査受診票が入った「母と子の保健バッグ」をお渡しします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "町役場本庁窓口",
+        "implementationAddress": "東京都大島町元町1丁目1番14号"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "土曜・日曜・祝日・年末年始",
+      "utilization": "妊娠の診断を受け、医師から母子手帳の交付を受けるよう言われたら、妊娠届出を行なってください。\n妊娠届出の際に保健師が面接をしますので、事前にお電話でご予約ください。",
+      "procedurePersons": "妊娠の診断を受け、医師から母子手帳の交付を受けるよう言われた",
+      "procedureMethod": "妊娠届出の際に保健師が面接をしますので、事前にお電話でご予約ください。\n（平日8時30分～17時00分、町役場本庁窓口のみ。当日連絡でも可。都合の合わない方はご相談ください）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": "17:00",
+        "conditions": "（平日8時30分～17時00分、町役場本庁窓口のみ。当日連絡でも可。都合の合わない方はご相談ください）"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "福祉けんこう課けんこう係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.oshima.tokyo.jp/soshiki/kenkou/ninsin.html",
+        "title": "妊娠届出"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉けんこう課けんこう係",
+        "contactPhone": "04992-2-1482",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.oshima.tokyo.jp/soshiki/kenkou/ninsin.html",
+        "contactComment": " Fax：04992-2-4430",
+        "zipCode": "1000101",
+        "contactAddress": "東京都大島町元町１－１－１４"
+      },
+      "area": {
+        "areaCode": "133612;大島町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020133612+1+UM1",
+        "organization": "2000020133612",
+        "compartment": "福祉けんこう課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2015-11-26",
+      "odInformation": {
+        "updateDate": "2024-07-30",
+        "updater": "大島町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第15条（妊娠の届出）、第16条（母子健康手帳）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "077",
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関する教室・講習会",
+        "shortName": "ベビークラス"
+      },
+      "summary": "双子や三つ子など多胎児の、妊娠中や育児の悩みを話し合い、仲間作りの場となるベビークラスを開催しています。保健師による相談コーナーもあります。",
+      "description": "ベビークラスのご案内\n\n福祉けんこう課けんこう係では、3,4ヶ月から1歳未満の赤ちゃんを対象に、保健師、看護師、栄養士が交代でベビークラスを開催しています。\n\n赤ちゃんとのふれあい・遊びを通して、月齢に応じた赤ちゃんのお世話のしかたや環境づくり、離乳食などについて学ぶことができます。\n\n保護者どうしの交流の場にもなっていますので、ぜひご参加ください。\n\n対象者\n\\生後３、４ヶ月から１２ヶ月ころの赤ちゃんとその保護者\n\n主な内容\n保健師、看護師、栄養士：　ベビーマッサージ、絵本やおもちゃの紹介、予防接種や赤ちゃんの病気について、歯のお手入れ法、　離乳食や家族の食事について\n\n※いずれの回も身体計測できます。\n\n日時\n5月～3月　月1回予定　　※日程は広報でお知らせします。\n\n時間 : 10時半から11時半\n\n場所\n子ども家庭支援センター（野増）\n\n参加方法\n予約不要。\n当日、直接会場へお越しください。",
+      "target": {
+        "targetPersons": "生後３、４ヶ月から１２ヶ月ころの赤ちゃん　と　その保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後３、４ヶ月から１２ヶ月ころの赤ちゃん　と　その保護者"
+      },
+      "support": {
+        "description": "主な内容\n保健師、看護師、栄養士：　ベビーマッサージ、絵本やおもちゃの紹介、予防接種や赤ちゃんの病気について、歯のお手入れ法、　離乳食や家族の食事について\n\n※いずれの回も身体計測できます。",
+        "monetarySupport": null,
+        "materiallySupport": "主な内容\n保健師、看護師、栄養士：　ベビーマッサージ、絵本やおもちゃの紹介、予防接種や赤ちゃんの病気について、歯のお手入れ法、　離乳食や家族の食事について\n\n※いずれの回も身体計測できます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "10:30",
+        "toYMD": null,
+        "toHM": "11:30",
+        "conditions": "日時\n5月～3月　月1回予定　　※日程は広報でお知らせします。"
+      },
+      "implementationPlace": {
+        "implementationName": "子ども家庭支援センター（野増）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "予約不要。\n当日、直接会場へお越しください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.oshima.tokyo.jp/soshiki/kenkou/babyclass.html",
+        "title": "ベビークラスについて"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉けんこう課　けんこう係",
+        "contactPhone": "04992-2-1482",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.oshima.tokyo.jp/form/detail.php?sec_sec1=7&inq=03&lif_id=3807",
+        "contactComment": "Fax：04992-2-4430",
+        "zipCode": "1000101",
+        "contactAddress": "東京都大島町元町１－１－１４"
+      },
+      "area": {
+        "areaCode": "133612;大島町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020133612+1+UM103",
+        "organization": "2000020133612",
+        "compartment": "福祉けんこう課　けんこう係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2017-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-30",
+        "updater": "大島町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "学校教育法、児童福祉法",
+        "regulationArticle": "第24条、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児医療費（子ども医療費）の助成",
+        "shortName": "乳幼児及び義務教育就学児医療費助成制度（マル乳・マル子）"
+      },
+      "summary": "子どもの保健対策を充実し、子育て世帯の経済的負担を軽減するため、お子さんが病気やけがなどにより健康保険を使って医療機関で受診した場合、保険診療の自己負担分（2割または3割）の一部を助成しています。",
+      "description": "対象となる方\n大島町に住所があり健康保険に加入している子どもを養育する保護者\n\n乳幼児（マル乳）医療証…就学前児童（0歳から6歳到達後の最初の3月31日まで）\n義務教育就学児（マル子）医療証…小・中学生（6歳到達後の最初の4月1日から15歳到達後の最初の3月31日まで）\n対象とならない方\n児童福祉施設等に入所している\n生活保護を受けている\n里親に委託されている\n医療費の助成\n医療費のうち保険診療の自己負担分を助成します\n\nマル乳は2割助成（健康保険で8割給付）\nマル子は3割助成（健康保険で7割給付）\n助成の対象とならないもの\n入院時の食事療養標準負担額または生活標準負担額\n健康診断、予防接種、薬の容器代、差額ベッド代、文書料等\n他の医療費助成制度の助成対象となる医療費\n健康保険組合等による高額療養費・附加給付に該当する医療費\n保育園、学校での怪我等による、日本スポーツ振興センター法に基づく災害共済給付制度対象の医療費\n申請に必要なもの\n医療証交付申請書\n健康保険証の写し（対象児童分）\n父、母、対象児童のマイナンバーがわかるもの（マイナンバーカード、マイナンバー記載の住民票）\n申請者の本人確認書類（顔写真付きもの1点、または顔写真なし2点が必要です）\n還付申請するとき\n次のような場合には、福祉けんこう課または各出張所で手続きをしてください\n\n１．東京都外や医療証を取り扱わない医療機関での受診\n\n２．医療証発行前の受診、医療証を提示しなかった\n\n３．治療用装具を作った\n\n４．健康保険証を持たずに受診した（10割負担）\n\n申請に必要なもの\n・領収書の原本（氏名、保険点数等が明記されたもの）\n\n・対象児童の健康保険証\n\n・対象児童の医療証\n\n・申請者名義の通帳またキャッシュカード\n\n・印鑑\n\n・医師の診断書または作成指示書（申請理由　上記３の場合）\n\n・健康保険組合発行の支給決定通知書（申請理由　上記３．４の場合）\n\n※上記３・４の理由により健康保険組合に領収書の原本を提出する場合、予め領収書の写しを\n\nとり、領収書の写しを町役場へご提出ください。\n\nこんな時は手続きが必要です（変更・消滅・再交付）\n次のような場合は、医療証・健康保険証等をお持ちの上、福祉けんこう課または各出張所で手続きをしてください\n\n申請事項の変更\n大島町内で転居した\n申請者や児童の氏名を変更した\n加入している健康保険に変更があった\n他の医療費助成制度の対象となった\n医療証の再交付\n医療証が破れた、汚れた（※破損や汚損した医療証をご持参ください）\n医療証を紛失した\n受給資格の消滅\n大島町から転出することとなった\n生活保護を受けるようになった\n児童が児童福祉施設に入所または里親に委託されるようになった\n児童を監護しなくなった\n対象児童が亡くなった\n医療証の更新\n毎年10月1日に医療証を更新します。新しい医療証は9月下旬に郵送します。\n\n10月を過ぎても医療証が届かない場合は福祉けんこう課へご連絡ください。",
+      "target": {
+        "targetPersons": "大島町に住所があり健康保険に加入している子どもを養育する保護者\n乳幼児（マル乳）医療証…就学前児童（0歳から6歳到達後の最初の3月31日まで）\n義務教育就学児（マル子）医療証…小・中学生（6歳到達後の最初の4月1日から15歳到達後の最初の3月31日まで）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "対象となる方\n大島町に住所があり健康保険に加入している子どもを養育する保護者\n\n乳幼児（マル乳）医療証…就学前児童（0歳から6歳到達後の最初の3月31日まで）\n義務教育就学児（マル子）医療証…小・中学生（6歳到達後の最初の4月1日から15歳到達後の最初の3月31日まで）\n対象とならない方\n児童福祉施設等に入所している\n生活保護を受けている\n里親に委託されている"
+      },
+      "support": {
+        "description": "医療費のうち保険診療の自己負担分を助成します\nマル乳は2割助成（健康保険で8割給付）\nマル子は3割助成（健康保険で7割給付）",
+        "monetarySupport": "医療費のうち保険診療の自己負担分を助成します\nマル乳は2割助成（健康保険で8割給付）\nマル子は3割助成（健康保険で7割給付）",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:30",
+        "toHM": "17:15",
+        "condiutilizationConditionstions": "平日の午前8時30分から午後5時15分まで"
+      },
+      "specificDate": null,
+      "holiday": "土曜・日曜・祝日・年末年始",
+      "utilization": null,
+      "procedurePersons": "大島町に住所があり健康保険に加入している子どもを養育する保護者\n乳幼児（マル乳）医療証…就学前児童（0歳から6歳到達後の最初の3月31日まで）\n義務教育就学児（マル子）医療証…小・中学生（6歳到達後の最初の4月1日から15歳到達後の最初の3月31日まで）",
+      "procedureMethod": "・領収書の原本（氏名、保険点数等が明記されたもの）\n\n・対象児童の健康保険証\n\n・対象児童の医療証\n\n・申請者名義の通帳またキャッシュカード\n\n・印鑑\n\n・医師の診断書または作成指示書（申請理由　上記３の場合）\n\n・健康保険組合発行の支給決定通知書（申請理由　上記３．４の場合）\n\n※上記３・４の理由により健康保険組合に領収書の原本を提出する場合、予め領収書の写しを\n\nとり、領収書の写しを町役場へご提出ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": "17:15",
+        "conditions": "平日の午前8時30分から午後5時15分まで（土曜・日曜・祝日・年末年始を除く）"
+      },
+      "electronicSubmission": false,
+      "belongings": "医療証交付申請書\n健康保険証の写し（対象児童分）\n父、母、対象児童のマイナンバーがわかるもの（マイナンバーカード、マイナンバー記載の住民票）\n申請者の本人確認書類（顔写真付きもの1点、または顔写真なし2点が必要です）\n還付申請するとき\n次のような場合には、福祉けんこう課または各出張所で手続きをしてください\n\n１．東京都外や医療証を取り扱わない医療機関での受診\n\n２．医療証発行前の受診、医療証を提示しなかった\n\n３．治療用装具を作った\n\n４．健康保険証を持たずに受診した（10割負担）\n\n申請に必要なもの\n・領収書の原本（氏名、保険点数等が明記されたもの）\n\n・対象児童の健康保険証\n\n・対象児童の医療証\n\n・申請者名義の通帳またキャッシュカード\n\n・印鑑\n\n・医師の診断書または作成指示書（申請理由　上記３の場合）\n\n・健康保険組合発行の支給決定通知書（申請理由　上記３．４の場合）\n\n※上記３・４の理由により健康保険組合に領収書の原本を提出する場合、予め領収書の写しを\n\nとり、領収書の写しを町役場へご提出ください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "福祉けんこう課子育て応援係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.oshima.tokyo.jp/soshiki/kenkou/iryouhi-marunyuu-maruko1.html",
+        "title": "乳幼児及び義務教育就学児医療費助成制度（マル乳・マル子）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉けんこう課子育て応援係",
+        "contactPhone": "04992-2-1471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.oshima.tokyo.jp/form/detail.php?sec_sec1=7&lif_id=8494",
+        "contactComment": "Fax：04992-2-4430",
+        "zipCode": "1000101",
+        "contactAddress": "東京都大島町元町１－１－１４"
+      },
+      "area": {
+        "areaCode": "133612;大島町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020133612+1+UM23",
+        "organization": "2000020133612",
+        "compartment": "福祉けんこう課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-08-04",
+      "odInformation": {
+        "updateDate": "2024-07-23",
+        "updater": "大島町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "大島町乳幼児の医療費の助成に関する条例",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "ひとり親家庭医療費助成",
+        "shortName": "ひとり親家庭等医療費助成制度（マル親）"
+      },
+      "summary": "ひとり親家庭の母または父、および、そのお子さんの医療費に対して助成を行います。",
+      "description": "制度の目的\nひとり親家庭等に対し、医療費の一部を助成することにより、ひとり親家庭等の保健の向上や福祉の増進を図ることを目的とします\n\n対象となる方\n大島町に住所を有し、次のいずれかに該当する18歳到達後の最初の3月31日までの児童（児童が政令で定める程度の障害を有する場合は20歳未満まで）とその児童を扶養している方\n\n父母が離婚した児童\n父または母が死亡した児童\n父または母が生死不明である児童\n父または母が法令により1年以上拘禁されている児童\n父または母に1年以上遺棄されている児童\n父または母が裁判所からのDV保護命令を受けた児童\n父または母が重度の障害（身体障害者手帳1～2級程度）を有する児童\n婚姻によらないで出生し、父または母から扶養されていない児童\n対象とならない方\n児童が児童福祉施設等に入所している\n生活保護を受給している\n児童が父及び父の配偶者または母及び母の配偶者と生計を同じくしている\n申請者及び扶養義務者の前々年の所得が所得制限以上\n所得制限\n所得制限限度額\n\n|扶養親族等の数|ひとり親家庭等の母または父<br>及び養育者（孤児以外を養育）|配偶者、扶養義務者<br><br>及び養育者（孤児等を養育）|\n|:----|:----|:----|\n|0人|192万円|236万円|\n|1人|230万円|274万円|\n|2人|268万円|312万円|\n|3人|306万円|350万円|\n|4人|344万円|388万円|\n\n※扶養親族が上記の人数以上の場合、1人につき38万円を加算した額となります\n※扶養義務者とは、申請者と同居している親族（申請者の親、兄弟、子等）が該当します\n※支給要件が離婚や未婚に該当し、児童の父（申請者が父の場合は母）から養育費を受けた場合は、その80％を所得として算定します\n\n医療費の助成\n住民税課税世帯（負担者番号81136566）自己負担（3割）のうち3分の2を助成\n\n住民税非課税世帯（負担者番号81137564）自己負担（3割）を全額助成\n\n助成の対象とならないもの\n入院時の食事療養標準負担額または生活標準負担額\n健康保険対象外経費（検診料、予防接種、文書料、薬の容器代、差額ベット代等）\n加入する健康保険が支給する医療費（高額医療費等）\n学校や保育園での怪我等で、日本スポーツ振興センター法適用の医療費\n申請に必要なもの\n福祉けんこう課または各出張所にて、ひとり親家庭等医療証交付申請書に次の必要書類等を添えてご提出ください\n\n健康保険証（申請者及び支給対象児童分）\n認定調書\n戸籍謄本（申請者及び支給対象児童分）\n養育費等に関する申告書\n申請者の本人確認書類（顔写真付き1点、または顔写真なし2点）\nマイナンバーがわかるもの（申請者、配偶者〔父母障害のみ〕、対象児童、扶養義務者）\n※支給要件によっては他の書類が必要となる場合があります。\n\n還付申請するとき\n次のような場合には、福祉けんこう課または各出張所で手続きをしてください\n\n東京都外や医療証を取り扱わない医療機関での受診\n医療証発行前の受診、医療証を提示しなかった\n治療用装具を作った\n健康保険証を持たずに受診した（10割負担）\n申請に必要なもの\n・領収書の原本（氏名、保険点数等が明記されたもの）\n\n・対象者の健康保険証\n\n・対象者の医療証\n\n・申請者名義の通帳またはキャッシュカード\n\n・印鑑\n\n・医師の診断書または作成指示書（申請理由上記３の場合）\n\n・健康保険組合発行の支給決定通知書（申請理由上記３・４の場合）\n\n※上記３．４の理由により健康保険組合に領収書の原本を提出する場合、予め領収書の写しをとり、\n\n領収書の写しを町役場へご提出ください\n\nこんな時は手続きが必要です（変更・消滅・再交付）\n次のような場合は、医療証・健康保険証等をお持ちの上、福祉けんこう課または各出張所で手続きをしてください\n\n申請事項の変更\n大島町内で転居した\n申請者や児童の氏名を変更した\n加入している健康保険に変更があった\n同居親族に変更があった（新たに同居した、別居した等）\n医療証の再交付\n医療証が破れた、汚れた（※破損や汚損した医療証をご持参ください）\n医療証を紛失した\n受給資格の消滅\n大島町から転出することとなった\n婚姻等によりひとり親家庭等でなくなった（※事実上婚姻と同様の状態の場合を含む）\n生活保護を受けるようになった\n児童が児童福祉施設に入所または里親に委託されるようになった\n児童を監護しなくなった\n受給者または対象児童が亡くなった\n医療証の更新について\n本制度の医療証は、毎年1月1日に更新します。対象の方には書類を郵送いたしますので期間内に提出してください。\n審査の結果、引き続き受給資格のある方につきましては、12月下旬に医療証を送付いたします。（現況届が提出されない場合は、医療証が交付されませんので、すみやかに提出してください。）",
+      "target": {
+        "targetPersons": "大島町に住所を有し、次のいずれかに該当する18歳到達後の最初の3月31日までの児童（児童が政令で定める程度の障害を有する場合は20歳未満まで）とその児童を扶養している方\n\n父母が離婚した児童\n父または母が死亡した児童\n父または母が生死不明である児童\n父または母が法令により1年以上拘禁されている児童\n父または母に1年以上遺棄されている児童\n父または母が裁判所からのDV保護命令を受けた児童\n父または母が重度の障害（身体障害者手帳1～2級程度）を有する児童\n婚姻によらないで出生し、父または母から扶養されていない児童",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "対象となる方\n大島町に住所を有し、次のいずれかに該当する18歳到達後の最初の3月31日までの児童（児童が政令で定める程度の障害を有する場合は20歳未満まで）とその児童を扶養している方\n\n父母が離婚した児童\n父または母が死亡した児童\n父または母が生死不明である児童\n父または母が法令により1年以上拘禁されている児童\n父または母に1年以上遺棄されている児童\n父または母が裁判所からのDV保護命令を受けた児童\n父または母が重度の障害（身体障害者手帳1～2級程度）を有する児童\n婚姻によらないで出生し、父または母から扶養されていない児童\n対象とならない方\n児童が児童福祉施設等に入所している\n生活保護を受給している\n児童が父及び父の配偶者または母及び母の配偶者と生計を同じくしている\n申請者及び扶養義務者の前々年の所得が所得制限以上"
+      },
+      "support": {
+        "description": "医療費の助成\n住民税課税世帯（負担者番号81136566）自己負担（3割）のうち3分の2を助成\n\n住民税非課税世帯（負担者番号81137564）自己負担（3割）を全額助成",
+        "monetarySupport": "医療費の助成\n住民税課税世帯（負担者番号81136566）自己負担（3割）のうち3分の2を助成\n\n住民税非課税世帯（負担者番号81137564）自己負担（3割）を全額助成",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:30",
+        "toHM": "17:15",
+        "condiutilizationConditionstions": "平日の午前8時30分から午後5時15分まで"
+      },
+      "specificDate": null,
+      "holiday": "土曜・日曜・祝日・年末年始",
+      "utilization": null,
+      "procedurePersons": "対象となる方\n大島町に住所を有し、次のいずれかに該当する18歳到達後の最初の3月31日までの児童（児童が政令で定める程度の障害を有する場合は20歳未満まで）とその児童を扶養している方\n\n父母が離婚した児童\n父または母が死亡した児童\n父または母が生死不明である児童\n父または母が法令により1年以上拘禁されている児童\n父または母に1年以上遺棄されている児童\n父または母が裁判所からのDV保護命令を受けた児童\n父または母が重度の障害（身体障害者手帳1～2級程度）を有する児童\n婚姻によらないで出生し、父または母から扶養されていない児童",
+      "procedureMethod": "福祉けんこう課または各出張所にて、ひとり親家庭等医療証交付申請書に次の必要書類等を添えてご提出ください\n\n健康保険証（申請者及び支給対象児童分）\n認定調書\n戸籍謄本（申請者及び支給対象児童分)\n養育費等に関する申告書\n申請者の本人確認書類（顔写真付き1点、または顔写真なし2点）\nマイナンバーがわかるもの（申請者、配偶者〔父母障害のみ〕、対象児童、扶養義務者）\n※支給要件によっては他の書類が必要となる場合があります。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": "17:15",
+        "conditions": "平日の午前8時30分から午後5時15分まで　（土曜・日曜・祝日・年末年始を除く）"
+      },
+      "electronicSubmission": false,
+      "belongings": "福祉けんこう課または各出張所にて、ひとり親家庭等医療証交付申請書に次の必要書類等を添えてご提出ください\n\n健康保険証（申請者及び支給対象児童分）\n認定調書\n戸籍謄本（申請者及び支給対象児童分）\n養育費等に関する申告書\n申請者の本人確認書類（顔写真付き1点、または顔写真なし2点）\nマイナンバーがわかるもの（申請者、配偶者〔父母障害のみ〕、対象児童、扶養義務者）\n※支給要件によっては他の書類が必要となる場合があります。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "福祉けんこう課子育て応援係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.oshima.tokyo.jp/soshiki/kenkou/oya.html",
+        "title": "ひとり親家庭等医療費助成制度（マル親）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉けんこう課子育て応援係",
+        "contactPhone": "04992-2-1471",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.town.oshima.tokyo.jp/form/detail.php?sec_sec1=7&lif_id=8494",
+        "contactComment": "Fax：04992-2-4430",
+        "zipCode": "1000101",
+        "contactAddress": "東京都大島町元町１－１－１４"
+      },
+      "area": {
+        "areaCode": "133612;大島町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020133612+1+UM27",
+        "organization": "2000020133612",
+        "compartment": "福祉けんこう課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-11-08",
+      "odInformation": {
+        "updateDate": "2024-07-23",
+        "updater": "大島町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "大島町ひとり親家庭等の医療費の助成に関する条例",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "こどもの予防接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "予防接種について\n子どもの定期予防接種として、ヒブ（インフルエンザ菌b型）、小児用肺炎球菌、四種混合（DPT-Ipv：ジフテリア・百日せき・破傷風・ポリオ）、二種混合（DT：ジフテリア・破傷風）、麻しん（はしか）風しん混合（MR）、水痘（水ぼうそう）、ＢＣＧ、日本脳炎、子宮頸がん、B型肝炎、ロタウイルスの予防接種を行っています。\n\n乳幼児がかかる病気でもっとも多いのがさまざまな感染症です。ワクチンは、病原体に対する免疫をつくることで、発症をおさえたり罹っても症状を軽くしたりし、命の危険や重い後遺症が残ることもある感染症から子どもたちを守ってきています。また、本人が病気にかからないようにするだけでなく、周りの人々や次の世代での感染症を防ぐ効果もあります。予防接種について正しく理解し、計画的に接種してください。\n\n定期予防接種一覧\n大島町では、すべての予防接種が『個別接種』となっています。\n標準的な接種年齢を迎えるころに、ご自宅へ個別にお知らせと予診票をお送りしていますので、各自ご予約のうえ、接種してください。\n\n紛失、見合わせなどで予診票が足りない方は、母子手帳をお持ちの上、福祉けんこう課窓口へお越しください。\n標準的な接種年齢を超えても定期接種として無料で接種できることがありますので、受けそびれていた方、中断していた方もお気軽にご相談ください。\n\nこどもの予防接種一覧表 [PDFファイル／190KB];https://www.town.oshima.tokyo.jp/uploaded/attachment/5906.pdf\n\n予防接種チェック表 [PDFファイル／120KB];https://www.town.oshima.tokyo.jp/uploaded/attachment/5904.pdf\n\n※日本脳炎の予防接種につきましては、平成17年度～平成22年度まで厚生労働省により積極的勧奨が差し控えられていたため、平成7年4月2日～平成19年4月1日生まれの方は「経過措置対象者」として20歳の誕生日前日まで定期接種として無料で接種できます。（経過措置者への第2期ご案内は、高校3年生相当18歳を迎える方へお送りします。）平成19年度以降に生まれた方へは、接種年齢に個別にお知らせしています。\n\n※HPVワクチン（子宮頸がん予防ワクチン）は平成25年6月14日から定期接種の積極的勧奨を差し控えてきましたが、第72回厚生科学審議会予防接種・ワクチン分科会副反応検討部会において、最新の知見を踏まえ、改めてHPVワクチンの安全性について特段の懸念が認められないこと、接種による有効性がリスクを明らかに上回ることが認められたため、令和4年4月よりHPVワクチン定期接種の積極的勧奨が再開されることとなりました。\n\n厚生労働省HPヒトパピローマウイルス感染症（外部サイトヘリンク）;https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou28/index.html\n\n※大島町ではおたふくかぜワクチンの予防接種費用の全額助成を開始しました。おたふくかぜ予防接種は予防接種法に基づいた定期接種ではなく任意接種です。保護者希望のもと、接種が行われるものとなります。ご希望の方は、説明書をよくお読みになり、医師と相談の上接種してください。\n\nおたふくかぜ（流行性耳下腺炎）ワクチン;https://www.town.oshima.tokyo.jp/soshiki/kenkou/otahuku.html\n\n接種間隔について\n\n「～日以上の間隔をおいて」という場合、接種間隔の起算日は接種した日の翌日です。\n\n6日以上の間隔をおく＝接種した一週間後の同じ曜日から接種できます。\n\n27日以上の間隔をおく＝4週間後の同じ曜日から接種できます。\n\n〈異なる予防接種の接種間隔の変更について〉\n\n令和2年10月より、異なる予防接種の接種間隔が変更されました。\n\n予防接種の種類や接種間隔について、詳しくは厚生労働省ホームページをご覧ください。\n\n異なる予防接種の接種間隔（外部リンク）;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou03/rota_index_00003.html\n\n大島町に転入された場合\n\n母子健康手帳を持参のうえ、福祉けんこう課けんこう係までお越しください。予防接種の説明と予診票をお渡しします。\n\n副反応と健康被害の救済について\n\n予防接種を受けた後、ワクチンの種類にもよりますが発熱、接種局部の腫れ、しこり、発疹などが比較的高い頻度で認められます。通常は数日以内に自然と治ります。\n\nしかし、接種局部のひどい腫れ、高熱、ひきつけなどの症状があったら医師の診察を受けてください。ワクチンの種類によっては極めてまれですが脳炎や神経障害などの重篤な副反応が生じることもあります。その場合、予防接種法に基づく健康被害救済制度の対象になります。（ただし、予防接種によるものなのか、別の要因によるものなのか、因果関係を国の審査会で審議し予防接種によるものと認定された場合に給付を受けることができます。）\n\n予防接種健康被害救済制度（外部リンク）;https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou20/kenkouhigai_kyusai/\n\n料金\n法律で定められた年齢の期間内であれば、無料。\nその期間を超えると自費となりますので、ご注意ください。\n\n実施医療機関\n|接種場所|接種日時|\n|:----|:----|\n|大島医療センター<br>小児科外来|祭日を除く毎週水曜日午後2時00分から<br>※接種予定日の１週間前までに予約が必要となります。<br>Tel２－２３４６（大島医療センター予約専用ダイヤル）<br><br>※ただし、BCGは第3水曜、13時15分～のみの受付となります。|\n",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "標準的な接種年齢を迎えるころに、ご自宅へ個別にお知らせと予診票をお送りしていますので、各自ご予約のうえ、接種してください。\n\n紛失、見合わせなどで予診票が足りない方は、母子手帳をお持ちの上、福祉けんこう課窓口へお越しください。\n標準的な接種年齢を超えても定期接種として無料で接種できることがありますので、受けそびれていた方、中断していた方もお気軽にご相談ください。"
+      },
+      "support": {
+        "description": "子どもの定期予防接種として、ヒブ（インフルエンザ菌b型）、小児用肺炎球菌、四種混合（DPT-Ipv：ジフテリア・百日せき・破傷風・ポリオ）、二種混合（DT：ジフテリア・破傷風）、麻しん（はしか）風しん混合（MR）、水痘（水ぼうそう）、ＢＣＧ、日本脳炎、子宮頸がん、B型肝炎、ロタウイルスの予防接種を行っています。",
+        "monetarySupport": "法律で定められた年齢の期間内であれば、無料。\nその期間を超えると自費となりますので、ご注意ください。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "法律で定められた年齢の期間内"
+      },
+      "implementationPlace": {
+        "implementationName": "大島医療センター\n小児科外来",
+        "implementationAddress": "東京都大島町元町3-2-9"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "14:00",
+        "toHM": null,
+        "condiutilizationConditionstions": "毎週水曜日午後2時00分から"
+      },
+      "specificDate": null,
+      "holiday": "祭日",
+      "utilization": "大島町では、すべての予防接種が『個別接種』となっています。\n標準的な接種年齢を迎えるころに、ご自宅へ個別にお知らせと予診票をお送りしていますので、各自ご予約のうえ、接種してください。",
+      "procedurePersons": null,
+      "procedureMethod": "標準的な接種年齢を迎えるころに、ご自宅へ個別にお知らせと予診票をお送りしていますので、各自ご予約のうえ、接種してください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "14:00",
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "祭日を除く毎週　水曜日　午後2時00分から\n※接種予定日の１週間前までに予約が必要となります。\nTel２－２３４６（大島医療センター予約専用ダイヤル）\n\n※ただし、BCGは第3水曜、13時15分～のみの受付となります。"
+      },
+      "electronicSubmission": false,
+      "belongings": "予診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "大島医療センター\n小児科外来",
+      "relatedLink": [
+        {
+          "uri": "https://www.town.oshima.tokyo.jp/uploaded/attachment/5906.pdf   https://www.town.oshima.tokyo.jp/uploaded/attachment/5904.pdf  https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou28/index.html  https://www.town.oshima.tokyo.jp/soshiki/kenkou/otahuku.html   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou03/rota_index_00003.html  https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou20/kenkouhigai_kyusai/",
+          "title": "こどもの予防接種一覧表 [PDFファイル／190KB]"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.town.oshima.tokyo.jp/soshiki/kenkou/vaccination.html",
+        "title": "こどもの予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "大島医療センター",
+        "contactPhone": "04992-2-2345",
+        "contactEx": "Tel２－２３４６（大島医療センター予約専用ダイヤル）",
+        "contactEmail": null,
+        "contactUrl": "https://www.town.oshima.tokyo.jp/form/detail.php?sec_sec1=7&inq=03&lif_id=9252",
+        "contactComment": "接種予定日の１週間前までに予約が必要となります。",
+        "zipCode": "1000101",
+        "contactAddress": "東京都大島町元町3-2-9"
+      },
+      "area": {
+        "areaCode": "133612;大島町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020133612+1+UM54",
+        "organization": "2000020133612",
+        "compartment": "福祉けんこう課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-23",
+        "updater": "大島町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "任意予防接種",
+        "shortName": "こどもの予防接種"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。\nこのうち大島町では、次の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+      "description": "予防接種について\n子どもの定期予防接種として、ヒブ（インフルエンザ菌b型）、小児用肺炎球菌、四種混合（DPT-Ipv：ジフテリア・百日せき・破傷風・ポリオ）、二種混合（DT：ジフテリア・破傷風）、麻しん（はしか）風しん混合（MR）、水痘（水ぼうそう）、ＢＣＧ、日本脳炎、子宮頸がん、B型肝炎、ロタウイルスの予防接種を行っています。\n\n乳幼児がかかる病気でもっとも多いのがさまざまな感染症です。ワクチンは、病原体に対する免疫をつくることで、発症をおさえたり罹っても症状を軽くしたりし、命の危険や重い後遺症が残ることもある感染症から子どもたちを守ってきています。また、本人が病気にかからないようにするだけでなく、周りの人々や次の世代での感染症を防ぐ効果もあります。予防接種について正しく理解し、計画的に接種してください。\n\n定期予防接種一覧\n大島町では、すべての予防接種が『個別接種』となっています。\n標準的な接種年齢を迎えるころに、ご自宅へ個別にお知らせと予診票をお送りしていますので、各自ご予約のうえ、接種してください。\n\n紛失、見合わせなどで予診票が足りない方は、母子手帳をお持ちの上、福祉けんこう課窓口へお越しください。\n標準的な接種年齢を超えても定期接種として無料で接種できることがありますので、受けそびれていた方、中断していた方もお気軽にご相談ください。\n\nこどもの予防接種一覧表 [PDFファイル／190KB];https://www.town.oshima.tokyo.jp/uploaded/attachment/5906.pdf\n\n予防接種チェック表 [PDFファイル／120KB];https://www.town.oshima.tokyo.jp/uploaded/attachment/5904.pdf\n\n※日本脳炎の予防接種につきましては、平成17年度～平成22年度まで厚生労働省により積極的勧奨が差し控えられていたため、平成7年4月2日～平成19年4月1日生まれの方は「経過措置対象者」として20歳の誕生日前日まで定期接種として無料で接種できます。（経過措置者への第2期ご案内は、高校3年生相当18歳を迎える方へお送りします。）平成19年度以降に生まれた方へは、接種年齢に個別にお知らせしています。\n\n※HPVワクチン（子宮頸がん予防ワクチン）は平成25年6月14日から定期接種の積極的勧奨を差し控えてきましたが、第72回厚生科学審議会予防接種・ワクチン分科会副反応検討部会において、最新の知見を踏まえ、改めてHPVワクチンの安全性について特段の懸念が認められないこと、接種による有効性がリスクを明らかに上回ることが認められたため、令和4年4月よりHPVワクチン定期接種の積極的勧奨が再開されることとなりました。\n\n厚生労働省HPヒトパピローマウイルス感染症（外部サイトヘリンク）;https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou28/index.html\n\n※大島町ではおたふくかぜワクチンの予防接種費用の全額助成を開始しました。おたふくかぜ予防接種は予防接種法に基づいた定期接種ではなく任意接種です。保護者希望のもと、接種が行われるものとなります。ご希望の方は、説明書をよくお読みになり、医師と相談の上接種してください。\n\nおたふくかぜ（流行性耳下腺炎）ワクチン;https://www.town.oshima.tokyo.jp/soshiki/kenkou/otahuku.html\n\n接種間隔について\n\n「～日以上の間隔をおいて」という場合、接種間隔の起算日は接種した日の翌日です。\n\n6日以上の間隔をおく＝接種した一週間後の同じ曜日から接種できます。\n\n27日以上の間隔をおく＝4週間後の同じ曜日から接種できます。\n\n〈異なる予防接種の接種間隔の変更について〉\n\n令和2年10月より、異なる予防接種の接種間隔が変更されました。\n\n予防接種の種類や接種間隔について、詳しくは厚生労働省ホームページをご覧ください。\n\n異なる予防接種の接種間隔（外部リンク）;https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou03/rota_index_00003.html\n\n大島町に転入された場合\n\n母子健康手帳を持参のうえ、福祉けんこう課けんこう係までお越しください。予防接種の説明と予診票をお渡しします。\n\n副反応と健康被害の救済について\n\n予防接種を受けた後、ワクチンの種類にもよりますが発熱、接種局部の腫れ、しこり、発疹などが比較的高い頻度で認められます。通常は数日以内に自然と治ります。\n\nしかし、接種局部のひどい腫れ、高熱、ひきつけなどの症状があったら医師の診察を受けてください。ワクチンの種類によっては極めてまれですが脳炎や神経障害などの重篤な副反応が生じることもあります。その場合、予防接種法に基づく健康被害救済制度の対象になります。（ただし、予防接種によるものなのか、別の要因によるものなのか、因果関係を国の審査会で審議し予防接種によるものと認定された場合に給付を受けることができます。）\n\n予防接種健康被害救済制度（外部リンク）;https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou20/kenkouhigai_kyusai/\n\n料金\n法律で定められた年齢の期間内であれば、無料。\nその期間を超えると自費となりますので、ご注意ください。\n\n実施医療機関\n|接種場所|接種日時|\n|:----|:----|\n|大島医療センター<br>小児科外来|祭日を除く毎週水曜日午後2時00分から<br>※接種予定日の１週間前までに予約が必要となります。<br>Tel２－２３４６（大島医療センター予約専用ダイヤル）<br><br>※ただし、BCGは第3水曜、13時15分～のみの受付となります。|\n",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "標準的な接種年齢を迎えるころに、ご自宅へ個別にお知らせと予診票をお送りしていますので、各自ご予約のうえ、接種してください。紛失、見合わせなどで予診票が足りない方は、母子手帳をお持ちの上、福祉けんこう課窓口へお越しください。標準的な接種年齢を超えても定期接種として無料で接種できることがありますので、受けそびれていた方、中断していた方もお気軽にご相談ください。"
+      },
+      "support": {
+        "description": "子どもの定期予防接種として、ヒブ（インフルエンザ菌b型）、小児用肺炎球菌、四種混合（DPT-Ipv：ジフテリア・百日せき・破傷風・ポリオ）、二種混合（DT：ジフテリア・破傷風）、麻しん（はしか）風しん混合（MR）、水痘（水ぼうそう）、ＢＣＧ、日本脳炎、子宮頸がん、B型肝炎、ロタウイルスの予防接種を行っています。",
+        "monetarySupport": "法律で定められた年齢の期間内であれば、無料。\nその期間を超えると自費となりますので、ご注意ください。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "法律で定められた年齢の期間内"
+      },
+      "implementationPlace": {
+        "implementationName": "大島医療センター\n小児科外来",
+        "implementationAddress": "東京都大島町元町3-2-9"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "14:00",
+        "toHM": null,
+        "condiutilizationConditionstions": "毎週水曜日午後2時00分から"
+      },
+      "specificDate": null,
+      "holiday": "祭日",
+      "utilization": "大島町では、すべての予防接種が『個別接種』となっています。\n標準的な接種年齢を迎えるころに、ご自宅へ個別にお知らせと予診票をお送りしていますので、各自ご予約のうえ、接種してください。",
+      "procedurePersons": null,
+      "procedureMethod": "標準的な接種年齢を迎えるころに、ご自宅へ個別にお知らせと予診票をお送りしていますので、各自ご予約のうえ、接種してください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "14:00",
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "祭日を除く毎週水曜日午後2時00分から\n※接種予定日の１週間前までに予約が必要となります。\nTel２－２３４６（大島医療センター予約専用ダイヤル）\n\n※ただし、BCGは第3水曜、13時15分～のみの受付となります。"
+      },
+      "electronicSubmission": false,
+      "belongings": "予診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "大島医療センター\n小児科外来",
+      "relatedLink": [
+        {
+          "uri": "https://www.town.oshima.tokyo.jp/uploaded/attachment/5906.pdf  https://www.town.oshima.tokyo.jp/uploaded/attachment/5904.pdf  https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou28/index.html  https://www.town.oshima.tokyo.jp/soshiki/kenkou/otahuku.html   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou03/rota_index_00003.html  https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou20/kenkouhigai_kyusai/",
+          "title": "こどもの予防接種一覧表 [PDFファイル／190KB]"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.town.oshima.tokyo.jp/soshiki/kenkou/vaccination.html",
+        "title": "こどもの予防接種"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "大島医療センター",
+        "contactPhone": "04992-2-2345",
+        "contactEx": "Tel２－２３４６（大島医療センター予約専用ダイヤル）",
+        "contactEmail": null,
+        "contactUrl": "https://www.town.oshima.tokyo.jp/form/detail.php?sec_sec1=7&inq=03&lif_id=9252",
+        "contactComment": "接種予定日の１週間前までに予約が必要となります。",
+        "zipCode": "1000101",
+        "contactAddress": "東京都大島町元町3-2-9"
+      },
+      "area": {
+        "areaCode": "133612;大島町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+2000020133612+1+UM55",
+        "organization": "2000020133612",
+        "compartment": "福祉けんこう課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-23",
+        "updater": "大島町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "小児任意予防接種費助成要綱",
+        "regulationArticle": "不明"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    }
+  ]
+}

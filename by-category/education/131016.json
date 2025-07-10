@@ -1,0 +1,667 @@
+{
+  "version": "2025-07-10T02:38:54.091Z",
+  "areaCode": "131016",
+  "areaName": "千代田区",
+  "category": "education",
+  "count": 5,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "小学校・中学校の就学援助費",
+        "shortName": "就学援助"
+      },
+      "summary": "経済的な理由により就学が困難と認められる、小学校・中学校に通学する児童・生徒の保護者を対象に、学用品費、修学旅行費、給食費などを支給します。",
+      "description": "区は、義務教育の円滑な実施を図るために、経済的な理由によって小・中学校への就学が困難な児童・生徒の保護者に対して、学用品費や給食費などを援助する「就学援助制度」を設けています。\n\n令和6年度就学援助の「お知らせ」および「申請書」の掲載\n令和6年度就学援助の「お知らせ」および「申請書」を以下に掲載しました。\n・令和6年度就学援助費のお知らせ（PDF：269KB）;https://www.city.chiyoda.lg.jp/documents/1273/oshirase_4.pdf\n・令和6年度就学援助費申請書（兼同意書）（PDF：299KB）;https://www.city.chiyoda.lg.jp/documents/1273/shinseisho_3.pdf、（エクセル：28KB）;https://www.city.chiyoda.lg.jp/documents/1273/shinseisho_3.xlsx\n・就学援助費申請書（兼同意書）記入見本（PDF：283KB）;https://www.city.chiyoda.lg.jp/documents/1273/shinseisho-mihon_3.pdf\n\n入学準備金\n令和6年度入学の方への案内です。\n就学援助費のうち、小・中学校の入学に必要な「新入学児童生徒学用品・通学用品購入費」を「入学準備金」として入学前に支給します。\n\n小学校入学準備金\n対象となる世帯\n次の1～4のすべてに該当する世帯が対象です。\n1.令和6年4月に小学校入学予定のお子様がいる世帯\n（注意） 該当世帯には、令和5年12月頃にご案内の郵送を予定しています。\n・小学校入学準備金の支給について（PDF：249KB）;https://www.city.chiyoda.lg.jp/documents/1273/shikyu.pdf\n・令和6年度入学 就学援助費申請書（兼同意書）小学校入学準備金用（PDF：275KB）;https://www.city.chiyoda.lg.jp/documents/1273/shinseisho.pdf、記入見本（PDF：277KB）;https://www.city.chiyoda.lg.jp/documents/1273/shinseisho-mihon.pdf\n2.令和6年1月1日現在、千代田区に住民登録のある世帯\n3.令和4年中の世帯所得が基準未満の世帯\n4.生活保護を受給していない世帯\n（注意） 生活保護受給世帯には、入学準備金は保護費から支給されます。\n\n中学校入学準備金\n「令和5年度就学援助（準要保護）」認定を受けている中学校新1年生（現在小学校6年生）については、中学校入学準備金の支給対象となります。改めて申請をする必要はありません。\n（注意） 就学援助の認定を受けていない方で、入学前支給をご希望の方は申請が必要です。認定を受けた場合、他の費目は申請月からの支給となります。",
+      "target": {
+        "targetPersons": "千代田区に住み、小・中学校に在籍する児童・生徒の保護者で下記1、2のどちらかに該当する方\n1.生活保護を受けている方\n2.生活保護は受けていないが、これに準ずると教育委員会が認める方（前年の世帯所得が基準未満の世帯）\n（注意） 対象となる学校は、学校教育法第1条に規定する小・中学校、義務教育学校、中等教育学校（前期課程）です。インターナショナルスクールやフリースクールなどは対象になりません。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "1.学用品・通学用品購入費\n2.新入学児童生徒学用品・通学用品購入費\n3.校外活動費（宿泊なし）\n4.移動教室参加費（宿泊あり）\n5.夏季施設参加費（宿泊あり）\n6.修学旅行費（中学校のみ）\n7.学校給食費\n8.卒業アルバム費\n9.医療費\n（注意） 生活保護費など他の援助費から支給される費目については、就学援助では支給されません。",
+        "monetarySupport": "1.学用品・通学用品購入費\n2.新入学児童生徒学用品・通学用品購入費\n3.校外活動費（宿泊なし）\n4.移動教室参加費（宿泊あり）\n5.夏季施設参加費（宿泊あり）\n6.修学旅行費（中学校のみ）\n7.学校給食費\n8.卒業アルバム費\n9.医療費\n（注意） 生活保護費など他の援助費から支給される費目については、就学援助では支給されません。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "区立小・中学校へ通っている方には、学校を通じてご案内しています。区外の学校へ通学し、該当すると思われる方はお問い合わせください。",
+      "procedurePersons": null,
+      "procedureMethod": "毎年度申請が必要です。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/teate/shugaku.html",
+        "title": "就学援助"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部学務課学務係",
+        "contactPhone": "03-5211-4284",
+        "contactEx": null,
+        "contactEmail": "gakumu@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1028688",
+        "contactAddress": "東京都千代田区九段南1-2-1"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM126",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部学務課学務係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-02",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "学校教育法",
+        "regulationArticle": "第19条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "005"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "ままぱぱ学級"
+      },
+      "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、千代田区では助産師などによる妊娠、出産、育児などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+      "description": "これから、ままになる方、そのパートナーの方が、妊娠・出産・育児に向けて、ご家庭に応じた方法を考えられるよう、ままぱぱ学級を開催しています。\nいつでも気軽に見て学べる動画と、保健所で行う対面講座を開催しています。ぜひご参加ください。\n\n動画編\n\n1. 沐浴（もくよく）\n産後、すぐにままの体調は回復しません。そんな時にぱぱが手伝ってくれると「うれしい」という声が多いのが沐浴です。\n手が大きな男性は、沐浴の時に赤ちゃんが安定しやすく、泣かずに入ってくれることも多いです。もちろん、ままが入れる場合の工夫もご説明します。\nその他、千代田区で多いお家の環境的事情や、よくある質問も内容に入れて作成してありますのでぜひご覧ください。再生時間は10分程度です。\nyoutube;https://youtu.be/T4bVcUV7n9w?si=OoH-tdbEcysky18Y\n\n2. 育児\n妊娠したのがわかってから、出産、その後まで、やらなければいけない手続きをご説明します。\nまた、妊娠するとままの気持ちが不安定になる通称「マタニティーブルー」は、特別なことなのでしょうか。\nそして、ままだけではなく、パートナーの方も実は不安定になることも多いのを知っていますか。\nぜひご覧ください。再生時間は10分程度です。\nyoutube;https://youtu.be/1B2v7KCfQ2U?si=xjv0uH7iJwxfEuep\n\n対面講座編\n\nままぱぱ学級は、これからまま・ぱぱになる方が、安心して出産に臨み、育児していくために、妊娠期から産後の生活についてのイメージづくりができる教室です。ままとぱぱ一緒にぜひご参加ください。\nままだけ、ぱぱだけでも参加可能です。\n\n講師\n助産師\n\n実施内容\n・助産師による妊娠、出産に関する講義\n・沐浴デモンストレーション\n・赤ちゃん人形の抱っこ体験\n\n日程\n令和6年度の実施日、対象者および申込開始日\n\n|実施日|対象者の出産予定日|初産婦の方の申込開始日<br>（午前9時から開始）|経産婦の方の申込開始日<br>（午前9時から開始）|\n|:----|:----|:----|:----|\n|令和6年4月15日<br>（月曜日）|令和6年5月14日～9月30日に<br>出産予定の方|令和6年3月1日<br>（金曜日）|令和6年3月8日<br>（金曜日）|\n|令和6年6月15日<br>（土曜日）|令和6年7月14日～11月30日に<br>出産予定の方|令和6年5月1日<br>（水曜日）|令和6年5月8日<br>（水曜日）|\n|令和6年8月19日<br>（月曜日）|令和6年9月17日～令和7年2月3日に<br>出産予定の方|令和6年7月1日<br>（月曜日）|令和6年7月8日<br>（月曜日）|\n|令和6年10月19日<br>（土曜日）|令和6年11月17日～令和7年4月5日に<br>出産予定の方|令和6年9月2日<br>（月曜日）|令和6年9月9日<br>（月曜日）|\n|令和6年12月16日<br>（月曜日）|令和7年1月14日～令和8年6月2日に<br>出産予定の方|令和6年11月1日<br>（金曜日）|令和6年11月8日<br>（金曜日）|\n|令和7年2月15日<br>（土曜日）|令和7年3月16日～令和8年8月2日に<br>出産予定の方|令和7年1月6日<br>（月曜日）|令和7年1月13日<br>（月曜日）|\n\n注意事項\n\n以下の注意事項をご確認ください。\n・感染症予防のため、ご本人やご家族が発熱・咳・下痢・発疹等の症状がある場合は入場をお断りさせていただきます。別日への変更をお願いします。\n・来所の際にはマスクの着用にご協力ください。\n・予約キャンセル期限以降のキャンセルは千代田保健所（電話番号：03-5211-8175）にご連絡ください。",
+      "target": {
+        "targetPersons": "区内在住の妊婦さん（妊娠16週から35週6日まで）とそのパートナー\n（注意） 初産婦の方が優先です。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "妊娠16週から35週6日まで"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": "16組",
+      "utilizationTime": {
+        "fromHM": "13:30",
+        "toHM": "15:30",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "受付期間\n初産婦の方：開催月の前月1日から\n経産婦の方：初産婦の方の申込開始日より1週間後から\n（注意） いずれも上記が土曜日・日曜日・祝日の場合は翌営業日から予約受付を開始します。\n\nご予約はポータルサイトからお願いします。\nポータルサイト（外部サイトへリンク）;https://chiyoda-portal.my.site.com/ctz/topPage\n\nポータルサイトの利用方法については以下をご覧ください。\nポータルサイトの初回アカウント登録方法について（PDF：393KB）;https://www.city.chiyoda.lg.jp/documents/1291/torokuhoho.pdf\n\n・予約キャンセル期限以降のキャンセルは千代田保健所（電話番号：03-5211-8175）にご連絡ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/1291/torokuhoho.pdf",
+          "title": "ポータルサイトの初回アカウント登録方法について（PDF：393KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ninshin/mama-papagakkyu.html",
+        "title": "ままぱぱ学級"
+      },
+      "formLink": [
+        {
+          "uri": "https://chiyoda-portal.my.site.com/ctz/topPage",
+          "title": "ポータルサイト（外部サイトへリンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "千代田保健所保健サービス課保健相談係",
+        "contactPhone": "03-5211-8175",
+        "contactEx": null,
+        "contactEmail": "hokensoudan@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1020073",
+        "contactAddress": "東京都千代田区九段北1-2-14"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM31",
+        "organization": "8000020131016",
+        "compartment": "千代田保健所保健サービス課保健相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-04",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊娠・出産に関するその他のこと",
+        "shortName": "妊娠期の食生活"
+      },
+      "summary": "お腹の赤ちゃんとお母さんの健康のために、妊娠中は適切な体重増加が必要です。そのためには、バランスの良い食事をすることが大切です。妊娠中の食事のポイントを見ていきましょう。",
+      "description": "お腹の赤ちゃんとお母さんの健康のために、妊娠中は適切な体重増加が必要です。そのためには、バランスの良い食事をすることが大切です。妊娠中の食事のポイントを見ていきましょう。\n\n（注意） 本ページに添付されているファイル（PDF、画像など）は、千代田区ホームページ利用規約に関わらず、コンテンツの二次利用はできません。\n\n・何をどれだけ食べたらよいでしょうか\n・積極的にとりたい栄養素\n・必要な体重増加量\n・妊娠中に気をつけたいもの\n\n何をどれだけ食べたらよいでしょうか\n\n基本は1日3食バランスよく食べることです。主食・主菜・副菜がそろった食事がバランスのよい食事の目安となります。まずは、主食・主菜・副菜のそろった食事を1日に2食以上とるようにしてみましょう。さらに牛乳・乳製品と果物も1日の中でとるよう心がけましょう。\n\nイラスト：妊娠中の食べ物（ごはん・パン・麺など主食、肉・魚・卵など主菜、野菜・きのこなど副菜、牛乳など乳製品、リンゴなど果物）\n\n妊娠中期の食事の目安量\n\n・【主食】1食にご飯1杯（200グラム）、またはうどん、または食パン2枚（6枚切り）\n・【主菜】1食に肉料理（90グラムくらい）、または魚料理（70グラムくらい）、または卵1個を使った料理、または大豆製品（納豆1パックや豆腐100グラムくらい）を使った料理\n（注意） 朝昼晩で同じ種類の主菜にならないようにしましょう。\n・【副菜】1食に野菜の小鉢（70グラム）2つ\nみそ汁に野菜を入れて具沢山にするのもよいです。\n・【一日に】\n・果物（例 みかん1つ＋リンゴ2分の1個＋バナナ1本）\n・牛乳・乳製品（例 ヨーグルト1パック＋牛乳コップ半分）\n\n妊娠後期と授乳期は、さらにおにぎり1つと牛乳コップ半分程度を加えましょう。\n\n詳しくは「妊娠前からはじめる妊産婦のための食生活指針（厚生労働省）（PDF：1,565KB）」をご覧ください。\n\nつわりの時は食べられるものを食べ、こまめに水分補給をしましょう。冷たいものやさっぱりしたものが食べやすいです。\n\n一度に量を食べられない時は、おにぎりなど栄養のある間食で補うようにしましょう。\n\n積極的にとりたい栄養素\n\n・鉄\n妊娠中は赤ちゃんに十分な酸素や栄養を届けるために血液量が増加します。鉄は血液を作るために大切な栄養素です。\n・赤身の肉や魚、葉物野菜、大豆製品に多く含まれます。\nたんぱく質やビタミンCと一緒にとると吸収率がアップします。\n・葉酸\n葉酸は、お腹の赤ちゃんの成長や神経管閉鎖障害の発症リスクの低減のため、妊娠前と妊娠初期に特に重要なビタミンです。緑黄色野菜、果物、豆類に多く含まれます。\n医師の勧めでサプリメントも飲む場合も、30～64歳は1日あたり1,000マイクログラム、その他の年齢区分では900マイクログラムを超えないようにしましょう。\n・カルシウム\n赤ちゃんの骨や歯を作る大切な栄養素です。日本人は日頃から不足している人が多いので、しっかりとりましょう。牛乳・乳製品や緑黄色野菜、豆類、小魚などに多く含まれます。特に牛乳・乳製品は効率よくカルシウムをとることができます。\nカルシウムはビタミンDと一緒にとると吸収率がアップします。ビタミンDはきのこ類、卵、鮭、さんまなどの青背の魚に多いです。\n\n鉄・葉酸・カルシウムが多い食材（PDF：874KB）\n\n必要な体重増加量\n\n妊娠中は体重の管理も重要です。\n\nまずは妊娠前の体格（BMI）を知り、適切な体重増加量を確認してみましょう。\n\n（注意） BMI＝体重（キログラム）÷身長（メートル）÷身長（メートル）\n（例） 身長160センチメートルで体重50キログラム場合、BMI＝50÷1.6÷1.6＝19.5\n\n妊娠中の体重増加指導の目安（注意1）\n\n|妊娠前の体格区分（注意2）|体重増加量指導の目安|\n|:----|:----|\n|低体重（やせ） BMI18.5未満|12～15キログラム|\n|ふつう BMI18.5以上25.0未満|10～13キログラム|\n|肥満（1度） BMI25.0以上30.0未満|7～10キログラム|\n|肥満（2度以上） BMI30.0以上|個別対応（上限5キログラムまでが目安）|\n\n（注意1） 「増加量を厳格に指導する根拠は必ずしも十分ではないと認識し、個人差を考慮したゆるやかな指導を心がける。」産婦人科診療ガイドライン産科編2020 CQ010より\n（注意2） 日本肥満学会の肥満度分類に準じた。\n\n（出典） 厚生労働省：妊娠前からはじめる妊産婦のための食生活指針～妊娠前から、健康なからだづくりを～解説要領 2021\n\n赤ちゃんの成長だけでなく、胎盤や羊水、お母さんの血液や授乳に備えての貯蔵脂肪などが増える分、体重は増加します。ただ、妊娠中の急激な体重の増減はよくないので、食べすぎたり、ダイエットなどはしないようにしましょう。\n\n主治医の指示がある場合は従ってください。\n\n・体重増加量が少なすぎると\n早産や低体重児として生まれるリスクになります。\n赤ちゃんがお腹の中で栄養が足りない状態で生まれると、太りやすく、成人後に肥満や糖尿病などの生活習慣病を発症しやすくなるとされています。\n・体重増加量が多すぎると\n急激な体重増加は、妊娠糖尿病・妊娠高血圧症候群の発症リスクになります。\nまた、赤ちゃんが巨大児として生まれたり、成人後に肥満や生活習慣病を発症しやすくなるとされています。\n\n妊娠中に気をつけたいもの\n\n生もの、半生の食品に注意\n\n妊娠中は免疫機能が低下します。生ものや半生の食品は避け、生野菜などは十分に洗浄しましょう。\n\n食品は期限内に使用し、食べる前に十分に加熱しましょう。手洗いや調理器具の洗浄もしっかり行ってください。\n\n【特に避けた方がよいもの】\n\n生ハム、肉・魚のパテ、スモークサーモン、加熱殺菌していないナチュラルチーズ、生卵、生の貝類、生の肉など\n\n食べものについて知っておいてほしいこと（厚生労働省）（PDF：2,462KB）\n\nお魚のこと\n\n魚には、たんぱく質や鉄分、カルシウムなどが豊富に含まれるものが多いので、バランスよく食事に取り入れましょう。特にアジやサバなど青魚に含まれるDHAやEPAは中性脂肪やLDLコレステロールをさげる効果があります。\n\nただ、一部の大型の魚介類には水銀の量が多いものもあり、お腹の赤ちゃんに影響を与えることがあります。マグロやメカジキ、キンメダイなどは食べる量に気をつけましょう。\n\nお魚について知っておいてほしいこと（厚生労働省）（PDF：3,703KB）\n\nビタミンAのとり過ぎ\n\nビタミンAは赤ちゃんの発達に欠かせないものですが、過剰摂取によって妊娠初期（3か月頃）では先天奇形が増加することが報告されているため、レバーやあんきも、うなぎなどビタミンAが多く含まれている食品の継続的な大量摂取は避けましょう。サプリメントを利用する場合は、用量を守ってください。\n\n人参など色の濃い野菜に含まれるβ-カロテンは、体内で必要に応じてビタミンAに変換されるので、β-カロテンという形で積極的にとることをお勧めします。\n\nアルコール、たばこは止めましょう\n\n妊娠中は禁酒・禁煙が原則です。\n\n飲酒は、早産や妊娠高血圧症候群などのリスク増加に加え、赤ちゃんの発育不全などの胎児性アルコール・スペクトラム障害を引き起こす可能性があります。\n\nアルコールは母乳にも移行し、赤ちゃんの発達に影響を与えるため、授乳中も飲まないようにしましょう。\n\n喫煙は、早産や先天性疾患、死産などの増加が指摘されています。\n\nたばこは受動喫煙にも注意してください。子どもの発育障害や乳幼児突然死症候群のリスクが高くなる可能性があります。\n\n加熱式たばこもニコチンの含有や発がん性物質の発生が報告されています。\n\nカフェインのとり過ぎ\n\nカフェインを過剰摂取した場合、赤ちゃんの発達に影響を与える可能性があります。\n\nカフェインは、コーヒーやお茶、コーラ、チョコレートなどに含まれます。1日に飲むコーヒーは2杯くらいにしましょう。飲み物は、なるべくノンカフェインのものを利用し、チョコレートの食べすぎにも注意しましょう。\n\n「食事からのカフェインについて」 （東京都健康安全研究センター）（PDF：249KB）",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/27981/nimpu-shokuseikatsu.pdf",
+          "title": "妊娠前からはじめる妊産婦のための食生活指針（厚生労働省）（PDF：1"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/27981/nimpu-cafein.pdf",
+          "title": "462KB）"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/27981/nimpu-tabemono.pdf",
+          "title": "鉄・葉酸・カルシウムが多い食材（PDF：874KB）"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/27981/shokuzai.pdf",
+          "title": "565KB）"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/images/27981/shushoku-shusai-fukusai.jpg",
+          "title": "イラスト：妊娠中の食べ物（ごはん・パン・麺など主食、肉・魚・卵など主菜、野菜・きのこなど副菜、牛乳など乳製品、リンゴなど果物）"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/27981/nimpu-fish.pdf",
+          "title": "食べものについて知っておいてほしいこと（厚生労働省）（PDF：2"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ninshin/nimpu-shokuji.html",
+        "title": "妊娠期の食生活"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "千代田保健所保健サービス課保健サービス係（栄養担当）",
+        "contactPhone": "03-5211-8177",
+        "contactEx": null,
+        "contactEmail": "hoken-service@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1020073",
+        "contactAddress": "東京都千代田区九段北1-2-14"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM48",
+        "organization": "8000020131016",
+        "compartment": "千代田保健所保健サービス課保健サービス係（栄養担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "082"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "放課後子供教室",
+        "shortName": "放課後子ども教室"
+      },
+      "summary": "放課後の学校施設を活用した、在校するすべての児童が安全・安心に過ごせる居場所づくり事業です。区立8小学校において、専任の指導員が宿題や自主学習のサポート、健全な遊びの提供を行っています。",
+      "description": "・学び\n宿題やドリルなど持参した教材を用い、専任指導員の支援により自学自習の習慣を身につけます。\n・遊び\n児童が自主的に遊びやスポーツを楽しみます。専任指導員が、健全な遊びの指導、見守りを行います。\n・体験\nスポーツや文化に触れるプログラム活動です。内容は学校ごとに異なります（囲碁・一輪車・ドッヂビー・水泳など）。\n\n・保険\n放課後子ども教室の実施時間中のけがや事故には、放課後子ども教室保障制度（保険）を適用します（保険料は、区が負担します）。",
+      "target": {
+        "targetPersons": "放課後子ども教室を実施する小学校の在校生（1年生～6年生）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "無料",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": "登校日の月曜日～金曜日",
+        "fromHM": "放課後から",
+        "toYMD": null,
+        "toHM": "午後5時まで",
+        "conditions": "（注意）\n土曜日、日曜日、祝日、年末年始（12月29日～1月3日）は実施しません。その他、活動場所の都合などで実施困難な日は実施しない場合があります。\n新1年生の利用開始は、4月下旬～5月頃となります。詳細はおたよりでお知らせします。\n実施日の詳細は実施校ごとに異なります。"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "気象状況などにより、放課後子ども教室を臨時に閉室する場合があります。原則として、以下の基準に沿って判断します。\n教育委員会が、気象状況等により区立小学校を休校とした場合は、放課後子ども教室も閉室とします。\n前日までに1.の指示がない場合でも、当日午前6時の時点で特別警報または警報が千代田区に発令された場合は、区立小学校は休校となります。放課後子ども教室も閉室とします。\n学校登校日に、警報等の発令または発令が予想される場合は、各校で下校の判断をします。小学校が下校の判断をした場合には、当該小学校の放課後子ども教室も閉室とします。\nその他の場合で、開室・閉室の確認に関するお問い合わせは、児童・家庭支援センターへご連絡ください。|"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/226/hokagokodomokyoshitsu.pdf",
+          "title": "千代田区放課後子ども教室（PDF：534KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kyoikukatsudo/kodomokyoshitsu.html",
+        "title": "放課後子ども教室"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部児童・家庭支援センター子育て事業係",
+        "contactPhone": "03-5298-2424",
+        "contactEx": null,
+        "contactEmail": "jidousenta@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": "FAX：03-5298-0242",
+        "zipCode": "1010041",
+        "contactAddress": "東京都千代田区神田須田町1-4-4　PMO神田須田町4階"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM5028",
+        "organization": "8000020131016",
+        "compartment": "子ども部児童・家庭支援センター子育て事業係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/03/18",
+      "odInformation": {
+        "updateDate": "2025/02/05",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "離乳食講習会",
+        "shortName": "離乳食"
+      },
+      "summary": "生後６～７か月児の保護者を対象に、７から８か月ころの離乳食を中心に進め方・調理方法のお話と月齢ごとの離乳食の展示を行います。",
+      "description": "離乳食のきほん\n\n生後5～6か月になると、そろそろ離乳食の開始の時期です。\n赤ちゃんは生まれてすぐに、おっぱいやミルクを吸うことはできますが、「食べる」ということは学習して身についていきます。\n赤ちゃんは約1年間の離乳食で「食べること」を学び発達していきます。\n\n下記のレシピ本や動画をご参考にしてください。\n\n・離乳食サポートブック すすめ方とレシピ（PDF：3,945KB）;https://www.city.chiyoda.lg.jp/documents/6989/rinyushoku-sapoto.pdf\n・離乳食 調理の基本（外部サイトへリンク）;https://www.youtube.com/watch?v=2RBC_O_smWA\n・とりわけ離乳食（外部サイトへリンク）;https://www.youtube.com/watch?v=HbI5RWUR2U4\n\n離乳食講習会のご案内\n離乳中期への進め方や調理のポイント、むし歯予防と歯のお手入れについてお話します。\n\n参加される方へ\n\n椅子をご用意しています。お子さんをお連れの場合は、ベビーカーで横に座らせるか、抱っこでお聞きください。保護者の方お1人での参加も可能です。\n\n会場の都合上、対象児1名につき、保護者1名の参加をお願いしています。\n\n開催日および受付開始日一覧表\n\n|令和6年度の開催日|受付開始日|\n|:----|:----|\n|4月23日（火曜日）|4月1日（月曜日）|\n|5月21日（火曜日）|5月1日（水曜日）|\n|6月25日（火曜日）|6月1日（土曜日）|\n|7月30日（火曜日）|7月1日（月曜日）|\n|8月20日（火曜日）|8月1日（木曜日）|\n|9月24日（火曜日）|9月1日（日曜日）|\n|10月22日（火曜日）|10月1日（火曜日）|\n|11月26日（火曜日）|11月1日（金曜日）|\n|12月24日（火曜日）|12月1日（日曜日）|\n|1月21日（火曜日）|1月1日（水曜日）|\n|2月18日（火曜日）|2月1日（土曜日）|\n|3月18日（火曜日）|3月1日（土曜日）|",
+      "target": {
+        "targetPersons": "区内在住の6～7か月児の保護者（対象児1名に対し、保護者1名で参加をお願いします）\n対象の方には、案内はがきを送付します。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 7
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "13:30",
+        "toYMD": null,
+        "toHM": "14:30",
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "千代田保健所 3階多目的ルーム",
+        "implementationAddress": "九段北1-2-14"
+      },
+      "capacity": "20組（要予約）\n（注意） 事前申込のない方は参加できません。",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "はがきが届きましたら、ポータルサイトからお申し込みください（ご登録がまだの方はご登録をお願いします）。\n\n対象の方は、講習会がある月の1日から前々日23時59分まで申込できます（先着順）。\n\nキャンセルをする場合はポータルサイトから手続きをしてください。\n\n（注意） 満席になっていてもキャンセルにより空席が出る場合があります。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/rinyushoku.html",
+        "title": "離乳食"
+      },
+      "formLink": [
+        {
+          "uri": "https://chiyoda-portal.my.site.com/ctz/topPage",
+          "title": "ポータルサイト（外部サイトへリンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "千代田保健所保健サービス課保健サービス係（栄養担当）",
+        "contactPhone": "03-5211-8177",
+        "contactEx": null,
+        "contactEmail": "hoken-service@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1020073",
+        "contactAddress": "東京都千代田区九段北1-2-14"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM798",
+        "organization": "8000020131016",
+        "compartment": "千代田保健所保健サービス課保健サービス係（栄養担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-25",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

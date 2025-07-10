@@ -1,0 +1,2374 @@
+{
+  "version": "2025-07-10T02:38:54.132Z",
+  "areaCode": "132136",
+  "areaName": "東村山市",
+  "category": "medical",
+  "count": 18,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "先天性代謝異常等検査",
+        "shortName": "先天性代謝異常等検査（都事業）"
+      },
+      "summary": "東京都ではフェニルケトン尿症等の先天性代謝異常や先天性甲状腺機能低下症（クレチン症）などの内分泌疾患を早期に発見するために、先天性代謝異常等検査を行っています。\nこれらの疾患を放っておくと、生まれた時は健康に見えても、身体障害や知的障害が発生したり、時には生命の危険にさらされたりする場合もあります。しかし、疾患を早期に発見し、適切な治療を続けることで、障害などの発生を未然に防ぐことができます。",
+      "description": "先天性代謝異常等検査（都事業）\n先天性代謝異常等の疾患を早期に発見・治療するために新生児の血液検査をします。\n採血は、出産された医療機関で行い、検査は専門の検査機関で行います。\n\n都内で出産される場合\n検査の費用は東京都が負担します。ただし、採血にかかる費用（採血料）等は保護者の負担になります。\n出産された医療機関に用意してある「先天性代謝異常等検査申込書」に必要事項を記入し\n医療機関へ提出して下さい。\nなお、助産所や自宅などで出産された場合は、分娩に係わった機関に申し込んで下さい。\n\n都外で出産される場合\n里帰り先の道府県、政令市の制度が利用できます。申込み方法や費用等について、出産予定の道府県庁、政令市の母子保健事業担当係に直接お問い合わせください。\n\n詳細情報\n先天性代謝異常等検査について（東京都）;https://www.fukushi.metro.tokyo.lg.jp/kodomo//shussan/taisyaijou.html",
+      "target": {
+        "targetPersons": "新生児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "先天性代謝異常等の疾患を早期に発見・治療するために新生児の血液検査をします。\n採血は、出産された医療機関で行い、検査は専門の検査機関で行います。",
+        "monetarySupport": null,
+        "materiallySupport": "先天性代謝異常等の疾患を早期に発見・治療するために新生児の血液検査をします。\n採血は、出産された医療機関で行い、検査は専門の検査機関で行います。"
+      },
+      "cost": null,
+      "costConditions": "検査の費用は東京都が負担します。ただし、採血にかかる費用（採血料）等は保護者の負担になります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "・都内で出産される場合\n検査の費用は東京都が負担します。ただし、採血にかかる費用（採血料）等は保護者の負担になります。\n出産された医療機関に用意してある「先天性代謝異常等検査申込書」に必要事項を記入し\n医療機関へ提出して下さい。\nなお、助産所や自宅などで出産された場合は、分娩に係わった機関に申し込んで下さい。\n\n・都外で出産される場合\n里帰り先の道府県、政令市の制度が利用できます。申込み方法や費用等について、出産予定の道府県庁、政令市の母子保健事業担当係に直接お問い合わせください。\n\n詳細情報\n先天性代謝異常等検査について（東京都）;https://www.fukushi.metro.tokyo.lg.jp/kodomo//shussan/taisyaijou.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//shussan/taisyaijou.html",
+          "title": "先天性代謝異常等検査について（東京都）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/sodan/sentensei/boshi1-6.html",
+        "title": "先天性代謝異常等検査（都事業）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子ども保健・給付課",
+        "contactPhone": "042-393-5111",
+        "contactEx": "手当係：3604　母子保健第２係：3605",
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashimurayama.tokyo.jp/formmail.html?_div=029300&_pageid=1294&_name=子ども家庭部子ども保健・給付課",
+        "contactComment": "ファクス：手当係：042-394-7399　母子保健第１係・母子保健第２係：042-390-2270",
+        "zipCode": "1898501",
+        "contactAddress": "東村山市本町1丁目2番地3　いきいきプラザ2階（手当係：手当・子ども医療証について）　いきいきプラザ3階（母子保健第２係：予防接種、母子保健について）"
+      },
+      "area": {
+        "areaCode": "132136;東村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132136+1+UM10",
+        "organization": "1000020132136",
+        "compartment": "子ども家庭部子ども保健・給付課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-03-01",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "東村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦訪問",
+        "shortName": "妊産婦訪問指導"
+      },
+      "summary": "妊産婦の方（妊娠中または出産後1年以内）を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、妊娠期間中や出産後の不安や悩みについての相談等を行います。",
+      "description": "妊産婦訪問指導\n保健師または助産師が妊産婦のお宅に訪問し、安心して出産、育児に臨むことができるよう指導や相談を行なっています。\n\n対象者\n妊娠中、あるいは産後の健康状態・生活環境・疾病などの心配がある女性およびその家族",
+      "target": {
+        "targetPersons": "妊娠中、あるいは産後の健康状態・生活環境・疾病などの心配がある女性およびその家族",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "保健師または助産師が妊産婦のお宅に訪問し、安心して出産、育児に臨むことができるよう指導や相談を行なっています。",
+        "monetarySupport": null,
+        "materiallySupport": "保健師または助産師が妊産婦のお宅に訪問し、安心して出産、育児に臨むことができるよう指導や相談を行なっています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/ninshin/ninshin/boshi1-4.html",
+        "title": "妊産婦訪問指導"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子ども保健・給付課",
+        "contactPhone": "042-393-5111",
+        "contactEx": "手当係：3604　母子保健第２係：3605",
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashimurayama.tokyo.jp/formmail.html?_div=029300&_pageid=1294&_name=子ども家庭部子ども保健・給付課",
+        "contactComment": "ファクス：手当係：042-394-7399　母子保健第１係・母子保健第２係：042-390-2270",
+        "zipCode": "1898501",
+        "contactAddress": "東村山市本町1丁目2番地3　いきいきプラザ2階（手当係：手当・子ども医療証について）　いきいきプラザ3階（母子保健第２係：予防接種、母子保健について）"
+      },
+      "area": {
+        "areaCode": "132136;東村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132136+1+UM11",
+        "organization": "1000020132136",
+        "compartment": "子ども家庭部子ども保健・給付課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2020-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "東村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条（妊産婦の訪問指導等）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て支援拠点・地域子育て支援センター",
+        "shortName": "子ども家庭支援センター"
+      },
+      "summary": "東村山市では市内の子ども家庭支援センターなどを子育て支援拠点として、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+      "description": "子ども家庭支援センター\n\n所在地\n郵便番号：189-8501\n住所：東村山市本町1丁目2番地3　いきいきプラザ3階子ども家庭支援センター\n電話：042-390-2271\n\n交通案内\n鉄道\n東村山駅東口から徒歩約12分\n久米川駅北口から徒歩約7分\n\nバス\nグリーンバス東村山市役所下車（東村山市役所へは平日の9時から午後5時の間のみ運行しています。）\n\n駐車場：有り\n施設内容\n身障者用トイレの場所\nいきいきプラザ各フロアー\n\nおむつ交換場所\nいきいきプラザ各フロアーの女子トイレ内及び誰でもトイレ内\n\n開所日・時間\n平日の月曜日から金曜日\n午前9時から午後午後5時まで\n\n休館日\n土曜・日曜・祝祭日及び年末年始\n\nAEDの設置\nAEDロゴ\nいきいきプラザ1階総合受付前と2階健康課には、AED（自動体外式除細動器)が設置されています。AEDは、心臓のけいれんを排除したり、停止した心臓の鼓動再開のための電気的刺激を与える医療機器です。）",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "いきいきプラザ3階子ども家庭支援センター",
+        "implementationAddress": "東村山市本町1丁目2番地3"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "平日の月曜日から金曜日\n午前9時から午後午後5時まで"
+      },
+      "specificDate": null,
+      "holiday": "土曜・日曜・祝祭日及び年末年始",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashimurayama.tokyo.jp/shisetsu/kosodate/sienannaizu_map/index.html",
+        "title": "子ども家庭支援センター"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子ども家庭支援センター",
+        "contactPhone": "042-390-2271",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1898501",
+        "contactAddress": "東京都東村山市本町1丁目2番地3"
+      },
+      "area": {
+        "areaCode": "132136;東村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132136+1+UM110",
+        "organization": "1000020132136",
+        "compartment": "子ども家庭部子ども家庭支援センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "東村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法、児童福祉法",
+        "regulationArticle": "第6条の3第6項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関する各種コミュニティ・団体一覧",
+        "shortName": "子育てサークル"
+      },
+      "summary": "東村山市内で子育てに関する活動を行う、コミュニティやサークル、各種団体の登録や活動で利用できる施設のご案内です。",
+      "description": "子育てサークル\n市内では、子育てをテーマにした複数の市民サークルが活動しています。\n\n子育て中の親同士で情報交換や交流の場を持ちたい\n子どもどうしの交流の場を作りたい\n仲間でグループを作りたい\n親子でグループに入りたい\nなど、サークル活動について知りたい・興味があるといった方は是非ご相談ください。\n\nサークルの紹介や新規登録\n各種手続きについては子育て総合支援センター「ころころの森」にお問い合わせください。\n\n子育て総合支援センター「ころころの森」;https://www.city.higashimurayama.tokyo.jp/kosodate/shien/corocoronomori/index.html\n\nサークル活動で利用できる施設\nサークル登録をすると、子ども家庭支援センターの地域活動室などの施設がご利用いただけます。\n\nサークル登録と活動室等の利用について",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "市内では、子育てをテーマにした複数の市民サークルが活動しています。\n\n・子育て中の親同士で情報交換や交流の場を持ちたい\n・子どもどうしの交流の場を作りたい\n・仲間でグループを作りたい\n・親子でグループに入りたい\n\nなど、サークル活動について知りたい・興味があるといった方は是非ご相談ください。\n\nサークル登録をすると、子ども家庭支援センターの地域活動室などの施設がご利用いただけます。",
+        "monetarySupport": null,
+        "materiallySupport": "市内では、子育てをテーマにした複数の市民サークルが活動しています。\n\n・子育て中の親同士で情報交換や交流の場を持ちたい\n・子どもどうしの交流の場を作りたい\n・仲間でグループを作りたい\n・親子でグループに入りたい\n\nなど、サークル活動について知りたい・興味があるといった方は是非ご相談ください。\n\nサークル登録をすると、子ども家庭支援センターの地域活動室などの施設がご利用いただけます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "各種手続きについては子育て総合支援センター「ころころの森」にお問い合わせください。\n\n子育て総合支援センター「ころころの森」;https://www.city.higashimurayama.tokyo.jp/kosodate/shien/corocoronomori/index.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "子育て総合支援センター「ころころの森」",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/shien/corocoronomori/index.html",
+          "title": "子育て総合支援センター「ころころの森」"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/sodan/kosodate/sa-kuru.html",
+        "title": "子育てサークル"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子ども家庭支援センター",
+        "contactPhone": "042-393-5111",
+        "contactEx": "3601",
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashimurayama.tokyo.jp/formmail.html?_div=029400&_pageid=24157&_name=子ども家庭部子ども家庭支援センター",
+        "contactComment": "ファクス：042-390-2270",
+        "zipCode": "1898501",
+        "contactAddress": "東村山市本町1丁目2番地3　いきいきプラザ3F"
+      },
+      "area": {
+        "areaCode": "132136;東村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132136+1+UM111",
+        "organization": "1000020132136",
+        "compartment": "子ども家庭部子ども家庭支援センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "東村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法、児童福祉法",
+        "regulationArticle": "第6条の3第6項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て広場",
+        "shortName": "子育てひろば"
+      },
+      "summary": "市内の子育てひろばは、小学校就学前のお子さんが安心して遊べるスペースがあり、子育て中の親子が気軽に集い、仲間づくりを通して子育てに関する相談や情報交換等を行う機会を提供しています。また、お子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、東村山市サイトや市報などでお知らせしています。）",
+      "description": "子育て総合支援センター「ころころの森」\n\nころころの森のページ（外部リンク）外部サイトへのリンク;http://r.goope.jp/corocoronomori\n\n所在地\n住所：東村山市野口町1丁目25番地15　地域福祉センター2階\n電話：042-395-7280\n\n交通案内\n鉄道\n西武新宿線東村山駅　西口下車　徒歩6分　\n\nバス\n市内を運行しているグリーンバスご利用の場合は、東村山駅西口から「久米川駅南口」行きにお乗りいただき、「地域福祉センター」で下車ください。\n\n駐車場\n駐車場はございますが台数に限りがあるため、可能な限り徒歩・自転車又は公共の交通機関のご利用をお願いいたします。\n\n施設内容\nプレイルーム\n赤ちゃんコーナー\nくつろぎルーム\n多目的室\n子育て支援活動室\nベビーカー置き場\n赤ちゃん・ふらっとマーク\n授乳及びおむつ替えやお子さんと一緒に入れるトイレ等の設備がございます。乳幼児連れで外出の際、必要な時には子育て総合支援センター「ころころの森」の受付にお気軽にお声掛けください。\n\n身障者用トイレの有無\n有\n\nおむつ交換場所の有無\n有\n\n利用方法\n初めて来館された方は登録手続をお願いいたします。\n次回以降は登録カードを受付でご提出ください。\n登録は年度更新となります。\n\n開館時間\n・子育てひろば\n火曜日から土曜日の午前10時から午後4時\n・ファミリー・サポート・センター\n月曜日から金曜日の午前9時から午後5時\n\n休館日\n・子育てひろば\n日曜日、月曜日、祝祭日、年末年始\n・ファミリー・サポート・センター\n土曜日、日曜日、祝祭日、年末年始\n\n入館料・利用料\n無料\n\nAEDの設置\nAEDロゴ\n東村山市子育て総合支援センターには、AED（自動体外式除細動器)が設置されています。AEDは、心臓のけいれんを排除したり、停止した心臓の鼓動再開のための電気的刺激を与える医療機器です。）\n\nAED（自動体外式除細動器）",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "子育てひろばは、小学校就学前のお子さんが安心して遊べるスペースがあり、子育て中の親子が気軽に集い、仲間づくりを通して子育てに関する相談や情報交換等を行う機会を提供しています。また、お子さんの年齢に応じた各種イベントなども行っています。",
+        "monetarySupport": null,
+        "materiallySupport": "子育てひろばは、小学校就学前のお子さんが安心して遊べるスペースがあり、子育て中の親子が気軽に集い、仲間づくりを通して子育てに関する相談や情報交換等を行う機会を提供しています。また、お子さんの年齢に応じた各種イベントなども行っています。"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "子育て総合支援センター「ころころの森」,みすみ子育てひろば,のぐちちょう子育てひろば,ほほえみ子育てひろば,ほんちょう子育てひろば",
+        "implementationAddress": "東村山市野口町1丁目25番地15　地域福祉センター2階,東村山市美住町1-4-19,東村山市野口町2-4-36,東村山市本町3-43-1,東村山市本町4-19-26"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "開館時間\n・子育て総合支援センターころころの森\n火曜日から土曜日の午前10時から午後4時\n・みすみ子育てひろば\n月曜日から土曜日の午前9時30分から午後3時30分（午後0時から1時は閉室）\n・のぐちちょう子育てひろば\n月曜日から土曜日の午前9時30分から午後4時30分（午後0時30分から1時30分は閉室）\n・ほほえみ子育てひろば\n月曜日から金曜日の午後1時から4時\n・ほんちょう子育てひろば\n月曜日から金曜日の午前10時から午後1時\n"
+      },
+      "specificDate": null,
+      "holiday": "休館日\n・子育て総合支援センター「ころころの森」\n日曜日、月曜日、祝祭日、年末年始\n・みすみ子育てひろば、のぐちちょう子育てひろば\n日曜日、祝祭日、年末年始\n・ほほえみ子育てひろば、ほんちょう子育てひろば\n土曜日、日曜日、祝祭日、年末年始",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "初めて来館された方は登録手続をお願いいたします。\n次回以降は登録カードを受付でご提出ください。\n登録は年度更新となります。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/shien/kosodatehiroba/nogutityou-kosodateh.html",
+          "title": "のぐちちょう子育てひろば"
+        },
+        {
+          "uri": "https://www.murayamaen.or.jp/honcho/about_hoh/smile_hoh/",
+          "title": "ほほえみ子育てひろば"
+        },
+        {
+          "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/shien/kosodatehiroba/hontyou-kosodatehiro.html\nhttps://pukupuku.npohug.com",
+          "title": "ほほえみ子育てひろば"
+        },
+        {
+          "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/shien/kosodatehiroba/hohoemi-hiroba.html",
+          "title": "のぐちちょう子育てひろば　ぷくぷく"
+        },
+        {
+          "uri": "http://r.goope.jp/corocoronomori",
+          "title": "東村山市子育て総合支援センター　ころころの森"
+        },
+        {
+          "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/shien/kosodatehiroba/misumi.html",
+          "title": "みすみ子育てひろば"
+        },
+        {
+          "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/shien/corocoronomori/index.html",
+          "title": "子育て総合支援センター「ころころの森」"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/shien/kosodatehiroba/index.html",
+        "title": "子育てひろば（子どものあそびば）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部地域子育て課",
+        "contactPhone": "042-393-5111",
+        "contactEx": "3608",
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1898501",
+        "contactAddress": "東村山市本町1丁目2番地3　いきいきプラザ2階"
+      },
+      "area": {
+        "areaCode": "132136;東村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132136+1+UM112",
+        "organization": "1000020132136",
+        "compartment": "子ども家庭部地域子育て課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "東村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法、児童福祉法、子ども・子育て支援法",
+        "regulationArticle": "第6条の3第6項、第21条の9、第59条第9号"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "東村山市の子育てに関する相談",
+        "shortName": "ゆりかごオンライン産婦相談"
+      },
+      "summary": "ビデオ会議サービス「ZOOM」を利用した助産師・保健師によるオンライン相談を実施しています。ママの産後の体調や育児不安、母乳育児の困り事、赤ちゃんの事など相談ください。",
+      "description": "ゆりかごオンライン産婦相談\nゆりかごオンライン産婦相談の実施\nビデオ会議サービス「ZOOM」を利用した助産師・保健師によるオンライン相談を実施しています。ママの産後の体調や育児不安、母乳育児の困り事、赤ちゃんの事など相談ください。また育児手技や授乳方法など、画面で確認しながら相談できます。詳細は下記のファイルをご覧ください。\n\nゆりかごオンライン産婦相談のご案内（PDF：362KB）;https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/files/kodomohoken20220816_R4sannpusoudan.pdf\n\n対象\n市内在住の産後1年以内のかた\n\n時間\n30分",
+      "target": {
+        "targetPersons": "市内在住の産後1年以内のかた",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "市内在住の産後1年以内のかた"
+      },
+      "support": {
+        "description": "ビデオ会議サービス「ZOOM」を利用した助産師・保健師によるオンライン相談を実施しています。ママの産後の体調や育児不安、母乳育児の困り事、赤ちゃんの事など相談ください。また育児手技や授乳方法など、画面で確認しながら相談できます。詳細は下記のファイルをご覧ください。\n\nゆりかごオンライン産婦相談のご案内（PDF：362KB）;https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/files/kodomohoken20220816_R4sannpusoudan.pdf\n\n時間\n30分",
+        "monetarySupport": null,
+        "materiallySupport": "ビデオ会議サービス「ZOOM」を利用した助産師・保健師によるオンライン相談を実施しています。ママの産後の体調や育児不安、母乳育児の困り事、赤ちゃんの事など相談ください。また育児手技や授乳方法など、画面で確認しながら相談できます。詳細は下記のファイルをご覧ください。\n\nゆりかごオンライン産婦相談のご案内（PDF：362KB）;https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/files/kodomohoken20220816_R4sannpusoudan.pdf\n\n時間\n30分"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "ゆりかごオンライン産婦相談のご案内（PDF：362KB）;https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/files/kodomohoken20220816_R4sannpusoudan.pdf",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/files/kodomohoken20220816_R4sannpusoudan.pdf",
+          "title": "ゆりかごオンライン産婦相談のご案内（PDF：362KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/kodomohoken20220816.html",
+        "title": "ゆりかごオンライン産婦相談"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/files/kodomohoken20220816_R4sannpusoudan.pdf",
+          "title": "ゆりかごオンライン産婦相談のご案内"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども家庭部子ども保健・給付課",
+        "contactPhone": "042-393-5111",
+        "contactEx": "手当係：3604　母子保健第２係：3605",
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashimurayama.tokyo.jp/formmail.html?_div=029300&_pageid=1101&_name=子ども家庭部子ども保健・給付課",
+        "contactComment": "ファクス：手当係：042-394-7399　母子保健第１係・母子保健第２係：042-390-2270",
+        "zipCode": "1898501",
+        "contactAddress": "東村山市本町1丁目2番地3　いきいきプラザ2階（手当係：手当・子ども医療証について）　いきいきプラザ3階（母子保健第２係：予防接種、母子保健について）"
+      },
+      "area": {
+        "areaCode": "132136;東村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132136+1+UM119",
+        "organization": "1000020132136",
+        "compartment": "子ども家庭部子ども保健・給付課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-08-16",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "東村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "母子父子寡婦福祉資金",
+        "shortName": "東京都母子・父子・女性福祉資金貸付"
+      },
+      "summary": "母子家庭の母、父子家庭の父、および寡婦の方の経済的自立や、扶養しているお子さんの福祉増進のために、必要な資金をお貸しする制度です。",
+      "description": "東京都母子・父子・女性福祉資金貸付\n　母子・父子家庭及び女性の方が経済的に自立して、安定した生活を送るために必要とする資金をお貸ししています。\n　貸付にあたっては一定の要件がありお貸しできない場合がありますので、まずは事前にご相談ください。\n\n【資金種類】\n事業開始資金\n　事業を開始するのに必要な設備費・什器・機械等の購入資金\n\n事業継続資金\n　現在営んでいる事業を継続するのに必要な商品、材料等を購入する資金\n\n技能習得資金\n　事業を開始、又は就職に必要な知識技能を習得するための資金（授業料、入学金など）\n\n修業資金\n　事業を開始、又は就職に必要な知識技能を習得するための資金（授業料、入学金など）（母子及び父子福祉資金のみ）\n\n就職支度資金\n　就職に直接必要な被服、履物等を購入する資金\n\n医療介護資金\n　医療、又は介護保険によるサービス（介護）を受ける（ただし、医療又は介護を受ける期間が1年以内と見込まれる場合）ために必要な資金\n\n生活資金\n　技能習得期間中（貸付期間5年以内）の生活維持に必要な資金\n　医療又は介護を受けている期間中（医療又は介護を受ける期間が1年以内と見込まれる場合）の生活維持に必要な資金\n　失業している期間中（ただし、離職した日から1年以内）の生活維持に必要な資金（貸付期間1年以内）\n　母子又は父子家庭になって7年未満の方で生活の安定を図るために必要な資金（貸付期間3か月以内）（母子及び父子福祉資金のみ）\n住宅資金\n　自己所有の住宅の建設、購入及び現に居住する住宅の増改築・補修（構造部分の修繕）又は保全に必要な資金\n\n転宅資金\n　転宅に必要な敷金・前家賃・運送代にあてるための資金\n\n結婚資金\n　婚姻に際し必要な資金\n\n修学資金\n　高校、短大、大学、高専又は専修学校（対象外あり）において修学するのに必要な資金（授業料、通学費、教科書代など）\n\n就学支度資金\n　小学校、中学校に入学するために必要な資金（所得税非課税世帯の方）\n　高校、短大、大学、高専又は専修学校（対象外あり）に入学するために必要な資金（入学金、施設費、制服代など）\n　知識技能を習得させる施設であって厚生労働大臣が定める修業施設へ入所するために必要な資金（母子及び父子福祉資金のみ）\n\n（注記）資金の種類により、貸付対象者が異なります。詳細は自立相談課へお問い合わせ下さい。\n\n母子及び父子福祉資金・女性福祉資金のパンフレットについては、下記HPよりご覧ください。\n\n<母子及び父子福祉資金の貸付>　東京都福祉局;https://www.fukushi.metro.tokyo.lg.jp/kodomo/hitorioya_shien/keizai/boshi.html\n\n<女性福祉資金の貸付>　東京都福祉局;https://www.fukushi.metro.tokyo.lg.jp/kodomo/hitorioya_shien/keizai/zyosei.html",
+      "target": {
+        "targetPersons": "母子・父子家庭及び女性の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "事業開始資金\n　事業を開始するのに必要な設備費・什器・機械等の購入資金\n\n事業継続資金\n　現在営んでいる事業を継続するのに必要な商品、材料等を購入する資金\n\n技能習得資金\n　事業を開始、又は就職に必要な知識技能を習得するための資金（授業料、入学金など）\n\n修業資金\n　事業を開始、又は就職に必要な知識技能を習得するための資金（授業料、入学金など）（母子及び父子福祉資金のみ）\n\n就職支度資金\n　就職に直接必要な被服、履物等を購入する資金\n\n医療介護資金\n　医療、又は介護保険によるサービス（介護）を受ける（ただし、医療又は介護を受ける期間が1年以内と見込まれる場合）ために必要な資金\n\n生活資金\n1.　技能習得期間中（貸付期間5年以内）の生活維持に必要な資金\n2.　医療又は介護を受けている期間中（医療又は介護を受ける期間が1年以内と見込まれる場合）の生活維持に必要な資金\n3.　失業している期間中（ただし、離職した日から1年以内）の生活維持に必要な資金（貸付期間1年以内）\n4.　母子又は父子家庭になって7年未満の方で生活の安定を図るために必要な資金（貸付期間3か月以内）（母子及び父子福祉資金のみ）\n\n住宅資金\n　自己所有の住宅の建設、購入及び現に居住する住宅の増改築・補修（構造部分の修繕）又は保全に必要な資金\n\n転宅資金\n　転宅に必要な敷金・前家賃・運送代にあてるための資金\n\n結婚資金\n　婚姻に際し必要な資金\n\n修学資金\n　高校、短大、大学、高専又は専修学校（対象外あり）において修学するのに必要な資金（授業料、通学費、教科書代など）\n\n就学支度資金\n1.　小学校、中学校に入学するために必要な資金（所得税非課税世帯の方）\n2.　高校、短大、大学、高専又は専修学校（対象外あり）に入学するために必要な資金（入学金、施設費、制服代など）\n3.　知識技能を習得させる施設であって厚生労働大臣が定める修業施設へ入所するために必要な資金（母子及び父子福祉資金のみ）\n\n（注記）資金の種類により、貸付対象者が異なります。詳細は自立相談課へお問い合わせ下さい。\n\n母子及び父子福祉資金・女性福祉資金のパンフレットについては、下記HPよりご覧ください。\n\n<母子及び父子福祉資金の貸付>　東京都福祉局外部サイトへのリンク;https://www.fukushi.metro.tokyo.lg.jp/kodomo/hitorioya_shien/keizai/boshi.html\n\n<女性福祉資金の貸付>　東京都福祉局;https://www.fukushi.metro.tokyo.lg.jp/kodomo/hitorioya_shien/keizai/zyosei.html",
+        "monetarySupport": "事業開始資金\n　事業を開始するのに必要な設備費・什器・機械等の購入資金\n\n事業継続資金\n　現在営んでいる事業を継続するのに必要な商品、材料等を購入する資金\n\n技能習得資金\n　事業を開始、又は就職に必要な知識技能を習得するための資金（授業料、入学金など）\n\n修業資金\n　事業を開始、又は就職に必要な知識技能を習得するための資金（授業料、入学金など）（母子及び父子福祉資金のみ）\n\n就職支度資金\n　就職に直接必要な被服、履物等を購入する資金\n\n医療介護資金\n　医療、又は介護保険によるサービス（介護）を受ける（ただし、医療又は介護を受ける期間が1年以内と見込まれる場合）ために必要な資金\n\n生活資金\n1.　技能習得期間中（貸付期間5年以内）の生活維持に必要な資金\n2.　医療又は介護を受けている期間中（医療又は介護を受ける期間が1年以内と見込まれる場合）の生活維持に必要な資金\n3.　失業している期間中（ただし、離職した日から1年以内）の生活維持に必要な資金（貸付期間1年以内）\n4.　母子又は父子家庭になって7年未満の方で生活の安定を図るために必要な資金（貸付期間3か月以内）（母子及び父子福祉資金のみ）\n\n住宅資金\n　自己所有の住宅の建設、購入及び現に居住する住宅の増改築・補修（構造部分の修繕）又は保全に必要な資金\n\n転宅資金\n　転宅に必要な敷金・前家賃・運送代にあてるための資金\n\n結婚資金\n　婚姻に際し必要な資金\n\n修学資金\n　高校、短大、大学、高専又は専修学校（対象外あり）において修学するのに必要な資金（授業料、通学費、教科書代など）\n\n就学支度資金\n1.　小学校、中学校に入学するために必要な資金（所得税非課税世帯の方）\n2.　高校、短大、大学、高専又は専修学校（対象外あり）に入学するために必要な資金（入学金、施設費、制服代など）\n3.　知識技能を習得させる施設であって厚生労働大臣が定める修業施設へ入所するために必要な資金（母子及び父子福祉資金のみ）\n\n（注記）資金の種類により、貸付対象者が異なります。詳細は自立相談課へお問い合わせ下さい。\n\n母子及び父子福祉資金・女性福祉資金のパンフレットについては、下記HPよりご覧ください。\n\n<母子及び父子福祉資金の貸付>　東京都福祉局外部サイトへのリンク;https://www.fukushi.metro.tokyo.lg.jp/kodomo/hitorioya_shien/keizai/boshi.html\n\n<女性福祉資金の貸付>　東京都福祉局;https://www.fukushi.metro.tokyo.lg.jp/kodomo/hitorioya_shien/keizai/zyosei.html",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "貸付にあたっては一定の要件がありお貸しできない場合がありますので、まずは事前にご相談ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/hitorioya_shien/keizai/zyosei.html",
+          "title": "<女性福祉資金の貸付>　東京都福祉局"
+        },
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/hitorioya_shien/keizai/boshi.html",
+          "title": "<母子及び父子福祉資金の貸付>　東京都福祉局"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashimurayama.tokyo.jp/kenko/komatta/boshi/1bosikasituke.html",
+        "title": "東京都母子・父子・女性福祉資金貸付"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康福祉部自立相談課",
+        "contactPhone": "042-393-5111",
+        "contactEx": "相談第1係：3508　相談第2係：3509",
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashimurayama.tokyo.jp/formmail.html?_div=026400&_pageid=723&_name=健康福祉部自立相談課",
+        "contactComment": "ファクス：手当係：042-394-7399　母子保健第１係・母子保健第２係：042-390-2270",
+        "zipCode": "1898501",
+        "contactAddress": "東村山市本町1丁目1番地1"
+      },
+      "area": {
+        "areaCode": "132136;東村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132136+1+UM28",
+        "organization": "1000020132136",
+        "compartment": "健康福祉部自立相談課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-07-06",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "東村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子及び父子並びに寡婦福祉法",
+        "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "救急診療"
+      },
+      "summary": "東村山市では、夜間や日曜・祝日、年末年始に、市内の医療機関の協力のもと、当番制で診療を行っています。",
+      "description": "新型コロナウイルス感染症が心配なとき\n新型コロナウイルス検査情報サイト（東京都保健医療局）外部サイトへのリンク;https://www.hokeniryo.metro.tokyo.lg.jp/kansen/kensa/index.html\n\n救急病院・医療\n東京都指定二次救急医療機関\n休日・全夜間の救急医療体制が整っている医療機関は次のとおりです。\n\n市内二次救急医療機関\nhttps://www.city.higashimurayama.tokyo.jp/kurashi/bosai/kyukyu/kyukyu.html\n\n久米川病院（外部リンク）外部サイトへのリンク;http://www.kumegawa-hosp.jp/\n東京都立多摩北部医療センター（外部リンク）外部サイトへのリンク;https://www.tmhp.jp/tamahoku/\n新山手病院（外部リンク）外部サイトへのリンク;http://www.shinyamanote.jp/\n\n救命救急センター（三次救急医療機関）\n公立昭和病院（外部リンク）外部サイトへのリンク;http://www.kouritu-showa.jp/\n公立昭和病院は、東村山市・小金井市・小平市・東久留米市・清瀬市・東大和市・西東京市の7市で構成する昭和病院企業団が設置・運営する医療機関で、急性期病院として高度専門医療・救急医療を有します。\n電話：042-461-0052（代表）\n\n救急相談・医療機関案内\n東京消防庁救急相談センター外部サイトへのリンク;https://www.tfd.metro.tokyo.lg.jp/lfe/kyuu-adv/soudan-center.htm\n救急車を呼ぼうか？病院へ行ったほうがいいか？迷ったら東京都消防庁救急相談センターへお問い合わせください。\nプッシュ回線、携帯電話からは電話：＃7119\nダイヤル回線からは電話：042-521-2323\n\n東村山消防署テレホンサービス外部サイトへのリンク;https://www.tfd.metro.tokyo.lg.jp/hp-higasimurayama/index.html\n広域的な休日診療や夜間診療（眼科・耳鼻科・歯科等）についてお問い合わせください。\n電話：042-391-0119\n\n「医療情報ネット」外部サイトへのリンク;https://www.iryou.teikyouseido.mhlw.go.jp/znk-web/juminkanja/S2300/initialize\n医療機関を様々な条件を設定して検索できます。\n一覧表示された医療機関名をクリックすることで、当該医療機関の詳しい情報を見ることができます。\n\n東京都医療機関案内サービス「ひまわり」\n電話：03-5272-0303\n\n東京都こども医療ガイド（東京都福祉保健局）外部サイトへのリンク;https://www.guide.metro.tokyo.lg.jp/\n病気やけがの対処のしかたや病気の基礎知識など、いざという時の子育てアドバイス\n\n休日・準夜応急診療\n受診の際はあらかじめ電話でご確認ください。来院の際はマスクの着用・手指の消毒にご協力ください。\n当日の受診状況によっては、お電話が繋がりにくい場合がございます。\n\n休日応急診療\n日曜日・祝休日・年末年始に急に体の具合が悪くなった時、救急車を利用するまでもない状況であっても早く医師の診療を受ける必要のあるかたは、以下の医療機関をご利用ください。受診の際は、健康保険証、医療証（マル親・マル子など）をお持ちください。\n（注記）受診を希望する際は、必ずあらかじめ医療機関へ電話でご連絡ください。\n\n休日応急診療\nhttps://www.city.higashimurayama.tokyo.jp/kurashi/bosai/kyukyu/kyukyu.html\n\n緑風荘病院（外部リンク）外部サイトへのリンク;http://ryokufuusou.com/\n久米川病院（外部リンク）外部サイトへのリンク;http://www.kumegawa-hosp.jp/\n\n日曜日の診療医療機関\n次の医療機関（東村山市医師会会員）では、日曜日診療を行っています。詳しくは医療機関のホームページでご確認ください。\n東村山けやきクリニック（外部リンク）外部サイトへのリンク;http://www.keyakiclinic.com/\n東村山こどもクリニック（外部リンク）外部サイトへのリンク;https://hm-kodomo.jp/\n\n休日準夜応急診療\n休日準夜応急診療所では、PCR検査は実施しておりません。\n日曜日・祝休日・年末年始の下記時間帯で診療しています。\n急に体の具合が悪くなった時、救急車を利用するまでもない状況であっても早く医師の診療を受ける必要のあるかたはご利用ください。\n受診の際は、健康保険証、医療証（マル親・マル子など）をお持ちください。\n（注記）受診を希望する際は、必ずあらかじめ電話でご連絡ください。\n休日準夜応急診療\nhttps://www.city.higashimurayama.tokyo.jp/kurashi/bosai/kyukyu/kyukyu.html\n\n小児平日準夜応急診療\n〔小平市・東村山市・清瀬市・東久留米市・西東京市〕　地域の5医師会の協力により、2施設で実施。\n\n表\nhttps://www.city.higashimurayama.tokyo.jp/kurashi/bosai/kyukyu/kyukyu.html\n\n（注記）診療の対象は、15歳以下のかたです。\n（注記1）医師の診療の結果、点滴等の処置、入院等を必要とする場合は、他病院への紹介となります。\n\n休日歯科応急診療\n日曜日・祝休日に急に歯が痛くなった時、早く医師の診療を受ける必要のあるかたは、健康保険証を持参のうえ以下の医療機関をご利用ください。\n診療時間は午前9時から午後5時（受付は午前9時から午後4時30分）までで、正午から午後1時までは休診です。\n（注記）受診を希望する際は、必ずあらかじめ電話でご連絡ください。\n（注記）各診療所は東村山市歯科医師会ホームページ外部サイトへのリンク;http://higashimurayama-shikaishikai.com/（歯科医院検索　参照）より確認できます。\n休日歯科応急診療\nhttps://www.city.higashimurayama.tokyo.jp/kurashi/bosai/kyukyu/kyukyu.html",
+      "target": {
+        "targetPersons": "休日・準夜応急診療\n休日応急診療\n日曜日・祝休日・年末年始に急に体の具合が悪くなった時、救急車を利用するまでもない状況であっても早く医師の診療を受ける必要のあるかた\n\n休日準夜応急診療\n急に体の具合が悪くなった時、救急車を利用するまでもない状況であっても早く医師の診療を受ける必要のあるかた\n\n小児平日準夜応急診療\n15歳以下のかた\n\n休日歯科応急診療\n日曜日・祝休日に急に歯が痛くなった時、早く医師の診療を受ける必要のあるかた",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "休日応急診療\n日曜日・祝休日・年末年始に急に体の具合が悪くなった時、救急車を利用するまでもない状況であっても早く医師の診療を受ける必要のあるかたは、以下の医療機関をご利用ください。受診の際は、健康保険証、医療証（マル親・マル子など）をお持ちください。\n\n（注記）受診を希望する際は、必ずあらかじめ医療機関へ電話でご連絡ください。\n\n休日応急診療\n https://www.city.higashimurayama.tokyo.jp/kurashi/bosai/kyukyu/kyukyu.html\n\n緑風荘病院（外部リンク）外部サイトへのリンク;http://ryokufuusou.com/\n久米川病院（外部リンク）外部サイトへのリンク;http://www.kumegawa-hosp.jp/\n\n休日準夜応急診療\n休日準夜応急診療所では、PCR検査は実施しておりません。\n日曜日・祝休日・年末年始の下記時間帯で診療しています。\n急に体の具合が悪くなった時、救急車を利用するまでもない状況であっても早く医師の診療を受ける必要のあるかたはご利用ください。\n受診の際は、健康保険証、医療証（マル親・マル子など）をお持ちください。\n（注記）受診を希望する際は、必ずあらかじめ電話でご連絡ください。\n休日準夜応急診療\nhttps://www.city.higashimurayama.tokyo.jp/kurashi/bosai/kyukyu/kyukyu.html\n\n休日歯科応急診療\n日曜日・祝休日に急に歯が痛くなった時、早く医師の診療を受ける必要のあるかたは、健康保険証を持参のうえ以下の医療機関をご利用ください。\n診療時間は午前9時から午後5時（受付は午前9時から午後4時30分）までで、正午から午後1時までは休診です。\n（注記）受診を希望する際は、必ずあらかじめ電話でご連絡ください。\n（注記）各診療所は東村山市歯科医師会ホームページ外部サイトへのリンク;http://higashimurayama-shikaishikai.com/（歯科医院検索　参照）より確認できます。\n休日歯科応急診療\nhttps://www.city.higashimurayama.tokyo.jp/kurashi/bosai/kyukyu/kyukyu.html",
+        "monetarySupport": null,
+        "materiallySupport": "休日応急診療\n日曜日・祝休日・年末年始に急に体の具合が悪くなった時、救急車を利用するまでもない状況であっても早く医師の診療を受ける必要のあるかたは、以下の医療機関をご利用ください。受診の際は、健康保険証、医療証（マル親・マル子など）をお持ちください。\n\n（注記）受診を希望する際は、必ずあらかじめ医療機関へ電話でご連絡ください。\n\n休日応急診療\n https://www.city.higashimurayama.tokyo.jp/kurashi/bosai/kyukyu/kyukyu.html\n\n緑風荘病院（外部リンク）外部サイトへのリンク;http://ryokufuusou.com/\n久米川病院（外部リンク）外部サイトへのリンク;http://www.kumegawa-hosp.jp/\n\n休日準夜応急診療\n休日準夜応急診療所では、PCR検査は実施しておりません。\n日曜日・祝休日・年末年始の下記時間帯で診療しています。\n急に体の具合が悪くなった時、救急車を利用するまでもない状況であっても早く医師の診療を受ける必要のあるかたはご利用ください。\n受診の際は、健康保険証、医療証（マル親・マル子など）をお持ちください。\n（注記）受診を希望する際は、必ずあらかじめ電話でご連絡ください。\n休日準夜応急診療\nhttps://www.city.higashimurayama.tokyo.jp/kurashi/bosai/kyukyu/kyukyu.html\n\n休日歯科応急診療\n日曜日・祝休日に急に歯が痛くなった時、早く医師の診療を受ける必要のあるかたは、健康保険証を持参のうえ以下の医療機関をご利用ください。\n診療時間は午前9時から午後5時（受付は午前9時から午後4時30分）までで、正午から午後1時までは休診です。\n（注記）受診を希望する際は、必ずあらかじめ電話でご連絡ください。\n（注記）各診療所は東村山市歯科医師会ホームページ外部サイトへのリンク;http://higashimurayama-shikaishikai.com/（歯科医院検索　参照）より確認できます。\n休日歯科応急診療\nhttps://www.city.higashimurayama.tokyo.jp/kurashi/bosai/kyukyu/kyukyu.html"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "緑風荘病院\t東村山市萩山町3丁目31番地1\n久米川病院\t東村山市本町4丁目7番地14\nいきいきプラザ1階\t東村山市本町1丁目2番地3 市役所南側",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "休日・準夜応急診療\n受診の際はあらかじめ電話でご確認ください。来院の際はマスクの着用・手指の消毒にご協力ください。\n当日の受診状況によっては、お電話が繋がりにくい場合がございます。\n\n休日応急診療\n日曜日・祝休日・年末年始に急に体の具合が悪くなった時、救急車を利用するまでもない状況であっても早く医師の診療を受ける必要のあるかたは、以下の医療機関をご利用ください。受診の際は、健康保険証、医療証（マル親・マル子など）をお持ちください。\n（注記）受診を希望する際は、必ずあらかじめ医療機関へ電話でご連絡ください。\n\n休日歯科応急診療\n日曜日・祝休日に急に歯が痛くなった時、早く医師の診療を受ける必要のあるかたは、健康保険証を持参のうえ以下の医療機関をご利用ください。\n（注記）受診を希望する際は、必ずあらかじめ電話でご連絡ください。\n（注記）各診療所は東村山市歯科医師会ホームページ外部サイトへのリンク;http://higashimurayama-shikaishikai.com/（歯科医院検索　参照）より確認できます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "受診の際は、健康保険証、医療証（マル親・マル子など）をお持ちください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.tfd.metro.tokyo.lg.jp/hp-higasimurayama/index.html",
+          "title": "東村山消防署テレホンサービス"
+        },
+        {
+          "uri": "https://www.hokeniryo.metro.tokyo.lg.jp/kansen/kensa/index.html",
+          "title": "新型コロナウイルス検査情報サイト（東京都保健医療局）"
+        },
+        {
+          "uri": "http://www.kumegawa-hosp.jp/",
+          "title": "久米川病院（外部リンク）"
+        },
+        {
+          "uri": "http://higashimurayama-shikaishikai.com/",
+          "title": "東村山市歯科医師会ホームページ"
+        },
+        {
+          "uri": "https://www.tmhp.jp/tamahoku/",
+          "title": "東京都立多摩北部医療センター（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.higashimurayama.tokyo.jp/shisetsu/shi/shi/index.html",
+          "title": "いきいきプラザ"
+        },
+        {
+          "uri": "https://hm-kodomo.jp/",
+          "title": "東村山こどもクリニック（外部リンク）"
+        },
+        {
+          "uri": "http://www.shinyamanote.jp/",
+          "title": "新山手病院（外部リンク）"
+        },
+        {
+          "uri": "http://www.keyakiclinic.com/",
+          "title": "東村山けやきクリニック（外部リンク）"
+        },
+        {
+          "uri": "http://www.kouritu-showa.jp/",
+          "title": "公立昭和病院（外部リンク）"
+        },
+        {
+          "uri": "http://ryokufuusou.com/",
+          "title": "緑風荘病院（外部リンク）"
+        },
+        {
+          "uri": "https://www.guide.metro.tokyo.lg.jp/",
+          "title": "東京都こども医療ガイド（東京都福祉保健局）"
+        },
+        {
+          "uri": "https://www.tfd.metro.tokyo.lg.jp/lfe/kyuu-adv/soudan-center.htm",
+          "title": "東京消防庁救急相談センター"
+        },
+        {
+          "uri": "https://www.himawari.metro.tokyo.jp/qq13/qqport/tomintop/",
+          "title": "東京都医療機関案内サービス「ひまわり」"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashimurayama.tokyo.jp/kurashi/bosai/kyukyu/kyukyu.html",
+        "title": "救急診療"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康福祉部健康増進課",
+        "contactPhone": "042-393-5111",
+        "contactEx": "3504～3507",
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashimurayama.tokyo.jp/formmail.html?_div=024000&_pageid=1383&_name=健康福祉部健康増進課",
+        "contactComment": "ファクス：手当係：042-394-7399　母子保健第１係・母子保健第２係：042-390-2270",
+        "zipCode": "1898501",
+        "contactAddress": "東村山市本町1丁目2番地3"
+      },
+      "area": {
+        "areaCode": "132136;東村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132136+1+UM45",
+        "organization": "1000020132136",
+        "compartment": "健康福祉部健康増進課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-07-03",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "東村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊娠・出産に関するその他のこと",
+        "shortName": "ゆりかご訪問"
+      },
+      "summary": "妊娠中や産後に助産師が訪問します。健康・体調管理や育児について具体的な手技の確認といった支援を行います。",
+      "description": "ゆりかご訪問\n妊娠中や産後に助産師が訪問します。健康・体調管理や育児について具体的な手技の確認といった支援を行います。\n（注記）事前に母子保健コーディネーターとの面接や相談が必要です。",
+      "target": {
+        "targetPersons": "妊娠中や産後",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠中や産後に助産師が訪問します。健康・体調管理や育児について具体的な手技の確認といった支援を行います。\n（注記）事前に母子保健コーディネーターとの面接や相談が必要です。",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠中や産後に助産師が訪問します。健康・体調管理や育児について具体的な手技の確認といった支援を行います。\n（注記）事前に母子保健コーディネーターとの面接や相談が必要です。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "事前に母子保健コーディネーターとの面接や相談が必要です。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/ninshin/ninshin/boshi-yurikago.html",
+        "title": "ゆりかご・ひがしむらやま"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子ども保健・給付課",
+        "contactPhone": "042-393-5111",
+        "contactEx": "手当係：3604　母子保健第２係：3605",
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashimurayama.tokyo.jp/formmail.html?_div=029300&_pageid=1187&_name=子ども家庭部子ども保健・給付課",
+        "contactComment": "ファクス：手当係：042-394-7399　母子保健第１係・母子保健第２係：042-390-2270",
+        "zipCode": "1898501",
+        "contactAddress": "東村山市本町1丁目2番地3　いきいきプラザ2階（手当係：手当・子ども医療証について）　いきいきプラザ3階（母子保健第２係：予防接種、母子保健について）"
+      },
+      "area": {
+        "areaCode": "132136;東村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132136+1+UM48",
+        "organization": "1000020132136",
+        "compartment": "子ども家庭部子ども保健・給付課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "東村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "6から7か月児健康診査・9から10か月児健康診査《個別健診》"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として6か月から7か月児、9か月から10か月児乳幼児健康診査を実施しています。",
+      "description": "6から7か月児健康診査・9から10か月児健康診査《個別健診》\n6か月から7か月、9か月から10か月の乳児が一般健康診査（内科診察、身長・体重等の測定）、 保健指導を公費で受けられます（受診票をお持ちになって実施医療機関で受診して下さい）。\n\n（注記）受診票は、3か月から4か月児健康診査時にお渡しします。\n\n東村山市　6から7か月児・9から10か月児健康診査実施医療機関一覧表\n\n https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/nyuuyoujikenkou.html\n\n（注記）\n\n受診する際はお電話での確認をお願いいたします。\n市外（東京都内）の医療機関においても受診できる医療機関があります。市外の医療機関を希望される場合は、医療機関にお問い合わせいただき、受診の際は東村山市の受診券をご持参下さい。\n東村山市　6から7か月児・9から10か月児健康診査実施医療機関一覧表（エクセル：14KB）;https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/files/nyuuyoujikenkou_r5_69_1101.xlsx",
+      "target": {
+        "targetPersons": "6か月から7か月、9か月から10か月の乳児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "6か月から7か月、9か月から10か月の乳児"
+      },
+      "support": {
+        "description": "6から7か月児健康診査・9から10か月児健康診査《個別健診》\n6か月から7か月、9か月から10か月の乳児が一般健康診査（内科診察、身長・体重等の測定）、 保健指導を公費で受けられます（受診票をお持ちになって実施医療機関で受診して下さい）。\n\n（注記）受診票は、3か月から4か月児健康診査時にお渡しします。\n\n東村山市　6から7か月児・9から10か月児健康診査実施医療機関一覧表\n\nhttps://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/nyuuyoujikenkou.html\n\n（注記）\n\n・受診する際はお電話での確認をお願いいたします。\n・市外（東京都内）の医療機関においても受診できる医療機関があります。市外の医療機関を希望される場合は、医療機関にお問い合わせいただき、受診の際は東村山市の受診券をご持参下さい。\n\n東村山市　6から7か月児・9から10か月児健康診査実施医療機関一覧表（エクセル：14KB）;https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/files/nyuuyoujikenkou_r5_69_1101.xlsx",
+        "monetarySupport": null,
+        "materiallySupport": "6から7か月児健康診査・9から10か月児健康診査《個別健診》\n6か月から7か月、9か月から10か月の乳児が一般健康診査（内科診察、身長・体重等の測定）、 保健指導を公費で受けられます（受診票をお持ちになって実施医療機関で受診して下さい）。\n\n（注記）受診票は、3か月から4か月児健康診査時にお渡しします。\n\n東村山市　6から7か月児・9から10か月児健康診査実施医療機関一覧表\n\nhttps://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/nyuuyoujikenkou.html\n\n（注記）\n\n・受診する際はお電話での確認をお願いいたします。\n・市外（東京都内）の医療機関においても受診できる医療機関があります。市外の医療機関を希望される場合は、医療機関にお問い合わせいただき、受診の際は東村山市の受診券をご持参下さい。\n\n東村山市　6から7か月児・9から10か月児健康診査実施医療機関一覧表（エクセル：14KB）;https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/files/nyuuyoujikenkou_r5_69_1101.xlsx"
+      },
+      "cost": null,
+      "costConditions": "一般健康診査（内科診察、身長・体重等の測定）、 保健指導を公費で受けられます",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/nyuuyoujikenkou.html",
+        "implementationAddress": "https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/nyuuyoujikenkou.html"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "6か月から7か月、9か月から10か月の乳児が一般健康診査（内科診察、身長・体重等の測定）、 保健指導を公費で受けられます（受診票をお持ちになって実施医療機関で受診して下さい）。\n\n（注記）受診票は、3か月から4か月児健康診査時にお渡しします。\n\n（注記）\n\n受診する際はお電話での確認をお願いいたします。\n市外（東京都内）の医療機関においても受診できる医療機関があります。市外の医療機関を希望される場合は、医療機関にお問い合わせいただき、受診の際は東村山市の受診券をご持参下さい。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "受診票",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/files/nyuuyoujikenkou_r5_69_1101.xlsx",
+          "title": "東村山市　6から7か月児・9から10か月児健康診査実施医療機関一覧表（エクセル：14KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/nyuuyoujikenkou.html",
+        "title": "乳幼児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子ども保健・給付課",
+        "contactPhone": "042-393-5111",
+        "contactEx": "手当係：3604　母子保健第２係：3605",
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashimurayama.tokyo.jp/formmail.html?_div=029300&_pageid=1111&_name=子ども家庭部子ども保健・給付課",
+        "contactComment": "ファクス：手当係：042-394-7399　母子保健第１係・母子保健第２係：042-390-2270",
+        "zipCode": "1898501",
+        "contactAddress": "東村山市本町1丁目2番地3　いきいきプラザ2階（手当係：手当・子ども医療証について）　いきいきプラザ3階（母子保健第２係：予防接種、母子保健について）"
+      },
+      "area": {
+        "areaCode": "132136;東村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132136+1+UM50",
+        "organization": "1000020132136",
+        "compartment": "子ども家庭部子ども保健・給付課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-07-01",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "東村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "3歳児健康診査",
+        "shortName": "3歳児健康診査"
+      },
+      "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。東村山市では3歳児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "3歳児健康診査\n内容\n問診・計測・診察・集団指導・（歯みがき指導等・相談）\n\n日時\n実施日程につきましては、母子保健　乳幼児健康診査年間日程;https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/boshi2-2.htmlのページをご覧ください。\n\n受付時間　午後0時20分から2時\n\nまた、該当する方には個別にお知らせいたします。なお、市報でもご案内いたしますので、通知が届かない方はご連絡ください。\n\n場所\nいきいきプラザ2階\n\n対象者\n詳しくは、母子保健　乳幼児健康診査年間日程;https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/boshi2-2.htmlのページをご覧ください。\n\nまた、該当する方には個別にお知らせいたします。なお、市報でもご案内いたしますので、通知が届かない方はご連絡ください。\n\n費用\n無料\n\n持ち物\n母子健康手帳（カバーや保険証等は外しておいてください）\n3歳児健康診査アンケート\n目と耳のアンケート\n尿\n健康保険証（精密検査受診票発行時に必要）\nお子さんの歯ブラシ・タオル\n\n来所時のお願い\n当日、37.5度以上の発熱がある場合や体調不良がある場合は、ご来場をお控えください。\n\n注意事項\n車での来場について\n駐車場に限りがありますので、なるべくお車での来所はお控えください。",
+      "target": {
+        "targetPersons": "3歳児\n詳しくは、母子保健　乳幼児健康診査年間日程;https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/boshi2-2.htmlのページをご覧ください。\n\nまた、該当する方には個別にお知らせいたします。なお、市報でもご案内いたしますので、通知が届かない方はご連絡ください。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "3歳児"
+      },
+      "support": {
+        "description": "問診・計測・診察・集団指導・（歯みがき指導等・相談）",
+        "monetarySupport": null,
+        "materiallySupport": "問診・計測・診察・集団指導・（歯みがき指導等・相談）"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "母子保健　乳幼児健康診査年間日程;https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/boshi2-2.html"
+      },
+      "implementationPlace": {
+        "implementationName": "いきいきプラザ2階;https://www.city.higashimurayama.tokyo.jp/shisetsu/shi/shi/index.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "12:20",
+        "toHM": "13:50",
+        "condiutilizationConditionstions": "受付時間　午後0時20分から13時50分"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "該当する方には個別にお知らせいたします。なお、市報でもご案内いたしますので、通知が届かない方はご連絡ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳（カバーや保険証等は外しておいてください）\n3歳児健康診査アンケート\n目と耳のアンケート\n尿\n健康保険証（精密検査受診票発行時に必要）\nお子さんの歯ブラシ・タオル",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/boshi2-2.html",
+          "title": "母子保健　乳幼児健康診査年間日程"
+        },
+        {
+          "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/boshi2-2.html",
+          "title": "母子保健　乳幼児健康診査年間日程"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashimurayama.tokyo.jp/event/kodomo/nyuji/3sai-kensin.html",
+        "title": "3歳児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子ども保健・給付課",
+        "contactPhone": "042-393-5111",
+        "contactEx": "手当係：3604　母子保健第２係：3605",
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashimurayama.tokyo.jp/formmail.html?_div=029300&_pageid=29418&_name=子ども家庭部子ども保健・給付課",
+        "contactComment": "ファクス：手当係：042-394-7399　母子保健第１係・母子保健第２係：042-390-2270",
+        "zipCode": "1898501",
+        "contactAddress": "東村山市本町1丁目2番地3　いきいきプラザ2階（手当係：手当・子ども医療証について）　いきいきプラザ3階（母子保健第２係：予防接種、母子保健について）"
+      },
+      "area": {
+        "areaCode": "132136;東村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132136+1+UM52",
+        "organization": "1000020132136",
+        "compartment": "子ども家庭部子ども保健・給付課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-06-14",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "東村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出生連絡票・低体重児出生届",
+        "shortName": "低体重児の届出と未熟児訪問指導"
+      },
+      "summary": "赤ちゃんが生まれたら、母子手帳に添付されている出生連絡票（はがき）を記入して、郵送または提出してください。出生連絡票をもとに、「こんにちは赤ちゃん事業（乳幼児全戸訪問）」のご連絡をします。\nなお、法律（母子保健法）で2,500グラム未満のお子さんが出生した時は、保護者がその旨を速やかに届け出ることが義務づけられており、出生連絡票はその届出を兼ねています。",
+      "description": "低体重児の届出と未熟児訪問指導\n保護者からの届け出により、保健師等が訪問して相談をお受けします。\n\n対象者\n体重が2,500グラム未満の乳児（保護者の方に届け出ていただきます）\n　 （注記）　母子保健法第18条の規定により、届出が義務付けられています。\n\n申請\n母子健康手帳交付時に配布している出生通知票にて届出をしてください。　低出生体重児届出票を兼ねております。",
+      "target": {
+        "targetPersons": "体重が2,500グラム未満の乳児（保護者の方に届け出ていただきます）\n（注記）　母子保健法第18条の規定により、届出が義務付けられています。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "体重が2,500グラム未満の乳児"
+      },
+      "support": {
+        "description": "保護者からの届け出により、保健師等が訪問して相談をお受けします。",
+        "monetarySupport": null,
+        "materiallySupport": "保護者からの届け出により、保健師等が訪問して相談をお受けします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "母子健康手帳交付時に配布している出生通知票にて届出をしてください。　低出生体重児届出票を兼ねております。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/sodan/teitaiju/boshi1-9.html",
+        "title": "低体重児の届出と未熟児訪問指導"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子ども保健・給付課",
+        "contactPhone": "042-393-5111",
+        "contactEx": "手当係：3604　母子保健第２係：3605",
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashimurayama.tokyo.jp/formmail.html?_div=029300&_pageid=1296&_name=子ども家庭部子ども保健・給付課",
+        "contactComment": "ファクス：手当係：042-394-7399　母子保健第１係・母子保健第２係：042-390-2270",
+        "zipCode": "1898501",
+        "contactAddress": "東村山市本町1丁目2番地3　いきいきプラザ2階（手当係：手当・子ども医療証について）　いきいきプラザ3階（母子保健第２係：予防接種、母子保健について）"
+      },
+      "area": {
+        "areaCode": "132136;東村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132136+1+UM791",
+        "organization": "1000020132136",
+        "compartment": "子ども家庭部子ども保健・給付課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2020-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "東村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第18条（低体重児の届出）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "077"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て支援拠点・地域子育て支援センター",
+        "shortName": "子育て総合支援センター「ころころの森」"
+      },
+      "summary": "子育て総合支援センターは、子育て中の親子が気軽に集い、相互交流や子育ての不安・悩みを相談できる場を提供しています。また、地域の子育て関連情報の提供や、子育て支援に関する講習なども実施しています。",
+      "description": "子育て総合支援センター「ころころの森」\n\nころころの森のページ（外部リンク）外部サイトへのリンク;http://r.goope.jp/corocoronomori\n\n所在地\n住所：東村山市野口町1丁目25番地15　地域福祉センター2階\n電話：042-395-7280\n\n交通案内\n鉄道\n西武新宿線東村山駅　西口下車　徒歩6分　\n\nバス\n市内を運行しているグリーンバスご利用の場合は、東村山駅西口から「久米川駅南口」行きにお乗りいただき、「地域福祉センター」で下車ください。\n\n駐車場\n駐車場はございますが台数に限りがあるため、可能な限り徒歩・自転車又は公共の交通機関のご利用をお願いいたします。\n\n施設内容\nプレイルーム\n赤ちゃんコーナー\nくつろぎルーム\n多目的室\n子育て支援活動室\nベビーカー置き場\n赤ちゃん・ふらっとマーク\n授乳及びおむつ替えやお子さんと一緒に入れるトイレ等の設備がございます。乳幼児連れで外出の際、必要な時には子育て総合支援センター「ころころの森」の受付にお気軽にお声掛けください。\n\n身障者用トイレの有無\n有\n\nおむつ交換場所の有無\n有\n\n利用方法\n初めて来館された方は登録手続をお願いいたします。\n次回以降は登録カードを受付でご提出ください。\n登録は年度更新となります。\n\n開館時間\n・子育てひろば\n火曜日から土曜日の午前10時から午後4時\n・ファミリー・サポート・センター\n月曜日から金曜日の午前9時から午後5時\n\n休館日\n・子育てひろば\n日曜日、月曜日、祝祭日、年末年始\n・ファミリー・サポート・センター\n土曜日、日曜日、祝祭日、年末年始\n\n入館料・利用料\n無料\n\nAEDの設置\nAEDロゴ\n東村山市子育て総合支援センターには、AED（自動体外式除細動器)が設置されています。AEDは、心臓のけいれんを排除したり、停止した心臓の鼓動再開のための電気的刺激を与える医療機器です。）\n\nAED（自動体外式除細動器）",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "ころころの森のページ（外部リンク）;https://r.goope.jp/corocoronomori/\n\n施設内容\n・プレイルーム\n・赤ちゃんコーナー\n・くつろぎルーム\n・多目的室\n・子育て支援活動室\n・ベビーカー置き場\n\n授乳及びおむつ替えやお子さんと一緒に入れるトイレ等の設備がございます。乳幼児連れで外出の際、必要な時には子育て総合支援センター「ころころの森」の受付にお気軽にお声掛けください。\n\n身障者用トイレの有無\n有\n\nおむつ交換場所の有無\n有\n\n開館時間\n・子育てひろば\n火曜日から土曜日の午前10時から午後4時\n・ファミリー・サポート・センター\n月曜日から金曜日の午前9時から午後5時\n\n休館日\n・子育てひろば\n日曜日、月曜日、祝祭日、年末年始\n・ファミリー・サポート・センター\n土曜日、日曜日、祝祭日、年末年始",
+        "monetarySupport": null,
+        "materiallySupport": "ころころの森のページ（外部リンク）;https://r.goope.jp/corocoronomori/\n\n施設内容\n・プレイルーム\n・赤ちゃんコーナー\n・くつろぎルーム\n・多目的室\n・子育て支援活動室\n・ベビーカー置き場\n\n授乳及びおむつ替えやお子さんと一緒に入れるトイレ等の設備がございます。乳幼児連れで外出の際、必要な時には子育て総合支援センター「ころころの森」の受付にお気軽にお声掛けください。\n\n身障者用トイレの有無\n有\n\nおむつ交換場所の有無\n有\n\n開館時間\n・子育てひろば\n火曜日から土曜日の午前10時から午後4時\n・ファミリー・サポート・センター\n月曜日から金曜日の午前9時から午後5時\n\n休館日\n・子育てひろば\n日曜日、月曜日、祝祭日、年末年始\n・ファミリー・サポート・センター\n土曜日、日曜日、祝祭日、年末年始"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "子育て総合支援センター「ころころの森」",
+        "implementationAddress": "東村山市野口町1丁目25番地15　地域福祉センター2階"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "開館時間\n・子育てひろば\n火曜日から土曜日の午前10時から午後4時\n・ファミリー・サポート・センター\n月曜日から金曜日の午前9時から午後5時"
+      },
+      "specificDate": null,
+      "holiday": "休館日\n・子育てひろば\n日曜日、月曜日、祝祭日、年末年始\n・ファミリー・サポート・センター\n土曜日、日曜日、祝祭日、年末年始",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "初めて来館された方は登録手続をお願いいたします。\n次回以降は登録カードを受付でご提出ください。\n登録は年度更新となります。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "http://r.goope.jp/corocoronomori",
+          "title": "東村山市子育て総合支援センター　ころころの森"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/shien/corocoronomori/index.html",
+        "title": "子育て総合支援センター「ころころの森」"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て総合支援センター「ころころの森」",
+        "contactPhone": "042-395-7280",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1890022",
+        "contactAddress": "東村山市野口町1丁目25番地15　地域福祉センター2階"
+      },
+      "area": {
+        "areaCode": "132136;東村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132136+2+UM110",
+        "organization": "1000020132136",
+        "compartment": "子ども家庭部地域子育て課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "東村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法、児童福祉法、子ども・子育て支援法",
+        "regulationArticle": "第6条の3第6項、第21条の9、第59条第9号"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "東村山市の子育てに関する相談",
+        "shortName": "子育て電話相談（子育て全般についての相談）"
+      },
+      "summary": "子育て全般についての相談",
+      "description": "子育て電話相談（子育て全般についての相談）\n電話　042-393-5111（市役所代表）\n月曜から金曜の午前8時30分から午後5時（祝日除く）",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "子育て電話相談（子育て全般についての相談）\n電話　042-393-5111（市役所代表）\n月曜から金曜の午前8時30分から午後5時（祝日除く）",
+        "monetarySupport": null,
+        "materiallySupport": "子育て電話相談（子育て全般についての相談）\n電話　042-393-5111（市役所代表）\n月曜から金曜の午前8時30分から午後5時（祝日除く）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:30",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "月曜から金曜の午前8時30分から午後5時（祝日除く）"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/kosodatesedai.html",
+        "title": "子育て世代包括支援センター事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子ども保健・給付課",
+        "contactPhone": "042-393-5111",
+        "contactEx": "手当係：3604　母子保健第２係：3605",
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashimurayama.tokyo.jp/formmail.html?_div=029300&_pageid=1083&_name=子ども家庭部子ども保健・給付課",
+        "contactComment": "ファクス：手当係：042-394-7399　母子保健第１係・母子保健第２係：042-390-2270",
+        "zipCode": "1898501",
+        "contactAddress": "東村山市本町1丁目2番地3　いきいきプラザ2階（手当係：手当・子ども医療証について）　いきいきプラザ3階（母子保健第２係：予防接種、母子保健について）"
+      },
+      "area": {
+        "areaCode": "132136;東村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132136+2+UM119",
+        "organization": "1000020132136",
+        "compartment": "子ども家庭部子ども保健・給付課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2020-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "東村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "東村山市の妊娠・出産に関する相談",
+        "shortName": "ゆりかごキャラバン（出張相談）"
+      },
+      "summary": "日頃の妊娠中や子育てに関する疑問や悩みなどを市役所だけではなく、より身近な施設で気軽に相談することができる場づくりとして、母子保健コーディネーター（助産師・保健師）が市内施設を回るゆりかごキャラバン（出張相談）を行っています。",
+      "description": "ゆりかごキャラバン（出張相談）\n　日頃の妊娠中や子育てに関する疑問や悩みなどを市役所だけではなく、より身近な施設で気軽に相談することができる場づくりとして、母子保健コーディネーター（助産師・保健師）が市内施設を回るゆりかごキャラバン（出張相談）を行っています。最新の開催状況等については、参加される前に東村山市ホームページや電話にてご確認ください。\n\n令和6年度予定\n実施場所・日時・対象等\n令和6年度　　ゆりかごキャラバンあきつ\n https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/yurikago-caravan.html\n\n（注記）ころころの森の出張ひろばあきつ「まんま」にゆりかごキャラバンがお邪魔します。\n住所：東村山市秋津町5丁目11番地40\n予約：予約制ではありませんが、変更することがあります。（電話：042-395-7280）\n対象：妊娠中から就学前の親子\n\n令和6年度　ゆりかごキャラバンぷくぷく\n https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/yurikago-caravan.html\n\n（注記）のぐちちょう子育てひろば（愛称ぷくぷく）主催のベビーサロンにゆりかごキャラバンがお邪魔します。\n住所：東村山市野口町2丁目4番地36\n予約：のぐちちょう子育てひろば　ぷくぷくに直接、または電話：042-393-4181\n対象：0歳児親子\n\n令和6年度　ゆりかごキャラバン赤ちゃん絵本ひろば\n https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/yurikago-caravan.html\n\n（注記）赤ちゃん絵本ひろばは中央図書館主催のイベントにゆりかごキャラバンがお邪魔します。\n住所：東村山市本町1丁目1番地1（市民センター2階）\n予約：市立図書館に直接、または電話：042-394-2900）\n対象：0歳児・1歳児とその保護者",
+      "target": {
+        "targetPersons": "妊娠中や子育て",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "日頃の妊娠中や子育てに関する疑問や悩みなどを市役所だけではなく、より身近な施設で気軽に相談することができる場づくりとして、母子保健コーディネーター（助産師・保健師）が市内施設を回るゆりかごキャラバン（出張相談）を行っています。\n\n令和6年度予定\n実施場所・日時・対象等\n令和6年度　　ゆりかごキャラバンあきつ\n https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/yurikago-caravan.html\n\n（注記）ころころの森の出張ひろばあきつ「まんま」にゆりかごキャラバンがお邪魔します。\n住所：東村山市秋津町5丁目11番地40\n予約：予約制ではありませんが、変更することがあります。（電話：042-395-7280）\n対象：妊娠中から就学前の親子\n\n令和6年度　ゆりかごキャラバンぷくぷく\n https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/yurikago-caravan.html\n\n（注記）のぐちちょう子育てひろば（愛称ぷくぷく）主催のベビーサロンにゆりかごキャラバンがお邪魔します。\n住所：東村山市野口町2丁目4番地36\n予約：のぐちちょう子育てひろば　ぷくぷくに直接、または電話：042-393-4181\n対象：0歳児親子\n\n令和6年度　ゆりかごキャラバン赤ちゃん絵本ひろば\n https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/yurikago-caravan.html \n\n（注記）赤ちゃん絵本ひろばは中央図書館主催のイベントにゆりかごキャラバンがお邪魔します。\n住所：東村山市本町1丁目1番地1（市民センター2階）\n予約：市立図書館に直接、または電話：042-394-2900）\n対象：0歳児・1歳児とその保護者",
+        "monetarySupport": null,
+        "materiallySupport": "日頃の妊娠中や子育てに関する疑問や悩みなどを市役所だけではなく、より身近な施設で気軽に相談することができる場づくりとして、母子保健コーディネーター（助産師・保健師）が市内施設を回るゆりかごキャラバン（出張相談）を行っています。\n\n令和6年度予定\n実施場所・日時・対象等\n令和6年度　　ゆりかごキャラバンあきつ\n https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/yurikago-caravan.html\n\n（注記）ころころの森の出張ひろばあきつ「まんま」にゆりかごキャラバンがお邪魔します。\n住所：東村山市秋津町5丁目11番地40\n予約：予約制ではありませんが、変更することがあります。（電話：042-395-7280）\n対象：妊娠中から就学前の親子\n\n令和6年度　ゆりかごキャラバンぷくぷく\n https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/yurikago-caravan.html\n\n（注記）のぐちちょう子育てひろば（愛称ぷくぷく）主催のベビーサロンにゆりかごキャラバンがお邪魔します。\n住所：東村山市野口町2丁目4番地36\n予約：のぐちちょう子育てひろば　ぷくぷくに直接、または電話：042-393-4181\n対象：0歳児親子\n\n令和6年度　ゆりかごキャラバン赤ちゃん絵本ひろば\n https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/yurikago-caravan.html \n\n（注記）赤ちゃん絵本ひろばは中央図書館主催のイベントにゆりかごキャラバンがお邪魔します。\n住所：東村山市本町1丁目1番地1（市民センター2階）\n予約：市立図書館に直接、または電話：042-394-2900）\n対象：0歳児・1歳児とその保護者"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "令和6年度　　ゆりかごキャラバンあきつ\n https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/yurikago-caravan.html\n\n（注記）ころころの森の出張ひろばあきつ「まんま」にゆりかごキャラバンがお邪魔します。\n住所：東村山市秋津町5丁目11番地40\n予約：予約制ではありませんが、変更することがあります。（電話：042-395-7280）\n対象：妊娠中から就学前の親子\n\n令和6年度　ゆりかごキャラバンぷくぷく\n https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/yurikago-caravan.html\n\n（注記）のぐちちょう子育てひろば（愛称ぷくぷく）主催のベビーサロンにゆりかごキャラバンがお邪魔します。\n住所：東村山市野口町2丁目4番地36\n予約：のぐちちょう子育てひろば　ぷくぷくに直接、または電話：042-393-4181\n対象：0歳児親子\n\n令和6年度　ゆりかごキャラバン赤ちゃん絵本ひろば\n https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/yurikago-caravan.html \n\n（注記）赤ちゃん絵本ひろばは中央図書館主催のイベントにゆりかごキャラバンがお邪魔します。\n住所：東村山市本町1丁目1番地1（市民センター2階）\n予約：市立図書館に直接、または電話：042-394-2900）\n対象：0歳児・1歳児とその保護者"
+      },
+      "implementationPlace": {
+        "implementationName": "ころころの森の出張ひろばあきつ「まんま」,のぐちちょう子育てひろば（愛称ぷくぷく）,中央図書館",
+        "implementationAddress": "東村山市秋津町5丁目11番地40,東村山市野口町2丁目4番地36,東村山市本町1丁目1番地1（市民センター2階）"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "令和6年度　　ゆりかごキャラバンあきつ\n https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/yurikago-caravan.html\n\n（注記）ころころの森の出張ひろばあきつ「まんま」にゆりかごキャラバンがお邪魔します。\n住所：東村山市秋津町5丁目11番地40\n予約：予約制ではありませんが、変更することがあります。（電話：042-395-7280）\n対象：妊娠中から就学前の親子\n\n令和6年度　ゆりかごキャラバンぷくぷく\n https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/yurikago-caravan.html\n\n（注記）のぐちちょう子育てひろば（愛称ぷくぷく）主催のベビーサロンにゆりかごキャラバンがお邪魔します。\n住所：東村山市野口町2丁目4番地36\n予約：のぐちちょう子育てひろば　ぷくぷくに直接、または電話：042-393-4181\n対象：0歳児親子\n\n令和6年度　ゆりかごキャラバン赤ちゃん絵本ひろば\n https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/yurikago-caravan.html \n\n（注記）赤ちゃん絵本ひろばは中央図書館主催のイベントにゆりかごキャラバンがお邪魔します。\n住所：東村山市本町1丁目1番地1（市民センター2階）\n予約：市立図書館に直接、または電話：042-394-2900）\n対象：0歳児・1歳児とその保護者"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "令和6年度　　ゆりかごキャラバンあきつ\n https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/yurikago-caravan.html\n\n（注記）ころころの森の出張ひろばあきつ「まんま」にゆりかごキャラバンがお邪魔します。\n住所：東村山市秋津町5丁目11番地40\n予約：予約制ではありませんが、変更することがあります。（電話：042-395-7280）\n対象：妊娠中から就学前の親子\n\n令和6年度　ゆりかごキャラバンぷくぷく\n https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/yurikago-caravan.html\n\n（注記）のぐちちょう子育てひろば（愛称ぷくぷく）主催のベビーサロンにゆりかごキャラバンがお邪魔します。\n住所：東村山市野口町2丁目4番地36\n予約：のぐちちょう子育てひろば　ぷくぷくに直接、または電話：042-393-4181\n対象：0歳児親子\n\n令和6年度　ゆりかごキャラバン赤ちゃん絵本ひろば\n https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/yurikago-caravan.html \n\n（注記）赤ちゃん絵本ひろばは中央図書館主催のイベントにゆりかごキャラバンがお邪魔します。\n住所：東村山市本町1丁目1番地1（市民センター2階）\n予約：市立図書館に直接、または電話：042-394-2900）\n対象：0歳児・1歳児とその保護者",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.higashimurayama.tokyo.jp/shisetsu/shukai/shiminsenta/index.html",
+          "title": "市民センター"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/kodomokenko/1saimiman/yurikago-caravan.html",
+        "title": "ゆりかごキャラバン（出張相談）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": "042-393-5111",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1898501",
+        "contactAddress": "東京都東村山市本町1丁目2番地3"
+      },
+      "area": {
+        "areaCode": "132136;東村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132136+2+UM47",
+        "organization": "1000020132136",
+        "compartment": "子ども家庭部子ども保健・給付課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "東村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "東村山市の子育てに関する相談",
+        "shortName": "子育てパートナー「ころころたまご」"
+      },
+      "summary": "子育ての様々な疑問や悩みをお受けする子育て支援の総合窓口です。予約なしで、お子様連れでのご利用ができます。東村山市の多様な子育て情報をご用意していますので、まずはお気軽にお立ち寄りください。",
+      "description": "子育てパートナー「ころころたまご」\n事業内容\n　子育ての様々な疑問や悩みをお受けする子育て支援の総合窓口です。予約なしで、お子様連れでのご利用ができます。東村山市の多様な子育て情報をご用意していますので、まずはお気軽にお立ち寄りください。\n\n開設場所および日時\nいきいきプラザ1階（東村山市本町1丁目2番地3）\n月曜から金曜\n午前10時から午後4時\nころころの森（東村山市野口町1丁目25番地15　地域福祉センター2階）\n火曜および土曜\n午前10時から午後4時",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "事業内容\n　子育ての様々な疑問や悩みをお受けする子育て支援の総合窓口です。予約なしで、お子様連れでのご利用ができます。東村山市の多様な子育て情報をご用意していますので、まずはお気軽にお立ち寄りください。\n\n開設場所および日時\nいきいきプラザ1階（東村山市本町1丁目2番地3）\n・月曜から金曜\n・午前10時から午後4時\n\nころころの森（東村山市野口町1丁目25番地15　地域福祉センター2階）\n・火曜および土曜\n・午前10時から午後4時",
+        "monetarySupport": null,
+        "materiallySupport": "事業内容\n　子育ての様々な疑問や悩みをお受けする子育て支援の総合窓口です。予約なしで、お子様連れでのご利用ができます。東村山市の多様な子育て情報をご用意していますので、まずはお気軽にお立ち寄りください。\n\n開設場所および日時\nいきいきプラザ1階（東村山市本町1丁目2番地3）\n・月曜から金曜\n・午前10時から午後4時\n\nころころの森（東村山市野口町1丁目25番地15　地域福祉センター2階）\n・火曜および土曜\n・午前10時から午後4時"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "いきいきプラザ1階,ころころの森",
+        "implementationAddress": "東村山市本町1丁目2番地3,東村山市野口町1丁目25番地15　地域福祉センター2階"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "16:00",
+        "condiutilizationConditionstions": "いきいきプラザ1階（東村山市本町1丁目2番地3）\n月曜から金曜\n午前10時から午後4時\nころころの森（東村山市野口町1丁目25番地15　地域福祉センター2階）\n火曜および土曜\n午前10時から午後4時"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "予約なしで、お子様連れでのご利用ができます。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/shien/corocoronomori/index.html",
+          "title": "ころころの森"
+        },
+        {
+          "uri": "https://www.city.higashimurayama.tokyo.jp/shisetsu/shi/shi/index.html",
+          "title": "いきいきプラザ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/shien/korokorotamago.html",
+        "title": "子育てパートナー「ころころたまご」"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部地域子育て課",
+        "contactPhone": "042-393-5111",
+        "contactEx": "3608 3609",
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashimurayama.tokyo.jp/formmail.html?_div=029500&_pageid=1242&_name=子ども家庭部地域子育て課",
+        "contactComment": "ファクス：042-394-7399",
+        "zipCode": "1898501",
+        "contactAddress": "東村山市本町1丁目2番地3　いきいきプラザ2階"
+      },
+      "area": {
+        "areaCode": "132136;東村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132136+3+UM119",
+        "organization": "1000020132136",
+        "compartment": "子ども家庭部地域子育て課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "東村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "子ども・子育て支援法",
+        "regulationArticle": "第59条第1号"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "東村山市の妊娠・出産に関する相談",
+        "shortName": "妊産婦電話相談"
+      },
+      "summary": "妊娠中の不安や子育てでわからないことなどを、母子保健コーディネーターに相談できます。",
+      "description": "妊産婦電話相談\n妊娠中の不安や子育てでわからないことなどを、母子保健コーディネーターに相談できます。\n電話：042-393-5445(直通)\n午前8時30分から午後5時(祝祭日を除く月曜から金曜)",
+      "target": {
+        "targetPersons": "妊産婦",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠中の不安や子育てでわからないことなどを、母子保健コーディネーターに相談できます。\n電話：042-393-5445(直通)\n午前8時30分から午後5時(祝祭日を除く月曜から金曜)",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠中の不安や子育てでわからないことなどを、母子保健コーディネーターに相談できます。\n電話：042-393-5445(直通)\n午前8時30分から午後5時(祝祭日を除く月曜から金曜)"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:30",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "午前8時30分から午後5時(祝祭日を除く月曜から金曜)"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/ninshin/ninshin/boshi-yurikago.html",
+        "title": "ゆりかご・ひがしむらやま"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子ども保健・給付課",
+        "contactPhone": "042-393-5111",
+        "contactEx": "手当係：3604　母子保健第２係：3605",
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashimurayama.tokyo.jp/formmail.html?_div=029300&_pageid=1187&_name=子ども家庭部子ども保健・給付課",
+        "contactComment": "ファクス：手当係：042-394-7399　母子保健第１係・母子保健第２係：042-390-2270",
+        "zipCode": "1898501",
+        "contactAddress": "東村山市本町1丁目2番地3　いきいきプラザ2階（手当係：手当・子ども医療証について）　いきいきプラザ3階（母子保健第２係：予防接種、母子保健について）"
+      },
+      "area": {
+        "areaCode": "132136;東村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132136+3+UM47",
+        "organization": "1000020132136",
+        "compartment": "子ども家庭部子ども保健・給付課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-24",
+        "updater": "東村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "東村山市の子育てに関する相談",
+        "shortName": "母子・父子相談"
+      },
+      "summary": "母子・父子自立支援員が、母子・父子の様々な問題について、各種相談に応じます。",
+      "description": "母子・父子・女性相談\n母子・父子自立支援員・女性相談支援員が、母子・父子・女性の様々な問題について、各種相談に応じます。\n\n日時\n月曜から金曜\n午前9時から正午、午後1時から4時\n\n場所\n市民センター1階　自立相談課\n\n問い合わせ\n健康福祉部自立相談課",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "母子・父子自立支援員・婦人相談員が、母子・父子・女性の様々な問題について、各種相談に応じます。\n\n日時\n月曜から金曜\n午前9時から正午、午後1時から4時\n\n場所\n市民センター1階　自立相談課",
+        "monetarySupport": null,
+        "materiallySupport": "母子・父子自立支援員・婦人相談員が、母子・父子・女性の様々な問題について、各種相談に応じます。\n\n日時\n月曜から金曜\n午前9時から正午、午後1時から4時\n\n場所\n市民センター1階　自立相談課"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "市民センター1階　自立相談課",
+        "implementationAddress": "東村山市本町1丁目1番地1"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "月曜から金曜\n午前9時から正午、午後1時から4時"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.higashimurayama.tokyo.jp/shisetsu/shukai/shiminsenta/index.html",
+          "title": "市民センター"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashimurayama.tokyo.jp/kosodate/sodan/bosisoudan.html",
+        "title": "母子・父子・女性相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康福祉部自立相談課",
+        "contactPhone": "042-393-5111",
+        "contactEx": "相談第1係：3508　相談第2係：3509",
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashimurayama.tokyo.jp/formmail.html?_div=026400&_pageid=1277&_name=健康福祉部自立相談課",
+        "contactComment": "ファクス：042-395-2131",
+        "zipCode": "1898501",
+        "contactAddress": "東村山市本町1丁目1番地1"
+      },
+      "area": {
+        "areaCode": "132136;東村山市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132136+4+UM119",
+        "organization": "1000020132136",
+        "compartment": "健康福祉部自立相談課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-03-04",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "東村山市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    }
+  ]
+}

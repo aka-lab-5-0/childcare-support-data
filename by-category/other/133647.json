@@ -1,0 +1,989 @@
+{
+  "version": "2025-07-10T02:38:54.146Z",
+  "areaCode": "133647",
+  "areaName": "神津島村",
+  "category": "other",
+  "count": 8,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "小児科救急",
+        "shortName": "神津島村診療所"
+      },
+      "summary": "神津島村では、村内の小児科医がローテーションを組んで、休日や夜間に、赤ちゃんやお子さんが救急の際の診療を行っています。",
+      "description": "神津島村診療所\n神津島村診療所では、総合的な診療を行っています。\nお子さんの具合が悪くなった際には、外来にお越し下さい。\n夜間・救急の場合にはあらかじめお電話ください。\nお電話は 24 時間繋がります。\n・外来受付時間\n８：３０～１１：００",
+      "target": {
+        "targetPersons": "お子さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "総合的な診療を行っています。\nお子さんの具合が悪くなった際には、外来にお越し下さい。\n夜間・救急の場合にはあらかじめお電話ください。",
+        "monetarySupport": null,
+        "materiallySupport": "総合的な診療を行っています。\nお子さんの具合が悪くなった際には、外来にお越し下さい。\n夜間・救急の場合にはあらかじめお電話ください。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "神津島村診療所",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "お電話は 24 時間繋がります。\n・外来受付時間\n８：３０～１１：００"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "お子さんの具合が悪くなった際には、外来にお越し下さい。\n夜間・救急の場合にはあらかじめお電話ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-byouki.pdf",
+        "title": "病気になったときには"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "診療所",
+        "contactPhone": "04992-8-1121",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133647;神津島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133647+1+UM114",
+        "organization": "9000020133647",
+        "compartment": "診療所",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-03-18",
+      "odInformation": {
+        "updateDate": "2024-08-19",
+        "updater": "神津島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "救急医療対策事業実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関するその他のこと",
+        "shortName": "子育て応援とうきょうパスポート"
+      },
+      "summary": "東京都では、企業や店舗が善意で様々なサービスを提供する「子育て応援とうきょうパスポート事業」を実施しています。",
+      "description": "子育て応援とうきょうパスポートをご活用ください！\n東京都では、企業や店舗が善意で様々なサービスを提供する「子育て応援とうきょうパスポート事業」を実施しています。\n・対象\n18 歳未満のお子様や妊娠中の方がいる世帯\n・受けられるサービス\n協賛店では、商品の割引や粉ミルクのお湯の提供等、様々なサービスを提供します。\n※利用の際、パスポートや年齢確認書類等の提示を求められることがあります。\n・パスポートの入手方法\n子育て応援とうきょうアプリや子育て応援とうきょうパスポート運営サイト\nhttps://kosodate.pass.metro.tokyo.jp/で必要事項を入力すると、デジタルパスポートを入手できます。",
+      "target": {
+        "targetPersons": "18 歳未満のお子様や妊娠中の方がいる世帯",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "18 歳未満のお子様や妊娠中の方"
+      },
+      "support": {
+        "description": "協賛店では、商品の割引や粉ミルクのお湯の提供等、様々なサービスを提供します。\n※利用の際、パスポートや年齢確認書類等の提示を求められることがあります。",
+        "monetarySupport": null,
+        "materiallySupport": "協賛店では、商品の割引や粉ミルクのお湯の提供等、様々なサービスを提供します。\n※利用の際、パスポートや年齢確認書類等の提示を求められることがあります。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "子育て応援とうきょうアプリや子育て応援とうきょうパスポート運営サイト\nhttps://kosodate.pass.metro.tokyo.jp/で必要事項を入力すると、デジタルパスポートを入手できます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-tanosii.pdf",
+        "title": "たのしい子育てをするために"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "東京都福祉保健局少子社会対策部計画課",
+        "contactPhone": "03-5320-4115",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133647;神津島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133647+1+UM120",
+        "organization": "9000020133647",
+        "compartment": "東京都福祉保健局少子社会対策部計画課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-03-18",
+      "odInformation": {
+        "updateDate": "2024-08-19",
+        "updater": "神津島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小学校・中学校の就学援助費",
+        "shortName": "入学・転入学"
+      },
+      "summary": "経済的な理由により就学が困難と認められる、公立の小学校・中学校に通学する児童・生徒の保護者を対象に、学用品費、修学旅行費、給食費などを支給します。",
+      "description": "入学・転入学\n入学を予定されているお子さんには、小学校よりご案内をお送りします。\n転入・転居された方は、前の学校が発行した在学証明書、教科書給与証明書をお持ち下さい。転出される方は、在学している学校から在学証明書などをもらい、転出先で手続きしてください。",
+      "target": {
+        "targetPersons": "入学を予定されているお子さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "入学を予定されているお子さん"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "小学校よりご案内をお送りします。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "転入・転居された方は、前の学校が発行した在学証明書、教科書給与証明書をお持ち下さい。転出される方は、在学している学校から在学証明書などをもらい、転出先で手続きしてください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-syougakou.pdf",
+        "title": "小学校"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会",
+        "contactPhone": "04992-8-1222",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133647;神津島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133647+1+UM126",
+        "organization": "9000020133647",
+        "compartment": "教育委員会",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-03-18",
+      "odInformation": {
+        "updateDate": "2024-08-19",
+        "updater": "神津島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "学校教育法",
+        "regulationArticle": "第19条"
+      },
+      "tag": {
+        "categoryCode": [
+          "005"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出生届",
+        "shortName": "出生届"
+      },
+      "summary": "出生届とは、生まれてきたお子さんの氏名等を戸籍に記載するための手続きです。\n戸籍に記載されることで、生まれてきたお子さんの親族関係が公的に証明されます。",
+      "description": "出生届\n出生届は、生まれた日を含めて１４日以内に名前を付けて届出してください。出生届の用紙は出産後に病院で受け取って下さい。\n■届け出先\n・届出人の所在地(住所地のほか、里帰り先の一時滞在地も含む)\n・父または母の本籍地\n・子供の出生地\n■届け出に必要なもの\n・出生届(出生証明書欄記入後のもの)\n・印鑑(シャチハタ不可)\n・母子健康手帳\n・届出人の身分証明書",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "出生届の用紙は出産後に病院で受け取って下さい。",
+      "procedurePersons": null,
+      "procedureMethod": "名前を付けて届出してください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "生まれた日を含めて１４日以内"
+      },
+      "electronicSubmission": false,
+      "belongings": "・出生届(出生証明書欄記入後のもの)\n・印鑑(シャチハタ不可)\n・母子健康手帳\n・届出人の身分証明書",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "役場福祉課",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-youkoso1.pdf",
+        "title": "ようこそ！赤ちゃん"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "役場福祉課",
+        "contactPhone": "04992-8-0011",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133647;神津島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133647+1+UM3",
+        "organization": "9000020133647",
+        "compartment": "役場福祉課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-03-18",
+      "odInformation": {
+        "updateDate": "2024-08-19",
+        "updater": "神津島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "戸籍法",
+        "regulationArticle": "第49条、第52条"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "077"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊娠・出産に関するその他のこと",
+        "shortName": "健康保険の手続き"
+      },
+      "summary": "健康保険の手続き\n生まれたお子さんが国民健康保険に加入する場合には、役場福祉課にてお手続きください。国民健康保険以外の保険に加入される場合には勤務先にお問い合わせください。",
+      "description": "健康保険の手続き\n生まれたお子さんが国民健康保険に加入する場合には、役場福祉課にてお手続きください。国民健康保険以外の保険に加入される場合には勤務先にお問い合わせください。",
+      "target": {
+        "targetPersons": "生まれたお子さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "生まれたお子さんが国民健康保険に加入する場合には、役場福祉課にてお手続きください。国民健康保険以外の保険に加入される場合には勤務先にお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "役場福祉課,勤務先",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-youkoso1.pdf",
+        "title": "ようこそ！赤ちゃん"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "役場福祉課",
+        "contactPhone": "04992-8-0011",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "国民健康保険以外の方 各勤務先へ",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133647;神津島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133647+1+UM48",
+        "organization": "9000020133647",
+        "compartment": "役場福祉課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-03-18",
+      "odInformation": {
+        "updateDate": "2024-08-19",
+        "updater": "神津島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "図書館の児童サービス（ブックスタートなど）",
+        "shortName": "神津島村図書館のご案内"
+      },
+      "summary": "ブックスタートとは、赤ちゃんとその保護者に絵本をプレゼントし、絵本を開く楽しい体験とともに、心ふれあうきっかけをつくる活動です。",
+      "description": "神津島村図書館のご案内\n乳幼児向けの絵本や紙芝居はもちろん、ママが知りたい子育てについての本も豊富な図書館。お散歩がてらに、ぜひご利用してみては？\n・開館時間 火曜日～日曜日 ９時３０分～１７時００分まで\n・休館日 毎週月曜日、国民の祝日、年末年始(１２月２８日～１月 4日)\n・貸出数 5 冊以内\n・貸出期間 2 週間以内\n・返却方法 カウンターへお返しください。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "乳幼児向けの絵本や紙芝居はもちろん、ママが知りたい子育てについての本も豊富な図書館。",
+        "monetarySupport": null,
+        "materiallySupport": "乳幼児向けの絵本や紙芝居はもちろん、ママが知りたい子育てについての本も豊富な図書館。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:30",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "開館時間 火曜日～日曜日 ９時３０分～１７時００分まで"
+      },
+      "specificDate": null,
+      "holiday": "休館日 毎週月曜日、国民の祝日、年末年始(１２月２８日～１月 4日)",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "・貸出数 5 冊以内\n・貸出期間 2 週間以内\n・返却方法 カウンターへお返しください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-tanosii.pdf",
+        "title": "たのしい子育てをするために"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "神津島村図書館",
+        "contactPhone": "04992-8-0405",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133647;神津島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133647+2+UM105",
+        "organization": "9000020133647",
+        "compartment": "神津島村図書館",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-03-18",
+      "odInformation": {
+        "updateDate": "2024-08-19",
+        "updater": "神津島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関するその他のこと",
+        "shortName": "身体障害者手帳"
+      },
+      "summary": "身体の不自由な方が、法律に基づくいろいろなサービスを受けやすくするために交付される手帳です。",
+      "description": "身体障害者手帳・療育手帳(愛の手帳)\n●身体障害者手帳\n身体の不自由な方が、法律に基づくいろいろなサービスを受けやすくするために交付される手帳です。障害の程度により 1 級～6 級までの区分があります。",
+      "target": {
+        "targetPersons": "身体の不自由な方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "身体の不自由な方が、法律に基づくいろいろなサービスを受けやすくするために交付される手帳です。",
+        "monetarySupport": null,
+        "materiallySupport": "身体の不自由な方が、法律に基づくいろいろなサービスを受けやすくするために交付される手帳です。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-sien.pdf",
+        "title": "障害のある子どもへの支援"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "役場福祉課",
+        "contactPhone": "04992-8-0011",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133647;神津島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133647+3+UM120",
+        "organization": "9000020133647",
+        "compartment": "役場福祉課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-03-18",
+      "odInformation": {
+        "updateDate": "2024-08-19",
+        "updater": "神津島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関するその他のこと",
+        "shortName": "保健福祉手帳"
+      },
+      "summary": "精神障害者(児)が、いろいろなサービスを受けやすくするために、都知事から交付される手帳です。",
+      "description": "保健福祉手帳\n●保健福祉手帳\n精神障害者(児)が、いろいろなサービスを受けやすくするために、都知事から交付される手帳です。障害の程度により 1 級～3 級までの区分があり、2 年ごとに更新があります。",
+      "target": {
+        "targetPersons": "精神障害者(児)",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "いろいろなサービスを受けやすくするために、都知事から交付される手帳です。",
+        "monetarySupport": null,
+        "materiallySupport": "いろいろなサービスを受けやすくするために、都知事から交付される手帳です。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.vill.kouzushima.tokyo.jp/images/2023/03/20210318-sien.pdf",
+        "title": "障害のある子どもへの支援"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健センター",
+        "contactPhone": "04992-8-0010",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133647;神津島村",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+9000020133647+5+UM120",
+        "organization": "9000020133647",
+        "compartment": "保健センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-03-18",
+      "odInformation": {
+        "updateDate": "2024-08-19",
+        "updater": "神津島村",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

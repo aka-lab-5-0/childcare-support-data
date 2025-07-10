@@ -1,0 +1,375 @@
+{
+  "version": "2025-07-10T02:38:54.146Z",
+  "areaCode": "134015",
+  "areaName": "八丈町",
+  "category": "other",
+  "count": 3,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "図書館の児童サービス（ブックスタートなど）",
+        "shortName": "図書館"
+      },
+      "summary": "ブックスタートとは、赤ちゃんとその保護者に絵本をプレゼントし、絵本を開く楽しい体験とともに、心ふれあうきっかけをつくる活動です。",
+      "description": "（3）図書館 \nコミュニティセンターの 1 階にある図書館は、子どもからお年寄りまで幅広い年齢の方に楽しくご利用いただける施設です。奥には児童書の部屋があり、じゅうたんコーナーもあって小さな子どもと一緒にゆっくりと本が楽しめます。\n また、毎月おはなし会などの読み聞かせを実施しています。\n【開館時間】9 時 30 分～17 時\n【休館日】毎週月曜日、祝日、館内整理日（毎月最後の平日）、年末年始\n 特別整理期間\n【お問合せ先】八丈町立図書館 ℡ 04996-2-0797",
+      "target": {
+        "targetPersons": "子どもからお年寄りまで幅広い年齢の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:30",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "毎週月曜日、祝日、館内整理日（毎月最後の平日）、年末年始\n特別整理期間",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "http://www.town.hachijo.tokyo.jp/kokasen/wp-content/uploads/2016/04/6ffc5a0436b28d855f1d36e25bd6c2bd.pdf",
+        "title": "はちじょう子育てガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "八丈町立図書館",
+        "contactPhone": "04996-2-0797",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM105",
+        "organization": "3000020134015",
+        "compartment": "八丈町立図書館",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2016-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-26",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "八丈町立図書館設置条例",
+        "regulationArticle": "第1～3条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出産祝い",
+        "shortName": "出産祝金"
+      },
+      "summary": "八丈町に1年以上お住まいの方がお子さんを出産した場合、出産祝い金として50,000円を支給します。",
+      "description": "必要書類を持って申請を行い、支給決定された方のお宅に八丈町長と担当者、保健士がお伺いし50,000円の支給、お子さんの様子を見せていただき子ども家庭支援センター等の紹介をします。",
+      "target": {
+        "targetPersons": "出生日を基準に八丈町に 1 年以上継続して居住し、住民票のある出産されたお母さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "50,000円",
+        "monetarySupport": "50,000円",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "生まれた日から 3 か月以内"
+      },
+      "electronicSubmission": false,
+      "belongings": "①住民票（世帯全員のもの）\n②申請者の印鑑\n③出生届受理証明書\n※出生届を提出した区市町村でしか証明されませんのでご注意ください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "福祉健康課厚生係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "http://www.town.hachijo.tokyo.jp/kokasen/wp-content/uploads/2016/04/6ffc5a0436b28d855f1d36e25bd6c2bd.pdf",
+        "title": "はちじょう子育てガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課厚生係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM21",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課厚生係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2016-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "八丈町出産祝い金支給条例",
+        "regulationArticle": "第1～7条"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "両親学級（１クール 4 回制）"
+      },
+      "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、八丈町では産科医師、歯科医師、保健師、栄養士、助産師などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+      "description": "①両親学級（１クール 4 回制）\n安心してお産がむかえられるように、産科医、小児科医、助産師等を講師に両親学級を開催します。\n【申込場所】福祉健康課保健係\n【対象】これからお産をむかえる妊婦とそのパートナー\n【申込方法】事前申込（来庁されるか電話での申込）\n【実施回数】年3 回（実施時期についてはお問合せください。）\n【その他】参加される際は、母子健康手帳をお持ちください。\nその他の持ち物についてはお問合せください。\n【お問合せ先】福祉健康課保健係 ℡ 04996-2-5570",
+      "target": {
+        "targetPersons": "これからお産をむかえる妊婦とそのパートナー",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "年3回（実施時期についてはお問合せください。）"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "事前申込（来庁されるか電話での申込）",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "参加される際は、母子健康手帳をお持ちください。\nその他の持ち物についてはお問合せください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "福祉健康課保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "http://www.town.hachijo.tokyo.jp/kokasen/wp-content/uploads/2016/04/6ffc5a0436b28d855f1d36e25bd6c2bd.pdf",
+        "title": "はちじょう子育てガイド"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉健康課保健係",
+        "contactPhone": "04996-2-5570",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "134015;八丈町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020134015+1+UM31",
+        "organization": "3000020134015",
+        "compartment": "福祉健康課保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2016-04-01",
+      "odInformation": {
+        "updateDate": "2024-06-13",
+        "updater": "八丈町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

@@ -1,0 +1,2838 @@
+{
+  "version": "2025-07-10T02:38:54.136Z",
+  "areaCode": "132195",
+  "areaName": "狛江市",
+  "category": "medical",
+  "count": 22,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦訪問",
+        "shortName": "妊産婦訪問"
+      },
+      "summary": "妊産婦の方（妊娠中または出産後1年以内）を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、妊娠期間中や出産後の不安や悩みについての相談等を行います。",
+      "description": "妊婦訪問 \n 妊娠届出をされた方に必要に応じて、保健師又は助産師が電話や訪問でお話を伺います。 \n〔対 象〕妊婦 \n〔内 容〕妊娠中の心と体に関する相談など \n〔利用方法〕事前に訪問者より連絡します。",
+      "target": {
+        "targetPersons": "妊婦",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠中の心と体に関する相談など",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠中の心と体に関する相談など"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "事前に訪問者より連絡します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/43,49456,c,html/49456/20160623-153626.pdf",
+        "title": "子育てガイドブック"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部　子ども家庭課母子保健係（あいとぴあセンター）",
+        "contactPhone": "03-5761-9200",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+1+UM11",
+        "organization": "8000020132195",
+        "compartment": "子ども家庭部　子ども家庭課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条（妊産婦の訪問指導等）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小児科救急",
+        "shortName": "平日夜間小児初期救急のご案内"
+      },
+      "summary": "東京慈恵会医科大学附属第三病院内狛江・調布小児初期救急平日準夜間診察室",
+      "description": "平日夜間小児初期救急のご案内\n　狛江市では、当市医師会・調布市医師会・東京慈恵会医科大学附属第三病院の協力を得て、調布市とともに小児初期救急平日夜間診療を開設しています。お子さんが急病の際にはご利用ください。\n※受診の際は、健康保険証をお持ちください。\n\n●診療日　月～金曜日(病院が指定した日)\n　※事前に電話をしてください。　直通電話０３(３４８８)２０６１\n●診療時間　午後７時～午後１０時(受付は午後９時３０分までです)\n●開設場所　東京慈恵会医科大学附属第三病院内狛江・調布小児初期救急平日準夜間診察室\n●対象　１５歳以下のお子さん\n●診療科目　小児科(小児科医が診療します)\n\n※上記以外の救急診療は、慈恵医大第三病院へ問い合わせください。電話０３(３４８０)１１５１\n※詳しくは、下記の東京慈恵会医科大学附属第三病院のホームページをご覧ください。\n   東京慈恵会医科大学附属第三病院のホームページ;http://www.jikei.ac.jp/hospital/daisan/syoniyakan.html\n \nhttps://www.city.komae.tokyo.jp/images/content/7370/byouin.jpg",
+      "target": {
+        "targetPersons": "１５歳以下のお子さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 15,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "狛江市では、当市医師会・調布市医師会・東京慈恵会医科大学附属第三病院の協力を得て、調布市とともに小児初期救急平日夜間診療を開設しています。お子さんが急病の際にはご利用ください。",
+        "monetarySupport": null,
+        "materiallySupport": "当市医師会・調布市医師会・東京慈恵会医科大学附属第三病院の協力を得て、調布市とともに小児初期救急平日夜間診療を開設"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "19:00",
+        "toYMD": null,
+        "toHM": "22:00",
+        "conditions": "月～金曜日(病院が指定した日)\n午後７時～午後１０時(受付は午後９時３０分までです)\n上記以外の救急診療は、慈恵医大第三病院へ問い合わせください。電話０３(３４８０)１１５１"
+      },
+      "implementationPlace": {
+        "implementationName": "東京慈恵会医科大学附属第三病院内狛江・調布小児初期救急平日準夜間診察室",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "事前に電話をしてください。　直通電話０３(３４８８)２０６１",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "健康保険証",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "http://www.jikei.ac.jp/hospital/daisan/syoniyakan.html",
+          "title": "東京慈恵会医科大学附属第三病院のホームページ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/42,7370,329,html",
+        "title": "平日夜間小児初期救急のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部　子ども家庭課母子保健係（あいとぴあセンター）",
+        "contactPhone": "03-5761-9200,03-5761-7990",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,132750,html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+1+UM114",
+        "organization": "8000020132195",
+        "compartment": "子ども家庭部　子ども家庭課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2019-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "狛江市小児初期救急平日準夜間診療事業実施要綱",
+        "regulationArticle": "第２条、第３条、第４条、第６条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関する相談窓口一覧",
+        "shortName": "子育ての相談について"
+      },
+      "summary": "狛江市内の子育てに関する相談窓口の一覧です。",
+      "description": "https://www.city.komae.tokyo.jp/index.cfm/41,100030,311,3358,html",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/41,100030,311,3358,html",
+        "title": "子育ての相談について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　福祉政策課,福祉政策係",
+        "contactPhone": "03-3430-1240",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,105152,html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+1+UM115",
+        "organization": "8000020132195",
+        "compartment": "子ども家庭部　子ども若者政策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-02-03",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "狛江市の子育てに関する相談",
+        "shortName": "育児相談"
+      },
+      "summary": "子育てに関することでしたら、何でも気軽にご相談ください。\n保健師・助産師・栄養士・歯科衛生士がお話をお伺いします。身長・体重も測れます。",
+      "description": "育児相談\n子育てに関することでしたら、何でも気軽にご相談ください。\n保健師・助産師・栄養士・歯科衛生士がお話をお伺いします。身長・体重も測れます。\n\n対象\n乳幼児とその保護者\n\n日程\n令和6年4月24日\n5月29日\n6月26日\n7月31日\n8月28日\n9月25日\n10月30日\n11月27日\n12月25日\n令和7年1月29日\n2月26日\n3月26日\n※いずれも水曜日\n\n時間\n午前9時30分～11時（予約制です）\n\n会場\nあいとぴあセンター  2階\n\n持ち物\n母子健康手帳、バスタオル\n\n予約・問い合わせ\n狛江市子ども家庭課（あいとぴあセンター内）\n電話番号　03-5761-9200",
+      "target": {
+        "targetPersons": "乳幼児とその保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "子育てに関することでしたら、何でも気軽にご相談ください。\n保健師・助産師・栄養士・歯科衛生士がお話をお伺いします。身長・体重も測れます。",
+        "monetarySupport": null,
+        "materiallySupport": "子育てに関することでしたら、何でも気軽にご相談ください。\n保健師・助産師・栄養士・歯科衛生士がお話をお伺いします。身長・体重も測れます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "09:30",
+        "toYMD": null,
+        "toHM": "11:00",
+        "conditions": "令和6年4月24日\n5月29日\n6月26日\n7月31日\n8月28日\n9月25日\n10月30日\n11月27日\n12月25日\n令和7年1月29日\n2月26日\n3月26日\n※いずれも水曜日"
+      },
+      "implementationPlace": {
+        "implementationName": "あいとぴあセンター  2階",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "予約制です\n狛江市子ども家庭課（あいとぴあセンター内）\n電話番号　03-5761-9200",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳、バスタオル",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/44,127814,337,html",
+        "title": "育児相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部　子ども家庭課母子保健係（あいとぴあセンター）",
+        "contactPhone": "03-5761-9200,03-5761-7990",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,132750,html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+1+UM119",
+        "organization": "8000020132195",
+        "compartment": "子ども家庭部　子ども家庭課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小学校・中学校の就学援助費",
+        "shortName": "就学援助費"
+      },
+      "summary": "経済的な理由により就学が困難と認められる、公立の小学校・中学校に通学する児童・生徒の保護者を対象に、学用品費、修学旅行費、給食費などを支給します。",
+      "description": "就学援助費・特別支援教育就学奨励費\n概要\n　狛江市では、公立の小・中学校及び義務教育学校（特別支援学校を除く）に在籍する児童・生徒の保護者に対して、学用品費等の代金の一部を援助する制度「就学援助費」と特別支援学級に在籍し、又は特別支援教室に通っている児童・生徒の保護者に対して、経済的負担を軽減するための援助制度「特別支援教育就学奨励費」を実施しています。\n\n \n援助を受けることができる方\n就学援助費\n狛江市に在住で、公立の小・中学校及び義務教育学校（特別支援学校を除く）に在籍する児童・生徒がいて、経済的理由で教育費の支払いにお困りの保護者\n\n特別支援教育就学奨励費\n狛江市に在住で、狛江市立小・中学校の特別支援学級に在籍又は特別支援教室に通っている児童・生徒がいる保護者\n\n※就学援助費、特別支援教育就学奨励費いずれも所得の制限があります。\n\n注意事項\n・制度内容詳細及び申請方法については下記「令和６年度教育費援助制度のお知らせ」を御確認ください。\n\n・お知らせ、申請書一式は下記よりダウンロードできる他、市内小学校・中学校在籍の児童・生徒には、４月に学校を通して配布します。御不明な点がありましたら学校教育課へ御相談ください。\n\n・就学援助費のうち「新入学学用品費（入学前支給）」をすでに受給された方も、改めて申請が必要です。なお、「新入学学用品費（入学前支給）」申請時とは、審査時に基準とする所得の年度が異なるため、認定結果が異なる場合があります。\n\n・令和６年度教育費援助制度のお知らせ①;https://www.komae.ed.jp/index.cfm/7,3480,c,html/3480/20240402-171357.pdf\n\n・令和６年度教育費援助制度のお知らせ②;https://www.komae.ed.jp/index.cfm/7,3480,c,html/3480/20240402-171416.pdf\n\n・令和６年度教育費援助制度のお知らせ③;https://www.komae.ed.jp/index.cfm/7,3480,c,html/3480/20240402-171425.pdf\n\n・就学援助費及び特別支援教育就学奨励費受給申請書;https://www.komae.ed.jp/index.cfm/7,3480,c,html/3480/20240402-171433.pdf\n\n・【記入例】就学援助費及び特別支援教育就学奨励費受給申請書;https://www.komae.ed.jp/index.cfm/7,3480,c,html/3480/20240402-171441.pdf",
+      "target": {
+        "targetPersons": "狛江市に在住で、公立の小・中学校及び義務教育学校（特別支援学校を除く）に在籍する児童・生徒がいて、経済的理由で教育費の支払いにお困りの保護者※所得の制限があります。\n",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "狛江市に在住で、公立の小・中学校及び義務教育学校（特別支援学校を除く）に在籍する児童・生徒"
+      },
+      "support": {
+        "description": "公立の小・中学校及び義務教育学校（特別支援学校を除く）に在籍する児童・生徒の保護者に対して、学用品費等の代金の一部を援助",
+        "monetarySupport": "公立の小・中学校及び義務教育学校（特別支援学校を除く）に在籍する児童・生徒の保護者に対して、学用品費等の代金の一部を援助",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "・制度内容詳細及び申請方法については下記「令和６年度教育費援助制度のお知らせ」を御確認ください。\n\n・お知らせ、申請書一式は下記よりダウンロードできる他、市内小学校・中学校在籍の児童・生徒には、４月に学校を通して配布します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "3480",
+          "title": "令和６年度教育費援助制度のお知らせ②"
+        },
+        {
+          "uri": "https://www.komae.ed.jp/index.cfm/7",
+          "title": "令和６年度教育費援助制度のお知らせ①"
+        },
+        {
+          "uri": "c",
+          "title": "令和６年度教育費援助制度のお知らせ③"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.komae.ed.jp/index.cfm/7,3480,35,html",
+        "title": "就学援助費・特別支援教育就学奨励費"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育部　学校教育課",
+        "contactPhone": "03-3430-1111",
+        "contactEx": null,
+        "contactEmail": "gakkyok@city.komae.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+1+UM126",
+        "organization": "8000020132195",
+        "compartment": "教育部　学校教育課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-02",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "学校教育法",
+        "regulationArticle": "第19条"
+      },
+      "tag": {
+        "categoryCode": [
+          "005"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産後ケア事業",
+        "shortName": "産後ケア事業"
+      },
+      "summary": "出産を終えた退院後、お母さんと赤ちゃんの生活リズムづくりや、心身の安定を図るため、施設においてショートステイ（宿泊）やデイサービス（日帰り）で、助産師などが母子の心身ケアと育児サポートを行います。",
+      "description": "産後ケア事業\n「産後、頼れる人が近くにいない…」、「体調がよくない」、「授乳がうまくいかない」。\n産後のサポートに、産後ケアを利用してみませんか？助産師のいる施設で、ゆったりと過ごすことで、心身の回復を目指します。デイサービス（日帰り）とショートステイ（宿泊）があり、育児についての相談もできます。\n\n対象\n　狛江市在住で、次の1から4のすべてにあてはまる方\n\n1.生後7カ月未満のお子さんとそのお母さん\n2.出産後に家族等から支援が受けられない方\n3.育児に関しての不安がある方\n4.母子ともに医療的な処置の必要がない方\nケアの内容\nお母さんの身体の休養\n乳房ケア、母体のケアに関する指導\n授乳および育児指導\n乳児の発育または発達に関する相談、等\n利用内容\n実施施設\n保坂産婦人科クリニック ※デイサービスのみ実施\n所在地：狛江市東和泉1-21-3\n電話番号：03-3488-1103（電話受付は午前11時～午後3時）\n桶谷式　母乳育児salon 「ふわふわ」 ※デイサービスのみ実施\n所在地：狛江市東和泉3-10-16 2F\n電話番号：03-3430-1548（電話受付は午前9時～午後4時）\nsage femme（サージュ ファム）　※デイサービスのみ実施\n所在地：調布市国領町2-8-3ゴコウエテルナーレB107\n電話番号：042-427-0131\nマザリーズ助産院\n所在地：調布市深大寺北町4-13-51\n電話番号：042-484-3757\n飯野病院　※ショートステイのみ実施（対象月齢生後4カ月未満）\n所在地：調布市布田4-3-2\n電話番号：042-483-8811\n調布病院（同院出産の方に限る）\n所在地：調布市下石原3-45-1\n電話番号：042-484-2626\n至誠会第二病院　※ショートステイのみ実施\n所在地：世田谷区上祖師谷5-19-1\n電話番号：03-3300-0366\n利用時間\nデイサービス\n午前10時～午後4時（3時間以上の利用をお願いします）\n月曜日～金曜日（祝日・年末年始を除く）\nショートステイ（宿泊型）\nチェックイン午前10時～チェックアウト午後4時\n施設により利用可能日は異なるため、実施施設にお問い合わせください。\n自己負担額\nデイサービス\n1日3,000円（食事代別途、持ち込み可能）\n※住民税非課税世帯・生活保護世帯等は無料です。\nショートステイ（宿泊型）\n1日3,500円（食事代込み。例：1泊2日の場合7,000円、昼食・夕食・朝食・昼食込み）\n※お子さんのミルク・離乳食は含まれないためご持参ください。\n利用回数\nデイサービスとショートステイを合わせて7日間まで。\nショートステイは1泊2日だと2日間利用となります。組み合わせは自由。\n\n利用方法\n1.子ども家庭課母子保健係に利用申請を行ってください（保健師が状況をお伺いします）。\n申請は、妊娠中からできます。\n2.「産後ケア事業利用（承認・不承認）通知書」が手元に届きます。\n3.上記2の通知で利用を承認された方は、利用したい施設に直接予約申し込みをしてください。",
+      "target": {
+        "targetPersons": "狛江市在住で、次の1から4のすべてにあてはまる方\n\n1.生後7カ月未満のお子さんとそのお母さん\n2.出産後に家族等から支援が受けられない方\n3.育児に関しての不安がある方\n4.母子ともに医療的な処置の必要がない方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": 7
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後7カ月未満のお子さん\n"
+      },
+      "support": {
+        "description": "お母さんの身体の休養\n乳房ケア、母体のケアに関する指導\n授乳および育児指導\n乳児の発育または発達に関する相談、等\nデイサービスとショートステイを合わせて7日間まで。",
+        "monetarySupport": null,
+        "materiallySupport": "お母さんの身体の休養\n乳房ケア、母体のケアに関する指導\n授乳および育児指導\n乳児の発育または発達に関する相談、等"
+      },
+      "cost": "3000",
+      "costConditions": "デイサービス\n1日3,000円（食事代別途、持ち込み可能）\n※住民税非課税世帯・生活保護世帯等は無料です。\nデイサービスとショートステイを合わせて7日間まで。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "保坂産婦人科クリニック ※デイサービスのみ実施,桶谷式　母乳育児salon 「ふわふわ」 ※デイサービスのみ実施,sage femme（サージュ ファム）　※デイサービスのみ実施,マザリーズ助産院,調布病院（同院出産の方に限る）",
+        "implementationAddress": "狛江市東和泉1-21-3,狛江市東和泉3-10-16 2F,調布市国領町2-8-3ゴコウエテルナーレB107,調布市深大寺北町4-13-51,調布市下石原3-45-1"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "16:00",
+        "condiutilizationConditionstions": "午前10時～午後4時（3時間以上の利用をお願いします）\n月曜日～金曜日（祝日・年末年始を除く）"
+      },
+      "specificDate": null,
+      "holiday": "祝日・年末年始",
+      "utilization": "1.子ども家庭課母子保健係に利用申請を行ってください（保健師が状況をお伺いします）。\n申請は、妊娠中からできます。\n2.「産後ケア事業利用（承認・不承認）通知書」が手元に届きます。\n3.上記2の通知で利用を承認された方は、利用したい施設に直接予約申し込みをしてください。",
+      "procedurePersons": null,
+      "procedureMethod": "1.子ども家庭課母子保健係に利用申請を行ってください（保健師が状況をお伺いします）。\n申請は、妊娠中からできます。\n2.「産後ケア事業利用（承認・不承認）通知書」が手元に届きます。\n3.上記2の通知で利用を承認された方は、利用したい施設に直接予約申し込みをしてください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "申請は、妊娠中からできます。"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "保坂産婦人科クリニック ※デイサービスのみ実施\n所在地：狛江市東和泉1-21-3\n電話番号：03-3488-1103（電話受付は午前11時～午後3時）\n桶谷式　母乳育児salon 「ふわふわ」 ※デイサービスのみ実施\n所在地：狛江市東和泉3-10-16 2F\n電話番号：03-3430-1548（電話受付は午前9時～午後4時）\nsage femme（サージュ ファム）　※デイサービスのみ実施\n所在地：調布市国領町2-8-3ゴコウエテルナーレB107\n電話番号：042-427-0131\nマザリーズ助産院\n所在地：調布市深大寺北町4-13-51\n電話番号：042-484-3757\n調布病院（同院出産の方に限る）\n所在地：調布市下石原3-45-1\n電話番号：042-484-2626",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/43,110312,330,html",
+        "title": "産後ケア事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部　子ども家庭課母子保健係（あいとぴあセンター）",
+        "contactPhone": "03-5761-9200,03-5761-7990",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,132750,html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+1+UM15",
+        "organization": "8000020132195",
+        "compartment": "子ども家庭部　子ども家庭課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-22",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条の2（産後ケア事業）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出産育児一時金",
+        "shortName": "出産育児一時金の支給"
+      },
+      "summary": "国民健康保険に加入している方が出産したときは、その世帯主からの申請により、出産育児一時金を支給します。原則として直接支払制度により、医療機関に直接お支払いします。\nなお、直接支払制度に対応していない医療機関などで出産された場合も、「受取代理制度」や出産後の申請により、出産育児一時金の支給を受けることができます。",
+      "description": "出産育児一時金の支給\n国民健康保険に加入している方が出産された際に、出産育児一時金として50万円を支給します。ただし、出産された方が、社会保険等（本人）に1年以上加入しており、出産日が社会保険等をやめられてから6カ月以内の場合、出産育児一時金は、加入していた社会保険等へご請求ください。その場合、狛江市の国民健康保険からは支給されません。\n\n※出産育児一時金の上限額は、令和5年4月1日以降に出産された方は50万円、令和5年3月31日以前に出産された方は42万円です。\n\n※出産日の翌日から2年を経過すると申請できません。\n\n直接支払制度（医療機関で申請）\n平成21年10月1日より、医療機関等が被保険者に代わり、出産育児一時金の申請および受け取りを保険者（市）と直接行う直接支払制度が開始されました。\nこれにより、被保険者が医療機関で支払う金額は、50万円（令和5年3月31日以前に出産された場合は42万円）を超えた分のみとなります。申請手続きは、医療機関で行ってください。\n\n※出産費用が50万円（令和5年3月31日以前に出産された場合は42万円）未満だった場合は、差額申請を行うことで差額分の支給が可能です。（申請方法については、差額申請（出産後、市役所で手続き）;https://www.city.komae.tokyo.jp/index.cfm/41,93440,316,2011,html#%E5%B7%AE%E9%A1%8D%E7%94%B3%E8%AB%8Bをご参照ください。）\n\n受取代理制度\n出産育児一時金直接支払制度を採用していない医療機関等で出産される場合でも受取代理制度を行っている場合があります。\nこの制度は、出産育児一時金の支給額を限度に医療機関に対し、市が直接出産費用を支払うことができるものです。ただし、直接支払制度とは手続きが異なり、受取代理制度に対応している医療機関等も限られますので、利用を希望される場合は医療機関等でご確認ください。\n\n直接支払制度や受取代理制度を利用しない場合（出産後、市役所で申請）\n直接支払制度や受取代理制度等を利用しない場合は、下記の申請に必要なものをご持参の上、市役所で申請手続きを行ってください。\n\n申請に必要なもの\n出産育児一時金支給申請書 [112KB pdfファイル];https://www.city.komae.tokyo.jp/index.cfm/41,93440,c,html/93440/20230222-134931.pdf\n出産された方の被保険者証\n世帯主の振り込み先が分かるもの（通帳など）\n医療機関等が発行する直接支払制度についての同意書（合意文書）\n出産時の医療機関の領収書\n【妊娠85日以降の死産・流産の場合のみ】医師の証明書\n※申請した月の翌月20日ごろにご指定の口座に振り込みます。\n※帝王切開など高額な保険診療が見込まれる方は、出産前に市役所2階2番窓口へ「限度額適用認定証」;https://www.city.komae.tokyo.jp/index.cfm/41,93440,316,2011,html#anchor11の交付申請を行い、医療機関へ提示してください。\n\n※国外で出産された場合、申請に必要なものが異なります。\n\n申請に必要なもの（国外で出産された場合）\n出産育児一時金支給申請書 [112KB pdfファイル];https://www.city.komae.tokyo.jp/index.cfm/41,93440,c,html/93440/20230222-134931.pdf\n出産された方の被保険者証\n世帯主の振り込み先が分かるもの（通帳など）\n出生証明書\n出産時の医療機関の領収書\n4・5の日本語訳文\n出産された方のパスポート（渡航中の出産であることを確認できる渡航印ページが必要です）\n同意書　※市の様式をお渡しします\n【新生児が狛江市の住民ではない場合のみ】新生児の戸籍謄本またはパスワード\n差額申請（出産後、市役所で申請）\n直接支払制度を利用し、出産費用が50万円（令和5年3月31日以前に出産された方は42万円）未満だった場合、申請することで差額分の支給を受けることができます。\n50万円（または42万円）から、医療機関等への直接支払制度利用額を差し引いた金額が支給されます。申請手続きは、市役所で行ってください。\n\n申請に必要なものは、上記の直接支払制度や受取代理制度を利用しない場合（出産後、市役所で申請）;https://www.city.komae.tokyo.jp/index.cfm/41,93440,316,2011,html#%E7%94%B3%E8%AB%8B%E3%81%AB%E5%BF%85%E8%A6%81%E3%81%AA%E3%82%82%E3%81%AEと同じです。",
+      "target": {
+        "targetPersons": "国民健康保険に加入している方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "国民健康保険に加入している方が出産された際に、出産育児一時金として50万円を支給します。ただし、出産された方が、社会保険等（本人）に1年以上加入しており、出産日が社会保険等をやめられてから6カ月以内の場合、出産育児一時金は、加入していた社会保険等へご請求ください。その場合、狛江市の国民健康保険からは支給されません。\n\n※出産育児一時金の上限額は、令和5年4月1日以降に出産された方は50万円、令和5年3月31日以前に出産された方は42万円です。",
+        "monetarySupport": "国民健康保険に加入している方が出産された際に、出産育児一時金として50万円を支給します。ただし、出産された方が、社会保険等（本人）に1年以上加入しており、出産日が社会保険等をやめられてから6カ月以内の場合、出産育児一時金は、加入していた社会保険等へご請求ください。その場合、狛江市の国民健康保険からは支給されません。\n\n※出産育児一時金の上限額は、令和5年4月1日以降に出産された方は50万円、令和5年3月31日以前に出産された方は42万円です。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "直接支払制度（医療機関で申請）\n受取代理制度\n受取代理制度に対応している医療機関等も限られますので、利用を希望される場合は医療機関等でご確認ください。\n直接支払制度や受取代理制度を利用しない場合（出産後、市役所で申請）\n差額申請（出産後、市役所で申請）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.komae.tokyo.jp/index.cfm/41",
+          "title": "「限度額適用認定証」"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/41,93440,316,2011,html#anchor15",
+        "title": "出産育児一時金の支給"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　保険年金課医療年金係：後期担当,年金担当,国民健康保険係",
+        "contactPhone": "03-3430-1269,03-3430-1267,03-3430-1271",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,96588,html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+1+UM19",
+        "organization": "8000020132195",
+        "compartment": "福祉保健部　保険年金課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-06-07",
+      "odInformation": {
+        "updateDate": "2024-07-09",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民健康保険法",
+        "regulationArticle": "第58条(第二節　その他の給付)"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003",
+          "015"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "母子父子寡婦福祉資金",
+        "shortName": "母子および父子福祉資金"
+      },
+      "summary": "母子家庭の母、父子家庭の父、および寡婦の方の経済的自立や、扶養しているお子さんの福祉増進のために、必要な資金をお貸しする制度です。",
+      "description": "母子および父子福祉資金\n　母子および父子福祉資金は、ひとり親家庭の方々が経済的に自立して、安定した生活を送るために必要とする資金をお貸しする制度です。\n\n対象\n都内に6カ月以上お住まいの母子家庭の母または父子家庭の父等で、20歳未満のお子さんを扶養している方\n\n利子\n資金によって異なり、無利子または年1.0％\n\n償還方法\n月賦、半年または年賦による元利均等償還\n\n保証人\n資金によって異なり、連帯保証人が必要な場合があります。\n\n審査\n貸付に当たっては審査を行います。審査の結果、貸付の目的を達成することが困難と認められるときや、事業計画が適切でないときは、お貸しできない場合があります。\n\n相談・問い合わせ\n子ども若者政策課へ。\n\n※貸付限度額等の詳細は、東京都ホームページ（外部リンク）でご確認ください。;https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/hitorioya_shien/keizai/boshi.html",
+      "target": {
+        "targetPersons": "都内に6カ月以上お住まいの母子家庭の母または父子家庭の父等で、20歳未満のお子さんを扶養している方",
+        "lessThan": {
+          "targetAge": 20,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "20歳未満のお子さん"
+      },
+      "support": {
+        "description": "母子および父子福祉資金は、ひとり親家庭の方々が経済的に自立して、安定した生活を送るために必要とする資金をお貸しする制度です。\n\n利子\n資金によって異なり、無利子または年1.0％\n\n償還方法\n月賦、半年または年賦による元利均等償還\n\n保証人\n資金によって異なり、連帯保証人が必要な場合があります。\n\n審査\n貸付に当たっては審査を行います。審査の結果、貸付の目的を達成することが困難と認められるときや、事業計画が適切でないときは、お貸しできない場合があります。",
+        "monetarySupport": "利子\n資金によって異なり、無利子または年1.0％\n\n償還方法\n月賦、半年または年賦による元利均等償還\n\n保証人\n資金によって異なり、連帯保証人が必要な場合があります。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": "利子\n資金によって異なり、無利子または年1.0％\n\n償還方法\n月賦、半年または年賦による元利均等償還",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//hitorioya_shien/keizai/boshi.html",
+          "title": "東京都ホームページ（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/44,115218,341,2078,html",
+        "title": "母子および父子福祉資金"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部　子ども若者政策課助成支援係",
+        "contactPhone": "03-3430-1277",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,105153,html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+1+UM28",
+        "organization": "8000020132195",
+        "compartment": "子ども家庭部　子ども若者政策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子及び父子並びに寡婦福祉法",
+        "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "休日応急診療所"
+      },
+      "summary": "狛江市では、日曜・祝日、年末年始に、市内の医療機関の協力のもと、当番制で診療を行っています。",
+      "description": "休日診療のご案内\n　狛江市では、休日等における市民の皆さんの急な病気に備えて、当市医師会・歯科医師会・薬剤師会の協力を得て、あいとぴあセンター２階に休日応急診療所を開設しています。\n\n※受診の際は、事前にそれぞれの診療所にお電話をしてください。\n※必ず健康保険証をお持ちください。お持ちの方は、各種医療証、お薬手帳もお持ちください。　\n\n休日応急診療所\n　日曜日・祝日・年末年始の午前9時～11時30分、午後1時～4時30分\n　【問い合わせ】03-3488-9121\nhttps://www.city.komae.tokyo.jp/images/content/3914/20170517-161746.jpg\n\n案内\n24時間医療機関案内は、狛江消防署（03-3480-0119）へ。\n夜間診療は、東京消防庁テレホンサービス（042-521-2323）へ。\nインターネットは、医療情報ネット（外部リンク）へ。;https://www.iryou.teikyouseido.mhlw.go.jp/",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "休日等における市民の皆さんの急な病気に備えて、当市医師会・歯科医師会・薬剤師会の協力を得て、あいとぴあセンター２階に休日応急診療所を開設しています。",
+        "monetarySupport": null,
+        "materiallySupport": "休日等における市民の皆さんの急な病気に備えて、当市医師会・歯科医師会・薬剤師会の協力を得て、あいとぴあセンター２階に休日応急診療所を開設しています。"
+      },
+      "cost": null,
+      "costConditions": "必ず健康保険証をお持ちください。お持ちの方は、各種医療証、お薬手帳もお持ちください。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "あいとぴあセンター２階",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "日曜日・祝日・年末年始の午前9時～11時30分、午後1時～4時30分"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "※受診の際は、事前にそれぞれの診療所にお電話をしてください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "必ず健康保険証をお持ちください。お持ちの方は、各種医療証、お薬手帳もお持ちください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.iryou.teikyouseido.mhlw.go.jp/",
+          "title": "医療情報ネット"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/42,3914,329,html",
+        "title": "休日診療のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+1+UM45",
+        "organization": "8000020132195",
+        "compartment": "福祉保健部　健康推進課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-24",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊娠・出産に関するその他のこと",
+        "shortName": "妊活オンライン相談"
+      },
+      "summary": "妊活や妊娠、不妊治療などのご相談に応じて、不妊症看護認定看護師、臨床心理士、胚培養士などの専門家チームから最適なアドバイスを受けられます。",
+      "description": null,
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/43,122645,330,html",
+        "title": null
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部　子ども家庭課母子保健係（あいとぴあセンター）",
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+1+UM48",
+        "organization": "8000020132195",
+        "compartment": "子ども家庭部　子ども家庭課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月未満児）",
+        "shortName": "3～4カ月児健康診査"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として3～4か月児健康診査を実施しています。",
+      "description": "乳幼児健康診査日程\n3～4カ月児健康診査は市内指定医療機関で個別健康診査、1歳6カ月児健康診査、3歳児健康診査は、あいとぴあセンターで集団健康診査です。\n受診月の前月初旬に個別通知しています。通知には、健診のご案内、問診票等が入っています。\n転入などで通知が届かない方はご連絡ください。\n\n3～4カ月児健康診査（市内指定医療機関に直接予約）\n健診期間\n生後4カ月を迎える月～生後6カ月未満（個別通知をご確認ください。）\n\n市内指定医療機関\n医療機関により、休診日や健診実施時間帯が異なります。\n※個別通知が届いてから、お問い合わせください。\n|医療機関名|所在地|電話番号|\n|:----|:----|:----|\n|神保クリニック小児科|和泉本町1-2-13|03-3430-2818|\n|石戸谷小児科|中和泉1-1-1-4F|03-3430-1070|\n|コドモノいっぽクリニック|中和泉5-33-2-1F|03-5761-5312|\n|佐藤診療所|東和泉1-3-14|03-3489-1771|\n|柏田内科クリニック|西野川1-15-19|03-3430-0222|\n\n1歳6カ月児健康診査・歯科健康診査\n※電子申請（外部リンク）で要予約;http://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?fromAction=1&govCode=13219&keyWord=219121&procCode=11000629\n\n年間日程\n令和6年\n4月15日、5月13日、6月17日、6月19日、7月8日、8月19日、9月9日、10月7日、11月18日、12月9日\n令和7年\n1月20日、2月17日、3月17日\n生まれ月別の健診案内日\n\n生後1歳7カ月を迎える月の健診日を案内しています。\n※個別通知でご案内した日程以降は、2歳のお誕生日の前月まで受診できます。\n|生まれ月|健診日（いずれか1日）|電子申請申し込み期間|会場|\n|:----|:----|:----|:----|\n|令和4年9月|令和6年4月15日（月曜日）|令和6年3月12日～3月26日|あいとぴあセンター|\n|^|令和6年5月13日（月曜日）|^|^|\n|令和4年10月|令和6年5月13日（月曜日）|令和6年4月16日～4月30日|^|\n|^|令和6年6月17日（月曜日）<br>令和6年6月19日（水曜日）|^|^|\n|令和4年11月|令和6年6月17日（月曜日）|令和6年5月14日～5月28日|^|\n|^|令和6年6月19日（水曜日）|^|^|\n|令和4年12月|令和6年7月8日（月曜日）|令和6年6月11日～6月25日|^|\n|^|令和6年8月19日（月曜日）|^|^|\n|令和5年1月|令和6年8月19日（月曜日）|令和6年7月9日～7月23日|^|\n|^|令和6年9月9日（月曜日）|^|^|\n|令和5年2月|令和6年9月9日（月曜日）|令和6年8月13日～8月27日|^|\n|^|令和6年10月7日（月曜日）|^|^|\n|令和5年3月|令和6年10月7日（月曜日）|令和6年9月10日～9月24日|^|\n|^|令和6年11月18日（月曜日）|^|^|\n|令和5年4月|令和6年11月18日（月曜日）|令和6年10月8日～10月22日|^|\n|^|令和6年12月9日（月曜日）|^|^|\n|令和5年5月|令和6年12月9日（月曜日）|令和6年11月12日～11月26日|^|\n|^|令和7年1月20日（月曜日）|^|^|\n|令和5年6月|令和7年1月20日（月曜日）|令和6年12月10日～12月24日|^|\n|^|令和7年2月17日（月曜日）|^|^|\n|令和5年7月|令和7年2月17日（月曜日）|令和7年1月21日～2月4日|^|\n|^|令和7年3月17日（月曜日）|^|^|\n|令和5年8月|令和7年3月17日（月曜日）|令和7年2月18日～3月4日|^|\n|^|令和7年4月（未定）|^|^|\n\n3歳児健康診査・歯科健康診査\n※電子申請（外部リンク）で要予約;http://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?fromAction=1&govCode=13219&keyWord=219121&procCode=11000673\n\n年間日程\n令和6年\n4月11日、5月9日、5月15日、6月13日、7月11日、7月17日、8月22日、9月5日、9月11日、10月10日、11月14日、11月20日、12月12日\n令和7年\n1月16日、1月22日、2月13日、3月13日、3月19日\n生まれ月別の健診案内日\n\n3歳1カ月を迎える月の健診日を案内しています。\n※個別通知の日程以降は、4歳のお誕生日の前月まで受診できます。\n |生まれ月|健診日（いずれか1日）|電子申請申し込み期間|会場|\n|:----|:----|:----|:----|\n|令和3年3月|令和6年4月11日（木曜日）|令和6年3月8日～3月22日|あいとぴあセンター|\n|^|令和6年5月15日（水曜日）|^|^|\n|令和3年4月|令和6年5月9日（木曜日）|令和6年4月9日～4月23日|^|\n|^|令和6年5月15日（水曜日）|^|^|\n|令和3年5月|令和6年6月13日（木曜日）|令和6年5月10日～5月24日|^|\n|^|令和6年7月17日（水曜日）|^|^|\n|令和3年6月|令和6年7月11日（木曜日）|令和6年6月14日～6月28日|^|\n|^|令和6年7月17日（水曜日）|^|^|\n|令和3年7月|令和6年8月22日（木曜日）|令和6年7月12日～7月26日|^|\n|^|令和6年9月11日（水曜日）|^|^|\n|令和3年8月|令和6年9月5日（木曜日）|令和6年8月9日～8月23日|^|\n|^|令和6年9月11日（水曜日）|^|^|\n|令和3年9月|令和6年10月10日（木曜日）|令和6年9月9日～9月23日|^|\n|^|令和6年11月20日（水曜日）|^|^|\n|令和3年10月|令和6年11月14日（木曜日）|令和6年10月11日～10月25日|^|\n|^|令和6年11月20日（水曜日）|^|^|\n|令和3年11月|令和6年12月12日（木曜日）|令和6年11月15日～11月29日|^|\n|^|令和7年1月22日（水曜日）|^|^|\n|令和3年12月|令和7年1月16日（木曜日）|令和6年12月13日～12月27日|^|\n|^|令和7年1月22日（水曜日）|^|^|\n|令和4年1月|令和7年2月13日（木曜日）|令和7年1月17日～1月31日|^|\n|^|令和7年3月19日（水曜日）|^|^|\n|令和4年2月|令和7年3月13日（木曜日）|令和7年2月14日～2月28日|^|\n|^|令和7年3月19日（水曜日）|^|^|\n\n※詳細は、子ども家庭課 母子保健係　(あいとぴあセンター1階)　　電話 03-5761-9200\nhttps://www.city.komae.tokyo.jp/images/content/116703/aitopiatizu65.jpg",
+      "target": {
+        "targetPersons": "生後4カ月を迎える月～生後6カ月未満（個別通知をご確認ください。）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後4カ月を迎える月～生後6カ月未満（個別通知をご確認ください。）"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "医療機関により、休診日や健診実施時間帯が異なります。\n※個別通知が届いてから、お問い合わせください。"
+      },
+      "implementationPlace": {
+        "implementationName": "|医療機関名|所在地|電話番号|\n|:----|:----|:----|\n|神保クリニック小児科|和泉本町1-2-13|03-3430-2818|\n|石戸谷小児科|中和泉1-1-1-4F|03-3430-1070|\n|コドモノいっぽクリニック|中和泉5-33-2-1F|03-5761-5312|\n|佐藤診療所|東和泉1-3-14|03-3489-1771|\n|柏田内科クリニック|西野川1-15-19|03-3430-0222|\n",
+        "implementationAddress": "|医療機関名|所在地|電話番号|\n|:----|:----|:----|\n|神保クリニック小児科|和泉本町1-2-13|03-3430-2818|\n|石戸谷小児科|中和泉1-1-1-4F|03-3430-1070|\n|コドモノいっぽクリニック|中和泉5-33-2-1F|03-5761-5312|\n|佐藤診療所|東和泉1-3-14|03-3489-1771|\n|柏田内科クリニック|西野川1-15-19|03-3430-0222|\n"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "市内指定医療機関に直接予約",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/44,116703,337,html",
+        "title": "乳幼児健康診査日程"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部　子ども家庭課母子保健係（あいとぴあセンター）",
+        "contactPhone": "03-5761-9200,03-5761-7990",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,132750,html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+1+UM49",
+        "organization": "8000020132195",
+        "compartment": "子ども家庭部　子ども家庭課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-06-05",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "1歳6か月児健康診査",
+        "shortName": "1歳6カ月児健康診査・歯科健康診査"
+      },
+      "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。狛江市では1歳6か月児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "乳幼児健康診査日程\n3～4カ月児健康診査は市内指定医療機関で個別健康診査、1歳6カ月児健康診査、3歳児健康診査は、あいとぴあセンターで集団健康診査です。\n受診月の前月初旬に個別通知しています。通知には、健診のご案内、問診票等が入っています。\n転入などで通知が届かない方はご連絡ください。\n\n3～4カ月児健康診査（市内指定医療機関に直接予約）\n健診期間\n生後4カ月を迎える月～生後6カ月未満（個別通知をご確認ください。）\n\n市内指定医療機関\n医療機関により、休診日や健診実施時間帯が異なります。\n※個別通知が届いてから、お問い合わせください。\n|医療機関名|所在地|電話番号|\n|:----|:----|:----|\n|神保クリニック小児科|和泉本町1-2-13|03-3430-2818|\n|石戸谷小児科|中和泉1-1-1-4F|03-3430-1070|\n|コドモノいっぽクリニック|中和泉5-33-2-1F|03-5761-5312|\n|佐藤診療所|東和泉1-3-14|03-3489-1771|\n|柏田内科クリニック|西野川1-15-19|03-3430-0222|\n\n1歳6カ月児健康診査・歯科健康診査\n※電子申請（外部リンク）で要予約;http://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?fromAction=1&govCode=13219&keyWord=219121&procCode=11000629\n\n年間日程\n令和6年\n4月15日、5月13日、6月17日、6月19日、7月8日、8月19日、9月9日、10月7日、11月18日、12月9日\n令和7年\n1月20日、2月17日、3月17日\n生まれ月別の健診案内日\n\n生後1歳7カ月を迎える月の健診日を案内しています。\n※個別通知でご案内した日程以降は、2歳のお誕生日の前月まで受診できます。\n|生まれ月|健診日（いずれか1日）|電子申請申し込み期間|会場|\n|:----|:----|:----|:----|\n|令和4年9月|令和6年4月15日（月曜日）|令和6年3月12日～3月26日|あいとぴあセンター|\n|^|令和6年5月13日（月曜日）|^|^|\n|令和4年10月|令和6年5月13日（月曜日）|令和6年4月16日～4月30日|^|\n|^|令和6年6月17日（月曜日）<br>令和6年6月19日（水曜日）|^|^|\n|令和4年11月|令和6年6月17日（月曜日）|令和6年5月14日～5月28日|^|\n|^|令和6年6月19日（水曜日）|^|^|\n|令和4年12月|令和6年7月8日（月曜日）|令和6年6月11日～6月25日|^|\n|^|令和6年8月19日（月曜日）|^|^|\n|令和5年1月|令和6年8月19日（月曜日）|令和6年7月9日～7月23日|^|\n|^|令和6年9月9日（月曜日）|^|^|\n|令和5年2月|令和6年9月9日（月曜日）|令和6年8月13日～8月27日|^|\n|^|令和6年10月7日（月曜日）|^|^|\n|令和5年3月|令和6年10月7日（月曜日）|令和6年9月10日～9月24日|^|\n|^|令和6年11月18日（月曜日）|^|^|\n|令和5年4月|令和6年11月18日（月曜日）|令和6年10月8日～10月22日|^|\n|^|令和6年12月9日（月曜日）|^|^|\n|令和5年5月|令和6年12月9日（月曜日）|令和6年11月12日～11月26日|^|\n|^|令和7年1月20日（月曜日）|^|^|\n|令和5年6月|令和7年1月20日（月曜日）|令和6年12月10日～12月24日|^|\n|^|令和7年2月17日（月曜日）|^|^|\n|令和5年7月|令和7年2月17日（月曜日）|令和7年1月21日～2月4日|^|\n|^|令和7年3月17日（月曜日）|^|^|\n|令和5年8月|令和7年3月17日（月曜日）|令和7年2月18日～3月4日|^|\n|^|令和7年4月（未定）|^|^|\n\n3歳児健康診査・歯科健康診査\n※電子申請（外部リンク）で要予約;http://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?fromAction=1&govCode=13219&keyWord=219121&procCode=11000673\n\n年間日程\n令和6年\n4月11日、5月9日、5月15日、6月13日、7月11日、7月17日、8月22日、9月5日、9月11日、10月10日、11月14日、11月20日、12月12日\n令和7年\n1月16日、1月22日、2月13日、3月13日、3月19日\n生まれ月別の健診案内日\n\n3歳1カ月を迎える月の健診日を案内しています。\n※個別通知の日程以降は、4歳のお誕生日の前月まで受診できます。\n |生まれ月|健診日（いずれか1日）|電子申請申し込み期間|会場|\n|:----|:----|:----|:----|\n|令和3年3月|令和6年4月11日（木曜日）|令和6年3月8日～3月22日|あいとぴあセンター|\n|^|令和6年5月15日（水曜日）|^|^|\n|令和3年4月|令和6年5月9日（木曜日）|令和6年4月9日～4月23日|^|\n|^|令和6年5月15日（水曜日）|^|^|\n|令和3年5月|令和6年6月13日（木曜日）|令和6年5月10日～5月24日|^|\n|^|令和6年7月17日（水曜日）|^|^|\n|令和3年6月|令和6年7月11日（木曜日）|令和6年6月14日～6月28日|^|\n|^|令和6年7月17日（水曜日）|^|^|\n|令和3年7月|令和6年8月22日（木曜日）|令和6年7月12日～7月26日|^|\n|^|令和6年9月11日（水曜日）|^|^|\n|令和3年8月|令和6年9月5日（木曜日）|令和6年8月9日～8月23日|^|\n|^|令和6年9月11日（水曜日）|^|^|\n|令和3年9月|令和6年10月10日（木曜日）|令和6年9月9日～9月23日|^|\n|^|令和6年11月20日（水曜日）|^|^|\n|令和3年10月|令和6年11月14日（木曜日）|令和6年10月11日～10月25日|^|\n|^|令和6年11月20日（水曜日）|^|^|\n|令和3年11月|令和6年12月12日（木曜日）|令和6年11月15日～11月29日|^|\n|^|令和7年1月22日（水曜日）|^|^|\n|令和3年12月|令和7年1月16日（木曜日）|令和6年12月13日～12月27日|^|\n|^|令和7年1月22日（水曜日）|^|^|\n|令和4年1月|令和7年2月13日（木曜日）|令和7年1月17日～1月31日|^|\n|^|令和7年3月19日（水曜日）|^|^|\n|令和4年2月|令和7年3月13日（木曜日）|令和7年2月14日～2月28日|^|\n|^|令和7年3月19日（水曜日）|^|^|\n\n※詳細は、子ども家庭課 母子保健係　(あいとぴあセンター1階)　　電話 03-5761-9200\nhttps://www.city.komae.tokyo.jp/images/content/116703/aitopiatizu65.jpg",
+      "target": {
+        "targetPersons": "1歳6カ月児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1歳6カ月児"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "年間日程\n令和6年\n4月15日、5月13日、6月17日、6月19日、7月8日、8月19日、9月9日、10月7日、11月18日、12月9日\n令和7年\n1月20日、2月17日、3月17日\n生まれ月別の健診案内日\n\n生後1歳7カ月を迎える月の健診日を案内しています。\n※個別通知でご案内した日程以降は、2歳のお誕生日の前月まで受診できます。\n|生まれ月|健診日（いずれか1日）|電子申請申し込み期間|会場|\n|:----|:----|:----|:----|\n|令和4年9月|令和6年4月15日（月曜日）|令和6年3月12日～3月26日|あいとぴあセンター|\n|^|令和6年5月13日（月曜日）|^|^|\n|令和4年10月|令和6年5月13日（月曜日）|令和6年4月16日～4月30日|^|\n|^|令和6年6月17日（月曜日）<br>令和6年6月19日（水曜日）|^|^|\n|令和4年11月|令和6年6月17日（月曜日）|令和6年5月14日～5月28日|^|\n|^|令和6年6月19日（水曜日）|^|^|\n|令和4年12月|令和6年7月8日（月曜日）|令和6年6月11日～6月25日|^|\n|^|令和6年8月19日（月曜日）|^|^|\n|令和5年1月|令和6年8月19日（月曜日）|令和6年7月9日～7月23日|^|\n|^|令和6年9月9日（月曜日）|^|^|\n|令和5年2月|令和6年9月9日（月曜日）|令和6年8月13日～8月27日|^|\n|^|令和6年10月7日（月曜日）|^|^|\n|令和5年3月|令和6年10月7日（月曜日）|令和6年9月10日～9月24日|^|\n|^|令和6年11月18日（月曜日）|^|^|\n|令和5年4月|令和6年11月18日（月曜日）|令和6年10月8日～10月22日|^|\n|^|令和6年12月9日（月曜日）|^|^|\n|令和5年5月|令和6年12月9日（月曜日）|令和6年11月12日～11月26日|^|\n|^|令和7年1月20日（月曜日）|^|^|\n|令和5年6月|令和7年1月20日（月曜日）|令和6年12月10日～12月24日|^|\n|^|令和7年2月17日（月曜日）|^|^|\n|令和5年7月|令和7年2月17日（月曜日）|令和7年1月21日～2月4日|^|\n|^|令和7年3月17日（月曜日）|^|^|\n|令和5年8月|令和7年3月17日（月曜日）|令和7年2月18日～3月4日|^|\n|^|令和7年4月（未定）|^|^|\n"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/44,116703,337,html",
+        "title": "乳幼児健康診査日程"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?fromAction=1&govCode=13219&keyWord=219121&procCode=11000629",
+          "title": "電子申請（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども家庭部　子ども家庭課母子保健係（あいとぴあセンター）",
+        "contactPhone": "03-5761-9200,03-5761-7990",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,132750,html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+1+UM51",
+        "organization": "8000020132195",
+        "compartment": "子ども家庭部　子ども家庭課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-06-05",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "3歳児健康診査",
+        "shortName": "3歳児健康診査・歯科健康診査"
+      },
+      "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。狛江市では3歳児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "乳幼児健康診査日程\n3～4カ月児健康診査は市内指定医療機関で個別健康診査、1歳6カ月児健康診査、3歳児健康診査は、あいとぴあセンターで集団健康診査です。\n受診月の前月初旬に個別通知しています。通知には、健診のご案内、問診票等が入っています。\n転入などで通知が届かない方はご連絡ください。\n\n3～4カ月児健康診査（市内指定医療機関に直接予約）\n健診期間\n生後4カ月を迎える月～生後6カ月未満（個別通知をご確認ください。）\n\n市内指定医療機関\n医療機関により、休診日や健診実施時間帯が異なります。\n※個別通知が届いてから、お問い合わせください。\n|医療機関名|所在地|電話番号|\n|:----|:----|:----|\n|神保クリニック小児科|和泉本町1-2-13|03-3430-2818|\n|石戸谷小児科|中和泉1-1-1-4F|03-3430-1070|\n|コドモノいっぽクリニック|中和泉5-33-2-1F|03-5761-5312|\n|佐藤診療所|東和泉1-3-14|03-3489-1771|\n|柏田内科クリニック|西野川1-15-19|03-3430-0222|\n\n1歳6カ月児健康診査・歯科健康診査\n※電子申請（外部リンク）で要予約;http://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?fromAction=1&govCode=13219&keyWord=219121&procCode=11000629\n\n年間日程\n令和6年\n4月15日、5月13日、6月17日、6月19日、7月8日、8月19日、9月9日、10月7日、11月18日、12月9日\n令和7年\n1月20日、2月17日、3月17日\n生まれ月別の健診案内日\n\n生後1歳7カ月を迎える月の健診日を案内しています。\n※個別通知でご案内した日程以降は、2歳のお誕生日の前月まで受診できます。\n|生まれ月|健診日（いずれか1日）|電子申請申し込み期間|会場|\n|:----|:----|:----|:----|\n|令和4年9月|令和6年4月15日（月曜日）|令和6年3月12日～3月26日|あいとぴあセンター|\n|^|令和6年5月13日（月曜日）|^|^|\n|令和4年10月|令和6年5月13日（月曜日）|令和6年4月16日～4月30日|^|\n|^|令和6年6月17日（月曜日）<br>令和6年6月19日（水曜日）|^|^|\n|令和4年11月|令和6年6月17日（月曜日）|令和6年5月14日～5月28日|^|\n|^|令和6年6月19日（水曜日）|^|^|\n|令和4年12月|令和6年7月8日（月曜日）|令和6年6月11日～6月25日|^|\n|^|令和6年8月19日（月曜日）|^|^|\n|令和5年1月|令和6年8月19日（月曜日）|令和6年7月9日～7月23日|^|\n|^|令和6年9月9日（月曜日）|^|^|\n|令和5年2月|令和6年9月9日（月曜日）|令和6年8月13日～8月27日|^|\n|^|令和6年10月7日（月曜日）|^|^|\n|令和5年3月|令和6年10月7日（月曜日）|令和6年9月10日～9月24日|^|\n|^|令和6年11月18日（月曜日）|^|^|\n|令和5年4月|令和6年11月18日（月曜日）|令和6年10月8日～10月22日|^|\n|^|令和6年12月9日（月曜日）|^|^|\n|令和5年5月|令和6年12月9日（月曜日）|令和6年11月12日～11月26日|^|\n|^|令和7年1月20日（月曜日）|^|^|\n|令和5年6月|令和7年1月20日（月曜日）|令和6年12月10日～12月24日|^|\n|^|令和7年2月17日（月曜日）|^|^|\n|令和5年7月|令和7年2月17日（月曜日）|令和7年1月21日～2月4日|^|\n|^|令和7年3月17日（月曜日）|^|^|\n|令和5年8月|令和7年3月17日（月曜日）|令和7年2月18日～3月4日|^|\n|^|令和7年4月（未定）|^|^|\n\n3歳児健康診査・歯科健康診査\n※電子申請（外部リンク）で要予約;http://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?fromAction=1&govCode=13219&keyWord=219121&procCode=11000673\n\n年間日程\n令和6年\n4月11日、5月9日、5月15日、6月13日、7月11日、7月17日、8月22日、9月5日、9月11日、10月10日、11月14日、11月20日、12月12日\n令和7年\n1月16日、1月22日、2月13日、3月13日、3月19日\n生まれ月別の健診案内日\n\n3歳1カ月を迎える月の健診日を案内しています。\n※個別通知の日程以降は、4歳のお誕生日の前月まで受診できます。\n |生まれ月|健診日（いずれか1日）|電子申請申し込み期間|会場|\n|:----|:----|:----|:----|\n|令和3年3月|令和6年4月11日（木曜日）|令和6年3月8日～3月22日|あいとぴあセンター|\n|^|令和6年5月15日（水曜日）|^|^|\n|令和3年4月|令和6年5月9日（木曜日）|令和6年4月9日～4月23日|^|\n|^|令和6年5月15日（水曜日）|^|^|\n|令和3年5月|令和6年6月13日（木曜日）|令和6年5月10日～5月24日|^|\n|^|令和6年7月17日（水曜日）|^|^|\n|令和3年6月|令和6年7月11日（木曜日）|令和6年6月14日～6月28日|^|\n|^|令和6年7月17日（水曜日）|^|^|\n|令和3年7月|令和6年8月22日（木曜日）|令和6年7月12日～7月26日|^|\n|^|令和6年9月11日（水曜日）|^|^|\n|令和3年8月|令和6年9月5日（木曜日）|令和6年8月9日～8月23日|^|\n|^|令和6年9月11日（水曜日）|^|^|\n|令和3年9月|令和6年10月10日（木曜日）|令和6年9月9日～9月23日|^|\n|^|令和6年11月20日（水曜日）|^|^|\n|令和3年10月|令和6年11月14日（木曜日）|令和6年10月11日～10月25日|^|\n|^|令和6年11月20日（水曜日）|^|^|\n|令和3年11月|令和6年12月12日（木曜日）|令和6年11月15日～11月29日|^|\n|^|令和7年1月22日（水曜日）|^|^|\n|令和3年12月|令和7年1月16日（木曜日）|令和6年12月13日～12月27日|^|\n|^|令和7年1月22日（水曜日）|^|^|\n|令和4年1月|令和7年2月13日（木曜日）|令和7年1月17日～1月31日|^|\n|^|令和7年3月19日（水曜日）|^|^|\n|令和4年2月|令和7年3月13日（木曜日）|令和7年2月14日～2月28日|^|\n|^|令和7年3月19日（水曜日）|^|^|\n\n※詳細は、子ども家庭課 母子保健係　(あいとぴあセンター1階)　　電話 03-5761-9200\nhttps://www.city.komae.tokyo.jp/images/content/116703/aitopiatizu65.jpg",
+      "target": {
+        "targetPersons": "3歳児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "3歳児"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "年間日程\n令和6年\n4月11日、5月9日、5月15日、6月13日、7月11日、7月17日、8月22日、9月5日、9月11日、10月10日、11月14日、11月20日、12月12日\n令和7年\n1月16日、1月22日、2月13日、3月13日、3月19日\n生まれ月別の健診案内日\n\n3歳1カ月を迎える月の健診日を案内しています。\n※個別通知の日程以降は、4歳のお誕生日の前月まで受診できます。\n |生まれ月|健診日（いずれか1日）|電子申請申し込み期間|会場|\n|:----|:----|:----|:----|\n|令和3年3月|令和6年4月11日（木曜日）|令和6年3月8日～3月22日|あいとぴあセンター|\n|^|令和6年5月15日（水曜日）|^|^|\n|令和3年4月|令和6年5月9日（木曜日）|令和6年4月9日～4月23日|^|\n|^|令和6年5月15日（水曜日）|^|^|\n|令和3年5月|令和6年6月13日（木曜日）|令和6年5月10日～5月24日|^|\n|^|令和6年7月17日（水曜日）|^|^|\n|令和3年6月|令和6年7月11日（木曜日）|令和6年6月14日～6月28日|^|\n|^|令和6年7月17日（水曜日）|^|^|\n|令和3年7月|令和6年8月22日（木曜日）|令和6年7月12日～7月26日|^|\n|^|令和6年9月11日（水曜日）|^|^|\n|令和3年8月|令和6年9月5日（木曜日）|令和6年8月9日～8月23日|^|\n|^|令和6年9月11日（水曜日）|^|^|\n|令和3年9月|令和6年10月10日（木曜日）|令和6年9月9日～9月23日|^|\n|^|令和6年11月20日（水曜日）|^|^|\n|令和3年10月|令和6年11月14日（木曜日）|令和6年10月11日～10月25日|^|\n|^|令和6年11月20日（水曜日）|^|^|\n|令和3年11月|令和6年12月12日（木曜日）|令和6年11月15日～11月29日|^|\n|^|令和7年1月22日（水曜日）|^|^|\n|令和3年12月|令和7年1月16日（木曜日）|令和6年12月13日～12月27日|^|\n|^|令和7年1月22日（水曜日）|^|^|\n|令和4年1月|令和7年2月13日（木曜日）|令和7年1月17日～1月31日|^|\n|^|令和7年3月19日（水曜日）|^|^|\n|令和4年2月|令和7年3月13日（木曜日）|令和7年2月14日～2月28日|^|\n|^|令和7年3月19日（水曜日）|^|^|\n"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/44,116703,337,html",
+        "title": "乳幼児健康診査日程"
+      },
+      "formLink": [
+        {
+          "uri": "http://www.shinsei.elg-front.jp/tokyo2/navi/procInfo.do?fromAction=1&govCode=13219&keyWord=219121&procCode=11000673",
+          "title": "電子申請（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども家庭部　子ども家庭課母子保健係（あいとぴあセンター）",
+        "contactPhone": "03-5761-9200,03-5761-7990",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,132750,html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+1+UM52",
+        "organization": "8000020132195",
+        "compartment": "子ども家庭部　子ども家庭課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-06-05",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後ヘルパーの派遣",
+        "shortName": "育児支援ヘルパー派遣事業"
+      },
+      "summary": "産前産後の体調不良などにより、家事や育児が困難なご家庭に、日常的な掃除・洗濯・食事の支度などの家事や、もく浴・おむつ交換・きょうだいのお世話などの育児を手伝うホームヘルパーを派遣します。",
+      "description": "育児支援ヘルパー派遣事業\n　出産前後、体調不良のため育児や家事が困難で、代わりにしてくれる人が身近にいない家庭に対して、ヘルパーを派遣し家事や育児の援助等をすることで、お母さんの精神的・肉体的負担を軽減し、産前産後の生活を支援します。\n\n利用対象者\n狛江市内在住で、出産前後に、昼間、家事や育児などを手伝ってくれる人のいない家庭\n※ただし、第１子の育児中に限り、父親が育児休暇を取得している家庭もこれに該当する。\n\n利用時間\n出産予定日の１カ月前から、出産後１年以内で15日間（日曜日・祝日・年末年始は除く）\n※ただし、多胎の場合は出産後１年以内の間で、この15日間とは別に15日間\n\n利用時間\n午前８時30分から午後６時までの間の４時間以内。派遣回数は１日１回とする。\n※１回につき１時間以上の場合、30分単位で利用可能\n\nサービス内容\n育児に関すること（授乳、沐浴、おむつ交換、兄弟の育児に関すること）\n家事に関すること（食事の準備や片付け、買い物、居室の掃除、洗濯など）\nその他必要な助言・相談（育児の助言・相談など）\n費用の負担\n|生活保護世帯|なし|\n|:----|:----|\n|市民税非課税世帯|１時間　　500円　　30分　250円|\n|上記以外の世帯|１時間　1,000円　　30分　500円|\n\n※市民税非課税世帯とは、申請のあった日の属する年度（４月から６月は前年度）の市区町村民税が非課税の世帯\n\nその他\n費用は利用後、市からの請求に基づき納付していただきます。\nヘルパーは、市と委託契約したＮＰＯ法人から派遣されます。\n原則として、利用したい日の１カ月前までに、相談・申し込みをしてください。\n急な事態のときも、ご相談ください。\n申し込み・問い合わせ\n狛江市子ども家庭支援センター\n電話　（５４３８）６６０5\n\n※ご利用をご希望の場合は、まずはお電話ください。\n\n育児支援ヘルパー利用案内（令和２年４月改訂版）.pdf [224KB pdfファイル];https://www.city.komae.tokyo.jp/index.cfm/43,17909,c,html/17909/20200317-164340.pdf\n\n育児支援ヘルパー派遣利用申請書のダウンロードのページへ;https://www.city.komae.tokyo.jp/index.cfm/41,101929,310,1987,html",
+      "target": {
+        "targetPersons": "狛江市内在住で、出産前後に、昼間、家事や育児などを手伝ってくれる人のいない家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "育児に関すること（授乳、沐浴、おむつ交換、兄弟の育児に関すること）\n家事に関すること（食事の準備や片付け、買い物、居室の掃除、洗濯など）\nその他必要な助言・相談（育児の助言・相談など）",
+        "monetarySupport": null,
+        "materiallySupport": "育児に関すること（授乳、沐浴、おむつ交換、兄弟の育児に関すること）\n家事に関すること（食事の準備や片付け、買い物、居室の掃除、洗濯など）\nその他必要な助言・相談（育児の助言・相談など）"
+      },
+      "cost": null,
+      "costConditions": "|生活保護世帯|なし|\n|:----|:----|\n|市民税非課税世帯|１時間　　500円　　30分　250円|\n|上記以外の世帯|１時間　1,000円　　30分　500円|\n",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産予定日の１カ月前から、出産後１年以内で15日間（日曜日・祝日・年末年始は除く）\n※ただし、多胎の場合は出産日から１年以内の間で、この15日間とは別に15日間"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "08:30",
+        "toHM": "18:00",
+        "condiutilizationConditionstions": "午前８時30分から午後６時までの間の４時間以内（１日２回に分けての利用も可）\n※１回につき１時間以上の場合、30分単位で利用可能"
+      },
+      "specificDate": null,
+      "holiday": "日曜日・祝日・年末年始",
+      "utilization": "狛江市子ども家庭支援センター\n電話　（５４３８）６６０5\n\n※ご利用をご希望の場合は、まずはお電話ください。\n\n育児支援ヘルパー利用案内（令和２年４月改訂版）.pdf [224KB pdfファイル];https://www.city.komae.tokyo.jp/index.cfm/43,17909,c,html/17909/20200317-164340.pdf \n\n育児支援ヘルパー派遣利用申請書のダウンロードのページへ;https://www.city.komae.tokyo.jp/index.cfm/41,101929,310,1987,html\n原則として、利用したい日の１カ月前までに、相談・申し込みをしてください。\n急な事態のときも、ご相談ください。",
+      "procedurePersons": null,
+      "procedureMethod": "狛江市子ども家庭支援センター\n電話　（５４３８）６６０5\n\n※ご利用をご希望の場合は、まずはお電話ください。\n\n育児支援ヘルパー利用案内（令和２年４月改訂版）.pdf [224KB pdfファイル] ;https://www.city.komae.tokyo.jp/index.cfm/43,17909,c,html/17909/20200317-164340.pdf\n\n育児支援ヘルパー派遣利用申請書のダウンロードのページへ;https://www.city.komae.tokyo.jp/index.cfm/41,101929,310,1987,html\n原則として、利用したい日の１カ月前までに、相談・申し込みをしてください。\n急な事態のときも、ご相談ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "狛江市子ども家庭支援センター\n電話　（５４３８）６６０5",
+      "relatedLink": [
+        {
+          "uri": "17909",
+          "title": "育児支援ヘルパー派遣利用申請書のダウンロードのページへ"
+        },
+        {
+          "uri": "https://www.city.komae.tokyo.jp/index.cfm/43",
+          "title": "育児支援ヘルパー利用案内（令和2年4月改訂版）.pdf［224KB pdfファイル］"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/43,17909,331,2053,html",
+        "title": "育児支援ヘルパー派遣事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部　子ども発達支援課",
+        "contactPhone": "03-5761-9012",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,105100,html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+1+UM785",
+        "organization": "8000020132195",
+        "compartment": "子ども家庭部　子ども発達支援課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2020-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "狛江市育児支援ヘルパー派遣事業実施要綱（平成19年３月30日要綱第29号）",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（▲歳児歯科健康診査）",
+        "shortName": "乳幼児歯科健診"
+      },
+      "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+      "description": "乳幼児歯科健診・フッ素塗布事業\n乳幼児歯科相談室\n歯科健診、お口のケアの仕方、歯みがき指導等を行います（個別対応です）。\n予約制となりますので、ご利用の際は子ども家庭課母子保健係へご連絡ください。\n\n対象\n0歳～4歳のお誕生月\n\n会場\nあいとぴあセンター\n\n日時\n歯科健診\n火曜日　午後1時30分～3時\n※3～6カ月ごとに1回\n\nお口のケアの仕方・歯みがき指導等\n火曜日\n午前9時10分～11時\n金曜日（月1回）\n午前9時10分～11時、午後1時10分～3時30分    \n持ち物\n母子手帳\n歯ブラシ\nコップ\nバスタオル\n飲み物（水、またはお茶）\n※お口を赤く染めて歯みがきの練習をするため、汚れてもよい服装でお越しください。",
+      "target": {
+        "targetPersons": "0歳～4歳のお誕生月",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 4,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "0歳～4歳"
+      },
+      "support": {
+        "description": "歯科健診、お口のケアの仕方、歯みがき指導等を行います",
+        "monetarySupport": null,
+        "materiallySupport": "歯科健診、お口のケアの仕方、歯みがき指導等を行います"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "歯科健診\n火曜日　午後1時30分～3時\n※3～6カ月ごとに1回\n\nお口のケアの仕方・歯みがき指導等\n火曜日\n午前9時10分～11時\n金曜日（月1回）\n午前9時10分～11時、午後1時10分～3時30分"
+      },
+      "implementationPlace": {
+        "implementationName": "あいとぴあセンター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "予約制となりますので、ご利用の際は子ども家庭課母子保健係へご連絡ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子手帳\n歯ブラシ\nコップ\nバスタオル\n飲み物（水、またはお茶）\n※お口を赤く染めて歯みがきの練習をするため、汚れてもよい服装でお越しください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "子ども家庭課母子保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/44,126869,337,html",
+        "title": "乳幼児歯科健診・フッ素塗布事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部　子ども家庭課母子保健係（あいとぴあセンター）",
+        "contactPhone": "03-5761-9200,03-5761-7990",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,132750,html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+1+UM792",
+        "organization": "8000020132195",
+        "compartment": "子ども家庭部　子ども家庭課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後期間の国民年金保険料免除",
+        "shortName": "産前産後期間の国民年金保険料免除"
+      },
+      "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+      "description": "産前産後期間の国民年金保険料が免除になります（1267号７面）\n　出産予定日または出産日が属する月の前月から４カ月間の国民年金保険料が、届け出をすることで免除されます。なお、多胎妊娠の場合は、出産予定日または出産日が属する３カ月前から６カ月間の国民年金保険料が免除されます。産前産後期間として認められた期間は、保険料を納付したものとして老齢基礎年金の受給額に反映されます。\n〔対象〕国民年金第１号被保険者で、出産日が２月１日以降の方\n〔申し込み・問い合わせ〕出産予定日の６カ月前から（ただし届け出は４月１日から）、保険年金課医療年金係または府中年金事務所　電話０４２（３６１）１０１１へ。",
+      "target": {
+        "targetPersons": "国民年金第１号被保険者で、出産日が平成31年２月１日以降の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "出産予定日または出産日が属する月の前月から４カ月間の国民年金保険料が、届け出をすることで免除されます。なお、多胎妊娠の場合は、出産予定日または出産日が属する３カ月前から６カ月間の国民年金保険料が免除されます。",
+        "monetarySupport": "出産予定日または出産日が属する月の前月から４カ月間の国民年金保険料が、届け出をすることで免除されます。なお、多胎妊娠の場合は、出産予定日または出産日が属する３カ月前から６カ月間の国民年金保険料が免除されます。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "出産予定日の６カ月前から、保険年金課医療年金係または府中年金事務所　電話０４２（３６１）１０１１へ。\n※マイナポータルからも電子申請ができます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "保険年金課医療年金係,府中年金事務所",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/41,4461,316,2013,html#6",
+        "title": "産前産後期間の免除制度"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保険年金課医療年金係,府中年金事務所",
+        "contactPhone": "042-361-1011",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+1+UM793",
+        "organization": "8000020132195",
+        "compartment": "福祉保健部　保険年金課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2019-03-28",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民年金法",
+        "regulationArticle": "第88条の2（保険料の納付義務）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "016"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "離乳食教室",
+        "shortName": "離乳食教室"
+      },
+      "summary": "生後5～11か月のお子さんとその保護者を対象に、離乳食を始める時のポイントやすすめ方についての講座を開催しています。離乳食のいろいろな悩みに栄養士がお答えします。また、離乳食の作り方の実演や試食もあります。",
+      "description": "離乳食教室\n　狛江市では離乳食教室を開催しており、月齢別に離乳食の進め方や作り方などの講義を行います。QRコードを読み取るか、電子申請でお申し込みください。\n\n|事業名|対象・定員|内容|実施時期|QRコード|\n|:----|:----|:----|:----|:----|\n|離乳食教室Step1|生後4～6カ月児の保護者<br>（先着30人）|5～6カ月児の離乳食の講話|年10回<br>13時20分～14時30分|https://www.city.komae.tokyo.jp/images/content/113844/20210301-144724.png|\n|離乳食教室Step2|生後7～8カ月児の保護者<br>（先着30人）|7～８カ月児の離乳食の講話|年10回<br>10時30分～11時30分|https://www.city.komae.tokyo.jp/images/content/113844/20210301-144828.png|\n|離乳食教室Step3|生後9～11カ月児の保護者<br>（先着30人）|9～11カ月児の離乳食の講話|年5回<br>10時30分～11時30分|https://www.city.komae.tokyo.jp/images/content/113844/20210301-144927.png|\n\n※電子申請は、母子健康事業（お子さんの各種健診・教室・相談）のページへ。;https://www.city.komae.tokyo.jp/index.cfm/44,25161,337,html\n\n離乳食教室で使用する資料を公開しています\n離乳食教室step１（5～6カ月ごろの離乳食）\nstep1 [209KB pdfファイル];https://www.city.komae.tokyo.jp/index.cfm/44,113844,c,html/113844/20210219-155441.pdf\n離乳食教室step２（7～8カ月ごろの離乳食）\nstep2 [201KB pdfファイル];https://www.city.komae.tokyo.jp/index.cfm/44,113844,c,html/113844/step2.pdf\n離乳食教室step３（9～11カ月ごろの離乳食）\nstep3 [215KB pdfファイル];https://www.city.komae.tokyo.jp/index.cfm/44,113844,c,html/113844/step3.pdf\n月齢別食べられる食品の目安\nどんな食品が食べられるの？ [169KB pdfファイル];https://www.city.komae.tokyo.jp/index.cfm/44,113844,c,html/113844/20210224-112706.pdf\n動画で学ぼう！離乳食の作り方\n狛江市公式動画チャンネルで、離乳食の作り方動画を配信しています。\n\n \n生後5～6カ月頃の離乳食\n\n[離乳食作り方動画］ 10倍がゆの作り方（外部リンク）;https://www.youtube.com/watch?v=Tuu2d5Gh8GM\n[離乳食作り方動画]　にんじんのペースト（外部リンク）;https://youtu.be/MZfhAxLfy0Y\n[離乳食作り方動画]　ほうれん草のペースト（外部リンク）;https://youtu.be/dnDUv2Bkw1w\n生後7～8カ月頃の離乳食\n\n［離乳食作り方動画］ ささみとトマトのとろとろ煮（外部リンク）;https://www.youtube.com/watch?v=kcoTMYg_kkQ",
+      "target": {
+        "targetPersons": "|事業名|対象・定員|内容|実施時期|QRコード|\n|:----|:----|:----|:----|:----|\n|離乳食教室Step1|生後4～6カ月児の保護者<br>（先着30人）|5～6カ月児の離乳食の講話|年10回<br>13時20分～14時30分|https://www.city.komae.tokyo.jp/images/content/113844/20210301-144724.png|\n|離乳食教室Step2|生後7～8カ月児の保護者<br>（先着30人）|7～８カ月児の離乳食の講話|年10回<br>10時30分～11時30分|https://www.city.komae.tokyo.jp/images/content/113844/20210301-144828.png|\n|離乳食教室Step3|生後9～11カ月児の保護者<br>（先着30人）|9～11カ月児の離乳食の講話|年5回<br>10時30分～11時30分|https://www.city.komae.tokyo.jp/images/content/113844/20210301-144927.png|\n",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "|事業名|対象・定員|内容|実施時期|QRコード|\n|:----|:----|:----|:----|:----|\n|離乳食教室Step1|生後4～6カ月児の保護者<br>（先着30人）|5～6カ月児の離乳食の講話|年10回<br>13時20分～14時30分|https://www.city.komae.tokyo.jp/images/content/113844/20210301-144724.png|\n|離乳食教室Step2|生後7～8カ月児の保護者<br>（先着30人）|7～８カ月児の離乳食の講話|年10回<br>10時30分～11時30分|https://www.city.komae.tokyo.jp/images/content/113844/20210301-144828.png|\n|離乳食教室Step3|生後9～11カ月児の保護者<br>（先着30人）|9～11カ月児の離乳食の講話|年5回<br>10時30分～11時30分|https://www.city.komae.tokyo.jp/images/content/113844/20210301-144927.png|\n"
+      },
+      "support": {
+        "description": "月齢別に離乳食の進め方や作り方などの講義を行います。",
+        "monetarySupport": null,
+        "materiallySupport": "月齢別に離乳食の進め方や作り方などの講義を行います。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "|事業名|対象・定員|内容|実施時期|QRコード|\n|:----|:----|:----|:----|:----|\n|離乳食教室Step1|生後4～6カ月児の保護者<br>（先着30人）|5～6カ月児の離乳食の講話|年10回<br>13時20分～14時30分|https://www.city.komae.tokyo.jp/images/content/113844/20210301-144724.png|\n|離乳食教室Step2|生後7～8カ月児の保護者<br>（先着30人）|7～８カ月児の離乳食の講話|年10回<br>10時30分～11時30分|https://www.city.komae.tokyo.jp/images/content/113844/20210301-144828.png|\n|離乳食教室Step3|生後9～11カ月児の保護者<br>（先着30人）|9～11カ月児の離乳食の講話|年5回<br>10時30分～11時30分|https://www.city.komae.tokyo.jp/images/content/113844/20210301-144927.png|\n"
+      },
+      "implementationPlace": {
+        "implementationName": "https://www.city.komae.tokyo.jp/index.cfm/44,25161,337,html",
+        "implementationAddress": null
+      },
+      "capacity": "|事業名|対象・定員|内容|実施時期|QRコード|\n|:----|:----|:----|:----|:----|\n|離乳食教室Step1|生後4～6カ月児の保護者<br>（先着30人）|5～6カ月児の離乳食の講話|年10回<br>13時20分～14時30分|https://www.city.komae.tokyo.jp/images/content/113844/20210301-144724.png|\n|離乳食教室Step2|生後7～8カ月児の保護者<br>（先着30人）|7～８カ月児の離乳食の講話|年10回<br>10時30分～11時30分|https://www.city.komae.tokyo.jp/images/content/113844/20210301-144828.png|\n|離乳食教室Step3|生後9～11カ月児の保護者<br>（先着30人）|9～11カ月児の離乳食の講話|年5回<br>10時30分～11時30分|https://www.city.komae.tokyo.jp/images/content/113844/20210301-144927.png|\n",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "|事業名|対象・定員|内容|実施時期|QRコード|\n|:----|:----|:----|:----|:----|\n|離乳食教室Step1|生後4～6カ月児の保護者<br>（先着30人）|5～6カ月児の離乳食の講話|年10回<br>13時20分～14時30分|https://www.city.komae.tokyo.jp/images/content/113844/20210301-144724.png|\n|離乳食教室Step2|生後7～8カ月児の保護者<br>（先着30人）|7～８カ月児の離乳食の講話|年10回<br>10時30分～11時30分|https://www.city.komae.tokyo.jp/images/content/113844/20210301-144828.png|\n|離乳食教室Step3|生後9～11カ月児の保護者<br>（先着30人）|9～11カ月児の離乳食の講話|年5回<br>10時30分～11時30分|https://www.city.komae.tokyo.jp/images/content/113844/20210301-144927.png|\n"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "QRコードを読み取るか、電子申請でお申し込みください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "html/113844/20210219-155441.pdf",
+          "title": "[離乳食作り方動画]　ほうれん草のペースト（外部リンク）"
+        },
+        {
+          "uri": "337",
+          "title": "step2 [201KB pdfファイル]"
+        },
+        {
+          "uri": "https://www.city.komae.tokyo.jp/index.cfm/44",
+          "title": "母子健康事業（お子さんの各種健診・教室・相談）のページ"
+        },
+        {
+          "uri": "html",
+          "title": "step3 [215KB pdfファイル]"
+        },
+        {
+          "uri": "https://www.city.komae.tokyo.jp/index.cfm/44",
+          "title": "［離乳食作り方動画］ ささみとトマトのとろとろ煮（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.komae.tokyo.jp/index.cfm/44",
+          "title": "どんな食品が食べられるの？ [169KB pdfファイル]"
+        },
+        {
+          "uri": "113844",
+          "title": "[離乳食作り方動画］ 10倍がゆの作り方（外部リンク）"
+        },
+        {
+          "uri": "25161",
+          "title": "step1 [209KB pdfファイル]"
+        },
+        {
+          "uri": "c",
+          "title": "[離乳食作り方動画]　にんじんのペースト（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/44,113844,337,html",
+        "title": "栄養・食育"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.komae.tokyo.jp/index.cfm/44",
+          "title": "母子健康事業（お子さんの各種健診・教室・相談）のページ"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども家庭部　子ども家庭課母子保健係（あいとぴあセンター）",
+        "contactPhone": "03-5761-9200,03-5761-7990",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,132750,html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+1+UM798",
+        "organization": "8000020132195",
+        "compartment": "子ども家庭部　子ども家庭課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-30",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法、食育基本法",
+        "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）、法第5条（子どもの食育における保護者、教育関係者等の役割）、21条 （地域における食生活の改善のための取組の推進）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小学校・中学校の就学援助費",
+        "shortName": "特別支援教育就学奨励費"
+      },
+      "summary": "特別支援学級に在籍し、又は特別支援教室に通っている児童・生徒の保護者に対して、経済的負担を軽減するための援助制度「特別支援教育就学奨励費」を実施しています。",
+      "description": "就学援助費・特別支援教育就学奨励費\n概要\n　狛江市では、公立の小・中学校及び義務教育学校（特別支援学校を除く）に在籍する児童・生徒の保護者に対して、学用品費等の代金の一部を援助する制度「就学援助費」と特別支援学級に在籍し、又は特別支援教室に通っている児童・生徒の保護者に対して、経済的負担を軽減するための援助制度「特別支援教育就学奨励費」を実施しています。\n\n \n援助を受けることができる方\n就学援助費\n狛江市に在住で、公立の小・中学校及び義務教育学校（特別支援学校を除く）に在籍する児童・生徒がいて、経済的理由で教育費の支払いにお困りの保護者\n\n特別支援教育就学奨励費\n狛江市に在住で、狛江市立小・中学校の特別支援学級に在籍又は特別支援教室に通っている児童・生徒がいる保護者\n\n※就学援助費、特別支援教育就学奨励費いずれも所得の制限があります。\n\n \n注意事項\n・制度内容詳細及び申請方法については下記「令和６年度教育費援助制度のお知らせ」を御確認ください。\n\n・お知らせ、申請書一式は下記よりダウンロードできる他、市内小学校・中学校在籍の児童・生徒には、４月に学校を通して配布します。御不明な点がありましたら学校教育課へ御相談ください。\n\n・就学援助費のうち「新入学学用品費（入学前支給）」をすでに受給された方も、改めて申請が必要です。なお、「新入学学用品費（入学前支給）」申請時とは、審査時に基準とする所得の年度が異なるため、認定結果が異なる場合があります。\n\n・令和６年度教育費援助制度のお知らせ①;https://www.komae.ed.jp/index.cfm/7,3480,c,html/3480/20240402-171357.pdf\n\n・令和６年度教育費援助制度のお知らせ②;https://www.komae.ed.jp/index.cfm/7,3480,c,html/3480/20240402-171416.pdf\n\n・令和６年度教育費援助制度のお知らせ③;https://www.komae.ed.jp/index.cfm/7,3480,c,html/3480/20240402-171425.pdf\n\n・就学援助費及び特別支援教育就学奨励費受給申請書;https://www.komae.ed.jp/index.cfm/7,3480,c,html/3480/20240402-171433.pdf\n\n・【記入例】就学援助費及び特別支援教育就学奨励費受給申請書;https://www.komae.ed.jp/index.cfm/7,3480,c,html/3480/20240402-171441.pdf",
+      "target": {
+        "targetPersons": "狛江市に在住で、狛江市立小・中学校の特別支援学級に在籍又は特別支援教室に通っている児童・生徒がいる保護者※所得の制限があります。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "狛江市に在住で、狛江市立小・中学校の特別支援学級に在籍又は特別支援教室に通っている児童・生徒"
+      },
+      "support": {
+        "description": "特別支援学級に在籍し、又は特別支援教室に通っている児童・生徒の保護者に対して、経済的負担を軽減するための援助制度",
+        "monetarySupport": "特別支援学級に在籍し、又は特別支援教室に通っている児童・生徒の保護者に対して、経済的負担を軽減するための援助制度",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "・制度内容詳細及び申請方法については下記「令和６年度教育費援助制度のお知らせ」を御確認ください。\n\n・お知らせ、申請書一式は下記よりダウンロードできる他、市内小学校・中学校在籍の児童・生徒には、４月に学校を通して配布します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "3480",
+          "title": "令和６年度教育費援助制度のお知らせ②"
+        },
+        {
+          "uri": "https://www.komae.ed.jp/index.cfm/7",
+          "title": "令和６年度教育費援助制度のお知らせ①"
+        },
+        {
+          "uri": "c",
+          "title": "令和６年度教育費援助制度のお知らせ③"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.komae.ed.jp/index.cfm/7,3480,35,html",
+        "title": "就学援助費・特別支援教育就学奨励費"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育部　学校教育課",
+        "contactPhone": "03-3430-1111",
+        "contactEx": null,
+        "contactEmail": "gakkyok@city.komae.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+2+UM126",
+        "organization": "8000020132195",
+        "compartment": "教育部　学校教育課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-02",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "学校教育法",
+        "regulationArticle": "第19条"
+      },
+      "tag": {
+        "categoryCode": [
+          "005"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産後ケア事業",
+        "shortName": "産後ケア事業"
+      },
+      "summary": "出産を終えた退院後、お母さんと赤ちゃんの生活リズムづくりや、心身の安定を図るため、施設においてショートステイ（宿泊）やデイサービス（日帰り）で、助産師などが母子の心身ケアと育児サポートを行います。",
+      "description": "産後ケア事業\n「産後、頼れる人が近くにいない…」、「体調がよくない」、「授乳がうまくいかない」。\n産後のサポートに、産後ケアを利用してみませんか？助産師のいる施設で、ゆったりと過ごすことで、心身の回復を目指します。デイサービス（日帰り）とショートステイ（宿泊）があり、育児についての相談もできます。\n\n対象\n　狛江市在住で、次の1から4のすべてにあてはまる方\n\n1.生後7カ月未満のお子さんとそのお母さん\n2.出産後に家族等から支援が受けられない方\n3.育児に関しての不安がある方\n4.母子ともに医療的な処置の必要がない方\nケアの内容\nお母さんの身体の休養\n乳房ケア、母体のケアに関する指導\n授乳および育児指導\n乳児の発育または発達に関する相談、等\n利用内容\n実施施設\n保坂産婦人科クリニック ※デイサービスのみ実施\n所在地：狛江市東和泉1-21-3\n電話番号：03-3488-1103（電話受付は午前11時～午後3時）\n桶谷式　母乳育児salon 「ふわふわ」 ※デイサービスのみ実施\n所在地：狛江市東和泉3-10-16 2F\n電話番号：03-3430-1548（電話受付は午前9時～午後4時）\nsage femme（サージュ ファム）　※デイサービスのみ実施\n所在地：調布市国領町2-8-3ゴコウエテルナーレB107\n電話番号：042-427-0131\nマザリーズ助産院\n所在地：調布市深大寺北町4-13-51\n電話番号：042-484-3757\n飯野病院　※ショートステイのみ実施（対象月齢生後4カ月未満）\n所在地：調布市布田4-3-2\n電話番号：042-483-8811\n調布病院（同院出産の方に限る）\n所在地：調布市下石原3-45-1\n電話番号：042-484-2626\n至誠会第二病院　※ショートステイのみ実施\n所在地：世田谷区上祖師谷5-19-1\n電話番号：03-3300-0366\n利用時間\nデイサービス\n午前10時～午後4時（3時間以上の利用をお願いします）\n月曜日～金曜日（祝日・年末年始を除く）\nショートステイ（宿泊型）\nチェックイン午前10時～チェックアウト午後4時\n施設により利用可能日は異なるため、実施施設にお問い合わせください。\n自己負担額\nデイサービス\n1日3,000円（食事代別途、持ち込み可能）\n※住民税非課税世帯・生活保護世帯等は無料です。\nショートステイ（宿泊型）\n1日3,500円（食事代込み。例：1泊2日の場合7,000円、昼食・夕食・朝食・昼食込み）\n※お子さんのミルク・離乳食は含まれないためご持参ください。\n利用回数\nデイサービスとショートステイを合わせて7日間まで。\nショートステイは1泊2日だと2日間利用となります。組み合わせは自由。\n\n利用方法\n1.子ども家庭課母子保健係に利用申請を行ってください（保健師が状況をお伺いします）。\n申請は、妊娠中からできます。\n2.「産後ケア事業利用（承認・不承認）通知書」が手元に届きます。\n3.上記2の通知で利用を承認された方は、利用したい施設に直接予約申し込みをしてください。",
+      "target": {
+        "targetPersons": "狛江市在住で、次の1から4のすべてにあてはまる方\n\n1.生後7カ月未満のお子さんとそのお母さん\n2.出産後に家族等から支援が受けられない方\n3.育児に関しての不安がある方\n4.母子ともに医療的な処置の必要がない方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": 7
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後7カ月未満のお子さん\n"
+      },
+      "support": {
+        "description": "お母さんの身体の休養\n乳房ケア、母体のケアに関する指導\n授乳および育児指導\n乳児の発育または発達に関する相談、等",
+        "monetarySupport": null,
+        "materiallySupport": "お母さんの身体の休養\n乳房ケア、母体のケアに関する指導\n授乳および育児指導\n乳児の発育または発達に関する相談、等"
+      },
+      "cost": null,
+      "costConditions": "ショートステイ（宿泊型）\n1日3,500円（食事代込み。例：1泊2日の場合7,000円、昼食・夕食・朝食・昼食込み）\n※お子さんのミルク・離乳食は含まれないためご持参ください。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "マザリーズ助産院,飯野病院　※ショートステイのみ実施（対象月齢生後4カ月未満）,調布病院（同院出産の方に限る）,至誠会第二病院　※ショートステイのみ実施",
+        "implementationAddress": "調布市深大寺北町4-13-51,調布市布田4-3-2,調布市下石原3-45-1,世田谷区上祖師谷5-19-1"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "16:00",
+        "condiutilizationConditionstions": "ショートステイ（宿泊型）\nチェックイン午前10時～チェックアウト午後4時\n施設により利用可能日は異なるため、実施施設にお問い合わせください。"
+      },
+      "specificDate": null,
+      "holiday": "施設により利用可能日は異なるため、実施施設にお問い合わせください。",
+      "utilization": "1.子ども家庭課母子保健係に利用申請を行ってください（保健師が状況をお伺いします）。\n申請は、妊娠中からできます。\n2.「産後ケア事業利用（承認・不承認）通知書」が手元に届きます。\n3.上記2の通知で利用を承認された方は、利用したい施設に直接予約申し込みをしてください。",
+      "procedurePersons": null,
+      "procedureMethod": "1.子ども家庭課母子保健係に利用申請を行ってください（保健師が状況をお伺いします）。\n申請は、妊娠中からできます。\n2.「産後ケア事業利用（承認・不承認）通知書」が手元に届きます。\n3.上記2の通知で利用を承認された方は、利用したい施設に直接予約申し込みをしてください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "申請は、妊娠中からできます。"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "マザリーズ助産院\n所在地：調布市深大寺北町4-13-51\n電話番号：042-484-3757\n飯野病院　※ショートステイのみ実施（対象月齢生後4カ月未満）\n所在地：調布市布田4-3-2\n電話番号：042-483-8811\n調布病院（同院出産の方に限る）\n所在地：調布市下石原3-45-1\n電話番号：042-484-2626\n至誠会第二病院　※ショートステイのみ実施\n所在地：世田谷区上祖師谷5-19-1\n電話番号：03-3300-0366",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/43,110312,330,html",
+        "title": "産後ケア事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部　子ども家庭課母子保健係（あいとぴあセンター）",
+        "contactPhone": "03-5761-9200,03-5761-7990",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,132750,html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+2+UM15",
+        "organization": "8000020132195",
+        "compartment": "子ども家庭部　子ども家庭課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-22",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条の2（産後ケア事業）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "休日歯科応急診療所"
+      },
+      "summary": "狛江市では、日曜・祝日、年末年始に、市内の医療機関の協力のもと、当番制で診療を行っています。",
+      "description": "休日診療のご案内\n　狛江市では、休日等における市民の皆さんの急な病気に備えて、当市医師会・歯科医師会・薬剤師会の協力を得て、あいとぴあセンター２階に休日応急診療所を開設しています。\n\n※受診の際は、事前にそれぞれの診療所にお電話をしてください。\n※必ず健康保険証をお持ちください。お持ちの方は、各種医療証、お薬手帳もお持ちください。　\n\n休日応急診療所\n　日曜日・祝日・年末年始の午前9時～11時30分、午後1時～4時30分\n　【問い合わせ】03-3488-9121\nhttps://www.city.komae.tokyo.jp/images/content/3914/20170517-161746.jpg\n\n案内\n24時間医療機関案内は、狛江消防署（03-3480-0119）へ。\n夜間診療は、東京消防庁テレホンサービス（042-521-2323）へ。\nインターネットは、医療情報ネット（外部リンク）へ。;https://www.iryou.teikyouseido.mhlw.go.jp/",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "休日等における市民の皆さんの急な病気に備えて、当市医師会・歯科医師会・薬剤師会の協力を得て、あいとぴあセンター２階に休日応急診療所を開設しています。",
+        "monetarySupport": null,
+        "materiallySupport": "休日等における市民の皆さんの急な病気に備えて、当市医師会・歯科医師会・薬剤師会の協力を得て、あいとぴあセンター２階に休日応急診療所を開設しています。"
+      },
+      "cost": null,
+      "costConditions": "必ず健康保険証をお持ちください。お持ちの方は、各種医療証、お薬手帳もお持ちください。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "あいとぴあセンター２階",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "日曜日・祝日・年末年始の午前9時～11時30分、午後1時～4時30分"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "※受診の際は、事前にそれぞれの診療所にお電話をしてください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "必ず健康保険証をお持ちください。お持ちの方は、各種医療証、お薬手帳もお持ちください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.iryou.teikyouseido.mhlw.go.jp/",
+          "title": "医療情報ネット"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/42,3914,329,html",
+        "title": "休日診療のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+2+UM45",
+        "organization": "8000020132195",
+        "compartment": "福祉保健部　健康推進課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-24",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（▲歳児歯科健康診査）",
+        "shortName": "フッ素塗布事業"
+      },
+      "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+      "description": "乳幼児歯科健診・フッ素塗布事業\n\nフッ素塗布事業\n歯科健診、ブラッシング指導、フッ素塗布を行います。\n\n対象\n2歳～3歳11カ月の幼児\n※市の制度を利用してのフッ素塗布は６か月あけてください。\n\n会場\n市内実施医療機関（下表をご確認ください）\n\nフッ素塗布実施医療機関\n\n|電話番号|||医療機関名|所在地|電話番号|\n|\n|:----|:----|:----|\n|しまの歯科医院|和泉本町1-5-2-105|03-3430-5060|\n|杉田歯科医院|和泉本町2-27-1|03-3488-3375|\n|松本歯科医院|和泉本町3-22-9|03-3480-5511|\n|大中歯科医院|中和泉2-5-20|03-3489-3905|\n|和泉歯科医院|中和泉5-14-1|03-3480-3280|\n|関谷歯科医院|中和泉5-30-16|03-3488-3345|\n|歯科　鈴木クリニック|元和泉1-4-9|03-3488-8858|\n|あさがお歯科　狛江|東和泉1-6-1|03-5761-4418|\n|塩谷歯科医院|東和泉1-16-5-2F|03-3480-1967|\n|岡本歯科医院|東和泉3-3-15-2F|03-5497-1747|\n|石川歯科医院|東和泉3-12-2-1|03-3430-4184|\n|長谷川歯科医院|東和泉4-3-7-201|03-3488-5536|\n|花井歯科医院|猪方3-26-11|03-3480-8748|\n|たかはし歯科医院|猪方3-36-23-101|03-3430-8855|\n|久保田歯科医院|岩戸南3-8-7|03-3430-1820|\n|なかつか歯科医院|岩戸北2-20-10-4|03-5438-7233|\n|津江歯科医院|岩戸北4-8-1|03-3480-2501|\n|島田歯科医院|岩戸北4-10-7|03-3489-7272|\n|青山歯科医院|東野川1-2-12|03-3489-1793|\n|松浦歯科医院|西野川3-8-3|03-3489-2867|\n\n利用方法\n市内実施医療機関に予約を取り、対象の期間内にフッ素塗布を受けてください。\n\n費用\n500円\n（実施医療機関にお支払いください）\n\n持ち物\n母子健康手帳、保険証・乳幼児医療証、仕上げ磨き用の歯ブラシ、タオル",
+      "target": {
+        "targetPersons": "2歳～3歳11カ月の幼児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": 11
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "2歳～3歳11カ月の幼児"
+      },
+      "support": {
+        "description": "歯科健診、ブラッシング指導、フッ素塗布を行います。",
+        "monetarySupport": null,
+        "materiallySupport": "歯科健診、ブラッシング指導、フッ素塗布を行います。"
+      },
+      "cost": "500",
+      "costConditions": "500円\n（実施医療機関にお支払いください）",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "|電話番号|||医療機関名|所在地|電話番号|\n|\n|:----|:----|:----|\n|しまの歯科医院|和泉本町1-5-2-105|03-3430-5060|\n|杉田歯科医院|和泉本町2-27-1|03-3488-3375|\n|松本歯科医院|和泉本町3-22-9|03-3480-5511|\n|大中歯科医院|中和泉2-5-20|03-3489-3905|\n|和泉歯科医院|中和泉5-14-1|03-3480-3280|\n|関谷歯科医院|中和泉5-30-16|03-3488-3345|\n|歯科　鈴木クリニック|元和泉1-4-9|03-3488-8858|\n|あさがお歯科　狛江|東和泉1-6-1|03-5761-4418|\n|塩谷歯科医院|東和泉1-16-5-2F|03-3480-1967|\n|岡本歯科医院|東和泉3-3-15-2F|03-5497-1747|\n|石川歯科医院|東和泉3-12-2-1|03-3430-4184|\n|長谷川歯科医院|東和泉4-3-7-201|03-3488-5536|\n|花井歯科医院|猪方3-26-11|03-3480-8748|\n|たかはし歯科医院|猪方3-36-23-101|03-3430-8855|\n|久保田歯科医院|岩戸南3-8-7|03-3430-1820|\n|なかつか歯科医院|岩戸北2-20-10-4|03-5438-7233|\n|津江歯科医院|岩戸北4-8-1|03-3480-2501|\n|島田歯科医院|岩戸北4-10-7|03-3489-7272|\n|青山歯科医院|東野川1-2-12|03-3489-1793|\n|松浦歯科医院|西野川3-8-3|03-3489-2867|\n",
+        "implementationAddress": "|電話番号|||医療機関名|所在地|電話番号|\n|\n|:----|:----|:----|\n|しまの歯科医院|和泉本町1-5-2-105|03-3430-5060|\n|杉田歯科医院|和泉本町2-27-1|03-3488-3375|\n|松本歯科医院|和泉本町3-22-9|03-3480-5511|\n|大中歯科医院|中和泉2-5-20|03-3489-3905|\n|和泉歯科医院|中和泉5-14-1|03-3480-3280|\n|関谷歯科医院|中和泉5-30-16|03-3488-3345|\n|歯科　鈴木クリニック|元和泉1-4-9|03-3488-8858|\n|あさがお歯科　狛江|東和泉1-6-1|03-5761-4418|\n|塩谷歯科医院|東和泉1-16-5-2F|03-3480-1967|\n|岡本歯科医院|東和泉3-3-15-2F|03-5497-1747|\n|石川歯科医院|東和泉3-12-2-1|03-3430-4184|\n|長谷川歯科医院|東和泉4-3-7-201|03-3488-5536|\n|花井歯科医院|猪方3-26-11|03-3480-8748|\n|たかはし歯科医院|猪方3-36-23-101|03-3430-8855|\n|久保田歯科医院|岩戸南3-8-7|03-3430-1820|\n|なかつか歯科医院|岩戸北2-20-10-4|03-5438-7233|\n|津江歯科医院|岩戸北4-8-1|03-3480-2501|\n|島田歯科医院|岩戸北4-10-7|03-3489-7272|\n|青山歯科医院|東野川1-2-12|03-3489-1793|\n|松浦歯科医院|西野川3-8-3|03-3489-2867|\n"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "市内実施医療機関に予約を取り、対象の期間内にフッ素塗布を受けてください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳、保険証・乳幼児医療証、仕上げ磨き用の歯ブラシ、タオル",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "しまの歯科医院\n\n和泉本町1-5-2-105\n\n03-3430-5060\n\n杉田歯科医院\n\n和泉本町2-27-1\n\n03-3488-3375\n\n松本歯科医院\n\n和泉本町3-22-9\n\n03-3480-5511\n\n大中歯科医院\n\n中和泉2-5-20\n\n03-3489-3905\n\n和泉歯科医院\n\n中和泉5-14-1\n\n03-3480-3280\n\n関谷歯科医院\n\n中和泉5-30-16\n\n03-3488-3345\n\n歯科　鈴木クリニック\n\n元和泉1-4-9\n\n03-3488-8858\n\nあさがお歯科　狛江\n\n東和泉1-6-1\n\n03-5761-4418\n\n塩谷歯科医院\n\n東和泉1-16-5-2F\n\n03-3480-1967\n\n岡本歯科医院\n\n東和泉3-3-15-2F\n\n03-5497-1747\n\n石川歯科医院\n\n東和泉3-12-2-1\n\n03-3430-4184\n\n長谷川歯科医院\n\n東和泉4-3-7-201\n\n03-3488-5536\n\n花井歯科医院\n\n猪方3-26-11\n\n03-3480-8748\n\nたかはし歯科医院\n\n猪方3-36-23-101\n\n03-3430-8855\n\n久保田歯科医院\n\n岩戸南3-8-7\n\n03-3430-1820\n\nなかつか歯科医院\n\n岩戸北2-20-10-4\n\n03-5438-7233\n\n津江歯科医院\n\n岩戸北4-8-1\n\n03-3480-2501\n\n島田歯科医院\n\n岩戸北4-10-7\n\n03-3489-7272\n\n青山歯科医院\n\n東野川1-2-12\n\n03-3489-1793\n\n松浦歯科医院\n\n西野川3-8-3\n\n03-3489-2867",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/44,126869,337,html",
+        "title": "乳幼児歯科健診・フッ素塗布事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部　子ども家庭課母子保健係（あいとぴあセンター）",
+        "contactPhone": "03-5761-9200,03-5761-7990",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.komae.tokyo.jp/index.cfm/4,132750,html",
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+2+UM792",
+        "organization": "8000020132195",
+        "compartment": "子ども家庭部　子ども家庭課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "休日診療薬局"
+      },
+      "summary": "狛江市では、日曜・祝日、年末年始に、市内の医療機関の協力のもと、当番制で診療を行っています。",
+      "description": "休日診療のご案内\n　狛江市では、休日等における市民の皆さんの急な病気に備えて、当市医師会・歯科医師会・薬剤師会の協力を得て、あいとぴあセンター２階に休日応急診療所を開設しています。\n\n※受診の際は、事前にそれぞれの診療所にお電話をしてください。\n※必ず健康保険証をお持ちください。お持ちの方は、各種医療証、お薬手帳もお持ちください。　\n\n休日応急診療所\n　日曜日・祝日・年末年始の午前9時～11時30分、午後1時～4時30分\n　【問い合わせ】03-3488-9121\nhttps://www.city.komae.tokyo.jp/images/content/3914/20170517-161746.jpg\n\n案内\n24時間医療機関案内は、狛江消防署（03-3480-0119）へ。\n夜間診療は、東京消防庁テレホンサービス（042-521-2323）へ。\nインターネットは、医療情報ネット（外部リンク）へ。;https://www.iryou.teikyouseido.mhlw.go.jp/",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "休日等における市民の皆さんの急な病気に備えて、当市医師会・歯科医師会・薬剤師会の協力を得て、あいとぴあセンター２階に休日応急診療所を開設しています。",
+        "monetarySupport": null,
+        "materiallySupport": "休日等における市民の皆さんの急な病気に備えて、当市医師会・歯科医師会・薬剤師会の協力を得て、あいとぴあセンター２階に休日応急診療所を開設しています。"
+      },
+      "cost": null,
+      "costConditions": "必ず健康保険証をお持ちください。お持ちの方は、各種医療証、お薬手帳もお持ちください。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "あいとぴあセンター２階",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "日曜・祝日・年末年始の午前9時～11時30分、午後1時～5時"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "※受診の際は、事前にそれぞれの診療所にお電話をしてください。\n※休日診療対応の薬局のため、取扱い医薬品に限りがあります。他の医療機関の処方箋については、電話でご確認ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "必ず健康保険証をお持ちください。お持ちの方は、各種医療証、お薬手帳もお持ちください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.iryou.teikyouseido.mhlw.go.jp/",
+          "title": "医療情報ネット"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.komae.tokyo.jp/index.cfm/42,3914,329,html",
+        "title": "休日診療のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132195;狛江市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132195+3+UM45",
+        "organization": "8000020132195",
+        "compartment": "福祉保健部　健康推進課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-24",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "狛江市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

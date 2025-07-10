@@ -1,0 +1,509 @@
+{
+  "version": "2025-07-10T02:38:54.144Z",
+  "areaCode": "133051",
+  "areaName": "日の出町",
+  "category": "education",
+  "count": 4,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "小学校・中学校の就学援助費",
+        "shortName": "就学援助費"
+      },
+      "summary": "経済的な理由により就学が困難と認められる、公立の小学校・中学校に通学する児童・生徒の保護者を対象に、学用品費、修学旅行費、給食費などを支給します。",
+      "description": "就学援助費¥n町内に住所を有し、または町内の公立小・中学校に通っているお子さんがいる家庭で、一定の条件を満たす場合、保護者へ学用品費、修学旅行費、給食費など教育費の一部を援助します。¥n※　申請された書類に基づき、日の出町教育委員会が審査し、必要に応じ学校長の意見を聴取および世帯の総収入額により審査します。なお、世帯構成や年齢などの状況により、援助を受けられる家庭が異なります。¥n¥n≪注意≫¥n・認定倍率を積算する上で世帯収入額が基準になるため、所得の申告が必要です。¥n・認定は年度ごとに行います。前年度認定された方についても改めて申請が必要です。¥n・新入学用品費の入学前支給の申請をしたご家庭も再度申請が必要です。¥n・学校納付金（給食費等）の未納者については、認定されないことがあります。¥n¥n支給時期¥n• 認定されますと就学援助費は各学期末（年3回）支給されます。¥n• 申請書に記入された口座に振り込みます。ただし、給食費の納付が遅れている方については、給食費の入金が確認されるまで支給はできません（確認日が年度をまたぎますと、支給できません）。¥n• 新入学児童生徒学用品費は、3月中旬に支給予定です。¥n• 修学旅行費については、学校からの経費報告に基づき支給しますので、支給月が異なる場合があります。¥n• 支給時期につきましては、状況により変わることもあります。¥n• ご不明な点は、問い合わせてください。¥n¥n就学援助費お知らせ;https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000003/3178/ennjyoosirase¥n就学援助費申請書;https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000003/3178/ennjyomousikomisyo.pdf",
+      "target": {
+        "targetPersons": "町内に住所を有し、学校教育法第2条に規定された小学校及び中学校に在学する児童及び生徒の保護者で、次のいずれかに該当する者が対象となります。¥n（1）生活保護法（昭和25年法律第144号）第6条第1項に規定する被保護者¥n（2）生活保護法の規定により保護の停止または廃止の決定を受けている者¥n（3）地方税法（昭和25年法律第226号）第295条第1項に規定する市町村民税が非課税の者¥n（4）地方税法第72条の62の規定により個人の事業税の減免を受けている者¥n（5）地方税法第323条の規定により市町村民税の減免を受けている者¥n（6）地方税法第367条の規定により固定資産税の減免を受けている者¥n（7）国民健康保険法第77条の規定により保険料の減免若しくは徴収の猶予を受けている者¥n（8）国民年金法第89条及び第90条の規定により国民年金の掛金の減免を受けている者¥n（9）児童扶養手当法第4条の規定により児童扶養手当を支給されている者¥n（10）保護者及び保護者と生計を一とする者を含む同一世帯に属する者の当該年度の前年の総収入金額（営業収入等（譲渡所得は除く。）は、必要経費控除後の金額に当該年度の給与所得控除額を加算した額）が、次条に規定する基準により算定した額の1.5倍以下の世帯の者¥n（11）　前各号に該当しない者で福祉事務所長、学校長または民生委員の意見により日の出町教育委員会が認める者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "町内に住所を有し、学校教育法第2条に規定された小学校及び中学校に在学する児童及び生徒の保護者で、次のいずれかに該当する者が対象となります。¥n（1）生活保護法（昭和25年法律第144号）第6条第1項に規定する被保護者¥n（2）生活保護法の規定により保護の停止または廃止の決定を受けている者¥n（3）地方税法（昭和25年法律第226号）第295条第1項に規定する市町村民税が非課税の者¥n（4）地方税法第72条の62の規定により個人の事業税の減免を受けている者¥n（5）地方税法第323条の規定により市町村民税の減免を受けている者¥n（6）地方税法第367条の規定により固定資産税の減免を受けている者¥n（7）国民健康保険法第77条の規定により保険料の減免若しくは徴収の猶予を受けている者¥n（8）国民年金法第89条及び第90条の規定により国民年金の掛金の減免を受けている者¥n（9）児童扶養手当法第4条の規定により児童扶養手当を支給されている者¥n（10）保護者及び保護者と生計を一とする者を含む同一世帯に属する者の当該年度の前年の総収入金額（営業収入等（譲渡所得は除く。）は、必要経費控除後の金額に当該年度の給与所得控除額を加算した額）が、次条に規定する基準により算定した額の1.5倍以下の世帯の者¥n（11）　前各号に該当しない者で福祉事務所長、学校長または民生委員の意見により日の出町教育委員会が認める者"
+      },
+      "support": {
+        "description": "学用品費等、新入学児童生徒学用品費、修学旅行費、給食費、校外活動費、通学費¥n※ただし、生活保護法に基づく保護を受けている家庭は、校外活動費（宿泊有）、修学旅行費のみの援助になります。",
+        "monetarySupport": "学用品費等、新入学児童生徒学用品費、修学旅行費、給食費、校外活動費、通学費¥n※ただし、生活保護法に基づく保護を受けている家庭は、校外活動費（宿泊有）、修学旅行費のみの援助になります。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "日の出町教育委員会　学校教育課　指導・学務係",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "開庁日の午前8時30分から正午、 午後1時00分から午後5時15分"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申請される方は、「就学援助費支給申請書」に必要事項を記入の上、裏面に必要書類を添付して、直接持参または郵送してください。年度当初は、町が指定する期日（例年５月上旬）までに提出した方で、4月において受給資格のある方が認定となった場合は、4月認定となります。¥n※申請書は、学校を通じて配布しています。お手元にない場合は、教育委員会窓口にお越しいただくか、申請書を印刷の上ご利用ください。¥n※申請書は、1世帯1枚で提出してください。¥n※前年度認定となった方も、毎年度、申請が必要です。¥n※郵送の場合、〆切日の消印があるものまでを、4月の申請とします。¥n※期限後も申請を受付けますが、認定となった場合は申請月の属する学期分から支給します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "年度当初は、町が指定する期日（例年５月上旬）までに提出した方で、4月において受給資格のある方が認定となった場合は、4月認定となります。"
+      },
+      "electronicSubmission": false,
+      "belongings": "・申請書¥n以下の者は、それを証明する書類。¥n（1）生活保護法（昭和25年法律第144号）第6条第1項に規定する被保護者¥n（2）生活保護法の規定により保護の停止または廃止の決定を受けている者¥n（3）地方税法（昭和25年法律第226号）第295条第1項に規定する市町村民税が非課税の者¥n（4）地方税法第72条の62の規定により個人の事業税の減免を受けている者¥n（5）地方税法第323条の規定により市町村民税の減免を受けている者¥n（6）地方税法第367条の規定により固定資産税の減免を受けている者¥n（7）国民健康保険法第77条の規定により保険料の減免若しくは徴収の猶予を受けている者¥n（8）国民年金法第89条及び第90条の規定により国民年金の掛金の減免を受けている者¥n（9）児童扶養手当法第4条の規定により児童扶養手当を支給されている者¥n¥n上記以外の方で、同一世帯で収入がある方については、住民税の課税状況等、前年度の収入調査をいたします。1月1日以降に日の出町に転入された方については、下記の書類のいずれか1通を必ず添付してください。¥n（1） 前年度分の給与所得の源泉徴収票の写し¥n（2） 当該年度の町（区市村）民税・都民税申告書の控えの写し¥n（3） 当該年度の住民税課税（非課税）証明書¥n≪注意≫¥n・認定倍率を積算する上で世帯収入額が基準になるため、所得の申告が必要です。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "• 直接持参する場合　日の出町役場　2階（図書館上）　学校教育課　指導・学務係¥n（受付時間　開庁日の午前8時30分から正午、午後1時00分から午後5時15分）¥n• 郵送の場合　〒190-0192　日の出町平井2780　日の出町教育委員会　学校教育課　指導・学務係　宛て",
+      "relatedLink": [
+        {
+          "uri": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000003/3178/ennjyoosirase",
+          "title": "就学援助費お知らせ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/0000003178.html",
+        "title": "就学援助費"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "学校教育課（指導室）指導・学務係",
+        "contactPhone": "042-588-5649",
+        "contactEx": "532,533",
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "ファクス: 042-597-6698",
+        "zipCode": "1900192",
+        "contactAddress": "東京都西多摩郡日の出町大字平井2780番地"
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM126",
+        "organization": "1000020133051",
+        "compartment": "学校教育課 指導室　指導・学務係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "学校教育法",
+        "regulationArticle": "第19条"
+      },
+      "tag": {
+        "categoryCode": [
+          "005"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+        "shortName": "乳児家庭全戸訪問（こんにちは赤ちゃん事業）"
+      },
+      "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+      "description": null,
+      "target": {
+        "targetPersons": "生後4ヵ月未満の乳児のいる家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/0000001943.html",
+        "title": "妊娠から出産まで"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "日の出町役場こども家庭センター　相談係（母子保健担当）",
+        "contactPhone": "042-588-4310",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM14",
+        "organization": "1000020133051",
+        "compartment": "日の出町役場こども家庭センター　相談係（母子保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2025/02/21",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第21条の10の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "放課後子供教室",
+        "shortName": "放課後子ども教室"
+      },
+      "summary": "地域住民の参画を得て、放課後等に全ての児童を対象として、学習や体験・交流といった多様な活動を行っています。",
+      "description": "活動内容と参加申込みについて\n\n放課後に、小学校の教室や体育館等を利用し、子供たちの安全で安心な居場所を提供する事業です。\n地域の皆さんにご協力いただき実施しています。\n\n事業で重点的に取り組む課題に応じた目標等の設定について\n本事業では、子どもたちの安全で安心な居場所づくりを行うとともに、子どもの学習能力の向上を重点的に取り組む課題に応じた目標として掲げております。\n\n・目標\n子どもの1日当たりの家庭学習時間を延ばし学習習慣を定着させることで、学力及び学習意欲の向上を目指す。\n\n・具体的な取り組み\n本事業では活動時間内で自主学習（宿題含む）を促しています。課題に悩んでいる子どもについてはサポートし、学習意欲の低下に繋がらないよう努めています。\nまた、学習スペースと自由スペースの区分けを行うことで、集中力を高めるように配慮しております。\nこのようにして、参加する子どもたちが「やりたいことができる」ように、主体性を尊重して事業に取り組んでおります。",
+      "target": {
+        "targetPersons": "実施校に通う小学1年～6年生\n☆令和6年度の参加募集は以下をご覧ください。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "町内の各小学校（大久野小・平井小・本宿小）の3校　（夏冬季休業期間は除きます） ",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "放課後～午後3時45分まで（夏冬季休業期間は除きます）\n※学校行事などにより、実施しないことや時間の変更をすることがあります。\n※詳しいスケジュールや活動場所については、お配りする「開催日程表」でご確認ください。"
+      },
+      "specificDate": "毎週水曜日",
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/0000002396.html",
+        "title": "放課後子ども教室"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "東京都 日の出町　文化スポーツ課社会教育係",
+        "contactPhone": "042-588-5794",
+        "contactEx": "541～544",
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+1+UM5028",
+        "organization": "1000020133051",
+        "compartment": "東京都 日の出町　文化スポーツ課社会教育係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2025/02/20",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小学校・中学校の就学援助費",
+        "shortName": "特別支援教育就学奨励費"
+      },
+      "summary": "経済的な理由により就学が困難と認められる、町内の公立小・中学校の特別支援学級に在籍する児童・生徒の保護者を対象に、学用品費、修学旅行費、給食費などを支給します。",
+      "description": "特別支援教育就学奨励費¥n町内の公立小・中学校の特別支援学級に在籍する児童・生徒について、保護者の教育費に係る経済的負担を軽減するため、学用品費や給食費などの一部の費用について援助します。¥n¥n受けられる援助¥n特別支援学校への就学奨励に関する法律施行令第2条第1項に規定する保護者の合計所得額が同項に規定する需要額の倍率によって支給項目が異なります。¥n¥n2．5倍以上の保護者：公共交通機関使用に係る通学費（定期代）¥n2．5倍未満の保護者：学用品費・修学旅行費・校外活動費・給食費・通学用品費等¥n¥n支給時期¥n原則、各学期末（年3回）に指定口座へ交付されます。支給時期については、状況により変わることがあります。¥n¥nご不明な点は、問い合わせてください。¥n¥n特別支援教育就学奨励費のお知らせ;https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000003/3183/syugakuosirase.pdf¥n特別支援教育就学奨励費申請書;https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000003/3183/syoureihimousikomisyo.pdf",
+      "target": {
+        "targetPersons": "町内にお住まいで、町内小・中学校の特別支援学級に在籍する児童・生徒の保護者であり、以下に該当しないもの¥n（1）生活保護法（昭和25年法律第144号）第6条第1項に規定する被保護者¥n（2）公共交通機関を利用しない児童生徒の保護者で、特別支援学校への就学奨励に関する法律施行令（昭和29年政令第157号）第2条第1項に規定する収入額が同項に規定する需要額の2.5倍以上のもの",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "町内にお住まいで、町内小・中学校の特別支援学級に在籍する児童・生徒の保護者であり、以下に該当しないもの¥n（1）生活保護法（昭和25年法律第144号）第6条第1項に規定する被保護者¥n（2）公共交通機関を利用しない児童生徒の保護者で、特別支援学校への就学奨励に関する法律施行令（昭和29年政令第157号）第2条第1項に規定する収入額が同項に規定する需要額の2.5倍以上のもの"
+      },
+      "support": {
+        "description": "特別支援学校への就学奨励に関する法律施行令第2条第1項に規定する保護者の合計所得額が同項に規定する需要額の倍率によって支給項目が異なります。¥n2．5倍以上の保護者：公共交通機関使用に係る通学費（定期代）¥n2．5倍未満の保護者：学用品費・修学旅行費・校外活動費・給食費・通学用品費等",
+        "monetarySupport": "特別支援学校への就学奨励に関する法律施行令第2条第1項に規定する保護者の合計所得額が同項に規定する需要額の倍率によって支給項目が異なります。¥n2．5倍以上の保護者：公共交通機関使用に係る通学費（定期代）¥n2．5倍未満の保護者：学用品費・修学旅行費・校外活動費・給食費・通学用品費等¥n",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "日の出町教育委員会　学校教育課　指導・学務係",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "開庁日の午前8時30分から正午、 午後1時00分から午後5時15分"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申請される方は、「特別支援教育就学奨励費申請書」に必要事項を記入の上、必要書類を添付して、直接持参または郵送（必着）してください。年度当初は、町が指定する期日（例年５月上旬）までに提出した方で、4月において受給資格のある方が認定となった場合は、4月認定となります。¥n※申請書は、1世帯1枚で提出してください。¥n※前年度認定された方も、毎年度、申請が必要です。¥n※期限後も申請を受付けますが、認定となった場合は月割りの支給となります。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "年度当初は、町が指定する期日（例年５月上旬）までに提出した方で、4月において受給資格のある方が認定となった場合は、4月認定となります。"
+      },
+      "electronicSubmission": false,
+      "belongings": "・同一世帯に属する方全員の前年の総所得金額が明記された書類（源泉徴収票・確定申告書等）の写し¥n・特別支援教育就学奨励費申請書¥n特別支援教育就学奨励費申請書;https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000003/3183/syoureihimousikomisyo.pdf",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "• 直接持参する場合　日の出町役場　2階（図書館上）　学校教育課　指導・学務係¥n（受付時間　開庁日の午前8時30分から正午、午後1時00分から午後5時15分）¥n• 郵送の場合　〒190-0192　日の出町平井2780　日の出町教育委員会　学校教育課　指導・学務係　宛て",
+      "relatedLink": [
+        {
+          "uri": "https://www.town.hinode.tokyo.jp/cmsfiles/contents/0000003/3183/syugakuosirase.pdf",
+          "title": "特別支援教育就学奨励費のお知らせ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.town.hinode.tokyo.jp/0000003183.html",
+        "title": "特別支援教育就学奨励費"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "学校教育課（指導室）指導・学務係",
+        "contactPhone": "042-588-5649",
+        "contactEx": "532,533",
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "ファクス: 042-597-6698",
+        "zipCode": "1900192",
+        "contactAddress": "東京都西多摩郡日の出町大字平井2780番地"
+      },
+      "area": {
+        "areaCode": "133051;日の出町",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020133051+2+UM126",
+        "organization": "1000020133051",
+        "compartment": "学校教育課 指導室　指導・学務係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-24",
+        "updater": "日の出町",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "学校教育法",
+        "regulationArticle": "第19条"
+      },
+      "tag": {
+        "categoryCode": [
+          "005"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    }
+  ]
+}

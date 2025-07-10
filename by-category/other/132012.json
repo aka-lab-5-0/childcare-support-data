@@ -1,0 +1,1094 @@
+{
+  "version": "2025-07-10T02:38:54.120Z",
+  "areaCode": "132012",
+  "areaName": "八王子市",
+  "category": "other",
+  "count": 8,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "図書館の児童サービス（ブックスタートなど）",
+        "shortName": "図書館の児童サービス（ブックスタートなど）"
+      },
+      "summary": "ブックスタートとは、赤ちゃんとその保護者に絵本をプレゼントし、絵本を開く楽しい体験とともに、心ふれあうきっかけをつくる活動です。",
+      "description": "八王子市で生まれた親子を対象に、読み聞かせの体験・絵本プレゼントを実施しています。",
+      "target": {
+        "targetPersons": "市内に住所を有する満３か月を超え、満１歳を迎える乳児及びその保護者。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 0
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": 3
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "絵本、子育てに役立つ情報冊子等の入ったブックスタートパック",
+        "monetarySupport": null,
+        "materiallySupport": "絵本、子育てに役立つ情報冊子等の入ったブックスタートパック"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "八王子市中央図書館、生涯学習センター図書館、南大沢図書館",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "14:00",
+        "toHM": "16:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "引換券を提示した乳児及びその保護者（できるだけ親子でご参加ください）。",
+      "procedureMethod": "所定の開催日に各図書館までお越しください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "3,4か月児健康診査のお知らせによる個別通知に同封されている引換券、もしくはお子さんの生年月日が確認できるもの",
+      "procedureDocumentsCode": {
+        "code": "3,4か月児健康診査のお知らせによる個別通知に同封されている引換券、もしくはお子さんの生年月日が確認できるもの",
+        "others": null
+      },
+      "procedureCounter": "中央図書館・生涯学習センター図書館・南大沢図書館",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.library.city.hachioji.tokyo.jp/upload/bookstart.html",
+        "title": "ブックスタート"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "八王子市中央図書館",
+        "contactPhone": "042-664-4321",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1930835",
+        "contactAddress": "八王子市千人町3-3-6"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+1+UM105",
+        "organization": "1000020132012",
+        "compartment": "生涯学習スポーツ部図書館課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2025-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-22",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "八王子市ブックスタート事業実施要綱、八王子市ブックスタートバッグの無償提供に関する実施要綱",
+        "regulationArticle": "第１条（目的）、第１条（目的）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "児童館",
+        "shortName": "子ども・若者育成支援センター（はちビバ）"
+      },
+      "summary": "児童館は、18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。",
+      "description": "はちビバ（子ども・若者育成支援センター）\n更新日：2024年06月08日\n子ども・若者育成支援センター、愛称は「はちビバ」\n児童館から「子ども・若者育成支援センター」に！\n児童館は、令和5年（2023年）11月1日より名称を「子ども・若者育成支援センター」に改め、これまでの子どもたちへの遊びを通した健全育成に加えて、時代や社会のニーズに合わせてより幅広く子ども・若者に寄り添った活動や支援に取り組んでいます。\n愛称が「はちビバ」に決定！\n令和6年4月から使用する子ども・若者育成支援センターの愛称が、「はちビバ」に決まりました。\nこの愛称は、公募で寄せられた489点の案から、11人の子ども・若者が12点に選定し、その中から初宿市長と子ども・若者による会議にて決定しました。 イタリア語などで「生きていることを祝う」といった意味の言葉「viva」と八王子の「居場所、遊び場」を組み合わせたものです。\nこの愛称には、八王子の子ども・若者たちの生き方を尊重し、その成長をまちのみんなで喜び合えるようにといった願いや、子どもの遊び場、居場所、活動の場になってほしいという想いが込められています。\n市長と愛称候補選出委員の集合写真\n初宿市長と愛称候補選出会議参加者\n\n詳しい事業内容等はこちらを御覧ください。\n愛称は「はちビバ」に決定！（子ども・若者育成支援センター）\n\n最新トピックス\n令和6年度（2024年度）子ども☆ミライ会議「子ども企画委員」「学生リーダー・アドバイザー」を募集します(6月15日から7月12日)\n詳しい事業内容等はこちらを御覧ください。\n子ども☆ミライ会議(平成29年度から現在)\n\n新型コロナウイルス感染症への対応について\n利用の際は、手指消毒に御協力ください。\n咳・発熱症状など体調がすぐれない場合は利用を控えてください。\nマスクの着用は個人の判断を基本としますが、状況や事業内容により着用をお願いする場合があります。\n令和5年（2023年）5月8日から、感染症法上の位置付けが5類へ移行したことに伴い、施設内での飲食に関するルールを一部緩和しました。詳しくはお近くの施設にお問い合わせください。\n施設内の消毒は、引き続き適宜行います。\n知りたい内容を選んでください\n（画像をクリックすると進むことができます。）\n\n利用案内活動紹介と事業報告書行きたい施設をさがす\n動画のページあそびの玉手箱 ～あそびを紹介～ボランティア・会計年度任用職員の登録\n関連リンク\nすくてく・八王子「Facebook」 (新しいウインドウが開き、本サイトを離れます)\n\nすくてく・八王子「X（旧Twitter）」 (新しいウインドウが開き、本サイトを離れます)",
+      "target": {
+        "targetPersons": "子どもとその保護者",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": 0
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": 0
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "乳幼児は保護者同伴のこと"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": "無料 ただし、行事の材料費などの実費分を徴収する場合があります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "日曜日・祝休日・年末年始は休館"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "18:30",
+        "condiutilizationConditionstions": "小学生は時間制限、分館は別の時間設定あり"
+      },
+      "specificDate": null,
+      "holiday": "日曜日・祝休日・年末年始は休館",
+      "utilization": "利用者登録届を提出",
+      "procedurePersons": "利用者登録届は保護者が記入してください。",
+      "procedureMethod": "利用する施設の窓口に提出",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "10:00",
+        "toYMD": null,
+        "toHM": "18:30",
+        "conditions": "日曜日・祝休日・年末年始は休館"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "各施設",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://kosodate.city.hachioji.tokyo.jp/scene/kodomonoibasho/jidoukan/2969.html",
+        "title": "はちビバ（子ども・若者育成支援センター）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部青少年若者課みなみ野事務所",
+        "contactPhone": "042-635-6137",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "ファックス：042-635-6137",
+        "zipCode": "1920916",
+        "contactAddress": "八王子市みなみ野6-1-1"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+1+UM108",
+        "organization": "1000020132012",
+        "compartment": "子ども家庭部青少年若者課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-06-08",
+      "odInformation": {
+        "updateDate": "2024-05-20",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第7条、第40条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "児童遊園",
+        "shortName": "泉町弁天池児童遊園"
+      },
+      "summary": "児童遊園は、屋外にある公園に類似した施設です。18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n八王子市の児童遊園の一覧は、八王子市サイトなどでお知らせしています。",
+      "description": "泉町弁天池児童遊園\n更新日：令和2年5月12日 ページID：P0023816 印刷する\n八王子市泉町の西部、叶谷町との境に位置し、住宅地にある児童遊園です。園内には小さな池があり、園内北側にある健康遊具でストレッチ等が出来ます。\n\n泉町弁天池児童遊園 (5)　泉町弁天池児童遊園 (4)\n\n泉町弁天池児童遊園 (1)　泉町弁天池児童遊園 (2)　泉町弁天池児童遊園 (3)\n\n所在\n八王子市泉町1186\n\nアクセス\n京王八王子駅・JR八王子駅北口から西東京バス「高尾駅南口」「宝生寺団地」「恩方営業所」「恩方ターミナル」「大久保」行き、又はJR西八王子駅北口から西東京バス「恩方ターミナル」行で「叶谷」下車徒歩5分\n\n駐車場\nなし\n\nトイレ\nなし\n\n管理者\n公園課（電話042-620-7271）\n地図\n地図はこちら;http://maps.google.co.jp/maps?hl=ja&q=35.67331306738065,139.30026718091437&ll=35.67331306738065,139.30026718091437&z=19",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "泉町弁天池児童遊園",
+        "implementationAddress": "東京都八王子市泉町1186"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "http://maps.google.co.jp/maps?hl=ja&q=35.67331306738065",
+          "title": "地図はこちら"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hachioji.tokyo.jp/shisetsu/109/p023816.html",
+        "title": "泉町弁天池児童遊園"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "まちなみ整備部公園課",
+        "contactPhone": "042-620-7271",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "ファックス：042-626-3533",
+        "zipCode": "1928501",
+        "contactAddress": "八王子市元本郷町三丁目24番1号"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+1+UM576",
+        "organization": "1000020132012",
+        "compartment": "まちなみ整備部公園課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2020-05-12",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊娠の届出・母子健康手帳の交付",
+        "shortName": "外国語版の母子健康手帳"
+      },
+      "summary": "外国語版母子健康手帳の交付を実施しています。必要な方は、各保健福祉センター（下記お問い合わせ先）までお問い合わせください。",
+      "description": "外国語版の母子健康手帳を交付しています （10か国語）\n10か国語の母子健康手帳に対応しています\n保健福祉センター（大横保健福祉センター、東浅川保健福祉センター、南大沢保健福祉センター）では、外国語版母子健康手帳の交付を実施しています。\n\n必要な方は、各保健福祉センター（下記お問い合わせ先）までお問い合わせください。\n\n対応している10か国語\n英語\nスペイン語\nポルトガル語\n中国語\nハングル\nタイ語\nタガログ語\nインドネシア語\nベトナム語\nネパール語\n問い合わせ先\n大横保健福祉センター\n住所：東京都八王子市大横町11-35 電話番号：042-625-9200\n東浅川保健福祉センター\n住所：東京都八王子市東浅川551-1 電話番号：042-667-1331\n南大沢保健福祉センター\n住所：東京都八王子市南大沢2-27 電話番号：042-679-2205\n関連リンク\n父親ハンドブック(外部リンク);https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/f_handbook.html\n\n八南助産師会 オンラインクラス(外部リンク);https://hachinan-midwife.com/online-class/",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "10か国語の母子健康手帳に対応しています\n保健福祉センター（大横保健福祉センター、東浅川保健福祉センター、南大沢保健福祉センター）では、外国語版母子健康手帳の交付を実施しています。\n\n必要な方は、各保健福祉センター（下記お問い合わせ先）までお問い合わせください。\n\n対応している10か国語\n英語\nスペイン語\nポルトガル語\n中国語\nハングル\nタイ語\nタガログ語\nインドネシア語\nベトナム語\nネパール語",
+        "monetarySupport": null,
+        "materiallySupport": "外国語版母子健康手帳の交付を実施しています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "必要な方",
+      "procedureMethod": "各保健福祉センター（下記お問い合わせ先）までお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "大横保健福祉センター,東浅川保健福祉センター,南大沢保健福祉センター",
+      "relatedLink": [
+        {
+          "uri": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/f_handbook.html",
+          "title": "父親ハンドブック(外部リンク)"
+        },
+        {
+          "uri": "https://hachinan-midwife.com/online-class/",
+          "title": "八南助産師会 オンラインクラス(外部リンク)"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://kosodate.city.hachioji.tokyo.jp/mokuteki/sodanshitai/ninshinnikansurusodan/1127.html",
+        "title": "妊娠届出・母子健康手帳交付 妊婦面談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康医療部大横保健福祉センター（保健担当）",
+        "contactPhone": "042-625-9200",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform450600.html",
+        "contactComment": "ファックス：042-627-5887",
+        "zipCode": "1920062",
+        "contactAddress": "八王子市大横町11-35"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+2+UM1",
+        "organization": "1000020132012",
+        "compartment": "健康医療部大横保健福祉センター（保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-09-15",
+      "odInformation": {
+        "updateDate": "2024-07-18",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第15条（妊娠の届出）、第16条（母子健康手帳）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "077",
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "休日歯科応急診療所"
+      },
+      "summary": "八王子市では、日曜日・祝日・休日、年末年始に、東京都八南歯科医師会に委託し、休日歯科応急診療所で応急処置を行っています。",
+      "description": "夜間救急診療室・休日歯科応急診療所のご案内\n更新日：令和5年10月1日 ページID：P0005726 \n夜間救急診療室（診療科目：内科・小児科）\n来院前に必ず下記電話番号にお電話してから受診してください。\n\n急病の方のための診療室です。混雑防止のため、検査目的等の受診はお控えください。\n\n※外科については救急病院をご利用ください。（対応できる病院は＃7119へお問い合わせください。）\n\n住所\n〒193-0832\n\n八王子市散田町3-10-1　南多摩病院 1階\n\n案内図（南多摩病院）\n\n電話番号\n042-663-9911\n\n診療時間\n毎日、午後8時から午後11時まで\n\n診療科目\n内科・小児科\n\n夜間救急診療所の移転について\n令和5年10月1日より、夜間救急診療所が移転しました。\n\n来院の際はご注意ください。\n\n10月1日から夜間救急診療業務を委託（PDF形式 488キロバイト）;https://www.city.hachioji.tokyo.jp/emergency/medical/p005726_d/fil/123.pdf\n\n休日歯科応急診療所\n急な歯痛に対する応急処置を行っています。\n\n住所\n〒193-0931\n\n八王子市台町4-33-13　八王子市小児・障害メディカルセンター 夜間救急棟 2階\n\n※敷地内は一方通行です。北側（八王子高校側）の駐車場入口からお入りください。\n\n案内図　（小児・障害メディカルセンター　内）\n\n電話番号\n042-622-7026\n\n診療日\n日曜日・祝日・休日・年末年始（12月29日から1月3日）\n\n受付時間\n午前9時から午後4時まで\n\n隣接する市の休日歯科診療\n町田市の休日歯科診療（外部リンク）;http://www.city.machida.tokyo.jp/iryo/iryo/kyubyo/kyuzitusika.html\n日野市の休日歯科診療（外部リンク）;http://www.city.hino.lg.jp/kurashi/annzen/iryo/1002361.html \n多摩市の休日歯科診療（外部リンク）;https://www.city.tama.lg.jp/kenkofukushi/1008237/iryo/1002731.html\n関連ファイル\n10月1日から夜間救急診療業務を委託（PDF形式 488キロバイト）;https://www.city.hachioji.tokyo.jp/emergency/medical/p005726_d/fil/123.pdf\n\n※PDFファイルの閲覧には、Adobe Acrobat Reader DC(新しいウインドウが開き八王子市のサイトを離れます)が必要です。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "急な歯痛に対する応急処置",
+        "monetarySupport": null,
+        "materiallySupport": "急な歯痛に対する応急処置"
+      },
+      "cost": null,
+      "costConditions": "診療内容に応じて費用が発生します。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "日曜日・祝日・休日・年末年始（12月29日から1月3日）"
+      },
+      "implementationPlace": {
+        "implementationName": "休日歯科応急診療所",
+        "implementationAddress": "〒193-0931\n八王子市台町4-33-13　八王子市小児・障害メディカルセンター 夜間救急棟 2階"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "16:00",
+        "condiutilizationConditionstions": "午前9時から午後4時まで"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "保険証",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.tama.lg.jp/kenkofukushi/1008237/iryo/1002731.html",
+          "title": "多摩市の休日歯科診療（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.hachioji.tokyo.jp/emergency/medical/p005726_d/fil/123.pdf",
+          "title": "10月1日から夜間救急診療業務を委託（PDF形式 488キロバイト）"
+        },
+        {
+          "uri": "http://www.city.hino.lg.jp/kurashi/annzen/iryo/1002361.html",
+          "title": "日野市の休日歯科診療（外部リンク） "
+        },
+        {
+          "uri": "http://www.city.machida.tokyo.jp/iryo/iryo/kyubyo/kyuzitusika.html",
+          "title": "町田市の休日歯科診療（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.hachioji.tokyo.jp/emergency/medical/p005726.html",
+        "title": "夜間救急診療室・休日歯科応急診療所のご案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "休日歯科応急診療所",
+        "contactPhone": "042-622-7026",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1930931",
+        "contactAddress": "八王子市台町4-33-13　八王子市小児・障害メディカルセンター　夜間救急棟2階"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+2+UM45",
+        "organization": "1000020132012",
+        "compartment": "健康医療部健康医療政策課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-01",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "八王子市休日歯科応急診療事業実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "オンラインパパママクラス"
+      },
+      "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、八王子市では産科医師、歯科医師、保健師、栄養士、助産師などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+      "description": "オンラインパパママクラス\nミーティングアプリ「Zoom」を利用したオンラインによるクラスです。\n\n※他のクラスとの併用ができます。\n\n対象：市内在住の方で、妊婦（初産・経産・週数を問いません）とその家族\n\n（妊婦もしくはパートナーお1人からご参加いただけます）\n\n内容：助産師による講話と交流\n\n(1)助産師による沐浴の実演・講話、歯科衛生士の講義\n\n(2)助産師・保健師（出産準備、出産後のお話）\n\n栄養士（妊娠後期の食事から授乳中の食事）\n\n歯科衛生士（妊婦さんとご家族のお口の健康・赤ちゃんのむし歯予防）\n\n時間：午後1時30分～3時30分\n\n申込方法：電子申請での申込みとなります。\n\n令和6年度日程\n\n|開催日|担当|申込期間|定員（先着順）|\n|:----|:----|:----|:----|\n|令和6年（2024年）7月26日（金）|東浅川保健福祉センター|6月15日（土）～7月10日（水）|15組|\n|令和6年（2024年）9月18日（水）|南大沢保健福祉センター|8月15日（木）～9月10日（火）|15組|\n|令和6年（2024年）12月12日（木）|大横保健福祉センター|11月1日（金）～11月30日（土）|15組|\n",
+      "target": {
+        "targetPersons": "市内在住の方で、妊婦（初産・経産・週数を問いません）とその家族\n（妊婦もしくはパートナーお1人からご参加いただけます）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "内容：助産師による講話と交流\n\n(1)助産師による沐浴の実演・講話、歯科衛生士の講義\n\n(2)助産師・保健師（出産準備、出産後のお話）\n\n栄養士（妊娠後期の食事から授乳中の食事）\n歯科衛生士（妊婦さんとご家族のお口の健康・赤ちゃんのむし歯予防）",
+        "monetarySupport": null,
+        "materiallySupport": "内容：助産師による講話と交流\n\n(1)助産師による沐浴の実演・講話、歯科衛生士の講義\n\n(2)助産師・保健師（出産準備、出産後のお話）\n\n栄養士（妊娠後期の食事から授乳中の食事）\n歯科衛生士（妊婦さんとご家族のお口の健康・赤ちゃんのむし歯予防）"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "13:30",
+        "toYMD": null,
+        "toHM": "15:30",
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "ミーティングアプリ「Zoom」",
+        "implementationAddress": null
+      },
+      "capacity": "15組",
+      "utilizationTime": {
+        "fromHM": "13:30",
+        "toHM": "15:30",
+        "condiutilizationConditionstions": "午後1時30分～3時30分"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "電子申請での申込みとなります。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://kosodate.city.hachioji.tokyo.jp/material/files/group/10/kouza.pdf",
+          "title": "令和6年度妊婦さんとご家族のための講座のご案内(PDFファイル:154.2KB)"
+        },
+        {
+          "uri": "http://jmat.jp/top/yutube",
+          "title": "東京都助産師会（外部リンク）"
+        },
+        {
+          "uri": "https://kosodate.city.hachioji.tokyo.jp/material/files/group/10/2.pdf",
+          "title": "各保健福祉センター連絡先・地図 (PDFファイル: 461.1KB)"
+        },
+        {
+          "uri": "https://kosodate.city.hachioji.tokyo.jp/material/images/group/10/heijitsu2.png",
+          "title": "令和6年度日程"
+        },
+        {
+          "uri": "https://hachinan-midwife.com/online-class/",
+          "title": "八南助産師会 オンラインクラス（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://kosodate.city.hachioji.tokyo.jp/mokuteki/sodanshitai/ninshinnikansurusodan/1753.html",
+        "title": "妊婦さんとご家族のための講座(保健福祉センター)"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/procList.do?fromAction=1&govCode=13201&keyWord=201109",
+          "title": "東京共同電子申請・届出サービス（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "健康医療部大横保健福祉センター（保健担当）",
+        "contactPhone": "042-625-9200",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform450600.html",
+        "contactComment": "ファックス：042-627-5887",
+        "zipCode": "1920062",
+        "contactAddress": "八王子市大横町11-35"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+3+UM31",
+        "organization": "1000020132012",
+        "compartment": "健康医療部大横保健福祉センター（保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-12-01",
+      "odInformation": {
+        "updateDate": "2024-07-18",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "多胎妊婦向け パパママクラス"
+      },
+      "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、八王子市では産科医師、歯科医師、保健師、栄養士、助産師などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+      "description": "多胎妊婦向け　パパママクラス\n対象：市内在住の方で、多胎の出産を迎える妊婦（体調の安定されている方）とその家族\n\n（妊婦もしくはパートナーお1人からご参加いただけます）\n\n※パパママクラスとの併用ができます。\n\n1）広場で開催\n\n内容：助産師による講話 先輩ママ・パパとの交流や情報交換・多胎の沐浴など\n\n申込方法：各センターに随時電話でお申込みください。\n|開催日時|会場・住所|担当|定員(先着順)|\n|:----|:----|:----|:----|\n|令和6年（2024年）4月23日（火）\n午前10時～午前11時30分|親子ふれあい広場　南大沢\nおひさま広場\n八王子市南大沢2－16|南大沢保健福祉センター|5組|\n|令和6年（2024年）12月14日（土）\n午前10時30分～午後0時30分|親子ふれあい広場　館\n2階\n八王子市館町156|東浅川保健福祉センター|5組|\n\n2）オンラインで開催\n\n内容：助産師による講話 先輩ママ・パパとの交流や情報提供\n\n申込方法：電子申請\n|開催日時|担当|申込期間|定員（先着順）|\n|:----|:----|:----|:----|\n|令和6年度（2024年）8月31日（土）|大横保健福祉センター|7月16日（火）～8月15日（木）|15組|\n",
+      "target": {
+        "targetPersons": "市内在住の方で、多胎の出産を迎える妊婦（体調の安定されている方）とその家族\n\n（妊婦もしくはパートナーお1人からご参加いただけます）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "1）広場で開催\n\n内容：助産師による講話 先輩ママ・パパとの交流や情報交換・多胎の沐浴など",
+        "monetarySupport": null,
+        "materiallySupport": "1）広場で開催\n\n内容：助産師による講話 先輩ママ・パパとの交流や情報交換・多胎の沐浴など"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "|開催日時|会場・住所|担当|定員(先着順)|\n|:----|:----|:----|:----|\n|令和6年（2024年）4月23日（火）\n午前10時～午前11時30分|親子ふれあい広場　南大沢\nおひさま広場\n八王子市南大沢2－16|南大沢保健福祉センター|5組|\n|令和6年（2024年）12月14日（土）\n午前10時30分～午後0時30分|親子ふれあい広場　館\n2階\n八王子市館町156|東浅川保健福祉センター|5組|\n",
+        "implementationAddress": null
+      },
+      "capacity": "５組",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申込方法：各センターに随時電話でお申込みください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "|開催日時|会場・住所|担当|定員(先着順)|\n|:----|:----|:----|:----|\n|令和6年（2024年）4月23日（火）<br>午前10時～午前11時30分|親子ふれあい広場　南大沢<br>おひさま広場<br>八王子市南大沢2－16|南大沢保健福祉センター|5組|\n|令和6年（2024年）12月14日（土）<br>午前10時30分～午後0時30分|親子ふれあい広場　館<br>2階<br>八王子市館町156|東浅川保健福祉センター|5組|\n",
+      "relatedLink": [
+        {
+          "uri": "https://kosodate.city.hachioji.tokyo.jp/material/images/group/10/heijitsu2.png",
+          "title": "令和6年度日程"
+        },
+        {
+          "uri": "https://kosodate.city.hachioji.tokyo.jp/material/files/group/10/2.pdf",
+          "title": "各保健福祉センター連絡先・地図 (PDFファイル: 461.1KB)"
+        },
+        {
+          "uri": "http://jmat.jp/top/yutube",
+          "title": "東京都助産師会（外部リンク）"
+        },
+        {
+          "uri": "https://kosodate.city.hachioji.tokyo.jp/material/files/group/10/kouza.pdf",
+          "title": "令和6年度妊婦さんとご家族のための講座のご案内(PDFファイル:154.2KB)"
+        },
+        {
+          "uri": "https://hachinan-midwife.com/online-class/",
+          "title": "八南助産師会 オンラインクラス（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://kosodate.city.hachioji.tokyo.jp/mokuteki/sodanshitai/ninshinnikansurusodan/1753.html",
+        "title": "妊婦さんとご家族のための講座(保健福祉センター)"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康医療部大横保健福祉センター（保健担当）",
+        "contactPhone": "042-625-9200",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform450600.html",
+        "contactComment": "ファックス：042-627-5887",
+        "zipCode": "1920062",
+        "contactAddress": "八王子市大横町11-35"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+4+UM31",
+        "organization": "1000020132012",
+        "compartment": "健康医療部大横保健福祉センター（保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-12-01",
+      "odInformation": {
+        "updateDate": "2024-07-18",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "多胎妊婦向け パパママクラス"
+      },
+      "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、八王子市では産科医師、歯科医師、保健師、栄養士、助産師などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+      "description": "多胎妊婦向け　パパママクラス\n対象：市内在住の方で、多胎の出産を迎える妊婦（体調の安定されている方）とその家族\n\n（妊婦もしくはパートナーお1人からご参加いただけます）\n\n※パパママクラスとの併用ができます。\n\n1）広場で開催\n\n内容：助産師による講話 先輩ママ・パパとの交流や情報交換・多胎の沐浴など\n\n申込方法：各センターに随時電話でお申込みください。\n|開催日時|会場・住所|担当|定員(先着順)|\n|:----|:----|:----|:----|\n|令和6年（2024年）4月23日（火）\n午前10時～午前11時30分|親子ふれあい広場　南大沢\nおひさま広場\n八王子市南大沢2－16|南大沢保健福祉センター|5組|\n|令和6年（2024年）12月14日（土）\n午前10時30分～午後0時30分|親子ふれあい広場　館\n2階\n八王子市館町156|東浅川保健福祉センター|5組|\n\n2）オンラインで開催\n\n内容：助産師による講話 先輩ママ・パパとの交流や情報提供\n\n申込方法：電子申請\n|開催日時|担当|申込期間|定員（先着順）|\n|:----|:----|:----|:----|\n|令和6年度（2024年）8月31日（土）|大横保健福祉センター|7月16日（火）～8月15日（木）|15組|\n",
+      "target": {
+        "targetPersons": "市内在住の方で、多胎の出産を迎える妊婦（体調の安定されている方）とその家族\n\n（妊婦もしくはパートナーお2人からご参加いただけます）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "2）オンラインで開催\n\n内容：助産師による講話 先輩ママ・パパとの交流や情報提供",
+        "monetarySupport": null,
+        "materiallySupport": "2）オンラインで開催\n\n内容：助産師による講話 先輩ママ・パパとの交流や情報提供"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "|開催日時|担当|申込期間|定員（先着順）|\n|:----|:----|:----|:----|\n|令和6年度（2024年）8月31日（土）|大横保健福祉センター|7月16日（火）～8月15日（木）|15組|\n",
+        "implementationAddress": null
+      },
+      "capacity": "15組",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申込方法：電子申請",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://kosodate.city.hachioji.tokyo.jp/material/images/group/10/heijitsu2.png",
+          "title": "令和6年度日程"
+        },
+        {
+          "uri": "https://kosodate.city.hachioji.tokyo.jp/material/files/group/10/2.pdf",
+          "title": "各保健福祉センター連絡先・地図 (PDFファイル: 461.1KB)"
+        },
+        {
+          "uri": "https://kosodate.city.hachioji.tokyo.jp/material/files/group/10/kouza.pdf",
+          "title": "令和6年度妊婦さんとご家族のための講座のご案内(PDFファイル:154.2KB)"
+        },
+        {
+          "uri": "https://hachinan-midwife.com/online-class/",
+          "title": "八南助産師会 オンラインクラス（外部リンク）"
+        },
+        {
+          "uri": "http://jmat.jp/top/yutube",
+          "title": "東京都助産師会（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://kosodate.city.hachioji.tokyo.jp/mokuteki/sodanshitai/ninshinnikansurusodan/1753.html",
+        "title": "妊婦さんとご家族のための講座(保健福祉センター)"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.shinsei.elg-front.jp/tokyo2/navi/procList.do?fromAction=1&govCode=13201&keyWord=201109",
+          "title": "東京共同電子申請・届出サービス（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "健康医療部大横保健福祉センター（保健担当）",
+        "contactPhone": "042-625-9200",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.hachioji.tokyo.jp/inquiry/mailform450600.html",
+        "contactComment": "ファックス：042-627-5887",
+        "zipCode": "1920062",
+        "contactAddress": "八王子市大横町11-35"
+      },
+      "area": {
+        "areaCode": "132012;八王子市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132012+5+UM31",
+        "organization": "1000020132012",
+        "compartment": "健康医療部大横保健福祉センター（保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-12-01",
+      "odInformation": {
+        "updateDate": "2024-07-18",
+        "updater": "八王子市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

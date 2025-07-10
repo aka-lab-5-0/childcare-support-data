@@ -1,0 +1,930 @@
+{
+  "version": "2025-07-10T02:38:54.129Z",
+  "areaCode": "132101",
+  "areaName": "小金井市",
+  "category": "other",
+  "count": 7,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "児童館",
+        "shortName": "児童館"
+      },
+      "summary": "児童館は、18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n小金井市の児童館には、小学校就学前のお子さんが安心して遊べるスペースがあり、またお子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、小金井市サイトや市報などでお知らせしています。）",
+      "description": "子どもたちがいつでも思いっきり遊ぶことができ、保護者も集うことができるのが児童館です。\n乳幼児から小学生、中・高校生世代まで、市内4つの児童館でさまざまな活動が行われています。",
+      "target": {
+        "targetPersons": "市内在住の18歳未満の児童",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": 0
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "本町児童館・東児童館・貫井南児童館・緑児童館\n東児童館",
+        "implementationAddress": "小金井市本町5丁目4番25号,小金井市東町4丁目25番7号,小金井市貫井南町4丁目3番23号 貫井南センター1F,小金井市緑町4丁目18番25号"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "本町児童館・貫井南児童館・緑児童館\n午前9時から午後5時30分まで\n東児童館\n午前9時から午後6時まで\n　注記：各館小学校3年生以下が午後5時以降利用する場合は、保護者の申込みが必要です。"
+      },
+      "specificDate": null,
+      "holiday": "日曜日、5月5日を除く祝日、5月7日、月末館内整理日、年末年始（12月28日から1月4日まで）",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/jidokan/jidoukan2/kosodatehiroba/index.html",
+          "title": "児童館の子育て支援事業「子育てひろば」のお知らせ"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/jidokan/jidoukan2/jidoukan/index.html",
+          "title": "主な児童館の行事"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/jidokan/jidoukan2/wanpaku/index.html",
+          "title": "小金井市移動児童館「わんぱく号」のお知らせ"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/jidokan/jidoukan2/supesuattonukui/index.html",
+          "title": "小金井市児童館中・高校生世代事業のお知らせ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/jidokan/jidoukan2/jidoukanriyou/jidoukan2023.html",
+        "title": "児童館の利用について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "児童青少年課本町児童館",
+        "contactPhone": "042-383-1176",
+        "contactEx": null,
+        "contactEmail": "s050699(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840004",
+        "contactAddress": "小金井市本町5丁目4番25号"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM108",
+        "organization": "3000020132101",
+        "compartment": "児童青少年課児童青少年係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-15",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+        "shortName": "新生児訪問（赤ちゃん訪問）"
+      },
+      "summary": "生後4か月を迎えるまでの乳児がいるご家庭に専門職が訪問し、赤ちゃんの体重測定をしたり、産婦さんやその家族の不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+      "description": "新生児訪問（赤ちゃん訪問）\n\n小金井市では、生後120日までの赤ちゃんのいるすべての家庭を対象に、助産師や保健師が訪問します。\n赤ちゃんが生まれましたら、「赤ちゃん連絡票（出生通知票）」を必ずご提出ください。\n\n内容\n赤ちゃんの体重測定等を行い、発育をご家族と一緒に確認します。\n育児に関する不安や気になることについて伺い、よい方法を一緒に考えます。\n産後のお母さんの体調を伺い、子育て支援情報をお伝えします。\n申込方法\n注記：「赤ちゃん連絡票」は、母子健康手帳の交付時に返信用封筒と併せてお渡ししています。",
+      "target": {
+        "targetPersons": "対象\n小金井市に住民登録があり、生後120日までの乳児のいる世帯",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後120日までの乳児"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "家庭",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申込方法\n下記の「赤ちゃん連絡票」をこども家庭センターへお送りください。後日、助産師または保健師が訪問日等について電話をいたします（携帯電話等、こども家庭センター以外の電話番号から連絡する場合もあります。）。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/bosihokenjigyo/sinseijihoumon.html",
+        "title": "新生児訪問（赤ちゃん訪問）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健係",
+        "contactPhone": "電話：042-321-6296",
+        "contactEx": null,
+        "contactEmail": "s050899@koganei-shi.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840015",
+        "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM14",
+        "organization": "3000020132101",
+        "compartment": "こども家庭センター母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/04/01",
+      "odInformation": {
+        "updateDate": "2025/02/12",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法　・　母子保健法",
+        "regulationArticle": "第21条の10の２　・　第１１条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+        "shortName": "産前産後期間の国民健康保険税の免除"
+      },
+      "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分）の均等割保険料と所得割保険料が免除されます。",
+      "description": "産前産後期間の国民健康保険税の免除について\n更新日：2023年12月28日\n　子育て世帯の負担軽減、次世代育成支援等の観点から、国民健康保険被保険者の産前産後の一定期間の国民健康保険税（以下「国保税」という。）を免除する制度が、令和6年1月から開始されます。\n\n対象となる方\n　国民健康保険に加入している、出産予定の方または出産した方が対象です。\n\n免除の対象期間\n　出産予定日又は出産日が属する月の前月から4か月間（多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間）の国保税が減額されます。\n　なお、出産とは、妊娠85日以上の出産をいい、死産、流産（人工妊娠中絶を含む。）及び早産の場合も含みます。\n\n単胎妊娠の方\n|3か月前|2か月前|1か月前|出産予定月|1か月後|2か月後|3か月後|\n|:----|:----|:----|:----|:----|:----|:----|\n| | |☆|☆|☆|☆| |\n \n多胎妊娠の方\n|3か月前|2か月前|1か月前|出産予定月|1か月後|2か月後|3か月後|\n|:----|:----|:----|:----|:----|:----|:----|\n|☆|☆|☆|☆|☆|☆| |\n\n免除の対象となる国保税\n　出産予定又は出産した被保険者の所得割、均等割\n\n届出方法\n　届出書のすべての事項を記入していただき、お手続きに必要なものを添えて届出先にご提出ください。\n\n産前産後期間の国民健康保険税免除に係る届出書（PDF：76KB）; https://www.city.koganei.lg.jp/kurashi/427/sanzensango.files/todokede.pdf\n\nお手続きに必要なもの（注釈1）\n1.国民健康保険被保険者証\n2.産前産後期間の国民健康保険税免除に係る届出書\n3.母子健康手帳など（多胎妊娠の場合は、人数分が必要です。）\n注釈1：出産後の届出で、世帯が別の場合、親子関係を明らかにする書類が必要です。\n\n届出先\n　小金井市市民部保険年金課国民健康保険係　電話：042-387-9832\n\nよくあるご質問\nQ　令和5年11月に出産しました。何月分からの国保税が免除の対象となりますか？\nA　制度の施行が令和6年1月からですので、令和5年11月に出産された場合、令和6年1月分の国保税が免除の対象です。（注釈1）\n注釈1：令和5年11月から令和6年2月に出産される方の対象期間（単胎妊娠）\n\n11月出産\n|10月|11月出産|12月|1月|2月|3月|4月|\n|:----|:----|:----|:----|:----|:----|:----|\n| | | |☆| |||\n \n12月出産\n|10月|11月|12月出産|1月|2月|3月|4月|\n|:----|:----|:----|:----|:----|:----|:----|\n| | | |☆|☆| | |\n\n1月出産\n|10月|11月|12月|1月出産|2月|3月|4月|\n|:----|:----|:----|:----|:----|:----|:----|\n| | | |☆|☆|☆| |\n\n2月出産\n|10月|11月|12月|1月|2月出産|3月|4月|\n|:----|:----|:----|:----|:----|:----|:----|\n| | | |☆|☆|☆|☆|\n\nQ　令和6年7月10日に出産予定です。届出はいつからできますか？\nA　出産予定日の6か月前から届出ができます。令和6年7月10日が出産予定日の場合は、令和6年1月10日から届出ができます。\n\nQ　出産した本人でなくても、届出できますか？\nA　原則は世帯主の方に届出いただきますが、住民票上の世帯が同じ方であれば届出できます。別世帯の方が届出する場合は、委任状が必要です。\n\nQ　出産前に届出しましたが、出産予定月と実際の出産月が異なる場合、再度届出が必要となりますか？\nA　出産予定月と実際の出産月が異なっていても、再度の届出書の提出は不要です。　\n\nQ　出産後でも届出はできますか？\nA　産後でも届出することができます。この場合の産前産後期間は、出産月の前月から出産月の翌々月までの4か月間となります。なお、多胎妊娠の場合は、出産月の3か月前から出産月の翌々月までの6か月間となります。\n\nQ　産前産後期間の途中に夫の会社の保険の扶養となりました。再度、届出が必要となりますか？\nA　国民健康保険の資格喪失の届出後に、国民健康保険加入期間及び産前産後期間の国保税を再計算いたしますので、再度の届出は必要ありません。なお、お手続き後に納税通知書を送付いたします。\n\nQ　社会保険に加入していた時に出産し、その後国民健康保険に加入しましたが、届出は必要ですか？\nA　産前産後期間内に他の保険制度から小金井市国民健康保険に加入した場合は届出が必要です。\n\nQ　転入前の市町村で届出をしましたが、再度届出が必要ですか？\nA　産前産後期間内に他市町村から転入した場合は、小金井市への届出が必要です。",
+      "target": {
+        "targetPersons": "国民健康保険に加入している、出産予定の方または出産した方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "出産予定日又は出産日が属する月の前月から4か月間（多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間）の国保税が減額されます。\n　なお、出産とは、妊娠85日以上の出産をいい、死産、流産（人工妊娠中絶を含む。）及び早産の場合も含みます。"
+      },
+      "support": {
+        "description": "出産予定日又は出産日が属する月の前月から4か月間（多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間）の国保税が減額されます。\n　なお、出産とは、妊娠85日以上の出産をいい、死産、流産（人工妊娠中絶を含む。）及び早産の場合も含みます。\n\n免除の対象となる国保税\n　出産予定又は出産した被保険者の所得割、均等割",
+        "monetarySupport": "出産予定日又は出産日が属する月の前月から4か月間（多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間）の国保税が減額されます。\n　なお、出産とは、妊娠85日以上の出産をいい、死産、流産（人工妊娠中絶を含む。）及び早産の場合も含みます。\n\n　出産予定日又は出産日が属する月の前月から4か月間（多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間）の国保税が減額されます。\n　なお、出産とは、妊娠85日以上の出産をいい、死産、流産（人工妊娠中絶を含む。）及び早産の場合も含みます。\n\n免除の対象となる国保税\n　出産予定又は出産した被保険者の所得割、均等割",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": "制度の施行が令和6年1月からですので、令和5年11月に出産された場合、令和6年1月分の国保税が免除の対象です。",
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "原則は世帯主の方に届出いただきますが、住民票上の世帯が同じ方であれば届出できます。別世帯の方が届出する場合は、委任状が必要です。",
+      "procedureMethod": "届出方法\n　届出書のすべての事項を記入していただき、お手続きに必要なものを添えて届出先にご提出ください。\n\n産前産後期間の国民健康保険税免除に係る届出書（PDF：76KB）; https://www.city.koganei.lg.jp/kurashi/427/sanzensango.files/todokede.pdf\n\nお手続きに必要なもの（注釈1）\n1.国民健康保険被保険者証\n2.産前産後期間の国民健康保険税免除に係る届出書\n3.母子健康手帳など（多胎妊娠の場合は、人数分が必要です。）\n注釈1：出産後の届出で、世帯が別の場合、親子関係を明らかにする書類が必要です。\n\n届出先\n　小金井市市民部保険年金課国民健康保険係　電話：042-387-9832",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産予定日の6か月前から届出ができます。\n産後でも届出することができます。この場合の産前産後期間は、出産月の前月から出産月の翌々月までの4か月間となります。なお、多胎妊娠の場合は、出産月の3か月前から出産月の翌々月までの6か月間となります。"
+      },
+      "electronicSubmission": false,
+      "belongings": "お手続きに必要なもの（注釈1）\n1.国民健康保険被保険者証\n2.産前産後期間の国民健康保険税免除に係る届出書\n3.母子健康手帳など（多胎妊娠の場合は、人数分が必要です。）\n注釈1：出産後の届出で、世帯が別の場合、親子関係を明らかにする書類が必要です。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小金井市市民部保険年金課国民健康保険係",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koganei.lg.jp/kurashi/427/sanzensango.files/todokede.pdf",
+          "title": "産前産後期間の国民健康保険税免除に係る届出書（PDF：76KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/kurashi/427/sanzensango.html",
+        "title": "産前産後期間の国民健康保険税の免除について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保険年金課国民健康保険係",
+        "contactPhone": "042-387-9832",
+        "contactEx": null,
+        "contactEmail": "s030499(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM5035",
+        "organization": "3000020132101",
+        "compartment": "保険年金課国民健康保険係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-12-28",
+      "odInformation": {
+        "updateDate": "2024-06-28",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "小金井市国民健康保険税条例",
+        "regulationArticle": "第２２条（国民健康保険税の減額）第３項"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003",
+          "015"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後ヘルパーの派遣",
+        "shortName": "育児支援ヘルパー"
+      },
+      "summary": "産前産後の体調不良などにより、家事や育児が困難なご家庭に、日常的な掃除・洗濯・食事の支度などの家事や、もく浴・おむつ交換・きょうだいのお世話などの育児を手伝うホームヘルパーを派遣します。",
+      "description": "育児支援ヘルパー\n更新日：2024年4月1日\n　育児支援ヘルパーは、切迫早産等で安静を要する妊婦や出産直後の産婦、または多胎児家庭で、日中に家族等の援助を受けることが難しく、家事・育児のサポートが必要なご家庭にヘルパーが伺い、身のまわりのお世話や育児のお手伝いをすることによって、お母さんの肉体的・精神的負担を軽減し、生活を支援する事業です。ヘルパー派遣は、市内の事業所に委託しております。\n対象者と利用期間\n　小金井市在住で、出産前後に日中家事や育児などを手伝ってくれる人のいない方で、以下の表にあてはまる場合。\n利用期間等\n|単胎|産前|母子手帳交付から出産まで|20時間まで|\n|^|産後|産婦又は出生児の退院した日の翌日から4か月まで|40時間まで|\n|多胎|産前|母子手帳交付から出産まで|40時間まで|\n| ^|産後|産婦又は出生児の退院した日の翌日から1歳の誕生日まで|60時間まで|\n|^|産後|1歳の誕生日翌日から3歳の誕生日前日まで|40時間まで|\n\n注記：産前については、切迫早産等の安静を要する方が対象です。\n\n支援内容\n食事の準備及び片付け、食材・生活必需品等の買い物、居室の掃除・整理整頓、衣類の洗濯、沐浴・育児に関することなど\n\n利用料金\n1.生活保護世帯、住民税非課税世帯の方・・・無料\n2.上記1.以外の方・・・1時間500円\n交通費等実費は、利用者負担となります。\n\n利用の流れ\n1.問い合わせ\nご利用希望の方は、こども家庭センター（電話：042-321-3161）へお問い合わせください。\nご利用回数や時間について、希望に添えないこともありますので、申請前にご連絡をお願いします。\n\n2.申込\n申請書を窓口、FAX、郵送いずれかでこども家庭センターに提出してください。（原則として、利用予定の1か月前から受付けます。申請から派遣開始まで、約2週間の準備が必要になります。）\n\n 育児支援ヘルパー申請書（PDF：219KB）; https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/ikujishienherupa.files/shinseisyo.pdf\n\n3.利用の承諾・コーディネート\n利用の承諾・不承諾を決定、こども家庭センター職員と委託事業所職員が申請者宅に訪問し、コーディネート（事前訪問・日程調整等）を行います。\n\n4.ヘルパー派遣の開始\n派遣予定日に基づき、ヘルパー派遣を開始します。\n\n5.利用料金の支払い\n利用者は、利用料金を直接委託事業所へお支払いください。\n\nキャンセル\n直接委託事業所へご連絡ください。\n利用日前日午後5時までは無料、当日キャンセルは全額負担\n（但し、生活保護世帯、住民税非課税世帯は利用者負担無し）\n\n支払い方法\n派遣実施委託事業所へ、直接お支払いください。\n\nその他\n 育児支援ヘルパーリーフレット（PDF：230KB）;https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/ikujishienherupa.files/ikujishien14.pdf\n\n詳細は育児支援ヘルパーリーフレットをご参照ください。\n\nご不明な点がありましたら、こども家庭支援センター（電話：042-321-3161）へお問い合わせください。\n\n小金井市派遣委託事業所\n「NPO法人　ACT, 小金井　たすけあいワーカーズ　ほっとわぁく」\n小金井市本町4丁目1番1号小金井ハイツ103\n電話：042-388-2258　　FAX：042-385-0213\n\n「NPO法人　ケアサポート湧」\n小金井市前原町3丁目36番16号　1F\n電話：042-386-6355　　FAX：042-386-5310\n\n「NPO法人　パーソナルケアサービス　小金井かいわい」\n小金井市東町4丁目37番23号\n電話：042-388-8282　　FAX：042-388-9050\n\n「社団法人　シルバー人材センター」\n小金井市梶野町4丁目2番7号　グランツ梶野2F\n電話：0422-27-7117　　FAX：0422-27-7476\n\n「ケアサービスステーション春風」\n小金井市東町4丁目43番7号小金井東ビル303\n電話：042-387-7822　　FAX：042-387-7823",
+      "target": {
+        "targetPersons": "小金井市在住で、出産前後に日中家事や育児などを手伝ってくれる人のいない方で、以下の表にあてはまる場合。\n\n利用期間等\n|単胎|産前|母子手帳交付から出産まで|20時間まで|\n|^|産後|産婦又は出生児の退院した日の翌日から4か月まで|40時間まで|\n|多胎|産前|母子手帳交付から出産まで|40時間まで|\n| ^|産後|産婦又は出生児の退院した日の翌日から1歳の誕生日まで|60時間まで|\n|^|産後|1歳の誕生日翌日から3歳の誕生日前日まで|40時間まで|\n\n注記：産前については、切迫早産等の安静を要する方が対象です。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "小金井市在住で、出産前後に日中家事や育児などを手伝ってくれる人のいない方で、以下の表にあてはまる場合。\n利用期間等\n|単胎|産前|母子手帳交付から出産まで　20時間まで||\n| |産後|産婦又は出生児の退院した日の翌日から4か月まで|40時間まで|\n|多胎|産前|母子手帳交付から出産まで|40時間まで|\n| |産後|産婦又は出生児の退院した日の翌日から1歳の誕生日まで|60時間まで|\n\n注記：産前については、切迫早産等の安静を要する方が対象です。"
+      },
+      "support": {
+        "description": "食事の準備及び片付け、食材・生活必需品等の買い物、居室の掃除・整理整頓、衣類の洗濯、沐浴・育児に関することなど",
+        "monetarySupport": null,
+        "materiallySupport": "食事の準備及び片付け、食材・生活必需品等の買い物、居室の掃除・整理整頓、衣類の洗濯、沐浴・育児に関することなど"
+      },
+      "cost": null,
+      "costConditions": "利用料金\n1.生活保護世帯、住民税非課税世帯の方・・・無料\n2.上記1.以外の方・・・1時間500円\n交通費等実費は、利用者負担となります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "利用期間等\n|単胎|産前|母子手帳交付から出産まで|20時間まで|\n|^|産後|産婦又は出生児の退院した日の翌日から4か月まで|40時間まで|\n|多胎|産前|母子手帳交付から出産まで|40時間まで|\n|^|産後|産婦又は出生児の退院した日の翌日から1歳の誕生日まで|60時間まで|\n|^|産後|1歳の誕生日翌日から3歳の誕生日前日まで|40時間まで|\n\n注記：産前については、切迫早産等の安静を要する方が対象です。"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "利用の流れ\n1.問い合わせ\nご利用希望の方は、こども家庭センター（電話：042-321-3161）へお問い合わせください。\nご利用回数や時間について、希望に添えないこともありますので、申請前にご連絡をお願いします。\n\n2.申込\n申請書を窓口、FAX、郵送いずれかでこども家庭センターに提出してください。（原則として、利用予定の1か月前から受付けます。申請から派遣開始まで、約2週間の準備が必要になります。）\n\n 育児支援ヘルパー申請書（PDF：219KB）; https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/ikujishienherupa.files/shinseisyo.pdf\n\n3.利用の承諾・コーディネート\n利用の承諾・不承諾を決定、こども家庭センター職員と委託事業所職員が申請者宅に訪問し、コーディネート（事前訪問・日程調整等）を行います。\n\n4.ヘルパー派遣の開始\n派遣予定日に基づき、ヘルパー派遣を開始します。\n\n5.利用料金の支払い\n利用者は、利用料金を直接委託事業所へお支払いください。\n\nキャンセル\n直接委託事業所へご連絡ください。\n利用日前日午後5時までは無料、当日キャンセルは全額負担\n（但し、生活保護世帯、住民税非課税世帯は利用者負担無し）\n\n支払い方法\n派遣実施委託事業所へ、直接お支払いください。\n\nその他\n 育児支援ヘルパーリーフレット（PDF：230KB）; https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/ikujishienherupa.files/ikujishien14.pdf\n\n詳細は育児支援ヘルパーリーフレットをご参照ください。\n\nご不明な点がありましたら、こども家庭支援センター（電話：042-321-3161）へお問い合わせください。",
+      "procedurePersons": null,
+      "procedureMethod": "1.問い合わせ\nご利用希望の方は、こども家庭センター（電話：042-321-3161）へお問い合わせください。\nご利用回数や時間について、希望に添えないこともありますので、申請前にご連絡をお願いします。\n\n2.申込\n申請書を窓口、FAX、郵送いずれかでこども家庭センターに提出してください。（原則として、利用予定の1か月前から受付けます。申請から派遣開始まで、約2週間の準備が必要になります。）\n\n 育児支援ヘルパー申請書（PDF：219KB）; https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/ikujishienherupa.files/shinseisyo.pdf\n\n3.利用の承諾・コーディネート\n利用の承諾・不承諾を決定、こども家庭センター職員と委託事業所職員が申請者宅に訪問し、コーディネート（事前訪問・日程調整等）を行います。\n\n4.ヘルパー派遣の開始\n派遣予定日に基づき、ヘルパー派遣を開始します。\n\n5.利用料金の支払い\n利用者は、利用料金を直接委託事業所へお支払いください。\n\nキャンセル\n直接委託事業所へご連絡ください。\n利用日前日午後5時までは無料、当日キャンセルは全額負担\n（但し、生活保護世帯、住民税非課税世帯は利用者負担無し）\n\n支払い方法\n派遣実施委託事業所へ、直接お支払いください。\n\nその他\n 育児支援ヘルパーリーフレット（PDF：230KB）; https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/ikujishienherupa.files/ikujishien14.pdf\n\n詳細は育児支援ヘルパーリーフレットをご参照ください。\n\nご不明な点がありましたら、こども家庭支援センター（電話：042-321-3161）へお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "申請書を窓口、FAX、郵送いずれかでこども家庭センターに提出してください。（原則として、利用予定の1か月前から受付けます。申請から派遣開始まで、約2週間の準備が必要になります。）"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "小金井市こども家庭センター",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/ikujishienherupa.files/shinseisyo.pdf",
+          "title": "育児支援ヘルパー申請書"
+        },
+        {
+          "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/shisetsu/kodomokateisiensenta/ikujishienherupa.files/ikujishien14.pdf",
+          "title": "育児支援ヘルパーリーフレット"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/smph/kosodatekyoiku/shisetsu/kodomokateisiensenta/ikujishienherupa.html",
+        "title": "育児支援ヘルパー"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センターこども家庭相談係",
+        "contactPhone": "042-321-3161",
+        "contactEx": null,
+        "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840015",
+        "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM785",
+        "organization": "3000020132101",
+        "compartment": "こども家庭センターこども家庭相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "小金井市育児支援ヘルパー事業実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "授乳・おむつ替え施設（赤ちゃんの駅等）",
+        "shortName": "赤ちゃん休憩室"
+      },
+      "summary": "小金井市では、乳幼児を抱える子育て家庭が安心して外出できる環境づくりを進めるため、公共施設の「おむつ替え」や「授乳」ができる場所に「赤ちゃん休憩室」としてマークを掲示し解放しています。",
+      "description": "赤ちゃん休憩室\n更新日：2017年12月15日\n　市では、乳幼児連れの方が安心して外出できるよう、授乳やおむつ替えができる場所に、「赤ちゃん休憩室」としてマークを掲示していますので、ご紹介します。\n　各施設の開館時間などの詳細は各施設にお問合せください。各施設の案内はこちら; https://www.city.koganei.lg.jp/shisetsuannai/index.html。\n\n赤ちゃん休憩室マーク\n赤ちゃん休憩室一覧\nhttps://www.city.koganei.lg.jp/smph/kosodatekyoiku/434/kosodatesien/akachankyuukeishitu.html",
+      "target": {
+        "targetPersons": "乳幼児連れの方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "市では、乳幼児連れの方が安心して外出できるよう、授乳やおむつ替えができる場所に、「赤ちゃん休憩室」としてマークを掲示していますので、ご紹介します。\n　各施設の開館時間などの詳細は各施設にお問合せください。各施設の案内はこちら; https://www.city.koganei.lg.jp/shisetsuannai/index.html。",
+        "monetarySupport": null,
+        "materiallySupport": "授乳やおむつ替えができる場所"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "赤ちゃん休憩室一覧\nhttps://www.city.koganei.lg.jp/smph/kosodatekyoiku/434/kosodatesien/akachankyuukeishitu.html",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "利用日時については各施設ごとの開館日、開館時間により異なります。"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "紙おむつ、ウェットティッシュや粉ミルク等の用意はしていませんので、ご持参ください。\n使用済みの紙おむつやウェットティッシュはお持ち帰り願います。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "紙おむつ、ウェットティッシュや粉ミルク等の用意はしていませんので、ご持参ください。\n使用済みの紙おむつやウェットティッシュはお持ち帰り願います。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koganei.lg.jp/shisetsuannai/index.html",
+          "title": "各施設の案内"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/kosodatekyoiku/434/kosodatesien/akachankyuukeishitu.html",
+        "title": "赤ちゃん休憩室"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て支援課子育て支援係",
+        "contactPhone": "042-387-9836",
+        "contactEx": null,
+        "contactEmail": "s050599(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM800",
+        "organization": "3000020132101",
+        "compartment": "子育て支援課子育て支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2017-12-15",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て支援パスポート",
+        "shortName": "子育て応援とうきょうパスポート事業"
+      },
+      "summary": "「子育て支援パスポート事業」は、子育てを応援しようとする社会的機運の醸成を目的として推進している事業であり、企業・店舗等が、子育て世帯や妊娠中の方がいる世帯に対して、様々なサービスを提供する仕組みです。",
+      "description": "子育て応援とうきょうパスポート事業\n更新日：2023年7月13日\n\n　東京都は、子育てを応援しようとする社会的機運の醸成を目的として、企業や店舗等が、善意により、子育て家庭・妊婦の方に対して、様々なサービスを提供する仕組み「子育て応援とうきょうパスポート事業」を実施しています。\n\n事業の仕組み\n\n子育て家庭・妊婦の方へ\n全国共通マーク\n\n　子育て世帯・妊婦の方がサービスを利用するには、東京都が発行するパスポートが必要となります。当該パスポートには、全国共通マークが記載されており、子育て世帯は都内だけでなく、全国の協賛店等でサービスの提供を受けることができます。\n\n注記：パスポートについてはデジタルパスポートをダウンロードし、スマートフォン等で表示してご使用する方法と、プリンターでの印刷やチラシによって入手し、ご使用する方法があります。平成30年2月から、アプリの配信も行っています。\n\n注記：デジタルパスポートの利用者登録方法やパスポートの印刷データをはじめ、事業の詳しい内容については、子育て応援とうきょうパスポート運営サイト又は東京都福祉保健局ホームページを御参照ください（下記のリンクよりアクセスできます）。\nなお、子育て支援課の窓口にも案内のチラシがございます。\n\n企業・店舗等の方へ\n協賛ステッカー\n　協賛いただく企業・店舗等（以下、「協賛店等」という。）には、18歳未満の子どものいる家庭・妊婦の方に対して、調乳用のお湯の提供や商品の割引などのサービスをそれぞれの判断で提供して頂きます。\n　子育て世帯・妊婦の方を応援したいとお考えの皆様、是非、御登録をお願いいたします。\n\n協賛店の登録について\n以下のサービスを一つ以上実施していただければ、登録することができます。\n\n1.粉ミルクのお湯の提供\n2.おむつ替えスペースの提供\n3.トイレにベビーキープ設置\n4.授乳スペースの提供\n5.キッズスペースの提供\n6.ベビーカーを店内で利用可能\n7.景品の提供\n8.ポイントの付与\n9.商品の割引\n10.その他　利用者に資するサービス\n注記：登録方法等、事業の詳しい内容については、子育て応援とうきょうパスポート運営サイト、都のホームページをご覧下さい。\n\n詳細について（リンク）\n東京都福祉局（子育て応援とうきょうパスポート事業ページ）（外部サイト）; http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/passport/passport01.html\n子育て応援とうきょうパスポートとは （外部サイト）; https://kosodateswitch.metro.tokyo.lg.jp/about\n\n問い合わせ先\n東京都福祉局子供・子育て支援部企画課子育て応援事業担当\n電話：03-5320-4115\n",
+      "target": {
+        "targetPersons": "子育て家庭・妊婦の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "子育て世帯・妊婦の方がサービスを利用するには、東京都が発行するパスポートが必要となります。当該パスポートには、全国共通マークが記載されており、子育て世帯は都内だけでなく、全国の協賛店等でサービスの提供を受けることができます。"
+      },
+      "support": {
+        "description": "子育てを応援しようとする社会的機運の醸成を目的として、企業や店舗等が、善意により、子育て家庭・妊婦の方に対して、様々なサービスを提供する",
+        "monetarySupport": null,
+        "materiallySupport": "子育てを応援しようとする社会的機運の醸成を目的として、企業や店舗等が、善意により、子育て家庭・妊婦の方に対して、様々なサービスを提供する"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "当該パスポートには、全国共通マークが記載されており、子育て世帯は都内だけでなく、全国の協賛店等でサービスの提供を受けることができます。",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "子育て世帯・妊婦の方がサービスを利用するには、東京都が発行するパスポートが必要となります。当該パスポートには、全国共通マークが記載されており、子育て世帯は都内だけでなく、全国の協賛店等でサービスの提供を受けることができます。\n\n注記：パスポートについてはデジタルパスポートをダウンロードし、スマートフォン等で表示してご使用する方法と、プリンターでの印刷やチラシによって入手し、ご使用する方法があります。平成30年2月から、アプリの配信も行っています。\n\n注記：デジタルパスポートの利用者登録方法やパスポートの印刷データをはじめ、事業の詳しい内容については、子育て応援とうきょうパスポート運営サイト又は東京都福祉保健局ホームページを御参照ください（下記のリンクよりアクセスできます）。\nなお、子育て支援課の窓口にも案内のチラシがございます。\n詳細について（リンク）\n東京都福祉局（子育て応援とうきょうパスポート事業ページ）（外部サイト）; http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/passport/passport01.html\n子育て応援とうきょうパスポートとは （外部サイト）; https://kosodateswitch.metro.tokyo.lg.jp/about\n\n問い合わせ先\n東京都福祉局子供・子育て支援部企画課子育て応援事業担当\n電話：03-5320-4115",
+      "procedurePersons": null,
+      "procedureMethod": "注記：パスポートについてはデジタルパスポートをダウンロードし、スマートフォン等で表示してご使用する方法と、プリンターでの印刷やチラシによって入手し、ご使用する方法があります。平成30年2月から、アプリの配信も行っています。\n\n注記：デジタルパスポートの利用者登録方法やパスポートの印刷データをはじめ、事業の詳しい内容については、子育て応援とうきょうパスポート運営サイト又は東京都福祉保健局ホームページを御参照ください（下記のリンクよりアクセスできます）。\nなお、子育て支援課の窓口にも案内のチラシがございます。\n\n詳細について（リンク）\n東京都福祉局（子育て応援とうきょうパスポート事業ページ）（外部サイト）; http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/passport/passport01.html\n子育て応援とうきょうパスポートとは （外部サイト）; https://kosodateswitch.metro.tokyo.lg.jp/about\n\n問い合わせ先\n東京都福祉局子供・子育て支援部企画課子育て応援事業担当\n電話：03-5320-4115",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "東京都が発行するパスポート",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "東京都福祉局子供・子育て支援部企画課子育て応援事業担当\n電話：03-5320-4115",
+      "relatedLink": [
+        {
+          "uri": " https://kosodateswitch.metro.tokyo.lg.jp/about\n",
+          "title": "子育て応援とうきょうパスポートとは （外部サイト）"
+        },
+        {
+          "uri": "http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/passport/passport01.html",
+          "title": "東京都福祉局（子育て応援とうきょうパスポート事業ページ）（外部サイト）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/smph/kosodatekyoiku/434/kosodatesien/ouenpasstokyo.html",
+        "title": "子育て応援とうきょうパスポート事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て支援課子育て支援係",
+        "contactPhone": "042-387-9836",
+        "contactEx": null,
+        "contactEmail": "s050599(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM802",
+        "organization": "3000020132101",
+        "compartment": "子育て支援課子育て支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-07-13",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "少子化社会対策大綱（平成27年3月20日閣議決定）",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "図書館の児童サービス（ブックスタートなど）",
+        "shortName": "イベント＆おはなしかい"
+      },
+      "summary": "読み聞かせや絵本を媒介としたコミュニケーションの大切さを啓発するために、０歳児から３歳児未満までのお子さんと保護者向けのおはなし会、３歳以上のお子さんを対象としたおはなし会を継続的に実施し、乳幼児の段階から図書に触れる機会の構築を図ります。",
+      "description": "イベント＆おはなしかい\nおはなし会\nおはなし会のよていは 「おしらせ」のページを みてください。\n\nほんかん\nすとーりーたいむ\n３さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nまいしゅう すいようび　ごご３じから（しゅくじつ・ねんまつねんしは おやすみです）\nととけっこうのおへや\n０さい７かげつから ２さいの こどもと おうちの人のための おはなし会です。\nわらべうたや てあそび、えほんのよみきかせなどを します。\nまいつき だい３かようび　ごぜん11じから\n\nひがしぶんしつ\nひがしぶんしつおはなし会\n３さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\n２つきに１かい　にちようび　ごご３じから\nあかちゃんのためのおはなし会\n０さいから ２さいの こどもと おうちの人のための おはなし会です。\nわらべうたや てあそび、えほんのよみきかせなどを します。\n２つきに１かい きんようび　ごぜん11じから\n（もうしこみがひつようです）\n\nみどりぶんしつ\n３さいからの こどもと おうちの人のための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nつきに１かい どようび　ごぜん10じ30ふんから\n\nぬくいきたぶんしつ\n４さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nまいつき だい２・３・４どようび　ごぜん10じ30ふんから（ねんまつねんしは おやすみです）\n\nイベント\nおはなし会の ほかにも きせつによって いろいろなイベントを おこないます。\n工作会（ほんかん・ひがしぶんしつ）まいとし ８がつごろ\nおたのしみ会　まいとし 12がつごろ\nぬいぐるみおとまり会（ぬくいきたぶんしつ）\n小学生の一日図書館員（みどりぶんしつ）まいとし７がつごろ\n中学生の一日図書館員（ぬくいきたぶんしつ）まいとし８がつごろ\n子ども哲学（ぬくいきたぶんしつ）\n詳しくは各ホームページをご確認ください。\n小金井市立図書館本館ホームページ\n;https://www.library.koganei.tokyo.jp/kids/news/\n東分室ホームページ\nNPO法人市民の図書館・公民館こがねい;http://east.ntk-koganei.org/\n緑分室ホームページ\nNPO法人市民の図書館・公民館こがねい;https://www.green-ntk-koganei.com/\n貫井北分室ホームページ\nNPO法人市民の図書館・公民館こがねい;http://www.ntk-koganei.org/\n図書館への\nお問い合わせ;http://www.city.koganei.lg.jp/kankobunka/454/D8503010.html\n小金井市立図書館　〒184-0004　東京都小金井市本町1-1-32　TEL.042-383-1138",
+      "target": {
+        "targetPersons": "0歳７ヶ月以上３歳未満のお子さんと保護者の方、３歳上のお子さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": 7
+        },
+        "greaterThan": {
+          "targetAge": 3,
+          "targetAgeOfMonths": 0
+        },
+        "conditions": "3歳以上のお子さん向けのおはなし会は、お子さんのみで参加できる方"
+      },
+      "support": {
+        "description": "イベント＆おはなしかい\nおはなし会\nおはなし会のよていは 「おしらせ」のページを みてください。\n\nほんかん\nすとーりーたいむ\n３さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nまいしゅう すいようび　ごご３じから（しゅくじつ・ねんまつねんしは おやすみです）\nととけっこうのおへや\n０さい７かげつから ２さいの こどもと おうちの人のための おはなし会です。\nわらべうたや てあそび、えほんのよみきかせなどを します。\nまいつき だい３かようび　ごぜん11じから\n\nひがしぶんしつ\nひがしぶんしつおはなし会\n３さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\n２つきに１かい　にちようび　ごご３じから\nあかちゃんのためのおはなし会\n０さいから ２さいの こどもと おうちの人のための おはなし会です。\nわらべうたや てあそび、えほんのよみきかせなどを します。\n２つきに１かい きんようび　ごぜん11じから\n（もうしこみがひつようです）\n\nみどりぶんしつ\n３さいからの こどもと おうちの人のための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nつきに１かい どようび　ごぜん10じ30ふんから\n\nぬくいきたぶんしつ\n４さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nまいつき だい２・３・４どようび　ごぜん10じ30ふんから（ねんまつねんしは おやすみです）\n\nイベント\nおはなし会の ほかにも きせつによって いろいろなイベントを おこないます。\n工作会（ほんかん・ひがしぶんしつ）まいとし ８がつごろ\nおたのしみ会　まいとし 12がつごろ\nぬいぐるみおとまり会（ぬくいきたぶんしつ）\n小学生の一日図書館員（みどりぶんしつ）まいとし７がつごろ\n中学生の一日図書館員（ぬくいきたぶんしつ）まいとし８がつごろ\n子ども哲学（ぬくいきたぶんしつ）\n詳しくは各ホームページをご確認ください。\n小金井市立図書館本館ホームページ\n;https://www.library.koganei.tokyo.jp/kids/news/\n東分室ホームページ\nNPO法人市民の図書館・公民館こがねい;http://east.ntk-koganei.org/\n緑分室ホームページ\nNPO法人市民の図書館・公民館こがねい;https://www.green-ntk-koganei.com/\n貫井北分室ホームページ\nNPO法人市民の図書館・公民館こがねい;http://www.ntk-koganei.org/\n図書館への\nお問い合わせ;http://www.city.koganei.lg.jp/kankobunka/454/D8503010.html\n小金井市立図書館　〒184-0004　東京都小金井市本町1-1-32　TEL.042-383-1138",
+        "monetarySupport": null,
+        "materiallySupport": "イベント＆おはなしかい\nおはなし会\nおはなし会のよていは 「おしらせ」のページを みてください。\n\nほんかん\nすとーりーたいむ\n３さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nまいしゅう すいようび　ごご３じから（しゅくじつ・ねんまつねんしは おやすみです）\nととけっこうのおへや\n０さい７かげつから ２さいの こどもと おうちの人のための おはなし会です。\nわらべうたや てあそび、えほんのよみきかせなどを します。\nまいつき だい３かようび　ごぜん11じから\n\nひがしぶんしつ\nひがしぶんしつおはなし会\n３さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\n２つきに１かい　にちようび　ごご３じから\nあかちゃんのためのおはなし会\n０さいから ２さいの こどもと おうちの人のための おはなし会です。\nわらべうたや てあそび、えほんのよみきかせなどを します。\n２つきに１かい きんようび　ごぜん11じから\n（もうしこみがひつようです）\n\nみどりぶんしつ\n３さいからの こどもと おうちの人のための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nつきに１かい どようび　ごぜん10じ30ふんから\n\nぬくいきたぶんしつ\n４さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nまいつき だい２・３・４どようび　ごぜん10じ30ふんから（ねんまつねんしは おやすみです）\n\nイベント\nおはなし会の ほかにも きせつによって いろいろなイベントを おこないます。\n工作会（ほんかん・ひがしぶんしつ）まいとし ８がつごろ\nおたのしみ会　まいとし 12がつごろ\nぬいぐるみおとまり会（ぬくいきたぶんしつ）\n小学生の一日図書館員（みどりぶんしつ）まいとし７がつごろ\n中学生の一日図書館員（ぬくいきたぶんしつ）まいとし８がつごろ\n子ども哲学（ぬくいきたぶんしつ）\n詳しくは各ホームページをご確認ください。\n小金井市立図書館本館ホームページ\n;https://www.library.koganei.tokyo.jp/kids/news/\n東分室ホームページ\nNPO法人市民の図書館・公民館こがねい;http://east.ntk-koganei.org/\n緑分室ホームページ\nNPO法人市民の図書館・公民館こがねい;https://www.green-ntk-koganei.com/\n貫井北分室ホームページ\nNPO法人市民の図書館・公民館こがねい;http://www.ntk-koganei.org/\n図書館への\nお問い合わせ;http://www.city.koganei.lg.jp/kankobunka/454/D8503010.html\n小金井市立図書館　〒184-0004　東京都小金井市本町1-1-32　TEL.042-383-1138"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "イベント＆おはなしかい\nおはなし会\nおはなし会のよていは 「おしらせ」のページを みてください。\n\nほんかん\nすとーりーたいむ\n３さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nまいしゅう すいようび　ごご３じから（しゅくじつ・ねんまつねんしは おやすみです）\nととけっこうのおへや\n０さい７かげつから ２さいの こどもと おうちの人のための おはなし会です。\nわらべうたや てあそび、えほんのよみきかせなどを します。\nまいつき だい３かようび　ごぜん11じから\n\nひがしぶんしつ\nひがしぶんしつおはなし会\n３さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\n２つきに１かい　にちようび　ごご３じから\nあかちゃんのためのおはなし会\n０さいから ２さいの こどもと おうちの人のための おはなし会です。\nわらべうたや てあそび、えほんのよみきかせなどを します。\n２つきに１かい きんようび　ごぜん11じから\n（もうしこみがひつようです）\n\nみどりぶんしつ\n３さいからの こどもと おうちの人のための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nつきに１かい どようび　ごぜん10じ30ふんから\n\nぬくいきたぶんしつ\n４さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nまいつき だい２・３・４どようび　ごぜん10じ30ふんから（ねんまつねんしは おやすみです）\n\nイベント\nおはなし会の ほかにも きせつによって いろいろなイベントを おこないます。\n工作会（ほんかん・ひがしぶんしつ）まいとし ８がつごろ\nおたのしみ会　まいとし 12がつごろ\nぬいぐるみおとまり会（ぬくいきたぶんしつ）\n小学生の一日図書館員（みどりぶんしつ）まいとし７がつごろ\n中学生の一日図書館員（ぬくいきたぶんしつ）まいとし８がつごろ\n子ども哲学（ぬくいきたぶんしつ）\n詳しくは各ホームページをご確認ください。\n小金井市立図書館本館ホームページ\n;https://www.library.koganei.tokyo.jp/kids/news/\n東分室ホームページ\nNPO法人市民の図書館・公民館こがねい;http://east.ntk-koganei.org/\n緑分室ホームページ\nNPO法人市民の図書館・公民館こがねい;https://www.green-ntk-koganei.com/\n貫井北分室ホームページ\nNPO法人市民の図書館・公民館こがねい;http://www.ntk-koganei.org/\n図書館への\nお問い合わせ;http://www.city.koganei.lg.jp/kankobunka/454/D8503010.html\n小金井市立図書館　〒184-0004　東京都小金井市本町1-1-32　TEL.042-383-1138"
+      },
+      "implementationPlace": {
+        "implementationName": "ほんかん\nひがしぶんしつ\nみどりぶんしつ\nぬくいきたぶんしつ",
+        "implementationAddress": "ほんかん　小金井市本町１－１－３２\nひがしぶんしつ　小金井市東町１－３９－１（東センター内）\nみどりぶんしつ　小金井市緑町３－３－２３（緑センター内）\nぬくいきたぶんしつ　小金井市貫井南町１－１１－１２（貫井北センター内）"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "イベント＆おはなしかい\nおはなし会\nおはなし会のよていは 「おしらせ」のページを みてください。\n\nほんかん\nすとーりーたいむ\n３さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nまいしゅう すいようび　ごご３じから（しゅくじつ・ねんまつねんしは おやすみです）\nととけっこうのおへや\n０さい７かげつから ２さいの こどもと おうちの人のための おはなし会です。\nわらべうたや てあそび、えほんのよみきかせなどを します。\nまいつき だい３かようび　ごぜん11じから\n\nひがしぶんしつ\nひがしぶんしつおはなし会\n３さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\n２つきに１かい　にちようび　ごご３じから\nあかちゃんのためのおはなし会\n０さいから ２さいの こどもと おうちの人のための おはなし会です。\nわらべうたや てあそび、えほんのよみきかせなどを します。\n２つきに１かい きんようび　ごぜん11じから\n（もうしこみがひつようです）\n\nみどりぶんしつ\n３さいからの こどもと おうちの人のための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nつきに１かい どようび　ごぜん10じ30ふんから\n\nぬくいきたぶんしつ\n４さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nまいつき だい２・３・４どようび　ごぜん10じ30ふんから（ねんまつねんしは おやすみです）\n\nイベント\nおはなし会の ほかにも きせつによって いろいろなイベントを おこないます。\n工作会（ほんかん・ひがしぶんしつ）まいとし ８がつごろ\nおたのしみ会　まいとし 12がつごろ\nぬいぐるみおとまり会（ぬくいきたぶんしつ）\n小学生の一日図書館員（みどりぶんしつ）まいとし７がつごろ\n中学生の一日図書館員（ぬくいきたぶんしつ）まいとし８がつごろ\n子ども哲学（ぬくいきたぶんしつ）\n詳しくは各ホームページをご確認ください。\n小金井市立図書館本館ホームページ\n;https://www.library.koganei.tokyo.jp/kids/news/\n東分室ホームページ\nNPO法人市民の図書館・公民館こがねい;http://east.ntk-koganei.org/\n緑分室ホームページ\nNPO法人市民の図書館・公民館こがねい;https://www.green-ntk-koganei.com/\n貫井北分室ホームページ\nNPO法人市民の図書館・公民館こがねい;http://www.ntk-koganei.org/\n図書館への\nお問い合わせ;http://www.city.koganei.lg.jp/kankobunka/454/D8503010.html\n小金井市立図書館　〒184-0004　東京都小金井市本町1-1-32　TEL.042-383-1138"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "イベント＆おはなしかい\nおはなし会\nおはなし会のよていは 「おしらせ」のページを みてください。\n\nほんかん\nすとーりーたいむ\n３さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nまいしゅう すいようび　ごご３じから（しゅくじつ・ねんまつねんしは おやすみです）\nととけっこうのおへや\n０さい７かげつから ２さいの こどもと おうちの人のための おはなし会です。\nわらべうたや てあそび、えほんのよみきかせなどを します。\nまいつき だい３かようび　ごぜん11じから\n\nひがしぶんしつ\nひがしぶんしつおはなし会\n３さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\n２つきに１かい　にちようび　ごご３じから\nあかちゃんのためのおはなし会\n０さいから ２さいの こどもと おうちの人のための おはなし会です。\nわらべうたや てあそび、えほんのよみきかせなどを します。\n２つきに１かい きんようび　ごぜん11じから\n（もうしこみがひつようです）\n\nみどりぶんしつ\n３さいからの こどもと おうちの人のための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nつきに１かい どようび　ごぜん10じ30ふんから\n\nぬくいきたぶんしつ\n４さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nまいつき だい２・３・４どようび　ごぜん10じ30ふんから（ねんまつねんしは おやすみです）\n\nイベント\nおはなし会の ほかにも きせつによって いろいろなイベントを おこないます。\n工作会（ほんかん・ひがしぶんしつ）まいとし ８がつごろ\nおたのしみ会　まいとし 12がつごろ\nぬいぐるみおとまり会（ぬくいきたぶんしつ）\n小学生の一日図書館員（みどりぶんしつ）まいとし７がつごろ\n中学生の一日図書館員（ぬくいきたぶんしつ）まいとし８がつごろ\n子ども哲学（ぬくいきたぶんしつ）\n詳しくは各ホームページをご確認ください。\n小金井市立図書館本館ホームページ\n;https://www.library.koganei.tokyo.jp/kids/news/\n東分室ホームページ\nNPO法人市民の図書館・公民館こがねい;http://east.ntk-koganei.org/\n緑分室ホームページ\nNPO法人市民の図書館・公民館こがねい;https://www.green-ntk-koganei.com/\n貫井北分室ホームページ\nNPO法人市民の図書館・公民館こがねい;http://www.ntk-koganei.org/\n図書館への\nお問い合わせ;http://www.city.koganei.lg.jp/kankobunka/454/D8503010.html\n小金井市立図書館　〒184-0004　東京都小金井市本町1-1-32　TEL.042-383-1138",
+      "procedurePersons": "イベント＆おはなしかい\nおはなし会\nおはなし会のよていは 「おしらせ」のページを みてください。\n\nほんかん\nすとーりーたいむ\n３さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nまいしゅう すいようび　ごご３じから（しゅくじつ・ねんまつねんしは おやすみです）\nととけっこうのおへや\n０さい７かげつから ２さいの こどもと おうちの人のための おはなし会です。\nわらべうたや てあそび、えほんのよみきかせなどを します。\nまいつき だい３かようび　ごぜん11じから\n\nひがしぶんしつ\nひがしぶんしつおはなし会\n３さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\n２つきに１かい　にちようび　ごご３じから\nあかちゃんのためのおはなし会\n０さいから ２さいの こどもと おうちの人のための おはなし会です。\nわらべうたや てあそび、えほんのよみきかせなどを します。\n２つきに１かい きんようび　ごぜん11じから\n（もうしこみがひつようです）\n\nみどりぶんしつ\n３さいからの こどもと おうちの人のための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nつきに１かい どようび　ごぜん10じ30ふんから\n\nぬくいきたぶんしつ\n４さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nまいつき だい２・３・４どようび　ごぜん10じ30ふんから（ねんまつねんしは おやすみです）\n\nイベント\nおはなし会の ほかにも きせつによって いろいろなイベントを おこないます。\n工作会（ほんかん・ひがしぶんしつ）まいとし ８がつごろ\nおたのしみ会　まいとし 12がつごろ\nぬいぐるみおとまり会（ぬくいきたぶんしつ）\n小学生の一日図書館員（みどりぶんしつ）まいとし７がつごろ\n中学生の一日図書館員（ぬくいきたぶんしつ）まいとし８がつごろ\n子ども哲学（ぬくいきたぶんしつ）\n詳しくは各ホームページをご確認ください。\n小金井市立図書館本館ホームページ\n;https://www.library.koganei.tokyo.jp/kids/news/\n東分室ホームページ\nNPO法人市民の図書館・公民館こがねい;http://east.ntk-koganei.org/\n緑分室ホームページ\nNPO法人市民の図書館・公民館こがねい;https://www.green-ntk-koganei.com/\n貫井北分室ホームページ\nNPO法人市民の図書館・公民館こがねい;http://www.ntk-koganei.org/\n図書館への\nお問い合わせ;http://www.city.koganei.lg.jp/kankobunka/454/D8503010.html\n小金井市立図書館　〒184-0004　東京都小金井市本町1-1-32　TEL.042-383-1138",
+      "procedureMethod": "イベント＆おはなしかい\nおはなし会\nおはなし会のよていは 「おしらせ」のページを みてください。\n\nほんかん\nすとーりーたいむ\n３さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nまいしゅう すいようび　ごご３じから（しゅくじつ・ねんまつねんしは おやすみです）\nととけっこうのおへや\n０さい７かげつから ２さいの こどもと おうちの人のための おはなし会です。\nわらべうたや てあそび、えほんのよみきかせなどを します。\nまいつき だい３かようび　ごぜん11じから\n\nひがしぶんしつ\nひがしぶんしつおはなし会\n３さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\n２つきに１かい　にちようび　ごご３じから\nあかちゃんのためのおはなし会\n０さいから ２さいの こどもと おうちの人のための おはなし会です。\nわらべうたや てあそび、えほんのよみきかせなどを します。\n２つきに１かい きんようび　ごぜん11じから\n（もうしこみがひつようです）\n\nみどりぶんしつ\n３さいからの こどもと おうちの人のための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nつきに１かい どようび　ごぜん10じ30ふんから\n\nぬくいきたぶんしつ\n４さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nまいつき だい２・３・４どようび　ごぜん10じ30ふんから（ねんまつねんしは おやすみです）\n\nイベント\nおはなし会の ほかにも きせつによって いろいろなイベントを おこないます。\n工作会（ほんかん・ひがしぶんしつ）まいとし ８がつごろ\nおたのしみ会　まいとし 12がつごろ\nぬいぐるみおとまり会（ぬくいきたぶんしつ）\n小学生の一日図書館員（みどりぶんしつ）まいとし７がつごろ\n中学生の一日図書館員（ぬくいきたぶんしつ）まいとし８がつごろ\n子ども哲学（ぬくいきたぶんしつ）\n詳しくは各ホームページをご確認ください。\n小金井市立図書館本館ホームページ\n;https://www.library.koganei.tokyo.jp/kids/news/\n東分室ホームページ\nNPO法人市民の図書館・公民館こがねい;http://east.ntk-koganei.org/\n緑分室ホームページ\nNPO法人市民の図書館・公民館こがねい;https://www.green-ntk-koganei.com/\n貫井北分室ホームページ\nNPO法人市民の図書館・公民館こがねい;http://www.ntk-koganei.org/\n図書館への\nお問い合わせ;http://www.city.koganei.lg.jp/kankobunka/454/D8503010.html\n小金井市立図書館　〒184-0004　東京都小金井市本町1-1-32　TEL.042-383-1138",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "イベント＆おはなしかい\nおはなし会\nおはなし会のよていは 「おしらせ」のページを みてください。\n\nほんかん\nすとーりーたいむ\n３さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nまいしゅう すいようび　ごご３じから（しゅくじつ・ねんまつねんしは おやすみです）\nととけっこうのおへや\n０さい７かげつから ２さいの こどもと おうちの人のための おはなし会です。\nわらべうたや てあそび、えほんのよみきかせなどを します。\nまいつき だい３かようび　ごぜん11じから\n\nひがしぶんしつ\nひがしぶんしつおはなし会\n３さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\n２つきに１かい　にちようび　ごご３じから\nあかちゃんのためのおはなし会\n０さいから ２さいの こどもと おうちの人のための おはなし会です。\nわらべうたや てあそび、えほんのよみきかせなどを します。\n２つきに１かい きんようび　ごぜん11じから\n（もうしこみがひつようです）\n\nみどりぶんしつ\n３さいからの こどもと おうちの人のための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nつきに１かい どようび　ごぜん10じ30ふんから\n\nぬくいきたぶんしつ\n４さいからの こどものための おはなし会です。\nえほんのよみきかせや かみしばいなどを します。\nまいつき だい２・３・４どようび　ごぜん10じ30ふんから（ねんまつねんしは おやすみです）\n\nイベント\nおはなし会の ほかにも きせつによって いろいろなイベントを おこないます。\n工作会（ほんかん・ひがしぶんしつ）まいとし ８がつごろ\nおたのしみ会　まいとし 12がつごろ\nぬいぐるみおとまり会（ぬくいきたぶんしつ）\n小学生の一日図書館員（みどりぶんしつ）まいとし７がつごろ\n中学生の一日図書館員（ぬくいきたぶんしつ）まいとし８がつごろ\n子ども哲学（ぬくいきたぶんしつ）\n詳しくは各ホームページをご確認ください。\n小金井市立図書館本館ホームページ\n;https://www.library.koganei.tokyo.jp/kids/news/\n東分室ホームページ\nNPO法人市民の図書館・公民館こがねい;http://east.ntk-koganei.org/\n緑分室ホームページ\nNPO法人市民の図書館・公民館こがねい;https://www.green-ntk-koganei.com/\n貫井北分室ホームページ\nNPO法人市民の図書館・公民館こがねい;http://www.ntk-koganei.org/\n図書館への\nお問い合わせ;http://www.city.koganei.lg.jp/kankobunka/454/D8503010.html\n小金井市立図書館　〒184-0004　東京都小金井市本町1-1-32　TEL.042-383-1138",
+      "relatedLink": [
+        {
+          "uri": "https://www.library.koganei.tokyo.jp/kids/news/",
+          "title": "おしらせ\nNPO法人市民の図書館・公民館こがねい"
+        },
+        {
+          "uri": "http://www.ntk-koganei.org/",
+          "title": "貫井北分室ホームページ\nNPO法人市民の図書館・公民館こがねい"
+        },
+        {
+          "uri": "http://east.ntk-koganei.org/",
+          "title": "東分室ホームページ\nNPO法人市民の図書館・公民館こがねい"
+        },
+        {
+          "uri": "https://www.green-ntk-koganei.com/",
+          "title": "緑分室ホームページ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.library.koganei.tokyo.jp/kids/tabid168.html",
+        "title": "イベント＆おはなしかい"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小金井市立図書館",
+        "contactPhone": "042-383-1138",
+        "contactEx": null,
+        "contactEmail": "k020299(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840004",
+        "contactAddress": "小金井市本町1-1-32"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+2+UM105",
+        "organization": "3000020132101",
+        "compartment": "小金井市立図書館",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "第4次小金井市子ども読書活動推進計画",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

@@ -1,0 +1,2157 @@
+{
+  "version": "2025-07-10T02:38:54.138Z",
+  "areaCode": "132225",
+  "areaName": "東久留米市",
+  "category": "medical",
+  "count": 17,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦訪問",
+        "shortName": "妊婦訪問"
+      },
+      "summary": "妊娠中の方を対象に、保健師や助産師がご家庭を訪問し、健康状態の確認や必要な保健指導、妊娠期間中や出産後の不安や悩みについての相談等を行います。",
+      "description": "妊婦訪問\n安心して赤ちゃんを迎えられるように、妊婦さんのいるご家庭を保健師・助産師が訪問します。妊娠・出産・育児に関するご相談をお受けしています。都合の良い時に訪問させていただきますので、お気軽にご利用ください。\n\n赤ちゃん・産婦訪問\n健やかな赤ちゃんの成長を願い、生後4カ月未満の赤ちゃんのいるすべてのご家庭を保健師・助産師が訪問します。赤ちゃんの体重を計ったり、お母さんの体調や育児の相談などをお受けします。赤ちゃんがお生まれになりましたら、母子手帳の中に入っている出生通知票（ハガキ）を記入し、できるだけ早めにお出しください。\n\n都合の良い時に訪問させていただきますので、お気軽にご利用ください。なお、お急ぎの場合は健康課に直接ご連絡ください。\n\n赤ちゃん訪問について;https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000405.html",
+      "target": {
+        "targetPersons": "妊婦さんのいるご家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "安心して赤ちゃんを迎えられるように、妊婦さんのいるご家庭を保健師・助産師が訪問します。妊娠・出産・育児に関するご相談をお受けしています。",
+        "monetarySupport": null,
+        "materiallySupport": "妊婦さんのいるご家庭を保健師・助産師が訪問"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "福祉保健部　健康課　保健サービス係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000404.html",
+        "title": "妊婦訪問"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　保健サービス係",
+        "contactPhone": "042-477-0022",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000404.html",
+        "contactComment": null,
+        "zipCode": "2030033",
+        "contactAddress": "東京都東久留米市滝山4-3-14"
+      },
+      "area": {
+        "areaCode": "132225;東久留米市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132225+1+UM11",
+        "organization": "3000020132225",
+        "compartment": "福祉保健部　健康課　保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2015-03-21",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "東久留米市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条（妊産婦の訪問指導等）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小児科救急",
+        "shortName": "平日準夜間小児初期救急診療（佐々総合病院、多摩北部医療センターで実施）"
+      },
+      "summary": "多摩北部医療センターと佐々総合病院にて、平日準夜間帯の小児初期救急診療を行っています。",
+      "description": "注意：いずれも原則15歳以下の初期救急患者が対象\n\n月曜日・水曜日・木曜日・金曜日\n病院名\n　佐々総合病院\n住所\n　西東京市田無町4-24-15\n電話\n　042-461-1535\n診療時間\n　毎週月曜日・水曜日・木曜日・金曜日の午後7時30分～午後10時20分（祝日・年末年始以外）\n　※医師の診察の結果、点滴等の処置や入院等が必要とする場合は、他の病院を紹介します。\n佐々総合病院の地図;https://www.city.higashikurume.lg.jp/_res/projects/default_project/_page_/001/002/409/8-1.gif\n\n月曜日～金曜日\n病院名\n　多摩北部医療センター\n住所\n　東村山市青葉町1-7-1\n電話\n　042-396-3811\n診療時間\n　毎週月曜日～金曜日の午後7時30分～午後10時30分（祝日・年末年始以外）\n　・診療に関する問い合わせは、午前9時～午後5時（小児科外来）、午後5時～午前9時（救急室）\n多摩北部医療センターの地図;https://www.city.higashikurume.lg.jp/_res/projects/default_project/_page_/001/002/409/yakan.jpg",
+      "target": {
+        "targetPersons": "いずれも原則15歳以下の初期救急患者が対象",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 15,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "いずれも原則15歳以下の初期救急患者が対象"
+      },
+      "support": {
+        "description": "月曜日・水曜日・木曜日・金曜日\n病院　名佐々総合病院\n住所　西東京市田無町4-24-15\n電話　042-461-1535\n診療時間　毎週月曜日・水曜日・木曜日・金曜日の午後7時30分～午後10時20分（祝日・年末年始以外）\n※医師の診察の結果、点滴等の処置や入院等が必要とする場合は、他の病院を紹介します。\n佐々総合病院の地図;https://www.city.higashikurume.lg.jp/_res/projects/default_project/_page_/001/002/409/8-1.gif\n\n月曜日～金曜日\n病院名　多摩北部医療センター\n住所　東村山市青葉町1-7-1\n電話　042-396-3811\n診療時間　毎週月曜日～金曜日の午後7時30分～午後10時30分（祝日・年末年始以外）\n・診療に関する問い合わせは、午前9時～午後5時（小児科外来）、午後5時～午前9時（救急室）\n多摩北部医療センターの地図;https://www.city.higashikurume.lg.jp/_res/projects/default_project/_page_/001/002/409/yakan.jpg",
+        "monetarySupport": null,
+        "materiallySupport": "月曜日・水曜日・木曜日・金曜日\n病院　名佐々総合病院\n住所　西東京市田無町4-24-15\n電話　042-461-1535\n診療時間　毎週月曜日・水曜日・木曜日・金曜日の午後7時30分～午後10時20分（祝日・年末年始以外）\n※医師の診察の結果、点滴等の処置や入院等が必要とする場合は、他の病院を紹介します。\n佐々総合病院の地図;https://www.city.higashikurume.lg.jp/_res/projects/default_project/_page_/001/002/409/8-1.gif\n\n月曜日～金曜日\n病院名　多摩北部医療センター\n住所　東村山市青葉町1-7-1\n電話　042-396-3811\n診療時間　毎週月曜日～金曜日の午後7時30分～午後10時30分（祝日・年末年始以外）\n・診療に関する問い合わせは、午前9時～午後5時（小児科外来）、午後5時～午前9時（救急室）\n多摩北部医療センターの地図;https://www.city.higashikurume.lg.jp/_res/projects/default_project/_page_/001/002/409/yakan.jpg"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashikurume.lg.jp/kurashi/anzen/shinryo/1002409.html",
+        "title": "平日準夜間小児初期救急診療（佐々総合病院、多摩北部医療センターで実施）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　予防係",
+        "contactPhone": "042-477-0030",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/anzen/shinryo/1002409.html",
+        "contactComment": null,
+        "zipCode": "2030033",
+        "contactAddress": "東京都東久留米市滝山4-3-14"
+      },
+      "area": {
+        "areaCode": "132225;東久留米市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132225+1+UM114",
+        "organization": "3000020132225",
+        "compartment": "福祉保健部　健康課　予防係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-03",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "東久留米市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "救急医療対策事業実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "東久留米市の子育てに関する相談",
+        "shortName": "子育ての総合相談"
+      },
+      "summary": "東久留米市では、18歳未満のお子さんに関する子育ての総合相談を行っています。",
+      "description": "日時\n毎週月曜日から土曜日の午前9時から午後4時30分\n会場\nこども家庭センター（わくわく健康プラザ内2階）\n内容\n・0歳～18歳未満のお子さん、家庭などに関すること\n・お子さん自身の悩み・困っていること\nその他\n電話相談も可\n申し込み方法\nこども家庭センター（電話042-471-0910）へ\n問い合わせ先\nこども家庭センター（電話042-471-0910）へ\nこども家庭センター;https://www.city.higashikurume.lg.jp/shisetsu/kodomo/shien/1002144.html",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "内容\n0歳～18歳未満のお子さん、家庭などに関すること\nお子さん自身の悩み・困っていること",
+        "monetarySupport": null,
+        "materiallySupport": "内容\n0歳～18歳未満のお子さん、家庭などに関すること\nお子さん自身の悩み・困っていること"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "09:00",
+        "toYMD": null,
+        "toHM": "16:30",
+        "conditions": "毎週月曜日から土曜日の午前9時から午後4時30分"
+      },
+      "implementationPlace": {
+        "implementationName": "こども家庭センター（わくわく健康プラザ内2階）",
+        "implementationAddress": "東京都東久留米市滝山4-3-14"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "その他\n電話相談も可\n申し込み方法\nこども家庭センター（電話042-471-0910）へ\n問い合わせ先\nこども家庭センター（電話042-471-0910）へ",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "こども家庭センター（わくわく健康プラザ内2階）",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.higashikurume.lg.jp/shisetsu/kodomo/shien/1002144.html",
+          "title": "こども家庭センター"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashikurume.lg.jp/shisei/shiyakusho/soudan/1003317.html",
+        "title": "子育ての総合相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部　こども家庭センター　こども支援係",
+        "contactPhone": "042-471-0910",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashikurume.lg.jp/shisei/shiyakusho/soudan/1003317.html",
+        "contactComment": null,
+        "zipCode": "2030033",
+        "contactAddress": "東京都東久留米市滝山4-3-14"
+      },
+      "area": {
+        "areaCode": "132225;東久留米市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132225+1+UM119",
+        "organization": "3000020132225",
+        "compartment": "子ども家庭部　こども家庭センター　こども支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-26",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "東久留米市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "新生児訪問",
+        "shortName": "赤ちゃん訪問・産婦訪問"
+      },
+      "summary": "生後4か月までのお子さんと産婦さんを対象に、保健師や助産師がご家庭を訪問し、お子さんの発育・発達、産婦さんの健康状態の確認や必要な保健指導、健康や育児に関する相談などを行います。",
+      "description": "ご出産おめでとうございます。\n赤ちゃん・お母さま方のご様子はいかがですか？\n\n赤ちゃんのかわいさや子育ての楽しさを感じることも多い反面、時には不安になったり戸惑ったりすることも多いと思います。\n東久留米市では、健やかな赤ちゃんの成長を願い、生後4カ月未満の赤ちゃんのいるすべてのご家庭を保健師・助産師が訪問しています。赤ちゃんの体重をはかったり、お母さま方の体調や育児のご相談等をお受けします。\n\n赤ちゃんがお生まれになりましたら、母子手帳の中に入っている出生通知票（ハガキ）に記入し、できるだけお早めにお出しください。ご都合の良い時に訪問させていただきますので、お気軽にご利用ください。お急ぎの場合は、直接健康課にご連絡ください。\n\n赤ちゃん訪問のQ＆A\nどんなことをするの？\n体重をはかったり、母乳・ミルクのことや日頃気になる赤ちゃんのことなど、育児の相談、お母さま、ご家族のことなどのご相談をお受けします。\n費用は一切かかりません。\n\nいつ来てくれますか？\n生後4カ月までにお伺いします。\nご都合のよい時に訪問させていただきますので、お気軽にご利用ください。\n\nどんな人がくるの？\n保健師や助産師がお伺いします。\n\n二人目だけど利用できますか？\nご利用できます。\n何人目のお子さまでも、赤ちゃんがお生まれになったすべてのご家庭にお伺いします。\n\n里帰りしたら利用できないの？\n里帰り先と東久留米市の両方で訪問がご利用できます。\n里帰り先での訪問をご希望される場合は、里帰り先の市区町村へ直接お問い合わせください。\n東久留米市へお帰りになってからも、訪問させていただきますので、ご連絡ください。",
+      "target": {
+        "targetPersons": "生後4カ月未満の赤ちゃん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後4カ月未満の赤ちゃん"
+      },
+      "support": {
+        "description": "生後4カ月未満の赤ちゃんのいるすべてのご家庭を保健師・助産師が訪問",
+        "monetarySupport": null,
+        "materiallySupport": "生後4カ月未満の赤ちゃんのいるすべてのご家庭を保健師・助産師が訪問"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "赤ちゃんがお生まれになりましたら、母子手帳の中に入っている出生通知票（ハガキ）に記入し、できるだけお早めにお出しください"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "福祉保健部　健康課　保健サービス係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000405.html",
+        "title": "赤ちゃん訪問"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　保健サービス係",
+        "contactPhone": "042-477-0022",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000404.html",
+        "contactComment": null,
+        "zipCode": "2030033",
+        "contactAddress": "東京都東久留米市滝山4-3-14"
+      },
+      "area": {
+        "areaCode": "132225;東久留米市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132225+1+UM13",
+        "organization": "3000020132225",
+        "compartment": "福祉保健部　健康課　保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2015-03-21",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "東久留米市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第11条（新生児の訪問指導）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+        "shortName": "産婦・赤ちゃん訪問"
+      },
+      "summary": "生後4か月を迎えるまでの乳児がいるご家庭に助産師・保健師が訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+      "description": "ご出産おめでとうございます。\nご自宅に赤ちゃんがいる生活やお母さんの体調はいかがでしょうか？\n赤ちゃんのかわいさや子育ての楽しさを感じることも多い反面、産後の体調によっては不安になったり、初めての育児の場合は戸惑う場面も多いかと思います。\n東久留米市では、赤ちゃんの成長や産後のお母さんの体調確認のため、生後4カ月未満のお子さんがいるすべてのご家庭に保健師・助産師が訪問します。ご自宅で赤ちゃんの体重をはかったり、育児等のご相談をお受けします。\n産婦・赤ちゃん訪問のQ＆A\nQ3.どんな人がくるの？\nA3.母子保健に詳しい保健師や助産師がお伺いします。\nQ4.二人目だけど利用できますか？\nA4.ご利用いただけます。\n何人目のお子さまでも、赤ちゃんがお生まれになったすべてのご家庭にお伺いします。\nQ5.里帰りしたら利用できないの？\nA5.里帰り先でも新生児訪問を受けられる場合があります。\n里帰り先での訪問をご希望される場合、まずは、里帰り先の市区町村へ直接お問い合わせください。\n東久留米市へお帰りになってからも、ご希望があれば訪問させていただきます（生後4か月未満まで）。里帰り先からお戻りの際には、健康課（保健サービス係　042-477-0022）までご連絡ください。",
+      "target": {
+        "targetPersons": "生後4か月未満の乳児を養育する家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "※必要に応じて４か月以降でも訪問する場合があります。"
+      },
+      "support": {
+        "description": "お子さんの体重をはかったり、母乳・ミルクのことや日頃気になる育児のこと、産婦さんやご家族のことなどの相談をお受けします。",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "無料",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "赤ちゃんがお生まれになりましたら、出生通知票（電子申請）を早めにご提出ください。\n出生通知票は下記URLよりご申請いただけます。\n妊娠届出時にお渡しした母子バッグの中にも、ご案内を同封しております。紙面の二次元コードからもアクセスできますのでご利用ください。\n出生通知票（電子申請）（外部リンク）;https://logoform.jp/form/985h/407389",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000405.html",
+        "title": "産婦・赤ちゃん訪問"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/985h/407389",
+          "title": "出生通知票（電子申請）（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "福祉保健部　健康課　保健サービス係",
+        "contactPhone": "042-477-0022",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashikurume.lg.jp/cgi-bin/contacts/g060702",
+        "contactComment": "FAX：042-477-0033",
+        "zipCode": "2030033",
+        "contactAddress": "東京都東久留米市滝山4-3-14"
+      },
+      "area": {
+        "areaCode": "132225;東久留米市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132225+1+UM14",
+        "organization": "3000020132225",
+        "compartment": "福祉保健部　健康課　保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/10/01",
+      "odInformation": {
+        "updateDate": "2025/02/07",
+        "updater": "東久留米市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第21条の10の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出産育児一時金",
+        "shortName": "出産育児一時金"
+      },
+      "summary": "国民健康保険に加入している方が出産したときは、その世帯主からの申請により、出産育児一時金を支給します。原則として直接支払制度により、医療機関に直接お支払いします。\nなお、直接支払制度に対応していない医療機関などで出産された場合も、「受取代理制度」や出産後の申請により、出産育児一時金の支給を受けることができます。",
+      "description": "被保険者が出産（妊娠12週（85日）以上の死産のときも含む）したときに、（500,000円、ただし、産科医療補償制度に加入されない医療機関等で出産された場合は488,000円）出産育児一時金が支払われます。\n\n1.出産育児一時金を医療機関等へ直接支払うことを希望する場合\n　医療機関等において直接支払制度又は受取代理制度の手続きをしてください。退院時の医療機関等からの出産費の請求は出産育児一時金相当額を差し引いた金額となりますので、まとまった出産費を事前に用意する負担が軽減されます。\n2.申請による世帯主への支払いを希望する場合\n　被保険者証、出産が分かるもの（母子手帳等）、医療機関等から交付される直接支払制度の利用に関する合意文書、費用の内訳が記された領収書、世帯主名義口座番号の分かるもの\nなお、出産費が出産育児一時金を下回り、1を利用した場合には、市から医療機関等へは出産費相当額の出産育児一時金を支払うこととなります。出産育児一時金と出産費の差額分については2の方法で別途申請してください。ただし、受取代理制度をご利用の場合は、別途差額分の申請は必要ありません。\n\nまた、被保険者が社会保険を離脱してから6カ月未満のときは、以前加入していた社会保険から支給されます。\n\n \n\n国民健康保険出産育児一時金支給申請書;https://www.city.higashikurume.lg.jp/shinseisho/kokuho/1001532.html",
+      "target": {
+        "targetPersons": "出産した被保険者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "被保険者が出産（妊娠12週（85日）以上の死産のときも含む）したときに、（500,000円、ただし、産科医療補償制度に加入されない医療機関等で出産された場合は488,000円）出産育児一時金が支払われます。\n\n1.出産育児一時金を医療機関等へ直接支払うことを希望する場合\n医療機関等において直接支払制度又は受取代理制度の手続きをしてください。退院時の医療機関等からの出産費の請求は出産育児一時金相当額を差し引いた金額となりますので、まとまった出産費を事前に用意する負担が軽減されます。\n\n2.申請による世帯主への支払いを希望する場合\n被保険者証、出産が分かるもの（母子手帳等）、医療機関等から交付される直接支払制度の利用に関する合意文書、費用の内訳が記された領収書、世帯主名義口座番号の分かるもの\nなお、出産費が出産育児一時金を下回り、1を利用した場合には、市から医療機関等へは出産費相当額の出産育児一時金を支払うこととなります。出産育児一時金と出産費の差額分については2の方法で別途申請してください。ただし、受取代理制度をご利用の場合は、別途差額分の申請は必要ありません。\n\n",
+        "monetarySupport": "被保険者が出産（妊娠12週（85日）以上の死産のときも含む）したときに、（500,000円、ただし、産科医療補償制度に加入されない医療機関等で出産された場合は488,000円）出産育児一時金が支払われます。\n\n1.出産育児一時金を医療機関等へ直接支払うことを希望する場合\n医療機関等において直接支払制度又は受取代理制度の手続きをしてください。退院時の医療機関等からの出産費の請求は出産育児一時金相当額を差し引いた金額となりますので、まとまった出産費を事前に用意する負担が軽減されます。\n\n2.申請による世帯主への支払いを希望する場合\n被保険者証、出産が分かるもの（母子手帳等）、医療機関等から交付される直接支払制度の利用に関する合意文書、費用の内訳が記された領収書、世帯主名義口座番号の分かるもの\nなお、出産費が出産育児一時金を下回り、1を利用した場合には、市から医療機関等へは出産費相当額の出産育児一時金を支払うこととなります。出産育児一時金と出産費の差額分については2の方法で別途申請してください。ただし、受取代理制度をご利用の場合は、別途差額分の申請は必要ありません。\n\n",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "1.出産育児一時金を医療機関等へ直接支払うことを希望する場合\n医療機関等において直接支払制度又は受取代理制度の手続きをしてください。退院時の医療機関等からの出産費の請求は出産育児一時金相当額を差し引いた金額となりますので、まとまった出産費を事前に用意する負担が軽減されます。\n\n2.申請による世帯主への支払いを希望する場合\n被また、被保険者が社会保険を離脱してから6カ月未満のときは、以前加入していた社会保険から支給されます。保険者証、出産が分かるもの（母子手帳等）、医療機関等から交付される直接支払制度の利用に関する合意文書、費用の内訳が記された領収書、世帯主名義口座番号の分かるもの\nなお、出産費が出産育児一時金を下回り、1を利用した場合には、市から医療機関等へは出産費相当額の出産育児一時金を支払うこととなります。出産育児一時金と出産費の差額分については2の方法で別途申請してください。ただし、受取代理制度をご利用の場合は、別途差額分の申請は必要ありません。\n\nまた、被保険者が社会保険を離脱してから6カ月未満のときは、以前加入していた社会保険から支給されます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.higashikurume.lg.jp/shinseisho/kokuho/1001532.html",
+          "title": "国民健康保険出産育児一時金支給申請書"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashikurume.lg.jp/kurashi/zei/kokuho/kyufu/1003024.html",
+        "title": "出産育児一時金について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　保険年金課　国民健康保険係",
+        "contactPhone": "042-470-7733",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/zei/kokuho/kyufu/1003024.html",
+        "contactComment": null,
+        "zipCode": "2038555",
+        "contactAddress": "東京都東久留米市本町3-3-1"
+      },
+      "area": {
+        "areaCode": "132225;東久留米市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132225+1+UM19",
+        "organization": "3000020132225",
+        "compartment": "福祉保健部　保険年金課　国民健康保険係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-08",
+        "updater": "東久留米市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民健康保険法",
+        "regulationArticle": "第58条(第二節　その他の給付)"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003",
+          "015"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "母子父子寡婦福祉資金",
+        "shortName": "東京都母子及び父子福祉資金貸付・東京都女性福祉資金貸付"
+      },
+      "summary": "母子家庭の母、父子家庭の父、および寡婦の方の経済的自立や、扶養しているお子さんの福祉増進のために、必要な資金をお貸しする制度です。",
+      "description": "東京都母子及び父子福祉資金貸付\n対象となる方\n都内に6カ月以上住んでいる母子家庭の母又は父子家庭の父等で、20歳未満の子どもを扶養している方\n\n（注意事項）\n\n・貸付には審査があり、貸付が自立につながると判断され、償還の計画を立てることができる方が対象となります。\n内容\n・母子家庭又は父子家庭の方が経済的に自立して安定した生活を送るために必要な資金をお貸ししています\n・資金の種類は、技能習得・転宅・修学・就学支度など計12種類\n・償還は各資金ごとに設定されている期限内にしていただきます。この資金は、借り受けた方からの償還金が、他のひとり親家庭の方に貸し付ける財源となります。無理のない償還計画を立て、必ず償還してください。\n申請方法\n事前に予約のうえ、窓口でご相談ください。\n\n東京都女性福祉資金貸付\n対象となる方\n都内に6カ月以上住んでいる配偶者がいない女性で、次の1又は2に該当する方\n\n1.親・子・兄弟姉妹などを扶養している方（所得制限なし）\n2.年間所得が2,036,000円以下で、かつて母子家庭の母として20歳未満の子を扶養したことのある方または婚姻歴のある40歳以上の方\n注意：貸付には審査があり、貸付が自立につながると判断され、償還の計画を立てることができる方が対象となります。\n\n内容\n・女性の方が経済的に自立して安定した生活を送るために必要な資金をお貸ししています\n・資金の種類は、技能習得・転宅・修学・就学支度など計11種類\n・償還は各資金ごとに設定されている期限内にしていただきます。この資金は、借り受けた方からの償還金が、他の女性の方に貸し付ける財源となります。無理のない償還計画を立て、必ず償還してください。\n申請方法\n事前に予約のうえ、窓口でご相談ください。",
+      "target": {
+        "targetPersons": "都内に6カ月以上住んでいる母子家庭の母又は父子家庭の父等で、20歳未満の子どもを扶養している方\n（注意事項）\n貸付には審査があり、貸付が自立につながると判断され、償還の計画を立てることができる方が対象となります。",
+        "lessThan": {
+          "targetAge": 20,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "都内に6カ月以上住んでいる母子家庭の母又は父子家庭の父等で、20歳未満の子どもを扶養している方\n（注意事項）\n貸付には審査があり、貸付が自立につながると判断され、償還の計画を立てることができる方が対象となります。"
+      },
+      "support": {
+        "description": "・母子家庭又は父子家庭の方が経済的に自立して安定した生活を送るために必要な資金をお貸ししています\n・資金の種類は、技能習得・転宅・修学・就学支度など計12種類\n・償還は各資金ごとに設定されている期限内にしていただきます。この資金は、借り受けた方からの償還金が、他のひとり親家庭の方に貸し付ける財源となります。無理のない償還計画を立て、必ず償還してください。",
+        "monetarySupport": "・母子家庭又は父子家庭の方が経済的に自立して安定した生活を送るために必要な資金をお貸ししています\n・資金の種類は、技能習得・転宅・修学・就学支度など計12種類\n・償還は各資金ごとに設定されている期限内にしていただきます。この資金は、借り受けた方からの償還金が、他のひとり親家庭の方に貸し付ける財源となります。無理のない償還計画を立て、必ず償還してください。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "事前に予約のうえ、窓口でご相談ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashikurume.lg.jp/kurashi/kosodate/teate/1000460.html",
+        "title": "福祉資金の貸付（東京都母子及び父子福祉資金貸付・東京都女性福祉資金貸付）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部　児童青少年課　助成支援係",
+        "contactPhone": "042-470-7736",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/kosodate/teate/1000460.html",
+        "contactComment": null,
+        "zipCode": "2038555",
+        "contactAddress": "東京都東久留米市本町3-3-1"
+      },
+      "area": {
+        "areaCode": "132225;東久留米市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132225+1+UM28",
+        "organization": "3000020132225",
+        "compartment": "子ども家庭部　児童青少年課　助成支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2018-08-21",
+      "odInformation": {
+        "updateDate": "2024-07-09",
+        "updater": "東久留米市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子及び父子並びに寡婦福祉法",
+        "regulationArticle": "第13条（母子福祉資金の貸付け）、第14条（母子・父子福祉団体に対する貸付け）、第31条の6（父子福祉資金の貸付け）、第32条（寡婦福祉資金の貸付け）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "プレ・パパママクラス"
+      },
+      "summary": "お母さん（とお父さん）が安心して赤ちゃんを迎えられるように、東久留米市では医師、歯科医師、保健師、栄養士、助産師などによる妊娠、出産、育児、栄養などに関する講義を開いています。これからお母さん（お父さん）になられる方同士の交流の場にもなりますので、ぜひお気軽にご参加ください。",
+      "description": "これからお父さんお母さんになられる方のための教室です。安心して赤ちゃんを迎えられるよう、ぜひ参加してみませんか。\n\nお友達づくりや情報交換の時間もあります。お父さんも楽しめるプログラムになっていますので、お気軽にご参加ください。\nなお、概ね妊娠20週以降の安定した時期での参加をお勧めします。\n\n申し込み先\n健康課保健サービス係 　電話：042-477-0022\n\n会場\nわくわく健康プラザ（滝山4－3－14）\n\n（1）1回目\n内容　・小児科医の話\n　　　・助産師の話\n　　　・楽しくかんたんストレッチ（動きやすい服装でお願いします）\n時間　受付時間：午後0時30分から\n　　　開催時間：午後1時から午後3時30分\n持ち物　母子健康手帳\n\n　　　　筆記用具\n\n（2）2回目\n内容　プレ・ママクッキング\n　　　・献立の紹介とデモンストレーション、実習\n　　　・妊娠中の栄養と家族の食事の話\n時間　受付時間：午後1時15分から\n　　　開催時間：午後1時30分から午後4時\n持ち物　母子健康手帳\n　　　　筆記用具\n\n　　　　エプロン\n\n　　　　三角巾\n\n（3）3回目\n内容　・ビデオ放映「赤ちゃん、このすばらしい生命」\n　　　・助産師の話「お産前後の過ごし方」\n　　　・赤ちゃんのお風呂と着替えの実習\n　　　・妊婦疑似体験（体験希望の方は受付午後0時20分）\n時間　受付時間：午後0時20分から\n\n　　　開催時間：午後1時から午後4時00分\n\n持ち物　母子健康手帳\n　　　　筆記用具\n（4）4回目\n内容　妊婦歯科健診\n　　　・歯科健診\n　　　・ブラッシングなど\n　　　・保健師による個別相談（希望者）\n　　　終了した方から順にお帰りいただけます。\n時間　受付時間：午後1時15分から2時30分（時間予約制）\n\n　　　健診時間：午後1時30分から\n\n持ち物　母子健康手帳\n　　　　歯ブラシ\n年間予定\n（1）1回目　（2）2回目　（3）3回目　（4）4回目　の内容を実施します\n令和6年5月\n（1）13日（月曜日）　（2)21日（火曜日）　（3）25日（土曜日）　（4）28日（火曜日）\n \n令和6年7月\n（1）8日（月曜日）　（2）17日（水曜日）　（3）20日（土曜日）　（4）23日（火曜日）\n\n令和6年9月\n（1）9日（月曜日）　（2）18日（水曜日）　（3）21日（土曜日）　（4）24日（火曜日）\n\n令和6年11月\n（1）5日（火曜日）　（2）12日（火曜日）　（3）16日（土曜日）　（4）26日（火曜日）\n\n令和7年1月\n（1）6日（火曜日）　（2）15日（水曜日）　（3）18日（土曜日）　（4）28日（火曜日）\n\n令和7年3月\n（1）3日（月曜日）　（2）11日（火曜日）　（3）15日（土曜日）　（4）18日（火曜日）\n\n※感染症拡大が予想される場合、予防のため、時間・内容が変更になる場合があります。\n\n参加にあたって注意していただきたいこと\n・4回通しての参加が望ましいですが、やむを得ない場合はご相談ください。\n・月によって、開催する曜日が異なりますので、ご確認ください。\n・体調不良、発熱、咳等の風邪様症状がある場合は参加を見合わせてください。\n・参加される際には、マスクの着用をお願いいたします。\n・定員に達した場合、ご希望に添えない場合があります。（完全定員予約制）",
+      "target": {
+        "targetPersons": "これからお父さんお母さんになられる方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "これからお父さんお母さんになられる方"
+      },
+      "support": {
+        "description": "（1）1回目\n内容　・小児科医の話\n　　　・助産師の話\n　　　・楽しくかんたんストレッチ（動きやすい服装でお願いします）\n\n（2）2回目\n内容　プレ・ママクッキング\n　　　・献立の紹介とデモンストレーション、実習\n　　　・妊娠中の栄養と家族の食事の話\n\n（3）3回目\n内容　・ビデオ放映「赤ちゃん、このすばらしい生命」\n　　　・助産師の話「お産前後の過ごし方」\n　　　・赤ちゃんのお風呂と着替えの実習\n　　　・妊婦疑似体験（体験希望の方は受付午後0時20分）\n\n（4）4回目\n内容　妊婦歯科健診\n　　　・歯科健診\n　　　・ブラッシングなど\n　　　・保健師による個別相談（希望者）\n　　　終了した方から順にお帰りいただけます。",
+        "monetarySupport": null,
+        "materiallySupport": "（1）1回目\n内容　・小児科医の話\n　　　・助産師の話\n　　　・楽しくかんたんストレッチ（動きやすい服装でお願いします）\n\n（2）2回目\n内容　プレ・ママクッキング\n　　　・献立の紹介とデモンストレーション、実習\n　　　・妊娠中の栄養と家族の食事の話\n\n（3）3回目\n内容　・ビデオ放映「赤ちゃん、このすばらしい生命」\n　　　・助産師の話「お産前後の過ごし方」\n　　　・赤ちゃんのお風呂と着替えの実習\n　　　・妊婦疑似体験（体験希望の方は受付午後0時20分）\n\n（4）4回目\n内容　妊婦歯科健診\n　　　・歯科健診\n　　　・ブラッシングなど\n　　　・保健師による個別相談（希望者）\n　　　終了した方から順にお帰りいただけます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "（1）1回目\n時間　受付時間：午後0時30分から\n　　　開催時間：午後1時から午後3時30分\n\n（2）2回目\n時間　受付時間：午後1時15分から\n　　　開催時間：午後1時30分から午後4時\n\n（3）3回目\n時間　受付時間：午後0時20分から\n\n　　　開催時間：午後1時から午後4時00分\n\n（4）4回目\n時間　受付時間：午後1時15分から2時30分（時間予約制）\n\n　　　健診時間：午後1時30分から\n\n年間予定\n（1）1回目　（2）2回目　（3）3回目　（4）4回目　の内容を実施します\n令和6年5月\n（1）13日（月曜日）　（2)21日（火曜日）　（3）25日（土曜日）　（4）28日（火曜日）\n \n令和6年7月\n（1）8日（月曜日）　（2）17日（水曜日）　（3）20日（土曜日）　（4）23日（火曜日）\n\n令和6年9月\n（1）9日（月曜日）　（2）18日（水曜日）　（3）21日（土曜日）　（4）24日（火曜日）\n\n令和6年11月\n（1）5日（火曜日）　（2）12日（火曜日）　（3）16日（土曜日）　（4）26日（火曜日）\n\n令和7年1月\n（1）6日（火曜日）　（2）15日（水曜日）　（3）18日（土曜日）　（4）28日（火曜日）\n\n令和7年3月\n（1）3日（月曜日）　（2）11日（火曜日）　（3）15日（土曜日）　（4）18日（火曜日）\n\n※感染症拡大が予想される場合、予防のため、時間・内容が変更になる場合があります。"
+      },
+      "implementationPlace": {
+        "implementationName": "わくわく健康プラザ",
+        "implementationAddress": "滝山4－3－14"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "これからお父さんお母さんになられる方",
+      "procedureMethod": "概ね妊娠20週以降の安定した時期での参加をお勧めします。\n\n申し込み先\n健康課保健サービス係 　電話：042-477-0022\n\n参加にあたって注意していただきたいこと\n・4回通しての参加が望ましいですが、やむを得ない場合はご相談ください。\n・月によって、開催する曜日が異なりますので、ご確認ください。\n・体調不良、発熱、咳等の風邪様症状がある場合は参加を見合わせてください。\n・参加される際には、マスクの着用をお願いいたします。\n・定員に達した場合、ご希望に添えない場合があります。（完全定員予約制）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "\n（1）1回目\n持ち物　母子健康手帳\n\n　　　　筆記用具\n\n（2）2回目\n持ち物　母子健康手帳\n　　　　筆記用具\n\n　　　　エプロン\n\n　　　　三角巾\n\n（3）3回目\n持ち物　母子健康手帳\n　　　　筆記用具\n（4）4回目\n持ち物　母子健康手帳\n　　　　歯ブラシ",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "健康課保健サービス係 　電話：042-477-0022",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000403.html",
+        "title": "プレ・パパママクラス"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　保健サービス係",
+        "contactPhone": "042-477-0022",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000403.html",
+        "contactComment": null,
+        "zipCode": "2030033",
+        "contactAddress": "東京都東久留米市滝山4-3-14"
+      },
+      "area": {
+        "areaCode": "132225;東久留米市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132225+1+UM31",
+        "organization": "3000020132225",
+        "compartment": "福祉保健部　健康課　保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-02-26",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "東久留米市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "夜間・休日急病診療所",
+        "shortName": "休日・夜間診療"
+      },
+      "summary": "東久留米市では、夜間や日曜・祝日、年末年始に、市内の医療機関の協力のもと、当番制で診療を行っています。\nなお、小児（15歳以下）のお子さんの救急の時は、小児科救急当番医をご利用ください。",
+      "description": "休日診療（内科・小児科、歯科）\n休日診療のご案内;https://www.city.higashikurume.lg.jp/kurashi/anzen/shinryo/1000246.html\n救急指定病院\n公立昭和病院\n住所：小平市花小金井8-1-1\n電話：042-461-0052\n\n公立昭和病院　（外部リンク）新しいウィンドウで開きます;http://www.kouritu-showa.jp/\n滝山病院\n住所：東久留米市滝山4-1-18\n電話：042-473-3311\n\n医療法人社団　好仁会　滝山病院　（外部リンク）新しいウィンドウで開きます;http://www.takiyama-hp.jp/\n前田病院\n住所：東久留米市中央町5-13-34\n電話：042-473-2133\n医療法人社団　山本・前田記念会　前田病院　（外部リンク）新しいウィンドウで開きます;http://www.maeda-hospital-tokyo.jp/\n平日準夜間小児初期救急診療\n平日準夜間小児初期救急診療のご案内;https://www.city.higashikurume.lg.jp/kurashi/anzen/shinryo/1002409.html\n休日準夜間診療\n休日準夜間診療医療機関のご案内;https://www.city.higashikurume.lg.jp/kurashi/anzen/shinryo/1002410.html\n休日・夜間の病院情報\n東久留米消防署\n電話：042-471-0119\n\n東京消防庁救急相談センター\n病院に行った方がいいか、救急車を呼んだ方がいいか迷ったとき\n\n・＃7119（携帯電話、PHS、プッシュ回線）\n・電話：042-521-2323（多摩地区）\n東京消防庁救急相談センター;https://www.city.higashikurume.lg.jp/kurashi/anzen/shinryo/1000247.html",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.higashikurume.lg.jp/kurashi/anzen/shinryo/1000247.html",
+          "title": "東京消防庁救急相談センター"
+        },
+        {
+          "uri": "https://www.city.higashikurume.lg.jp/kurashi/anzen/shinryo/1000246.html",
+          "title": "休日診療のご案内"
+        },
+        {
+          "uri": "http://www.maeda-hospital-tokyo.jp/",
+          "title": "医療法人社団　山本・前田記念会　前田病院　（外部リンク）新しいウィンドウで開きます"
+        },
+        {
+          "uri": "https://www.city.higashikurume.lg.jp/kurashi/anzen/shinryo/1002409.html",
+          "title": "平日準夜間小児初期救急診療のご案内"
+        },
+        {
+          "uri": "http://www.kouritu-showa.jp/",
+          "title": "公立昭和病院　（外部リンク）新しいウィンドウで開きます"
+        },
+        {
+          "uri": "https://www.city.higashikurume.lg.jp/kurashi/anzen/shinryo/1002410.html",
+          "title": "休日準夜間診療医療機関のご案内"
+        },
+        {
+          "uri": "http://www.takiyama-hp.jp/",
+          "title": "医療法人社団　好仁会　滝山病院　（外部リンク）新しいウィンドウで開きます"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashikurume.lg.jp/kurashi/anzen/shinryo/1000245.html",
+        "title": "休日・夜間診療"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　予防係",
+        "contactPhone": "042-477-0030",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/anzen/shinryo/1000245.html",
+        "contactComment": null,
+        "zipCode": "2030033",
+        "contactAddress": "東京都東久留米市滝山4-3-14"
+      },
+      "area": {
+        "areaCode": "132225;東久留米市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132225+1+UM45",
+        "organization": "3000020132225",
+        "compartment": "福祉保健部　健康課　予防係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2015-09-16",
+      "odInformation": {
+        "updateDate": "2024-07-10",
+        "updater": "東久留米市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079",
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月未満児）",
+        "shortName": "3～4か月児健康診査"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として3~4か月児健康診査を実施しています。",
+      "description": "3～4か月児、1歳6カ月児、3歳児の集団健康診査を実施しています。\n\n健診をお受けいただく時期になりましたら、ご案内を個別に通知いたします。\n\n健診時の混雑を緩和するため、受付時間を15分ごとに区切ってご案内しますので、ご協力をお願いいたします。\n\n【健診に来られる際に注意していただきたいこと】\n・混雑を避けるため、健診対象のお子さんに対し付き添いの保護者の方は原則1人でお願いします。\n・健診日前日および当日に発熱（37℃以上（乳児の場合は37.5℃以上））や風邪様症状（咳、鼻水、下痢、嘔吐等）がみられる場合には来場をお控えください（平熱が常時高い場合等は、事前にご相談ください）。\n\n　また、ご家族に感染症による登園自粛や学級閉鎖等でお休みの方がいらっしゃる場合も、念のため健診会場への来場ははご遠慮ください。\n・健診の受付前に、すべての方に対して検温をさせていただいております。37℃以上の方については再検温をさせていただき、場合によっては入場をお断りすることがございます。\n　ご理解とご協力をお願いいたします。\n\n会場\nわくわく健康プラザ（滝山4－3－14）\n\n受付時間\n午後0時30分から午後1時30分\n\n3～4か月児健康診査\n・概ね生後4か月児及びその母親を対象に健診を行います。\n・内科健診、個別相談、離乳食のお話しなどを行っています\n<令和6年度の健診日程>　＊すべて木曜日の午後\n　令和6年4月18日、5月23日、6月13日、7月4日、7月25日、8月22日、9月12日、10月3日\n　10月24日、11月14日、12月5日、令和7年1月9日、1月30日、2月20日、3月13日\n\n＊天候不順等により、健診を中止（延期）する場合があります。\n\n1歳6か月児健康診査\n・1歳6か月から1歳11カ月まで受けられます。\n・内科健診、歯科健診、ブラッシングの練習、個別相談などを行っています。\n<令和6年度の健診日程>　＊すべて木曜日の午後\n令和6年4月25日、5月16日、6月6日、6月27日、7月18日、8月8日、9月5日、9月26日\n10月17日、11月7日、11月28日、12月19日、令和7年1月23日、2月13日、3月6日\n\n＊天候不順等により、健診を中止（延期）する場合があります。\n\n3歳児健康診査\n・3歳から3歳11カ月まで受けられます。\n・内科健診、歯科健診、視力検査、尿検査、個別相談などを行っています。\n<令和6年度の健診日程>　＊すべて木曜日の午後\n令和6年4月11日、5月9日、5月30日、6月20日、7月11日、8月1日、8月29日、9月19日、　　　　　　　　10月10日、10月31日、11月21日、12月12日、令和7年1月16日、2月6日、2月27日\n\n＊天候不順等により、健診を中止（延期）する場合があります。",
+      "target": {
+        "targetPersons": "概ね生後4か月児及びその母親",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "概ね生後4か月児"
+      },
+      "support": {
+        "description": "内科健診、個別相談、離乳食のお話しなどを行っています",
+        "monetarySupport": null,
+        "materiallySupport": "内科健診、個別相談、離乳食のお話しなどを行っています"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "<令和6年度の健診日程>　＊すべて木曜日の午後\n　令和6年4月18日、5月23日、6月13日、7月4日、7月25日、8月22日、9月12日、10月3日\n　10月24日、11月14日、12月5日、令和7年1月9日、1月30日、2月20日、3月13日\n\n＊天候不順等により、健診を中止（延期）する場合があります。"
+      },
+      "implementationPlace": {
+        "implementationName": "わくわく健康プラザ",
+        "implementationAddress": "滝山4－3－14"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "健診をお受けいただく時期になりましたら、ご案内を個別に通知いたします。",
+      "procedurePersons": null,
+      "procedureMethod": "健診時の混雑を緩和するため、受付時間を15分ごとに区切ってご案内しますので、ご協力をお願いいたします。\n\n【健診に来られる際に注意していただきたいこと】\n・混雑を避けるため、健診対象のお子さんに対し付き添いの保護者の方は原則1人でお願いします。\n・健診日前日および当日に発熱（37℃以上（乳児の場合は37.5℃以上））や風邪様症状（咳、鼻水、下痢、嘔吐等）がみられる場合には来場をお控えください（平熱が常時高い場合等は、事前にご相談ください）。\n\n　また、ご家族に感染症による登園自粛や学級閉鎖等でお休みの方がいらっしゃる場合も、念のため健診会場への来場ははご遠慮ください。\n・健診の受付前に、すべての方に対して検温をさせていただいております。37℃以上の方については再検温をさせていただき、場合によっては入場をお断りすることがございます。\n　ご理解とご協力をお願いいたします。\n\n会場\nわくわく健康プラザ（滝山4－3－14）\n\n受付時間\n午後0時30分から午後1時30分",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "12:30",
+        "toYMD": null,
+        "toHM": "13:30",
+        "conditions": "午後0時30分から午後1時30分"
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000408.html",
+        "title": "乳幼児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　保健サービス係",
+        "contactPhone": "042-477-0022",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000408.html",
+        "contactComment": null,
+        "zipCode": "2030033",
+        "contactAddress": "東京都東久留米市滝山4-3-14"
+      },
+      "area": {
+        "areaCode": "132225;東久留米市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132225+1+UM49",
+        "organization": "3000020132225",
+        "compartment": "福祉保健部　健康課　保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-03",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "東久留米市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "6カ月児から7カ月児、9カ月児から10カ月児健康診査"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として乳幼児健康診査（6か月から11か月児）を実施しています。",
+      "description": "都内の契約医療機関にて無料で健診が受けられます。健診日時は医療機関に直接ご確認ください。\n\n受診票の交付\n6カ月児から7カ月児健康診査票、9カ月児から10カ月児健康診査票は、3カ月児から4カ月児健診時にお渡しします。\n\n（注意）\n\n・都外からの転入などのため受診票をお持ちでない方は、健康課へお問い合わせください 。\n・期間を過ぎると受診票が使用できなくなりますので、十分にご注意ください。",
+      "target": {
+        "targetPersons": "6カ月児から7カ月児、9カ月児から10カ月児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "6カ月児から7カ月児、9カ月児から10カ月児"
+      },
+      "support": {
+        "description": "都内の契約医療機関にて無料で健診が受けられます。",
+        "monetarySupport": null,
+        "materiallySupport": "都内の契約医療機関にて無料で健診が受けられます。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "6カ月児から7カ月児健康診査票、9カ月児から10カ月児健康診査票は、3カ月児から4カ月児健診時にお渡しします。",
+      "procedurePersons": null,
+      "procedureMethod": "健診日時は医療機関に直接ご確認ください。\n\n（注意）\n\n・都外からの転入などのため受診票をお持ちでない方は、健康課へお問い合わせください 。\n・期間を過ぎると受診票が使用できなくなりますので、十分にご注意ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "都外からの転入などのため受診票をお持ちでない方は、健康課",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000407.html",
+        "title": "6カ月児から7カ月児、9カ月児から10カ月児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　保健サービス係",
+        "contactPhone": "042-477-0022",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000407.html",
+        "contactComment": null,
+        "zipCode": "2030033",
+        "contactAddress": "東京都東久留米市滝山4-3-14"
+      },
+      "area": {
+        "areaCode": "132225;東久留米市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132225+1+UM50",
+        "organization": "3000020132225",
+        "compartment": "福祉保健部　健康課　保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2015-03-21",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "東久留米市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "1歳6か月児健康診査",
+        "shortName": "1歳6か月児健康診査"
+      },
+      "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。東久留米市では1歳6か月児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "3～4か月児、1歳6カ月児、3歳児の集団健康診査を実施しています。\n\n健診をお受けいただく時期になりましたら、ご案内を個別に通知いたします。\n\n健診時の混雑を緩和するため、受付時間を15分ごとに区切ってご案内しますので、ご協力をお願いいたします。\n\n【健診に来られる際に注意していただきたいこと】\n・混雑を避けるため、健診対象のお子さんに対し付き添いの保護者の方は原則1人でお願いします。\n・健診日前日および当日に発熱（37℃以上（乳児の場合は37.5℃以上））や風邪様症状（咳、鼻水、下痢、嘔吐等）がみられる場合には来場をお控えください（平熱が常時高い場合等は、事前にご相談ください）。\n\n　また、ご家族に感染症による登園自粛や学級閉鎖等でお休みの方がいらっしゃる場合も、念のため健診会場への来場ははご遠慮ください。\n・健診の受付前に、すべての方に対して検温をさせていただいております。37℃以上の方については再検温をさせていただき、場合によっては入場をお断りすることがございます。\n　ご理解とご協力をお願いいたします。\n\n会場\nわくわく健康プラザ（滝山4－3－14）\n\n受付時間\n午後0時30分から午後1時30分\n\n3～4か月児健康診査\n・概ね生後4か月児及びその母親を対象に健診を行います。\n・内科健診、個別相談、離乳食のお話しなどを行っています\n<令和6年度の健診日程>　＊すべて木曜日の午後\n　令和6年4月18日、5月23日、6月13日、7月4日、7月25日、8月22日、9月12日、10月3日\n　10月24日、11月14日、12月5日、令和7年1月9日、1月30日、2月20日、3月13日\n\n＊天候不順等により、健診を中止（延期）する場合があります。\n\n1歳6か月児健康診査\n・1歳6か月から1歳11カ月まで受けられます。\n・内科健診、歯科健診、ブラッシングの練習、個別相談などを行っています。\n<令和6年度の健診日程>　＊すべて木曜日の午後\n令和6年4月25日、5月16日、6月6日、6月27日、7月18日、8月8日、9月5日、9月26日\n10月17日、11月7日、11月28日、12月19日、令和7年1月23日、2月13日、3月6日\n\n＊天候不順等により、健診を中止（延期）する場合があります。\n\n3歳児健康診査\n・3歳から3歳11カ月まで受けられます。\n・内科健診、歯科健診、視力検査、尿検査、個別相談などを行っています。\n<令和6年度の健診日程>　＊すべて木曜日の午後\n令和6年4月11日、5月9日、5月30日、6月20日、7月11日、8月1日、8月29日、9月19日、　　　　　　　　10月10日、10月31日、11月21日、12月12日、令和7年1月16日、2月6日、2月27日\n\n＊天候不順等により、健診を中止（延期）する場合があります。",
+      "target": {
+        "targetPersons": "1歳6か月から1歳11カ月まで",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 11
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1歳6か月から1歳11カ月まで"
+      },
+      "support": {
+        "description": "内科健診、歯科健診、ブラッシングの練習、個別相談などを行っています。",
+        "monetarySupport": null,
+        "materiallySupport": "内科健診、歯科健診、ブラッシングの練習、個別相談などを行っています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "<令和6年度の健診日程>　＊すべて木曜日の午後\n令和6年4月25日、5月16日、6月6日、6月27日、7月18日、8月8日、9月5日、9月26日\n10月17日、11月7日、11月28日、12月19日、令和7年1月23日、2月13日、3月6日\n\n＊天候不順等により、健診を中止（延期）する場合があります。"
+      },
+      "implementationPlace": {
+        "implementationName": "わくわく健康プラザ",
+        "implementationAddress": "滝山4－3－14"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "健診をお受けいただく時期になりましたら、ご案内を個別に通知いたします。",
+      "procedurePersons": null,
+      "procedureMethod": "健診時の混雑を緩和するため、受付時間を15分ごとに区切ってご案内しますので、ご協力をお願いいたします。\n\n【健診に来られる際に注意していただきたいこと】\n・混雑を避けるため、健診対象のお子さんに対し付き添いの保護者の方は原則1人でお願いします。\n・健診日前日および当日に発熱（37℃以上（乳児の場合は37.5℃以上））や風邪様症状（咳、鼻水、下痢、嘔吐等）がみられる場合には来場をお控えください（平熱が常時高い場合等は、事前にご相談ください）。\n\n　また、ご家族に感染症による登園自粛や学級閉鎖等でお休みの方がいらっしゃる場合も、念のため健診会場への来場ははご遠慮ください。\n・健診の受付前に、すべての方に対して検温をさせていただいております。37℃以上の方については再検温をさせていただき、場合によっては入場をお断りすることがございます。\n　ご理解とご協力をお願いいたします。\n\n会場\nわくわく健康プラザ（滝山4－3－14）\n\n受付時間\n午後0時30分から午後1時30分",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000408.html",
+        "title": "乳幼児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　保健サービス係",
+        "contactPhone": "042-477-0022",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000408.html",
+        "contactComment": null,
+        "zipCode": "2030033",
+        "contactAddress": "東京都東久留米市滝山4-3-14"
+      },
+      "area": {
+        "areaCode": "132225;東久留米市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132225+1+UM51",
+        "organization": "3000020132225",
+        "compartment": "福祉保健部　健康課　保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-03",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "東久留米市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "3歳児健康診査",
+        "shortName": "3歳児健康診査"
+      },
+      "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。東久留米市では3歳児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "3～4か月児、1歳6カ月児、3歳児の集団健康診査を実施しています。\n\n健診をお受けいただく時期になりましたら、ご案内を個別に通知いたします。\n\n健診時の混雑を緩和するため、受付時間を15分ごとに区切ってご案内しますので、ご協力をお願いいたします。\n\n【健診に来られる際に注意していただきたいこと】\n・混雑を避けるため、健診対象のお子さんに対し付き添いの保護者の方は原則1人でお願いします。\n・健診日前日および当日に発熱（37℃以上（乳児の場合は37.5℃以上））や風邪様症状（咳、鼻水、下痢、嘔吐等）がみられる場合には来場をお控えください（平熱が常時高い場合等は、事前にご相談ください）。\n\n　また、ご家族に感染症による登園自粛や学級閉鎖等でお休みの方がいらっしゃる場合も、念のため健診会場への来場ははご遠慮ください。\n・健診の受付前に、すべての方に対して検温をさせていただいております。37℃以上の方については再検温をさせていただき、場合によっては入場をお断りすることがございます。\n　ご理解とご協力をお願いいたします。\n\n会場\nわくわく健康プラザ（滝山4－3－14）\n\n受付時間\n午後0時30分から午後1時30分\n\n3～4か月児健康診査\n・概ね生後4か月児及びその母親を対象に健診を行います。\n・内科健診、個別相談、離乳食のお話しなどを行っています\n<令和6年度の健診日程>　＊すべて木曜日の午後\n　令和6年4月18日、5月23日、6月13日、7月4日、7月25日、8月22日、9月12日、10月3日\n　10月24日、11月14日、12月5日、令和7年1月9日、1月30日、2月20日、3月13日\n\n＊天候不順等により、健診を中止（延期）する場合があります。\n\n1歳6か月児健康診査\n・1歳6か月から1歳11カ月まで受けられます。\n・内科健診、歯科健診、ブラッシングの練習、個別相談などを行っています。\n<令和6年度の健診日程>　＊すべて木曜日の午後\n令和6年4月25日、5月16日、6月6日、6月27日、7月18日、8月8日、9月5日、9月26日\n10月17日、11月7日、11月28日、12月19日、令和7年1月23日、2月13日、3月6日\n\n＊天候不順等により、健診を中止（延期）する場合があります。\n\n3歳児健康診査\n・3歳から3歳11カ月まで受けられます。\n・内科健診、歯科健診、視力検査、尿検査、個別相談などを行っています。\n<令和6年度の健診日程>　＊すべて木曜日の午後\n令和6年4月11日、5月9日、5月30日、6月20日、7月11日、8月1日、8月29日、9月19日、　　　　　　　　10月10日、10月31日、11月21日、12月12日、令和7年1月16日、2月6日、2月27日\n\n＊天候不順等により、健診を中止（延期）する場合があります。",
+      "target": {
+        "targetPersons": "3歳から3歳11カ月まで",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": 11
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "3歳から3歳11カ月まで"
+      },
+      "support": {
+        "description": "内科健診、歯科健診、視力検査、尿検査、個別相談などを行っています。",
+        "monetarySupport": null,
+        "materiallySupport": "内科健診、歯科健診、視力検査、尿検査、個別相談などを行っています。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "<令和6年度の健診日程>　＊すべて木曜日の午後\n令和6年4月11日、5月9日、5月30日、6月20日、7月11日、8月1日、8月29日、9月19日、　　　　　　　　10月10日、10月31日、11月21日、12月12日、令和7年1月16日、2月6日、2月27日\n\n＊天候不順等により、健診を中止（延期）する場合があります。"
+      },
+      "implementationPlace": {
+        "implementationName": "わくわく健康プラザ",
+        "implementationAddress": "滝山4－3－14"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "健診をお受けいただく時期になりましたら、ご案内を個別に通知いたします。",
+      "procedurePersons": null,
+      "procedureMethod": "健診時の混雑を緩和するため、受付時間を15分ごとに区切ってご案内しますので、ご協力をお願いいたします。\n\n【健診に来られる際に注意していただきたいこと】\n・混雑を避けるため、健診対象のお子さんに対し付き添いの保護者の方は原則1人でお願いします。\n・健診日前日および当日に発熱（37℃以上（乳児の場合は37.5℃以上））や風邪様症状（咳、鼻水、下痢、嘔吐等）がみられる場合には来場をお控えください（平熱が常時高い場合等は、事前にご相談ください）。\n\n　また、ご家族に感染症による登園自粛や学級閉鎖等でお休みの方がいらっしゃる場合も、念のため健診会場への来場ははご遠慮ください。\n・健診の受付前に、すべての方に対して検温をさせていただいております。37℃以上の方については再検温をさせていただき、場合によっては入場をお断りすることがございます。\n　ご理解とご協力をお願いいたします。\n\n会場\nわくわく健康プラザ（滝山4－3－14）\n\n受付時間\n午後0時30分から午後1時30分",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000408.html",
+        "title": "乳幼児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　保健サービス係",
+        "contactPhone": "042-477-0022",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000408.html",
+        "contactComment": null,
+        "zipCode": "2030033",
+        "contactAddress": "東京都東久留米市滝山4-3-14"
+      },
+      "area": {
+        "areaCode": "132225;東久留米市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132225+1+UM52",
+        "organization": "3000020132225",
+        "compartment": "福祉保健部　健康課　保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-03",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "東久留米市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出生連絡票・低体重児出生届",
+        "shortName": "赤ちゃん訪問"
+      },
+      "summary": "赤ちゃんが生まれたら、出生通知票を提出してください。出生通知票をもとに、「こんにちは赤ちゃん事業（乳幼児全戸訪問）」のご連絡をします。\nなお、法律（母子保健法）で2,500グラム未満のお子さんが出生した時は、保護者がその旨を速やかに届け出ることが義務づけられており、出生通知票はその届出を兼ねています。",
+      "description": "ご出産おめでとうございます。\n赤ちゃん・お母さま方のご様子はいかがですか？\n\n赤ちゃんのかわいさや子育ての楽しさを感じることも多い反面、時には不安になったり戸惑ったりすることも多いと思います。\n東久留米市では、健やかな赤ちゃんの成長を願い、生後4カ月未満の赤ちゃんのいるすべてのご家庭を保健師・助産師が訪問しています。赤ちゃんの体重をはかったり、お母さま方の体調や育児のご相談等をお受けします。\n\n赤ちゃんがお生まれになりましたら、母子手帳の中に入っている出生通知票（ハガキ）に記入し、できるだけお早めにお出しください。ご都合の良い時に訪問させていただきますので、お気軽にご利用ください。お急ぎの場合は、直接健康課にご連絡ください。\n\n赤ちゃん訪問のQ＆A\nどんなことをするの？\n体重をはかったり、母乳・ミルクのことや日頃気になる赤ちゃんのことなど、育児の相談、お母さま、ご家族のことなどのご相談をお受けします。\n費用は一切かかりません。\n\nいつ来てくれますか？\n生後4カ月までにお伺いします。\nご都合のよい時に訪問させていただきますので、お気軽にご利用ください。\n\nどんな人がくるの？\n保健師や助産師がお伺いします。\n\n二人目だけど利用できますか？\nご利用できます。\n何人目のお子さまでも、赤ちゃんがお生まれになったすべてのご家庭にお伺いします。\n\n里帰りしたら利用できないの？\n里帰り先と東久留米市の両方で訪問がご利用できます。\n里帰り先での訪問をご希望される場合は、里帰り先の市区町村へ直接お問い合わせください。\n東久留米市へお帰りになってからも、訪問させていただきますので、ご連絡ください。",
+      "target": {
+        "targetPersons": "生後4カ月未満の赤ちゃんのいるすべてのご家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後4カ月未満の赤ちゃんのいるすべてのご家庭"
+      },
+      "support": {
+        "description": "東久留米市では、健やかな赤ちゃんの成長を願い、生後4カ月未満の赤ちゃんのいるすべてのご家庭を保健師・助産師が訪問しています。赤ちゃんの体重をはかったり、お母さま方の体調や育児のご相談等をお受けします。",
+        "monetarySupport": null,
+        "materiallySupport": "東久留米市では、健やかな赤ちゃんの成長を願い、生後4カ月未満の赤ちゃんのいるすべてのご家庭を保健師・助産師が訪問しています。赤ちゃんの体重をはかったり、お母さま方の体調や育児のご相談等をお受けします。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "赤ちゃんがお生まれになりましたら、出生通知票をできるだけお早めにお出しください。ご都合の良い時に訪問させていただきますので、お気軽にご利用ください。お急ぎの場合は、直接健康課にご連絡ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000405.html",
+        "title": "赤ちゃん訪問"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　保健サービス係",
+        "contactPhone": "042-477-0022",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000405.html",
+        "contactComment": null,
+        "zipCode": "2030033",
+        "contactAddress": "東京都東久留米市滝山4-3-14"
+      },
+      "area": {
+        "areaCode": "132225;東久留米市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132225+1+UM791",
+        "organization": "3000020132225",
+        "compartment": "福祉保健部　健康課　保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2015-03-21",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "東久留米市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第18条（低体重児の届出）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "077"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児の歯の健康診査（2歳児歯科健康診査）",
+        "shortName": "2歳児歯科健診"
+      },
+      "summary": "乳歯が生えそろうこの時期は、むし歯が急増する時期でもあります。2歳児歯科健康診査を受けて、むし歯の予防と早期発見をめざしましょう。",
+      "description": "2歳児の集団歯科健康診査を実施しています。\n・健診をお受けいただく時期になりましたら、ご案内を個別に通知いたします。\n・2歳から2歳6カ月頃まで受けられます。\n・歯科健診、歯みがき指導、育児相談などを行っています。※内科の診察はありません。\n \n会場\nわくわく健康プラザ1階　（滝山4－3－14）\n※西武バス　団地センターバス停（滝山営業所行き）より徒歩5分／ガスミュージアムバス停（錦城高校経由　武蔵小金井駅行き）より徒歩5分\n※駐車場はありますが、混雑時には近隣コインパーキングをご利用ください。\n\n持ち物\n・記入済みアンケート（A3みず色　事前にご案内と一緒にお送りしています）\n・母子手帳\n・子ども用歯ブラシ、ハンドタオル\n※その他、お出かけセットなど必要なものをお持ちください。\n\n受付時間\n午前9時15分から10時45分\n※混雑緩和のため、受付時間を15分間隔で区切らせていただいております。　　　　　　　　　　　　　　　　　　　ご案内に記載された時間にお越しください。\n※指定された日時に来所が難しい場合は変更が可能です。健康課保健サービス係（042－477-0022）までご連絡ください。\n※受付前に会場内に入られる方全員の検温をさせていただきます。発熱や風邪様症状がみられた場合は、入場をお断りさせていただく場合がございます。ご理解・ご協力のほどお願いいたします。\n\n令和6年度の健診日程\n＊すべて水曜日\n令和6年\n・4月10日\n・5月8日\n・6月5日\n・7月3日\n・8月7日\n・9月4日\n・10月2日\n・11月6日\n・12月4日\n令和7年\n・1月8日\n・2月5日\n・3月5日",
+      "target": {
+        "targetPersons": "2歳から2歳6カ月頃まで受けられます。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "2歳から2歳6カ月頃まで受けられます。"
+      },
+      "support": {
+        "description": "2歳児の集団歯科健康診査を実施しています。\n歯科健診、歯みがき指導、育児相談などを行っています。※内科の診察はありません。",
+        "monetarySupport": null,
+        "materiallySupport": "2歳児の集団歯科健康診査を実施しています。\n歯科健診、歯みがき指導、育児相談などを行っています。※内科の診察はありません。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "令和6年度の健診日程\n＊すべて水曜日\n令和6年\n・4月10日\n・5月8日\n・6月5日\n・7月3日\n・8月7日\n・9月4日\n・10月2日\n・11月6日\n・12月4日\n令和7年\n・1月8日\n・2月5日\n・3月5日"
+      },
+      "implementationPlace": {
+        "implementationName": "わくわく健康プラザ1階",
+        "implementationAddress": "滝山4－3－14"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "健診をお受けいただく時期になりましたら、ご案内を個別に通知いたします。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "09:15",
+        "toYMD": null,
+        "toHM": "10:45",
+        "conditions": "受付時間\n午前9時15分から10時45分\n※混雑緩和のため、受付時間を15分間隔で区切らせていただいております。ご案内に記載された時間にお越しください。"
+      },
+      "electronicSubmission": false,
+      "belongings": "・記入済みアンケート（A3みず色　事前にご案内と一緒にお送りしています）\n・母子手帳\n・子ども用歯ブラシ、ハンドタオル\n※その他、お出かけセットなど必要なものをお持ちください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000409.html",
+        "title": "2歳児歯科健診"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "福祉保健部　健康課　保健サービス係",
+        "contactPhone": "042-477-0022",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000409.html",
+        "contactComment": null,
+        "zipCode": "2030033",
+        "contactAddress": "東京都東久留米市滝山4-3-14"
+      },
+      "area": {
+        "areaCode": "132225;東久留米市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132225+1+UM792",
+        "organization": "3000020132225",
+        "compartment": "福祉保健部　健康課　保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-15",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "東久留米市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後期間の国民年金保険料免除",
+        "shortName": "産前産後期間の保険料免除制度"
+      },
+      "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+      "description": "国民年金第1号被保険者が出産を行った際には、出産前後の一定期間の国民年金保険料が免除されます。産前産後期間として認められた期間は保険料を納付したものとして老齢基礎年金の受給額に反映されます。手続き先は、市役所保険年金課です。\n\n国民年金保険料が免除される期間\n出産予定日又は出産日が属する月の前月から4か月間の国民年金保険料が免除されます。\nなお、多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。\n\n※出産とは、妊娠85日（4か月）以上の出産をいいます。（死産、流産、早産された方を含みます。）\n\n対象となる方\n「国民年金第1号被保険者」で出産日が平成31年2月1日以降の方\n\n手続きに必要なもの\n出産予定日の6か月前から提出可能です。\n\n出産前に提出する方\n母子健康手帳、医療機関が発行した出産の予定日の証明書等出産の予定日を明らかにすることができる書類\n基礎年金番号がわかるもの（基礎年金番号通知書、年金手帳等）またはマイナンバー確認書類（マイナンバーカード等）\n手続きする方の身元確認書類（運転免許証等）\n＊別世帯の代理人が手続きする場合には、上記の他に、委任状が必要です。\n\n出産後に提出する方\n出産日は市役所で確認できるため、出産日の証明書類は原則不要です。\nただし、被保険者と子が別世帯の場合など親子関係が不明なときは、出生証明書など出産日及び親子関係を明らかにする書類\n基礎年金番号がわかるもの（基礎年金番号通知書、年金手帳等）またはマイナンバー確認書類（マイナンバーカード等）\n手続きする方の身元確認書類（運転免許証等）\n＊別世帯の代理人が手続きする場合には、上記の他に、委任状が必要です。\n\n関連情報\n国民年金保険料の産前産後期間の免除制度　（外部リンク）;https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html",
+      "target": {
+        "targetPersons": "「国民年金第1号被保険者」で出産日が平成31年2月1日以降の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "出産予定日又は出産日が属する月の前月から4か月間の国民年金保険料が免除されます。\nなお、多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。\n\n※出産とは、妊娠85日（4か月）以上の出産をいいます。（死産、流産、早産された方を含みます。）",
+        "monetarySupport": "出産予定日又は出産日が属する月の前月から4か月間の国民年金保険料が免除されます。\nなお、多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間の国民年金保険料が免除されます。\n\n※出産とは、妊娠85日（4か月）以上の出産をいいます。（死産、流産、早産された方を含みます。）",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "国民年金被保険者関係届書（申出書）を提出してください。マイナポータルからの電子申請も可能です。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産予定日の6か月前から提出可能です。"
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳など（出産後は、市役所で確認ができる場合は不要です。）※別世帯の子の場合、出生証明書など出産日および親子関係を明らかにする書類が必要です。\n基礎年金番号がわかるもの（基礎年金番号通知書、年金手帳等）またはマイナンバー確認書類（マイナンバーカード等）\n手続きする方の身元確認書類（運転免許証等）\n＊別世帯の代理人が手続きする場合には、上記の他に、委任状が必要です。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "市役所保険年金課または武蔵野年金事務所\nマイナポータルからの電子申請も可能です。",
+      "relatedLink": [
+        {
+          "uri": "https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html",
+          "title": "国民年金保険料の産前産後期間の免除制度　（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashikurume.lg.jp/kurashi/zei/nenkin/1012572.html",
+        "title": "国民年金保険料の産前産後期間の免除制度"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.nenkin.go.jp/denshibenri_kojin/denshibenri_kojin/mynaportal.html",
+          "title": "電子申請（マイナポータル）"
+        }
+      ],
+      "contact": {
+        "contactName": "福祉保健部　保険年金課　国保年金資格係",
+        "contactPhone": "042-470-7732",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/zei/nenkin/1012572.html",
+        "contactComment": null,
+        "zipCode": "2038555",
+        "contactAddress": "東京都東久留米市本町3-3-1"
+      },
+      "area": {
+        "areaCode": "132225;東久留米市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132225+1+UM793",
+        "organization": "3000020132225",
+        "compartment": "福祉保健部　保険年金課　国保年金資格係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-08",
+        "updater": "東久留米市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民年金法",
+        "regulationArticle": "第88条の2（保険料の納付義務）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "016"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "東久留米市の子育てに関する相談",
+        "shortName": "乳幼児歯科相（歯科健診）"
+      },
+      "summary": "東久留米市では、お子さまの虫歯予防のために乳幼児歯科健診を実施しています。",
+      "description": "乳幼児歯科相談は、お子さまの虫歯予防のために市が実施している定期歯科健診です。\nおおむね4歳のお誕生月までご利用いただけます。\n当日は歯科健診のほか、歯みがき練習を行います。\n必要に応じてフッ化物塗布などの予防処置（有料）を実施します。\n\n日程\n令和6年\n・3月1日・22日\n・4月12日・26日\n・5月10日・24日\n・6月7日・21日\n・7月5日・19日\n・8月2日・23日\n・9月6日・20日\n・10月11日・25日\n・11月8日・22日\n・12月6日・20日\n令和7年\n・1月10日・24日\n・2月14日\n・3月7日・21日\nいずれも金曜日\n\n時間\n・午後1時20分から1時45分\n・午後1時45分から2時\n・午後2時から2時15分\n・午後2時15分から2時30分\n　※受付時間を上記の通り区切らせていただいています （予約制）\n　※午後1時30分から健診開始\n　※午前に実施の回もあります。詳しくはお問い合わせください。\n\n会場\nわくわく健康プラザ\n対象\n0歳～おおむね4歳の誕生月までの乳幼児\n申し込み\n電話にて健康課保健サービス係（電話042-477-0022）\nまたは、予約専用フォーム（下記）へ\n\n関連情報\n乳幼児歯科相談　予約専用フォーム　（外部リンク）;https://logoform.jp/form/985h/124473",
+      "target": {
+        "targetPersons": "0歳～おおむね4歳の誕生月までの乳幼児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "0歳～おおむね4歳の誕生月までの乳幼児"
+      },
+      "support": {
+        "description": "乳幼児歯科相談は、お子さまの虫歯予防のために市が実施している定期歯科健診です。\nおおむね4歳のお誕生月までご利用いただけます。\n当日は歯科健診のほか、歯みがき練習を行います。",
+        "monetarySupport": null,
+        "materiallySupport": "乳幼児歯科相談は、お子さまの虫歯予防のために市が実施している定期歯科健診です。\nおおむね4歳のお誕生月までご利用いただけます。\n当日は歯科健診のほか、歯みがき練習を行います。"
+      },
+      "cost": null,
+      "costConditions": "必要に応じてフッ化物塗布などの予防処置（有料）を実施します。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "日程\n令和6年\n・3月1日・22日\n・4月12日・26日\n・5月10日・24日\n・6月7日・21日\n・7月5日・19日\n・8月2日・23日\n・9月6日・20日\n・10月11日・25日\n・11月8日・22日\n・12月6日・20日\n令和7年\n・1月10日・24日\n・2月14日\n・3月7日・21日\nいずれも金曜日\n\n時間\n・午後1時20分から1時45分\n・午後1時45分から2時\n・午後2時から2時15分\n・午後2時15分から2時30分\n　※受付時間を上記の通り区切らせていただいています （予約制）\n　※午後1時30分から健診開始\n　※午前に実施の回もあります。詳しくはお問い合わせください。"
+      },
+      "implementationPlace": {
+        "implementationName": "わくわく健康プラザ",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "電話にて健康課保健サービス係（電話042-477-0022）\nまたは、予約専用フォーム（下記）へ\n乳幼児歯科相談　予約専用フォーム　（外部リンク）;https://logoform.jp/form/985h/124473",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "健康課保健サービス係（電話042-477-0022）",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000411.html",
+        "title": "乳幼児歯科相談（歯科健診）"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/985h/124473",
+          "title": "乳幼児歯科相談　予約専用フォーム"
+        }
+      ],
+      "contact": {
+        "contactName": "福祉保健部　健康課　保健サービス係",
+        "contactPhone": "042-477-0022",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://www.city.higashikurume.lg.jp/kurashi/kenko/boshi/1000411.html",
+        "contactComment": null,
+        "zipCode": "2030033",
+        "contactAddress": "東京都東久留米市滝山4-3-14"
+      },
+      "area": {
+        "areaCode": "132225;東久留米市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132225+2+UM119",
+        "organization": "3000020132225",
+        "compartment": "福祉保健部　健康課　保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-05",
+      "odInformation": {
+        "updateDate": "2024-07-01",
+        "updater": "東久留米市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

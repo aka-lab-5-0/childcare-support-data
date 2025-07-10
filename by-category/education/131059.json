@@ -1,0 +1,1364 @@
+{
+  "version": "2025-07-10T02:38:54.095Z",
+  "areaCode": "131059",
+  "areaName": "文京区",
+  "category": "education",
+  "count": 10,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+        "shortName": "こんにちは赤ちゃん訪問（新生児訪問）"
+      },
+      "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+      "description": "出産後の早い時期は、お母さん自身の体調も整わないことが多く、赤ちゃんとの生活にも慣れず、不安になりやすい時期です。\nひとりで不安を抱え込まずに、ぜひ「こんにちは赤ちゃん訪問（新生児訪問）事業」をご利用ください。費用は無料です。\n今後の子育て情報もご案内します。\n○「こんにちは赤ちゃん訪問」は、これまでの「新生児訪問」の対象を拡大し、赤ちゃんが生まれたすべてのご家庭を助産師又は保健師が訪問するものです。\n同封のアンケートにつきましては、事前にご記入いただき、訪問時に保健師もしくは助産師にお渡しください。",
+      "target": {
+        "targetPersons": "区内在住で、生後4か月までの乳児と保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "○赤ちゃんの体重測定や育児の相談\n○産後の体調についての相談\n○子育て情報の提供",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "○ご家庭内に、体温が37.5度以上またはかぜ症状の方がいらっしゃる場合は、訪問を延期・中止とさせて頂きます。"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "赤ちゃんが生まれたらすぐに、「母と子の保健バック」または「母子手帳」に入っている『出生通知票』を郵送してください。\n『出生通知票』をもとに、助産師又は保健師が日程調整のお電話をしてから家庭訪問します。日程調整のお電話は、携帯電話からご連絡させていただく場合がありますのでご了承ください。\n転入等で『出生通知票』がない方、里帰り出産の方は、お問い合わせください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "事前準備のお願い\n○同封アンケート用紙のご記入\n○母子健康手帳\n○バスタオル（体重測定時に使用）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "保健サービスセンター管轄表\n| |保健サービスセンター|保健サービスセンター本郷支所|\n|:----|:----|:----|\n|お住まいの地域|後楽1・2丁目|白山1・5丁目|\n| |春日1・2丁目|本郷3・7丁目|\n| |小石川1・2・3・4・5丁目|湯島1・2・3・4丁目|\n| |白山2・3・4丁目|西片2丁目|\n| |千石1・2・3・4丁目|向丘1・2丁目|\n| |水道1・2丁目|弥生1・2丁目|\n| |小日向1・2・3・4丁目|根津1・2丁目|\n| |大塚1・2・3・4・5・6丁目|千駄木1・2・3・4・5丁目|\n| |関口1・2・3丁目|本駒込1・2・3・4・5・6丁目|\n| |目白台1・2・3丁目| |\n| |音羽1・2丁目| |\n| |本郷1・2丁目| |\n| |本郷4・5・6丁目| |\n| |西片1丁目| |",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.bunkyo.lg.jp/b029/p001542.html",
+        "title": "こんにちは赤ちゃん訪問（新生児訪問）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健衛生部・文京保健所保健サービスセンター,保健衛生部・文京保健所保健サービスセンター本郷支所",
+        "contactPhone": "03-5803-1807,03-3821-5106",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://logoform.jp/form/6KSu/554248",
+        "contactComment": "FAX：03-5803-1371",
+        "zipCode": "1128555,1130022",
+        "contactAddress": "東京都文京区春日1丁目16番21号 シビックセンター3階(健診フロア）、8階北側（事務室）,東京都文京区千駄木5丁目20番18号"
+      },
+      "area": {
+        "areaCode": "131059;文京区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131059+1+UM14",
+        "organization": "6000020131059",
+        "compartment": "保健衛生部・文京保健所保健サービスセンター,保健衛生部・文京保健所保健サービスセンター本郷支所",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/05/13",
+      "odInformation": {
+        "updateDate": "2025/03/10",
+        "updater": "文京区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第21条の10の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊娠・出産に関する教室・講習会",
+        "shortName": "プレママ・クッキング"
+      },
+      "summary": "お母さんになられる方を対象に、プレママ・クッキングを開催しています。",
+      "description": "プレママ・クッキング\n栄養は十分に摂れているの？食事バランスはどうすればとれるの？\n\n不足しがちな栄養素を、手軽な料理でプラスしましょう！\n\n出産後のママのお食事や離乳食にも役立つメニューを紹介します。\n\n日時・会場・申込\n令和6年度の予定\n|開催日|時間|申込開始日|会場|問合せ先|\n|:----|:----|:----|:----|:----|\n|令和6年<br><br>6月12日（水曜日）|13時30分～14時30分|令和6年<br><br>5月14日<br><br>（火曜日）|オンライン「Zoom Meeting(ビデオ会議システム)」|保健サービスセンター|\n|9月5日<br><br>（木曜日）|13時30分～14時30分|8月6日<br><br>（火曜日）|オンライン「Zoom Meeting(ビデオ会議システム)」|保健サービスセンター|\n|令和7年<br><br>1月24日（金曜日）|13時30分～14時30分|12月17日（火曜日）|保健サービスセンター 本郷支所|保健サービスセンター 本郷支所|\n\n各申込開始日の午前8時30分から申込フォームが公開されます。\n\nオンライン講座の場合、通信費等は自己負担となります\n\n申込先：プレママクッキング申込フォーム（外部リンク）;https://logoform.jp/form/6KSu/premom\n\n対象・定員\n区内在住の妊娠中の方\n各回20人（申込順。定員を調整する場合があります。）\n\n内容\n妊娠中の栄養についての講義・調理実演\n\n費用\n無料\n\n持ち物\n筆記用具\n\n関連リンク\n母親学級;https://www.city.bunkyo.lg.jp/b029/p001540.html",
+      "target": {
+        "targetPersons": "区内在住の妊娠中の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠中の栄養についての講義・調理実演",
+        "monetarySupport": null,
+        "materiallySupport": "妊娠中の栄養についての講義・調理実演"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "13:30",
+        "toYMD": null,
+        "toHM": "14:30",
+        "conditions": "|開催日|時間|申込開始日|会場|問合せ先|\n|:----|:----|:----|:----|:----|\n|令和6年<br><br>6月12日（水曜日）|13時30分～14時30分|令和6年<br><br>5月14日<br><br>（火曜日）|オンライン「Zoom Meeting(ビデオ会議システム)」|保健サービスセンター|\n|9月5日<br><br>（木曜日）|13時30分～14時30分|8月6日<br><br>（火曜日）|オンライン「Zoom Meeting(ビデオ会議システム)」|保健サービスセンター|\n|令和7年<br><br>1月24日（金曜日）|13時30分～14時30分|12月17日（火曜日）|保健サービスセンター 本郷支所|保健サービスセンター 本郷支所|\n"
+      },
+      "implementationPlace": {
+        "implementationName": "|開催日|時間|申込開始日|会場|問合せ先|\n|:----|:----|:----|:----|:----|\n|令和6年<br><br>6月12日（水曜日）|13時30分～14時30分|令和6年<br><br>5月14日<br><br>（火曜日）|オンライン「Zoom Meeting(ビデオ会議システム)」|保健サービスセンター|\n|9月5日<br><br>（木曜日）|13時30分～14時30分|8月6日<br><br>（火曜日）|オンライン「Zoom Meeting(ビデオ会議システム)」|保健サービスセンター|\n|令和7年<br><br>1月24日（金曜日）|13時30分～14時30分|12月17日（火曜日）|保健サービスセンター 本郷支所|保健サービスセンター 本郷支所|\n",
+        "implementationAddress": null
+      },
+      "capacity": "各回20人（申込順。定員を調整する場合があります。）",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "各申込開始日の午前8時30分から申込フォームが公開されます。\n\nオンライン講座の場合、通信費等は自己負担となります\n\n申込先：プレママクッキング申込フォーム（外部リンク）;https://logoform.jp/form/6KSu/premom",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "各申込開始日の午前8時30分から申込フォームが公開されます。"
+      },
+      "electronicSubmission": true,
+      "belongings": "筆記用具",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.bunkyo.lg.jp/b029/p001540.html",
+          "title": "母親学級"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.bunkyo.lg.jp/b029/p001567.html",
+        "title": "プレママ・クッキング"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/6KSu/premom",
+          "title": "プレママクッキング申込フォーム（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "保健衛生部・文京保健所保健サービスセンター,保健衛生部・文京保健所保健サービスセンター本郷支所",
+        "contactPhone": "03-5803-1807,03-3821-5106",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://logoform.jp/form/6KSu/554248,https://logoform.jp/form/6KSu/554248",
+        "contactComment": "ファクス番号：03-5803-1371,ファクス番号：03-3822-9174",
+        "zipCode": "1128555,1130022",
+        "contactAddress": "東京都文京区春日1丁目16番21号\nシビックセンター3階(健診フロア）、8階北側（事務室）,東京都文京区千駄木5丁目20番18号"
+      },
+      "area": {
+        "areaCode": "131059;文京区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131059+1+UM33",
+        "organization": "6000020131059",
+        "compartment": "保健衛生部・文京保健所保健サービスセンター,保健衛生部・文京保健所保健サービスセンター本郷支所",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-08",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "文京区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の妊娠・出産に関するサポート",
+        "shortName": "パパッとパパごはん"
+      },
+      "summary": "1歳未満のお子さんの父親又はパートナーが妊娠中の方を対象にパパッとパパごはんを開催しています。",
+      "description": "パパッとパパごはん\nおいしいごはんは、健康づくりの第一歩です。\n\nパパの作る「簡単・おいしい・パパッとごはん」で家族を元気にしましょう！\n\n食や健康についての知識を得るだけでなく、すぐに役立つ調理の技と簡単健康メニューを楽しく学べる講座となっています。\n\n1歳未満のお子さんのパパや、パートナーが妊娠中の方を対象とした教室です。\n\n対象\n区内在住で1歳未満の子どもの父親\n\n又はパートナーが妊娠中の方\n\n時間\n午前11時～正午\n\n定員\n各回20人(申込順)\n\n定員を調整する場合があります\n\n持ち物\n筆記用具\n\n費用\n無料\n\n日時・申込\n令和6年度の予定\n|開催日|申込開始日|問合せ先|\n|:----|:----|:----|\n|令和6年<br><br>6月22日<br><br>（土曜日）|令和6年<br><br>5月21日<br><br>(火曜日)|保健サービス<br><br>センター<br><br>本郷支所|\n|8月3日<br><br>（土曜日）|7月16日<br><br>(火曜日)|保健サービス<br><br>センター|\n|10月19日<br><br>（土曜日）|9月17日<br><br>(火曜日)|保健サービス<br><br>センター<br><br>本郷支所|\n|令和7年<br><br>1月18日<br><br>（土曜日）|令和6年<br><br>12月17日<br><br>(火曜日)|保健サービス<br><br>センター|\n\n各申込開始日の午前8時30分から申込フォームが公開されます。\n\n申込先：パパごはん申込フォーム（外部リンク）;https://logoform.jp/form/6KSu/papa",
+      "target": {
+        "targetPersons": "区内在住で1歳未満の子どもの父親\n\n又はパートナーが妊娠中の方",
+        "lessThan": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "1歳未満の子どもの父親\n\n又はパートナーが妊娠中の方"
+      },
+      "support": {
+        "description": "食や健康についての知識を得るだけでなく、すぐに役立つ調理の技と簡単健康メニューを楽しく学べる講座となっています。",
+        "monetarySupport": null,
+        "materiallySupport": "食や健康についての知識を得るだけでなく、すぐに役立つ調理の技と簡単健康メニューを楽しく学べる講座となっています。"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "11:00",
+        "toYMD": null,
+        "toHM": "12:00",
+        "conditions": "|開催日|申込開始日|問合せ先|\n|:----|:----|:----|\n|令和6年<br><br>6月22日<br><br>（土曜日）|令和6年<br><br>5月21日<br><br>(火曜日)|保健サービス<br><br>センター<br><br>本郷支所|\n|8月3日<br><br>（土曜日）|7月16日<br><br>(火曜日)|保健サービス<br><br>センター|\n|10月19日<br><br>（土曜日）|9月17日<br><br>(火曜日)|保健サービス<br><br>センター<br><br>本郷支所|\n|令和7年<br><br>1月18日<br><br>（土曜日）|令和6年<br><br>12月17日<br><br>(火曜日)|保健サービス<br><br>センター|\n"
+      },
+      "implementationPlace": {
+        "implementationName": "保健サービスセンター",
+        "implementationAddress": null
+      },
+      "capacity": "各回20人（申込順。定員を調整する場合があります。）",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "各申込開始日の午前8時30分から申込フォームが公開されます。\n\nオンライン講座の場合、通信費等は自己負担となります\n\n申込先：パパッとパパごはん申込フォーム（外部リンク）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "各申込開始日の午前8時30分から申込フォームが公開されます。"
+      },
+      "electronicSubmission": true,
+      "belongings": "筆記用具",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.bunkyo.lg.jp/b029/p002727.html",
+        "title": "パパッとパパごはん"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/6KSu/papa",
+          "title": "パパごはん申込フォーム（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "保健衛生部・文京保健所保健サービスセンター,保健衛生部・文京保健所保健サービスセンター本郷支所",
+        "contactPhone": "03-5803-1807,03-3821-5106",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://logoform.jp/form/6KSu/554248,https://logoform.jp/form/6KSu/554248",
+        "contactComment": "ファクス番号：03-5803-1371,ファクス番号：03-3822-9174",
+        "zipCode": "1128555,1130022",
+        "contactAddress": "東京都文京区春日1丁目16番21号\nシビックセンター3階(健診フロア）、8階北側（事務室）,東京都文京区千駄木5丁目20番18号"
+      },
+      "area": {
+        "areaCode": "131059;文京区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131059+1+UM34",
+        "organization": "6000020131059",
+        "compartment": "保健衛生部・文京保健所保健サービスセンター,保健衛生部・文京保健所保健サービスセンター本郷支所",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-06-13",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "文京区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "児童遊園",
+        "shortName": "公園（児童遊園）のルール"
+      },
+      "summary": "児童遊園は、屋外にある公園に類似した施設です。18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n文京区の児童遊園の一覧は、文京区サイトなどでお知らせしています。",
+      "description": "公園（児童遊園）のルール\n公園（児童遊園）を楽しく利用しましょう\n公園（児童遊園）は、建物が密集している都市部の中にあって、貴重な緑のオアシスとして人々の癒しの場です。\n\nしかしながら、公園（児童遊園）を利用される方には、その目的や使い方にそれぞれ違いがあり、一定のルールの中で、思い思いの目的や使い方でご利用いただいています。\n\nだれもが楽しく利用していただくために、ルールを守ってご利用下さい。\n\n公園（児童遊園）のルール\n家庭のゴミを捨てるのはやめましょう\n公園（児童遊園）内に設置してあるゴミ箱に家庭のゴミを捨てないで下さい。すぐにゴミ箱がいっぱいになり、他の利用者がゴミを捨てることができなくなります。\n\nまた、一部公園（児童遊園）ではゴミ箱を設置していません。そこではゴミは必ず持ち帰って下さい。\n\nまた最近、公園（児童遊園）内に粗大ゴミを捨てる方が増えています。みだりに捨てると、「廃棄物の処理及び清掃に関する法律」違反により、5年以下の懲役か1千万以下の罰金、場合によっては、その両方が課されるます。（他の法令により罰せられる場合もあります。）決して捨てないで下さい。\n\n公園での喫煙について\n公園や児童遊園内は禁煙です。喫煙はご遠慮下さい。\n\n施設や植物を大切にしましょう\n公園（児童遊園）内にある施設や植物は、みんなの大切な財産です。施設を故意に破損させてたり、植物の採集はしないで下さい。\n\n球技など他の人に迷惑をかける遊びはやめましょう\n他の利用者や周辺住民に危険を及ぼすことがありますので球技など他の人に迷惑をかける遊びはやめましょう。\n\n球技ができる施設が、駒込公園、大塚窪町公園、神明公園、動坂公園、新大塚公園、竹早公園、文京宮下公園、音羽児童遊園、大塚五丁目児童遊園にありますので、そちらをご利用下さい。\n\nまた、球技施設は、独占して使用することができません。みんなが利用できるよう譲りあってご使用下さい。\n\n球技場のある公園・児童遊園の一覧はこちら;https://www.city.bunkyo.lg.jp/b036/p004912.htmlからご確認ください。\n\nペットを捨てるのはやめましょう\nペットの中には、危険なものや生態系を崩すものもいます。\n\nまた、「動物愛護法」(動物の愛護及び管理に関する法律)によるとペットを捨てた人は同法第44条第3項の規定により一年以下の懲役又は百万円以下の罰金に処されることになっています。決してペットは捨てないで下さい。\n\nネコやハトなどに餌をあげるのはやめましょう\n公園（児童遊園）内にいるネコやハトなどが増えすぎると利用者や周辺住民に様々な影響をおよぼします。決して餌をあげないで下さい。\n\n犬をつれて入園するのはやめましょう\n公園（児童遊園）の利用者の中には犬（他のペットも同様）が嫌いな方や怖がる人もいます。利用者の不安感を取り除くために、公園（児童遊園）への犬の連れ込みはご遠慮下さい。\n\nただし、園内の通路が生活道路の意味合いを持つ、教育の森公園;https://www.city.bunkyo.lg.jp/b036/p004894.html、大塚公園;https://www.city.bunkyo.lg.jp/b036/p004880.html、江戸川公園;https://www.city.bunkyo.lg.jp/b036/p004885.html、窪町東公園;https://www.city.bunkyo.lg.jp/b036/p004886.htmlの四公園に限りましては、次のことを条件に通路部を利用しての通り抜けることを認めております。\n\n条件\n犬をリードにつなぐこと\n犬のフンは飼い主が処理すること\n犬を通路以外の場所に入れないこと\nただし、目白台運動公園パークセンターで利用登録をしていただいた方は、目白台運動公園わんわん広場;https://www.city.bunkyo.lg.jp/b036/p004906.htmlでリードを放して利用することができます。\n\n夜間に大きな音のする花火や大勢で騒ぐのはやめましょう\n公園内での花火につきまして、ご家族で夜の早い時間に手持ち花火を楽しんでいただくことは結構です。\n\nなお、消火用の水を用意し、後片付けをしていただくこと、ゴムチップ舗装の上は避ける等、園内施設を汚損することのないようご配慮ください。\n\nまた、下記についてはご遠慮いただいておりますので、ご確認をお願いいたします。\n\n(1)打ち上げ花火\n(2)大きな音の出る花火\n(3)大量の煙がでる花火\n(4)深夜の時間帯の花火\n(5)大人数で行う花火\n(6)その他、他の利用者や近隣の迷惑となる花火および行為\n下記の公園、児童遊園等では花火は禁止しています。\n目白台運動公園、切通公園、関口一丁目児童遊園、音羽児童遊園、台町第二児童遊園、真砂児童遊園、水道一丁目児童遊園、台町児童遊園の一部（ゴムチップ舗装部分での利用は禁止）、西原町児童遊園、向丘一丁目遊び場、水道二丁目遊び場\n\n無人機等の操縦・飛行等について\n園内における無人機等（ドローンを含む）の操縦・飛行等は、管理上支障がありますので、禁止させていただきます。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "公園（児童遊園）は、建物が密集している都市部の中にあって、貴重な緑のオアシスとして人々の癒しの場です。\n\nしかしながら、公園（児童遊園）を利用される方には、その目的や使い方にそれぞれ違いがあり、一定のルールの中で、思い思いの目的や使い方でご利用いただいています。\n\nだれもが楽しく利用していただくために、ルールを守ってご利用下さい。",
+        "monetarySupport": null,
+        "materiallySupport": "公園（児童遊園）は、建物が密集している都市部の中にあって、貴重な緑のオアシスとして人々の癒しの場です。\n\nしかしながら、公園（児童遊園）を利用される方には、その目的や使い方にそれぞれ違いがあり、一定のルールの中で、思い思いの目的や使い方でご利用いただいています。\n\nだれもが楽しく利用していただくために、ルールを守ってご利用下さい。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.bunkyo.lg.jp/b036/p004912.html",
+          "title": "球技場のある公園・児童遊園の一覧はこちら"
+        },
+        {
+          "uri": "https://www.city.bunkyo.lg.jp/b036/p004880.html",
+          "title": "大塚公園"
+        },
+        {
+          "uri": "https://www.city.bunkyo.lg.jp/b036/p004894.html",
+          "title": "教育の森公園"
+        },
+        {
+          "uri": "https://www.city.bunkyo.lg.jp/b036/p004886.html",
+          "title": "窪町東公園"
+        },
+        {
+          "uri": "https://www.city.bunkyo.lg.jp/b036/p004885.html",
+          "title": "江戸川公園"
+        },
+        {
+          "uri": "https://www.city.bunkyo.lg.jp/b036/p004906.html",
+          "title": "目白台運動公園わんわん広場"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.bunkyo.lg.jp/b036/p004915.html",
+        "title": "公園（児童遊園）のルール"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "土木部みどり公園課管理係",
+        "contactPhone": "03-5803-1252",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://logoform.jp/form/6KSu/554320",
+        "contactComment": "ファクス番号：03-5803-1361",
+        "zipCode": "1128555",
+        "contactAddress": "東京都文京区春日1丁目16番21号\n文京シビックセンター19階北側"
+      },
+      "area": {
+        "areaCode": "131059;文京区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131059+1+UM576",
+        "organization": "6000020131059",
+        "compartment": "土木部みどり公園課管理係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-08-24",
+      "odInformation": {
+        "updateDate": "2024-06-25",
+        "updater": "文京区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "放課後児童クラブ",
+        "shortName": "アクティ"
+      },
+      "summary": "放課後全児童向け事業は、放課後及び休業日に小学校の施設の一部において、地域の大人等の見守りのもと、児童が遊びや自主学習等を自由に行うことができる活動の場を提供する事業です。",
+      "description": "放課後全児童向け事業\n放課後及び休業日に小学校の施設の一部において、地域の大人等の見守りのもと、児童が遊びや自主学習等を自由に行うことができる活動の場を提供する事業です。\n\n区から事業を委託し、地域の方々等が中心となって運営しています。\n\n放課後全児童向け事業の利用イメージは下図の通りとなります。\n\n小学生の放課後の過ごし方イメージ図;https://www.city.bunkyo.lg.jp/images/2330/2023822165047_1.png\n\n児童館の詳細について;https://www.city.bunkyo.lg.jp/b050/p002413.html\nアクティの詳細については本ページをご覧ください。\n育成室の詳細について;https://www.city.bunkyo.lg.jp/b050/p002379.html\n都型学童クラブの詳細について;https://www.city.bunkyo.lg.jp/b050/p002379.html#togatagakudou\n～小学生の放課後の過ごし方～（拡大版）（PDF：664KB）;https://www.city.bunkyo.lg.jp/documents/2330/2023822163852_1.pdf\n\n内容\n実施内容\n曜日・時間ごとに以下のような遊びや体験等の提案を行っています。参加は自由（任意）です。\n\nプログラムの実施スケジュールについて、詳細は各実施校のおたより;https://www.city.bunkyo.lg.jp/b050/p002376.htmlをご覧ください。\n\n1.遊びプログラム\n屋内：折り紙、自由工作、お絵かき、将棋、オセロ、トランプ、UNOなど\n\n屋外：ドッジボール、ドッヂビー、サッカー、かけっこ、なわとびなど\n\n2.学びプログラム\n宿題や自主学習、読書、理科実験体験、算数ゲームなど\n\n3.体験プログラム\n工作、手芸など\n\n活動場所\n図書館や家庭科室などの学校の教室や校庭・体育館などで行っています。\n\n（活動場所は実施校により異なります。詳細は、実施校一覧の事務担当連絡先までお問い合わせください。）\n\n利用時間\n平日：概ね放課後～18時00分\n\n学校休業日：概ね10時00分～18時00分\n\n（利用時間は実施校により異なります。詳細は、実施校一覧の事務担当連絡先までお問い合わせください。）\n\n対象・申込方法\n対象\n実施校に在籍する小学1～6年生のすべての児童が対象です。\n\n（区内在住で実施校以外の小学校に在籍の児童も対象となる場合がございます。詳細はページ下部お問い合わせ先へお問い合わせ下さい。）\n\n保護者の就労状況等に関係なく利用できます。\n\n参加には、スポーツ安全保険への加入が必要です。\n\n申込方法\n所定の申請書に必要事項を記入の上、「スポーツ安全保険」の掛け金800円とともに提出してください。\n\n各実施校により、申請書書式や提出方法が異なりますので、詳細は、実施校一覧の事務担当連絡先までお問い合わせください。\n\n実施校一覧\n実施校一覧（事業開始順）;https://www.city.bunkyo.lg.jp/b050/p002375/index.html\nおたより\nおたより一覧;https://www.city.bunkyo.lg.jp/b050/p002376.html\n\n実施日やプログラムの実施スケジュールは、各実施校が発行しているおたよりに掲載していますので、ご確認ください。",
+      "target": {
+        "targetPersons": "実施校に在籍する小学1～6年生のすべての児童が対象です。\n\n（区内在住で実施校以外の小学校に在籍の児童も対象となる場合がございます。詳細はページ下部お問い合わせ先へお問い合わせ下さい。）\n\n保護者の就労状況等に関係なく利用できます。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "小学1～6年生のすべての児童"
+      },
+      "support": {
+        "description": "曜日・時間ごとに以下のような遊びや体験等の提案を行っています。参加は自由（任意）です。\n\nプログラムの実施スケジュールについて、詳細は各実施校のおたより;https://www.city.bunkyo.lg.jp/b050/p002376.htmlをご覧ください。\n\n1.遊びプログラム\n屋内：折り紙、自由工作、お絵かき、将棋、オセロ、トランプ、UNOなど\n\n屋外：ドッジボール、ドッヂビー、サッカー、かけっこ、なわとびなど\n\n2.学びプログラム\n宿題や自主学習、読書、理科実験体験、算数ゲームなど\n\n3.体験プログラム\n工作、手芸など",
+        "monetarySupport": null,
+        "materiallySupport": "曜日・時間ごとに以下のような遊びや体験等の提案を行っています。参加は自由（任意）です。\n\nプログラムの実施スケジュールについて、詳細は各実施校のおたより;https://www.city.bunkyo.lg.jp/b050/p002376.htmlをご覧ください。\n\n1.遊びプログラム\n屋内：折り紙、自由工作、お絵かき、将棋、オセロ、トランプ、UNOなど\n\n屋外：ドッジボール、ドッヂビー、サッカー、かけっこ、なわとびなど\n\n2.学びプログラム\n宿題や自主学習、読書、理科実験体験、算数ゲームなど\n\n3.体験プログラム\n工作、手芸など"
+      },
+      "cost": "800",
+      "costConditions": "「スポーツ安全保険」の掛け金800円",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "https://www.city.bunkyo.lg.jp/b050/p002375/index.html",
+        "implementationAddress": "https://www.city.bunkyo.lg.jp/b050/p002375/index.html"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "平日：概ね放課後～18時00分\n\n学校休業日：概ね10時00分～18時00分\n\n（利用時間は実施校により異なります。詳細は、実施校一覧の事務担当連絡先までお問い合わせください。）"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "所定の申請書に必要事項を記入の上、「スポーツ安全保険」の掛け金800円とともに提出してください。",
+      "procedurePersons": null,
+      "procedureMethod": "各実施校により、申請書書式や提出方法が異なりますので、詳細は、実施校一覧の事務担当連絡先までお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "|実施校名|事業名|住所|事業担当連絡先（問合せ対応時間）|\n|:----|:----|:----|:----|\n|林町小学校|アクティ林町|千石2丁目36番3号|070-7540-4383（平日9時～18時30分）|\n|駕籠町小学校|アクティ駕籠町|本駒込2丁目29番6号|070-8681-3648（平日9時～18時30分）|\n|明化小学校|アクティ明化|千石1丁目13番9号|070-7783-0883（平日9時～18時30分）|\n|小日向台町小学校|アクティ小日台|小日向2丁目3番8号|070-2186-3521（平日10時～18時）|\n|指ヶ谷小学校|アクティ指ヶ谷|白山2丁目28番4号|070-3351-9920（平日10時～18時30分）|\n|根津小学校|アクティ根津|根津1丁目14番3号|080-4624-2777（平日10時～18時30分）|\n|青柳小学校|アクティ青柳|大塚5丁目40番18号|070-3833-4318（平日10時～18時）|\n|金富小学校|アクティ金富|春日2丁目6番15号|070-3613-3752（平日10時～18時）|\n|柳町小学校|アクティ柳町|小石川1丁目23番16号|080-2301-6267（平日10時～18時30分）|\n|関口台町小学校|アクティ関台|関口2丁目6番1号|070-3876-0051（平日10時～18時）|\n|大塚小学校|アクティ大塚|大塚4丁目1番7号|070-3876-0211（平日10時～18時）|\n|湯島小学校|アクティ湯島|湯島2丁目28番14号|070-3876-0122（平日10時～18時）|\n|礫川小学校|アクティ礫川|小石川2丁目13番2号|070-5015-3512（平日10時～18時）|\n|駒本小学校|アクティ駒本|向丘2丁目37番5号|070-7798-7660（平日9時～18時）|\n|本郷小学校|アクティ本郷|本郷4丁目5番15号|070-3860-1028（平日10時～18時）|\n|千駄木小学校|アクティ千駄木|千駄木5丁目44番2号|070-4507-4244（平日10時～18時）|\n|誠之小学校|アクティ誠之|西片2丁目14番6号|070-8794-1928（平日9時～18時30分）|\n|昭和小学校|アクティ昭和|本駒込2丁目28番31号|070-7499-1612（平日9時～18時30分）|\n|窪町小学校|アクティ窪町|大塚3丁目2番3号|070-3613-3771（平日10時～18時）|\n|汐見小学校|アクティ汐見|千駄木2丁目19番23号|090-3574-2297（平日10時～18時）|\n"
+      },
+      "electronicSubmission": false,
+      "belongings": "所定の申請書に必要事項を記入の上、「スポーツ安全保険」の掛け金800円とともに提出してください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.bunkyo.lg.jp/b050/p002413.html",
+          "title": "児童館の詳細について"
+        },
+        {
+          "uri": "https://www.city.bunkyo.lg.jp/b050/p002379.html",
+          "title": "育成室の詳細について"
+        },
+        {
+          "uri": "https://www.city.bunkyo.lg.jp/documents/2330/2023822163852_1.pdf",
+          "title": "～小学生の放課後の過ごし方～（拡大版）（PDF：664KB）"
+        },
+        {
+          "uri": "https://www.city.bunkyo.lg.jp/b050/p002376.html",
+          "title": "おたより"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.bunkyo.lg.jp/b050/p002375/index.html",
+        "title": "放課後全児童向け事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育推進部児童青少年課放課後事業担当",
+        "contactPhone": "03-5803-1822",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://logoform.jp/form/6KSu/554426",
+        "contactComment": "ファクス番号：03-5803-1368",
+        "zipCode": "1128555",
+        "contactAddress": "東京都文京区春日1丁目16番21号\n文京シビックセンター20階北側"
+      },
+      "area": {
+        "areaCode": "131059;文京区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131059+1+UM79",
+        "organization": "6000020131059",
+        "compartment": "教育推進部児童青少年課放課後事業担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-21",
+      "odInformation": {
+        "updateDate": "2024-06-27",
+        "updater": "文京区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "文京区放課後全児童向け事業実施要綱",
+        "regulationArticle": "全条"
+      },
+      "tag": {
+        "categoryCode": [
+          "005"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "離乳食教室",
+        "shortName": "はじめての離乳食講習会（5～6か月児向け）"
+      },
+      "summary": "生後5～6か月前後のお子さんとその保護者を対象に、離乳食を始める時のポイントやすすめ方についての講座を開催しています。離乳食のいろいろな悩みに栄養士がお答えします。また、離乳食の作り方の実演や試食もあります。",
+      "description": "はじめての離乳食講習会（5～6か月児向け）\n離乳食の始め方、進め方についてお話します。\n\n保護者様のみの参加も可能ですし、お子様とご一緒の参加も可能です。\n\n離乳食の始め方のポイントが、文京区公式チャンネルのYouTube動画（外部リンク）;https://www.youtube.com/watch?v=l2AvM1vnDOoで見られます。\n\nはじめての離乳食講習会ユーチューブ動画（外部リンク）;https://www.youtube.com/watch?v=l2AvM1vnDOo\n\nご参加に当たってのお願い\n感染症予防のため、ご参加に際して、皆様に以下の点についてご協力をお願いいたします。\n\nお子様、保護者様の検温を、ご自宅で実施してください\n体温が37.5度以上又は風邪症状がある方は、ご参加をお控えください\n保護者様は、マスクを着用し、会場では、手指消毒にご協力ください\n対象\n区内在住の生後5～6か月の第一子がいる保護者\n\n(対象のお子様一人につき、保護者様お一人でご参加ください)\n\n時間\n午前10時30分～11時30分（受付:10時20分～）\n午後1時～2時（受付:12時50分～）\n1.又は2.の選択制\n\n定員\n午前・午後各15人\n\n（定員を調整することがあります。）\n\n内容、持ち物\n5～6か月児の離乳食づくりのポイント（講義とデモンストレーション）\n\n筆記用具を持参\n\n費用\n無料\n\n申込\n申込開始日の午前8時30分より、下記電子申請にて申込(会場ごとに申請フォームが異なります)\n\n保健サービスセンター（外部リンク）;https://logoform.jp/form/6KSu/HSC.haji\n保健サービスセンター本郷支所（外部リンク）;https://logoform.jp/form/6KSu/HSCH.haji\n開催日時・受付開始日\n保健サービスセンター;https://www.city.bunkyo.lg.jp/b029/p001568.html#HSC\n\n保健サービスセンター本郷支所;https://www.city.bunkyo.lg.jp/b029/p001568.html#HSC-hongo\n\n保健サービスセンター\n|日程|対象(誕生月)|受付開始日|\n|:----|:----|:----|\n|令和6年<br><br>4月18日<br><br>(木曜日)|令和5年<br><br>10～11月生まれ|3月26日<br><br>(火曜日)|\n|5月16日<br><br>(木曜日)|令和5年<br><br>11～12月生まれ|5月7日<br><br>(火曜日)|\n|6月20日<br><br>(木曜日)|令和5年12月<br><br>～令和6年1月生まれ|6月11日<br><br>(火曜日)|\n|7月18日<br><br>(木曜日)|令和6年<br><br>1～2月生まれ|7月9日<br><br>(火曜日)|\n|8月8日<br><br>(木曜日)|令和6年<br><br>2～3月生まれ|7月23日<br><br>(火曜日)|\n|9月19日<br><br>(木曜日)|令和6年<br><br>3～4月生まれ|9月10日<br><br>(火曜日)|\n|10月17日<br><br>(木曜日)|令和6年<br><br>4～5月生まれ|10月8日<br><br>(火曜日)|\n|11月21日<br><br>(木曜日)|令和6年<br><br>5～6月生まれ|11月12日<br><br>(火曜日)|\n|12月19日<br><br>(木曜日)|令和6年<br><br>6～7月生まれ|12月3日<br><br>(火曜日)|\n|令和7年<br><br>1月16日<br><br>(木曜日)|令和6年<br><br>7～8月生まれ|令和7年<br><br>1月7日<br><br>(火曜日)|\n|2月20日<br><br>(木曜日)|令和6年<br><br>8～9月生まれ|2月7日<br><br>(金曜日)|\n|3月13日<br><br>(木曜日)|令和6年<br><br>9～10月生まれ|3月4日<br><br>(火曜日)|\n\n保健サービスセンター本郷支所\n|日程|対象(誕生月)|受付開始日|\n|:----|:----|:----|\n|令和6年<br><br>5月17日<br><br>(金曜日)|令和5年<br><br>11～12月生まれ|4月16日<br><br>(火曜日)|\n|7月26日<br><br>(金曜日)|令和6年<br><br>1～2月生まれ|6月25日<br><br>(火曜日)|\n|9月13日<br><br>(金曜日)|令和6年<br><br>3～4月生まれ|8月6日<br><br>(火曜日)|\n|11月22日<br><br>(金曜日)|令和6年<br><br>5～6月生まれ|10月23日<br><br>(水曜日)|\n|令和7年<br><br>1月10日<br><br>(金曜日)|令和6年<br><br>7～8月生まれ|12月10日<br><br>(火曜日)|\n|3月14日<br><br>(金曜日)|令和6年<br><br>9～10月生まれ|令和7年<br><br>2月18日<br><br>(火曜日)|\n\n関連リンク\n4か月児健康診査;https://www.city.bunkyo.lg.jp/b029/p001575.html\nステップ・アップ！離乳食;https://www.city.bunkyo.lg.jp/b029/p001569.html\nはじめての離乳食（文京区公式チャンネルのYouTube動画（外部リンク））;https://www.youtube.com/watch?v=l2AvM1vnDOo\nはじめての離乳食講習会ユーチューブ動画（外部リンク）;https://www.youtube.com/watch?v=l2AvM1vnDOo",
+      "target": {
+        "targetPersons": "区内在住の生後5～6か月の第一子がいる保護者\n\n(対象のお子様一人につき、保護者様お一人でご参加ください)",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 5
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後5～6か月の第一子がいる保護者"
+      },
+      "support": {
+        "description": "5～6か月児の離乳食づくりのポイント（講義とデモンストレーション）",
+        "monetarySupport": null,
+        "materiallySupport": "5～6か月児の離乳食づくりのポイント（講義とデモンストレーション）"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "時間\n1.午前10時30分～11時30分（受付:10時20分～）\n2.午後1時～2時（受付:12時50分～）\n1.又は2.の選択制\n保健サービスセンター\n|日程|対象(誕生月)|受付開始日|\n|:----|:----|:----|\n|令和6年<br><br>4月18日<br><br>(木曜日)|令和5年<br><br>10～11月生まれ|3月26日<br><br>(火曜日)|\n|5月16日<br><br>(木曜日)|令和5年<br><br>11～12月生まれ|5月7日<br><br>(火曜日)|\n|6月20日<br><br>(木曜日)|令和5年12月<br><br>～令和6年1月生まれ|6月11日<br><br>(火曜日)|\n|7月18日<br><br>(木曜日)|令和6年<br><br>1～2月生まれ|7月9日<br><br>(火曜日)|\n|8月8日<br><br>(木曜日)|令和6年<br><br>2～3月生まれ|7月23日<br><br>(火曜日)|\n|9月19日<br><br>(木曜日)|令和6年<br><br>3～4月生まれ|9月10日<br><br>(火曜日)|\n|10月17日<br><br>(木曜日)|令和6年<br><br>4～5月生まれ|10月8日<br><br>(火曜日)|\n|11月21日<br><br>(木曜日)|令和6年<br><br>5～6月生まれ|11月12日<br><br>(火曜日)|\n|12月19日<br><br>(木曜日)|令和6年<br><br>6～7月生まれ|12月3日<br><br>(火曜日)|\n|令和7年<br><br>1月16日<br><br>(木曜日)|令和6年<br><br>7～8月生まれ|令和7年<br><br>1月7日<br><br>(火曜日)|\n|2月20日<br><br>(木曜日)|令和6年<br><br>8～9月生まれ|2月7日<br><br>(金曜日)|\n|3月13日<br><br>(木曜日)|令和6年<br><br>9～10月生まれ|3月4日<br><br>(火曜日)|\n\n保健サービスセンター本郷支所\n|日程|対象(誕生月)|受付開始日|\n|:----|:----|:----|\n|令和6年<br><br>5月17日<br><br>(金曜日)|令和5年<br><br>11～12月生まれ|4月16日<br><br>(火曜日)|\n|7月26日<br><br>(金曜日)|令和6年<br><br>1～2月生まれ|6月25日<br><br>(火曜日)|\n|9月13日<br><br>(金曜日)|令和6年<br><br>3～4月生まれ|8月6日<br><br>(火曜日)|\n|11月22日<br><br>(金曜日)|令和6年<br><br>5～6月生まれ|10月23日<br><br>(水曜日)|\n|令和7年<br><br>1月10日<br><br>(金曜日)|令和6年<br><br>7～8月生まれ|12月10日<br><br>(火曜日)|\n|3月14日<br><br>(金曜日)|令和6年<br><br>9～10月生まれ|令和7年<br><br>2月18日<br><br>(火曜日)|\n"
+      },
+      "implementationPlace": {
+        "implementationName": "保健サービスセンター（外部リンク）;https://logoform.jp/form/6KSu/HSC.haji\n保健サービスセンター本郷支所（外部リンク）;https://logoform.jp/form/6KSu/HSCH.haji",
+        "implementationAddress": null
+      },
+      "capacity": "午前・午後各15人\n\n（定員を調整することがあります。）",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "電子申請にて申込(会場ごとに申請フォームが異なります)",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "申込開始日の午前8時30分より、下記電子申請にて申込(会場ごとに申請フォームが異なります)\n\n保健サービスセンター（外部リンク）;https://logoform.jp/form/6KSu/HSC.haji\n保健サービスセンター本郷支所（外部リンク）;https://logoform.jp/form/6KSu/HSCH.haji"
+      },
+      "electronicSubmission": true,
+      "belongings": "筆記用具を持参",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.youtube.com/watch?v=l2AvM1vnDOo",
+          "title": "文京区公式チャンネルのYouTube動画（外部リンク）"
+        },
+        {
+          "uri": "https://www.city.bunkyo.lg.jp/b029/p001569.html",
+          "title": "ステップ・アップ！離乳食"
+        },
+        {
+          "uri": "https://www.city.bunkyo.lg.jp/b029/p001575.html",
+          "title": "4か月児健康診査"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.bunkyo.lg.jp/b029/p001568.html",
+        "title": "はじめての離乳食講習会（5～6か月児向け）"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/6KSu/HSCH.haji",
+          "title": "保健サービスセンター本郷支所（外部リンク）"
+        },
+        {
+          "uri": "https://logoform.jp/form/6KSu/HSC.haji",
+          "title": "保健サービスセンター（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "保健衛生部・文京保健所保健サービスセンター,保健衛生部・文京保健所保健サービスセンター本郷支所",
+        "contactPhone": "03-5803-1807,03-3821-5106",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://logoform.jp/form/6KSu/554248,https://logoform.jp/form/6KSu/554248",
+        "contactComment": "ファクス番号：03-5803-1371,ファクス番号：03-3822-9174",
+        "zipCode": "1128555,1130022",
+        "contactAddress": "東京都文京区春日1丁目16番21号\nシビックセンター3階(健診フロア）、8階北側（事務室）,東京都文京区千駄木5丁目20番18号"
+      },
+      "area": {
+        "areaCode": "131059;文京区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131059+1+UM798",
+        "organization": "6000020131059",
+        "compartment": "保健衛生部・文京保健所保健サービスセンター,保健衛生部・文京保健所保健サービスセンター本郷支所",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-06-13",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "文京区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法、食育基本法",
+        "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）、法第5条（子どもの食育における保護者、教育関係者等の役割）、21条 （地域における食生活の改善のための取組の推進）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関するその他のこと",
+        "shortName": "パパとママの離婚講座"
+      },
+      "summary": "離婚を検討している方の準備講座",
+      "description": "パパとママの離婚講座\n親の離婚。そのとき子どもが感じていること、子どものために考えておくこと\n\nお子さんがいるご夫婦が離婚される場合、知っておいた方がよいこと、決めておくべきことがあります。\n\nこの講座では、養育費、面会交流、子どものメンタルケア等について、区の支援制度と併せてお伝えします。\n\n講座概要\n主催\n文京区、家族のためのADRセンター(法務大臣認証ADR機関)\n\n内容\n第1部＿メンタルケア編\n親の離婚と子どもの気持ち\n子どものメンタルケア(年齢別)\n離婚(別居)に関する子どもへの説明\nあなた自身のメンタルケア\n第2部＿離婚条件編\n親権、養育費、面会交流、財産分与等離婚条件の話し合い方\n\n第3部＿文京区の養育費確保支援制度\n文京区の養育費確保に向けた支援サービスをご紹介します。\n\n日時\n【令和年6度実施講座】\n\n第1回令和6年7月10日（水曜日）午前9時30分～午前12時\n\n第2回令和6年10月24日（木曜日）午前9時30分～午前12時\n\n第3回令和7年1月21日（火曜日）午前9時30分～午前12時\n\n(3回とも同じ内容です）\n\n対象者\n区内在住\n\n18歳未満の児童の養育者\n\n定員\n各回15名(申込順)\n\n開催方法\nZoomによるオンライン開催\n\n参加費無料\n\n講師\n家族のためのADRセンター小泉道子氏ほか\n\n申込方法\n文京区パパとママの離婚講座参加申込専用フォーム（外部リンク）;https://forms.gle/dWkiRa3KAWojWadVAからお申し込みください。\n\n定員に達し次第、受付を終了します。\n\n受講者アンケート\n受講者の方全員にアンケートにご協力いただいております。\n\n文京区パパとママの離婚講座受講者アンケートフォームへ（外部リンク）;https://logoform.jp/form/6KSu/378446\n\n関連動画\n離婚講座でお伝えしている内容を、ストーリー仕立てにして簡単にご紹介しています。\n\nパパとママのための離婚動画（りんとさくらの物語）（外部リンク）;https://www.youtube.com/playlist?list=PLQfR0Ouvl7s9fyzwRHSBOxVGResoo0g-H\n\n関連サイト\n家族のためのADRセンター離婚テラス（外部リンク）;http://www.rikon-terrace.com/",
+      "target": {
+        "targetPersons": "区内在住\n\n18歳未満の児童の養育者",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "18歳未満の児童の養育者"
+      },
+      "support": {
+        "description": "養育費、面会交流、子どものメンタルケア等について、区の支援制度と併せてお伝えします。",
+        "monetarySupport": null,
+        "materiallySupport": "養育費、面会交流、子どものメンタルケア等について、区の支援制度と併せてお伝えします。"
+      },
+      "cost": null,
+      "costConditions": "参加費無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "09:30",
+        "toYMD": null,
+        "toHM": "12:00",
+        "conditions": "【令和年6度実施講座】\n\n第1回令和6年7月10日（水曜日）午前9時30分～午前12時\n\n第2回令和6年10月24日（木曜日）午前9時30分～午前12時\n\n第3回令和7年1月21日（火曜日）午前9時30分～午前12時\n\n(3回とも同じ内容です）"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": "各回15名(申込順)",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "文京区パパとママの離婚講座参加申込専用フォーム（外部リンク）;https://forms.gle/dWkiRa3KAWojWadVAからお申し込みください。\n\n定員に達し次第、受付を終了します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://logoform.jp/form/6KSu/378446",
+          "title": "文京区パパとママの離婚講座受講者アンケートフォームへ（外部リンク）"
+        },
+        {
+          "uri": "https://www.youtube.com/playlist?list=PLQfR0Ouvl7s9fyzwRHSBOxVGResoo0g-H",
+          "title": "パパとママのための離婚動画（りんとさくらの物語）（外部リンク）"
+        },
+        {
+          "uri": "http://www.rikon-terrace.com/",
+          "title": "家族のためのADRセンター離婚テラス（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.bunkyo.lg.jp/b024/p001839.html",
+        "title": "パパとママの離婚講座"
+      },
+      "formLink": [
+        {
+          "uri": "https://forms.gle/dWkiRa3KAWojWadVA",
+          "title": "文京区パパとママの離婚講座参加申込専用フォーム（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども家庭部子ども家庭支援センター家庭支援係",
+        "contactPhone": "03-5803-1894",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://logoform.jp/form/6KSu/553778",
+        "contactComment": "ファクス番号：03-5803-1345",
+        "zipCode": "1128555",
+        "contactAddress": "東京都文京区春日1丁目16番21号\n文京シビックセンター5階南側"
+      },
+      "area": {
+        "areaCode": "131059;文京区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131059+2+UM120",
+        "organization": "6000020131059",
+        "compartment": "子ども家庭部子ども家庭支援センター家庭支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-06-13",
+      "odInformation": {
+        "updateDate": "2024-06-30",
+        "updater": "文京区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "離乳食教室",
+        "shortName": "ステップ・アップ！離乳食講習会（7～8か月児向け）"
+      },
+      "summary": "生後7～8か月前後のお子さんとその保護者を対象に、離乳食を始める時のポイントやすすめ方についての講座を開催しています。離乳食のいろいろな悩みに栄養士がお答えします。また、離乳食の作り方の実演や試食もあります。",
+      "description": "ステップ・アップ！離乳食講習会（7～8か月児向け）\n7～8か月頃の離乳食の進め方についてお話します。\n\n保護者様のみの参加も可能ですし、お子様とご一緒の参加も可能です。\n\n離乳食づくりのポイントが、文京区公式チャンネルのYouTube動画（外部リンク）;https://youtu.be/Jd_tusLfT84で見られます。\n\nステップアップ離乳食講習会動画（外部リンク）;https://youtu.be/Jd_tusLfT84\n\nご参加に当たってのお願い\n感染症予防のため、ご参加に際して、皆様に以下の点についてご協力をお願いいたします。\n\nお子様、保護者様の検温を、ご自宅で実施してください\n体温が37.5度以上又は風邪症状がある方は、ご参加をお控えください\n保護者様は、マスクを着用し、会場では、手指消毒にご協力ください\n対象\n区内在住の生後7～8か月のお子さんがいる保護者\n\n(対象のお子様一人につき、保護者様お一人でご参加ください)\n\n時間\n午前10時30分～11時30分（受付:10時20分～）\n午後1時～2時（受付:12時50分～）\n1.又は2.の選択制\n\n定員\n午前・午後各15人\n\n（定員を調整することがあります）\n\n内容\n7～8か月児の離乳食づくりのポイント（講義とデモンストレーション）\n\n持ち物\n申込時のご案内のとおり\n\n費用\n無料\n\n申込\n申込開始日の午前8時30分より申込(会場ごとに申込先が異なります)\n\n保健サービスセンター（外部リンク）;https://logoform.jp/form/6KSu/HSC.step\n保健サービスセンター本郷支所（外部リンク）;https://logoform.jp/form/6KSu/HSCH.step\n開催日時・受付開始日\n保健サービスセンター;https://www.city.bunkyo.lg.jp/b029/p001569.html#HSC\n\n保健サービスセンター本郷支所;https://www.city.bunkyo.lg.jp/b029/p001569.html#HSC-hongo\n\n保健サービスセンター\n\n|日程|対象(誕生月)|受付開始日|\n|:----|:----|:----|\n|令和6年<br><br>5月9日<br><br>(木曜日)|令和5年<br><br>9～10月生まれ|4月23日<br><br>(火曜日)|\n|7月11日<br><br>(木曜日)|令和5年<br><br>11～12月生まれ|7月2日<br><br>(火曜日)|\n|9月12日<br><br>(木曜日)|令和6年<br><br>1～2月まれ|9月3日<br><br>(火曜日)|\n|11月14日<br><br>(木曜日)|令和6年<br><br>3～4月生まれ|11月5日<br><br>(火曜日)|\n|令和7年<br><br>1月24日<br><br>(金曜日)|令和6年<br><br>5～6月生まれ|令和7年<br><br>1月14日<br><br>(火曜日)|\n|3月6日<br><br>(木曜日)|令和6年<br><br>7～8月生まれ|令和7年<br><br>2月25日<br><br>(火曜日)|\n\n保健サービスセンター本郷支所\n|日程|対象(誕生月)|受付開始日|\n|:----|:----|:----|\n|令和6年<br><br>4月10日<br><br>(水曜日)|令和5年<br><br>8～9月生まれ|3月12日<br><br>(火曜日)|\n|6月14日<br><br>(金曜日)|令和5年<br><br>10～11月生まれ|5月15日<br><br>(水曜日)|\n|8月30日<br><br>(金曜日)|令和5年12月～<br><br>令和6年1月生まれ|7月30日<br><br>(火曜日)|\n|10月9日<br><br>(水曜日)|令和6年<br><br>2～3月生まれ|9月10日<br><br>(火曜日)|\n|12月20日<br><br>(金曜日)|令和6年<br><br>4～5月生まれ|11月19日<br><br>(火曜日)|\n|令和7年<br><br>2月21日<br><br>(金曜日)|令和6年<br><br>6～7月生まれ|令和7年<br><br>1月30日<br><br>(木曜日)|\n\n関連リンク\nはじめての離乳食講習会;https://www.city.bunkyo.lg.jp/b029/p001568.html\nステップ・アップ離乳食講習会（文京区公式チャンネンルのYouTube動画）（外部リンク）;https://www.youtube.com/watch?v=Jd_tusLfT84\nステップアップ離乳食講習会動画（外部リンク）;https://youtu.be/Jd_tusLfT84",
+      "target": {
+        "targetPersons": "区内在住の生後7～8か月のお子さんがいる保護者\n\n(対象のお子様一人につき、保護者様お一人でご参加ください)",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 8
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 7
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後7～8か月のお子さんがいる保護者"
+      },
+      "support": {
+        "description": "7～8か月児の離乳食づくりのポイント（講義とデモンストレーション）",
+        "monetarySupport": null,
+        "materiallySupport": "7～8か月児の離乳食づくりのポイント（講義とデモンストレーション）"
+      },
+      "cost": null,
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "時間\n1.午前10時30分～11時30分（受付:10時20分～）\n2.午後1時～2時（受付:12時50分～）\n1.又は2.の選択制\n保健サービスセンター\n\n|日程|対象(誕生月)|受付開始日|\n|:----|:----|:----|\n|令和6年<br><br>5月9日<br><br>(木曜日)|令和5年<br><br>9～10月生まれ|4月23日<br><br>(火曜日)|\n|7月11日<br><br>(木曜日)|令和5年<br><br>11～12月生まれ|7月2日<br><br>(火曜日)|\n|9月12日<br><br>(木曜日)|令和6年<br><br>1～2月まれ|9月3日<br><br>(火曜日)|\n|11月14日<br><br>(木曜日)|令和6年<br><br>3～4月生まれ|11月5日<br><br>(火曜日)|\n|令和7年<br><br>1月24日<br><br>(金曜日)|令和6年<br><br>5～6月生まれ|令和7年<br><br>1月14日<br><br>(火曜日)|\n|3月6日<br><br>(木曜日)|令和6年<br><br>7～8月生まれ|令和7年<br><br>2月25日<br><br>(火曜日)|\n\n保健サービスセンター本郷支所\n|日程|対象(誕生月)|受付開始日|\n|:----|:----|:----|\n|令和6年<br><br>4月10日<br><br>(水曜日)|令和5年<br><br>8～9月生まれ|3月12日<br><br>(火曜日)|\n|6月14日<br><br>(金曜日)|令和5年<br><br>10～11月生まれ|5月15日<br><br>(水曜日)|\n|8月30日<br><br>(金曜日)|令和5年12月～<br><br>令和6年1月生まれ|7月30日<br><br>(火曜日)|\n|10月9日<br><br>(水曜日)|令和6年<br><br>2～3月生まれ|9月10日<br><br>(火曜日)|\n|12月20日<br><br>(金曜日)|令和6年<br><br>4～5月生まれ|11月19日<br><br>(火曜日)|\n|令和7年<br><br>2月21日<br><br>(金曜日)|令和6年<br><br>6～7月生まれ|令和7年<br><br>1月30日<br><br>(木曜日)|\n"
+      },
+      "implementationPlace": {
+        "implementationName": "保健サービスセンター（外部リンク）;https://logoform.jp/form/6KSu/HSC.step\n保健サービスセンター本郷支所（外部リンク）;https://logoform.jp/form/6KSu/HSCH.step",
+        "implementationAddress": null
+      },
+      "capacity": "午前・午後各15人\n\n（定員を調整することがあります）",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "電子申請にて申込(会場ごとに申請フォームが異なります)",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "申込開始日の午前8時30分より申込(会場ごとに申込先が異なります)"
+      },
+      "electronicSubmission": true,
+      "belongings": "筆記用具を持参",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.bunkyo.lg.jp/b029/p001568.html",
+          "title": "はじめての離乳食講習会"
+        },
+        {
+          "uri": "https://youtu.be/Jd_tusLfT84",
+          "title": "文京区公式チャンネルのYouTube動画（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.bunkyo.lg.jp/b029/p001569.html",
+        "title": "ステップ・アップ！離乳食講習会（7～8か月児向け）"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/6KSu/HSC.step",
+          "title": "保健サービスセンター（外部リンク）"
+        },
+        {
+          "uri": "https://logoform.jp/form/6KSu/HSCH.step",
+          "title": "保健サービスセンター本郷支所（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "保健衛生部・文京保健所保健サービスセンター,保健衛生部・文京保健所保健サービスセンター本郷支所",
+        "contactPhone": "03-5803-1807,03-3821-5106",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://logoform.jp/form/6KSu/554248,https://logoform.jp/form/6KSu/554248",
+        "contactComment": "ファクス番号：03-5803-1371,ファクス番号：03-3822-9174",
+        "zipCode": "1128555,1130022",
+        "contactAddress": "東京都文京区春日1丁目16番21号\nシビックセンター3階(健診フロア）、8階北側（事務室）,東京都文京区千駄木5丁目20番18号"
+      },
+      "area": {
+        "areaCode": "131059;文京区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131059+2+UM798",
+        "organization": "6000020131059",
+        "compartment": "保健衛生部・文京保健所保健サービスセンター,保健衛生部・文京保健所保健サービスセンター本郷支所",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-06-13",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "文京区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法、食育基本法",
+        "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）、法第5条（子どもの食育における保護者、教育関係者等の役割）、21条 （地域における食生活の改善のための取組の推進）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関する各種コミュニティ・団体一覧",
+        "shortName": "ふたご・多胎のサロン"
+      },
+      "summary": "文京区内で子育てに関する活動を行う、コミュニティやサークル、各種団体のご案内です。",
+      "description": "ふたご・多胎のサロン\nふたご・多胎児のファミリー向けの交流会です。\n\n多胎ならではの悩みや苦労を共有したり専門家からのミニ講座も企画します。\n\n実施内容(予定）\nhttps://www.city.bunkyo.lg.jp/b029/p001454.html",
+      "target": {
+        "targetPersons": "https://www.city.bunkyo.lg.jp/b029/p001454.html",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "https://www.city.bunkyo.lg.jp/b029/p001454.html"
+      },
+      "support": {
+        "description": "https://www.city.bunkyo.lg.jp/b029/p001454.html",
+        "monetarySupport": null,
+        "materiallySupport": "https://www.city.bunkyo.lg.jp/b029/p001454.html"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "https://www.city.bunkyo.lg.jp/b029/p001454.html"
+      },
+      "implementationPlace": {
+        "implementationName": "https://www.city.bunkyo.lg.jp/b029/p001454.html",
+        "implementationAddress": "https://www.city.bunkyo.lg.jp/b029/p001454.html"
+      },
+      "capacity": "https://www.city.bunkyo.lg.jp/b029/p001454.html",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "https://www.city.bunkyo.lg.jp/b029/p001454.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "https://www.city.bunkyo.lg.jp/b029/p001454.html"
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.bunkyo.lg.jp/b029/p001454.html",
+        "title": "ふたご・多胎のサロン"
+      },
+      "formLink": [
+        {
+          "uri": "https://logoform.jp/form/6KSu/289106",
+          "title": "令和7年1月31日（金曜日）（外部リンク）"
+        },
+        {
+          "uri": "https://logoform.jp/form/6KSu/289090",
+          "title": "令和6年8月23日（金曜日）（外部リンク）"
+        },
+        {
+          "uri": "https://logoform.jp/form/6KSu/289116",
+          "title": "令和6年11月9日（土曜日）（外部リンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "保健衛生部・文京保健所保健サービスセンター,保健衛生部・文京保健所保健サービスセンター本郷支所",
+        "contactPhone": "03-5803-1807,03-3821-5106",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://logoform.jp/form/6KSu/554248,https://logoform.jp/form/6KSu/554248",
+        "contactComment": "ファクス番号：03-5803-1371,ファクス番号：03-3822-9174",
+        "zipCode": "1128555,1130022",
+        "contactAddress": "東京都文京区春日1丁目16番21号\nシビックセンター3階(健診フロア）、8階北側（事務室）,東京都文京区千駄木5丁目20番18号"
+      },
+      "area": {
+        "areaCode": "131059;文京区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131059+5+UM111",
+        "organization": "6000020131059",
+        "compartment": "保健衛生部・文京保健所保健サービスセンター,保健衛生部・文京保健所保健サービスセンター本郷支所",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-13",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "文京区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法、児童福祉法",
+        "regulationArticle": "第6条の3第6項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関する教室・講習会",
+        "shortName": "永久歯のむし歯予防 歯っぴー教室"
+      },
+      "summary": "お口についての話やクイズ、お口の機能を育てる遊び、歯医者さん体験を通してよい歯並びやむし歯にならない知識を身につけます。",
+      "description": "永久歯のむし歯予防 歯っぴー教室\nお口についての話やクイズ、お口の機能を育てる遊び、歯医者さん体験を通して、良い歯並びやむし歯にならないための知識を身につけましょう！\n\n対象\n区内在住の4～6歳の未就学児とその保護者（兄弟姉妹の同伴可）\n\n定員\n各回10人（申込順）\n\n開催日程・時間・会場\n開催日時等\n|日程|時間|会場|\n|:----|:----|:----|\n|令和6年8月1日(木曜日)|午前10時~11時00分|保健サービスセンター本郷支所|\n|令和7年3月27日(木曜日)|午前10時~11時00分|保健サービスセンター(シビックセンター3階）|\n\n申込先・お問い合わせ\n保健サービスセンター\n\n電話番号03-5803-1805\n\n内容\n1ミニ講座\n(1)むし歯について話やクイズ\n\nテキスト1 ;https://www.city.bunkyo.lg.jp/images/1591/tekisuto1.jpgテキスト2;https://www.city.bunkyo.lg.jp/images/1591/tekisuto2.jpg\n\n(2)お口の機能を育てる遊び\n\n吹き戻し;https://www.city.bunkyo.lg.jp/images/1591/fukimodosi.jpeg ゴム風船;https://www.city.bunkyo.lg.jp/images/1591/gomufuusenn.jpeg\n\n2歯医者さん体験\nもう、歯医者さんは怖く無い！\n\n歯医者疑似体験;https://www.city.bunkyo.lg.jp/images/1591/haisyagizitaikenn.jpeg ユニット;https://www.city.bunkyo.lg.jp/images/1591/yunitto.jpg 歯医者さん体験;https://www.city.bunkyo.lg.jp/images/1591/202032102129.png",
+      "target": {
+        "targetPersons": "区内在住の4～6歳の未就学児とその保護者（兄弟姉妹の同伴可）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 6,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 4,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "4～6歳の未就学児とその保護者"
+      },
+      "support": {
+        "description": "1ミニ講座\n(1)むし歯について話やクイズ\n\nテキスト1 ;https://www.city.bunkyo.lg.jp/images/1591/tekisuto1.jpgテキスト2;https://www.city.bunkyo.lg.jp/images/1591/tekisuto2.jpg\n\n(2)お口の機能を育てる遊び\n\n吹き戻し;https://www.city.bunkyo.lg.jp/images/1591/fukimodosi.jpeg ゴム風船;https://www.city.bunkyo.lg.jp/images/1591/gomufuusenn.jpeg\n\n2歯医者さん体験\nもう、歯医者さんは怖く無い！\n\n歯医者疑似体験;https://www.city.bunkyo.lg.jp/images/1591/haisyagizitaikenn.jpeg ユニット;https://www.city.bunkyo.lg.jp/images/1591/yunitto.jpg 歯医者さん体験;https://www.city.bunkyo.lg.jp/images/1591/202032102129.png",
+        "monetarySupport": null,
+        "materiallySupport": "1ミニ講座\n(1)むし歯について話やクイズ\n\nテキスト1 ;https://www.city.bunkyo.lg.jp/images/1591/tekisuto1.jpgテキスト2;https://www.city.bunkyo.lg.jp/images/1591/tekisuto2.jpg\n\n(2)お口の機能を育てる遊び\n\n吹き戻し;https://www.city.bunkyo.lg.jp/images/1591/fukimodosi.jpeg ゴム風船;https://www.city.bunkyo.lg.jp/images/1591/gomufuusenn.jpeg\n\n2歯医者さん体験\nもう、歯医者さんは怖く無い！\n\n歯医者疑似体験;https://www.city.bunkyo.lg.jp/images/1591/haisyagizitaikenn.jpeg ユニット;https://www.city.bunkyo.lg.jp/images/1591/yunitto.jpg 歯医者さん体験;https://www.city.bunkyo.lg.jp/images/1591/202032102129.png"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "10:00",
+        "toYMD": null,
+        "toHM": "11:00",
+        "conditions": "|日程|時間|会場|\n|:----|:----|:----|\n|令和6年8月1日(木曜日)|午前10時~11時00分|保健サービスセンター本郷支所|\n|令和7年3月27日(木曜日)|午前10時~11時00分|保健サービスセンター(シビックセンター3階）|\n"
+      },
+      "implementationPlace": {
+        "implementationName": "|日程|時間|会場|\n|:----|:----|:----|\n|令和6年8月1日(木曜日)|午前10時~11時00分|保健サービスセンター本郷支所|\n|令和7年3月27日(木曜日)|午前10時~11時00分|保健サービスセンター(シビックセンター3階）|\n",
+        "implementationAddress": null
+      },
+      "capacity": "各回10人（申込順）",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "保健サービスセンター\n\n電話番号03-5803-1805",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.bunkyo.lg.jp/b029/p001592.html",
+        "title": "永久歯のむし歯予防 歯っぴー教室"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健衛生部・文京保健所保健サービスセンター",
+        "contactPhone": "03-5803-1807",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": "https://logoform.jp/form/6KSu/554248",
+        "contactComment": "ファクス番号：03-5803-1371",
+        "zipCode": "1128555",
+        "contactAddress": "東京都文京区春日1丁目16番21号\nシビックセンター3階(健診フロア）、8階北側（事務室）"
+      },
+      "area": {
+        "areaCode": "131059;文京区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+6000020131059+7+UM103",
+        "organization": "6000020131059",
+        "compartment": "保健衛生部・文京保健所保健サービスセンター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-29",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "文京区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "地域保健法・口腔保健法",
+        "regulationArticle": "第6条"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

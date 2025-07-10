@@ -1,0 +1,4217 @@
+{
+  "version": "2025-07-10T02:38:54.091Z",
+  "areaCode": "131016",
+  "areaName": "千代田区",
+  "category": "childcare",
+  "count": 32,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関する教室・講習会",
+        "shortName": "ちよだぱぱサロン"
+      },
+      "summary": "千代田区で開催される、子育てに関する講習会や親子で参加できる教室などのご案内です。",
+      "description": "育児についてわからないことが多い、パパ同士の交流がしたい、そんなパパに向けた育児講座と座談会を開催しています。\n\n実施内容\n育児講座（パートナーとのコミュニケーション、お子さんへの接し方、ワークライフバランスについてなど）\n\n座談会\n座談会のみの参加も可能です。\n\n（注意） お子さんの同伴は可能ですが託児はありませんのでご注意ください。\n\n時間\n・受付：午前9時45分～10時\n・育児講座：午前10時～10時30分\n・座談会：午前10時30分～11時\n（座談会のみの方受付：午前10時20分～30分）\n\n申込開始日一覧\n\n|実施日|申込開始日（9時から開始）<br>初回|申込開始日（9時から開始）<br>2回目以降|\n|:----|:----|:----|\n|令和6年5月22日（水曜日）|令和6年5月1日（水曜日）|-|\n|令和6年7月31日（水曜日）|令和6年7月1日（月曜日）|令和6年7月16日（火曜日）|\n|令和6年9月25日（水曜日）|令和6年9月2日（月曜日）|令和6年9月17日（火曜日）|\n|令和6年11月27日（水曜日）|令和6年11月1日（金曜日）|令和6年11月11日（月曜日）|\n|令和7年1月29日（水曜日）|令和7年1月6日（月曜日）|令和7年1月20日（月曜日）|\n|令和7年3月26日（水曜日）|令和7年3月3日（月曜日）|令和7年3月17日（月曜日）|\n\n・ちよだぱぱサロン ちらし（PDF：538KB）",
+      "target": {
+        "targetPersons": "区内在住の1歳未満のお子さんをもつパパ",
+        "lessThan": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "千代田保健所4階 健診室1・2",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "11:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "予約制（定員あり）です。",
+      "procedurePersons": null,
+      "procedureMethod": "ご予約はお電話（電話番号：03-5211-8175）、もしくはポータルサイトからお願いします。ポータルサイトの利用方法については以下をご覧ください。\n\n・ ポータルサイト（外部サイトへリンク）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/31302/shokaitoroku.pdf",
+          "title": "ポータルサイトの初回アカウント登録方法について（PDF：393KB）"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/31302/chirashi.pdf",
+          "title": "ちよだぱぱサロン ちらし（PDF：538KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/papasalon.html",
+        "title": "ちよだぱぱサロン"
+      },
+      "formLink": [
+        {
+          "uri": "https://chiyoda-portal.my.site.com/ctz/topPage",
+          "title": "ポータルサイト（外部サイトへリンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "千代田保健所保健サービス課保健相談係",
+        "contactPhone": "03-5211-8175",
+        "contactEx": null,
+        "contactEmail": "hokensoudan@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1020073",
+        "contactAddress": "東京都千代田区九段北1-2-14"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM103",
+        "organization": "8000020131016",
+        "compartment": "千代田保健所保健サービス課保健相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-05",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第９条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "児童館",
+        "shortName": "児童センター・児童館"
+      },
+      "summary": "児童館は、18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n千代田区の児童館には、小学校就学前のお子さんが安心して遊べるスペースがあり、またお子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、千代田区サイトや市報などでお知らせしています。）",
+      "description": "児童センター・児童館とは\n\n遊びや生活体験を通して、地域の子どもたちの健全育成と子育て支援を行う施設です。区内には、区立児童館4館・民営児童館2館があり、0歳～18歳のお子さんとその保護者が安心して自由に過ごし、互いに交流することができます。\n\n各児童館では、0歳～就学前のお子さんと保護者のための子育てひろばや一時（いっとき）預かり保育、親子で楽しめるプログラムなどを実施しています。\n\nまた、小学生の放課後の居場所として、午後5時まで安全に過ごすことができる施設です。児童センター・児童館（放課後向けご案内）（PDF：591KB）；https://www.city.chiyoda.lg.jp/documents/7200/goannai.pdfをご覧ください。\n\nその他、日曜開放や、中高生が音楽室や体育室で活動を楽しめる児童館中学生・高校生タイムもあります。詳しくは、それぞれのページまたは2023千代田区子育て応援ガイドブック（令和5年8月発行版）をご覧ください。\n\n・開館時間：午前9時から午後5時まで（学童クラブは別途）\n\n・主な活動\n\n【児童館事業】\n\n遊戯室や図工室、図書コーナーなどがあり、運動遊びや音楽遊び、造形遊び、読書やボードゲーム・カードゲームなど、さまざまな遊びを自由に楽しむことができます。卓球・体操・工作など、友だちと一緒に体験を楽しめるクラブや、おまつり・ゲーム会・観劇会・バスハイクなどのイベントも実施しています。\n\n【子育てひろば】\n\n0～2歳児を中心とした乳幼児親子の集いと交流の場です。親子で自由に遊ぶほか、「よちよちタイム」（0歳児親子対象）・「なかよしタイム」（0～2歳児親子対象）などのプログラムや、ベビーマッサージ、ヨガなどの子育て応援講座も実施しています。\n子育ての不安や悩み相談も、いつでも受け付けています。\n\n児童センター・児童館一覧\n\n区立4館・民営2館の一覧です。詳細は各館のページをご覧ください。\n\n児童館ではありませんが、子育てひろば・一時（いっとき）預かり保育を実施している「あい・ぽーと」麹町も掲載します。\n\n（注意） 以下の各館詳細は、基本の開館内容をご案内しています。休館などの情報は、各児童館からのお知らせをご確認ください。\n\n一覧表\n\n「表」\n西神田児童センター\t西神田2-6-2西神田コスモス館3階 03-5215-9062\n神田児童館　外神田3-4-7 昌平童夢館5階 03-3253-6021\n四番町児童館　四番町5-8　03-3234-3084\n一番町児童館一番町10　03-3230-0866\n富士見わんぱくひろば 富士見1-10-3富士見みらい館5階　03-3263-1185\nいずみこどもプラザ\t神田和泉町1ちよだパークサイドプラザ6階　03-3865-1461\n（参考）子育てひろば「あい・ぽーと」麹町 三番町7\t　03-3556-8471",
+      "target": {
+        "targetPersons": "区内在住・在学・在園の0歳から18歳までの児童とその保護者\n（小学校就学前の乳幼児は、保護者の付き添いが必要）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "休館日：日曜日・国民の祝日（こどもの日・日曜開放は除く）・年末年始（12月29日～1月3日）※西神田児童センターのみ12月29日～12月30日開館",
+      "utilization": "・入館時の来館簿記入\n・年度ごとに入館登録（災害・緊急時の連絡等のため）",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/guidebook.html",
+          "title": "児童館中学生・高校生タイム"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/jidocenter/oshirase.html",
+          "title": "2024千代田区子育て応援ガイドブック（令和6年8月発行版）"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ichijiteki/ittoki.html",
+          "title": "一時（いっとき）預かり保育"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/jidocenter/nichiyokaiho.html",
+          "title": "児童センター・児童館（放課後向けご案内）（PDF：591KB）"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/jidocenter/jidokan.html",
+          "title": "日曜開放"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/jidocenter/ichiran/jidocenter.html",
+        "title": "児童センター・児童館"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部児童・家庭支援センター子育て事業係",
+        "contactPhone": "03-5298-2424",
+        "contactEx": null,
+        "contactEmail": "jidousenta@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1010041",
+        "contactAddress": "東京都千代田区神田須田町1-4-4　PMO神田須田町4階"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM108",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部児童・家庭支援センター子育て事業係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-09-05",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第40条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "マタニティマーク",
+        "shortName": "「BABY in ME」バッグチャーム"
+      },
+      "summary": "千代田区では、妊娠の届出の際に、母子健康手帳と共に【マタニティマーク入りキーホルダー】をお渡ししています。",
+      "description": "妊娠していることをさりげなく周囲にお伝えすることができます\n\n千代田区は、生活環境条例等によって、妊娠している方やお子さんを含めたすべての人にとって、安全で快適な都市環境づくりを進めています。\n\nおなかが目立たない妊娠初期、満員電車や人混みで気分が悪くなっても周囲に理解してもらえない-「たばこ」の煙がつらい-妊娠している方のそのような体験を少しでも解消できるよう、妊娠していることをさりげなく周囲に伝えることのできるバッグチャーム「BABY in ME」を贈呈しています。必要に応じてご利用ください。\n\nバッグチャームデザインなど\n\nバッグチャームデザイン BABY in ME\n;https://www.city.chiyoda.lg.jp/images/1297/bagcharm.jpg\n\n日本助産師会 東京都支部推奨 直径 6.1cm\n\n他にも千代田区では、母子健康診査、乳幼児医療費助成制度や各種手当の支給、児童・家庭支援センター、保育園、こども園、児童館等での子育て相談などを通じて、妊娠している人、子育てを始める人を応援していますので、ぜひご活用ください。\n\n健やかな赤ちゃんのご誕生とご成長を心より祈念申し上げます。\n\nBABY in MEのホームページは、このバッグチャームの製作者のホームページで、妊婦の悩みや体験を紹介するコーナーなどがあります。",
+      "target": {
+        "targetPersons": "妊娠している方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "妊娠していることをさりげなく周囲に伝えることのできるバッグチャーム「BABY in ME」を贈呈しています。",
+        "monetarySupport": null,
+        "materiallySupport": "バッグチャーム「BABY in ME」"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "出張所または総合窓口課に妊娠届を提出いただいた際、母子健康手帳とともにバッグチャームなどが入った保健バッグを贈呈します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "出張所または総合窓口課",
+      "relatedLink": [
+        {
+          "uri": "http://www.baby-in-me.com",
+          "title": "BABY in MEホームページ（外部サイトへリンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ninshin/badge.html",
+        "title": "「BABY in ME」バッグチャームの贈呈"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部子育て推進課手当・医療係",
+        "contactPhone": "03-5211-4230",
+        "contactEx": null,
+        "contactEmail": "kosodatesuishin@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1028688",
+        "contactAddress": "東京都千代田区九段南1-2-1"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM2",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部子育て推進課手当・医療係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2015-03-30",
+      "odInformation": {
+        "updateDate": "2024/07/02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "082"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "幼児教育・保育の無償化",
+        "shortName": "幼児教育・保育の無償化"
+      },
+      "summary": "幼児教育・保育の重要性や、子育てや教育にかかる費用負担の軽減を図る少子化対策の観点などから、3歳児クラス（年少）から5歳児クラス（年長）のお子さん、および住民税非課税世帯の0歳児クラスから2歳児クラスのお子さんを対象に、幼児教育・保育の無償化を実施しています。\n無償化の内容は、利用する施設・サービスごとに異なります。",
+      "description": "無償化を受けるための手続きは、利用する施設や事業によって異なります。\n\n・【短時間保育】区立幼稚園・こども園、認定こども園;https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/hoikumushoka.html#no1\n・【長時間保育】区立幼稚園・こども園、認定こども園、認可保育所、地域型保育事業;https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/hoikumushoka.html#no2\n・認証保育所等保育料減額補助対象施設;https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/hoikumushoka.html#no3\n・企業主導型保育事業;https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/hoikumushoka.html#no4\n・私立幼稚園、国立大学附属幼稚園・特別支援学校等;https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/hoikumushoka.html#no5\n・幼稚園等の預かり保育事業;https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/hoikumushoka.html#no6\n・認可外保育施設、児童館の一時（いっとき）預かり保育、ファミリー・サポート・センター事業等;https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/hoikumushoka.html#no7\n\n施設事業ごとの対応\n\n【短時間保育】区立幼稚園・こども園、認定こども園\n特別な手続きは、必要ありません。\nただし、保護者が就労等により保育ができないために幼稚園等の預かり保育事業を利用する場合は、「施設等利用給付認定（新2号・新3号）」を受ける必要があります。\n詳しくは、「子ども・子育て支援新制度の認定申請について（子育てのための施設等利用給付認定）」をご覧ください。\n\n【長時間保育】区立幼稚園・こども園、認定こども園、認可保育所、地域型保育事業\n特別な手続きは、必要ありません。\n\n認証保育所等保育料減額補助対象施設\n千代田区の保育料減額補助において、基本保育料等の無償化を行っています。\n詳しくは、認証保育所等保育料減額補助をご覧ください。\n\n企業主導型保育事業\n利用している施設に、お問い合わせください。\n\n私立幼稚園、国立大学附属幼稚園・特別支援学校等\n私立幼稚園等に通園する園児の保護者に対し、保育料等の負担を軽減し、幼児教育の増進を図るため給付を行っています。\n詳しくは、「私立幼稚園・国立大学附属幼稚園等」をご覧ください。\n\n幼稚園等の預かり保育事業\n幼稚園など短時間保育施設を利用している保護者が、就労している場合など一定の要件に該当する場合に、給付等を支給します。\n詳しくは、「私立幼稚園・国立大学附属幼稚園等」をご覧ください。\n\n認可外保育施設、児童館の一時（いっとき）預かり保育、ファミリー・サポート・センター事業等\n利用している事業が無償化の対象であれば、3歳児～5歳児は「子育てのための施設等利用給付認定」を、0歳児～2歳児は「子どものための教育・保育給付認定」を受ける必要があります。\n\n詳しくは、子ども・子育て支援新制度の認定申請についてをご覧ください。\n\n【ご案内】認可外保育施設等無償化（PDF：316KB）;https://www.city.chiyoda.lg.jp/documents/18833/6-ninkagai.pdf\n\n【ご案内】一時預かり保育、ファミリーサポートセンター事業の無償化（PDF：1,093KB）;https://www.city.chiyoda.lg.jp/documents/18833/7-ichijiazukari.pdf\n\n請求について;https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/hoikumushoka.html#no8\n\n",
+      "target": {
+        "targetPersons": "満3歳になった後の4月1日から小学校入学前まで\nただし、幼稚園については入園できる時期に合わせて満3歳から、家庭において必要な保育を受けることが困難な区市町村民税非課税世帯のお子さんは0歳から、無償化の対象になります。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "幼稚園、保育所、認定こども園等を利用する場合、満3歳になった後の4月1日から小学校入学前まで、基本保育料が無償となります。\n\nただし、幼稚園については入園できる時期に合わせて満3歳から、家庭において必要な保育を受けることが困難な区市町村民税非課税世帯のお子さんは0歳から、無償化の対象になります。\n\nさらに千代田区では、区内にお住まいの3歳児クラス以上のお子さんが、区立幼稚園・こども園、認定こども園、認可保育所、地域型保育事業を利用する場合、月額最大4,700円までの給食費を助成します。",
+        "monetarySupport": "認可外保育施設、児童館の一時（いっとき）預かり保育、ファミリー・サポート・センター事業等\n3歳児～5歳児\n満3歳になった後の4月1日から就学前（小学校入学前）まで、月額3万7,000円までの保育料が無償となります。\n\n0歳児～2歳児\n区市町村民税非課税世帯のお子さんは、0歳から満3歳になった後の3月31日まで、月額4万2,000円までの保育料が無償となります。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "幼稚園等の預かり保育料・認可外保育施設等の請求について\n申請方法\n１．請求に必要な書類をダウンロードし、記入例を参照し記入してください。\n２．利用した幼稚園および施設が発行した特定子ども・子育て支援提供証明書兼領収証とともに申請してください。\n３．申請先：子ども支援課保育運営支援係 郵送または窓口提出\n　　送付先：〒102-8688 九段南1-2-1 千代田区教育委員会 子ども部子ども支援課保育運営支援係\n　　持参締切日：提出締切日が土曜日・日曜日・祝日の場合、前日の午後5時まで",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoikuen/riyoannai/hojo-hoiku.html",
+          "title": "認証保育所等保育料減額補助"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoikuen/shien/shinseido.html#a2",
+          "title": "子ども・子育て支援新制度の認定申請について（子育てのための施設等利用給付認定）"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/yochien/shiritsu-kokuritsu.html",
+          "title": "私立幼稚園・国立大学附属幼稚園等"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoikuen/shien/shinseido.html",
+          "title": "子ども・子育て支援新制度の認定申請について"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoiku/hoikumushoka.html",
+        "title": "幼児教育・保育の無償化"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部子ども支援課保育運営支援係",
+        "contactPhone": "03-5211-4117",
+        "contactEx": null,
+        "contactEmail": "kodomoshien@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1028688",
+        "contactAddress": "東京都千代田区九段南1-2-1"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM2368",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部子ども支援課保育運営支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-09-29",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "子ども・子育て支援法",
+        "regulationArticle": "第27条～第30条（第二章 第三節 第三款 施設型給付費及び地域型保育給付費等の支給）、第30条の2(子育てのための施設等利用給付）)"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の幼児教育・保育施設の補助・減免",
+        "shortName": "認証保育所等保育料減額補助"
+      },
+      "summary": "認証保育所（区外も対象）および区補助対象保育室、区緊急保育施設、幼保一体施設内保育園利用時の負担軽減を図るため、区独自の「千代田区保育料減額補助」を設けています。",
+      "description": "認証保育所等を利用しやすくするため、区が認可保育園を利用した場合と比較して2割程度安い保育料となるよう保育料補助を行うものです。\n\n保育料\n「認可保育園保育料と認証保育所・区補助対象保育室・区緊急保育施設・幼保一体施設内保育園保育料（月120～220時間利用分）早見表（PDF：103KB）」をご覧ください。\n（注意） ３～５歳児クラス、第2子以降の子どもの保育料については、認可保育園に準じ無料です。",
+      "target": {
+        "targetPersons": "千代田区在住者で、認証保育所（区外も対象）および区補助対象保育室、区緊急保育施設、幼保一体施設内保育所を利用するとき、一定の基準を満たしている場合\n\n一定の基準とは\n・認可保育園入所の要件を満たしている方\n・保育施設の月利用時間のうち120時間～220時間分を対象とします。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "申請により認証保育所等の保育料から一定金額を減額します。\n認証保育所等を利用しやすくするため、区が認可保育園を利用した場合と比較して2割程度安い保育料となるよう保育料補助を行うものです。",
+        "monetarySupport": "認証保育所等の保育料から一定金額を減額",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申し込みには、教育・保育給付認定申請が必要です。\n未申請の場合は、「教育・保育給付認定申請書（PDF：118KB）」を提出してください。\n\n申込先および締切日\n申込先：子ども支援課（持参または郵送）\n\n締切日：原則として、補助を希望する月の月末まで（土曜日・日曜日・国民の祝日にあたる場合は、前日または前々日）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "就労・パート・アルバイトの方：就労証明書（PDF：141KB）;https://www.city.chiyoda.lg.jp/documents/1367/shuroshomeisho_2.pdf、（エクセル：56KB）;https://www.city.chiyoda.lg.jp/documents/1367/shuroshomeisho_1.xlsx,自営業の方：就労証明書（PDF：141KB）;https://www.city.chiyoda.lg.jp/documents/1367/shuroshomeisho_2.pdf、（エクセル：56KB）;https://www.city.chiyoda.lg.jp/documents/1367/shuroshomeisho_1.xlsx,会社の運営を確認できる書類,病気や介護の方：診断書（PDF：108KB）;https://www.city.chiyoda.lg.jp/documents/1367/shindansho_3.pdf,心身に障害のある方：身体障害者手帳・愛の手帳の写し,大学等に通学の方：在学証明書（PDF：77KB）;https://www.city.chiyoda.lg.jp/documents/1367/zaigakushomeisho.pdfおよびカリキュラム等\n\n保育料決定のための書類（父・母分 各々分）\n千代田区にお住まいになった時期や保育料減額補助を適用する時期によって、提出書類が異なります。令和5年1月1日以前から千代田区に在住の方は提出の必要はありません。\n\n詳細表\n\n「表」\n\n（注意） 前年に海外に在住していた方等については、所得証明の提出が必要です。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "子ども支援課",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/1367/hoikuryoichiran_2.pdf",
+          "title": "認可保育園保育料と認証保育所・区補助対象保育室・区緊急保育施設・幼保一体施設内保育園保育料（月120～220時間利用分）早見表（PDF：103KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoiku/hojo-hoiku.html",
+        "title": "認証保育所等の保育料"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部子ども支援課保育運営支援係",
+        "contactPhone": "03-5211-4117",
+        "contactEx": null,
+        "contactEmail": "kodomoshien@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1028688",
+        "contactAddress": "東京都千代田区九段南1-2-1"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM2369",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部子ども支援課保育運営支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-11-07",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "広域入所（市外の認可保育所等への入所）",
+        "shortName": "なし"
+      },
+      "summary": "現在、千代田区在住の方が千代田区外の園に入園申し込みをされる場合、申込手続きが通常と異なる場合がございます。",
+      "description": "現在の状況および転入先自治体によって申し込み方法が異なります。\n詳細は下記をご確認ください。\n\n【転出先自治体への転入届出日が、転出先自治体の申込期限より前の場合】\n◆申し込み先\n申し込みは、転出先自治体に直接行うことができます。転入後に転出先自治体の申込書でお申し込みください。お申し込みに当たっては転出先自治体までお問い合わせください。\n\n【転出先自治体への転入届出日が、転出先自治体の申込期限より後の場合】\n◆申し込み先\n申し込みは、転出先自治体に直接行ってください。\n（注意） 転出先自治体が直接申し込みを受け付けられない場合は千代田区へご提出ください。\n\n【転入届出後の手続き】\n転出先自治体の住民としての申し込みが必要な場合があります。\n詳細は転出先自治体にお問い合わせください。\n\n",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "申し込み先の自治体に直接ご確認ください"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "ご利用・お手続きの前に必ず転出先自治体にご確認ください。",
+      "procedurePersons": "区内在住の方",
+      "procedureMethod": "【転出先自治体への転入届出日が、転出先自治体の申込期限より前の場合】\n◆申し込み先\n申し込みは、転出先自治体に直接行うことができます。転入後に転出先自治体の申込書でお申し込みください。お申し込みに当たっては転出先自治体までお問い合わせください。\n\n【転出先自治体への転入届出日が、転出先自治体の申込期限より後の場合】\n◆申し込み先\n申し込みは、転出先自治体に直接行ってください。\n（注意） 転出先自治体が直接申し込みを受け付けられない場合は千代田区へご提出ください。\n\n【転入届出後の手続き】\n転出先自治体の住民としての申し込みが必要な場合があります。\n詳細は転出先自治体にお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "申込期限は自治体によって異なります。必ず事前に転出先自治体にお問い合わせください。"
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoikuen/riyoannai/hoikuen-nyuen.html#tennyu",
+        "title": "保育園入園案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部子ども支援課入園審査係",
+        "contactPhone": "03-5211-4119",
+        "contactEx": null,
+        "contactEmail": "kodomoshien@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1028688",
+        "contactAddress": "東京都千代田区九段南1-2-1"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM2370",
+        "organization": "8000020131016",
+        "compartment": null,
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "子ども・子育て支援法",
+        "regulationArticle": "第3条第1項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自のベビーシッター費用の助成",
+        "shortName": "千代田区ベビーシッター利用支援事業（一時預かり利用支援）"
+      },
+      "summary": "ベビーシッターを利用した際の費用の一部を負担する制度です｡\n日常生活上の突発的な事情、社会参加等により一時的に保育が必要となった保護者に対し、ベビーシッターの利用に要した費用の一部を補助することにより、保護者の経済的な負担を軽減し、もって児童福祉の充実を図ります。",
+      "description": "区は、日常生活上の突発的な事情等により一時的に保育を必要とする保護者が、東京都が指定するベビーシッター事業者を利用した際、その利用料の一部を補助します。\n\n令和6年1月15日からの変更点\n\n・申請書類の提出先・問い合わせ先が株式会社パソナライフケア（区の委託事業者）;https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ichijiteki/babysitter.html#toiawaseへ変更となりました。これに伴い、区へ直接持参する形での提出はできなくなりますので、ご注意ください。\n・提出書類のうち、区の所定書式も変更となりました。必ず最新の書式をご使用ください。\n\nなお、本事業はベビーシッターを直接あっせんする事業ではないため、区がベビーシッター利用を保証するものではありません。\n\n令和6年度：事業案内チラシ（PDF：1,242KB）;https://www.city.chiyoda.lg.jp/documents/27648/r6chirashi.pdf\n\n利用時間\n24時間・365日\n\n利用上限\n児童1人同一年度内144時間まで\n\n（注意1） 多胎児は1人288時間まで\n（注意2） 18歳未満で障害者手帳を有する子どもがいる家庭の児童（小学3年生まで）は1人216時間まで\n（補足） 利用上限に達し、家庭の事情等によりさらに支援が必要な場合、区が実施する他のサービスを利用できる場合がありますので、ご相談ください。\n\n対象事業者\n\n東京都が定めるベビーシッター利用支援事業（一時預かり利用支援）の認定事業者\n\n・株式会社 明日香\n・株式会社 アリスキャリアサービス（アリスシッター）\n・株式会社 アルファコーポレーション\n・eソリューション株式会社（eキッズ訪問保育）\n・株式会社 キッズライン\n・（注意）マッチングサービスは本事業の対象外です。本事業の利用には、マッチングサービスとは別に契約をする必要があります。詳細は会社のホームページを必ずご確認ください。\n・有限会社 クールドロワ（CoMaMoRi）\n・コンビスマイル 株式会社\n・サンフラワー・A 株式会社\n・株式会社 ジャパンベビーシッターサービス\n・株式会社 小学館集英社プロダクション（ベビーシッターのHAS）\n・株式会社 タカミサプライ\n・HugPocket 株式会社\n・株式会社 パザパ情操教育研究所\n・株式会社 パソナライフケア\n・ハニークローバー 株式会社\n・株式会社 パリオ\n・株式会社 ヒューマンドリームプランニング（ヒューマニティーシッター）\n・特定非営利活動法人 フローレンス\n（注釈1）病児・病後児保育特化（フローレンスの病児保育）\n（注釈2）多胎児専用（フローレンスのふたご助っ人くじ）\n・株式会社 ポピンズシッター（旧：スマートシッター株式会社）\n・株式会社 ポピンズファミリーケア（旧：株式会社ポピンズ）\n・株式会社 マザーネット\n・株式会社 ママMATE\n・株式会社 ミラクス（miraxsシッター）（旧：HITOWAキャリアサポート株式会社（わらべうた））\n・mormor 株式会社（モルモル）\n・株式会社 ラヴィ\n・ル・アンジェ 株式会社\n\n詳細はベビーシッター利用支援事業（一時預かり利用支援） 認定事業者一覧（東京都福祉局ホームページ）（外部サイトへリンク）;http://www.fukushihoken.metro.tokyo.lg.jp/kodomo/hoiku/bs/itijiazukarijigyoushalist.htmlを参照ください（随時更新）。\n\n保育基準\n\n児童1人に対し、ベビーシッター1人による保育であること。\n\n（注意）例外として、補助対象児童とその兄弟姉妹（人数や年齢を問わない）を、保護者等とベビーシッターが共同して保育を行う場合で、保護者が契約において同意している時には、ベビーシッターが1人であっても補助対象となります。\n（注意） 申請は利用月に関わらず随時受け付けますが、令和6年度中の利用分は必ず令和7年4月18日午後5時（必着）までにご提出ください。締め切り後、年度を遡って申請を受け付けることはできません。\n\n注意事項\n・本事業の利用をする前に、厚生労働省が定めるベビーシッターなどを利用するときの留意点（厚生労働省ホームページ）（外部サイトへリンク）;https://www.mhlw.go.jp/stf/houdou/0000040712.htmlをご確認ください。\n\n・ベビーシッター利用支援事業（一時預かり利用支援）の利用に係るQ＆A（PDF：122KB）;https://www.city.chiyoda.lg.jp/documents/27648/q-a_7.pdfもご覧ください。\n\n・申請内容の審査にあたり、利用の状況等をベビーシッター事業者へ問い合わせる場合があります。\n\n・本事業はベビーシッターをあっせんする事業ではないため、ベビーシッターの利用を保証するものではありません。また、ベビーシッターの利用契約に関するトラブルについて、千代田区は一切関与しません。\n\n・本事業に係る補助金は、所得税法上の非課税所得に該当します。",
+      "target": {
+        "targetPersons": "千代田区内に住所を有する満6歳になる年度の末日（小学校入学前）までの児童の保護者で、次のいずれかに該当する方（保育認定は問いません）\n\n（注意）18歳未満で障害者手帳を有する子どもがいる世帯は、小学3年生まで対象となります。\n\n・日常生活上の突発的な事情や社会参加などにより、一時的に保育を必要とする方\n（保護者の仕事や通院、自己実現、学校行事など、幅広い理由が対象となります）\n・ベビーシッターを活用した共同保育を必要とする方\n（保護者等と一緒にベビーシッターが共同で保育します）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "（児童1人、1時間あたり）\n7時～22時の利用：上限2,500円／22時～翌7時の利用：上限3,500円\n\n（注意） 同じ時間帯に病児・病後児保育のベビーシッター利用料を補助（子ども支援課所管）との併用はできません。\n\n対象利用料\nベビーシッター事業者から請求される料金のうち、純然たる保育サービス提供単価（税込み）\n\n（注意） 入会金、会費、交通費、キャンセル料、保険料、おむつ代等の実費、サービス提供に付随する料金（家事援助、兄弟姉妹の送迎ほか）等は対象外です。\n\n（注意） 勤務先の福利厚生、クーポン券などによる割引や他に助成を受けている場合は、その額を差し引いた後の利用料が補助対象となります。",
+        "monetarySupport": "（児童1人、1時間あたり）\n7時～22時の利用：上限2,500円／22時～翌7時の利用：上限3,500円",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": "2024-04-01",
+        "fromHM": null,
+        "toYMD": "2025-03-31",
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "1.東京都の「ベビーシッター利用支援事業（一時預かり利用支援）」の認定事業者の中から利用したい事業者を選び、事業者と直接契約したうえでサービスを利用してください。\n（注意）契約をする際、必ず「東京都のベビーシッター利用支援事業（一時預かり利用支援）を活用したい」と伝え、事業の要件を満たすシッターの派遣を依頼してください（要件を満たさないシッターの場合は補助対象外）。\n\n2.ベビーシッター事業者へ利用料金を支払うとともに、以下の書類の交付を受けてください。\n・「ベビーシッター利用支援事業（一時預かり利用支援）補助事業要件証明書」（発行日が利用日当日もしくはそれ以前の日付であることを確認する）の交付を受けてください。\n（注意）この証明書は、従事したベビーシッターが本事業の要件を満たしているかを確認するためのものです。補助金の交付申請をする際に必要となります。\n・「利用日時、利用した児童名・シッター名、利用料の内訳等が分かる書類」と「領収書」の交付を受けてください。\n\n3.指定の期日までに委託事業者へ補助金の交付申請をしてください。",
+      "procedurePersons": null,
+      "procedureMethod": "補助金の交付申請\n以下の必要書類を株式会社パソナライフケア（千代田区委託事業者）へ提出（郵送またはオンライン）してください。\nオンライン申請はポータルサイト（外部サイトへリンク;https://chiyoda-portal.my.site.com/ctz/topPage）から行ってください。\n\n（注意） 消えるボールペンの使用はできません。\n\n申請する際のお願い\n\n・オンラインで申請する際の住所は、添付する本人確認書類の表記と揃えてください。\n・オンラインで申請する際の添付資料で、画質が悪いや影が映り込むなどにより不鮮明な例が散見されていますので、鮮明であることをよく確認のうえご提出ください。\n・申請は、書類審査の迅速性、効率性の観点から、一定期間分（1か月～3か月程度が望ましい）の書類をまとめて提出いただきたく、ご協力をお願いします。\n\n記載方法等で不明な点がありましたら、ご相談ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": "2025-04-18",
+        "toHM": "17:00",
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "1～2の書類は、必ず最新の様式を使用し、1の書類には必ず申請者印と捨印を押印してください。申請書の名義人は、事業所が発行する領収書の名義人と同一の方に限ります。\n\n（注意） 令和5年度利用分は、令和5年度中の日付で交付申請してください。令和6年4月の日付で申請された場合、申請日は令和6年3月31日と読み替えさせていただきます。\n\n1.【郵送申請の方】千代田区ベビーシッター利用支援事業（一時預かり利用支援）補助金交付申請書兼口座振替依頼書（PDF：275KB）、（エクセル：45KB）、記載例（PDF：362KB）\n（注意） 請求者以外の方の口座へ振り込む場合は、委任状（PDF：65KB）を添付してください。その場合、振込口座の名義人が代理人となります。\n2.ベビーシッター（一時預かり）利用内訳表【利用対象児童ごとに作成してください】\n利用内訳表（PDF：531KB）、（エクセル：51KB）、記載例（PDF：554KB）\n（注釈） 自動計算ができるエクセルファイルの使用を推奨します。\n3.【オンライン申請の方】最新の本人確認書類（氏名と住所が確認できる書類）\n（注意） 運転免許証・パスポート・マイナンバーカード（写真のある面）・在留カード・特別永住者証明書・健康保険証のいずれか\n4.ベビーシッター利用支援事業（一時預かり利用支援）補助事業要件証明書\n5.利用した児童名、ベビーシッター名、利用日、利用時間、利用料の内訳等が分かる書類（利用明細書等）【5.の領収書で確認ができる場合は省略可能】\n6.領収書【原本に限る】\n7.クーポン利用や勤務先の福利厚生等で減額されたことが分かる書類（写）【明細に割引利用日等の記載がない場合】\n8.【該当者のみ】18歳未満の子どもの障害者手帳（写し）\n（注意） 身体障害者手帳、東京都療育手帳（愛の手帳）、精神障害者保健福祉手帳のいずれか\n（注意） 1.～2.は区の所定様式（PDFまたはExcelでダウンロード可能）\n（注意） 4.～6.はベビーシッター事業者が発行（4.5.は写しでも可能）\n（注意） 提出書類は返却できませんので、必要な方は提出前にコピーをお取りください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "株式会社パソナライフケア（千代田区委託事業者）\n〒107-0062 港区南青山3-1-30 千代田区ベビーシッター担当 宛\n電話番号：0120-212-115",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/27648/q-a_7.pdf",
+          "title": "ベビーシッターなどを利用するときの留意点（厚生労働省ホームページ）（外部サイトへリンク）"
+        },
+        {
+          "uri": "http://www.fukushihoken.metro.tokyo.lg.jp/kodomo/hoiku/bs/itijiazukarijigyoushalist.html",
+          "title": "病児・病後児保育のベビーシッター利用料を補助"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ichijiteki/babysitter.html#toiawase",
+          "title": "株式会社パソナライフケア（区の委託事業者）"
+        },
+        {
+          "uri": "https://www.mhlw.go.jp/stf/houdou/0000040712.html",
+          "title": "ベビーシッター利用支援事業（一時預かり利用支援） 認定事業者一覧（東京都福祉局ホームページ）（外部サイトへリンク）"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/27648/r6chirashi.pdf",
+          "title": "事業案内チラシ（PDF：1"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ichijiteki/jose.html",
+          "title": "242KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ichijiteki/babysitter.html",
+        "title": "ベビーシッター利用料金を補助します＜千代田区ベビーシッター利用支援事業（一時預かり利用支援）＞"
+      },
+      "formLink": [
+        {
+          "uri": "https://chiyoda-portal.my.site.com/ctz/topPage",
+          "title": "ポータルサイト（外部サイトへリンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部児童・家庭支援センター子ども家庭相談係",
+        "contactPhone": "03-5298-5521",
+        "contactEx": null,
+        "contactEmail": "jidousoudan@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1010048",
+        "contactAddress": "東京都千代田区神田司町2-16　神田さくら館6階"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM25",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部児童・家庭支援センター子ども家庭相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-31",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "副食費の補助",
+        "shortName": "私立幼稚園・国立大学附属幼稚園等"
+      },
+      "summary": "千代田区では、一定の要件を満たしている世帯を対象に、保育所等で提供される給食等にかかる食材料費の一部（副食費）を免除しています。",
+      "description": "私立幼稚園等に通園する園児の保護者に対し、保育料等の負担を軽減し、幼児教育の増進を図るため給付を行っています。また、一部の世帯に向けて、給食費のうち、おかずやおやつ等の費用（副食費）に対する給付も行っています。\n\n各種給付を受けるためには、児童や保護者の要件に応じて、認定を受ける必要があります。詳しくは「子ども・子育て支援新制度の認定申請について」をご覧ください。",
+      "target": {
+        "targetPersons": "|在籍施設|施設等利用費|園児保護者負担軽減事業|副食費の補足給付|\n|:----|:----|:----|:----|\n|私立幼稚園|月額25,700円|月額7,200円|月額4,800円|\n|（未移行園（注釈1））|（上限）|（上限（注釈2））|（上限（注釈3））|\n|私立幼稚園|給付対象外|月額7,200円|給付対象外|\n|（移行園（注釈1））| |（上限（注釈2））|（注釈4）|\n|国立大学附属幼稚園|月額8,700円|給付対象外|月額4,800円|\n| |（上限）| |（上限（注釈3））|\n|特別支援学校幼稚部|月額400円|給付対象外|給付対象外|\n| |（上限）| | |\n|幼稚園類似の幼児施設|給付対象外|月額26,400円|給付対象外|\n| | |（上限（注釈2））| |\n\n（注釈1） 千代田区内の私立幼稚園はすべて未移行園です。千代田区外の私立幼稚園の移行状況については、在籍する施設に直接お問い合わせください。\n（注釈2） 給付上限額は、世帯ごとに「対象の子どもが第何子か」および「所得割課税額」によって異なります。\n（注釈3） 年収360万円未満相当の世帯（区民税所得割課税額77,100円以下の世帯）のみ対象となります。\n（注釈4） 私立幼稚園（移行園）の在籍されており、ご自身で副食費を負担されている場合、別途補助があります。詳細については、施設に直接お問い合わせください。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "（注釈1） 千代田区内の私立幼稚園はすべて未移行園です。千代田区外の私立幼稚園の移行状況については、在籍する施設に直接お問い合わせください。\n（注釈2） 給付上限額は、世帯ごとに「対象の子どもが第何子か」および「所得割課税額」によって異なります。\n（注釈3） 年収360万円未満相当の世帯（区民税所得割課税額77,100円以下の世帯）のみ対象となります。\n（注釈4） 私立幼稚園（移行園）の在籍されており、ご自身で副食費を負担されている場合、別途補助があります。詳細については、施設に直接お問い合わせください。"
+      },
+      "support": {
+        "description": "私立幼稚園\n（未移行園（注釈1））\n国立大学附属幼稚園\n\n（注釈1） 千代田区内の私立幼稚園はすべて未移行園です。千代田区外の私立幼稚園の移行状況については、在籍する施設に直接お問い合わせください。\n（注釈3） 年収360万円未満相当の世帯（区民税所得割課税額77,100円以下の世帯）のみ対象となります。",
+        "monetarySupport": "月額4,800円\n（上限（注釈3））\n\n月額4,800円\n（上限（注釈3））",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "教育委員会事務局子ども部子ども支援課保育運営支援係",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoikuen/shien/shinseido.html",
+          "title": "子ども・子育て支援新制度の認定申請について"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/yochien/shiritsu-kokuritsu.html",
+        "title": "私立幼稚園・国立大学附属幼稚園等"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部子ども支援課保育運営支援係",
+        "contactPhone": "03-5211-4117",
+        "contactEx": null,
+        "contactEmail": "kodomoshien@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1028688",
+        "contactAddress": "東京都千代田区九段南1-2-1"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM5046",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部子ども支援課保育運営支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-09-03",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "保育所等における医療的ケア児への支援",
+        "shortName": "障害児保育・医療的ケア児の保育"
+      },
+      "summary": "障害のあるお子さんや保育園での医療的ケアの実施を必要とするお子さんの保育園への入園申込にあたっては、安全で適切な保育の実施のため、別途提出書類や事前のご相談をお願いしています。",
+      "description": "障害のあるお子さんや保育園での医療的ケアの実施を必要とするお子さんの保育園への入園申込にあたっては、安全で適切な保育の実施のため、別途提出書類、事前のご相談をお願いしています。\n",
+      "target": {
+        "targetPersons": "保育の必要性があり、集団保育が可能である障害児・医療的ケア児\n※障害児とは、身体障害者手帳、療育手帳（愛の手帳）、精神障害者保健福祉手帳を所持している児童または心身の障害により保育園で特別な配慮を要する児童としています。\n※医療的ケア児とは、日常生活を営むために、生活扶助行為としての医療的ケアを必要とする児童であって、保育の実施時間中に園での医療的ケアの実施を必要とする児童としています。\n※集団保育の実施可否については、医師の意見書や区の関係者会議の結果を踏まえて総合的に判断します。\n※内定園での面接、健康診断および体験保育の実施により、集団保育や園での医療的ケアの実施が著しく困難と判断されたときは、内定が取り消しになる場合があります。\n※日常的に他の児童から隔離した場において保育が必要な場合や看護師による随時の観察および処置が必要な場合、集団保育は困難であると医師が判断した場合は利用を取り消すことがあります。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "障害児は生後57日目（小規模保育事業は生後10か月）から小学校就学前まで、医療的ケア児は満1歳から小学校就学前まで"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "障害児：受け入れ園の制限なし\n医療的ケア児：認可保育園、区立こども園、認定こども園、幼保一体施設（お子さんの状況や園の体制によっては受け入れができないことがあります。）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": "障害児：原則保育が必要な事由にかかる時間とし、園長が決定します。\n医療的ケア児：お子さんや保護者の状況及び看護師の配置状況を踏まえて園長が決定します。"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "入園決定までの流れ\n入園申込、内定後、園での面接、健康診断に加え、体験保育期間を経て入園決定となります。\n医療的ケア児の場合、体験保育期間は保護者の方の付き添いが必要です。\n障害児については、お子さんの状況に応じて保護者の方の付き添いをお願いする場合があります。",
+      "procedurePersons": null,
+      "procedureMethod": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoiku/moshikomi-nyuen.html",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "医療的ケア児のお子さんの保育園入園にあたっては、調整に時間を要するため、入園希望月の3か月前までにはご相談ください。4月入園の場合は、遅くとも申込受付期間中にご相談ください。"
+      },
+      "electronicSubmission": false,
+      "belongings": "医療的ケアに必要な医療器材や消耗品の用意、器材の洗浄・消毒、消耗品の破棄については各家庭でご対応ください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoiku/shogai-iryotekicare.html",
+        "title": "障害児保育・医療的ケア児の保育"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部子ども支援課入園審査係",
+        "contactPhone": "03-5211-4119",
+        "contactEx": null,
+        "contactEmail": "kodomoshien@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": "FAX：03-5211-4119",
+        "zipCode": "1028688",
+        "contactAddress": "東京都千代田区九段南1-2-1"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM5047",
+        "organization": "8000020131016",
+        "compartment": "子ども部子ども支援課入園審査係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/11/29",
+      "odInformation": {
+        "updateDate": "2025/02/20",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "医療的ケア児及びその家族に対する支援に関する法律、千代田区医療的ケア児保育事業実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "004",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "高等職業訓練促進給付金",
+        "shortName": "高等職業訓練促進給付金"
+      },
+      "summary": "ひとり親家庭の母または父が、就業に結びつきやすい対象資格（看護師や介護福祉士など）を取得するため1年以上（令和3年4月1日から令和4年3月31日までに修業を開始する場合には6月以上）、養成機関で修業する場合に、修業期間中の生活の負担軽減のために高等職業訓練促進給付金を、また修業終了時に高等職業訓練修了支援給付金を支給します。",
+      "description": "就職に有利な国家資格等の取得のため、1年以上養成機関で修業する場合、生活費の負担軽減を図り、資格取得を容易にするため、「高等職業訓練促進給付金」（訓練促進給付金）を支給する制度です。また、養成機関での修業修了後には、「高等職業訓練修了支援給付金」（修了支援給付金）を支給します。\n\n対象となる資格\n看護師・准看護師・介護福祉士・保育士・理学療法士・作業療法士・保健師・助産師・理容師・美容師・歯科衛生士・社会福祉士・製菓衛生師・調理師、シスコシステムズ認定資格、LPI認定資格など\n\n（注意） シスコシステムズ認定資格、LPI認定資格については修業期間6か月以上。",
+      "target": {
+        "targetPersons": "対象者（以下のすべての要件を、申請時および給付を受ける間、引き続き該当している方）\n\n・千代田区内に住所を有する母子家庭の母または父子家庭の父で、20歳未満の子どもを扶養している方\n・児童扶養手当の支給を受けている方、または同等の所得水準の方\n・就業または育児と修業の両立が困難であると認められる方\n・訓練促進給付金と趣旨を同じくする給付を受給していない方\n　・求職者支援制度における職業訓練受講給付金\n　・雇用保険法第24条に定める訓練延長給付金\n　・雇用保険法附則第11条の2に定める教育訓練給付制度における教育訓練支援給付金 等\n・資格取得をするための養成機関で1年以上のカリキュラムを修業し、対象資格の取得が見込まれる方\n　・原則、通学制またはオンライン（インターネット環境を利用し、同時かつ双方向に行われるもの）で受講すること。\n　・令和3年4月1日から令和6年3月31日までに修業を開始する場合に限り、修業期間6か月以上のカリキュラムを修業し、対象資格の取得が見込まれる方も含みます。\n・原則として、過去に当該給付金の支給を受けていない方\n（注意） 修業期間中に支給要件に該当しなくなった場合は支給を中止することがあります（例：所得が増えた場合）。",
+        "lessThan": {
+          "targetAge": 20,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "支給額は、世帯（同居または生計を同じくする扶養義務者を含む）の課税状況により異なります。\n\n給付金詳細表\n\n|給付金種類|支給期間|住民税非課税世帯|住民税課税世帯|\n|:----|:----|:----|:----|\n|訓練促進給付金（毎月）<br>（注意） 支給は申請のあった月からとなります。<br>修業期間（上限4年）|通常|10万円／月|7万5百円／月|\n|訓練促進給付金（毎月）<br>（注意） 支給は申請のあった月からとなります。<br>修業期間（上限4年）|・修業期間の最後の12か月<br>・令和3年4月1日から令和6年3月31日までに修業を開始する場合に限り、修業期間6か月以上12か月未満の場合の該当期間|14万円／月|11万5百円／月|\n|修了支援給付金（1回）|訓練修了後に支給|5万円|2万5千円|",
+        "monetarySupport": "支給額は、世帯（同居または生計を同じくする扶養義務者を含む）の課税状況により異なります。\n\n給付金詳細表\n\n|給付金種類|支給期間|住民税非課税世帯|住民税課税世帯|\n|:----|:----|:----|:----|\n|訓練促進給付金（毎月）<br>（注意） 支給は申請のあった月からとなります。<br>修業期間（上限4年）|通常|10万円／月|7万5百円／月|\n|訓練促進給付金（毎月）<br>（注意） 支給は申請のあった月からとなります。<br>修業期間（上限4年）|・修業期間の最後の12か月<br>・令和3年4月1日から令和6年3月31日までに修業を開始する場合に限り、修業期間6か月以上12か月未満の場合の該当期間|14万円／月|11万5百円／月|\n|修了支援給付金（1回）|訓練修了後に支給|5万円|2万5千円|",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "訓練促進給付金の相談・申請・受給までの流れ\n1.事前相談\n原則として、養成機関受験前、もしくはお悩みの段階でまずは生活支援課にご連絡ください。電話で来所相談日を調整します。\n来所相談の際、生活状況や資格取得の計画や意欲などもお伺いします。\n訓練促進給付金支給申請は、修業開始以降となります。\n支給は申請を受領した月からとなります。\n2.訓練促進給付金支給申請\n事前相談・修業開始以降、申請書類を提出していただきます。\n支給決定までには審査があります。\n（注意） 審査の結果、支給不可の場合もあります。\n3.支給開始\n審査後、支給決定通知を送付します。\n4.給付金請求\n支給決定通知確認後、毎月、養成（修業）機関の出席状況証明書または在学証明書を、給付金の請求書と併せて提出していただきます。\n5.給付金支給\n請求後おおむね1か月以内に指定の口座に振り込む予定です。\n（注意） 留年する場合および休学期間中の支給はできません。\n（注意） 毎年度、継続手続きが必要です。\n\n修了支援給付金の申請・受給までの流れ\n1.給付金支給申請\n原則として、養成機関でのカリキュラム修了後、30日以内に給付金支給申請書類を提出していただきます。支給決定までには審査があります。\n（注意） 審査の結果、支給不可の場合もあります。\n2.支給決定\n審査後、支給決定通知を送付します。\n3.給付金請求\n支給決定通知確認後、給付金の請求書を提出していただきます。\n4.給付金支給\n請求後おおむね1か月以内に指定の口座に振り込みます。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "生活支援課",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/hitorioya/teate/boshijiritsu.html",
+        "title": "母子家庭及び父子家庭自立支援給付金"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健福祉部生活支援課生活支援係",
+        "contactPhone": "03-5211-4126",
+        "contactEx": null,
+        "contactEmail": "seikatsushien@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1028688",
+        "contactAddress": "東京都千代田区九段南1-2-1"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM60",
+        "organization": "8000020131016",
+        "compartment": "保健福祉部生活支援課生活支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-08-30",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子及び父子並びに寡婦福祉法",
+        "regulationArticle": "第31条（母子家庭自立支援給付金）、第31条の10（父子家庭自立支援給付金）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "088"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子どものための教育・保育給付認定（1号・2号・3号）",
+        "shortName": "子ども・子育て支援新制度の認定申請"
+      },
+      "summary": "子ども・子育て支援新制度による給付を受ける幼稚園や認可保育園、認定こども園、地域型保育事業（小規模保育・家庭的保育・居宅訪問型保育・事業所内保育）の利用、または保育料減額補助制度を利用する（認証保育所、区補助対象保育室、区緊急保育施設）には、お子さんの年齢や保育の必要性の有無、保育の必要量に応じた認定を受ける必要があります。\n\nまた、企業主導型保育（地域枠）については、お住まいの自治体から教育・保育給付認定を受けることで、「幼児教育・保育の無償化」による助成を受けることができます。",
+      "description": "保育園や幼稚園などに入園を希望する場合、保育の必要性に応じた「子どものための教育・保育給付認定」を受ける必要があります。\n認定の種類は以下のとおりです。\n\n【教育・保育給付認定第1号】\n満3歳以上の就学前幼児で子ども・子育て支援新制度移行園による教育を希望する場合\n\n【教育・保育給付認定第2号】\n満3歳以上の就学前幼児で、保護者それぞれが「保育ができない状況」にあり、子ども子育て支援新制度による長時間保育を希望する場合\n\n【教育・保育給付認定第3号】\n満3歳未満の就学前乳幼児で、保護者それぞれが「保育ができない状況」にあり、子ども子育て支援新制度による長時間保育を希望する場合",
+      "target": {
+        "targetPersons": "小学校就学前まで",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後57日以上、小学校就学前まで"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "＜保育所等で保育を希望する場合＞\n◎「認可保育園、こども園（長時間保育）、認定こども園（長時間保育）、幼保一体施設（長時間保育）、事業所内保育事業、小規模保育事業」を希望する場合\n入園の申請をする際に、「教育・保育給付認定申請書」を併せてご提出ください。\n◎「認証保育所、区補助対象保育室、区緊急保育施設」を希望する場合\n区の保育料減額補助制度を申請する際に「教育・保育給付認定申請書」を併せてご提出ください。（補助制度を利用しない場合は申請の必要はありません。）\n◎「上記以外の認可外保育施設」を希望する場合\n施設から給付認定証の提示を求められた場合には、申請が必要です。「教育・保育給付認定申請書」を子ども支援課にご提出ください。\n　　\n＜幼稚園等で教育を希望する場合＞\n◎区立幼稚園、こども園（短時間保育）、幼保一体施設（短時間保育）、認定こども園（区内・短時間保育）を希望する場合        \n入園の申請をする際に、「教育・保育給付認定申請書」を併せてご提出ください。\n◎私立幼稚園・認定こども園（区外）を希望する場合        \n新制度の施設かどうかで認定の要否が異なります。新制度移行園かどうか該当の園にご確認ください。\n\n<教育保育給付認定申請について>\n教育・保育給付認定（変更）申請書を子ども支援課にご提出ください。\n子ども支援課窓口（千代田区役所本庁舎２F）、郵送、ぴったりサービスでのオンライン申請のいずれかからご提出ください。\nまた申請によって追加で必要な書類が異なります。\n\n【申請書にマイナンバーを記載した場合】\n◎番号確認書類（個人番号カード・通知カード・個人番号の記載された住民票の写し等）\n※申請書は郵送・オンラインでも受け付けますが、マイナンバーを記載する場合は、記載された番号を確認しますので、番号確認書類（個人番号カード・通知カード・個人番号の記載された住民票の写し等）を添付してください。\n\n【第2号・第3号を申請する場合】\n保育ができない状況を証明する書類\n◎ご両親様それぞれが、「週3日以上かつ1日4時間以上、日中保育ができない状況」であることを証明する書類を提出していただきます。\n　必要書類については、千代田区ホームページ「申請書類のダウンロード」をご確認ください。\n※その他、状況に応じて、別途書類提出を求めることがあります。\n【注意事項】\n1.転入前に他の自治体で認定を受けている場合も、千代田区に転入された場合は、再度認定申請が必要となります。\n2.保育給付認定は教育・保育の必要性を認めたものであり、幼稚園・保育園等の入園を保証または決定するものではありません。入園するためには、別途、申し込み手続きが必要です。\n3.企業主導型保育事業等、教育・保育施設等を利用する場合は、認定申請が必要かどうかを各施設にお問い合わせください。\n4.「行政手続きにおける特定の個人を識別するための番号の利用等に関する法律」の施行および「子ども・子育て支援法施行規則」の一部改正により、申請書にはマイナンバーの記載欄があります。提供された個人番号は、区市町村民税非課税世帯であることの確認や保育料算定に係る調査等で利用します。\n5.認定証の発行には、申請から１週間～２週間ほどかかります。施設等から提示を求められている場合は、余裕を持ってご申請ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "入園を希望する保育施設・幼稚園によって異なります。"
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "子ども支援課",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoiku/shinseido.html",
+        "title": "子ども・子育て支援新制度の認定申請について"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部子ども支援課入園審査係",
+        "contactPhone": "03-5211-4119",
+        "contactEx": null,
+        "contactEmail": "kodomoshien@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1028688",
+        "contactAddress": "東京都千代田区九段南1-2-1"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM71",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部子ども支援課入園審査係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-12-04",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "子ども・子育て支援法",
+        "regulationArticle": "第19条（支給要件）・第20条（市町村の認定等）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "078"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "認可保育所（保育園）の利用について",
+        "shortName": "保育園入園案内"
+      },
+      "summary": "保育園は、保護者の方が働いている場合や、病気や出産等により日中お子さんをご家庭で養育できない場合に、保護者の方に代わって保育し、子どもたちが心身ともに健やかに成長するよう子育てを支援する施設です。\n保育施設には、利用を希望する場合に市区町村に申し込みを行う必要がある施設（認可保育所等）と、直接施設に申し込みを行う必要がある施設（認可外・認証保育所等）がありますが、ここでは市区町村に申し込みを行う必要がある施設についてご案内します。",
+      "description": "保育園は、保護者の方が働いている場合や、病気や出産等により日中お子さんをご家庭で養育できない場合に、保護者の方に代わって保育し、子どもたちが心身ともに健やかに成長するよう子育てを支援する施設です。\n\n利用を希望する場合は、千代田区（千代田区在勤の要件で申し込みを行う場合は居住自治体）に必要書類を提出し、申し込みを行います。\n一つの保育所等において年齢別定員を超えて申し込みがあったときは、保育の必要性の度合いに応じて利用調整を行い、入園者を決定します。",
+      "target": {
+        "targetPersons": "保育園に申し込みができるのは、保護者が次のような事情によりお子さんを保育できない場合です。\n・日中、保護者が就労している場合（週3日以上かつ1日4時間以上）\n・保護者が出産、疾病・負傷、心身に障害がある場合\n・日中、保護者が常時、疾病・負傷、心身に障害がある親族を介護・看護している場合（週3日以上かつ1日4時間以上）\n・日中、保護者が災害の復旧活動をしている場合（週3日以上かつ1日4時間以上）\n・日中、保護者が学校教育法に定める学校等や職業訓練施設に通学・通所している場合（週3日以上かつ1日4時間以上）\n・保護者が求職活動をしている場合（週3日以上かつ1日4時間以上）\n・児童虐待または配偶者等からの暴力により、保護者が児童の保育を行うことが困難と認められる場合\n・その他、保護者が上記に類する状態にあり保育することができないと認められる場合\n\n千代田区の保育所等は、千代田区民のほか、千代田区に転入予定の方や千代田区在勤の方もお申し込みいただけます。ただし、転入予定の方や、在勤の方は申し込みができる園や歳児クラス等に制限があります。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後57日以上、小学校就学前まで（一部の園は生後10か月以上）"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": "保護者の住民税の課税状況に応じて保育料を決定します。3-5歳児クラスの基本保育料は幼児教育・保育の無償化により0円です。0-2歳児クラスについても、同一世帯に子どもが2人以上いる場合、第2子以降の保育料は0円となります。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "在園可能期間は、保護者の保育を必要とする事由によって異なります。\nまた、入園月1日を保育の実施開始日とし、月途中の入園はできません。"
+      },
+      "implementationPlace": {
+        "implementationName": "各園による",
+        "implementationAddress": "各園による"
+      },
+      "capacity": "各園による",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "保育の実施時間は、原則として保護者の保育が必要な事由にかかる時間となります。"
+      },
+      "specificDate": null,
+      "holiday": "日曜日、国民の祝日、年末年始（12月29日～1月3日）は休園です。",
+      "utilization": "入園希望月ごとに定められた申込受付期間中に、申し込みに必要な書類を子ども支援課入園審査係に提出します。\n利用調整後、選考結果を通知します。\n内定者は入園月の前月末日までに内定園にて面接と健康診断を受ける必要があります。",
+      "procedurePersons": "入園を希望する児童の保護者であって、保育が必要な事由がある者",
+      "procedureMethod": "利用方法と同じ",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "入園希望月ごとに定められた申込受付期間有"
+      },
+      "electronicSubmission": true,
+      "belongings": "入園案内のとおり",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoiku/moshikomi-nyuen.html",
+        "title": "申込から入園までの流れ"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部子ども支援課入園審査係",
+        "contactPhone": "03-5211-4119",
+        "contactEx": null,
+        "contactEmail": "kodomoshien@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1028688",
+        "contactAddress": "東京都千代田区九段南1-2-1"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM73",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部子ども支援課入園審査係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-12-01",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第24条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "ショートステイ（宿泊）",
+        "shortName": "子どもショートステイ（乳児院、協力家庭）"
+      },
+      "summary": "区内にお住まいの生後0歳（2か月程度）から小学校6年生までのお子さんを、保護者の疾病等の条件に加え、一時的に育児が困難になっていると区が認定した家庭のお子さんをお泊まりでお預かりします。",
+      "description": "区内にお住まいの生後0歳（2か月程度）から小学校6年生までのお子さんを、保護者の疾病等の条件に加え、一時的に育児が困難になっていると区が認定した家庭のお子さんをお泊まりでお預かりします。\n\n利用できる日・時間帯\n\n1回につき、6泊以内（1泊は、宿泊を伴う24時間以内）原則1か月につき、6泊以内（1世帯）\n・入所時間：午前9時から午後5時まで（預かり施設により若干前後します）\n・退所時間：翌日午前9時から午後5時まで（預かり施設により若干前後します）\n（注意） 受け入れ先の状況で前後する場合があります。\n\nお預かりする場所\n\n・お子さんの年齢や認定状況により下記のいずれかから区で決定をします。\n・利用決定後、事前に見学を行うことが可能です。\n\n負担費用\n\n1人1泊につき、3,000円（減免制度あり）\n料金は、後日お送りする納付書を使用し、金融機関でお支払いください。\n利用中に要した緊急の医療費、通園もしくは通学に要した交通費などは、実費分を直接施設へお支払いください。\n\n減免制度\n\n申請する場合は、住民税課税証明書を添付してください。\n1.生活保護受給・住民税非課税世帯 0円\n2.住民税均等割のみ課税世帯 1,500円",
+      "target": {
+        "targetPersons": "・区内にお住まいの生後0歳（2か月程度）から小学校6年生までのお子さん\n・区内に保護者と児童の住民票があること\n・保護者の疾病などの条件に加え、一時的に家庭で養育することが困難であると区が認定した家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "3000",
+      "costConditions": "1人1泊につき",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "利用要件を確認し根拠資料を用意のうえ、児童・家庭支援センターへお電話ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "千代田区立児童・家庭支援センター 子ども家庭相談係",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ichijiteki/chiyodafriends.html",
+          "title": "千代田フレンズ ～夜間・宿泊等で子どもをお預かり"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ichijiteki/shortstay.html",
+        "title": "子どもショートステイ（乳児院、協力家庭）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部児童・家庭支援センター子ども家庭相談係",
+        "contactPhone": "03-5298-5521",
+        "contactEx": null,
+        "contactEmail": "jidousoudan@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1010048",
+        "contactAddress": "東京都千代田区神田司町2-16　神田さくら館6階"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM782",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部児童・家庭支援センター子ども家庭相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-05",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第3項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "トワイライトステイ（夜間）",
+        "shortName": "千代田フレンズ"
+      },
+      "summary": "保護者の傷病･育児疲れ等で、身近な親族などから支援が受けられず 子どもの養育が一時的に困難な場合に、夜間や宿泊でお子さんをお預かりします。",
+      "description": "千代田フレンズでは、「育児で疲れてしまった」「病気で子どもの面倒を見ることができない」「仕事と育児の両立が難しい」。そんな悩みがある中で、身近な親族などから支援が受けられず児童の養育が困難な場合に、一時的に児童を預かる事業を行っています。\n\n詳しい内容は下記チラシもご覧ください。\n\n千代田フレンズのサービス案内（PDF：702KB）;https://www.city.chiyoda.lg.jp/documents/19226/r608chirashi.pdf\n\n提供サービスの概要\n\n以下の２つのサービスを実施しています。詳しくは添付のチラシをご覧ください。\n\nショートステイ（宿泊）\n\n対象児童\n\n区内在住で集団生活を営むことができる2歳～小学生（中学生は応相談）\n\n実施日時\n\n24時間365日\n\n・入所時間：午前9時～午後10時\n・退所時間：翌日午前9時～午後10時\n（注意） 学校や保育園等への送迎も可能です。\n\n利用上限\n\n1回につき6泊以内、1か月あたり6泊以内\n\n利用料金\n\n1泊（24時間あたり）3,000円\n\nトワイライトステイ（夜間）\n\n対象児童\n\n区内在住で集団生活を営むことができる2歳～小学生（中学生は応相談）\n\n実施日時\n\n日曜日・祝休日・年末年始を除く午後5時～10時\n（注意） 学校や保育園等への送迎も可能です。\n\n利用上限\n\n1か月あたり7日以内\n\n利用料金\n1日1,500円\n\n利用条件\n\n・区内に保護者と児童の住民票があること\n・保護者の疾病、同居家族の介護、仕事の出張などの条件に加え、一時的に家庭で養育することが困難であると区が認定した家庭\n（注意） 育児疲れや保護者の疾患等から、育児支援が必要であるときは、原則として事前に区への相談が必要です。\n\n相談窓口\n\n千代田区立児童・家庭支援センター子ども家庭相談係\n\n・住所：神田司町2-16 神田さくら館6階\n・電話番号：03-5298-5521\n・月曜日～金曜日の午前9時から午後5時まで（祝日・年末年始を除く）\n\nお預かりする場所\n\n千代田フレンズ\n\n・住所：神田司町2-5 DeLCCS神田大手町7階\n・電話番号：080-5544-6975\n\n申し込み先・申込方法\n\n1.千代田フレンズに問い合わせ、利用希望日の空き状況を確認する。\n2.利用枠に空きがある場合は、必要書類を提出して申し込む。初めての利用の際は、事前に面接と施設見学を行い、利用料金（見込み額）を前払いする。\n\n負担費用\n\n・上記利用料金のほか、送迎費が別途必要です。\n・料金は、児童を預ける際または迎えの際に現金でお支払いください。\n・利用中に要した緊急の医療費、通園もしくは通学に要した交通費などは、実費分を直接施設へお支払いください。\n\n減免制度\n\n生活保護受給世帯や住民税非課税世帯、住民税均等割課税世帯の方が利用する際には、利用料金の減免制度があります。",
+      "target": {
+        "targetPersons": "区内在住で集団生活を営むことができる2歳～小学生（中学生は応相談）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "600",
+      "costConditions": "1時間",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "千代田フレンズ",
+        "implementationAddress": "神田司町2-5 DeLCCS神田大手町7階"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "17:00",
+        "toHM": "22:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "日曜日・祝休日・年末年始",
+      "utilization": null,
+      "procedurePersons": "・区内に保護者と児童の住民票があること\n・保護者の疾病、同居家族の介護、仕事の出張などの条件に加え、一時的に家庭で養育することが困難であると区が認定した家庭\n（注意） 育児疲れや保護者の疾患等から、育児支援が必要であるときは、原則として事前に区への相談が必要です。",
+      "procedureMethod": "1.千代田フレンズに問い合わせ、利用希望日の空き状況を確認する。\n2.利用枠に空きがある場合は、必要書類を提出して申し込む。初めての利用の際は、事前に面接と施設見学を行い、利用料金（見込み額）を前払いする。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/19226/r608chirashi.pdf",
+          "title": "千代田フレンズのサービス案内（PDF：702KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ichijiteki/chiyodafriends.html",
+        "title": "千代田フレンズ ～日中・夜間・宿泊を問わず子どもをお預かり"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部児童・家庭支援センター子ども家庭相談係",
+        "contactPhone": "03-5298-5521",
+        "contactEx": null,
+        "contactEmail": "jidousoudan@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1010048",
+        "contactAddress": "東京都千代田区神田司町2-16　神田さくら館6階"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM783",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部児童・家庭支援センター子ども家庭相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-05",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第3項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後ヘルパーの派遣",
+        "shortName": "育児支援訪問事業"
+      },
+      "summary": "産前産後の体調不良などにより、家事や育児が困難なご家庭に、日常的な掃除・洗濯・食事の支度などの家事や、もく浴・おむつ交換・きょうだいのお世話などの育児を手伝うホームヘルパーを派遣します。",
+      "description": "育児支援訪問事業\n産前産後でお母さんの育児を支援する人が近くにいないときや、保護者が疾病や親族の介護などで義務教育終了前までのお子さんを養育することが一時的に困難になったときなど、区が認定した範囲内で育児や家事を支援します。\n・育児支援訪問事業ご案内（PDF：213KB）;https://www.city.chiyoda.lg.jp/documents/9433/ikujishienhomon_1.pdf\n\n区が認定する時間を限度に次のサービスを利用することができます。\n1.授乳の手伝い\n2.食事の介助\n3.沐浴の補助\n4.おむつ替えやトイレのお世話\n5.園への送迎や健康診査などへの付き添い\n（注意1） 保護者が不在の場合の依頼はお受けできません。\n（注意2） 就労支援は該当しません。\n（注意3）お子さんの保育（見守りを含む）を行いながら家事を同時に行うことはできません。\n\n利用時間\n・月曜日～土曜日：7時から19時までの区が認める時間（日曜日・祝日・年末年始は除く）\n・産前産後の支援：令和3年4月1日以降に出産された方については1世帯につき年間合計60時間（ただし、多胎出産のときは合計120時間まで）\n（注意） 令和3年3月31日以前にご出産の場合は1世帯につき48時間まで\n・義務教育終了前までの児童がいる家庭への支援：1世帯につき年間合計48時間まで\n\n利用時の留意点\n・2歳未満のお子さんを2人以上保育する時は、安全を考慮し、お子さん1人に対しヘルパー1人で対応します。　\n・健康診査への同行は、片道30分以内の範囲までです。\n・ヘルパーが訪問するお宅に、感染症にかかっているご家族がいる場合は、訪問できません。\n・貴重品の管理は、ご自身で行ってください。\n\n料金・負担額等\n〔負担額〕1時間あたり\n＜住民税課税区分：家事のみまたはお子さん2人までの保育（注意1）＞\n生活保護受給世帯・住民税非課税世帯：0円\n住民税均等割のみ課税世帯：500円\nその他の世帯：1,000円\n・1月～6月にご利用の場合は、前年度の住民税を、7月～12月は、今年度の住民税の状況により算定します。\n・買い物や通院時にかかる交通費（実費）は、直接ヘルパーにお支払いください。\n・費用は、翌月下旬に、区が発行する納付書を郵送しますので、最寄りの金融機関でお支払いください。\n（注意1） 保育するお子さんが2子以上の場合は、児童・家庭支援センターに別途ご相談ください。\n（注意2） 料金を減免される場合は、世帯全員の住民税課税状況のわかる書類を添付してください。\n\nキャンセル料\n・訪問日時の変更・取り消し・作業内容の変更などは、2営業日前（土曜日・日曜日・祝日・年末年始は除く）の午後4時までに、児童・家庭支援センターへご連絡ください。\n・キャンセル料は、次のとおりご負担ください。\n（注意） 感染症（インフルエンザ等）に、り患した場合の訪問中止についても、利用者様のご負担となりますので、あらかじめご了承ください。\n＜取り消し日および時間：負担額＞\n利用日前々日午後4時までに取り消し：無料\n利用日前日午後4時までに取り消し：1時間あたり単価の50％\n利用日前日午後4時以降または当日の取り消し：1時間あたり単価の100％",
+      "target": {
+        "targetPersons": "1～3の条件に当てはまる場合に利用できます。\n1.保護者と対象児童が千代田区に住民票があり、居住していること\n2.母子健康手帳取得時からお子さんが生後1歳未満の妊産婦（ただし令和3年3月31日までにご出産で産後利用の方は生後6か月未満）または義務教育終了前の児童がいて、保護者が一時的に育児が困難であると区が認定した家庭\n3.親族などほかに支援する方がいない家庭",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "07:00",
+        "toHM": "19:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "日曜日・祝日・年末年始",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "利用開始希望日の1か月から5営業日1週間前までに、児童・家庭支援センターへ、お申し込みください。\n\n手続きの流れ\n\n1.書類の提出\n育児支援訪問事業利用申請書（PDF：121KB）（指定の様式）と、以下の書類を児童・家庭支援センターへ郵送か直接提出してください。\n\n2.訪問日時の調整\n書類が届きましたら家庭訪問の日程を調整するため連絡します。\n3.利用可否の決定\n書類の内容と家庭訪問の状況で利用の可否を決定します。\n利用決定した方にはケアプランを作成します。\n参考：ケアプラン様式\n・子育てケアプラン（妊娠期）（PDF：652KB）;https://www.city.chiyoda.lg.jp/documents/9433/ninshinki.pdf\n・子育てケアプラン（産後）（PDF：687KB）;https://www.city.chiyoda.lg.jp/documents/9433/sango.pdf\n4.サービス日時の決定\n計画書をもとに、サービスを利用する日時の希望を連絡してください。\n5.サービスを開始します。\n\n申請区分・申請の理由・添付資料\n\n|申請区分|申請の理由|添付資料A|添付資料B|\n|:----|:----|:----|:----|\n|産前産後の支援|-|母子健康手帳の写し<br>出生届出済証明（千代田区母子健康手帳1ページ）<br>直近の母子の状況がわかるページ<br>（ア）産前⇒妊娠中の経過（千代田区母子健康手帳8～9ページ）<br>（イ）産後⇒出産の状態（千代田区母子健康手帳14～15ページ）|児童連絡票（指定様式）（PDF：104KB）;https://www.city.chiyoda.lg.jp/documents/9433/r3-renrakuhyo.pdf<br>（注意） 生後6か月以上未就学のお子さんがいる場合のみ|\n|義務教育終了前の児童がいる家庭への支援|区の認定を受けていること|根拠書類<br>診断書（病状の期限まで記載のこと）や介護保険認定結果通知書など|児童連絡票（指定様式）（PDF：104KB）;https://www.city.chiyoda.lg.jp/documents/9433/r3-renrakuhyo.pdf<br>（注意） 生後6か月以上未就学のお子さんがいる場合のみ|",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "育児支援訪問事業利用申請書（PDF：121KB）（指定の様式）と、以下の書類\n\n産前産後の支援\n母子健康手帳の写し\n1.出生届出済証明（千代田区母子健康手帳1ページ）\n2.直近の母子の状況がわかるページ\n（ア）産前⇒妊娠中の経過（千代田区母子健康手帳8～9ページ）\n（イ）産後⇒出産の状態（千代田区母子健康手帳14～15ページ）\n・児童連絡票（指定様式）（PDF：104KB）\n（注意） 生後6か月以上未就学のお子さんがいる場合のみ\n\n義務教育終了前の児童がいる家庭への支援\n根拠書類\n・診断書（病状の期限まで記載のこと）や介護保険認定結果通知書など\n・児童連絡票（指定様式）（PDF：104KB）\n（注意） 生後6か月以上未就学のお子さんがいる場合のみ",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "児童・家庭支援センター",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/images/9433/ikujishienhomon202010.jpg",
+          "title": "育児支援訪問事業ご利用案内の表紙"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ninshin/homon.html",
+        "title": "育児支援訪問事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部児童・家庭支援センター子ども家庭相談係",
+        "contactPhone": "03-5298-5521",
+        "contactEx": null,
+        "contactEmail": "jidousoudan@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1010048",
+        "contactAddress": "東京都千代田区神田司町2-16　神田さくら館6階"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM785",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部児童・家庭支援センター子ども家庭相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-08-25",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "放課後児童クラブ",
+        "shortName": "学童クラブ"
+      },
+      "summary": "放課後児童クラブは、保護者が就労などにより、昼間家庭にいない小学校に就学しているお子さんに対し、適切な遊びおよび生活の場を与え、児童の健全な育成および保護者の就労と子育ての両立支援を図ることを目的としています。",
+      "description": "児童福祉法に規定する放課後児童健全育成事業です。保護者の就労等の理由により、放課後等に適切な保育を受けられない小学生を対象に、児童の遊び及び生活の場として健やかな心身を育むとともに、保護者の就労と育児の両立を支援します。\n現在、区内には全24 クラブがあります。詳しくは、学童クラブ一覧をご覧ください。（外部サイトへリンク）;https://www.city.chiyoda.lg.jp/koho/kosodate/jidocenter/gakudo.html\n\n学童クラブの利用には入会申込が必要です。毎年、申請書・保護者の就労等の状況により審査します。詳しくは、学童クラブ入会案内をご覧ください。（PDF:1,406KB）https://www.city.chiyoda.lg.jp/documents/7208/r6nyukaiannai.pdf\n\n入会申込\n・年度当初（4月～）\n前年度末に一次募集、二次募集を行っています。第一希望の学童クラブへ必要書類を揃えて持参してください。\n（注意1）二次募集は、一次募集に申込みしなかった方が対象です。 \n（注意2）すべてのクラブが満員となった場合、二次募集は実施しません。\n\n・年度途中\n４月１日以降、随時入会受付を行っています。入会を希望する月の前月20日までに、必要書類を揃えて希望の学童クラブへ持参してください。\n\n実施日時\n基本保育 下校時から午後5時まで\n延長保育（夕方保育） 午後5時から7時まで\n\n（注意1）土曜日、学校休業日の保育時間は、クラブにより若干異なります。\n（注意2）一部のクラブでは、早朝保育（午前7時～8時。学校長期休業期間のみ）と夜間延長保育（午後7時～9時）を行っています。\n\n育成料\n月4,000円（ただし、当分の間2,000円）\n（注意）育成料には、減額や免除の規定があります（きょうだいが入会している場合、生活保護世帯、利用年度の住民税が非課税の世帯など）。\n\nおやつ代\n月1,500円\n（注意）区内在住の方は、おやつ代免除の規定があります（育成料の免除事由に該当する場合）。\n\n夕食代（夜間延長保育のあるクラブ）\n1回500円程度\n（注意）夜間延長保育を実施している学童クラブにおいて、申込者に夕食提供を行っています。\n\n休業日\n日曜日、国民の祝日、年末年始（12月29日～1月3日）はお休みです。",
+      "target": {
+        "targetPersons": "保護者の就労等の理由により、日中家庭で適切な養育を受けられない小学生で、次のいずれかに該当する児童が対象となります。\n\n・区内在住の小学生\n・区立小学校に在学する小学生",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "2000",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "日曜日、祝日、年末年始（12月29日～1月3日）",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "入会案内\n\n年度当初（4月～）の入会\n一次募集、二次募集を行っています。受付期間内に第一希望の学童クラブへ必要書類を揃えて持参してください。\n（注意1）二次募集は、一次募集に申込みしなかった方が対象です。 \n（注意2）すべてのクラブが満員となった場合、二次募集は実施しません。 \n（注意3）学童クラブは年度ごとに入会決定をします。現在学童クラブに入会している方も、新年度の利用を希望する場合は、改めて申請が必要です。\n\n年度途中の入会\n４月１日以降、随時入会受付を行っています。入会を希望する月の前月20日までに、必要書類を揃えて希望の学童クラブへ持参してください。 \n\n申込の必要書類\n必要書類の詳細は学童クラブ入会案内をご確認ください。（PDF:1,406KB）;https://www.city.chiyoda.lg.jp/documents/7208/r6nyukaiannai.pdf",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/7208/r6nyukaiannai.pdf",
+          "title": "学童クラブ入会案内冊子"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/jidocenter/gakudo-nyukai.html",
+        "title": "学童クラブ入会案内"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部児童・家庭支援センター子育て事業係",
+        "contactPhone": "03-5298-2424",
+        "contactEx": null,
+        "contactEmail": "jidousenta@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1010041",
+        "contactAddress": "東京都千代田区神田須田町1-4-4　PMO神田須田町4階"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM79",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部児童・家庭支援センター子育て事業係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-03-18",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第2項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "005"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "幼稚園の利用について",
+        "shortName": "区立幼稚園・こども園"
+      },
+      "summary": "幼稚園とは、学校教育法に基づき、満3歳から小学校就学前までのお子さんに幼児教育を提供する施設（学校）です。1日4時間の教育を標準としますが、希望者を対象に預かり時間を延長する預かり保育も実施しています。",
+      "description": "幼稚園は、学校教育法に基づき、義務教育およびその後の教育の基礎を培うものとして、幼児を保育し、幼児の健やかな成長のために適当な環境を与えて、その心身の発達を助長することを目的として設置されています。\n区立幼稚園は現在8園あり、すべて区立小学校に併設されています。昭和55年度からは、全幼稚園で3歳児保育を実施しています。各園についての詳細は、区立幼稚園・こども園一覧をご覧ください。\n幼稚園・幼保一体施設・こども園では、園の教育時間終了後、希望者を対象に時間を延長する預かり保育を実施しています。詳細は、区立幼稚園・こども園預かり保育をご覧ください。\n幼保一体施設とこども園では、保護者の就労などで保育が必要なお子さんを保育園と同様の時間（通常保育時間は午前7時30分から午後6時30分までのうち、保育が必要な時間）お預かりする長時間保育があります。申し込みは短時間保育と異なりますので、長時間保育を希望される方は、保育園入園案内をご覧ください。\n\n区立幼稚園・こども園の特徴\n\n質の高い保育\n幼稚園教育要領（文部科学省）に準拠し、幼児一人一人の特性を大切にしながら保育を行っています。遊びを通して得られる学びや資質・能力（「基本的な生活習慣の獲得」や「言葉による表現」、「相手の気持ちの受容」「好奇心」等）を積み重ねる環境、主体的に取り組む環境を大切にしています。\n\n区立小学校が同じ敷地内にある環境\n小学生との交流が盛んに行われています。小学校入学前の5歳児から小学校1年生にかけて、入学時が滑らかにつながるように小学校の先生方と一緒に考え実践しています。\n\n自然豊かな環境\n思いきり体を動かして遊ぶことができる園庭（校庭）、季節を感じるさまざまな木々や植物、生命の尊さやいたわりの気持ちを育む生き物、好奇心や探究心を掻き立てる砂場、遊具があります。\n\n研究と研修に励み指導力向上に努める教職員\n定期的に講師の先生を招いて研究・研修会を開いています。研究では幼児教育の課題に応じたテーマを設定し、実践的な研究を積み重ね指導力を高めています。\n\n協力的な地域の方々\n園の歴史は長く、大切に思ってくださるたくさんの地域の方々に支えられています。地域の方を招いての特別な学びの時間もあります（地域や日本の伝統文化・芸能の鑑賞や体験、読み聞かせ等）。\n\n子育て支援施設・行政との連携\n子どもの豊かな育ちを支えていくことができるよう、常に子育て支援施設と連携し、時には専門的なアドバイスをもらいながら保育を進めています。また、千代田区教育委員会へさまざまな要望を提出し、実現しています。\n\n施設概要\n\n施設区分\n区立幼稚園の施設区分には以下の3種類があります。\n\n1.幼稚園\n区立小学校に併設されており、3歳児から入園できます。\n2.幼保一体施設\n3歳未満児の認可外保育施設を併設した保育園、幼稚園の連携施設です。区立小学校に併設されています。\n3.こども園\n保育園と幼稚園を一体的に運営し、0歳児から就学前のお子さんを一貫して育成する千代田区型幼保一元施設です。区立小学校に併設されています。\n\n給食\n幼稚園は給食がないため、弁当を持参する必要があります。\n幼保一体施設およびこども園は、給食があります。\n\n通園区域\n各幼稚園の通園区域は、区立小学校の通学区域と同じです。\n原則として、小学校の通学区域の園への入園申込となります。\n\n通園条件\n通園には、幼児の安全確保のため保護者の送迎が必要となります。\n",
+      "target": {
+        "targetPersons": "千代田区内に住所のある次の幼児が対象となります。　　\n（注意1） 住民票があっても居住実態のない方は応募できません。\n（注意2） 転入予定の方は入園申し込みができません。転入後に申し込みをしてください。\n\n令和6年度入園児\n・3歳児（令和2年4月2日～令和3年4月1日生まれ）\n・4歳児（平成31年4月2日～令和2年4月1日生まれ）\n・5歳児（平成30年4月2日～平成31年4月1日生まれ）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": "定員については、千代田区ホームページをご覧ください。\nhttps://www.city.chiyoda.lg.jp/koho/kosodate/yochien/kuritsu/index.html\n\n",
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "14:00",
+        "condiutilizationConditionstions": "年齢や曜日等により異なります。"
+      },
+      "specificDate": null,
+      "holiday": "土曜日、日曜日、祝日、夏季休業日、冬季休業日、春季休業日、都民の日、開園記念日\n（注意1） 上記休業日に行事等を実施すると、振替休業日があります。\n（注意2） 年8回程度、振替休業日のない土曜保育（午前中のみ）を実施します。",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "入園募集・申込\n\n4月の新入園児の募集は、前年の11月頃です。申込受付期間などは、前年の10月を目安にお知らせしています。\n\n幼稚園では4月の新入園児募集以外に、年度途中の入園児も随時募集しています。ただし、すでに定員に達しているクラスは、名簿登録のみ受け付けます。直接区役所2階 子ども支援課へお越しください。各園の最新の空き状況は、直接園にお問い合わせください。詳しくは、令和6年度千代田区立幼稚園・幼保一体施設・こども園入園案内をご覧ください。入園案内は幼稚園・幼保一体施設・こども園の各園、各出張所、子ども支援課で配布しています。入園申込の受付は、各園で実施しています。\n",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "各園\n4月一斉入園は千代田区ポータルサイトからオンライン申請による受付",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/yochien/nyuenji-bosyu.html",
+          "title": "令和6年度千代田区立幼稚園・幼保一体施設・こども園入園児募集"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/yochien/shokai.html",
+        "title": "区立幼稚園・こども園の紹介"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部子ども支援課入園審査係",
+        "contactPhone": "03-5211-4119",
+        "contactEx": null,
+        "contactEmail": "kodomoshien@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1028688",
+        "contactAddress": "東京都千代田区九段南1-2-1"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM80",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部子ども支援課入園審査係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-02-15",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "学校教育法",
+        "regulationArticle": "第26条"
+      },
+      "tag": {
+        "categoryCode": [
+          "004",
+          "005"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "幼児教育・保育施設の保育料について",
+        "shortName": "保育園・こども園の保育料"
+      },
+      "summary": "子ども・子育て支援新制度による給付を受ける幼稚園や認可保育園、認定こども園、地域型保育事業（小規模保育・家庭的保育・居宅訪問型保育・事業所内保育）の保育料（利用者負担額）は、国が定めた額を上限として、千代田区が認定区分ごとに、世帯の所得状況、利用時間（標準時間・短時間）などに応じて定めた額となります。\nそれ以外の私学助成の幼稚園や認可外保育施設などの利用料は、施設ごとに定めた額になります。",
+      "description": "新型コロナウイルス感染拡大による保育園等の保育料の取り扱いについて\n\n新型コロナウイルス感染拡大防止のため登園を自粛いただいた場合、自粛日数に応じた保育料の日割り減額対応を行います。なおこの取り扱いは令和5年6月末をもって終了しました。\n\n保育園・こども園（0～2歳児クラス）の保育料\n\n保育園・こども園（0～2歳児クラス）へ入園した場合、保護者の課税状況に応じて条例に定められた保育料を納入していただきます。\n\n・同じ世帯に子どもが2人以上いる場合、年齢に関わらず世帯児童数を数え、第2子以降の子どもの保育料が減額されます（第2子以降無料）。\n・保育料については、失業（自己退職を除く）などで著しく収入が減ったとき、病気や災害などで特別に費用がかかったとき、同居の家族に高度障害の方がいるときなどは、減額される場合がありますので、子ども支援課へご相談ください。\n・入園しているお子さんが病気などで月の初日から1か月以上通園できないときは、保育料を免除できる制度がありますので、子ども支援課へご相談ください（2か月以上通園できない場合は退園となります）。\n・所得割額の算定には配当控除、外国税額控除、住宅取得控除、寄付金控除、配当割額控除、株式等譲渡所得割額控除等の税額控除は適用しません。\n・保育料は変更になる場合があります。\n・延長保育を利用する場合の保育料は、「保育園・こども園等延長保育料」のページをご覧ください。\n\nこども園（3～5歳児クラス）・幼保一体施設内幼稚園の保育料\n\nこども園（3～5歳児クラス）・幼保一体施設内幼稚園へ入園した場合、幼児教育・保育の無償化により基本保育料は無料です。\n\n・短時間保育は、土曜日・夏休み期間を休業とし、必要に応じて預かり保育を実施しています。\n・預かりの保育料は、1時間100円とします。その他時間帯によって、おやつ代100円、給食代300円が必要となります。詳細は、「区立幼稚園・こども園預かり保育」のページをご覧ください。\n・幼保一体施設内幼稚園は、土曜日・夏休み等の預かり保育は実施していません。\n・保育料は変更になる場合があります。\n・延長保育を利用する場合の保育料は、「保育園・こども園等延長保育料」のページをご覧ください。\n「保育園・こども園等延長保育料」\nhttps://www.city.chiyoda.lg.jp/koho/kosodate/hoikuen/riyoannai/encho.html\n「区立幼稚園・こども園預かり保育」\nhttps://www.city.chiyoda.lg.jp/koho/kosodate/yochien/azukari.html",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/1350/hoiku-jisshijore.pdf",
+          "title": "千代田区保育の実施に関する条例（PDF：165KB）"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/1350/kodomoenjore.pdf",
+          "title": "千代田区立こども園条例（PDF：220KB）"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/1350/ninkahoikuen-hoikuryohyo_1.pdf",
+          "title": "認可保育園（全歳児・こども園（0～2歳児クラス）保育料表（令和5年10月1日以降適用）（PDF：89KB）"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/yochien/azukari.html",
+          "title": "区立幼稚園・こども園預かり保育"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoikuen/riyoannai/encho.html",
+          "title": "保育園・こども園等延長保育料"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoiku/hoikuryo.html",
+        "title": "保育園・こども園の保育料"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部子ども支援課保育運営支援係",
+        "contactPhone": "03-5211-4117",
+        "contactEx": null,
+        "contactEmail": "kodomoshien@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM803",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部子ども支援課保育運営支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-09-29",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "子ども・子育て支援法",
+        "regulationArticle": "第27条～第30条の2"
+      },
+      "tag": {
+        "categoryCode": [
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小規模保育施設一覧",
+        "shortName": "小規模保育事業"
+      },
+      "summary": "市区町村の認可事業として行われる小規模保育では、3歳未満の保育が必要なお子さんを、比較的小規模（定員6人以上19人以下）で、家庭的保育に近い雰囲気のもとで、きめ細かな保育を実施しています。\n保育所分園に近いA型、家庭的保育（グループ型小規模保育）に近いC型と、その中間的なB型の3タイプがあります。",
+      "description": "0歳児から2歳児クラスまでを対象とした定員6人以上19人以下の家庭的保育に近い雰囲気で保育を行う施設です。少人数の施設のため、お子さんの個性や発達に応じた保育を行うことができます。\n現在、私立で1施設あります。\n\n小規模保育室「あい・ぽーと」小さな家麹町（三番町7 旧麹町保育園仮園舎1階）\n\n保育期間\n\n児童の年齢が3歳に達する年度の末日まで\n（注意） 当該施設の建物は暫定利用で、1年ごとに契約の更新をします。そのため、近隣に移転する場合等がありますが、在園児は継続して移転先の施設に通園することができます。\n\n保育時間\n\n月曜日～金曜日の、午前9時から午後5時まで（延長保育は午後5時から6時まで）\n（土曜日・日曜日・祝日・年末年始を除く）\n\n費用\n\n月額０～30,000円（保護者の課税状況により変動。非課税世帯等には、費用の減免があります。）\n\n運営\n\nNPO法人あい・ぽーとステーション（外部サイトへリンク）;http://www.ai-port.jp/\n\n保育者\n\n区指定の研修を修了した保育士など、区が認めた家庭的保育者",
+      "target": {
+        "targetPersons": "次のいずれの要件も満たしているお子さん\n・区内在住者（転入予定者および在勤者は申し込めません）\n・生後10か月以上3歳未満（ただし、当該年度中に3歳に達する子も含みます）\n・保護者が仕事や病気のため、家庭内で保育することが難しいなどの事由があること\n（注意） 保育者または保育補助者と三親等以内の親族関係にある子は、利用できません。",
+        "lessThan": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 10
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": "保護者の住民税の課税状況に応じて保育料を決定します。第２子以降の保育料の減免は、認可保育園の規定に準じます。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "小規模保育室「あい・ぽーと」小さな家麹町",
+        "implementationAddress": "三番町7 旧麹町保育園仮園舎1階"
+      },
+      "capacity": "10人（0歳児（10か月以上）クラス：1人、1歳児クラス：4人、2歳児クラス：5人）",
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "土曜日・日曜日・祝日・年末年始",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "認可保育園の入園申請に必要な書類と同様のものをそろえて、子ども部子ども支援課（区役所2階）の窓口に提出、郵送またはオンライン申請でお申し込みください。\n（注意） 認可保育園の入園申請に必要な書類については、「保育園入園案内」のページで確認してください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "子ども部子ども支援課入園審査係（区役所2階）",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoikuen/riyoannai/hoikuen-nyuen.html",
+          "title": "保育園入園案内"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/15310/shokibohoikku2811.pdf",
+          "title": "小規模保育室「あい・ぽーと」小さな家麹町のご案内（PDF：403KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoiku/ninka/index.html#shokibohoiku",
+        "title": "小規模保育事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部子ども支援課入園審査係",
+        "contactPhone": "03-5211-4119",
+        "contactEx": null,
+        "contactEmail": "kodomoshien@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1028688",
+        "contactAddress": "東京都千代田区九段南1-2-1"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM804",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部子ども支援課入園審査係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2019-05-13",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "事業所内保育施設一覧",
+        "shortName": "なし"
+      },
+      "summary": "市区町村の認可事業として行われる事業所内保育は、企業や病院などが従業員に対して仕事と子育ての両立支援策として実施するもので、従業員や職員のお子さんのほか、地域の保育が必要なお子さんも受け入れて、一緒に保育を行います。\n事業所内保育入所定員が20人以上の「保育所型事業所内保育」施設と6人以上19人以下の「小規模型事業所内保育」施設があります。",
+      "description": "下記リンク先の事業所内保育所一覧をご覧ください。\nhttps://www.city.chiyoda.lg.jp/koho/kosodate/hoikuen/shisetsu/ninka/index.html",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "子ども部子ども支援課入園審査係（区役所2階）",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoikuen/shisetsu/ninka/index.html",
+        "title": "認可保育園等一覧"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部子ども支援課入園審査係",
+        "contactPhone": "03-5211-4119",
+        "contactEx": null,
+        "contactEmail": "kodomoshien@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1028688",
+        "contactAddress": "東京都千代田区九段南1-2-1"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM805",
+        "organization": "8000020131016",
+        "compartment": null,
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "幼稚園での預かり保育",
+        "shortName": "区立幼稚園・こども園預かり保育"
+      },
+      "summary": "保護者が一時的な事由により、通常の教育時間以外に保育が必要な場合に、在籍園でお子さんをお預かりしています。",
+      "description": "保護者が一時的な事由により、通常の教育時間以外に保育が必要な場合に、在籍園でお子さんをお預かりする制度です。こども園・幼稚園における預かり保育は、「幼稚園教育要領」に基づいた教育時間終了後の教育活動です。専任の教員が付き、一人一人の子どもの状態に合わせ、無理なく安全にまた、教育活動として計画して、実施します。\n園によって内容や実施日、時間が異なりますので、詳細は各園にお問い合わせください。\n\n※3歳児は、園での生活に慣れてから、各園の判断で開始時期を決定のうえ、実施します。\n※行事等により預かり保育を実施していない日があります。\n\n料金\n1時間につき100円\n※幼保一体施設とこども園は、短時間保育の休業日に給食時間を超えて保育する場合に、給食代300円がかかります。\n※こども園は、午後3時を超えて保育する場合に、おやつ代100円がかかります。\n\n保護者が就労等により保育ができない状況にあるお子さんは、事前に「施設等利用給付認定（新2号）」を受けることで、預かり保育利用料が、幼児教育・保育の無償化対象となる場合があります。なお、おやつ代・給食代は、無償化の対象ではありません。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "100",
+      "costConditions": "1時間につき",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "【幼稚園・幼保一体施設】\n教育時間終了後から午後4時30分までの間で、保護者が希望する時間\n【こども園】\n午前7時30分から教育時間開始までと、教育時間終了後から午後6時30分までの間で、保護者が希望する時間"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "在園している園にお問い合わせください。\n\n・麹町幼稚園（電話番号：03-3263-7330）\n・九段幼稚園（電話番号：03-3263-0567）\n・番町幼稚園（電話番号：03-3263-3725）\n・お茶の水幼稚園（電話番号：03-3263-2355）\n・千代田幼稚園（電話番号：03-3256-1709）\n・昌平幼稚園（電話番号：03-3251-0768）\n・いずみこども園（電話番号：03-3866-9938）\n・ふじみこども園（電話番号：03-3263-1009）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "各園",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/hoikumushoka.html",
+          "title": "幼児教育・保育の無償化"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/yochien/azukari.html",
+        "title": "区立幼稚園・こども園預かりの保育"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部子ども支援課入園審査係",
+        "contactPhone": "03-5211-4119",
+        "contactEx": null,
+        "contactEmail": "kodomoshien@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1028688",
+        "contactAddress": "東京都千代田区九段南1-2-1"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM82",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部子ども支援課入園審査係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-10-05",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "一時預かり（一時保育）",
+        "shortName": "「あい・ぽーと」麹町の一時（いっとき）預かり保育「こみち」"
+      },
+      "summary": "区内にお住まいの保護者の方が通院、学校行事はもちろん、講習会やリフレッシュなど、家庭において保育を受けることが困難となったお子さんを、一時的にお預かりします。",
+      "description": "「あい・ぽーと」麹町内「こみち」でお子さんを一時的にお預かりします。対象は区内在住の保護者の方で、通院・学校行事はもちろん講習会やリフレッシュなど、理由を問わず利用できます。\n（注釈）一時預かり保育を利用するには「あい・ぽーと会員」麹町の事前登録が必要です。\n\nなお、質問や予約、申し込みについては、施設へお問い合わせください。\n詳細は、「あい・ぽーと」麹町（外部サイトへリンク;https://www.ai-port.jp/kojimachi/komichi/）をご覧ください。\n\n利用できる日・時間帯\n月曜日～日曜日、および祝日の午前7時30分～午後9時\n（注意） 年末年始を除きます。\n\n・実施場所およびお問い合わせ\n　住所：三番町7番地\n　電話番号：03-3556-8471\n\n・利用時間・料金\n　１.区内在住者\n\n|区分|時間|料金|\n|:----|:----|:----|\n|通常料金<br>（月曜日～土曜日）|午前9時～午後5時|1時間あたり800円|\n|早朝料金|午前7時30分～9時|1時間あたり1,200円|\n|夜間料金|午後5時～9時|1時間あたり1,200円|\n|日曜日・祝日|午前7時30分～午後9時|1時間あたり1,200円|\n\n　２.区外在住者\n　\n|区分|時間|料金|\n|:----|:----|:----|\n|通常料金|午前9時～午後5時|1時間あたり1,000円|\n|早朝料金|午前7時30分～9時|1時間あたり1,400円|\n|夜間料金|午後5時～9時|1時間あたり1,400円|\n|日曜日・祝日|午前7時30分～午後9時|1時間あたり1,400円|\n\n利用時間は、1時間以上30分単位となります。料金は、利用の際に前払いでお預かりします。",
+      "target": {
+        "targetPersons": "生後2か月以上～就学前のお子さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "子育てひろば「あい・ぽーと」麹町",
+        "implementationAddress": "三番町7番地"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "07:30",
+        "toHM": "21:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "年末年始",
+      "utilization": "会員登録後、利用の1か月前から前日の午前中までに電話または来館時に予約してください。\nなお、日曜日・祝日のご予約は1週間前に締め切ります。\n\n予約受付時間\n月曜日～土曜日：9時～17時\n\n（注意） 会員登録および利用に際しては、事前に問い合わせください。\n\n詳細は、「あい・ぽーと」麹町（外部サイトへリンク）をご覧ください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "09:00",
+        "toYMD": null,
+        "toHM": "17:00",
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "子育てひろば「あい・ぽーと」麹町",
+      "relatedLink": [
+        {
+          "uri": "https://www.ai-port.jp/kojimachi/komichi/",
+          "title": "「あい・ぽーと」麹町（外部サイトへリンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ichijiteki/komichi.html",
+        "title": "「あい・ぽーと」麹町の一時（いっとき）預かり保育「こみち」"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部児童・家庭支援センター子育て事業係",
+        "contactPhone": "03-5298-2424",
+        "contactEx": null,
+        "contactEmail": "jidousenta@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1010041",
+        "contactAddress": "東京都千代田区神田須田町1-4-4　PMO神田須田町4階"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM83",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部児童・家庭支援センター子育て事業係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-06-02",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第7項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "病児・病後児保育",
+        "shortName": "病児・病後児保育"
+      },
+      "summary": "保育所などに通所しているお子さんが病気や病気の回復期にあることから保育所での集団保育が困難で、かつ、保護者の就労などにより家庭で保育を行うことができない場合、病児・病後児保育を行っている施設で一時的に預かります。",
+      "description": "保護者の就労支援等を目的に、保育園等において集団保育を行うことが困難な病児・病後児を一時的に保育します。\n\n・病児保育とは\nお子さんが病気の回復期に至らないが、当面の症状の急変が認められない場合に、医療機関に併設された専用の保育室で保育を行います。\n\n・病後児保育とは\nお子さんが病気の回復期にある場合に、保育園に併設する専用の保育室で保育を行います。\n\n令和6年4月から、半蔵門のびすここどもクリニックに併設する保育室「のびすこキッズケア」において、病児・病後児保育を開始しました。\n\n対象疾患・受入れ可能な状態\n\n病児保育\n病気の回復期に至っていないが、医療機関に入院する必要がなく、症状の急変が生ずるおそれのない状態\n（注意） 麻疹、水痘、新型コロナウイルス感染症は利用できません。\n\n病後児保育\n1.感冒、下痢等日常的にかかる疾患\n→急性期（病気を発症して間もない時期など状態が急速に悪化する時期をいう。）を経過した状態\n2.気管支炎、喘息等の呼吸器系疾患\n→発作が治まった状態\n3.学校保健安全法施行規則第18条に規定する感染症（注釈）\n→他の児童に感染するおそれのある感染期を経過した状態\n4.骨折、熱傷、火傷等の外傷性疾患\n→症状が安定した状態\n\n（注釈） 感染症での利用の場合は、「病後児保育利用のめやす」（千代田区ホームページ参照）をご確認ください。\n・病児保育：「病後児保育利用のめやす」に至っていない状態（登園停止期間を含む）\n・病後児保育：「病後児保育利用のめやす」に至っているが、食欲がない、疲れやすい等保育施設での集団活動が難しい状態\n\n注意事項\n\n・延長保育はありません。必ず各施設の保育時間終了までにお迎えに来てください。\n・予約やキャンセルの連絡を受付時間内にいただけない場合、お迎え時間を大幅に過ぎた場合、利用料金が未納の場合などは、次回の利用をお断りする場合がありますのでご注意ください。\n・お子さんの状態が急に悪くなった場合は、保護者の方へ電話で連絡し、お迎えをお願いする場合があります。\n・未成年の方のお迎えはできません。",
+      "target": {
+        "targetPersons": "区内に住所を有する生後6か月から就学前のお子さんで、次の1.から4.までのすべてに該当する場合が対象になります。\n\n1.教育・保育給付または施設等利用給付の2号または3号認定を受けていること。\n2.次の保育施設に在籍していること。\n　ア 保育園、認定こども園、幼稚園\n　イ 地域型保育事業（小規模保育事業・家庭的保育事業・事業所内保育事業・居宅訪問型保育事業）\n　ウ 認証保育所\n　エ 都道府県に届出を行っている認可外保育施設\n　オ アからエまでに準ずる制度に基づき区市町村が設置または認定している施設等\n3.お子さんが病児または病後児であって、保育施設において集団保育を行うことが困難なものであること。\n4.児童の保護者が就労等やむを得ない事由により、家庭内で保育を行うことが困難であること。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "2000",
+      "costConditions": " 生活保護世帯および区民税非課税世帯等の方は、減免措置（ご利用、お支払い後の清算制）があります。詳しくは、区役所子ども支援課にお問い合わせください。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "のびすこキッズケア,麹町保育園,神田保育園,ふじみこども園,anton nursery school",
+        "implementationAddress": "東京都千代田区一番町4-16プルミエール一番町1階,東京都千代田区一番町4,東京都千代田区神田淡路町2-109,東京都千代田区富士見1-10-3,東京都千代田区神田佐久間町4-11-4 グレーシア千代田秋葉原201号"
+      },
+      "capacity": "のびすこキッズケア　1日3名\n麹町保育園／神田保育園／ふじみこども園　1日1名\nanton nursery school 1日2名",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "のびすこキッズケア\n土曜日・日曜日・祝日・12月28日～1月4日、半蔵門のびすここどもクリニックの夏季休業日\n麹町保育園／神田保育園／ふじみこども園／anton nursery school　土曜日・日曜日・祝日・12月29日～1月3日",
+      "utilization": "1 事前登録\n\n利用には、事前に千代田区ポータルサイトから、病児・病後児保育利用登録の申請手続きが必要です。1回の登録で区内すべての病児・病後児保育室が利用可能です。\n\n（注意） 登録申請の審査に数日かかりますので、余裕をもってご登録ください。\n（注意） ポータルサイトの利用にあたっては、アカウント登録が必要です。「千代田区ポータルサイト」からアカウント登録を行ったうえで、ポータルサイトから病児・病後児保育利用登録の申請手続きを行ってください。\n\nインターネット環境を利用できないなどポータルサイトからの登録が難しい場合は、子ども支援課にご相談ください。\n\n2 実際の利用の流れ\n\n1 病児・病後児保育（のびすこキッズケア）\n\n1.医療機関の受診        \n保育室内の他児との二次感染を防ぐため、診断が確定している方のみご予約いただけます。医療機関を受診し、診断した医師から「病児・病後児保育利用連絡票」を取得してください（取得にあたって文書料がかかる場合があります）。\n（注意）\n・保育室に併設する半蔵門のびすここどもクリニックを受診する際は、連絡票の取得は不要です。\n・連絡票を取得していただいても、定員の都合等により、予約が受けられない場合があります。その場合の文書料等は返金できません。\nなお、医療機関で診断を受けていれば、連絡票を取得していなくても仮予約ができます。保育室から利用可能の連絡があった場合にだけ再度医療機関に行き、連絡票を取得していただいても構いません。\n\n2.仮予約        \n医師の診断後、メールで保育室に仮予約をしてください。\n【受付時間】利用の前営業日の午前9時～11時\n【申込先メールアドレス】kidscare@nobisuko.jp\n【メールに記載する内容】\n件名：病児・病後児保育の仮予約\n内容：\n・利用者（お子さん）の氏名・生年月日・性別\n・保護者氏名\n・保育希望日時\n・診断された病名・診断した医療機関名・診断日\n（注意）\n・土曜日・日曜日・祝日は休室のため、月曜日にご利用いただく場合の仮予約は、前営業日の金曜日午前11時までとなります。\n\n3.利用の可否の結果通知        \n利用の前営業日12時までに保育室から利用可否のメールを仮予約した方全員にお送りします。\nあらかじめメールアドレス「kidscare@nobisuko.jp」の受信設定をしてください。\n（注意） 病後児よりも病児を優先して受け入れます。また、基本的に申込順（仮予約の受付開始時刻の午前9時以降にメールを受信した順）ですが、診断名や症状、年齢によって最終的に受け入れ可能な方を決定します。\n\n4.本予約（利用可能の通知があった場合）        \n利用可能の通知があった場合、メールで本予約をしてください。\n【受付時間】利用の前営業日午後3時まで\n【申込先メールアドレス】kidscare@nobisuko.jp\n【メールに記載する内容】\n件名：病児・病後児保育の本予約\n内容：\n1.保護者氏名・連絡先\n2.保育希望日時（午前9時～午後5時30分の間で希望する時間）\n　記入例：1日目 〇月〇日〇時～〇時\n　2日目 〇月〇日〇時～〇時\n（注意）\n・2日間まで連続利用できます。希望する場合は、本予約時に、連続利用の旨をお申し出ください。本予約完了後に、連続利用の予約を追加で承ることはできません。\n・受付時間内に本予約の連絡がなかった場合は、自動キャンセルとなります。施設からキャンセル確認の連絡はしません。\n\n5.当日の利用        \n当日午前9時から11時45分までに半蔵門のびすここどもクリニックに来院してください。医師が診察のうえ、最終的な利用可否を判断します。\n利用可能な場合は、利用料をお支払いの後、保育室に順次入室します（キャッシュレス決済もご利用できます）。\n（注意）\n・来院の際は、「千代田区病児・病後児保育利用申込書」を記入のうえ、お持ちください。\n\n（注意）\n\n・利用の前営業日に申し込んでいない方も、診断が確定していて、保育室の定員に空きがある場合は、利用日当日の申込が可能です。毎日午前9時に半蔵門のびすここどもクリニックのホームページで当日の空き状況等をお知らせします。ホームページをご確認のうえ、保育室に電話でお申し込みください（電話番号：090-2418-1441）。\n\n・ご利用を希望する方がいる可能性があるため、予約後にキャンセルする場合は、速やかにメールでご連絡ください（メールアドレス：kidscare@nobisuko.jp）。\n\n・午前9時から順次診察を行ってからの入室になるため、午前9時からの保育室利用で申し込んだ場合でも、実際のお預かりは午前9時15分〜9時30分くらいになることをあらかじめご了承ください。\n\n2 病後児保育（麹町保育園、神田保育園、ふじみこども園、anton nursery school）\n\n1.仮予約        \n利用の前々日（2営業日前）の受付時間終了までに、利用を希望する施設に直接電話でご予約ください。\n【予約受付時間】\n・麹町保育園、神田保育園、ふじみこども園\n　午後1時～4時30分\n・anton nursery school\n　午前8時30分～午後4時30分\n（注意）\n・電話でお子さんの状況などを聞き取ります（10分程度かかる場合があります）。\n・利用の前々営業日までに仮予約が必要です。土・日・祝日は休室のため、以下の曜日を利用する場合はご注意ください。\n　・月曜日に利用希望…前の週の木曜日までに仮予約\n　・火曜日に利用希望：前の週の金曜日までに仮予約\n\n2.連絡票の取得        \n病後児保育の利用には、お子さんを診察した医師が病後児保育を利用して差し支えない旨を記載した病児・病後児保育利用連絡票の取得が必要です。\n仮予約後に、医療機関を受診し、連絡票を取得してください（取得にあたって文書料がかかる場合があります）。\n（注意） 仮予約前に連絡票を取得し仮予約できなかった場合や連絡票取得後に予約をキャンセルする場合等、いかなる理由でも文書料等は返金できません。\n\n3.本予約\n医師の連絡票の取得後、利用の前営業日の受付時間終了までに、仮予約した施設に直接電話でご予約ください。\n【予約受付時間】\n・麹町保育園、神田保育園、ふじみこども園\n　午後1時～4時30分\n・anton nursery school\n　午前8時30分～午後4時30分\n（注意）\n・受付時間内に本予約の連絡がなかった場合は、自動キャンセルとなります。施設からキャンセル確認の連絡はしません。\n・電話で連絡票の記載内容を聞き取ります。本予約の際は、お手元に連絡票をご用意ください。\n・土曜日・日曜日・祝日は休室のため、月曜日にご利用いただく場合の本予約は、前営業日の金曜日午後4時30分までとなります。\n\n4.当日の利用\n当日施設にお越しください。\n（注意） 医師の連絡票、病児・病後児保育利用申込書を記入のうえ、お持ちください。\n\nキャンセル連絡        \nご利用を希望する方がいる可能性があるため、予約後にキャンセルする場合は、速やかに予約をした施設に電話でご連絡ください。\n【受付時間（前営業日までのキャンセル）】\n・麹町保育園、神田保育園、ふじみこども園\n　午後1時～4時30分\n・anton nursery school\n　午前8時30分～午後4時30分\n【受付時間（当日キャンセル）】\n・麹町保育園、神田保育園、ふじみこども園\n　午前7時30分～8時\n・anton nursery school\n　午前8時～8時30分\n\n留意点        \n・一度連絡票を取得いただければ、医師が病後児保育を利用できると判断した日から7日間（休業日を含む）利用することができます。\nただし、連絡票の有効期間内に在籍する園に登園した場合は、病気が治り集団保育できる状態になったものとみなします。登園後に病後児保育を利用したい場合は、当初の連絡票が有効期間内であっても、再度連絡票を取得していただく必要があります。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "持ち物\n\n全施設共通の利用者の持ち物、施設で用意できるもの\n\n|区分|実施施設|利用者の持ち物|施設で用意できるもの|\n|:----|:----|:----|:----|\n|病児・病後児|のびすこキッズケア<br>麹町保育園<br>神田保育園<br>ふじみこども園<br>anton nursery school|・病児・病後児保育利用連絡票（のびすこキッズケアの利用で、併設クリニックを受診した場合は不要）<br>・病児・病後児保育利用申込書<br>・母子手帳（年度初めての利用する時）<br>・健康保険証、医療証（のびすこキッズケア利用は原本、それ以外の施設利用はコピー）<br>・薬剤情報提供書またはお薬手帳（与薬依頼がある場合）<br>・着替え上下3組<br>（注意） 体調によっては汚れる場合がありますので、汚れても良い物をお持ちください<br>・下着（肌着・パンツ）3組<br>・お気に入りのオモチャ（2つまで）や安心できる物<br>・着替えた服などを入れるエコバッグやレジ袋|・紙オムツ<br>・おしり拭き<br>・手口拭き<br>・食事用エプロン<br>・汚れ物用ビニール袋|\n\n（注意） 持ち物にはすべて名前の記入をお願いします。\n\n施設ごとの利用者の持ち物、施設で用意できるもの\n\n|区分|実施施設|利用者の持ち物|施設で用意できるもの|\n|:----|:----|:----|:----|\n|病児・病後児|のびすこキッズケア|・昼食・おやつ（食器も）<br>・バスタオル2枚<br>・フェイスタオル1枚|・飲み物（麦茶、白湯、経口補水液（アップル風味））<br>・ミルク<br>・コップ、哺乳瓶|\n|病後児|麹町保育園<br>神田保育園<br>ふじみこども園|・昼食・おやつ（食器も）<br>・飲み物<br>・バスタオル2枚<br>（注意） ミルクのお子さんは、以下もご用意ください。<br>・ガーゼ3枚（授乳用）<br>・ミルク3セット（スティック、キューブ、液体ミルク等）<br>（補足） 哺乳瓶に乳首をセットし1回分毎に分けて3本用意してください（お湯は提供します）。|-|\n|病後児|anton nursery school|・昼食・おやつ（施設の提供を希望する場合は不要）|・タオル<br>・麦茶<br>・コップ、哺乳瓶<br>・食器|\n\n（注意） 持ち物にはすべて名前の記入をお願いします。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://nobisuko.jp/%E3%81%AE%E3%81%B3%E3%81%99%E3%81%93%E3%82%AD%E3%83%83%E3%82%BA%E3%82%B1%E3%82%A2%EF%BC%88%E7%97%85%E5%85%90%E3%83%BB%E7%97%85%E5%BE%8C%E5%85%90%E4%BF%9D%E8%82%B2%E5%AE%A4%EF%BC%89",
+          "title": "半蔵門のびすここどもクリニックのホームページ（外部サイトへリンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoiku/ichijihoiku.html",
+        "title": "保育園・こども園の一時（いちじ）保育"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部子ども支援課入園審査係",
+        "contactPhone": "03-5211-4119",
+        "contactEx": null,
+        "contactEmail": "kodomoshien@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1028688",
+        "contactAddress": "東京都千代田区九段南1-2-1"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM85",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部子ども支援課入園審査係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-29",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第13項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "ファミリー・サポート・センター",
+        "shortName": "ファミリー・サポート・センター"
+      },
+      "summary": "千代田区のファミリー・サポート・センターは、子育ての援助を受けたい人と援助を行いたい人が会員登録をし、支援会員が依頼会員に対してさまざまな育児の手助けをする事業です。",
+      "description": "千代田区ファミリー・サポート・センター事業は、「子育てのお手伝いをしてほしい方」（依頼会員）と、「子育てのお手伝いをしてくれる方」（支援会員）で構成する区民の子育てに関する相互支援活動です。センターでは、アドバイザーが中心となって、支援活動の調整、会員に対する講習会、会員の募集等を行っています。\n会員になるためには、会員登録が必要です。\n\n支援活動の内容\n・保育施設開始前、または終了後にお子さんを預かること\n・保育施設までの送迎を行うこと\n・学童クラブ終了後や学校の放課後にお子さんを預かること\n・冠婚葬祭や他のお子さんの学校行事の際にお子さんを預かること\n・買い物などの外出の際お子さんを預かること\n・その他\n（注意1） 支援活動は職業（派遣業）として行うベビーシッター、ヘルパーサービスとは異なります。\n（注意2） 宿泊を伴う活動、病気のお子さんの対応は行いません。\n（注意3） 同時に複数のお子さんを預かることが可能です（兄弟姉妹に限ります）。\n\n支援活動の時間帯\n原則として、午前7時から午後9時までの間で、依頼会員が希望する時間\n\n会員資格\n\n・依頼会員\n　　・区内在住で、生後6か月～小学校6年生のお子さんを育児中の保護者の方\n　　・センターが開催する説明会またはアドバイザーの個別の説明を受け、事業の主旨を理解し、賛同した方\n・支援会員\n心身ともに健康で、地域の子育てに理解と熱意のある18歳以上の区内在住・在学（高校生を除く）の方\n（注意） センター所定の講習会を受講すること\n・両方会員\n資格を満たせば、依頼・支援両方の会員になることができます。\n入会金や年会費はありません。\n\nセンター開室日\n\n月曜日～土曜日の9時～17時\n（日曜日、祝祭日、年末年始（12月29日～1月3日）は休業）\n（注意） 事前にお申込みの予約をしてからファミリー・サポート・センターにお越しください。\n\n利用料金\n・月曜日～土曜日の午前9時～午後5時…1時間 900円\n・月曜日～土曜日の午前7時～9時、午後5時～9時…1時間 1,100円\n・日曜日、祝祭日、年末年始（12月29日～1月3日）…1時間 1,100円",
+      "target": {
+        "targetPersons": "子育てのお手伝いをしてほしい方,子育てのお手伝いをしてくれる方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "07:00",
+        "toHM": "21:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "会員登録が必要です",
+      "procedurePersons": null,
+      "procedureMethod": "事前に予約をしてからファミリー・サポート・センターにお越しください",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "・会員（保護者等）の顔写真（3センチメートル×4センチメートル 1枚、スナップ可）\n・本人確認書類（運転免許証や住民票など）\n・印鑑",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "千代田区ファミリー・サポート・センター",
+      "relatedLink": [
+        {
+          "uri": "http://www.chiyoda-cosw.jp/",
+          "title": "千代田区社会福祉協議会（外部サイトへリンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ichijiteki/f-s-center.html",
+        "title": "ファミリー・サポート・センター"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "千代田区ファミリー・サポート・センター",
+        "contactPhone": "03-6265-6523",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1020074",
+        "contactAddress": "東京都千代田区九段南1-6-10 高齢者総合サポートセンター かがやきプラザ4階"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM87",
+        "organization": "8000020131016",
+        "compartment": "千代田区ファミリー・サポート・センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-03-04",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第14項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "認可保育所・認定こども園（保育園枠）一覧",
+        "shortName": "なし"
+      },
+      "summary": "保育園とは、保護者が仕事や病気などのために、家庭で充分に保育することができない子どもを、保護者に代わって保育することを目的とした児童福祉施設で、法的には保育所といいます。\n保育所（保育園）のうち、国が定めた設定基準をクリアし、都道府県知事（政令市・中核市では市長）に認可された保育園を「認可保育所」といいます。\n以下は、千代田区内の認可保育所（保育園）および認定こども園の保育園枠の一覧です。",
+      "description": "下記リンク先の一覧をご覧ください。\nhttps://www.city.chiyoda.lg.jp/koho/kosodate/hoikuen/shisetsu/ninka/index.html",
+      "target": {
+        "targetPersons": "0～5歳",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後57日以上、小学校就学前まで（一部の園は生後10か月以上）"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoikuen/shisetsu/ninka/index.html",
+        "title": "認可保育園等一覧"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部子ども支援課入園審査係",
+        "contactPhone": "03-5211-4119",
+        "contactEx": null,
+        "contactEmail": "kodomoshien@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1028688",
+        "contactAddress": "東京都千代田区九段南1-2-1"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM89",
+        "organization": "8000020131016",
+        "compartment": null,
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の保育施設一覧",
+        "shortName": "認証保育所等一覧"
+      },
+      "summary": "認証保育所は、一定の基準（保育料・保育環境・保育時間など）を満たすことで都の認証を受け、運営経費の助成を受けている認可外保育施設です。",
+      "description": "認証保育所\n認証保育所は、施設内容や人員配置など、一定の水準を確保している施設として東京都が認証した保育所です。13時間の開所を基本としており、一時保育や夜間・休日保育など多様なサービスを行っています。区補助対象保育室は、東京都の認証保育所と同等の基準を満たした保育施設です。\n\n・保育園ドルチェ（九段北4-2-22市ヶ谷スポーツプラザ1階）\n電話番号：03-3222-0355\n保育年齢：0～5歳\n0歳児の入園月齢：生後57日以降\n\n・キッズスクウェア丸の内東京ビル（丸の内2-7-3東京ビル3階）\n電話番号：03-5809-6601\n保育年齢：0～5歳\n0歳児の入園月齢：生後57日以降\n\n・マミーズエンジェル神田駅前保育園（内神田2-5-2信交会ビル1階）\n電話番号：03-3256-8788\n保育年齢：0～5歳\n0歳児の入園月齢：生後43日以降\n\n・小学館アカデミー神保町保育園（神田神保町2-20SP神保町第2ビル1階）\n電話番号：03-3515-9103\n保育年齢：0～5歳\n0歳児の入園月齢：生後57日以降\n\n・ピノキオ幼児舎番町園（五番町5-6ビラカーサ五番町1階）\n電話番号：03-3221-0572\n保育年齢：0～5歳\n0歳児の入園月齢：生後1か月以降\n\n・キッズスクウェア永田町（永田町2-1-2衆議院第二議員会館内）\n電話番号：03-6206-1155\n保育年齢：0～5歳\n0歳児の入園月齢：生後57日以降\n\n・キッズスクウェア丸の内永楽ビル（丸の内1-4-1丸の内永楽ビルディング2階）\n電話番号：0120-086-720（株式会社アルファコーポレーション受付センター）\n保育年齢：0～5歳\n0歳児の入園月齢：生後57日以降\n\n・保育室「愛の園」（外神田2-17-4ビルデンス石村1階）\n電話番号：03-6672-3495\n保育年齢：0～2歳（3歳児以上は要相談）\n0歳児の入園月齢：生後57日以降\n\n区緊急保育施設\n緊急待機児童対策として、廃校になった中学校の校舎を活用した民設・民営の保育施設です。対象が区民のみの認可外保育施設ですが、配置基準や職員配置は、東京都認証保育所の基準に準じています。\n\n・グローバルキッズ神田駅前保育園（鍛冶町2-4-2旧今川中学校1階）\n電話番号：03-5256-2811\n保育年齢：0～5歳\n0歳児の入園月齢：生後57日以降\n\n区補助対象保育室\n区補助対象保育室は、認証保育所と同等の施設運営基準を満たし、区が運営費の一部を補助している施設です。現在私立で2施設あります。\n\n・ひまわり育児室（富士見2-14-23）\n電話番号：03-5214-7070\n保育年齢：0～5歳\n0歳児の入園月齢：生後57日以降\n\n・ハイブリッドマムプリスクールナーサリー千代田富士見（富士見1-6-1）\n電話番号：03-6272-4438\n保育年齢：0～5歳\n0歳児の入園月齢：生後57日以降",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoikuen/shisetsu/ninsho/ks-tokyo.html",
+          "title": "キッズスクウェア丸の内東京ビル"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoikuen/shisetsu/ninsho/ks-nagatacho.html",
+          "title": "キッズスクウェア永田町"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoikuen/shisetsu/ninsho/hybrid-mom.html",
+          "title": "ハイブリッドマムプリスクールナーサリー千代田富士見"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoikuen/shisetsu/ninsho/ks-eraku.html",
+          "title": "キッズスクウェア丸の内永楽ビル"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoikuen/shisetsu/ninsho/s-jinbocho.html",
+          "title": "小学館アカデミー神保町保育園"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoikuen/shisetsu/ninsho/dolce.html",
+          "title": "保育園ドルチェ"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoikuen/shisetsu/ninsho/himawari.html",
+          "title": "ひまわり育児室"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoikuen/shisetsu/ninsho/ainosono.html",
+          "title": "保育室「愛の園」"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoikuen/shisetsu/ninsho/pinoh.html",
+          "title": "ピノキオ幼児舎番町園"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoikuen/shisetsu/ninsho/mammys.html",
+          "title": "マミーズエンジェル神田駅前保育園"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoiku/ninsho.html",
+        "title": "認証保育所等一覧"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部子ども支援課保育運営支援係",
+        "contactPhone": "03-5211-4117",
+        "contactEx": null,
+        "contactEmail": "kodomoshien@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1028688",
+        "contactAddress": "東京都千代田区九段南1-2-1"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM94",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部子ども支援課保育運営支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003",
+          "004"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "私学助成（従来制度）の幼稚園一覧",
+        "shortName": "私立幼稚園 所在地"
+      },
+      "summary": "幼稚園には公立の幼稚園と私立の幼稚園があります。\n私立幼稚園には、新制度による給付を受ける幼稚園と、新制度には移行せず、私学助成を受けて運営している幼稚園があります。\n以下は、千代田区内の私学助成を受ける幼稚園の一覧です。",
+      "description": "私立幼稚園については、各園にお問合せください\n\n|園名|郵便番号|住所|電話番号|\n|:----|:----|:----|:----|\n|神田寺幼稚園|101-0021|千代田区外神田3-4-10|03-3251-8685|\n|暁星幼稚園|102-8133|千代田区富士見1-2-5|03-3264-5875|\n|白百合学園幼稚園|102-8185|千代田区九段北2-4-1|03-3234-6663|\n|雙葉小学校附属幼稚園|102-0085|千代田区六番町11-1|03-3261-2982|",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/yochien/shiritsu.html",
+        "title": "私立幼稚園 所在地"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部子ども総務課子ども総務係",
+        "contactPhone": "03-5211-4273",
+        "contactEx": null,
+        "contactEmail": "kodomosoumu@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1028688",
+        "contactAddress": "東京都千代田区九段南1-2-1"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM96",
+        "organization": "8000020131016",
+        "compartment": null,
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2015-02-13",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の育児に関する金銭的支援",
+        "shortName": "次世代育成手当（区独自制度）"
+      },
+      "summary": "千代田区では、次世代の社会を担う児童の健全な育成を支援する一環として、高校生相当までの児童のうち児童手当（国制度）の支給対象となっていない児童を養育している方に対して独自に手当を支給しています。",
+      "description": "千代田区では、次世代の社会を担う児童の健全な育成を支援する一環として、高校生相当までの児童のうち児童手当（国制度）の支給対象;https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/taisho.html#jidou_03となっていない児童を養育している方に対して独自に手当を支給しています。\n\n受給するためには申請が必要です。転入の際や、児童が対象児童に該当になる際に申請してください。\n\n（注意1） 次世代育成手当は、「雑所得」に該当します（非課税所得ではありません）。年間の受給額によっては課税の対象となる場合があります。\n（注意2） 受給要件を満たしていても、区民税や国民健康保険料等を滞納している場合や、区民税に係る所得の申告をしていない場合は、手当の支給がされない場合があります（詳細は下記「滞納等による支給の制限」;https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jisedai.html#shikyusegenをご覧ください）。\n（注意3） 本ページでは、「特例給付;https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/getsugaku.html#tokureikyufu」を含む児童手当法による手当を「児童手当」といいます。\n\n支給対象者の拡大\n令和4年6月以降、所得上限額超過;https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/shotoku.html#jidou_02により児童手当の支給対象外となる中学生以下の児童を養育する方も、新たに次世代育成手当の支給対象となります。\n\n令和4年6月以降（新制度）\n\n|所得の区分（注釈1）|3歳未満|3歳～小学生|中学生|高校生相当|\n|:----|:----|:----|:----|:----|\n|858万円以上|月額5,000円<br>（次世代育成手当）（注釈2）|月額5,000円<br>（次世代育成手当）（注釈2）|月額5,000円<br>（次世代育成手当）（注釈2）|月額5,000円<br>（次世代育成手当）|\n|858万円未満622万円以上|月額5,000円<br>（特例給付）|月額5,000円<br>（特例給付）|月額5,000円<br>（特例給付）|月額5,000円<br>（次世代育成手当）|\n|622万円未満|月額15,000円<br>（児童手当）|月額10,000円<br>（第3子以降月額15,000円）<br>（児童手当）|月額10,000円<br>（児童手当）|月額5,000円<br>（次世代育成手当）|\n\n（注釈1） 所得は児童手当法第5条第1項に規定する所得をいい、区分は扶養親族等および児童の人数に応じて変動します（児童手当の所得制限参照）。\n\n（注釈2） 令和4年5月までは特例給付（国制度）の支給対象だったが、令和4年6月以後は特例給付の支給対象外となり、新たに次世代育成手当（区独自）の支給対象となったもの\n\n（注意） 子ども2人と年収103万円以下の配偶者がいる場合は、おおむね年収1,200万円以上であれば児童手当の支給対象外（次世代育成手当の支給対象）となります。\n（注意） 新たに児童手当の支給対象外（次世代育成手当の支給対象）となる方には、児童手当支給事由消滅通知書が5月分の児童手当の支給を受けていた区市町村等から6月以後に送付されます。\n（注意） 区外在住の配偶者が児童手当の支給対象外となる場合、区内に在住の父母が次世代育成手当の支給対象となりますが、申請が必要です。\n\n（参考）\n支給対象者かどうか、申請が必要かどうかは、区民向けフローチャート（PDF：408KB）をご確認ください。\n\n支払月\n原則として、年3回の支払月（2月、6月、10月）に、前月分までの手当をご指定の口座に振り込みます。\n\nただし、支払月までに認定が完了しなかった方や、支払月の前に転出などにより受給事由が消滅した方については、該当の手当を随時お支払いします。\n\n各月25日（土曜日、日曜日、祝日等に該当する場合は、直前の平日）のお振り込みとなります。ご指定の口座で、ご確認をお願いします。\n\n手当支払月一覧\n\n|支払月|支給される手当|\n|:----|:----|\n|2月期|10月分～1月分|\n|6月期|2月分～5月分|\n|10月期|6月分～9月分|\n\n申請\n\n中学生以下の対象児童を養育する場合\n原則として申請が必要です。\n\nただし、児童手当の所得上限額を超過したことにより、その年の6月分から児童手当の支給対象外となった方については、その年の5月分まで児童手当を「千代田区から」受給していた方に限り、申請は不要です（その年の6月分から、自動的に次世代育成手当の受給者として認定します）。\n\n（注意） 児童手当の所得上限額を超過したことにより、その年の6月分から児童手当の支給対象外となった場合であっても、次の場合は申請が必要です。\n\n・公務員の方で「所属庁から」児童手当を受給していた場合\n・区外在住の配偶者が児童手当の受給者であった場合\n\n高校生相当の対象児童のみを養育する場合\n原則として申請が必要です。\n\nただし、児童が15歳になった年度の3月分まで、児童手当を「千代田区から」受給されていた方は、申請不要です（翌年度4月分から、自動的に次世代育成手当の受給者として認定します）。\n\n（注意）児童が高校生相当となる直前の3月分まで児童手当を受給している場合であっても、次の場合は申請が必要です。\n\n・公務員の方で「所属庁から」児童手当を受給していた場合\n・区外在住の配偶者が児童手当の受給者であった場合\n\n現況届\n次のいずれかに該当する方は、毎年6月1日時点の状況を現況届により提出する必要があります。\n\n1.配偶者からの暴力等により、住民票の住所地が実際と異なる方\n2.支給要件児童の戸籍や住民票がない方\n3.離婚協議中で配偶者と別居されている方\n4.その他、千代田区から提出の案内があった方\n\n現況届の提出が必要な方には、個別に書類を毎年5月下旬頃に郵送します。必要書類を添付のうえ、必ず提出してください。\n\n（注意） 現況届（または必要な添付書類）の提出がない場合は、その年の6月分以降の手当の支給が差し止めになります。また、そのまま2年間提出がない場合は、受給資格が消滅します。\n\n令和4年度から次世代育成手当の現況届の提出が原則不要となりました。\n\n令和4年5月31日時点で次世代育成手当を受給している方には、個別にチラシ「令和4年 次世代育成手当現況届廃止について（PDF：344KB）」を送付しました。\n\n滞納等による支給の制限\n次世代育成手当は、特別区民税等の区への納付金に滞納がある方については、支給を一時停止する場合があります。\n\n一時停止を受けた方については、完納が確認された後、一時停止されていた分の手当を含めて遡って支給します。ただし、時効が完成した場合は、手当の支給は行われません。\n\n支給制限の詳細\n\n|時期|制限の内容|\n|:----|:----|\n|令和4年5月まで|特別区民税等の未納がある場合、分納等が行われた月の翌月分から手当の支給を再開（分納等を行う月までの手当の受給権は消滅）していました。|\n|令和4年6月以降|次に掲げる千代田区への納付金に未納がある場合は、手当の支給を一時停止する場合があります。ただし、完納が確認できた後、一時停止を開始した月の分まで遡って手当を支給します。<br>1.特別区民税<br>2.国民健康保険料<br>3.保育園・こども園・幼稚園保育料<br>4.児童手当・児童育成手当・次世代育成手当・誕生準備手当等の過払金の返還金<br>（注意） 一時停止された最初の支払日から2年を経過すると、次世代育成手当の認定が時効により消滅します。この場合、一時停止以降に支払われる予定だった手当の受給権がすべて同時に消滅します。<br>（例） 一時停止の対象が令和4年6月分～となった場合<br>・一時停止された最初の支払日：令和4年10月25日<br>・時効完成日：令和6年10月25日（令和4年6月分以降のすべての次世代育成手当の受給権が消滅）|\n\n再び児童手当の支給対象になった場合\nある年の6月から児童手当の所得上限額を超過したことにより次世代育成手当の支給対象となったものの、翌年の所得が減少したことにより児童手当の支給対象となる場合は、改めて児童手当の申請をする必要があります（次世代育成手当の支給は終了します）。\n\n次世代育成手当は、再び児童手当の支給対象となった年の9月分（児童手当の支給が8月以前の分から再開する場合は、再開する月分の前月分）までしか支給されませんので、引き続き手当の支給を希望する場合は、その年の9月30日までに児童手当の再申請;https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/shinki.htmlをする必要があります。\n\nその他の届出\n次世代育成手当を認定されている方は、次のような場合、速やかに届出書を提出してください。\n\n対象児童が増えたとき\n・提出書類：額改定認定請求書（PDF：111KB）;https://www.city.chiyoda.lg.jp/documents/1274/jisedai-03_2.pdf、（記入例（PDF：164KB））;https://www.city.chiyoda.lg.jp/documents/1274/kinyure-03_2.pdf\n・備考：事由の発生日から15日以内に申請してください。申請が遅れると支給開始が遅くなる場合があります。ただし、児童が15歳となった日以後の最初の4月1日を迎えたことにより対象児童が増える場合は、その直前の3月1日～3月31日に申請してください。\n\n対象児童が減ったとき\n・提出書類：額改定届（PDF：111KB）;https://www.city.chiyoda.lg.jp/documents/1274/jisedai-03_2.pdf、（記入例（PDF：148KB））;https://www.city.chiyoda.lg.jp/documents/1274/kinyure-04_2.pdf\n・備考：届出が遅れると過払いが発生し、後日返還の必要が生じる場合があります。\n\n受給者が千代田区外へ転出したとき\n・提出書類：受給事由消滅届（PDF：86KB）;https://www.city.chiyoda.lg.jp/documents/1274/jisedai-04_2.pdf、（記入例（PDF：144KB））;https://www.city.chiyoda.lg.jp/documents/1274/kinyure-05_2.pdf\n・備考：引き続き配偶者の方が区内に居住する場合は、配偶者の方が受給者となることができます。ただし、配偶者の方が改めて申請する必要があります。\n\n対象児童がいなくなった（0人になった）とき\n・提出書類：受給事由消滅届（PDF：86KB）;https://www.city.chiyoda.lg.jp/documents/1274/jisedai-04_2.pdf、（記入例（PDF：142KB））;https://www.city.chiyoda.lg.jp/documents/1274/kinyure-06_2.pdf\n・備考：届出が遅れると過払いが発生し、後日返還の必要が生じる場合があります。\n\n受給者と児童が別住所となる場合\n・提出書類：氏名・住所等変更届（PDF：226KB）;https://www.city.chiyoda.lg.jp/documents/1274/jisedai-05_2.pdf、（記入例（児童の転居）（PDF：351KB））;https://www.city.chiyoda.lg.jp/documents/1274/kinyure-08_2.pdf、（記入例（受給者の区内転居）（PDF：349KB））;https://www.city.chiyoda.lg.jp/documents/1274/kinyure-10.pdf\n・添付書類：別居監護申立書（PDF：49KB）;https://www.city.chiyoda.lg.jp/documents/1274/bekkyomoshitate_1.pdf、（記入例（単身赴任）（PDF：86KB））;https://www.city.chiyoda.lg.jp/documents/1274/bekkyo-kinyurei_2.pdf、（記入例（進学通学）（PDF：86KB））;https://www.city.chiyoda.lg.jp/documents/1274/bekkyo-kinyurei2_1.pdf\n\n手当受給者または児童の氏名または住所が変わったとき\n・提出書類：氏名・住所等変更届（PDF：226KB）;https://www.city.chiyoda.lg.jp/documents/1274/jisedai-05_2.pdf、（記入例（氏名変更）（PDF：395KB））;https://www.city.chiyoda.lg.jp/documents/1274/kinyure-11.pdf、（記入例（児童と同居）（PDF：351KB））;https://www.city.chiyoda.lg.jp/documents/1274/kinyure-12.pdf\n\n一緒に児童を養育する配偶者を有するに至ったとき\n提出書類：氏名・住所等変更届（PDF：226KB）;https://www.city.chiyoda.lg.jp/documents/1274/jisedai-05_2.pdf、（記入例（PDF：350KB））;https://www.city.chiyoda.lg.jp/documents/1274/kinyure-13.pdf\n\n一緒に児童を養育していた配偶者がいなくなったとき\n提出書類：氏名・住所等変更届（PDF：226KB）;https://www.city.chiyoda.lg.jp/documents/1274/jisedai-05_2.pdf、（記入例（PDF：349KB））;https://www.city.chiyoda.lg.jp/documents/1274/kinyure-14.pdf\n\n離婚協議中の配偶者と離婚したとき\n提出書類：氏名・住所等変更届（PDF：226KB）;https://www.city.chiyoda.lg.jp/documents/1274/jisedai-05_2.pdf、（記入例（PDF：349KB））;https://www.city.chiyoda.lg.jp/documents/1274/kinyure-14.pdf\n\n振込先口座を変えるとき\n・提出書類：口座変更届（PDF：85KB）;https://www.city.chiyoda.lg.jp/documents/1274/jisedai-06_2.pdf\n・備考：変更は受給者名義の口座に限られます。\n\n次世代育成手当の受給を辞退するとき\n・提出書類：受給辞退届（PDF：83KB）;https://www.city.chiyoda.lg.jp/documents/1274/jisedai-07.pdf\n・備考：次世代育成手当の支給対象者となる直前まで児童手当の認定を千代田区から受けていた方のうち、次世代育成手当の受給を辞退する方は、ご提出ください。",
+      "target": {
+        "targetPersons": "対象児童\n18歳に達する日以後の最初の3月31日までの間にある児童のうち、児童手当（国制度）の支給対象となっていない児童が対象です。ただし、婚姻している方（婚姻の届出をしていないが事実上婚姻関係と同様の事情にある者を含みます）は対象ではありません。\n\n具体的には、次の児童が対象児童です。\n\n中学生以下の児童のうち児童手当の対象とならない児童（令和4年6月～）\n1.15歳に達する日以後の最初の3月31日までの間にある児童は、父母等の所得が児童手当の所得上限額以上の場合のみ、次世代育成手当の対象児童です。\n2.高校生相当の児童\n15歳に達する日以後の最初の4月1日から18歳に達する日以後の最初の3月31日までの間にある児童は、父母等の所得に関わらず次世代育成手当の対象児童です。\n\n支給対象者\n下記の1と2の両方を満たす方が手当を受給できます。\n\n1.千代田区に住民登録がある方\n2.対象児童;https://www.city.chiyoda.lg.jp/koho/kosodate/teate/#taishojidoを養育している方\n（注意1） 父母の両方が上記の要件を満たしている場合は、所得の多い方が原則として受給者となります。\n（注意2） 対象児童が千代田区外（学校の寮など）で生活している場合や、国外へ留学している場合（一定の要件があります）でも受給できます。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "18歳に達する日以後の最初の3月31日まで"
+      },
+      "support": {
+        "description": "対象児童1人につき月額5,000円",
+        "monetarySupport": "対象児童1人につき月額5,000円",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申請事由によって、申請期限は異なります。下記の期日（必着）までに、必要な書類をご提出ください。\n\n出生した場合\n出生日から15日以内に申請してください。\nただし、児童手当の支給要件に該当する可能性がある場合は、児童手当の申請をしてください。所得制限の要件を満たさず、児童手当の支給要件に該当しないことが確認された場合、次世代育成手当の申請も行ったものとみなされます。\n\n中学生以下の対象児童を養育する場合\n児童手当支給対象外となった年の5月1日～9月30日（必着）\n（注意） 制度の移行期であることを踏まえ、令和4年6月分から児童手当の所得上限を超過したことで次世代育成手当の支給対象となった方については、令和5年3月31日（必着）までに申請した方に限り、令和4年6月分に遡って次世代育成手当の支給を行います。\n\n高校生相当の対象児童のみを養育する場合\n児童が15歳となった年度の3月1日～3月31日（必着）\n\n対象児童を養育している方が千代田区へ転入した場合\n転入日から15日以内に申請してください。\n\n児童手当の所得上限額を超過した場合\n児童手当支給対象外となった年の5月1日～9月30日に申請してください。\n（注意） 制度の移行期であることを踏まえ、令和4年6月分から児童手当の所得上限を超過したことで次世代育成手当の支給対象となった方については、令和5年3月31日（必着）までに申請した方に限り、令和4年6月分に遡って次世代育成手当の支給を行います。\n\n児童が高校生相当の年齢になる年度を迎える場合\n児童が15歳になった年度の3月1日～31日に申請してください。\n\n受給者が区外に転出した（配偶者等を受給者として改めて申請する）場合\n転出届に記載した転出予定日の属する月の月末までに申請してください。\n\n（注意） 当該手当は、原則として、申請を行った日の翌月分から支給が開始されます。申請が遅れると遅れた分だけ手当を受給できない期間が発生します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "1.認定請求書\n2.受給者（養育者）の口座情報（通帳やキャッシュカードなど）\n3.別居監護申立書\n（注意1） 対象児童と別居している場合のみ必要です。\n4.児童手当支給事由消滅通知書\n（注意2） 児童手当の所得上限額を超過したことにより申請する場合に必要です。発行元は、公務員の方は所属庁、区外在住の配偶者を有する方は配偶者在住区市町村です。\n（注意3） 児童手当支給対象外となった年の6月以降随時発行されます。\n5.配偶者による次世代育成手当受給に関する申立書\n（注意4） 次世代育成手当の受給者は、原則として父母のうち所得が高い方（生計中心者）に限られます。生計中心者ではない父母による受給を希望する場合は、生計中心者によるこの申立書が必要です。原則どおり、生計中心者による次世代育成手当の受給を希望する場合や、生計中心者が区外に在住し、そもそも次世代育成手当の支給対象者とならない場合は、この申立書の提出は不要です。\n（注意5） この申立書により認定を受けることができる配偶者は、区内在住の児童の父母に限られます。区外在住の配偶者や、児童を養育しない配偶者が認定を受けることはできません。\n（注意6） 配偶者による受給は、区独自の手当である次世代育成手当のみ認められます。国の制度である児童手当は、配偶者による受給ができません。\n（注意7） 対象児童が国外へ留学している場合などは、個別に必要書類をご案内しますので、お問い合わせください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/1274/furochato.pdf",
+          "title": "区民向けフローチャート（PDF：408KB）"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jidoteate/shotoku.html",
+          "title": "児童手当の所得制限"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/1274/r4chirashi.pdf",
+          "title": "令和4年 次世代育成手当現況届廃止について（PDF：344KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/teate/jisedai.html",
+        "title": "次世代育成手当（区独自制度）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部子育て推進課手当・医療係",
+        "contactPhone": "03-5211-4230",
+        "contactEx": null,
+        "contactEmail": "kosodatesuishin@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1028688",
+        "contactAddress": "東京都千代田区九段南1-2-1"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+2+UM58",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部子育て推進課手当・医療係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-03-07",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "一時預かり（一時保育）",
+        "shortName": "保育園・こども園の一時（いちじ）保育"
+      },
+      "summary": "保護者や家族が傷病や出産などで入院または通院するため、一時的に児童の保育ができない場合、認可保育園またはこども園で児童の保育をします。\n\nただし、園の定員に空きがない場合は、ご利用いただけません。",
+      "description": "保護者や家族が傷病や出産などで入院または通院するため、一時的に児童の保育ができない場合、認可保育園またはこども園で児童の保育をします。\n\nただし、園の定員に空きがない場合は、ご利用いただけません。\n\n期間\n原則として、1か月以内\n（ただし、最初の数日間は、児童が園生活に慣れるため、短時間での慣らし保育となります。）\n\n基本保育時間\n月曜日から土曜日まで、保育園の通常開所時間のうち保育が必要と認められる時間\n（園によって異なる場合があります。延長保育が必要な場合などは、ご相談ください。）",
+      "target": {
+        "targetPersons": "生後57日～小学校就学前の児童（区立こども園は2歳児クラスまで）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後57日～小学校就学前の児童（区立こども園は2歳児クラスまで）"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "1600",
+      "costConditions": "児童1人につき、1日1,600円\n延長保育は、1時間につき、200円加算",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "区立保育園、私立認可保育園、区立こども園（２歳児クラスまで）、認定こども園",
+        "implementationAddress": null
+      },
+      "capacity": "定員に空きのある場合",
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "保育園の通常開所時間のうち保育が必要と認められる時間"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "利用希望日の2か月前から受け付けています。\n（受け入れ可能な園と空き状況を、子ども支援課へ電話で確認してください。）",
+      "procedurePersons": null,
+      "procedureMethod": "受け入れる園が決定したら連絡しますので、次の書類をご提出ください。\n（書類提出後に、園で面接と健康診断を受けていただきます。）\n\n1.一時保育申請書\n2.保育ができない状況を証明する書類（父・母・18歳以上65歳未満の同居者、全員分）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/hoiku/ichijihoiku.html",
+        "title": "保育園・こども園の一時（いちじ）保育"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部子ども支援課入園審査係",
+        "contactPhone": "03-5211-4119",
+        "contactEx": null,
+        "contactEmail": "kodomoshien@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1028688",
+        "contactAddress": "東京都千代田区九段南1-2-1"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+2+UM83",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部子ども支援課入園審査係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2018-09-18",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第7項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "新制度の幼稚園・認定こども園（幼稚園枠）一覧",
+        "shortName": "区立幼稚園・こども園一覧"
+      },
+      "summary": "幼稚園には公立の幼稚園と私立の幼稚園があります。\n以下は、千代田区内の公立幼稚園およびこども園の一覧です。",
+      "description": "・麹町幼稚園（外部サイトへリンク）;https://www14.schoolweb.ne.jp/swas/index.php?id=1380027\n・九段幼稚園（外部サイトへリンク）;https://www14.schoolweb.ne.jp/swas/index.php?id=1380028\n・番町幼稚園（外部サイトへリンク）;https://www14.schoolweb.ne.jp/swas/index.php?id=1380029\n・お茶の水幼稚園（外部サイトへリンク）;https://www14.schoolweb.ne.jp/swas/index.php?id=1380030\n・千代田幼稚園（外部サイトへリンク）;https://www14.schoolweb.ne.jp/swas/index.php?id=1380031\n・昌平幼稚園（外部サイトへリンク）;https://www14.schoolweb.ne.jp/swas/index.php?id=1380032\n・いずみこども園（外部サイトへリンク）;https://www14.schoolweb.ne.jp/swas/index.php?id=1380033\n・ふじみこども園（外部サイトへリンク）;https://www14.schoolweb.ne.jp/swas/index.php?id=1380034",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/10555/gakkoyoran-1.pdf",
+          "title": "麹町幼稚園（PDF：315KB）"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/10555/gakkoyoran-2.pdf",
+          "title": "九段幼稚園（PDF：333KB）"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/10555/gakkoyoran-3.pdf",
+          "title": "番町幼稚園（PDF：828KB）"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/10555/gakkoyoran-4.pdf",
+          "title": "お茶の水幼稚園（PDF：549KB）"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/10555/gakkoyoran-5.pdf",
+          "title": "千代田幼稚園（PDF：400KB）"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/10555/gakkoyoran-6.pdf",
+          "title": "昌平幼稚園（PDF：505KB）"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/10555/gakkoyoran-7.pdf",
+          "title": "いずみこども園（PDF：451KB）"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/10555/gakkoyoran-8.pdf",
+          "title": "ふじみこども園（PDF：587KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/yochien/kuritsu/ichiran/index.html",
+        "title": "区立幼稚園・こども園一覧"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部指導課指導主事",
+        "contactPhone": "03-5211-4286",
+        "contactEx": null,
+        "contactEmail": "shidou@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1028688",
+        "contactAddress": "東京都千代田区九段南1-2-1"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+2+UM95",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部指導課指導主事",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-11-22",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "一時預かり（一時保育）",
+        "shortName": "一時（いっとき）預かり保育"
+      },
+      "summary": "区内にお住まいの保護者の方が通院、学校行事はもちろん、講習会やリフレッシュなど、家庭において保育を受けることが困難となったお子さんを、一時的にお預かりします。",
+      "description": "区内にお住まいの保護者の方が通院、学校行事はもちろん講習会やリフレッシュなど、家庭において保育が困難になる乳幼児（区内在住で、保育園に入園していない満6か月～小学校就学前）を、児童館等で一時的に短時間お預かりします。\n\nなお、質問や、予約、申し込みについては、預けたい児童館等に直接お問い合わせください。\n\n・実施場所およびお問い合わせ\n　西神田児童センター　03-5215-9062\n　神田児童館　03-3253-6021\n　一番町児童館　03-32330-0866\n　ポピンズキッズルーム一番町　03-3221‐3611",
+      "target": {
+        "targetPersons": "家庭において保育が困難になる乳幼児（区内在住で、保育園に入園していない満6か月～小学校就学前）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "質問や、予約、申し込みについては、預けたい児童館等に直接お問い合わせください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/1324/riyo-shiori_1.pdf",
+          "title": "区立児童館 一時（いっとき）預かり保育 ご利用のしおり（PDF：359KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ichijiteki/ittoki.html",
+        "title": "一時（いっとき）預かり保育"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部児童・家庭支援センター子育て事業係",
+        "contactPhone": "03-5298-2424",
+        "contactEx": null,
+        "contactEmail": "jidousenta@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1010041",
+        "contactAddress": "東京都千代田区神田須田町1-4-4　PMO神田須田町4階"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+3+UM83",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部児童・家庭支援センター子育て事業係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2022-06-30",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第7項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "一時預かり（一時保育）",
+        "shortName": "拡大型一時（いっとき）預かり保育"
+      },
+      "summary": "区内にお住まいの保護者の方が通院、学校行事はもちろん、講習会やリフレッシュなど、家庭において保育を受けることが困難となったお子さんを、一時的にお預かりします。",
+      "description": "区内にお住まいの保護者の方が通院、学校行事はもちろん、講習会やリフレッシュなど、家庭において保育が困難になる乳幼児（区内在住で、保育園に入園していない満4か月～小学校就学前）を、一時的にお預かりします。\n\nなお、ご質問や、予約、申し込みについては、預けたい施設に直接お問い合わせください。\n\n利用できる日・時間帯\n　月曜日～土曜日、8時～19時\n　（1日8時間以内・月60時間以内）\n\n負担費用\n1.9時～17時は1時間500円（4時間まで、4時間を超えた場合は1時間800円）\n2.8時～9時、17時～19時は1時間800円\n\n実施場所およびお問い合わせ\n　富士見わんぱくひろば　03-3263-1185\n　いずみこどもプラザ　03‐3865‐1840\n　グローバルキッズ飯田橋保育ルーム　03-6380-8422",
+      "target": {
+        "targetPersons": "家庭において保育が困難になる乳幼児（区内在住で、保育園に入園していない満４か月～小学校就学前）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "富士見わんぱくひろば,いずみこどもプラザ,グローバルキッズ飯田橋保育ルーム",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "19:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "質問や、予約、申し込みについては、預けたい施設に直接お問い合わせください。",
+      "procedurePersons": null,
+      "procedureMethod": "利用希望日の2日前までに、利用場所へ申し込んでください。\n（緊急の場合はご相談ください）",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "・初回時は、子どもが区民であることを証明できる書類（乳幼児医療証）\n・一時（いっとき）預かり保育事業利用申請書\n・一時（いっとき）預かり保育利用チェック表",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/164/iidabashi280608-1.pdf",
+          "title": "グローバルキッズ飯田橋保育ルーム（PDF：193KB）"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/164/izumi-kakudai.pdf",
+          "title": "いずみこどもプラザ（PDF：210KB）"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/shisetsu/gakko/fujimi-wanpaku.html",
+          "title": "富士見わんぱくひろば"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ichijiteki/kakudaigata/index.html",
+        "title": "拡大型一時（いっとき）預かり保育"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部児童・家庭支援センター子育て事業係",
+        "contactPhone": "03-5298-2424",
+        "contactEx": null,
+        "contactEmail": "jidousenta@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1010041",
+        "contactAddress": "東京都千代田区神田須田町1-4-4　PMO神田須田町4階"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+4+UM83",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部児童・家庭支援センター子育て事業係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-04-09",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第7項、第21条の9"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "004"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

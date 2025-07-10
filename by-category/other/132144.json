@@ -1,0 +1,506 @@
+{
+  "version": "2025-07-10T02:38:54.133Z",
+  "areaCode": "132144",
+  "areaName": "国分寺市",
+  "category": "other",
+  "count": 4,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "児童館",
+        "shortName": "児童館"
+      },
+      "summary": "児童館は、18歳未満のお子さんに健全な遊びを提供し、健康増進を図るとともに、豊かな情操を育むことを目的としています。\n国分寺市の児童館には、小学校就学前のお子さんが安心して遊べるスペースがあり、またお子さんの年齢に応じた各種イベントなども行っています。\n（イベントの詳細については、国分寺市サイトや市報などでお知らせしています。）",
+      "description": "本多児童館;https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/jidoukan/1004135.html\nいずみ児童館;https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/jidoukan/1004136.html\nにしまち児童館;https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/jidoukan/1004137.html\nしんまち児童館;https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/jidoukan/1004138.html\nひかり児童館;https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/jidoukan/1004139.html\nもとまち児童館;https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/jidoukan/1004140.html",
+      "target": {
+        "targetPersons": "0～18歳未満の児童及びその保護者等",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "10:00",
+        "toHM": "19:00",
+        "condiutilizationConditionstions": "小学生は18時まで"
+      },
+      "specificDate": null,
+      "holiday": "日曜日，国民の祝日に関する法律（昭和23年法律第178号）に規定する休日，年末年始（12月28日から翌年の1月3日までの日），第四月曜日の10時～13時は休館日",
+      "utilization": "利用当日に登録届に記入",
+      "procedurePersons": "本人又は保護者",
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kokubunji.tokyo.jp/shisetsu/kosodate/jidoukan/index.html",
+        "title": "児童館"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子ども子育て支援課いずみ児童館",
+        "contactPhone": "042-322-8849",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132144;国分寺市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132144+1+UM108",
+        "organization": "1000020132144",
+        "compartment": "子ども子育て支援課",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-09",
+        "updater": "国分寺市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国分寺市立児童館条例",
+        "regulationArticle": "第２条～12条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "国民健康保険における産前産後期間保険料（税）免除",
+        "shortName": "産前産後期間の国民健康保険税減額制度"
+      },
+      "summary": "国民健康保険の出産する被保険者に係る産前産後期間相当分（４ヶ月分）の均等割保険料と所得割保険料が免除されます。",
+      "description": "子育て世帯の負担軽減、次世代育成支援の観点から、国民健康保険被保険者が出産する際、産前産後の一定期間の国民健康保険税が減額される制度が令和6年1月から始まります。減額には、世帯主からの届出が必要です。\n\n対象者\n国民健康保険被保険者で出産予定日または出産した日が令和5年11月1日以降の方\n\n（注）出産とは、妊娠85日（4ヶ月）以上の出産（死産・流産・人口妊娠中絶含む）\n\n対象期間\n出産予定日又は出産日が属する月の前月から4か月間（以下「産前産後期間」といいます。）の国民健康保険税が減額されます。\n\n（注釈）多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間\n\n対象期間\n対象保険税\n出産される方の産前産後期間の所得割額および均等割額\n\n届出受付期間\n出産予定日の6ヶ月前から届出ができます。出産後の届出も可能です。\n\n届出に必要な書類\n（1）産前産後期間に係る国民健康保険税軽減届出書\n\n（2）届出をする方（世帯主）の本人確認書類\n\n（3）母子手帳の写しなど出産（予定）日、単胎・多胎妊娠の別を確認することができる書類\n\n（注釈）被保険者と子が別世帯の場合には、別途親子関係を明らかにする書類が必要です。\n\n産前産後期間に係る国民健康保険税軽減届出書 （PDF 480.7KB）;https://www.city.kokubunji.tokyo.jp/_res/projects/default_project/_page_/001/031/193/3.pdf\n提出方法\n市役所保険年金課の窓口または郵送で提出してください\n\n（郵送先）〒185-8501国分寺市戸倉1－6－1国分寺市役所保険年金課国民健康保険係宛",
+      "target": {
+        "targetPersons": "国民健康保険被保険者で出産予定日または出産した日が令和5年11月1日以降の方\n\n（注）出産とは、妊娠85日（4ヶ月）以上の出産（死産・流産・人口妊娠中絶含む）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "国民健康保険被保険者が出産する際、産前産後の一定期間の国民健康保険税が減額される",
+        "monetarySupport": "国民健康保険被保険者が出産する際、産前産後の一定期間の国民健康保険税が減額される",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産予定日又は出産日が属する月の前月から4か月間（以下「産前産後期間」といいます。）の国民健康保険税が減額されます。\n\n（注釈）多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "世帯主",
+      "procedureMethod": "減額には、世帯主からの届出が必要です。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産予定日の6ヶ月前から届出ができます。出産後の届出も可能です。"
+      },
+      "electronicSubmission": false,
+      "belongings": "届出に必要な書類\n（1）産前産後期間に係る国民健康保険税軽減届出書\n\n（2）届出をする方（世帯主）の本人確認書類\n\n（3）母子手帳の写しなど出産（予定）日、単胎・多胎妊娠の別を確認することができる書類\n\n（注釈）被保険者と子が別世帯の場合には、別途親子関係を明らかにする書類が必要です。\n\n産前産後期間に係る国民健康保険税軽減届出書 （PDF 480.7KB）;https://www.city.kokubunji.tokyo.jp/_res/projects/default_project/_page_/001/031/193/3.pdf",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "市役所保険年金課の窓口または郵送で提出してください\n\n（郵送先）〒185-8501国分寺市戸倉1－6－1国分寺市役所保険年金課国民健康保険係宛",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/1011810/1011822/1011834/1031193.html",
+        "title": "令和6年1月から産前産後期間の国民健康保険税減額制度が始まります"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部保険年金課国民健康保険係",
+        "contactPhone": "042-325-0111",
+        "contactEx": "314",
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "ファクス番号：042-325-1380",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132144;国分寺市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132144+1+UM5035",
+        "organization": "1000020132144",
+        "compartment": "健康部保険年金課国民健康保険係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-12-20",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "国分寺市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003",
+          "015"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産前産後期間の国民年金保険料免除",
+        "shortName": "産前産後期間の国民年金保険料免除"
+      },
+      "summary": "国民年金の第1号被保険者が出産した場合には、出産前後の一定期間の国民年金保険料が免除されます。\n免除期間は年金額を計算する際、保険料を納めた期間として扱われます。",
+      "description": "概要\n国民年金第1号被保険者のかたが出産をした場合、出産前後の一定期間の国民年金保険料が免除となります。\n\n制度概要\n対象となるかた\n国民年金第1号被保険者のかたで、出産日が平成31年2月1日以降のかた\n\n（注釈）\n厚生年金・共済年金に加入しているかた（第2号被保険者）、あるいはそれらの年金に加入している配偶者に扶養されているかた（第3号被保険者）は、当制度の対象外となります。また国民年金に任意加入をされているかたも対象になりません。\n\n対象となる期間\n（単胎の場合）出産日の属する月の前月から4か月間\n\n（多胎の場合）出産日の属する月の3か月前から6か月間\n\nお手続きは出産予定日の6か月前から受け付けられます。なお、出産後も届出が可能です。お早めの届出をお願いします。\n\n手続きをするメリット\n当免除制度を利用すると該当の期間は、月額分の保険料を全額お支払いいただいた場合と同じ取扱いになり、将来受け取れる年金の金額が少なくなることなどはありません。\n\n（通常の免除申請では保険料の免除が認められても月額分の保険料を全額お支払いいただいた場合より受け取れる年金は少なくなります。）\n\n当免除制度の対象となる期間について、国民年金保険料免除・納付猶予、学生納付特例をすでに申請していただいて、それが承認されている場合でも後から届出することで、当制度を利用していただけます。\n\nその他の注意\n妊娠85日（4か月）以上の状態で死産・流産・早産・中絶などをされたかたも当制度の対象となります。この場合、持ち物などが異なりますので、個別にお問い合わせください。\n当制度は平成31年2月1日以降の出産に対してのみ適用されます。平成31年2月1日以降出産した第1号被保険者のかたで、まだお手続きをしていないかたは、さかのぼって申請することができます。\n保険料の免除は付加年金保険料には適用されません。このため、付加年金に加入されているかたは、付加年金保険料のみ別途お支払いいただく必要があります。\n\nお手続きに必要な持ち物\nお手続きの際には以下の持ち物が必要となります。\n\n届出が必要なかたの年金手帳・基礎年金番号通知書\nお手続きする来庁者の本人確認書類\n1点の提示で確認とするもの\n運転免許証（運転経歴証）、旅券（パスポート）、マイナンバーカード、住民基本台帳カード（写真付）、在留カード、特別永住者証明書など\n2点の提示で確認とするもの\n年金手帳、基礎年金番号通知書、基礎年金番号通知書、健康保険証、介護保険証、年金証書、住民基本台帳カード（写真無）、社員証、学生証、預金通帳、キャッシュカードなど\n（出産前の申請の場合のみ）母子健康手帳などの出産日が確認できる書類\n委任状（対象者ご本人が来庁する場合は不要）\n委任状について;https://www.city.kokubunji.tokyo.jp/kurashi/1011810/1011823/1011871/1016304.html\n\n郵送でお手続きする場合\nこのお手続きは郵送でも届出できます。郵送で申請する場合には、下記の書類を封筒に同封した上で国分寺市役所か立川年金事務所に対して郵送してください。なお、郵送でお手続きしていただいた場合、書類の不備などで再提出をお願いする場合もあります。ご了承ください。\n\n国民年金被保険者関係届（申出書）（下記の添付ファイルからダウンロードできます）\n本人確認書類（運転免許証、パスポートなど）（写し）\n（出産前の申請の場合のみ）母子健康手帳などの出産日が確認できる書類（写し）\n個人番号（マイナンバー）が確認できる書類（写し）\n（注釈）\n国民年金被保険者関係届（申出書）内「A.被保険者」欄内「個人番号」欄にマイナンバーではなく、基礎年金番号を記載する場合には「4.個人番号が確認できる書類」は不要となります。\n\n送付先\n国分寺市役所保険年金課国民年金係\n〒185-8501国分寺市戸倉1－6－1\n日本年金機構立川年金事務所\n〒190-8580立川市錦町2－12－10\n\nお手続き後の流れについて\nお手続きをいただいて、内容に問題なければ上記に記載した出産前後の保険料が免除されます。\n\n該当する期間の保険料をすでにお支払いいただいていた場合には、日本年金機構から後日保険料をお戻しする申請書をご自宅へ郵送します。その際には申請書に振込先の口座などをご記入いただいて返送いただくことで保険料をお戻ししますので、申請をお忘れないようにお願いします。\n\n添付ファイル国民年金被保険者関係届（申出書）（PDF 210.4KB);https://www.city.kokubunji.tokyo.jp/_res/projects/default_project/_page_/001/023/036/sinmousi.pdf\n【出産予定・出産後_記入例】国民年金被保険者関係届（申出書）（PDF 169.5KB）;https://www.city.kokubunji.tokyo.jp/_res/projects/default_project/_page_/001/023/036/sinsetumei.pdf\n関連情報\n国民年金保険料の産前産後期間の免除制度（日本年金機構）（外部リンク）;https://www.nenkin.go.jp/service/kokunen/menjo/20180810.html\n付加保険料の納付（日本年金機構）（外部リンク）;https://www.nenkin.go.jp/service/kokunen/hokenryo/fukanofu.html",
+      "target": {
+        "targetPersons": "国民年金第1号被保険者で平成31年2月1日以降に出産された方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "国民年金第1号被保険者が出産する際、産前産後の一定期間の国民年金保険料が免除される",
+        "monetarySupport": "国民年金第1号被保険者が出産する際、産前産後の一定期間の国民年金保険料が免除される",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産予定日又は出産日が属する月の前月から4か月間（以下「産前産後期間」といいます。）の国民年金保険料が免除されます。\n\n（注釈）多胎妊娠の場合は、出産予定日又は出産日が属する月の3か月前から6か月間"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "被保険者本人",
+      "procedureMethod": "被保険者からの届出が必要です。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "出産予定日の6ヶ月前から届出ができます。出産後の届出も可能です。"
+      },
+      "electronicSubmission": false,
+      "belongings": "被保険者からの届出が必要です。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "市役所保険年金課の窓口または郵送で提出してください\n（郵送先）〒185-8501国分寺市戸倉1－6－1国分寺市役所保険年金課国民健康保険係宛",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/1011810/1011823/1023665/1023036.html",
+        "title": "出産に伴う保険料免除を希望するとき"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "健康部保険年金課国民年金係",
+        "contactPhone": "042-325-0111",
+        "contactEx": "316",
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "ファクス番号：042-325-1380",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132144;国分寺市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132144+1+UM793",
+        "organization": "1000020132144",
+        "compartment": "健康部保険年金課国民年金係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-12-20",
+      "odInformation": {
+        "updateDate": "2024-07-08",
+        "updater": "国分寺市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民年金法",
+        "regulationArticle": "第88条の2（保険料の納付義務）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "016"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育て支援パスポート",
+        "shortName": "子育て応援とうきょうパスポート"
+      },
+      "summary": "「子育て応援とうきょうパスポート事業」は、東京都が、子育てを応援しようとする社会的機運の醸成を目的として推進している事業であり、企業・店舗等が、子育て世帯や妊娠中の方がいる世帯に対して、様々なサービスを提供する仕組みです。",
+      "description": "皆様の子育てを応援します！\n東京都からのお知らせ\n\n東京都は、企業や店舗が善意で様々なサービスを提供する「子育て応援とうきょうパスポート事業」を実施しています。\n都内在住の18歳未満のお子様がいる、または妊娠中の方がいる世帯にてご利用いただけます。ぜひ「子育て応援とうきょうパスポート」を活用して、ご家族でお楽しみください！！\n\nどんなサービスが受けられるの？\n協賛店では、商品の割引や粉ミルクのお湯の提供等、様々なサービスを提供します（利用の際、パスポートや年齢確認書類等の提示を求められることがあります）。\n\nパスポートの入手方法は？\n子育て応援とうきょうパスポートアプリや、東京都の子育て情報サイト「とうきょう子育てスイッチ」から、子育て応援とうきょうパスポートページ（以下、「運営サイト」という。）で利用者登録をすると、デジタルパスポートを入手できます。\nまた、紙パスポート付のチラシも、各市区町村庁舎等でお配りしています。\n\nどんなお店で使えるの？\n協賛店として登録されている、都内の飲食店やスーパー等で使用できます。各店舗に貼ってある協賛ステッカーが目印となります。所在地やサービス内容等は、運営サイトで検索が可能です。\n\n＜協賛店も募集中！＞\n子育て世帯に優しいサービスを提供してくださる企業・店舗等の皆様も随時募集しています。\n子育てを応援したいとお考えの皆様、是非、運営サイトよりご登録ください！\n\n【お問い合わせ】\n福祉局子供・子育て支援部企画課子育て応援事業担当\n電話：03（5320）4115\n\n【東京都】とうきょう子育てスイッチ（外部リンク）;https://kosodateswitch.metro.tokyo.lg.jp/\n協賛ステッカー\n協賛店に貼ってある「協賛ステッカー」\nパスポート\nデジタルパスポート\nアプリ紹介スライド\n子育て応援とうきょうパスポートアプリの紹介",
+      "target": {
+        "targetPersons": "都内在住の18歳未満のお子様がいる、または妊娠中の方がいる世帯",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": 0
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "協賛店では、商品の割引や粉ミルクのお湯の提供等、様々なサービスを提供します（利用の際、パスポートや年齢確認書類等の提示を求められることがあります）。",
+        "monetarySupport": null,
+        "materiallySupport": "協賛店では、商品の割引や粉ミルクのお湯の提供等、様々なサービスを提供します（利用の際、パスポートや年齢確認書類等の提示を求められることがあります）。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "パスポートの入手方法は？\n子育て応援とうきょうパスポートアプリや、東京都の子育て情報サイト「とうきょう子育てスイッチ」から、子育て応援とうきょうパスポートページ（以下、「運営サイト」という。）で利用者登録をすると、デジタルパスポートを入手できます。\nまた、紙パスポート付のチラシも、各市区町村庁舎等でお配りしています。\n\nどんなお店で使えるの？\n協賛店として登録されている、都内の飲食店やスーパー等で使用できます。各店舗に貼ってある協賛ステッカーが目印となります。所在地やサービス内容等は、運営サイトで検索が可能です。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://kosodateswitch.metro.tokyo.lg.jp/",
+          "title": "【東京都】とうきょう子育てスイッチ（外部リンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/1008608/1008677/1019721.html",
+        "title": "子育て応援とうきょうパスポートをご活用ください（東京都）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子ども家庭部子ども若者計画課管理担当",
+        "contactPhone": "042-312-8645",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132144;国分寺市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132144+1+UM802",
+        "organization": "1000020132144",
+        "compartment": "子ども家庭部子ども若者計画課管理担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-11-29",
+      "odInformation": {
+        "updateDate": "2024-07-05",
+        "updater": "国分寺市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "少子化社会対策大綱（平成27年3月20日閣議決定）、子育て応援とうきょうパスポート事業実施要綱\n",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

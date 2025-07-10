@@ -1,0 +1,878 @@
+{
+  "version": "2025-07-10T02:38:54.129Z",
+  "areaCode": "132101",
+  "areaName": "小金井市",
+  "category": "vaccination",
+  "count": 7,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "妊娠の届出・母子健康手帳の交付",
+        "shortName": "妊娠届出書・母子健康手帳"
+      },
+      "summary": "妊娠がわかったら妊娠の届出をしてください。妊娠の届出をした妊婦さんに母子健康手帳を交付します。母子健康手帳は、妊娠からお子さんが小学校に入学するまでの、母と子の健康の記録です。育児、予防接種、健康診査などの際に必要となります。",
+      "description": "妊娠届出書・母子健康手帳\n更新日：2024年4月1日\n\nご妊娠おめでとうございます。\n小金井市では、妊娠された市民の方に母子健康手帳や各種案内の入っている「母と子の保健バッグ」をお渡ししています。\n母子健康手帳は、妊娠中の健康状態を記録するほか、出産後に赤ちゃんの健康状態を記録するための手帳で、乳幼児健診や予防接種でも使用します。\n\n妊娠届出書には妊娠週数や分娩予定日、診断を受けた医師（助産師）の名前等の記入欄がございます。届け出の時期については診断を受けた医師の指示に従い、手続きをお願いいたします。\n\n注記：母子健康手帳は、多胎児の場合を除きお一人様一冊の交付となります。\n注記：「英語・日本語併記版」、「中国語・日本語併記版」の母子健康手帳もご用意しております。必要な方は、妊娠届出書の提出時にお申し出ください。（一度交付した母子健康手帳と交換することはできませんのでご注意ください。）\n\n対象者\n小金井市に住民登録のある妊婦で、 医師・助産師の妊娠診断を受けた方\n\n必要書類\n妊婦本人が届け出をする場合\n1　妊娠届出書\n2　個人番号確認書類（個人番号カード・個人番号通知カード等）\n3　身元確認書類（個人番号カード・運転免許証・パスポート等）\n\n代理人が届け出をする場合\n1　妊娠届出書\n2　妊婦の個人番号確認書類（個人番号カード・個人番号通知カード等）\n3　代理人の身元確認書類（個人番号カード・運転免許証・パスポート等）\n4　委任状（妊婦本人が記入したもの）\n\n注記：妊娠届出書の様式はこども家庭支援センター及び市民課に用意がありますが、ホームページからもダウンロードできますのでご利用ください。\n\n 妊娠届出書（PDF：179KB）;https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/bosihokenjigyo/ninsintodoke.files/ninsinntodoke.pdf\n\n 妊娠届出書（記入例）（PDF：188KB）;https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/bosihokenjigyo/ninsintodoke.files/kinyuurei.pdf\n\n 委任状（PDF：18KB）;https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/bosihokenjigyo/ninsintodoke.files/H29.4ininjyou.pdf\n\n受付場所・時間\nこども家庭センター（保健センター内）\n平日　午前8時30分から午後5時まで\n\n注記：こども家庭センター（保健センター内）では、比較的お待たせすることなく母子健康手帳を交付できますので、ぜひご利用ください。\n\n市民課（市役所第二庁舎1階）\n平日　午前8時30分から午後5時まで（休日窓口の日程は下記のリンク先からご確認ください。）\n\n注記：市民課窓口は、引っ越しシーズンの2月下旬から5月上旬は大変混雑します。下記のリンク先から混雑予想をご確認いただき、時間に余裕をもってお越しください。\n\n市民課　混雑予想カレンダー;http://www.city.koganei.lg.jp/smph/kurashi/410/20150205142844575.html\n\n妊婦面談（予約制）についてもご確認ください\n妊婦面談のページ;https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/bosihokenjigyo/ninnpumenndann.html",
+      "target": {
+        "targetPersons": "小金井市に住民登録のある妊婦で、 医師・助産師の妊娠診断を受けた方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "小金井市では、妊娠された市民の方に母子健康手帳や各種案内の入っている「母と子の保健バッグ」をお渡ししています。\n母子健康手帳は、妊娠中の健康状態を記録するほか、出産後に赤ちゃんの健康状態を記録するための手帳で、乳幼児健診や予防接種でも使用します。",
+        "monetarySupport": null,
+        "materiallySupport": "小金井市では、妊娠された市民の方に母子健康手帳や各種案内の入っている「母と子の保健バッグ」をお渡ししています。\n母子健康手帳は、妊娠中の健康状態を記録するほか、出産後に赤ちゃんの健康状態を記録するための手帳で、乳幼児健診や予防接種でも使用します。"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "妊婦本人が届け出をする場合\n1　妊娠届出書\n2　個人番号確認書類（個人番号カード・個人番号通知カード等）\n3　身元確認書類（個人番号カード・運転免許証・パスポート等）\n\n代理人が届け出をする場合\n1　妊娠届出書\n2　妊婦の個人番号確認書類（個人番号カード・個人番号通知カード等）\n3　代理人の身元確認書類（個人番号カード・運転免許証・パスポート等）\n4　委任状（妊婦本人が記入したもの）",
+      "procedureMethod": "必要書類\n妊婦本人が届け出をする場合\n1　妊娠届出書\n2　個人番号確認書類（個人番号カード・個人番号通知カード等）\n3　身元確認書類（個人番号カード・運転免許証・パスポート等）\n\n代理人が届け出をする場合\n1　妊娠届出書\n2　妊婦の個人番号確認書類（個人番号カード・個人番号通知カード等）\n3　代理人の身元確認書類（個人番号カード・運転免許証・パスポート等）\n4　委任状（妊婦本人が記入したもの）\n\n注記：妊娠届出書の様式はこども家庭支援センター及び市民課に用意がありますが、ホームページからもダウンロードできますのでご利用ください。\n\n 妊娠届出書（PDF：179KB）;https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/bosihokenjigyo/ninsintodoke.files/ninsinntodoke.pdf\n\n 妊娠届出書（記入例）（PDF：188KB）;https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/bosihokenjigyo/ninsintodoke.files/kinyuurei.pdf\n\n 委任状（PDF：18KB）;https://www.city.koganei.lg.jp/kenkofukuhsi/kenkosodan/bosihokenjigyo/ninsintodoke.files/H29.4ininjyou.pdf\n\n受付場所・時間\nこども家庭センター（保健センター内）\n平日　午前8時30分から午後5時まで\n\n注記：こども家庭センター（保健センター内）では、比較的お待たせすることなく母子健康手帳を交付できますので、ぜひご利用ください。\n\n市民課（市役所第二庁舎1階）\n平日　午前8時30分から午後5時まで（休日窓口の日程は下記のリンク先からご確認ください。）\n\n注記：市民課窓口は、引っ越しシーズンの2月下旬から5月上旬は大変混雑します。下記のリンク先から混雑予想をご確認いただき、時間に余裕をもってお越しください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": "17:00",
+        "conditions": "市民課（市役所第二庁舎1階）\n平日　午前8時30分から午後5時まで（休日窓口の日程は下記のリンク先からご確認ください。）\n\n注記：市民課窓口は、引っ越しシーズンの2月下旬から5月上旬は大変混雑します。下記のリンク先から混雑予想をご確認いただき、時間に余裕をもってお越しください。\n\n市民課　混雑予想カレンダー;http://www.city.koganei.lg.jp/smph/kurashi/410/20150205142844575.html"
+      },
+      "electronicSubmission": false,
+      "belongings": "必要書類\n妊婦本人が届け出をする場合\n1　妊娠届出書\n2　個人番号確認書類（個人番号カード・個人番号通知カード等）\n3　身元確認書類（個人番号カード・運転免許証・パスポート等）\n\n代理人が届け出をする場合\n1　妊娠届出書\n2　妊婦の個人番号確認書類（個人番号カード・個人番号通知カード等）\n3　代理人の身元確認書類（個人番号カード・運転免許証・パスポート等）\n4　委任状（妊婦本人が記入したもの）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "こども家庭センター（保健センター内）\n平日　午前8時30分から午後5時まで\n\n注記：こども家庭センター（保健センター内）では、比較的お待たせすることなく母子健康手帳を交付できますので、ぜひご利用ください。\n\n市民課（市役所第二庁舎1階）\n平日　午前8時30分から午後5時まで（休日窓口の日程は下記のリンク先からご確認ください。）\n\n注記：市民課窓口は、引っ越しシーズンの2月下旬から5月上旬は大変混雑します。下記のリンク先から混雑予想をご確認いただき、時間に余裕をもってお越しください。\n\n市民課　混雑予想カレンダー;http://www.city.koganei.lg.jp/smph/kurashi/410/20150205142844575.html",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/bosihokenjigyo/ninnpumenndann.html",
+          "title": "妊婦面談（予約制）についてもご確認ください"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/bosihokenjigyo/ninsintodoke.html",
+        "title": "妊娠届出書・母子健康手帳"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健係",
+        "contactPhone": "042-321-6296",
+        "contactEx": null,
+        "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840015",
+        "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM1",
+        "organization": "3000020132101",
+        "compartment": "こども家庭センター母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第15条（妊娠の届出）、第16条（母子健康手帳）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "077",
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関するサポート",
+        "shortName": "こがねいっこ健康ナビ"
+      },
+      "summary": "小金井市では、妊娠期から乳幼児期に必要な母子保健情報や、予防接種などの情報提供を行うホームページ、「こがねいっこ健康ナビ」を開設しております。\nまた、希望者は、妊娠週数やお子さんの年齢に合わせた健康・食育情報の電子メール受信や、予防接種のスケジュールを組む機能の利用ができます。",
+      "description": "ご利用ください！「こがねいっこ健康ナビ」\n更新日：2024年5月10日\n\n市では、妊娠期から乳幼児期に必要な母子保健情報や、予防接種などの情報提供を行うホームページ、「こがねいっこ健康ナビ」を開設しております。\n\nまた、希望者は、妊娠週数やお子さんの年齢に合わせた健康・食育情報の電子メール受信や、予防接種のスケジュールを組む機能の利用ができます。\nぜひ、ご登録ください！\n\n令和2年8月7日より多言語機能が使用できるようになりました。使用できる言語は、インドネシア語、スペイン語、タイ語、タガログ語、ネパール語、フランス語、ロシア語、英語、韓国語、中国語（簡体）、中国語（繁体）、日本語です。お近くにお困りの方がいらっしゃいましたらぜひお知らせください。\n\nこがねいっこ健康ナビのイラスト\nこがねいっこ健康ナビ\n\nご利用できるサービス\n妊婦支援メール（メールマガジンの受信）\n乳幼児食育メール（メールマガジンの受信）\n子どもの健診日程や相談事業日程の確認\n予防接種スケジューラー機能\n各種教室案内\nママやパパの健康情報\n医療機関一覧\n子どもの身長や体重の成長記録\nなど・・・\n\nご利用方法\n費用：登録料、情報料は無料（ただし、通信料やパケット料金は使用者の負担となります）\n\n利用機器：インターネット接続環境にある携帯電話・パソコン\n\n登録方法：\n\nパソコン等の方→以下のリンクから\n外部サイトへリンク　新規ウィンドウで開きます。こがねいっこ健康ナビ; http://koganei.city-hc.jp/\n\nこがねいっこ健康ナビの二次元コード;\nこがねいっこ健康ナビ二次元コード\n\n携帯電話の方→右の二次元コードから\nマイページ登録について\nこがねいっこ健康ナビの一部の機能は、マイページ登録（郵便番号やお子さんの生年月日等の登録）をしていただくと、より便利にご利用いただけます。\n\nマイページ登録いただくと利用できるサービス\n各種メルマガ受信\n予防接種スケジューラー機能の利用\n子どもの健診の自動案内配信\nなど・・・\n\nぜひご活用ください！\n\n注意\n最近、自治体名をかたって、メールアドレスを登録させる悪質な電子メール等が増えていますが、市では個別にこのような案内を行うことは一切ありませんので、十分ご注意ください。",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "ご利用できるサービス\n妊婦支援メール（メールマガジンの受信）\n乳幼児食育メール（メールマガジンの受信）\n子どもの健診日程や相談事業日程の確認\n予防接種スケジューラー機能\n各種教室案内\nママやパパの健康情報\n医療機関一覧\n子どもの身長や体重の成長記録\nなど・・・\n\nマイページ登録いただくと利用できるサービス\n各種メルマガ受信\n予防接種スケジューラー機能の利用\n子どもの健診の自動案内配信\nなど・・・",
+        "monetarySupport": null,
+        "materiallySupport": "ご利用できるサービス\n妊婦支援メール（メールマガジンの受信）\n乳幼児食育メール（メールマガジンの受信）\n子どもの健診日程や相談事業日程の確認\n予防接種スケジューラー機能\n各種教室案内\nママやパパの健康情報\n医療機関一覧\n子どもの身長や体重の成長記録\nなど・・・\n\nマイページ登録いただくと利用できるサービス\n各種メルマガ受信\n予防接種スケジューラー機能の利用\n子どもの健診の自動案内配信\nなど・・・"
+      },
+      "cost": null,
+      "costConditions": "費用：登録料、情報料は無料（ただし、通信料やパケット料金は使用者の負担となります）",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "ご利用方法\n費用：登録料、情報料は無料（ただし、通信料やパケット料金は使用者の負担となります）\n\n利用機器：インターネット接続環境にある携帯電話・パソコン\n\n登録方法：\n\nパソコン等の方→以下のリンクから\n外部サイトへリンク　新規ウィンドウで開きます。こがねいっこ健康ナビ\n\nこがねいっこ健康ナビの二次元コード\nこがねいっこ健康ナビ二次元コード\n\n携帯電話の方→右の二次元コードから\nマイページ登録について\nこがねいっこ健康ナビの一部の機能は、マイページ登録（郵便番号やお子さんの生年月日等の登録）をしていただくと、より便利にご利用いただけます。\n\nマイページ登録いただくと利用できるサービス\n各種メルマガ受信\n予防接種スケジューラー機能の利用\n子どもの健診の自動案内配信\nなど・・・",
+      "procedurePersons": null,
+      "procedureMethod": "ご利用方法\n費用：登録料、情報料は無料（ただし、通信料やパケット料金は使用者の負担となります）\n\n利用機器：インターネット接続環境にある携帯電話・パソコン\n\n登録方法：\n\nパソコン等の方→以下のリンクから\n外部サイトへリンク　新規ウィンドウで開きます。こがねいっこ健康ナビ\n\nこがねいっこ健康ナビの二次元コード\nこがねいっこ健康ナビ二次元コード\n\n携帯電話の方→右の二次元コードから\nマイページ登録について\nこがねいっこ健康ナビの一部の機能は、マイページ登録（郵便番号やお子さんの生年月日等の登録）をしていただくと、より便利にご利用いただけます。\n\nマイページ登録いただくと利用できるサービス\n各種メルマガ受信\n予防接種スケジューラー機能の利用\n子どもの健診の自動案内配信\nなど・・・",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "http://koganei.city-hc.jp/",
+          "title": "こがねいっこ健康ナビ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/kenkounabi.html",
+        "title": "ご利用ください！「こがねいっこ健康ナビ」"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健係",
+        "contactPhone": "042-321-6296",
+        "contactEx": null,
+        "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840015",
+        "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM106",
+        "organization": "3000020132101",
+        "compartment": "こども家庭センター母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-15",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "児童扶養手当",
+        "shortName": "児童扶養手当"
+      },
+      "summary": "児童扶養手当は、父母の離婚などにより、父または母と生計を同じくしていないお子さんが養育されている家庭の生活の安定と自立を助け、お子さんが心身ともに健やかに成長するよう役立ててもらうために､父または母､もしくは父または母に代わってお子さんを養育している方に支給されます｡\nまた、ひとり親家庭でなくても、父または母に重度の障がいがある場合には、児童扶養手当が支給されます｡",
+      "description": "児童扶養手当\n更新日：2024年4月1日\n\\父母の離婚等により、父又は母と生計を同じくしていない児童を養育しているひとり親家庭等の生活の安定と自立を助け、児童の福祉の増進を図ることを目的として支給する手当です。\n\n受給資格者・支給要件\n　日本国内に住所があり、次の支給要件に当てはまる18歳に達する日以後の最初の3月31日までの間にある者又は20歳未満で政令で定める程度の障害の状態にある者を監護している父、母又は養育者\n\n支給要件\n父母が離婚した児童\n父又は母が死亡した児童\n父又は母が重度の障害を有する児童\n父又は母が生死不明である児童\n父又は母が1年以上遺棄している児童\n父又は母が保護命令を受けている児童\n父又は母が法令により1年以上拘禁されている児童\n婚姻によらないで生まれた児童\n父母ともに不明である児童\n支給制限\n上記の支給要件に該当しても、次の場合は、受給できません。\n\n児童\n手当額以上の公的年金等を受給できる場合\n父又は母に支給されている公的年金等の加算の対象となり、加算額が手当額を上回っている場合\n里親に委託されている場合\n児童福祉施設等に入所している場合\n父又は母と生計を同じくしている場合\n父又は母の配偶者（事実上の配偶者を含む）に養育されている場\n父・母・養育者\n日本国内に住所を有しない場合\n手当額以上の公的年金等を受給できる場合。ただし、障害基礎年金等（国民年金法による障害基礎年金や労働者災害補償保険法による障害補償年金等）の受給者に限り、障害基礎年金等の子加算部分の月額が児童扶養手当の月額を下回る場合の差額については除く。\n届出義務\n受給資格者（手当額が0円の場合も含む。）は、次の届出義務があります。\n\n現況届\n毎年8月の現況届受付期間中に、市役所に来庁し、生活状況を届け出るもの。この届出をしないと、11月分以降の手当を受けることができません。また、2年間提出しなかった場合は、時効により、手当を受ける権利がなくなります。\n手当の受給から5年等経過した受給資格者は、現況届と併せて、一部支給停止適用除外事由届出書も提出する必要があります。\n\n現況届の事前送信（マイナンバーカードを利用した事前送信）\n現況届の提出に先立って、マインバーカードを利用した事前送信が可能となりました。ご利用いただく場合は、受給者のマイナンバーカードと、マイナンバーカード対応のスマートフォンもしくはパソコンとICカードリーダライタが必要です。\n事前送信は下記ページからご利用ください。\n\n外部サイトへリンク　新規ウィンドウで開きます。児童扶養手当の現況届の事前送信（外部リンク）;https://app.oss.myna.go.jp/Application/procdetail/initGet?EjtE7ktWiSa8yobnz8h0JebDShGYa65j9OljnAtvXgpDSKmt/ExhIIUGhRGOlm91PJSX6kNOiwZaZg6awRfta3pgBD7pXqvsBoaqeD8rMR3k0N0Ak6LTlynlWi7eVZk7dgcso61k d8J6XRr2Z2laKe66 2MjOP8h858/COaXnkaJbxF3f1nGncXGzGLT4VyCWpGjAnnBxNCJ 6tVF7YHk9qBQXtjg/8NKUtr4e4 S2VNpzqZTg r6xwqKUgwiMJ\n\nその他の届出\n児童数に増減（出生・転出入等）があるとき\n扶養義務者（同居親族）と同居又は同居しなくなったとき\n児童が一定基準以上の障害の状態になったとき\n引越をしたり、氏名や振込先口座を変更するとき\n証書を紛失したり、破損したとき\n死亡したとき\n婚姻し、又は事実婚状態となったとき（定期的な来訪がある場合や、戸籍上では婚姻可能な異性と同居する場合も含む）\n注記1：手当の受給資格がなくなったにもかかわらず、届出をしないで手当を受給していると、資格がなくなった月の翌月からの手当全額を一括返還する必要があります。\n注記2：偽りその他不正の手段により手当を受けた場合は、児童扶養手当法第35条により、罰則の適用があります。\n\n所得制限\n　手当を受給するに当たっては、所得制限があります。\n\n所得制限限度額\n|扶養親族等の数|請求者（父・母・養育者）|配偶者・扶養義務者・孤児等の養育者||\n|^|手当の全額を受給できる方|手当の一部を受給できる方|^|\n|0人|49万円未満|192万円未満|236万円未満|\n|1人|87|230|274|\n|2人|125|268|312|\n|3人|163|306|350|\n|4人|201|344|388|\n|5人|239|382|426|\n受給者の合計所得（地方税法に定める所得＋養育費の8割）から社会保険料相当額（8万円）と各種控除（注釈）を引いた額が、所得制限限度額と対比する額です。\n注釈：雑損控除・医療費控除・小規模企業共済等掛金控除・配偶者特別控除・肉用牛売却事業所得・障害者控除27万円（特別障害者40万円）・寡婦控除27万円・ひとり親控除35万円・勤労学生控除27万円・公共用地取得に伴う土地代金及び物件移転料等控除（ただし、寡婦控除及びひとり親控除は、父又は母については適用なし）\n\n手当額（月額）\n令和6年4月分以降\n ||全部支給|一部支給|\n|第1子の手当額|45,500円|10,740円以上45,490円以下|\n|第2子の加算額|10,750円|5,380円以上10,740円以下|\n|第3子以降の加算額|6,450円|3,230円以上6,440円以下|\n注記：手当は、5月・7月・9月・11月・1月・3月に、その前月及び前々月分を合算して、振り込みます。",
+      "target": {
+        "targetPersons": "父母の離婚等により、父又は母と生計を同じくしていない児童を養育しているひとり親家庭等",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "受給資格者・支給要件\n　日本国内に住所があり、次の支給要件に当てはまる18歳に達する日以後の最初の3月31日までの間にある者又は20歳未満で政令で定める程度の障害の状態にある者を監護している父、母又は養育者\n\n支給要件\n父母が離婚した児童\n父又は母が死亡した児童\n父又は母が重度の障害を有する児童\n父又は母が生死不明である児童\n父又は母が1年以上遺棄している児童\n父又は母が保護命令を受けている児童\n父又は母が法令により1年以上拘禁されている児童\n婚姻によらないで生まれた児童\n父母ともに不明である児童\n支給制限\n上記の支給要件に該当しても、次の場合は、受給できません。\n\n児童\n手当額以上の公的年金等を受給できる場合\n父又は母に支給されている公的年金等の加算の対象となり、加算額が手当額を上回っている場合\n里親に委託されている場合\n児童福祉施設等に入所している場合\n父又は母と生計を同じくしている場合\n父又は母の配偶者（事実上の配偶者を含む）に養育されている場\n父・母・養育者\n日本国内に住所を有しない場合\n手当額以上の公的年金等を受給できる場合。ただし、障害基礎年金等（国民年金法による障害基礎年金や労働者災害補償保険法による障害補償年金等）の受給者に限り、障害基礎年金等の子加算部分の月額が児童扶養手当の月額を下回る場合の差額については除く。\n届出義務\n受給資格者（手当額が0円の場合も含む。）は、次の届出義務があります。\n\n現況届\n毎年8月の現況届受付期間中に、市役所に来庁し、生活状況を届け出るもの。この届出をしないと、11月分以降の手当を受けることができません。また、2年間提出しなかった場合は、時効により、手当を受ける権利がなくなります。\n手当の受給から5年等経過した受給資格者は、現況届と併せて、一部支給停止適用除外事由届出書も提出する必要があります。\n\n現況届の事前送信（マイナンバーカードを利用した事前送信）\n現況届の提出に先立って、マインバーカードを利用した事前送信が可能となりました。ご利用いただく場合は、受給者のマイナンバーカードと、マイナンバーカード対応のスマートフォンもしくはパソコンとICカードリーダライタが必要です。\n事前送信は下記ページからご利用ください。\n\n外部サイトへリンク　新規ウィンドウで開きます。児童扶養手当の現況届の事前送信（外部リンク）;https://app.oss.myna.go.jp/Application/procdetail/initGet?EjtE7ktWiSa8yobnz8h0JebDShGYa65j9OljnAtvXgpDSKmt/ExhIIUGhRGOlm91PJSX6kNOiwZaZg6awRfta3pgBD7pXqvsBoaqeD8rMR3k0N0Ak6LTlynlWi7eVZk7dgcso61k d8J6XRr2Z2laKe66 2MjOP8h858/COaXnkaJbxF3f1nGncXGzGLT4VyCWpGjAnnBxNCJ 6tVF7YHk9qBQXtjg/8NKUtr4e4 S2VNpzqZTg r6xwqKUgwiMJ\n\nその他の届出\n児童数に増減（出生・転出入等）があるとき\n扶養義務者（同居親族）と同居又は同居しなくなったとき\n児童が一定基準以上の障害の状態になったとき\n引越をしたり、氏名や振込先口座を変更するとき\n証書を紛失したり、破損したとき\n死亡したとき\n婚姻し、又は事実婚状態となったとき（定期的な来訪がある場合や、戸籍上では婚姻可能な異性と同居する場合も含む）\n注記1：手当の受給資格がなくなったにもかかわらず、届出をしないで手当を受給していると、資格がなくなった月の翌月からの手当全額を一括返還する必要があります。\n注記2：偽りその他不正の手段により手当を受けた場合は、児童扶養手当法第35条により、罰則の適用があります。\n\n所得制限\n　手当を受給するに当たっては、所得制限があります。\n\n所得制限限度額\n|扶養親族等の数|請求者（父・母・養育者）|配偶者・扶養義務者・孤児等の養育者||\n|^|手当の全額を受給できる方|手当の一部を受給できる方|^|\n|0人|49万円未満|192万円未満|236万円未満|\n|1人|87|230|274|\n|2人|125|268|312|\n|3人|163|306|350|\n|4人|201|344|388|\n|5人|239|382|426|\n受給者の合計所得（地方税法に定める所得＋養育費の8割）から社会保険料相当額（8万円）と各種控除（注釈）を引いた額が、所得制限限度額と対比する額です。\n注釈：雑損控除・医療費控除・小規模企業共済等掛金控除・配偶者特別控除・肉用牛売却事業所得・障害者控除27万円（特別障害者40万円）・寡婦控除27万円・ひとり親控除35万円・勤労学生控除27万円・公共用地取得に伴う土地代金及び物件移転料等控除（ただし、寡婦控除及びひとり親控除は、父又は母については適用なし）\n"
+      },
+      "support": {
+        "description": "手当額（月額）\n令和6年4月分以降\n ||全部支給|一部支給|\n|第1子の手当額|45,500円|10,740円以上45,490円以下|\n|第2子の加算額|10,750円|5,380円以上10,740円以下|\n|第3子以降の加算額|6,450円|3,230円以上6,440円以下|\n注記：手当は、5月・7月・9月・11月・1月・3月に、その前月及び前々月分を合算して、振り込みます。",
+        "monetarySupport": "手当額（月額）\n令和6年4月分以降\n ||全部支給|一部支給|\n|第1子の手当額|45,500円|10,740円以上45,490円以下|\n|第2子の加算額|10,750円|5,380円以上10,740円以下|\n|第3子以降の加算額|6,450円|3,230円以上6,440円以下|\n注記：手当は、5月・7月・9月・11月・1月・3月に、その前月及び前々月分を合算して、振り込みます。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "子育て支援課手当助成係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/kakusyuteate/zidouhuyouteate/jidouhuyouteate.html",
+        "title": "児童扶養手当"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て支援課手当助成係",
+        "contactPhone": "042-387-9839",
+        "contactEx": null,
+        "contactEmail": "050599(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM26",
+        "organization": "3000020132101",
+        "compartment": "子育て支援課手当助成係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童扶養手当法",
+        "regulationArticle": "第4条～第8条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "ひとり親家庭医療費助成",
+        "shortName": "ひとり親家庭等医療費助成制度"
+      },
+      "summary": "ひとり親家庭の母または父、および、そのお子さんの医療費に対して助成を行います。",
+      "description": "ひとり親家庭等医療費助成制度\n更新日：2021年8月1日\n\nこの制度は、ひとり親家庭等の児童と母（又は父、養育者）が病院等で健康保険証を使って診療を受けた場合、自己負担分の一部又は全額を助成する制度です。\n申請し認定されると、原則として申請日から有効のひとり親医療証（マル親）を発行します。18歳に達した年度末までの児童（児童に一定の障害がある場合は20歳未満）を監護・養育している父母又は養育者が以下の要件に該当し、かつ所得制限限度額の範囲内である場合に助成を受けることができます。\n\n制度の概要\n対象要件\n父母が婚姻を解消した児童\n父又は母が死亡した児童\n父又は母が重度の障害を有する児童\n父又は母の生死が明らかでない児童\n父又は母に続けて1年以上遺棄されている児童\n父又は母が保護命令を受けている児童\n父又は母が法令により1年以上拘禁されている児童\n婚姻によらないで懐胎した児童\nその他要件\n事実婚状態にないこと。\n対象者が小金井市に住んでいること。\n対象者が国民健康保険又は社会保険等に加入していること。\n他の公費による医療保障を受けていないこと（生活保護、施設入所、里親、マル乳、マル子、マル障など）。\n所得制限\n所得制限限度額表\n|扶養親族数|ひとり親家庭の父又は母及び<br>孤児等以外を養育する養育者|配偶者・扶養義務者<br>及び孤児等の養育者|\n|:----|:----|:----|\n|0人|192万円|236万円|\n|1人|230万円|274万円|\n|2人|268万円|312万円|\n|3人|306万円|350万円|\n|4人以上|1人増すごとに38万円加算|\n助成の方法\n助成額\n一般世帯：保険診療の自己負担分から一部負担額（1割）を除いた額\n非課税世帯：保険診療の自己負担額\n申請に必要なもの・添付書類\n必須：健康保険証の写し（申請者及び児童のもの）、医療証交付申請書、個人番号カード等（詳しくは、\n子育て支援課におけるマイナンバー対応（手当・医療費助成）;https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/kakusyuteate/mynumberteate.html\nをご覧ください。）\n必要な方のみ：戸籍謄本（抄本）、認定調書、養育費等に関する申告書、児童扶養手当証書\n　注記：申請者本人が来庁して申請してください。郵送による申請はできません。\n　注記：別途書類が必要な方もいます。詳しくは申請時にお問い合わせください。\n\n助成の方法\n（1） 医療証を使って受診するとき（現物給付）\n　東京都内の契約医療機関窓口で、健康保険証とマル親医療証を医療機関等の窓口に提示すると、保険診療の自己負担額又は一部負担額を除いた額が助成されます。\n\n（2） 医療証を使わないで受診するとき（現金給付）\n　ア．都外の医療機関・都内未契約医療機関等に受診し、医療証が使用できないとき\n　イ．医療証を提示せずに受診したとき\n　　 　領収書（氏名・保険点数が記載のもの）を受け取り、後日子育て支援課に申請すれば、指定の\n　　　保護者（医療証保護者に限る）名義の口座へ助成額を振り込みます（おおむね受診後6か月以内に申請してください）。\n　ア・イの申請に必要なもの： マル親医療証、健康保険証（保護者及び受給者のもの）、\n医療機関等で支払った領収書（注記：氏名・保険点数が記載のもの）、\n保護者名義の口座がわかるもの、印鑑（スタンプ印不可）\n　ウ．補装具など医師が必要と認めたとき\n　エ．健康保険証を提示せずに受診したとき\n　オ．高額療養費に該当し、高額療養費限度額適用認定証を医療機関窓口で提示しなかったとき\n　ウからオの申請に必要なもの：\n　　　　　　　ア、イの場合に必要なもの ＋ 療養費支給決定通知書（加入している健康保険組合発行）\n\n対象外\n（1） 助成対象外の代表的なもの\n　健康診断、予防接種、薬容器代、差額ベッド代、入院時の食事療養標準負担額及び生活療養標準負担額、オムツ代、保険外併用療養費及び治療費、文書代、他の医療費助成の対象となる疾病等\n\n（2） 日本スポーツ振興センター法による災害共済給付が受けられる場合\n　学校内で起きた事故等による治療については、通常、日本スポーツ振興センター法による災害共済給付（自己負担3割（又は2割）＋1割）の助成が受けられます。その場合は保険証のみを使用し、マル親医療証は使用しないでください。使用された場合、ご返金いただくことがありますのでご注意ください。災害共済給付の対象となるかどうかは、各学校の養護教諭にお問い合わせください。\n\n各種届出\n申請時の届出事項に変更があったときは、マル親医療証、健康保険証、印鑑を持参し、必ず届出をしてください。 届出を行わず医療証を使用した場合、助成額を返還していただくことがあります。\n第三者行為により負傷した場合は、傷病届の提出が必要です。詳しくはお問い合わせください。",
+      "target": {
+        "targetPersons": "ひとり親家庭等の児童と母（又は父、養育者）",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "対象要件\n父母が婚姻を解消した児童\n父又は母が死亡した児童\n父又は母が重度の障害を有する児童\n父又は母の生死が明らかでない児童\n父又は母に続けて1年以上遺棄されている児童\n父又は母が保護命令を受けている児童\n父又は母が法令により1年以上拘禁されている児童\n婚姻によらないで懐胎した児童\nその他要件\n事実婚状態にないこと。\n対象者が小金井市に住んでいること。\n対象者が国民健康保険又は社会保険等に加入していること。\n他の公費による医療保障を受けていないこと（生活保護、施設入所、里親、マル乳、マル子、マル障など）。\n所得制限\n所得制限限度額表\n|扶養親族数|ひとり親家庭の父又は母及び<br>孤児等以外を養育する養育者|配偶者・扶養義務者<br>及び孤児等の養育者|\n|0人|192万円|236万円|\n|1人|230万円|274万円|\n|2人|268万円|312万円|\n|3人|306万円|350万円|\n|4人以上|1人増すごとに38万円加算||"
+      },
+      "support": {
+        "description": "助成額\n一般世帯：保険診療の自己負担分から一部負担額（1割）を除いた額\n非課税世帯：保険診療の自己負担額",
+        "monetarySupport": "助成額\n一般世帯：保険診療の自己負担分から一部負担額（1割）を除いた額\n非課税世帯：保険診療の自己負担額",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": "助成の方法\n（1） 医療証を使って受診するとき（現物給付）\n　東京都内の契約医療機関窓口で、健康保険証とマル親医療証を医療機関等の窓口に提示すると、保険診療の自己負担額又は一部負担額を除いた額が助成されます。\n\n（2） 医療証を使わないで受診するとき（現金給付）\n　ア．都外の医療機関・都内未契約医療機関等に受診し、医療証が使用できないとき\n　イ．医療証を提示せずに受診したとき\n　　 　領収書（氏名・保険点数が記載のもの）を受け取り、後日子育て支援課に申請すれば、指定の\n　　　保護者（医療証保護者に限る）名義の口座へ助成額を振り込みます（おおむね受診後6か月以内\n　　　に申請してください）。\n　ア・イの申請に必要なもの： マル親医療証、健康保険証（保護者及び受給者のもの）、\n　　　　　　　　　　　　　　医療機関等で支払った領収書（注記：氏名・保険点数が記載のもの）、\n　　　　　　　　　　　　　　保護者名義の口座がわかるもの、印鑑（スタンプ印不可）\n　ウ．補装具など医師が必要と認めたとき\n　エ．健康保険証を提示せずに受診したとき\n　オ．高額療養費に該当し、高額療養費限度額適用認定証を医療機関窓口で提示しなかったとき\n　ウからオの申請に必要なもの：\n　　　　　　　ア、イの場合に必要なもの ＋ 療養費支給決定通知書（加入している健康保険組合発行）\n\n対象外\n（1） 助成対象外の代表的なもの\n　健康診断、予防接種、薬容器代、差額ベッド代、入院時の食事療養標準負担額及び生活療養標準負担額、オムツ代、保険外併用療養費及び治療費、文書代、他の医療費助成の対象となる疾病等\n\n（2） 日本スポーツ振興センター法による災害共済給付が受けられる場合\n　学校内で起きた事故等による治療については、通常、日本スポーツ振興センター法による災害共済給付（自己負担3割（又は2割）＋1割）の助成が受けられます。その場合は保険証のみを使用し、マル親医療証は使用しないでください。使用された場合、ご返金いただくことがありますのでご注意ください。災害共済給付の対象となるかどうかは、各学校の養護教諭にお問い合わせください。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申請に必要なもの・添付書類\n必須：健康保険証の写し（申請者及び児童のもの）、医療証交付申請書、個人番号カード等（詳しくは、\n子育て支援課におけるマイナンバー対応（手当・医療費助成）\nをご覧ください。）\n必要な方のみ：戸籍謄本（抄本）、認定調書、養育費等に関する申告書、児童扶養手当証書\n　注記：申請者本人が来庁して申請してください。郵送による申請はできません。\n　注記：別途書類が必要な方もいます。詳しくは申請時にお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "申請に必要なもの・添付書類\n必須：健康保険証の写し（申請者及び児童のもの）、医療証交付申請書、個人番号カード等（詳しくは、\n子育て支援課におけるマイナンバー対応（手当・医療費助成）;https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/kakusyuteate/mynumberteate.html\nをご覧ください。）\n必要な方のみ：戸籍謄本（抄本）、認定調書、養育費等に関する申告書、児童扶養手当証書\n　注記：申請者本人が来庁して申請してください。郵送による申請はできません。\n　注記：別途書類が必要な方もいます。詳しくは申請時にお問い合わせください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "子育て支援課手当助成係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/smph/kosodatekyoiku/N84/iryohi/maruoya.html",
+        "title": "ひとり親家庭等医療費助成制度"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "子育て支援課手当助成係",
+        "contactPhone": "042-387-9839",
+        "contactEx": null,
+        "contactEmail": "s050599(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM27",
+        "organization": "3000020132101",
+        "compartment": "子育て支援課手当助成係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2021-08-01",
+      "odInformation": {
+        "updateDate": "2024-07-04",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "小金井市ひとり親家庭等の医療費の助成に関する条例",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "088"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": true
+    },
+    {
+      "institutionName": {
+        "canonicalName": "定期予防接種",
+        "shortName": "予防接種事業"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。定期予防接種は、定められた対象年齢や接種間隔で接種する場合は、公費助成により無料で受けることができます。",
+      "description": "予防接種事業\n子どもと高齢者;https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/yobousesyujigyo/kodomo_koureisha/index.html\nQA;https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/yobousesyujigyo/yobousessyuQA/index.html",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/yobousesyujigyo/index.html",
+        "title": "予防接種事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小金井市役所",
+        "contactPhone": "042-383-1111",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "（代表）",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM54",
+        "organization": "3000020132101",
+        "compartment": "健康課健康係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "予防接種法",
+        "regulationArticle": "第2条第4項（定義）、第5条第1項（市町村長が行う予防接種）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "任意予防接種",
+        "shortName": "予防接種事業"
+      },
+      "summary": "予防接種には、法令で定められた定期接種と本人が希望して行う任意の予防接種とがあります。現在、定期接種以外で小学校就学前のお子さんが接種できるワクチンとしては、おたふくかぜ、インフルエンザなどがあります。\nこのうち小金井市では、次の任意予防接種に対して、接種費用を助成しています。接種するかどうかについては、かかりつけ医とご相談のうえ、保護者の判断により決めてください。",
+      "description": "予防接種事業\n子どもと高齢者;https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/yobousesyujigyo/kodomo_koureisha/index.html\nQA;https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/yobousesyujigyo/yobousessyuQA/index.html",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/yobousesyujigyo/index.html",
+        "title": "予防接種事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "小金井市役所",
+        "contactPhone": "042-383-1111",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "（代表）",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+1+UM55",
+        "organization": "3000020132101",
+        "compartment": "健康課健康係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "小児任意予防接種費助成要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の育児に関する金銭的支援",
+        "shortName": "多胎児家庭移動支援事業"
+      },
+      "summary": "令和4年度より、多胎児を養育する家庭の保護者が抱えている身体的及び精神的な負担の軽減を図るため、乳幼児を複数連れた移動に要する経費の一部を補助することを目的として、多胎児家庭移動支援事業を開始しました。\n\n注記：令和6年度（令和7年3月31日）までの事業です。",
+      "description": "多胎児家庭移動支援事業\n更新日：2024年5月10日\n\n令和4年度より、多胎児を養育する家庭の保護者が抱えている身体的及び精神的な負担の軽減を図るため、乳幼児を複数連れた移動に要する経費の一部を補助することを目的として、多胎児家庭移動支援事業を開始しました。\n\n注記：令和6年度（令和7年3月31日）までの事業です。\n\n対象者\n小金井市に住民登録があり、満3歳未満の多胎児を養育する世帯（要面談）\n\n注記：多胎児家庭移動支援事業としての面談（訪問を含む）を受ける必要があります。\n\n補助内容\n乳幼児健康診査や予防接種などの母子保健事業を利用する際のタクシー移動支援として、電子ギフト24,000円分（1世帯あたり）をお渡しします。\n\n注記：電子ギフトは、タクシー代としてもご利用いただけます（一部業者を除く）。多胎児と外出の際にぜひご利用ください。\n\n注記：面談日時点のお子様の年齢（0歳、1歳、2歳）ごとに、電子ギフトを各1回受取ることができます（その都度面談が必要です）。\n\n利用方法\n0歳児\n新生児訪問で市保健師がご家庭を訪問した際に、電子ギフトをお渡しします。\n\n出生後に小金井市に転入されたご家庭は、こども家庭センター母子保健係の保健師宛にお電話ください。\n\n1歳児・2歳児\nこども家庭センター母子保健係の保健師宛に電話で面談予約をしてください。面談後、電子ギフトをお渡しします。\n\n注記：1歳児は、1歳6か月児健康診査の際に面談を行うことも可能ですが、事前にご相談ください。\n\n助成期限\n0歳児：出生から1歳の誕生日の前日まで\n1歳児：1歳の誕生日から2歳の誕生日の前日まで\n2歳児：2歳の誕生日から3歳の誕生日の前日まで",
+      "target": {
+        "targetPersons": "小金井市に住民登録があり、満3歳未満の多胎児を養育する世帯（要面談）\n\n注記：多胎児家庭移動支援事業としての面談（訪問を含む）を受ける必要があります。",
+        "lessThan": {
+          "targetAge": 3,
+          "targetAgeOfMonths": 0
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "小金井市に住民登録があり、満3歳未満の多胎児を養育する世帯（要面談）\n\n注記：多胎児家庭移動支援事業としての面談（訪問を含む）を受ける必要があります。"
+      },
+      "support": {
+        "description": "乳幼児健康診査や予防接種などの母子保健事業を利用する際のタクシー移動支援として、電子ギフト24,000円分（1世帯あたり）をお渡しします。\n\n注記：電子ギフトは、タクシー代としてもご利用いただけます（一部業者を除く）。多胎児と外出の際にぜひご利用ください。\n\n注記：面談日時点のお子様の年齢（0歳、1歳、2歳）ごとに、電子ギフトを各1回受取ることができます（その都度面談が必要です）。",
+        "monetarySupport": "乳幼児健康診査や予防接種などの母子保健事業を利用する際のタクシー移動支援として、電子ギフト24,000円分（1世帯あたり）をお渡しします。\n\n注記：電子ギフトは、タクシー代としてもご利用いただけます（一部業者を除く）。多胎児と外出の際にぜひご利用ください。\n\n注記：面談日時点のお子様の年齢（0歳、1歳、2歳）ごとに、電子ギフトを各1回受取ることができます（その都度面談が必要です）。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "令和6年度（令和7年3月31日）までの事業です。"
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "0歳児\n新生児訪問で市保健師がご家庭を訪問した際に、電子ギフトをお渡しします。\n\n出生後に小金井市に転入されたご家庭は、こども家庭センター母子保健係の保健師宛にお電話ください。\n\n1歳児・2歳児\nこども家庭センター母子保健係の保健師宛に電話で面談予約をしてください。面談後、電子ギフトをお渡しします。\n\n注記：1歳児は、1歳6か月児健康診査の際に面談を行うことも可能ですが、事前にご相談ください。",
+      "procedurePersons": null,
+      "procedureMethod": "0歳児\n新生児訪問で市保健師がご家庭を訪問した際に、電子ギフトをお渡しします。\n\n出生後に小金井市に転入されたご家庭は、こども家庭センター母子保健係の保健師宛にお電話ください。\n\n1歳児・2歳児\nこども家庭センター母子保健係の保健師宛に電話で面談予約をしてください。面談後、電子ギフトをお渡しします。\n\n注記：1歳児は、1歳6か月児健康診査の際に面談を行うことも可能ですが、事前にご相談ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "こども家庭センター母子保健係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.koganei.lg.jp/smph/kenkofukuhsi/kenkosodan/bosihokenjigyo/tataijisien.html",
+        "title": "多胎児家庭移動支援事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健係",
+        "contactPhone": "042-321-6296",
+        "contactEx": null,
+        "contactEmail": "s050899(at)koganei-shi.jp\n注記：迷惑メール対策のため、メールアドレスの表記を一部変更しております。お手数ですが、メール送信の際は(at)を@に置き換えてご利用ください。\nまた、お使いの端末やメールサービスの迷惑メール対策等により、回答メールが受信できなかったり、迷惑メールフォルダに格納されたりする場合があります。「@koganei-shi.jp」からメールを受信できるように設定してください。",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1840015",
+        "contactAddress": "小金井市貫井北町5丁目18番18号　保健センター"
+      },
+      "area": {
+        "areaCode": "132101;小金井市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+3000020132101+2+UM58",
+        "organization": "3000020132101",
+        "compartment": "こども家庭センター母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-10",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "小金井市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "小金井市多胎児家庭移動支援事業実施要綱",
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

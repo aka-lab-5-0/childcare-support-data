@@ -1,0 +1,3439 @@
+{
+  "version": "2025-07-10T02:38:54.091Z",
+  "areaCode": "131016",
+  "areaName": "千代田区",
+  "category": "medical",
+  "count": 27,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "子育て広場",
+        "shortName": "子育てひろば"
+      },
+      "summary": "0歳児〜2歳児を中心とした乳幼児親子の集まり、遊び、情報交換など、たくさんの仲間との出会いや子育てを楽しむ居場所です。各児童館や子育てひろば「あい・ぽーと」麹町で実施しています。\n（イベントの詳細については、千代田区サイトや児童館だよりなどでお知らせしています。）",
+      "description": "【子育てひろば】\n0～2歳児を中心とした乳幼児親子の集いと交流の場です。親子で自由に遊ぶほか、「よちよちタイム」（0歳児親子対象）・「なかよしタイム」（0～2歳児親子対象）などのプログラムや、ベビーマッサージ、ヨガなどの子育て応援講座も実施しています。\n子育ての不安や悩み相談も、いつでも受け付けています。\n（注意）休館などの情報は、各児童館からのお知らせをご確認ください。",
+      "target": {
+        "targetPersons": "主として区内在住・在学・在園の0歳児〜2歳児までの児童とその保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "0",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:00",
+        "toHM": "17:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "休館日：日曜日・国民の祝日（こどもの日は除く）・年末年始（12月31日～1月3日）",
+      "utilization": "・入館時の来館簿記入\n・年度ごとに入館登録（災害・緊急時の連絡等のため）",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/guidebook.html",
+          "title": "2023千代田区子育て応援ガイドブック（令和5年8月発行版）"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/jidocenter/oshirase.html",
+          "title": "各児童館からのお知らせ"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/jidocenter/ichiran/jidocenter.html",
+        "title": "児童センター・児童館"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部児童・家庭支援センター子育て事業係",
+        "contactPhone": "03-5298-2424",
+        "contactEx": null,
+        "contactEmail": "jidousenta@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1010041",
+        "contactAddress": "東京都千代田区神田須田町1-4-4　PMO神田須田町4階"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM112",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部児童・家庭支援センター子育て事業係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-09-05",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第6条の3第6項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "081"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "小児科救急",
+        "shortName": "ちよだこども救急室（平日準夜間小児初期救急診療）"
+      },
+      "summary": "千代田区では、平日の準夜間帯に日本大学病院内に「ちよだこども救急室」を開設し、お子さんの急な発熱や腹痛など、入院を必要としない救急診療を行っています。",
+      "description": "ちよだこども救急室では、日本大学病院と区内2医師会の小児科医が交代でお子さんの診療を行っています。平日の診療時間終了後に、お子さんの急な発熱や腹痛などを起こした時に安心して受診することができます。\n\n【診療場所】\n日本大学病院 1階救急室\n千代田区神田駿河台1-6\n電話番号：03-3293-1711（代表）\n\n【診療日・診療時間】\n月曜日～金曜日（祝日・年末年始（12/29～1/3）及び日本大学病院の休診日を除く）\n午後7時～10時（受付時間は午後6時45分～9時45分）\n\n【注意事項】\n1.受診するときは、あらかじめ電話でお問い合わせください。\n2.健康保険証・こども医療証などの各医療証とおくすり手帳をお持ちください。\n3.応急診療所のため、定期的に受診することはできません。\n4.治癒証明書、登校許可証等の発行はできませんので、かかりつけ医等にお問い合わせください。\n\n【ちよだこども救急室の開設時間外に、急な病気やケガで対応に迷ったら】\n東京消防庁救急相談センター（24時間）＃7119へお電話ください。\n（「＃7119」にお電話してもつながらない場合は、電話：03-3212-2323へお電話ください）\n受けられるサービス\n・症状に基づく緊急性の有無のアドバイス\n・受診の必要性に関するアドバイス\n・医療機関案内",
+      "target": {
+        "targetPersons": "15歳（中学生）以下の初期救急患者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 15,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "日本大学病院 1階救急室",
+        "implementationAddress": "千代田区神田駿河台1-6"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "18:45",
+        "toHM": "21:45",
+        "condiutilizationConditionstions": "月曜日～金曜日（祝日・年末年始（12/29～1/3）及び日本大学病院の休診日を除く）"
+      },
+      "specificDate": null,
+      "holiday": "土曜・日曜・祝日・年末年始・日本大学病院の休診日",
+      "utilization": "受診するときは、あらかじめ電話でお問い合わせください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "健康保険証・こども医療証などの各医療証とおくすり手帳",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/1286/r2kodomokyukyu.pdf",
+          "title": "ちよだこども救急室案内ちらし（PDF：388KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kyubyo/kyukyu.html",
+        "title": "ちよだこども救急室（平日準夜間小児初期救急診療）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "千代田保健所地域保健課健康企画係",
+        "contactPhone": "03-5211-8163",
+        "contactEx": null,
+        "contactEmail": "chiikihoken@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1020073",
+        "contactAddress": "東京都千代田区九段北1-2-14"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM114",
+        "organization": "8000020131016",
+        "compartment": "千代田保健所地域保健課健康企画係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-08",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "医療法",
+        "regulationArticle": "第30条の4第2項"
+      },
+      "tag": {
+        "categoryCode": [
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "082"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "子育てに関する相談窓口一覧",
+        "shortName": "子育てに迷ったり、困ったとき"
+      },
+      "summary": "千代田区内の子育てに関する相談窓口の一覧です。",
+      "description": "・千代田っこインフォメーション～子育てのファースト窓口\n・子どもと家庭にかかわる総合相談;\n・子育てに関するQ&A\n・千代田区子育て応援見守り隊～みんなで応援!!千代田っこ～\n・子どもの虐待防止リーフレット～子どもを健やかに育むために～",
+      "target": {
+        "targetPersons": null,
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kosodate/index.html",
+        "title": "子育てに迷ったり、困ったとき"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": null,
+        "contactPhone": null,
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM115",
+        "organization": "8000020131016",
+        "compartment": null,
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2013-12-24",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "医療法",
+        "regulationArticle": "第30条の4第2項"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "082"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "千代田区の子育てに関する相談",
+        "shortName": "健やか親子相談"
+      },
+      "summary": "妊娠中の方の不安や心配事、子どもの発達、保護者の育児に関する悩みについて、心理相談員が個別で相談に応じます。",
+      "description": "妊娠中の方の不安や心配事、子どもの発達、保護者の育児に関する悩みについて、心理相談員が個別で相談に応じます。\n\n相談にあたってのお願い\n\n・ご来所の前に、お子さんおよび付き添いの方の検温をお願いします。\n・感染症予防のため、お子さんやご家族が発熱・咳・下痢・発疹等の症状がある場合は入場をお断りさせていただきます。別日への変更をお願いします。\n・感染症が流行している場合・人との距離が確保できない場合など保健所が必要と判断した際には、マスクの着用のご協力をいただく場合があります。ご了承お願いします。\n\n実施日時\n時間はいずれも、午後1時15分～2時、午後2時15分～3時、午後3時15分～4時\n\n★（星）の日は、万世橋区民館で実施\n\n令和6年度の日程表\n\n実施日\n令和6年4月5日（金曜日）\n令和6年5月10日（金曜日）\n令和6年5月17日（金曜日）★（星）\n令和6年6月21日（金曜日）\n令和6年7月19日（金曜日）\n令和6年8月2日（金曜日）\n令和6年8月16日（金曜日）★（星）\n令和6年9月6日（金曜日）\n令和6年10月18日（金曜日）\n令和6年11月1日（金曜日）\n令和6年11月15日（金曜日）★（星）\n令和6年12月6日（金曜日）\n令和7年1月17日（金曜日）\n令和7年2月7日（金曜日）\n令和7年2月21日（金曜日）★（星）\n令和7年3月7日（金曜日）",
+      "target": {
+        "targetPersons": "区内在住の妊娠中の方、乳幼児から小学生就学前までの保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "千代田保健所4階,万世橋区民館7階 和室",
+        "implementationAddress": "九段北1-2-14,外神田1-1-13"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "予約制です。電話でお申し込みください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/sukoyaka.html",
+        "title": "健やか親子相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "千代田保健所保健サービス課保健相談係",
+        "contactPhone": "03-5211-8175",
+        "contactEx": null,
+        "contactEmail": "hokensoudan@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1020073",
+        "contactAddress": "東京都千代田区九段北1-2-14"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM119",
+        "organization": "8000020131016",
+        "compartment": "千代田保健所保健サービス課保健相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "003"
+        ],
+        "targetCode": [
+          "086",
+          "087"
+        ],
+        "contentsCode": [
+          "082"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+        "shortName": "乳児家庭訪問"
+      },
+      "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+      "description": "保健師等がご家庭を訪問し、お子さんの発育や健康状態の確認、千代田区の母子保健サービスのご紹介を行います。また、育児の心配事やご家族の健康などについても相談を行います。",
+      "target": {
+        "targetPersons": "・生後4か月までのすべてのお子さん（里帰り出産の方はご相談ください）\n・乳幼児健康診査に来られない方\n・転入してこられた方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": "随時",
+        "fromHM": "随時",
+        "toYMD": "随時",
+        "toHM": "随時",
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": "随時",
+        "fromHM": "随時",
+        "toYMD": "随時",
+        "toHM": "随時",
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "千代田保健所",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/homonshido.html",
+        "title": "乳児家庭訪問"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "千代田保健所保健サービス課保健相談係",
+        "contactPhone": "03-5211-8175",
+        "contactEx": null,
+        "contactEmail": "hokensoudan@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": "FAX：03-3262-1160",
+        "zipCode": "1020073",
+        "contactAddress": "東京都千代田区九段北1-2-14"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM14",
+        "organization": "8000020131016",
+        "compartment": "保健サービス課保健相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/04/01",
+      "odInformation": {
+        "updateDate": "2025/02/25",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第21条の10の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "出産育児一時金",
+        "shortName": "出産育児一時金"
+      },
+      "summary": "国民健康保険に加入している方が出産したときは、その世帯主からの申請により、出産育児一時金を支給します。原則として直接支払制度により、医療機関に直接お支払いします。\nなお、直接支払制度に対応していない医療機関などで出産された場合も、「受取代理制度」や出産後の申請により、出産育児一時金の支給を受けることができます。",
+      "description": "支給を受ける方法として2つの制度があります。利用方法については、出産した医療機関にご確認ください。これらの制度を利用しない場合、千代田区に請求する方法もあります。\n\n（注意）千代田区に請求する場合、千代田区国保の保険料に未納があると利用できません。\n\n直接支払制度\n\n千代田区が医療機関に直接、出産育児一時金を支払うことにより、世帯主は出産費用から50万円を差し引いた額を医療機関等で支払う制度です。出産費用が50万円未満の場合、その差額を千代田区に請求してください。\n\n受取代理制度\n\n事前に世帯主が千代田区に申請することで、区が直接、医療機関等へ出産育児一時金を支払うことにより、出産費用から50万円を差し引いた額を医療機関等で支払えばよい制度です。出産費用が50万円未満の場合、その差額を千代田区に請求してください。\n\n（注意）区内の医療機関等では、この制度を利用できません。区外の一部の医療機関でのみ利用できますので医療機関にお問い合わせください。\n\n上記の制度を利用しない場合（区に請求する場合）\n\n直接支払制度、受取代理制度を行っていない医療機関等で出産された場合には、出産後、区に申請することにより、世帯主に出産育児一時金が支給されます。申請してから支給まで、1か月程度かかります。\n\n（注意）千代田区国保の保険料に未納があると利用できません。\n\n海外で出産した場合\n\n千代田区国保の加入者が海外で出産した場合は、再入国後、区に申請することにより、世帯主に出産育児一時金が支給されます。\n\n（注意）千代田区国保の保険料に未納があると利用できません。",
+      "target": {
+        "targetPersons": "千代田区国保の加入者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "・千代田区国保の加入者が出産したとき、出生児1人（妊娠85日以上の死産、流産を含む）につき50万円を支給します。\n・双生児等の場合は、一産児排出で一出産とします。また85日未満の出産の場合は、疾病として療養の給付等の対象となる場合もあります。",
+        "monetarySupport": "出生児1人（妊娠85日以上の死産、流産を含む）につき50万円を支給",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": "世帯主",
+      "procedureMethod": "直接支払制度\n医療機関へ直接お申し込みください。\n\n受取代理制度\n必要書類を区役所2階国民健康保険係の窓口に直接持参するか、国民健康保険係宛て郵送してください。郵送で申請できますが、書類確認の際に電話などで聞き取りを行うことがあります。\n\n（注意）\n・申請期限は、出産日の翌日から2年間です。\n・申請から支給まで1か月程度かかります。\n\n上記の制度を利用しない場合（区に請求する場合）\n必要書類を区役所2階国民健康保険係の窓口に直接持参するか、国民健康保険係宛て郵送してください。郵送で申請できますが、書類確認の際に電話などで聞き取りを行うことがあります。\n\n（注意）\n・申請期限は、出産日の翌日から2年間です。\n・申請から支給まで1か月程度かかります。\n\n海外で出産した場合\n必要書類を区役所2階国民健康保険係の窓口に直接持参してください。\n\n（注意） 申請期限は、出産日の翌日から2年間です。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "受取代理制度\n・国民健康保険出産育児一時金支給申請書（受取代理用）（PDF：77KB）\n・千代田区国民健康保険出産育児一時金請求書（受取代理・医療機関用）（PDF：99KB）\n・出産費用の請求書\n・出生証明書\n\n（注意）\n・請求書に認印を、計2か所に押印してください。スタンプ式印鑑は使用しないでください。\n・消せるペン（鉛筆・消せるボールペン等）は使用しないでください。\n・記載内容を訂正する場合、修正液等は使用せず、二重線を引いてください。\n・請求書に記載する口座番号は、右詰めでご記入ください。ゆうちょ銀行を指定する場合、店番号は3ケタ、口座情報は7ケタに変換されたものをご記入ください。\n・申請書および請求書は世帯主と医療機関のどちらも記入が必要です。\n\n上記の制度を利用しない場合（区に請求する場合）\n・国民健康保険出産育児一時金支給申請書（PDF：119KB）\n・請求書（PDF：77KB）\n・請求書及び委任状（世帯主以外の口座に入金を希望する場合に必要です）（ワード：36KB）\n・出産育児一時金直接支払制度合意文書\n・出産費用の領収書\n・出生届出済証明母子手帳の1頁目または医師などが発行した出産証明書\n（注意）\n\n・請求書に認印を、計2か所に押印してください。スタンプ式印鑑は使用しないでください。\n・消せるペン（鉛筆・消せるボールペン等）は使用しないでください。\n・記載内容を訂正する場合、修正液等は使用せず、二重線を引いてください。\n・請求書に記載する口座番号は、右詰めでご記入ください。ゆうちょ銀行を指定する場合、店番号は3ケタ、口座情報は7ケタに変換されたものをご記入ください。\n\n海外で出産した場合\n・国民健康保険出産育児一時金支給申請書（PDF：119KB）\n・請求書（PDF：77KB）\n・請求書及び委任状（世帯主以外の口座に入金を希望する場合に必要です）（ワード：36KB）\n・出産証明書およびその和訳（国が交付する証明書です。出生証明書ではないので注意してください。）\n・母親および子のパスポートの写し（顔写真と入国日が確認できるページ）\n・出産費用の領収書およびその和訳\n\n（注意）\n・パスポートに出入国のスタンプが押されない場合は、搭乗券の半券や通貨両替領収書など、その期間に現地にいたことがわかる書類が必要です（eチケットは不可）。\n・請求書に認印を、計2か所に押印してください。スタンプ式印鑑は使用しないでください。\n・消せるペン（鉛筆・消せるボールペン等）は使用しないでください。\n・記載内容を訂正する場合、修正液等は使用せず、二重線を引いてください。\n・請求書に記載する口座番号は、右詰めでご記入ください。ゆうちょ銀行を指定する場合、店番号は3ケタ、口座情報は7ケタに変換されたものをご記入ください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "直接支払制度\n医療機関へ直接お申し込みください。\n\n受取代理制度\n区役所2階国民健康保険係の窓口に直接持参するか、国民健康保険係宛て郵送してください。\n\n上記の制度を利用しない場合（区に請求する場合）\n区役所2階国民健康保険係の窓口に直接持参するか、国民健康保険係宛て郵送してください。\n\n海外で出産した場合\n区役所2階国民健康保険係の窓口に直接持参してください。",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kurashi/hoken/kenkohoken/syussanichijikin.html",
+        "title": "国民健康保険の加入者が子どもを出産したとき（出産育児一時金の支給申請）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健福祉部保険年金課国民健康保険係",
+        "contactPhone": "03-5211-4204",
+        "contactEx": null,
+        "contactEmail": "hoken-nenkin@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1028688",
+        "contactAddress": "東京都千代田区九段南1-2-1"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM19",
+        "organization": "8000020131016",
+        "compartment": "保健福祉部保険年金課国民健康保険係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-28",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "国民健康保険法",
+        "regulationArticle": "第58条(第二節　その他の給付)"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "歯の健康教室",
+        "shortName": "はみがき教室"
+      },
+      "summary": "健診と正しいブラッシング、虫歯予防のお話、フッ化物塗布（有料、希望者のみ）など、歯の健康について理解を深めていただきます。",
+      "description": "「はみがきを嫌がってさせてくれない」、\n「みがけているかどうか自信がない」、\n「子ども自身が上手にみがけるように教えてほしい」など、\nはみがきの実技やむし歯予防に関するお話や相談を行っています。\n\n参考：おすすめ動画 ライオン公式チャンネル\n\n・歯が生えて本格的なはみがきを始める前に、親も子もはみがきの時の姿勢や顔や口に触れられることに慣れておくことが大切。\n\n「はじめての歯みがき」編（外部サイトへリンク）;https://www.youtube.com/watch?v=ixG0C1NjTpc\n　\n・楽しくはみがきができるような雰囲気づくりに。\n\n「歯磨きイヤイヤ克服！親子で一緒に歌って、上手に歯磨き！」編（外部サイトへリンク）;https://www.youtube.com/watch?v=z4bZjH-Yh6Q\n\nサイトの利用にあたっては利用規約（外部サイトへリンク）;https://www.lion.co.jp/ja/legal/tou.phpをご確認ください（資料提供 ライオン株式会社）。\n\n受診にあたってのお願い\n\n・来所の前に、お子さんおよび付き添いの方の検温をお願いします。\n・感染症予防のため、お子さんやご家族が発熱・咳・下痢・発疹等の症状がある場合は入場をお断りさせていただきます。別日への変更をお願いします。\n・付き添いの方は、来所の際にはマスクの着用にご協力ください。\n\n実施会場と実施日時\n\nはみがき教室：2024年4月～2025年3月の実施日時\n\n|実施日|実施時間|\n|:----|:----|\n|4月8日（月曜日）|午前9時～11時10分|\n|4月19日（金曜日）|午後1時～3時40分|\n|4月22日（月曜日）|午後1時～3時40分|\n|5月20日（月曜日）|午前9時～11時10分|\n|5月27日（月曜日）|午後1時～3時40分|\n|5月30日（木曜日）|午後1時～3時40分|\n|6月3日（月曜日）|午後1時～3時40分|\n|6月14日（金曜日）|午後1時～3時40分|\n|6月17日（月曜日）|午前9時～11時10分|\n|7月5日（金曜日）|午後1時～3時40分|\n|7月22日（月曜日）|午後1時～3時40分|\n|7月26日（金曜日）|午前9時～11時10分|\n|8月2日（金曜日）|午後1時～3時40分|\n|8月5日（月曜日）|午前9時～11時10分|\n|8月26日（月曜日）|午後1時～3時40分|\n|9月2日（月曜日）|午前9時～11時10分|\n|9月6日（金曜日）|午後1時～3時40分|\n|9月17日（火曜日）|午後1時～3時40分|\n|10月4日（金曜日）|午後1時～3時40分|\n|10月16日（水曜日）|午後1時～3時40分|\n|10月28日（月曜日）|午前9時～11時10分|\n|11月1日（金曜日）|午後1時～3時40分|\n|11月18日（月曜日）|午後1時～3時40分|\n|11月25日（月曜日）|午前9時～11時10分|\n|12月6日（金曜日）|午後1時～3時40分|\n|12月9日（月曜日）|午前9時～11時10分|\n|12月23日（月曜日）|午後1時～3時40分|\n|1月9日（木曜日）|午後1時～3時40分|\n|1月27日（月曜日）|午後1時～3時40分|\n|1月29日（水曜日）|午前9時～11時10分|\n|2月3日（月曜日）|午後1時～3時40分|\n|2月7日（金曜日）|午後1時～3時40分|\n|2月14日（金曜日）|午前9時～11時10分|\n|3月3日（月曜日）|午後1時～3時40分|\n|3月17日（月曜日）|午後1時～3時40分|\n|3月19日（水曜日）|午前9時～11時10分|",
+      "target": {
+        "targetPersons": "区内在住の未就学児とその保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "無料",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "千代田保健所4階歯とお口の相談室",
+        "implementationAddress": "九段北1-2-14"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "予約制です（申込順）。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/hamigaki.html",
+        "title": "はみがき教室"
+      },
+      "formLink": [
+        {
+          "uri": "https://chiyoda-portal.my.site.com/ctz/appMngDef/a042w000011GZomAAG/am000000039",
+          "title": "はみがき教室（外部サイトへリンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "千代田保健所保健サービス課保健サービス係（歯科保健担当）",
+        "contactPhone": "03-5211-8178",
+        "contactEx": null,
+        "contactEmail": "hoken-service@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1020073",
+        "contactAddress": "東京都千代田区九段北1-2-14"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM32",
+        "organization": "8000020131016",
+        "compartment": "千代田保健所保健サービス課保健サービス係(歯科保健担当)",
+        "compartmentCode": null,
+        "institutionType": 2
+      },
+      "updateDate": "2025/01/15",
+      "odInformation": {
+        "updateDate": "2025/01/16",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "078"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "千代田区の妊娠・出産に関する相談",
+        "shortName": "妊娠・出産相談"
+      },
+      "summary": "予想外の妊娠や出産についての相談を受けています。",
+      "description": "予想外の妊娠や出産についての相談を受けています。\n\n「生理が遅れている。もしかして妊娠したかも・・・。」\n\n「妊娠したけど、産もうかどうか迷っている。」\n\n「避妊に失敗したかもしれない。」\n\nこのような悩みがある際はひとりで悩まず、相談してください。\n\n東京都では、「妊娠相談ほっとライン」で都内にお住いの方を対象に、妊娠や出産に関するさまざまな悩みについて、電話やメールで相談に応じています。妊娠相談ほっとラインについて詳しくは東京都福祉保健局「東京都 妊娠相談ほっとライン」（外部サイトへリンク）をご覧ください。\n\nまた、平日8時半から17時までについては保健所の保健師もご相談をお受けしています。ご相談をご希望の場合は下記のお問い合わせ先にご連絡ください。",
+      "target": {
+        "targetPersons": "都内にお住いの方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "08:30",
+        "toYMD": null,
+        "toHM": "17:00",
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo//sodan/ninshin-hotline.html",
+          "title": "東京都福祉保健局「東京都 妊娠相談ほっとライン」"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ninshin/ninshin-shussan-sodan.html",
+        "title": "妊娠・出産相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "千代田保健所保健サービス課保健サービス係",
+        "contactPhone": "03-6380-8552",
+        "contactEx": null,
+        "contactEmail": "hoken-service@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1020073",
+        "contactAddress": "東京都千代田区九段北1-2-14"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM47",
+        "organization": "8000020131016",
+        "compartment": "千代田保健所保健サービス課保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "082"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月未満児）",
+        "shortName": "3～4か月児健康診査"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として【3か月】児健康診査を実施しています。",
+      "description": "3か月から4か月に達したお子さんの発育と発達の状況を確認するために、健康診査を実施しています。他にも、離乳食のことなど、子育てに必要な情報を提供します。\n\n受診にあたってのお願い\n・ご来所の前に、お子さんおよび付き添いの方の検温をお願いします。\n・会場のスペースには限りがあるため、対象のお子さん一人につき、付き添いの方は一人までのご協力をお願いします。\n・感染症予防のため、お子さんやご家族が発熱・咳・下痢・発疹等の症状がある場合は入場をお断りさせていただきます。別日への変更をお願いします。\n・付き添いの方は、来所の際にはマスクの着用にご協力ください。\n\n実施内容\n予診、身体計測、小児科診察、個別相談（栄養、保健、心理）\n\n実施日時\n一覧表\n実施日\n令和6年4月25日（木曜日）\n令和6年5月16日（木曜日）\n令和6年6月6日（木曜日）\n令和6年6月27日（木曜日）\n令和6年7月25日（木曜日）\n令和6年8月22日（木曜日）\n令和6年9月5日（木曜日）\n令和6年9月19日（木曜日）\n令和6年10月24日（木曜日）\n令和6年11月7日（木曜日）\n令和6年11月28日（木曜日）\n令和6年12月12日（木曜日）\n令和7年1月30日（木曜日）\n令和7年2月13日（木曜日）\n令和7年2月27日（木曜日）\n令和7年3月13日（木曜日）\n\n対象の月に受診できない場合は、次回以降に変更することができますので、ご連絡ください。\n\n外国人の受診者の方へ\n3～4か月健康診査は、お子さんの成長を確認する大切な健診です。ぜひ受診してください。\n日本語でのコミュニケーションが難しい場合は、日本語を話すことができる方と一緒にお越しください。外国語の問診票は、次のファイルを利用してください。",
+      "target": {
+        "targetPersons": "区内在住の生後3か月から4か月のお子さん（生後6か月に達する前日まで受診可能）\n（注意） 生後3か月頃にご案内をお送りします。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 3
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "12:45",
+        "toYMD": null,
+        "toHM": "14:00",
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "千代田保健所 ",
+        "implementationAddress": "九段北1-2-14"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳、「3～4か月児健康診査問診票（記入済みのもの）」、バスタオル、おむつ・ミルク等お子さんの外出に必要なもの\n（注意） バスタオルは、オムツ交換の際や、身体測定の着替えの際に敷いていただきます。お子さんをくるめるサイズのものをお持ちください。\nお子さんは着脱しやすい服装でお越しください。\n会場内はバギーで移動できません。荷物はコンパクトにされることをお勧めします。\n使用済みのおむつはお持ち帰りください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/9366/kenko3-4-monshin2.pdf",
+          "title": "英語版問診票3～4か月児健康診査問診票[英語1]（PDF：68KB）"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/9366/kenko3-4-monshin6.pdf",
+          "title": "ハングル語版問診票3～4か月児健康診査問診票[ハングル語1]（PDF：257KB）"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/9366/kenko3-4-monshin4.pdf",
+          "title": "中国語版問診票3～4か月児健康診査問診票[中国語1]（PDF：63KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/kenko3-4.html",
+        "title": "3～4か月児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "千代田保健所保健サービス課保健相談係",
+        "contactPhone": "03-5211-8175",
+        "contactEx": null,
+        "contactEmail": "hokensoudan@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1020073",
+        "contactAddress": "東京都千代田区九段北1-2-14"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM49",
+        "organization": "8000020131016",
+        "compartment": "千代田保健所保健サービス課保健相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "6～7か月児健康診査、9～10か月児健康診査"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として乳幼児健康診査【6か月から12か月児】を実施しています。",
+      "description": "お子さんが健やかに育つためには、乳児期の定期的な健康診査が必要です。ぜひご利用ください。\n\n対象者\n生後9か月から10か月のお子さん\n\n実施時期\n・9～10か月児健康診査は、生後9か月に達した日から11か月になる日の前日まで\n\n実施内容\n身体計測、小児科診察\n\n実施場所\n千代田区内の指定医療機関は、千代田区妊婦・乳児健康診査実施指定医療機関名簿（PDF：326KB）をご覧ください。\n\n他区・市の指定医療機関については、医療機関が所在する区市の母子保健担当課にお問い合わせください。",
+      "target": {
+        "targetPersons": "区内在住の生後6か月から7か月のお子さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 7
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後6か月に達した日から8か月になる日の前日まで"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "都内指定医療機関",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "持ち物\n母子健康手帳、受診票\n受診票は3～4か月児健康診査の通知に同封します。\n\n転入された方へ\n・都内区市町村で発行された受診票はそのまま使えます。\n・都外から転入の方はご連絡ください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/9367/r60507nimpunyuji-meibo.pdf",
+          "title": "千代田区妊婦・乳児健康診査実施指定医療機関名簿（PDF：326KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/kenko6-7.html",
+        "title": "6～7か月児健康診査、9～10か月児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "千代田保健所保健サービス課保健サービス係",
+        "contactPhone": "03-6380-8552",
+        "contactEx": null,
+        "contactEmail": "hoken-service@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1020073",
+        "contactAddress": "東京都千代田区九段北1-2-14"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM50",
+        "organization": "8000020131016",
+        "compartment": "千代田保健所保健サービス課保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-17",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "伴走型相談支援",
+        "shortName": "出産・子育て応援事業"
+      },
+      "summary": "妊娠から出産・子育てにわたる切れ目ない支援を行うために、相談に応じ、面談や継続的な情報発信を行うことを通じてさまざまなニーズに対応した支援につなぐ「伴走型相談支援」を行います。",
+      "description": "国において、妊娠から出産・子育てにわたる切れ目ない支援を行うために、相談に応じ、面談や継続的な情報発信を行うことを通じてさまざまなニーズに対応した支援につなぐ「伴走型相談支援」と出産や子育てにかかる費用の軽減を図る「経済的支援」を一体的に実施する「出産・子育て応援交付金」が創設されました。\n\n千代田区では、令和5年4月1日から、「出産・子育て応援事業」を実施しています。\n\n妊娠届出時にままぱぱ面談（妊婦面談）を受けた妊婦と、出産後に、保健師による赤ちゃん訪問（乳児家庭訪問）を受けた養育者を対象にギフトカードを支給します。\n\nこども家庭庁ホームページ「妊婦・子育て家庭への伴走型相談支援と経済的支援の一体的実施（出産・子育て応援交付金）」（外部サイトへリンク）\n\n事業内容\n\n伴走型相談支援\n\n伴走型相談支援 詳細表\n\n「表」\n\n経済的支援\n\n「出産・子育て応援ギフト」として、東京都が発行する育児用品や家電製品、子育て関連サービス等に使用できるギフトカードを支給します。\n\n経済的支援 詳細表\n\n「表」\n\n（備考1） 流産・死産となった方も対象です。\n（備考2） 新生児一人当たり。例えば、双子のお子さんを出産した場合、10万円×2人＝20万円となります。\n（備考3） 出生後、お子さんがお亡くなりになった場合も対象です。\n（備考4） 東京都赤ちゃんファースト5万円分を含む。\n\nギフトカードの送付\n\n申請書類を受理した後、書類内容の審査を経て、育児用品や子育て支援サービス等を選べる専用サイトへアクセスするためのID・パスワード入りのギフトカードを送付します。\n\nなお、不足書類や記入漏れがあった場合は、再提出をお願いする場合があります。\n\nギフトカードの発送までの日数\n\n出産応援ギフト・子育て応援ギフトともに、不足書類や記入漏れがない場合は、申請書類の受理からおおむね2か月程度でギフトカードを発送します。\n\n2か月を経過しても、ギフトカードが届かない場合は、保健サービス課保健サービス係までご連絡ください。\n\nギフトカードに関する問い合わせ先\n\n東京都コールセンター\n電話番号：0120-922-283\n開設時間：午前9時～午後6時／年中無休（年末年始を除く）\n\nギフトカードの登録について\n\n出産応援ギフト・子育て応援ギフトともに、ご利用いただくためには初回登録（ログイン）が必要です。登録が行われずに登録期限が過ぎてしまうとポイントが失効してしまいますのでご注意ください。ポイントの交換期限は、初回登録日から6か月間です。\n\nギフトカードを紛失してしまった場合\n\nギフトカード初回登録前に紛失してしまった場合\n保健サービス課保健サービス係までご連絡ください。\n\n旧ギフトカードの利用確認および、無効化処理を行います。処理後にご連絡をしますので、必ず本人確認書類をご持参の上、窓口までお越しください。再交付申請書をご記入いただき、ギフトカードを再交付させていただきます。\n\nギフトカード初回登録後に紛失してしまった場合\n初回登録後にカードを紛失してしまい、ログインができなくなった場合は、東京都コールセンター（電話番号：0120-922-283）までお問い合わせください。",
+      "target": {
+        "targetPersons": "1～3すべての条件に該当する方\n\n申請時点で千代田区に住民票のある方\n以下のいずれかに該当する方\n（1）出産応援ギフト\n令和5年4月1日以降に妊娠の届出をし、妊婦面談を受けた妊婦\n（2）子育て応援ギフト\n令和5年4月1日以降に子どもが出生し、乳児家庭訪問を受けた養育者\n他区市町村で、出産・子育て応援ギフト（国の出産・子育て応援交付金）の支給を受けていない方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "伴走型相談支援 詳細表\n\n「表」",
+      "procedurePersons": null,
+      "procedureMethod": "対象者には、申請書類を面談・訪問時に手交します。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "保健サービス課保健サービス係",
+      "relatedLink": [
+        {
+          "uri": "https://www.cfa.go.jp/policies/shussan-kosodate/",
+          "title": "こども家庭庁ホームページ「妊婦・子育て家庭への伴走型相談支援と経済的支援の一体的実施（出産・子育て応援交付金）」（外部サイトへリンク）"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/29205/oenjigyo-q-a.pdf",
+          "title": "千代田区出産・子育て応援ギフトQ＆A（PDF：180KB）"
+        },
+        {
+          "uri": "https://www.fukushi.metro.tokyo.lg.jp/kodomo/shussan/tokyo_shussanouen.html",
+          "title": "東京都ホームページ「東京都出産応援事業～コロナに負けない！～」（外部サイトへリンク）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ninshin/shussan-kosodate-oenjigyo.html",
+        "title": "出産・子育て応援事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "千代田保健所保健サービス課保健サービス係,千代田保健所保健サービス課保健相談係",
+        "contactPhone": "03-6380-8552,03-5211-8175",
+        "contactEx": null,
+        "contactEmail": "hoken-service@city.chiyoda.lg.jp,hokensoudan@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1020073",
+        "contactAddress": "東京都千代田区九段北1-2-14,東京都千代田区九段北1-2-14"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM5011",
+        "organization": "8000020131016",
+        "compartment": "千代田保健所保健サービス課保健サービス係,千代田保健所保健サービス課保健相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自立支援医療制度（育成医療）",
+        "shortName": "自立支援医療（育成医療）"
+      },
+      "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+      "description": "心身の障害を除去・軽減するための医療費を負担します。",
+      "target": {
+        "targetPersons": "区内に住所を有する18歳未満の児童で、上記（身体障害者福祉法第4条）の障害があるか、または将来障害を残すと認められる方で、手術等により、確実な治療効果が期待できる場合です。",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "18歳未満"
+      },
+      "support": {
+        "description": "肢体不自由\n視覚障害\n聴覚・平衡機能障害\n音声・言語・そしゃく機能障害\n心臓障害\n腎臓障害\nその他の内臓障害\n免疫機能障害\n上記の1～8にかかる医療に要する費用を助成します。",
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": "医療に要する費用を区が負担します（原則として、医療機関へ現物給付します）。ただし、各種医療保険等を先に適用します。なお、税額に応じた自己負担額が生じる場合には、乳幼児医療助成制度が適用されます。",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "千代田保健所",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "千代田保健所保健サービス課保健サービス係\n\n〒102-0073　東京都千代田区九段北1-2-14\n\n電話番号：03-6380-8552\n\nファクス：03-3262-1160\n\nメールアドレス：hoken-service@city.chiyoda.lg.jp",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ko-shogai/goriyo/jiritsushien.html",
+        "title": "自立支援医療（育成医療）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "千代田保健所保健サービス課保健サービス係",
+        "contactPhone": "03-6380-8552",
+        "contactEx": null,
+        "contactEmail": "hoken-service@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1020073",
+        "contactAddress": "東京都千代田区九段北1-2-14"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM5037",
+        "organization": "8000020131016",
+        "compartment": "千代田保健所保健サービス課保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-08",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律",
+        "regulationArticle": "第58条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "025",
+          "027"
+        ],
+        "targetCode": [
+          "087",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "1歳6か月児健康診査",
+        "shortName": "1歳6か月児健康診査"
+      },
+      "summary": "1歳6か月の頃は乳児期から幼児期に移行する大切な時期です。千代田区では1歳6か月児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "お子さんの成長を確認し、幼児期を健やかに過ごすために、医師、保健師、歯科医師、歯科衛生士、管理栄養士による健康診査を行います。また、アレルギーに関する相談も行います。\n\n受診にあたってのお願い\n\n・ご来所の前に、お子さんおよび付き添いの方の検温をお願いします。\n・会場のスペースには限りがあるため、対象のお子さん一人につき、付き添いの方は一人までのご協力をお願いします。\n・感染症予防のため、お子さんやご家族が発熱・咳・下痢・発疹等の症状がある場合は入場をお断りさせていただきます。別日への変更をお願いします。\n・付き添いの方は、来所の際にはマスクの着用にご協力ください。\n\n実施内容\n予診、身体計測、小児科診察、歯科健診、個別相談（栄養、保健、歯科、心理）\n\n実施日時\n\n一覧表\n\n|実施日|\n|:----|\n|令和6年4月9日（火曜日）|\n|令和6年5月14日（火曜日）|\n|令和6年5月28日（火曜日）|\n|令和6年6月11日（火曜日）|\n|令和6年7月9日（火曜日）|\n|令和6年8月27日（火曜日）|\n|令和6年9月10日（火曜日）|\n|令和6年10月8日（火曜日）|\n|令和6年10月29日（火曜日）|\n|令和6年11月12日（火曜日）|\n|令和6年12月10日（火曜日）|\n|令和7年1月14日（火曜日）|\n|令和7年1月28日（火曜日）|\n|令和7年2月25日（火曜日）|\n|令和7年3月11日（火曜日）|\n\n受付時間：12時30分～午後1時45分\n対象の月に受診できない場合は、次回以降に変更することができますので、ご連絡ください。\n\n外国人の受診者の方へ\n\n1歳6か月児健康診査は、お子さんの成長を確認する大切な健診です。ぜひ受診してください。\n\n日本語でのコミュニケーションが難しい場合は、日本語を話すことができる方と一緒にお越しください。外国語の問診票は、次のファイルを利用してください。\n\n英語版問診票\n1歳6か月児健康診査問診票[英語1]（PDF：82KB）;https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/documents/1sai-monshin3.pdf\n1歳6か月児健康診査問診票[英語2]（PDF：69KB）;https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/documents/1sai-monshin4.pdf\n1歳6か月児歯科健康診査問診票[英語]（PDF：65KB）;https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/documents/1sai-monshin5.pdf\n\n中国語版問診票\n1歳6か月児健康診査問診票[中国語1]（PDF：60KB）;https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/documents/1sai-monshin6.pdf\n1歳6か月児健康診査問診票[中国語2]（PDF：52KB）;https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/documents/1sai-monshin7.pdf\n1歳6か月児歯科健康診査問診票[中国語]（PDF：66KB）;https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/documents/1sai-monshin8.pdf\n\nハングル語版問診票\n1歳6か月児健康診査問診票[ハングル語1]（PDF：246KB）;https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/documents/1sai-monshin9.pdf\n1歳6か月児健康診査問診票[ハングル語2]（PDF：237KB）;https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/documents/1sai-monshin10.pdf\n1歳6か月児歯科健康診査問診票[ハングル語]（PDF：87KB）:https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/documents/1sai-monshin11.pdf",
+      "target": {
+        "targetPersons": "区内在住の1歳6か月児のお子さん（2歳の誕生日の前日まで受診可能）",
+        "lessThan": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 1,
+          "targetAgeOfMonths": 6
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "千代田保健所",
+        "implementationAddress": "九段北1-2-14"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:15",
+        "toHM": "10:15",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "1歳6か月に達する頃、ご案内をお送りします。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳、「1歳6か月児健康診査問診票（記入済みのもの）」、「1歳6か月児歯科健康診査問診票（記入済みのもの）」\n\n（注意）\n・お子さんは着脱しやすい服装でお越しください。\n・会場内はバギーで移動できません。荷物はコンパクトにされることをお勧めします。\n・使用済みおむつはお持ち帰りください。\n・必要な方は、おもちゃをご持参ください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/kenko1sai.html",
+        "title": "1歳6か月児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "千代田保健所保健サービス課保健相談係",
+        "contactPhone": "03-5211-8175",
+        "contactEx": null,
+        "contactEmail": "hokensoudan@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1020073",
+        "contactAddress": "東京都千代田区九段北1-2-14"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM51",
+        "organization": "8000020131016",
+        "compartment": "千代田保健所保健サービス課保健相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "3歳児健康診査",
+        "shortName": "3歳児健康診査"
+      },
+      "summary": "からだやこころの成長とともに社会性も急速に発達するこの頃は、人間形成の基礎となる大切な時期です。千代田区では3歳児健康診査を実施しています。\n小児科医による診察のほか、歯科健診も行います。",
+      "description": "お子さんの成長を確認し、幼児期を健やかに過ごすために、医師、保健師、歯科医師、歯科衛生士による健康診査を行います。\n\n受診にあたってのお願い\n\n・ご来所の前に、お子さんおよび付き添いの方の検温をお願いします。\n・会場のスペースには限りがあるため、対象のお子さん一人につき、付き添いの方は一人までのご協力をお願いします。\n・感染症予防のため、お子さんやご家族が発熱・咳・下痢・発疹等の症状がある場合は入場をお断りさせていただきます。別日への変更をお願いします。\n・付き添いの方は、来所の際にはマスクの着用にご協力をお願いします。\n\n実施内容\n予診、身体計測、小児科診察、歯科健診、尿検査、視力検査、個別相談（栄養、保健、歯科、心理）\n\n実施日時\n\n一覧表\n\n|実施日|\n|:----|\n|令和6年4月11日（木曜日）|\n|令和6年5月9日（木曜日）|\n|令和6年5月23日（木曜日）|\n|令和6年6月13日（木曜日）|\n|令和6年7月4日（木曜日）|\n|令和6年8月8日（木曜日）|\n|令和6年8月29日（木曜日）|\n|令和6年9月12日（木曜日）|\n|令和6年10月10日（木曜日）|\n|令和6年11月14日（木曜日）|\n|令和6年12月5日（木曜日）|\n|令和6年12月19日（木曜日）|\n|令和7年1月16日（木曜日）|\n|令和7年2月6日（木曜日）|\n|令和7年2月20日（木曜日）|\n|令和7年3月6日（木曜日）|\n\n対象の月に受診できない場合は、次回以降に変更できますので、ご連絡ください。\n\n外国人の受診者の方へ\n\n3歳児健康診査は、お子さんの成長を確認する大切な健診です。\n\n日本語でのコミュニケーションが難しい場合は、日本語を話すことができる方と一緒にお越しください。外国語の問診票は、次のファイルを利用してください。\n\n英語版問診票\n・3歳児健康診査問診票[英語1]（PDF：58KB）;https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/documents/3sai-monshin4.pdf\n・3歳児健康診査問診票[英語2]（PDF：69KB）;https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/documents/3sai-monshin5.pdf\n・3歳児歯科健康診査問診票[英語]（PDF：65KB）;https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/documents/3sai-monshin6.pdf\n\n中国語版問診票\n・3歳児健康診査問診票[中国語1]（PDF：83KB）;https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/documents/3sai-monshin8.pdf\n・3歳児健康診査問診票[中国語2]（PDF：52KB）;https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/documents/3sai-monshin9.pdf\n・3歳児歯科健康診査問診票[中国語]（PDF：64KB）;https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/documents/3sai-monshin10.pdf\n\nハングル語版問診票\n・3歳児健康診査問診票[ハングル語1]（PDF：90KB）;https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/documents/3sai-monshin12.pdf\n・3歳児健康診査問診票[ハングル語2]（PDF：237KB）;https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/documents/3sai-monshin13.pdf\n・3歳児歯科健康診査問診票[ハングル語]（PDF：88KB）;https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/documents/3sai-monshin14.pdf",
+      "target": {
+        "targetPersons": "区内在住の3歳児のお子さん（4歳の誕生日の前日まで受診可能）",
+        "lessThan": {
+          "targetAge": 4,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 3,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "千代田保健所 ",
+        "implementationAddress": "九段北1-2-14"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "12:30",
+        "toHM": "13:45",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "3歳に達する頃、ご案内をお送りします。\n\n健診当日までにご家庭で準備をしていただくこと\n\n目と耳の検査\n「目と耳の検査」をよく読んで、自宅でお子さんの視力検査と聴力検査をしましょう。結果は、目と耳のアンケートに記入してお持ちください。\n\n尿の採取\n・健診当日の朝、起床後すぐの尿を採取します。早朝尿が採取できなかった場合は、時間帯にこだわらず採尿してみましょう。\n・尿検査だけを、次回以降の3歳児健康診査日に実施することもできます（3歳11か月まで。予約が必要です。当日お子さんの同伴は必要ありません）。この場合も、当日は医師による結果説明がありますので、多少お時間をいただく場合があります。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳、「3歳児健康診査問診票（記入済みのもの）」、「目のアンケート（記入済みのもの）」、「耳のアンケート（記入済みのもの）」、「3歳児歯科健康診査問診票（記入済みのもの）」、尿を採取した容器\n（注意）\n・お子さんは着脱しやすい服装でお越しください。\n・会場内はバギーで移動できません。荷物はコンパクトにされることをお勧めします。\n・使用済みおむつはお持ち帰りください。\n・必要な方は、おもちゃをご持参ください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/kenko3sai.html",
+        "title": "3歳児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "千代田保健所保健サービス課保健相談係",
+        "contactPhone": "03-5211-8175",
+        "contactEx": null,
+        "contactEmail": "hokensoudan@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1020073",
+        "contactAddress": "東京都千代田区九段北1-2-14"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM52",
+        "organization": "8000020131016",
+        "compartment": "千代田保健所保健サービス課保健相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第12条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の乳幼児健診",
+        "shortName": "5歳児健康診査"
+      },
+      "summary": "5歳児は運動機能や心理・情緒の発達期です。また基本的な生活習慣が確立し、社会性を身につける重要な時期です。そのため区では5歳児健康診査を実施しています。",
+      "description": "受診にあたってのお願い\n\n・ご来所の前に、お子さんおよび付き添いの方の検温をお願いします。\n・会場のスペースには限りがあるため、対象のお子さん一人につき、付き添いの方は一人までのご協力をお願いします。\n・感染症予防のため、お子さんやご家族が発熱・咳・下痢・発疹等の症状がある場合は入場をお断りさせていただきます。別日への変更をお願いします。\n・付き添いの方は、マスクの着用にご協力をお願いします。\n\n実施内容\n\n予診、身体計測、集団遊び、お口の機能検査、小児科診察、心理相談（医師が必要と判断した方のみ）、栄養相談（希望者のみ）\n\n日時\n\n一覧表\n\n実施日\n\n令和6年4月16日（火曜日）\n令和6年5月7日（火曜日）\n令和6年6月4日（火曜日）\n令和6年7月2日（火曜日）\n令和6年7月23日（火曜日）\n令和6年8月6日（火曜日）\n令和6年9月3日（火曜日）\n令和6年10月1日（火曜日）\n令和6年11月5日（火曜日）\n令和6年11月19日（火曜日）\n令和6年12月3日（火曜日）\n令和7年1月7日（火曜日）\n令和7年2月4日（火曜日）\n令和7年3月4日（火曜日）\n令和7年3月25日（火曜日）\n\n対象の月に受診できない場合は、次回以降に変更できますので、ご連絡ください。　　\n\n健診についての注意事項\n\n5歳児健診では、他の乳幼児健診にはない「集団遊び」があり、初対面のお子様同士が一緒に遊びます。消毒や換気など感染防止対策を講じますが、感染症の流行状況に応じ、マスク着用などの感染予防へのご協力をお願いすることがあります。",
+      "target": {
+        "targetPersons": "区内在住の5歳児のお子さん（5歳6か月に達する前日まで受診可能）\n（注意） 5歳に達する頃、ご案内をお送りします。",
+        "lessThan": {
+          "targetAge": 5,
+          "targetAgeOfMonths": 6
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "千代田保健所 ",
+        "implementationAddress": "九段北1-2-14"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "12:45",
+        "toHM": "14:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "母子健康手帳、「5歳児健康診査【問診票】（記入済のもの）」、動きやすい服装・運動靴、お子さん用のマスク",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/kenko5.html",
+        "title": "5歳児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "千代田保健所保健サービス課保健相談係",
+        "contactPhone": "03-5211-8175",
+        "contactEx": null,
+        "contactEmail": "hokensoudan@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1020073",
+        "contactAddress": "東京都千代田区九段北1-2-14"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM53",
+        "organization": "8000020131016",
+        "compartment": "千代田保健所保健サービス課保健相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "妊産婦の歯科健診",
+        "shortName": "歯科健診"
+      },
+      "summary": "妊娠中や出産後は女性ホルモンの分泌の変化や食事回数の増加などからむし歯や歯周病になりやすく、進行しやすい時期です。こうした時期のお口の中の健康を維持するために、歯科健診をおすすめしています。",
+      "description": "むし歯や歯周病の予防を目的に、歯科健診とお口を健康に保つためのアドバイスを行っています。\n\n受診にあたってのお願い\n\n・感染症予防のため、本人およびご家族が発熱・咳・下痢・発疹等の症状がある場合は入場をお断りさせていただきます。別日への変更をお願いします。\n・来所の際にはマスクの着用にご協力ください。\n\n費用\n無料\n\n歯科健診：2024年4月～2025年3月の実施日時\n\n|実施日|実施時間|\n|:----|:----|\n|4月3日（水曜日）|午後1時～4時|\n|4月6日（土曜日）|午前9時～11時30分|\n|4月10日（水曜日）|午後1時～4時|\n|4月18日（木曜日）|午後1時～4時|\n|4月20日（土曜日）|午前9時～11時30分|\n|5月8日（水曜日）|午後1時～4時|\n|5月11日（土曜日）|午前9時～11時30分|\n|5月15日（水曜日）|午後1時～4時|\n|5月29日（水曜日）|午後1時～4時|\n|6月1日（土曜日）|午前9時～11時30分|\n|6月5日（水曜日）|午後1時～4時|\n|6月12日（水曜日）|午前9時～11時30分|\n|6月15日（土曜日）|午前9時～11時30分|\n|6月20日（木曜日）|午後1時～4時|\n|7月3日（水曜日）|午後1時～4時|\n|7月6日（土曜日）|午前9時～11時30分|\n|7月10日（水曜日）|午後1時～4時|\n|7月18日（木曜日）|午後1時～4時|\n|8月3日（土曜日）|午前9時～11時30分|\n|8月7日（水曜日）|午後1時～4時|\n|8月17日（土曜日）|午前9時～11時30分|\n|8月21日（水曜日）|午後1時～4時|\n|8月28日（水曜日）|午後1時～4時|\n|9月7日（土曜日）|午前9時～11時30分|\n|9月11日（水曜日）|午前9時～11時30分|\n|9月18日（水曜日）|午後1時～4時|\n|9月26日（木曜日）|午後1時～4時|\n|10月2日（水曜日）|午後1時～4時|\n|10月5日（土曜日）|午前9時～11時30分|\n|10月9日（水曜日）|午後1時～4時|\n|10月17日（木曜日）|午後1時～4時|\n|10月19日（土曜日）|午前9時～11時30分|\n|11月2日（土曜日）|午前9時～11時30分|\n|11月6日（水曜日）|午後1時～4時|\n|11月13日（水曜日）|午後1時～4時|\n|11月21日（木曜日）|午後1時～4時|\n|12月4日（水曜日）|午後1時～4時|\n|12月7日（土曜日）|午前9時～11時30分|\n|12月11日（水曜日）|午前9時～11時30分|\n|12月18日（水曜日）|午後1時～4時|\n|12月21日（土曜日）|午前9時～11時30分|\n|1月8日（水曜日）|午後1時～4時|\n|1月11日（土曜日）|午前9時～11時30分|\n|1月15日（水曜日）|午後1時～4時|\n|1月23日（木曜日）|午後1時～4時|\n|2月1日（土曜日）|午前9時～11時30分|\n|2月5日（水曜日）|午後1時～4時|\n|2月12日（水曜日）|午後1時～4時|\n|2月15日（土曜日）|午前9時～11時30分|\n|2月19日（水曜日）|午後1時～4時|\n|3月1日（土曜日）|午前9時～11時30分|\n|3月5日（水曜日）|午後1時～4時|\n|3月12日（水曜日）|午前9時～11時30分|\n|3月27日（木曜日）|午後1時～4時|",
+      "target": {
+        "targetPersons": "千代田区にお住まいの妊娠中の方、出産後1年未満の方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "千代田保健所4階 歯とお口の相談室",
+        "implementationAddress": "九段北1-2-14"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "ポータルサイトの登録方法については、「千代田区ポータルサイト」をご覧ください。",
+      "procedurePersons": null,
+      "procedureMethod": "ポータルサイトからお申し込みください。電話（電話番号：03-5211-8178）でもご予約を受け付けていますが、健診時間中は対応が難しいので、ご了承ください。\nオンライン予約は歯科健診とフッ素塗布（外部サイトへリンク）からお申し込みください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "当日は、母子健康手帳をお持ちください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kuse/johosesaku/portalsite-kaishi.html",
+          "title": "千代田区ポータルサイト"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ninshin/shikakenshin.html",
+        "title": "歯科健診"
+      },
+      "formLink": [
+        {
+          "uri": "https://chiyoda-portal.my.site.com/ctz/appMngDef/a042w00000zTTwhAAG/am000000000",
+          "title": "歯科健診とフッ素塗布（外部サイトへリンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "千代田保健所保健サービス課保健サービス係（歯科保健担当）",
+        "contactPhone": "03-5211-8178",
+        "contactEx": null,
+        "contactEmail": "hoken-service@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1020073",
+        "contactAddress": "東京都千代田区九段北1-2-14"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM8",
+        "organization": "8000020131016",
+        "compartment": "千代田保健所保健サービス課保健サービス係（歯科保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": null,
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第10条（保健指導）・第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002",
+          "027"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自立支援医療制度（精神通院医療）",
+        "shortName": "自立支援医療（精神通院医療）"
+      },
+      "summary": "障害者等が自立した日常生活又は社会生活を営むため、心身の障害の状態を軽減するための医療費の自己負担額を軽減する措置として、自立支援医療費を支給しております。",
+      "description": "障害者総合支援法の「自立支援医療制度（精神通院医療）」に基づき、精神障害者の適正な医療の普及と、社会復帰の促進を目的として、精神障害者が通院医療を受ける場合に必要な医療費を負担します。",
+      "target": {
+        "targetPersons": "精神疾患を理由として継続的な通院医療を必要とする方。または精神疾患を有する方のうち、精神障害によって長期にわたり日常生活および社会生活への制約がある方（ただし、知的障害の方を除く）。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "自己負担額は原則1割負担が適用されますが、健康保険証の世帯の住民税額や疾病名に応じて月額の自己負担上限額が変わります。",
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": "随時",
+        "fromHM": "随時",
+        "toYMD": "随時",
+        "toHM": "随時",
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "保健福祉部障害者福祉課総合相談担当",
+        "implementationAddress": "東京都千代田区九段南1-2-1"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": "随時",
+        "fromHM": "随時",
+        "toYMD": "随時",
+        "toHM": "随時",
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "保健福祉部障害者福祉課総合相談担当",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kenko/shogaisha/techo/iryohi/jiritsusien-tsuin.html",
+        "title": "自立支援医療（精神通院医療）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "保健福祉部障害者福祉課総合相談担当",
+        "contactPhone": "03-5211-4217",
+        "contactEx": null,
+        "contactEmail": "shogaishafukushi@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": "FAX：03-3556-1223",
+        "zipCode": "1028688",
+        "contactAddress": "東京都千代田区九段南1-2-1"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+1+UM824",
+        "organization": "8000020131016",
+        "compartment": "保健福祉部障害者福祉課総合相談担当",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/12/02",
+      "odInformation": {
+        "updateDate": "2025/02/21",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "障害者の日常生活及び社会生活を総合的に支援するための法律",
+        "regulationArticle": "第58条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "025",
+          "027"
+        ],
+        "targetCode": [
+          "087",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関する教室・講習会",
+        "shortName": "アレルギー予防教室"
+      },
+      "summary": "お子さんのアレルギーに関する正しい知識を得ていただくために、アレルギー予防教室を開催しています。\n\n",
+      "description": "いつでも気軽に参加することができるよう、動画を見て学べる講座と、アレルギー専門医・環境衛生監視員によるWEB講座を開催しています。みなさま、ぜひご参加ください。\n\n動画講座\n気管支喘息編\n「気管支喘息とは」「気管支喘息の診断」「治療の基本」についてお話しています。\n\n再生時間は15分程度です。\nhttps://youtu.be/3iZ352FhJxg\n\n（注意） この動画の内容は収録時点（令和6年2月14日）での情報となりますのでご注意ください。治療は自己判断せず、医師と相談の上進めてください。\n\nアトピー性皮膚炎編\n「アトピー性皮膚炎とは」「アトピー性皮膚炎の診断」「治療の基本」についてお話しています。\n\n再生時間は15分程度です。\nhttps://youtu.be/jhz4DwOYcmI\n\n（注意） この動画の内容は収録時点（令和6年2月14日）での情報となりますのでご注意ください。治療は自己判断せず、医師と相談の上進めてください。\n\n食物アレルギー編\n「食物アレルギーとは」「食物アレルギーの診断方法」「食物アレルギーの管理」「経口免疫療法」についてお話しています。\n\n再生時間は20分程度です。\nhttps://youtu.be/ody1THuDGQs\n\n（注意） この動画の内容は収録時点（令和6年2月14日）での情報となりますのでご注意ください。治療は自己判断せず、医師と相談の上進めてください。\n\nWEB講座\nアレルギー疾患の正しい知識を得ていただくために、アレルギー専門医、環境衛生監視員によるWeb講演を行います。\n\n（注意） 令和5年度のアレルギー予防教室は終了しました。令和6年度の開催日等は未定です。\n\n・令和5年度アレルギー予防教室ちらし（PDF：198KB）;https://www.city.chiyoda.lg.jp/documents/28502/chirashi_1.pdf",
+      "target": {
+        "targetPersons": "区内在住・在学・在園の乳幼児～中学生の保護者、妊婦",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/28502/chirashi_1.pdf",
+          "title": "令和5年度アレルギー予防教室ちらし（PDF：198KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/allergy-yobo.html",
+        "title": "アレルギー予防教室"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "千代田保健所保健サービス課保健相談係",
+        "contactPhone": "03-5211-8175",
+        "contactEx": null,
+        "contactEmail": "hokensoudan@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1020073",
+        "contactAddress": "東京都千代田区九段北1-2-14"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+2+UM103",
+        "organization": "8000020131016",
+        "compartment": "千代田保健所保健サービス課保健相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第９条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関するサポート",
+        "shortName": "バースデーサポート事業"
+      },
+      "summary": "千代田区では、2歳の誕生日を迎えたお子さまがいらっしゃるご家庭に、東京都作成の冊子を提供し、お子さんの発育状況やご家庭の状況をお尋ねするアンケートを実施するとともに、アンケートにお答えいただいた方へ、1万円相当の子育て用品やサービスに交換できるデジタルギフトを支給します。",
+      "description": "2歳前後は、できることが増えて成長の喜びを感じられる一方で、第一次反抗期が始まる時期であり、多くの方が子育てに悩み、育児に伴うストレスが高くなりやすい時期です。また、法定の乳幼児健診の観点からは、1歳6か月児健診の後は、次の3歳児健診まで少し間があるため、必要な子育て支援サービスにつながりにくい時期でもあります。\n\nそこで、千代田区では、2歳の誕生日を迎えたお子さまがいらっしゃるご家庭に、東京都作成の冊子を提供し、お子さんの発育状況やご家庭の状況をお尋ねするアンケートを実施するとともに、アンケートにお答えいただいた方へ、1万円相当の子育て用品やサービスに交換できるデジタルギフトを支給します。\n\n保健師や心理士等の専門職による相談について\n保健所では、保健師や心理士等の専門職による相談も随時受け付けています。\n育児に関して不安やお困りごとがありましたら、下記相談担当まで、お気軽にご連絡ください。\n（相談担当）保健相談係\n電話番号：03-5211-8175",
+      "target": {
+        "targetPersons": "1.～2.のいずれの条件にも該当する方\n　1.令和6年4月1日以降に、2歳の誕生日を迎える子どもがいる\n　2.2歳の誕生日時点において、子どもと保護者の住民登録が千代田区の同一世帯にある\n（注意） 2歳の誕生日以前に千代田区から転出された方は、対象外です。",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 2,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "令和6年4月1日以降に、2歳の誕生日を迎える子ども"
+      },
+      "support": {
+        "description": "2歳の誕生日を迎えたお子さまがいらっしゃるご家庭に、東京都作成の冊子を提供し、お子さんの発育状況やご家庭の状況をお尋ねするアンケートを実施するとともに、アンケートにお答えいただいた方へ、1万円相当の子育て用品やサービスに交換できるデジタルギフトを支給します。",
+        "monetarySupport": "1万円相当の子育て用品やサービスに交換できるデジタルギフト",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "事業の流れ\n1.対象者には、千代田保健所から委託をうけた事業者から、「バースデーサポート事業のご案内」を2歳の誕生日の翌月中旬頃に、簡易書留で郵送します。\n（注意） 対象者であるにも関わらず、ご案内が届いてない方は、下記事業担当までお問い合わせください。\n2.「バースデーサポート事業のご案内」に記載されている二次元コードをスマートフォン等で読み取り、期限内にアンケートにご回答いただくと、その場でデジタルギフトをお受け取りいただけます。\n（注意） 期限までに回答がない場合、デジタルギフトを受け取れないことがあります。\n（注意） スマートフォン等をお持ちでない方は、下記事業担当までご連絡ください。\n（事業担当）保健サービス係\n電話番号：03-6380-8552",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/birthday-support.html",
+        "title": "バースデーサポート事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "千代田保健所保健サービス課（事業担当）保健サービス係,（相談担当）保健相談係",
+        "contactPhone": "03-6380-8552,03-5211-8175",
+        "contactEx": null,
+        "contactEmail": "hoken-service@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1020073",
+        "contactAddress": "東京都千代田区九段北1-2-14"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+2+UM106",
+        "organization": "8000020131016",
+        "compartment": "千代田保健所保健サービス課（事業担当）保健サービス係,（相談担当）保健相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-31",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "千代田区の子育てに関する相談",
+        "shortName": "子どもの食べ方相談"
+      },
+      "summary": "「よく噛まない」、「食べ物を口に溜める」、「偏食が多い」、「食事に時間がかかる」など、お子さんの食べ方が気になる保護者の方に、昭和大学の食べ方（摂食）専門の歯科医が、上手に食べるためのアドバイスを行います。",
+      "description": "「よく噛まない」、「食べ物を口に溜める」、「偏食が多い」、「食事に時間がかかる」など、お子さんの食べ方が気になる保護者の方に、昭和大学の食べ方（摂食）専門の歯科医が、上手に食べるためのアドバイスを行います。\n当日は、お子さんと一緒にお越しください。\n\n受診にあたってのお願い\n来所の前に、お子さんおよび付き添いの方の検温をお願いします。\n感染症予防のため、対象のお子さん一人につき、付き添いの方は一人までのご協力をお願いします。\n感染症予防のため、お子さんやご家族が発熱・咳・下痢・発疹等の症状がある場合は入場をお断りさせていただきます。別日への変更をお願いします。\n付き添いの方は、来所の際にはマスクの着用にご協力ください。\n\n子どもの食べ方相談：\n実施日\n4月23日（火曜日）\n5月21日（火曜日）\n6月18日（火曜日）\n7月30日（火曜日）\n8月20日（火曜日）\n9月24日（火曜日）\n10月22日（火曜日）\n11月26日（火曜日）\n12月24日（火曜日）\n1月21日（火曜日）\n2月18日（火曜日）\n3月18日（火曜日）\n\nお問い合わせ\nファクス：03-3262-1160",
+      "target": {
+        "targetPersons": "千代田区にお住まいの乳幼児とその保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": "0",
+      "costConditions": "無料",
+      "implementationPeriod": {
+        "fromYMD": "2024-04-23",
+        "fromHM": "13:30",
+        "toYMD": "2025-03-18",
+        "toHM": "16:00",
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "千代田保健所4階歯とお口の相談室",
+        "implementationAddress": "九段北1-2-14"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申込方法\n予約制（30分ごとの予約）です。\n\nポータルサイトからお申し込みください。電話（電話番号：03-5211-8178）でもご予約を受け付けていますが、健診時間中は対応が難しいので、ご了承ください。\n\n・ポータルサイト\nオンライン予約は子どもの食べ方相談（外部サイトへリンク）からお申し込みください。\n（注意） ポータルサイトの登録方法については、「千代田区ポータルサイト」をご覧ください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/koho/kuse/johosesaku/portalsite-kaishi.html",
+          "title": "千代田区ポータルサイト"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/tabekata.html",
+        "title": "子どもの食べ方相談"
+      },
+      "formLink": [
+        {
+          "uri": "https://chiyoda-portal.my.site.com/ctz/appMngDef/a042w000011GZowAAG/am000000049",
+          "title": "子どもの食べ方相談（外部サイトへリンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "千代田保健所保健サービス課保健サービス係（歯科保健担当）",
+        "contactPhone": "03-5211-8178",
+        "contactEx": null,
+        "contactEmail": "hoken-service@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1020073",
+        "contactAddress": "東京都千代田区九段北1-2-14"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+2+UM119",
+        "organization": "8000020131016",
+        "compartment": "千代田保健所保健サービス課保健サービス係（歯科保健担当）",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-10",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "082"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "千代田区の妊娠・出産に関する相談",
+        "shortName": "さくらグリーフサポート"
+      },
+      "summary": "流産や死産などで大切なお子さまを亡くされた哀しみを、誰にも話すことができず一人で抱えている方がいらっしゃいます。千代田保健所では思いを言葉にしていただけるように、相談専門の心理士・保健師がゆっくりお話を聴かせていただきます。",
+      "description": "「さくらグリーフサポートのご案内」（PDF：348KB）;https://www.city.chiyoda.lg.jp/documents/29356/chirashi_1.pdf\n\n実施内容\n面談やお電話で専門相談員（心理士・保健師）がお話を聴かせていただきます。\n\n相談窓口\n・受付時間：月曜日～金曜日 9時～17時\n・電話番号：03-5211-8175\n\nその他の相談先\n\n東京都 赤ちゃんを亡くされたご家族のための電話相談\n・受付時間：毎週金曜日 10時～16時まで（休日および年末年始を除く）\n・電話番号：03-5320-4388",
+      "target": {
+        "targetPersons": "区内にお住まいの方で、流産・死産の経験がある方",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "09:00",
+        "toYMD": null,
+        "toHM": "17:00",
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "千代田保健所 保健サービス課保健相談係 さくらグリーフサポート担当",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": "休日および年末年始",
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/29356/chirashi_1.pdf",
+          "title": "「さくらグリーフサポートのご案内」（PDF：348KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ninshin/sakuragriefsupport.html",
+        "title": "流産・死産を経験された方へ（さくらグリーフサポート）"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "千代田保健所保健サービス課保健相談係",
+        "contactPhone": "03-5211-8175",
+        "contactEx": null,
+        "contactEmail": "hokensoudan@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1020073",
+        "contactAddress": "東京都千代田区九段北1-2-14"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+2+UM47",
+        "organization": "8000020131016",
+        "compartment": "千代田保健所保健サービス課保健相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "082"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月から12か月児）",
+        "shortName": "6～7か月児健康診査、9～10か月児健康診査"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として乳幼児健康診査【6か月から12か月児】を実施しています。",
+      "description": "お子さんが健やかに育つためには、乳児期の定期的な健康診査が必要です。ぜひご利用ください。\n\n対象者\n区内在住の生後6か月から7か月のお子さん\n\n実施時期\n・6～7か月児健康診査は、生後6か月に達した日から8か月になる日の前日まで\n\n実施内容\n身体計測、小児科診察\n\n実施場所\n千代田区内の指定医療機関は、千代田区妊婦・乳児健康診査実施指定医療機関名簿（PDF：326KB）をご覧ください。\n\n他区・市の指定医療機関については、医療機関が所在する区市の母子保健担当課にお問い合わせください。",
+      "target": {
+        "targetPersons": "生後9か月から10か月のお子さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 10
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 9
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "生後9か月に達した日から11か月になる日の前日まで"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "都内指定医療機関",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "持ち物\n母子健康手帳、受診票\n受診票は3～4か月児健康診査の通知に同封します。\n\n転入された方へ\n・都内区市町村で発行された受診票はそのまま使えます。\n・都外から転入の方はご連絡ください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/9367/r60507nimpunyuji-meibo.pdf",
+          "title": "千代田区妊婦・乳児健康診査実施指定医療機関名簿（PDF：326KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/kenko6-7.html",
+        "title": "6～7か月児健康診査、9～10か月児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "千代田保健所保健サービス課保健サービス係",
+        "contactPhone": "03-6380-8552",
+        "contactEx": null,
+        "contactEmail": "hoken-service@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1020073",
+        "contactAddress": "東京都千代田区九段北1-2-14"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+2+UM50",
+        "organization": "8000020131016",
+        "compartment": "千代田保健所保健サービス課保健サービス係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-05-17",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "080"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関するサポート",
+        "shortName": "にこにこ広場"
+      },
+      "summary": "生後1～2か月のお子さんとお母さん、お父さんのための広場を開催しています。",
+      "description": "生後1～2か月のお子さんとお母さん、お父さんのための広場を開催しています。おしゃべりをして楽しい時間を過ごしませんか。\n\n実施内容\n・育児に関する情報交換\n・お子さんの体重測定\n・育児相談\n\n実施日時\n時間：午前9時50分～11時（受付：午前9時40分～9時50分）\n\n令和６年度の実施日、対象者および申込開始日\n\n|実施日|対象者|申込開始日<br>（9時から開始）<br>第1子|申込開始日<br>（9時から開始）<br>第2子以降|\n|:----|:----|:----|:----|\n|令和6年4月24日（水曜日）|令和6年2月生まれ|令和6年4月1日（月曜日）|令和6年4月15日（月曜日）|\n|令和6年5月22日（水曜日）|令和6年3月生まれ|令和6年5月1日（水曜日）|令和6年5月13日（月曜日）|\n|令和6年6月26日（水曜日）|令和6年4月生まれ|令和6年6月3日（月曜日）|令和6年6月17日（月曜日）|\n|令和6年7月31日（水曜日）|令和6年5月生まれ|令和6年7月1日（月曜日）|令和6年7月16日（火曜日）|\n|令和6年8月28日（水曜日）|令和6年6月生まれ|令和6年8月1日（木曜日）|令和6年8月13日（火曜日）|\n|令和6年9月25日（水曜日）|令和6年7月生まれ|令和6年9月2日（月曜日）|令和6年9月17日（火曜日）|\n|令和6年10月30日（水曜日）|令和6年8月生まれ|令和6年10月1日（火曜日）|令和6年10月15日（火曜日）|\n|令和6年11月27日（水曜日）|令和6年9月生まれ|令和6年11月1日（金曜日）|令和6年11月11日（月曜日）|\n|令和6年12月25日（水曜日）|令和6年10月生まれ|令和6年12月2日（月曜日）|令和6年12月16日（月曜日）|\n|令和7年1月29日（水曜日）|令和6年11月生まれ|令和7年1月6日（月曜日）|令和7年1月20日（月曜日）|\n|令和7年2月26日（水曜日）|令和6年12月生まれ|令和7年2月3日（月曜日）|令和7年2月17日（月曜日）|\n|令和7年3月26日（水曜日）|令和7年1月生まれ|令和7年3月3日（月曜日）|令和7年3月17日（月曜日）|",
+      "target": {
+        "targetPersons": "区内在住の生後1～2か月のお子さんとお母さん、お父さん",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 2
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 1
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "09:50",
+        "toYMD": null,
+        "toHM": "11:00",
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "千代田保健所3階多目的ルーム",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "対象の方には、個別に通知を送ります。",
+      "procedurePersons": null,
+      "procedureMethod": "予約制（定員あり）です。\nご予約はお電話（電話番号：03-5211-8175）、もしくはポータルサイトからお願いします。ポータルサイトの利用方法については以下をご覧ください。\n\n・ポータルサイトの初回アカウント登録方法について（PDF：393KB）;https://www.city.chiyoda.lg.jp/documents/1300/torokuhoho.pdf",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳、バスタオル（お子さんを寝かせるときに使います）、おむつやミルクなどお子さんの外出に必要なもの\n（注意） ミルクを作る時のお湯は、お持ちください。\n（注意） 使用済みおむつは、お持ち帰りください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/1300/torokuhoho.pdf",
+          "title": "ポータルサイトの初回アカウント登録方法について"
+        },
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/1300/r6chirashi.pdf",
+          "title": "にこにこ広場 ちらし"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/nikoniko.html",
+        "title": "にこにこ広場"
+      },
+      "formLink": [
+        {
+          "uri": "https://chiyoda-portal.my.site.com/ctz/topPage",
+          "title": "（外部サイトへリンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "千代田保健所保健サービス課保健相談係",
+        "contactPhone": "03-5211-8175",
+        "contactEx": null,
+        "contactEmail": "hokensoudan@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1020073",
+        "contactAddress": "東京都千代田区九段北1-2-14"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+3+UM106",
+        "organization": "8000020131016",
+        "compartment": "千代田保健所保健サービス課保健相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "千代田区の子育てに関する相談",
+        "shortName": "子どもと家庭にかかわる総合相談"
+      },
+      "summary": "区内にお住まいの18歳未満のお子さんとそのご家族の相談を受け付けています。\nお話を聞いて一緒に考え、必要に応じて専門機関やサービスの案内をします。",
+      "description": "利用できる日・時間帯\n\n電話相談「千代田っこホットライン」\n\n24時間365日\n（注意） 夜間（午後5時から翌午前9時まで）と日曜・祝日は継続相談の対応はできません。\n「千代田っこホットライン」\n電話番号：03-3256-8150\n\n来所相談\n\n月曜日～金曜日（祝日・年末年始は除く）午前9時～午後5時\nあらかじめ電話で相談・予約してください。",
+      "target": {
+        "targetPersons": "区内にお住まいの18歳未満のお子さんとそのご家族",
+        "lessThan": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "利用できる日・時間帯\n\n電話相談「千代田っこホットライン」\n\n24時間365日\n（注意） 夜間（午後5時から翌午前9時まで）と日曜・祝日は継続相談の対応はできません。\n「千代田っこホットライン」\n電話番号：03-3256-8150\n\n来所相談\n\n月曜日～土曜日（祝日・年末年始は除く）午前9時～午後5時\nあらかじめ電話で相談・予約してください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kosodate/sogosodan/index.html",
+        "title": "子どもと家庭にかかわる総合相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部児童・家庭支援センター子ども家庭相談係",
+        "contactPhone": "03-5298-5521",
+        "contactEx": null,
+        "contactEmail": "jidousoudan@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1010048",
+        "contactAddress": "東京都千代田区神田司町2-16　神田さくら館6階"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+3+UM119",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部児童・家庭支援センター子ども家庭相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2020-09-30",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第10条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087",
+          "092"
+        ],
+        "contentsCode": [
+          "082"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "千代田区の妊娠・出産に関する相談",
+        "shortName": "ままぱぱ面談（妊婦の全数面談事業）"
+      },
+      "summary": "区内在住で、妊娠届を提出されたすべての妊婦さんを対象とし、ままぱぱ面談を行っています。千代田区役所または千代田保健所で妊娠届を提出された方はその場で面談を受けることができます。",
+      "description": "妊娠・出産・育児について、さまざまな不安や悩みは誰もがあることです。一緒にご家庭にあった、出産準備や育児の方法を考えていきましょう。これからママ、パパになる方の、こころと体の状態を把握するためのチェックも行っています。\n\n面談受付時間\n平日9時～17時（最終受付：16時30分）\n\n千代田保健所では予約制で、土曜日も実施しています（妊娠届の提出も可）。",
+      "target": {
+        "targetPersons": "区内在住（住民登録のある方）で、妊娠届を提出された妊婦",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "初回面談を受けた方には、妊娠期に活用できる「こども商品券1万円」をお渡ししています。",
+        "monetarySupport": "初回面談を受けた方には、妊娠期に活用できる「こども商品券1万円」をお渡ししています。",
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": "09:00",
+        "toYMD": null,
+        "toHM": "17:00",
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "・千代田保健所6階保健サービス課\n・千代田区役所2階子育て推進課（総合窓口課に妊娠届を提出後、子育て推進課へお越しください。）",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "千代田区役所または千代田保健所で妊娠届を提出された方はその場で面談を受けることができます。区役所では、保健所とオンラインで面談ができ、ご希望の方には、子育てコーディネーターから保育園などの子育て支援サービスの案内を受けることができます。出張所で妊娠届を提出された方は、後日、面談場所へお越しください。\n\n千代田保健所では予約制で、土曜日も実施しています（妊娠届の提出も可）。ご予約はお電話（電話番号：03-5211-8175）、もしくはポータルサイトからお願いします。ポータルサイトの利用方法については以下をご覧ください。\n・ポータルサイトの初回アカウント登録方法について（PDF：393KB）;https://www.city.chiyoda.lg.jp/documents/16050/torokuhoho.pdf",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": "母子健康手帳（妊娠届提出時にお渡しします。）",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "千代田区役所または千代田保健所",
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/16050/mendan-chirashi_1.pdf",
+          "title": "ままぱぱ面談ちらし（PDF：270KB）"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/ninshin/chiyomama.html",
+        "title": "ままぱぱ面談（妊婦の全数面談事業）"
+      },
+      "formLink": [
+        {
+          "uri": "https://chiyoda-portal.my.site.com/ctz/topPage",
+          "title": "（外部サイトへリンク）"
+        }
+      ],
+      "contact": {
+        "contactName": "千代田保健所保健サービス課保健相談係",
+        "contactPhone": "03-5211-8175",
+        "contactEx": null,
+        "contactEmail": "hokensoudan@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1020073",
+        "contactAddress": "東京都千代田区九段北1-2-14"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+3+UM47",
+        "organization": "8000020131016",
+        "compartment": "千代田保健所保健サービス課保健相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
+        ],
+        "contentsCode": [
+          "082"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "自治体独自の子育てに関するサポート",
+        "shortName": "はばたきプラン"
+      },
+      "summary": "はばたきプランは、障害や発達に課題のある子どもとその保護者が、将来に渡り適切な支援と切れ目のないサービスを受け、安心して暮らし続けることができるように、子どもの成長と将来を見渡す計画です。",
+      "description": "はばたきプランは、障害や発達に課題のある子どもとその保護者が、将来に渡り適切な支援と切れ目のないサービスを受け、安心して暮らし続けることができるように、子どもの成長と将来を見渡す計画です。\n\nお子さんの発達に不安がある方は、1人で抱え込まずに相談してください（個人情報は守られます）。\n\n・はばたきプランのご案内（PDF：1,054KB）\n\nはばたきプランでできること\n\n子どもの将来を見渡した支援の全体像が分かります\n\nはばたきプランの作成\n\n一人ひとりの子どもの成長や発達に合わせて、生まれてから就労までの将来を見渡すプランを作成します。また、相談員などのプランナーとの面談を通して、出生・入園・入学などのライフステージごとに最適な支援やサービスをご案内します。これにより、子どもの発達や子育てなどで不安や心配事でできないよう、しっかりとした計画を立てることができます。\n\n子どもの情報が整理でき、共有できます\n\n子育てカルテの作成\n\nはばたきプランを作成する中で確認した支援などの情報をまとめた「子育てカルテ」を作成します。作成した「子育てカルテ」は、保護者のご希望に応じて子どもが利用する関係機関との共有や連携に用いることができます。これにより、18歳に至るまでの貴重な子どもの支援情報を整理し、切れ目のない支援を受けることができます。\n\n自分が利用できる福祉サービスなどが分かり、申請に必要な計画が作成できます\n\n相談や障害児支援利用計画などの作成\n\nはばたきプランを作成するための相談の中で、児童福祉法などのサービスを利用している方は、その申請の際に必要となる「障害児支援利用計画」などを作成することができます。",
+      "target": {
+        "targetPersons": "18歳までの障害のあるお子さんや発達に関して気がかりや心配のあるお子さんとその保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 18,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "申込方法など、詳しくはお問い合わせください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [
+        {
+          "uri": "https://www.city.chiyoda.lg.jp/documents/19026/kodomoplan-annai.pdf",
+          "title": "子どもケアプランのご案内（PDF：1"
+        }
+      ],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kodomoplan-uketsuke.html",
+        "title": "子どもケアプランの受け付けが始まります"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "教育委員会事務局子ども部児童・家庭支援センター発達支援係",
+        "contactPhone": "03-5296-9281",
+        "contactEx": null,
+        "contactEmail": "hattatsusoudan@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1010048",
+        "contactAddress": "東京都千代田区神田司町2-16　神田さくら館6階"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+4+UM106",
+        "organization": "8000020131016",
+        "compartment": "教育委員会事務局子ども部児童・家庭支援センター発達支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2019-10-31",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": null,
+        "regulationArticle": null
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "025"
+        ],
+        "targetCode": [
+          "087",
+          "090"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "千代田区の子育てに関する相談",
+        "shortName": "アレルギー総合相談"
+      },
+      "summary": "お子さんのアレルギー疾患について、小児科医、保健師、栄養士による相談を行います。",
+      "description": "お子さんのアレルギー疾患について、小児科医、保健師、栄養士による相談を行います。\n\n実施日時\n\n1歳6か月児健康診査の際に併せて実施しています。\nいずれの日も受付時間は午前9時30分～10時です。\n\nアレルギー総合相談実施日\n\n令和6年4月9日（火曜日）\n令和6年5月14日（火曜日）\n令和6年5月28日（火曜日）\n令和6年6月11日（火曜日）\n令和6年7月9日（火曜日）\n令和6年8月27日（火曜日）\n令和6年9月10日（火曜日）\n令和6年10月8日（火曜日）\n令和6年10月29日（火曜日）\n令和6年11月12日（火曜日）\n令和6年12月10日（火曜日）\n令和7年1月14日（火曜日）\n令和7年1月28日（火曜日）\n令和7年2月25日（火曜日）\n令和7年3月11日（火曜日）",
+      "target": {
+        "targetPersons": "区内在住の0歳から15歳（義務教育就学児）までのお子さんとその保護者",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": 15,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": 0,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "千代田保健所",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": "09:30",
+        "toHM": "10:00",
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "予約制です。電話でお申し込みください。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "千代田保健所保健サービス課保健相談係",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.chiyoda.lg.jp/koho/kosodate/kosodate/kenko/allergie-sogo.html",
+        "title": "アレルギー総合相談"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "千代田保健所保健サービス課保健相談係",
+        "contactPhone": "03-5211-8175",
+        "contactEx": null,
+        "contactEmail": "hokensoudan@city.chiyoda.lg.jp",
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": "1020073",
+        "contactAddress": "東京都千代田区九段北1-2-14"
+      },
+      "area": {
+        "areaCode": "131016;千代田区",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020131016+4+UM119",
+        "organization": "8000020131016",
+        "compartment": "千代田保健所保健サービス課保健相談係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-02",
+        "updater": "千代田区",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第9条"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "082"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}

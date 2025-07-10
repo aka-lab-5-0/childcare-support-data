@@ -1,0 +1,623 @@
+{
+  "version": "2025-07-10T02:38:54.124Z",
+  "areaCode": "132055",
+  "areaName": "青梅市",
+  "category": "education",
+  "count": 5,
+  "items": [
+    {
+      "institutionName": {
+        "canonicalName": "乳児家庭全戸訪問（こんにちは赤ちゃん訪問）",
+        "shortName": "こんにちは赤ちゃん事業"
+      },
+      "summary": "生後4か月を迎えるまでの乳児がいるご家庭には専門職のほか、研修を受けたスタッフが訪問し、不安や悩みをお聞きしたり、子育て支援に関する情報提供、親子の心身の状況や養育環境等の把握や助言を行い、支援が必要なご家庭は適切なサービスにつなげます。（なお、必要に応じて生後4か月以降でも訪問する場合があります。）",
+      "description": "こんにちは赤ちゃん事業\n青梅市では、「こんにちは赤ちゃん事業」を実施しています。\n\nこの事業は、赤ちゃんのお生まれになったご家庭と地域社会をつなぐ第一歩として地域の民生・児童委員さんやこども家庭センターの職員が各ご家庭を訪問し、青梅市で実施している「子育て支援に関する事業」のお知らせと、「ブックスタート事業」による赤ちゃんに読み聞かせをするための絵本をお渡しする事業です。\n\n本事業は、児童福祉法にもとづく乳児家庭全戸訪問事業として、実施している事業です。\n\n訪問の内容\n訪問時に、保護者（父・母）の方から、子育ての状況を伺わせていただくものです。概ね5分程度の訪問となりますが、みなさまのご協力をお願いいたします。",
+      "target": {
+        "targetPersons": "市内にお住まいの生後4か月までの赤ちゃんのいるすべてのご家庭を対象",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": null
+      },
+      "support": {
+        "description": "「子育て支援ガイド」等の子育て支援施策の資料と「絵本」をお渡し",
+        "monetarySupport": null,
+        "materiallySupport": "支援施策の資料と「絵本」"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": "家庭",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "なお、「訪問のお知らせ」に記載された訪問日程のご都合が悪い場合、日程変更が可能ですので、こども家庭センターまで、ご連絡をお願いいたします。"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "赤ちゃんの生まれ月の2か月後に訪問させていただきますが、ご家庭訪問する際に、事前に「訪問のお知らせ」をいたします。",
+      "procedurePersons": null,
+      "procedureMethod": null,
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ome.tokyo.jp/soshiki/74/66442.html",
+        "title": "こんにちは赤ちゃん事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター こども家庭支援係",
+        "contactPhone": "Tel：0428-24-2126",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": "青梅市東青梅1-174-1（健康センター内）"
+      },
+      "area": {
+        "areaCode": "132055;青梅市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132055+1+UM14",
+        "organization": "8000020132055",
+        "compartment": "こども家庭センター こども家庭支援係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2024/04/01",
+      "odInformation": {
+        "updateDate": "2025-02-28",
+        "updater": "青梅市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "児童福祉法",
+        "regulationArticle": "第21条の10の２"
+      },
+      "tag": {
+        "categoryCode": [
+          "003"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産後ケア事業",
+        "shortName": "青梅市産後ケア事業　日帰り型"
+      },
+      "summary": "出産を終えた退院後、お母さんと赤ちゃんの生活リズムづくりや、心身の安定を図るため、施設においてショートステイ（宿泊）やデイサービス（日帰り）で、助産師などが母子の心身ケアと育児サポートを行います。",
+      "description": "青梅市産後ケア事業\n産後ケア事業をご利用ください\n産後ケア事業とは、出産後のお母さんの育児を支援するため、助産師による母子ケアを実施する事業です。\n「出産後の体調がすぐれない」「育児に不安があるけれど身近に頼れる人がいない」そんな産後のお母さん向けのサービスです。\n\n令和5年11月1日から利用者負担額が変更になりました\n産後ケア事業の利用者負担額が変更となりました。\n令和5年11月1日利用分からの利用者負担額について、詳しくは内容・利用回数・利用料・利用の流れ等;https://www.city.ome.tokyo.jp/soshiki/74/69779.html#naiyouのpdfファイルをご確認ください。\n\n対象者\n青梅市在住の産後4日目から産後4か月未満(訪問型は1歳未満)のお母さんと赤ちゃんで、下記のいずれかに該当する方\n・産後に心身の不調のある方\n・育児不安などがあり、具体的な指導や助言の必要な方\n・家族等から十分な育児・家事等の支援が受けられない方\n(感染症にかかっている方・入院加療が必要な方は利用をお断りする場合があります)\n\n内容・利用回数・利用料・利用の流れ等\n産後ケア事業のご案内 [PDFファイル／3.05MB];https://www.city.ome.tokyo.jp/uploaded/attachment/52512.pdfをご確認ください。\n※利用には事前の申請が必要です。",
+      "target": {
+        "targetPersons": "青梅市在住の産後4日目から産後4か月未満(訪問型は1歳未満)のお母さんと赤ちゃんで、下記のいずれかに該当する方\n・産後に心身の不調のある方\n・育児不安などがあり、具体的な指導や助言の必要な方\n・家族等から十分な育児・家事等の支援が受けられない方\n(感染症にかかっている方・入院加療が必要な方は利用をお断りする場合があります)",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "産後4日目から産後4か月未満の赤ちゃん"
+      },
+      "support": {
+        "description": "産後ケア事業とは、出産後のお母さんの育児を支援するため、助産師による母子ケアを実施する事業です。「出産後の体調がすぐれない」「育児に不安があるけれど身近に頼れる人がいない」そんな産後のお母さん向けのサービスです。\n\nどんなサービスが受けられるの？\n助産師が心身のケア・育児の支援を行います。\nお母さんと赤ちゃんの状況に応じて必要なケアを提供します。\nたとえば･･･　おっぱいのケア、授乳方法の相談ができます。赤ちゃんをお預かりして、休息をとることができます。育児相談ができます。",
+        "monetarySupport": null,
+        "materiallySupport": "産後ケア事業とは、出産後のお母さんの育児を支援するため、助産師による母子ケアを実施する事業です。「出産後の体調がすぐれない」「育児に不安があるけれど身近に頼れる人がいない」そんな産後のお母さん向けのサービスです。\n\nどんなサービスが受けられるの？\n助産師が心身のケア・育児の支援を行います。\nお母さんと赤ちゃんの状況に応じて必要なケアを提供します。\nたとえば･･･　おっぱいのケア、授乳方法の相談ができます。赤ちゃんをお預かりして、休息をとることができます。育児相談ができます。"
+      },
+      "cost": null,
+      "costConditions": "１回 ５００円\n通算利用回数６回目以降\n１回 ３０００円",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "利用期間 産後４日目～４か月"
+      },
+      "implementationPlace": {
+        "implementationName": "産後ケア事業のご案内 [PDFファイル／3.05MB];https://www.city.ome.tokyo.jp/uploaded/attachment/52512.pdf",
+        "implementationAddress": "産後ケア事業のご案内 [PDFファイル／3.05MB];https://www.city.ome.tokyo.jp/uploaded/attachment/52512.pdf"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "産後ケア事業のご案内 [PDFファイル／3.05MB];https://www.city.ome.tokyo.jp/uploaded/attachment/52512.pdf"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "内容・利用回数・利用料・利用の流れ等\n産後ケア事業のご案内 [PDFファイル／3.05MB];https://www.city.ome.tokyo.jp/uploaded/attachment/52512.pdfをご確認ください。\n※利用には事前の申請が必要です。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "青梅市子育て世代包括支援センター\n０４２８－２１－０７７０（直通）\n受付時間 月曜日～金曜日 8：30～17：00",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ome.tokyo.jp/soshiki/74/69779.html",
+        "title": "青梅市産後ケア事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター,子育て世代包括支援センター",
+        "contactPhone": "0428-21-0770",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132055;青梅市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132055+1+UM15",
+        "organization": "8000020132055",
+        "compartment": "こども家庭センター,子育て世代包括支援センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-11-01",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "青梅市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条の2（産後ケア事業）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "乳幼児健康診査（6か月未満児）",
+        "shortName": "3～4か月児健康診査"
+      },
+      "summary": "お子さんの病気の予防と病気の早期発見、そして健康保持と増進を目的として3か月児健康診査を実施しています。",
+      "description": "乳幼児健康診査\n赤ちゃんや幼児の発育・発達の確認、疾病の早期発見を目的に、健康診査を実施し、生活習慣、栄養、育児、むし歯予防などに関する指導を行っています。\n乳幼児健康診査\n|事業名|実施曜日|受付時間|所要時間|\n|:----|:----|:----|:----|\n|3～4か月児健康診査|第1または第3水曜日|午後1時から1時50分|約1時間30分程度|\n|1歳6か月児健康診査<br>1歳6か月児歯科健康診査|第1・3金曜日|午後1時10分から1時50分|約1時間30分程度|\n|3歳児健康診査<br>3歳児歯科健康診査|第1・3火曜日|午後1時10分から1時50分|約1時間30分程度|\n \n健康診査を受診するにあたって\n生後3か月、1歳6か月、3歳をそれぞれ迎える月の上旬に、対象となるお子様宛に受診票をお送りしております。予約は不要ですので、同封の通知に記載されてる候補日に健康センターにお越しください。\n\n持ち物\n・健康診査受診票（対象の方に送付しています。表裏ご記入の上お持ちください。）\n・母子健康手帳\n・おむつ（お子様が使用している場合）\n・保険証\n・バスタオル\n・使用中のお子様の歯ブラシ（1歳6か月児健康診査のみ）\n・目と耳のアンケート・朝採った尿（3歳児健康診査のみ）\n※その他注意事項は、受診票に同封されている通知をご確認ください。\n\n青梅市に転入された方は\n転入された時期によっては、健康診査の受診票が送付されない場合がございます。受診票が届かない場合は、恐れ入りますが母子手帳をお持ちの上、事前に健康センターにお越しください。\n\n令和5年度の乳幼児健康診査実施日\n|月|3～4か月児<br>健康診査|<|1歳6か月児<br>健康診査|<|3歳児<br>健康診査|<|\n|^|日|曜日|日|曜日|日|曜日|\n|:----|:----|:----|:----|:----|:----|:----|\n|4月|5|水|7|金|4|火|\n|^|19|水|21|金|18|火|\n|5月|17|水|12|金|9|火|\n|^|^|^|19|金|16|火|\n|6月|7|水|2|金|6|火|\n|^|21|水|16|金|20|火|\n|7月|19|水|7|金|4|火|\n|^|^|^|21|金|18|火|\n|8月|2|水|4|金|1|火|\n|^|23|水|18|金|22|火|\n|9月|20|水|1|金|5|火|\n|^|^|^|15|金|19|火|\n|10月|4|水|6|金|3|火|\n|^|18|水|20|金|17|火|\n|11月|15|水|10|金|7|火|\n|^|^|^|17|金|21|火|\n|12月|6|水|1|金|5|火|\n|^|20|水|15|金|19|火|\n|1月|17|水|5|金|9|火|\n|^|^|^|19|金|16|火|\n|2月|7|水|2|金|6|火|\n|^|21|水|16|金|20|火|\n|3月|6|水|1|金|5|火|\n|^|^|^|15|金|19|火|",
+      "target": {
+        "targetPersons": "3～4か月児",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": 3
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "3～4か月児"
+      },
+      "support": {
+        "description": "赤ちゃんや幼児の発育・発達の確認、疾病の早期発見を目的に、健康診査を実施し、生活習慣、栄養、育児、むし歯予防などに関する指導を行っています。\n|事業名|実施曜日|受付時間|所要時間|\n|:----|:----|:----|:----|\n|3～4か月児健康診査|第1または第3水曜日|午後1時から1時50分|約1時間30分程度|\n|1歳6か月児健康診査<br>1歳6か月児歯科健康診査|第1・3金曜日|午後1時10分から1時50分|約1時間30分程度|\n|3歳児健康診査<br>3歳児歯科健康診査|第1・3火曜日|午後1時10分から1時50分|約1時間30分程度|\n\n令和5年度の乳幼児健康診査実施日\n|月|3～4か月児<br>健康診査|<|1歳6か月児<br>健康診査|<|3歳児<br>健康診査|<|\n|^|日|曜日|日|曜日|日|曜日|\n|:----|:----|:----|:----|:----|:----|:----|\n|4月|5|水|7|金|4|火|\n|^|19|水|21|金|18|火|\n|5月|17|水|12|金|9|火|\n|^|^|^|19|金|16|火|\n|6月|7|水|2|金|6|火|\n|^|21|水|16|金|20|火|\n|7月|19|水|7|金|4|火|\n|^|^|^|21|金|18|火|\n|8月|2|水|4|金|1|火|\n|^|23|水|18|金|22|火|\n|9月|20|水|1|金|5|火|\n|^|^|^|15|金|19|火|\n|10月|4|水|6|金|3|火|\n|^|18|水|20|金|17|火|\n|11月|15|水|10|金|7|火|\n|^|^|^|17|金|21|火|\n|12月|6|水|1|金|5|火|\n|^|20|水|15|金|19|火|\n|1月|17|水|5|金|9|火|\n|^|^|^|19|金|16|火|\n|2月|7|水|2|金|6|火|\n|^|21|水|16|金|20|火|\n|3月|6|水|1|金|5|火|\n|^|^|^|15|金|19|火|",
+        "monetarySupport": null,
+        "materiallySupport": "赤ちゃんや幼児の発育・発達の確認、疾病の早期発見を目的に、健康診査を実施し、生活習慣、栄養、育児、むし歯予防などに関する指導を行っています。\n|事業名|実施曜日|受付時間|所要時間|\n|:----|:----|:----|:----|\n|3～4か月児健康診査|第1または第3水曜日|午後1時から1時50分|約1時間30分程度|\n|1歳6か月児健康診査<br>1歳6か月児歯科健康診査|第1・3金曜日|午後1時10分から1時50分|約1時間30分程度|\n|3歳児健康診査<br>3歳児歯科健康診査|第1・3火曜日|午後1時10分から1時50分|約1時間30分程度|\n\n令和5年度の乳幼児健康診査実施日\n|月|3～4か月児<br>健康診査|<|1歳6か月児<br>健康診査|<|3歳児<br>健康診査|<|\n|^|日|曜日|日|曜日|日|曜日|\n|:----|:----|:----|:----|:----|:----|:----|\n|4月|5|水|7|金|4|火|\n|^|19|水|21|金|18|火|\n|5月|17|水|12|金|9|火|\n|^|^|^|19|金|16|火|\n|6月|7|水|2|金|6|火|\n|^|21|水|16|金|20|火|\n|7月|19|水|7|金|4|火|\n|^|^|^|21|金|18|火|\n|8月|2|水|4|金|1|火|\n|^|23|水|18|金|22|火|\n|9月|20|水|1|金|5|火|\n|^|^|^|15|金|19|火|\n|10月|4|水|6|金|3|火|\n|^|18|水|20|金|17|火|\n|11月|15|水|10|金|7|火|\n|^|^|^|17|金|21|火|\n|12月|6|水|1|金|5|火|\n|^|20|水|15|金|19|火|\n|1月|17|水|5|金|9|火|\n|^|^|^|19|金|16|火|\n|2月|7|水|2|金|6|火|\n|^|21|水|16|金|20|火|\n|3月|6|水|1|金|5|火|\n|^|^|^|15|金|19|火|"
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "乳幼児健康診査\n|事業名|実施曜日|受付時間|所要時間|\n|:----|:----|:----|:----|\n|3～4か月児健康診査|第1または第3水曜日|午後1時から1時50分|約1時間30分程度|\n|1歳6か月児健康診査<br>1歳6か月児歯科健康診査|第1・3金曜日|午後1時10分から1時50分|約1時間30分程度|\n|3歳児健康診査<br>3歳児歯科健康診査|第1・3火曜日|午後1時10分から1時50分|約1時間30分程度|\n\n令和5年度の乳幼児健康診査実施日\n|月|3～4か月児<br>健康診査|<|1歳6か月児<br>健康診査|<|3歳児<br>健康診査|<|\n|^|日|曜日|日|曜日|日|曜日|\n|:----|:----|:----|:----|:----|:----|:----|\n|4月|5|水|7|金|4|火|\n|^|19|水|21|金|18|火|\n|5月|17|水|12|金|9|火|\n|^|^|^|19|金|16|火|\n|6月|7|水|2|金|6|火|\n|^|21|水|16|金|20|火|\n|7月|19|水|7|金|4|火|\n|^|^|^|21|金|18|火|\n|8月|2|水|4|金|1|火|\n|^|23|水|18|金|22|火|\n|9月|20|水|1|金|5|火|\n|^|^|^|15|金|19|火|\n|10月|4|水|6|金|3|火|\n|^|18|水|20|金|17|火|\n|11月|15|水|10|金|7|火|\n|^|^|^|17|金|21|火|\n|12月|6|水|1|金|5|火|\n|^|20|水|15|金|19|火|\n|1月|17|水|5|金|9|火|\n|^|^|^|19|金|16|火|\n|2月|7|水|2|金|6|火|\n|^|21|水|16|金|20|火|\n|3月|6|水|1|金|5|火|\n|^|^|^|15|金|19|火|\n\n"
+      },
+      "implementationPlace": {
+        "implementationName": "健康センター",
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "乳幼児健康診査\n|事業名|実施曜日|受付時間|所要時間|\n|:----|:----|:----|:----|\n|3～4か月児健康診査|第1または第3水曜日|午後1時から1時50分|約1時間30分程度|\n|1歳6か月児健康診査<br>1歳6か月児歯科健康診査|第1・3金曜日|午後1時10分から1時50分|約1時間30分程度|\n|3歳児健康診査<br>3歳児歯科健康診査|第1・3火曜日|午後1時10分から1時50分|約1時間30分程度|\n\n令和5年度の乳幼児健康診査実施日\n|月|3～4か月児<br>健康診査|<|1歳6か月児<br>健康診査|<|3歳児<br>健康診査|<|\n|^|日|曜日|日|曜日|日|曜日|\n|:----|:----|:----|:----|:----|:----|:----|\n|4月|5|水|7|金|4|火|\n|^|19|水|21|金|18|火|\n|5月|17|水|12|金|9|火|\n|^|^|^|19|金|16|火|\n|6月|7|水|2|金|6|火|\n|^|21|水|16|金|20|火|\n|7月|19|水|7|金|4|火|\n|^|^|^|21|金|18|火|\n|8月|2|水|4|金|1|火|\n|^|23|水|18|金|22|火|\n|9月|20|水|1|金|5|火|\n|^|^|^|15|金|19|火|\n|10月|4|水|6|金|3|火|\n|^|18|水|20|金|17|火|\n|11月|15|水|10|金|7|火|\n|^|^|^|17|金|21|火|\n|12月|6|水|1|金|5|火|\n|^|20|水|15|金|19|火|\n|1月|17|水|5|金|9|火|\n|^|^|^|19|金|16|火|\n|2月|7|水|2|金|6|火|\n|^|21|水|16|金|20|火|\n|3月|6|水|1|金|5|火|\n|^|^|^|15|金|19|火|\n\n"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": "生後3か月を迎える月の上旬に、対象となるお子様宛に受診票をお送りしております。予約は不要ですので、同封の通知に記載されてる候補日に健康センターにお越しください。",
+      "procedurePersons": null,
+      "procedureMethod": "健康診査を受診するにあたって\n生後3か月を迎える月の上旬に、対象となるお子様宛に受診票をお送りしております。予約は不要ですので、同封の通知に記載されてる候補日に健康センターにお越しください。\n\n持ち物\n・健康診査受診票（対象の方に送付しています。表裏ご記入の上お持ちください。）\n・母子健康手帳\n・おむつ（お子様が使用している場合）\n・保険証\n・バスタオル\n・使用中のお子様の歯ブラシ（1歳6か月児健康診査のみ）\n・目と耳のアンケート・朝採った尿（3歳児健康診査のみ）\n※その他注意事項は、受診票に同封されている通知をご確認ください。\n\n青梅市に転入された方は\n転入された時期によっては、健康診査の受診票が送付されない場合がございます。受診票が届かない場合は、恐れ入りますが母子手帳をお持ちの上、事前に健康センターにお越しください。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": "持ち物\n・健康診査受診票（対象の方に送付しています。表裏ご記入の上お持ちください。）\n・母子健康手帳\n・おむつ（お子様が使用している場合）\n・保険証\n・バスタオル\n・使用中のお子様の歯ブラシ（1歳6か月児健康診査のみ）\n・目と耳のアンケート・朝採った尿（3歳児健康診査のみ）\n※その他注意事項は、受診票に同封されている通知をご確認ください。",
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ome.tokyo.jp/soshiki/74/66711.html",
+        "title": "乳幼児健康診査"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター母子保健係",
+        "contactPhone": "0428-23-2191",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132055;青梅市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132055+1+UM49",
+        "organization": "8000020132055",
+        "compartment": "こども家庭センター母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-04-01",
+      "odInformation": {
+        "updateDate": "2024-07-03",
+        "updater": "青梅市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第13条（健康診査）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産後ケア事業",
+        "shortName": "青梅市産後ケア事業　訪問型"
+      },
+      "summary": "出産を終えた退院後、お母さんと赤ちゃんの生活リズムづくりや、心身の安定を図るため、施設においてショートステイ（宿泊）やデイサービス（日帰り）で、助産師などが母子の心身ケアと育児サポートを行います。",
+      "description": "青梅市産後ケア事業\n産後ケア事業をご利用ください\n産後ケア事業とは、出産後のお母さんの育児を支援するため、助産師による母子ケアを実施する事業です。\n「出産後の体調がすぐれない」「育児に不安があるけれど身近に頼れる人がいない」そんな産後のお母さん向けのサービスです。\n\n令和5年11月1日から利用者負担額が変更になりました\n産後ケア事業の利用者負担額が変更となりました。\n令和5年11月1日利用分からの利用者負担額について、詳しくは内容・利用回数・利用料・利用の流れ等;https://www.city.ome.tokyo.jp/soshiki/74/69779.html#naiyouのpdfファイルをご確認ください。\n\n対象者\n青梅市在住の産後4日目から産後4か月未満(訪問型は1歳未満)のお母さんと赤ちゃんで、下記のいずれかに該当する方\n・産後に心身の不調のある方\n・育児不安などがあり、具体的な指導や助言の必要な方\n・家族等から十分な育児・家事等の支援が受けられない方\n(感染症にかかっている方・入院加療が必要な方は利用をお断りする場合があります)\n\n内容・利用回数・利用料・利用の流れ等\n産後ケア事業のご案内 [PDFファイル／3.05MB];https://www.city.ome.tokyo.jp/uploaded/attachment/52512.pdfをご確認ください。\n※利用には事前の申請が必要です。",
+      "target": {
+        "targetPersons": "青梅市在住の産後4日目から1歳未満のお母さんと赤ちゃんで、下記のいずれかに該当する方\n・産後に心身の不調のある方\n・育児不安などがあり、具体的な指導や助言の必要な方\n・家族等から十分な育児・家事等の支援が受けられない方\n(感染症にかかっている方・入院加療が必要な方は利用をお断りする場合があります)",
+        "lessThan": {
+          "targetAge": 1,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "産後4日目から1歳未満の赤ちゃん"
+      },
+      "support": {
+        "description": "産後ケア事業とは、出産後のお母さんの育児を支援するため、助産師による母子ケアを実施する事業です。「出産後の体調がすぐれない」「育児に不安があるけれど身近に頼れる人がいない」そんな産後のお母さん向けのサービスです。\n\nどんなサービスが受けられるの？\n助産師が心身のケア・育児の支援を行います。\nお母さんと赤ちゃんの状況に応じて必要なケアを提供します。\nたとえば･･･　おっぱいのケア、授乳方法の相談ができます。赤ちゃんをお預かりして、休息をとることができます。育児相談ができます。",
+        "monetarySupport": null,
+        "materiallySupport": "産後ケア事業とは、出産後のお母さんの育児を支援するため、助産師による母子ケアを実施する事業です。「出産後の体調がすぐれない」「育児に不安があるけれど身近に頼れる人がいない」そんな産後のお母さん向けのサービスです。\n\nどんなサービスが受けられるの？\n助産師が心身のケア・育児の支援を行います。\nお母さんと赤ちゃんの状況に応じて必要なケアを提供します。\nたとえば･･･　おっぱいのケア、授乳方法の相談ができます。赤ちゃんをお預かりして、休息をとることができます。育児相談ができます。"
+      },
+      "cost": null,
+      "costConditions": "無料\n通算利用回数６回目以降\n１回 １０００円",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "利用期間 産後４日目～１年"
+      },
+      "implementationPlace": {
+        "implementationName": "産後ケア事業のご案内 [PDFファイル／3.05MB];https://www.city.ome.tokyo.jp/uploaded/attachment/52512.pdf",
+        "implementationAddress": "産後ケア事業のご案内 [PDFファイル／3.05MB];https://www.city.ome.tokyo.jp/uploaded/attachment/52512.pdf"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "産後ケア事業のご案内 [PDFファイル／3.05MB];https://www.city.ome.tokyo.jp/uploaded/attachment/52512.pdf"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "内容・利用回数・利用料・利用の流れ等\n産後ケア事業のご案内 [PDFファイル／3.05MB];https://www.city.ome.tokyo.jp/uploaded/attachment/52512.pdfをご確認ください。\n※利用には事前の申請が必要です。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "青梅市子育て世代包括支援センター\n０４２８－２１－０７７０（直通）\n受付時間 月曜日～金曜日 8：30～17：00",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ome.tokyo.jp/soshiki/74/69779.html",
+        "title": "青梅市産後ケア事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター,子育て世代包括支援センター",
+        "contactPhone": "0428-21-0770",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132055;青梅市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132055+2+UM15",
+        "organization": "8000020132055",
+        "compartment": "こども家庭センター,子育て世代包括支援センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-11-01",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "青梅市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条の2（産後ケア事業）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "産後ケア事業",
+        "shortName": "青梅市産後ケア事業　宿泊型"
+      },
+      "summary": "出産を終えた退院後、お母さんと赤ちゃんの生活リズムづくりや、心身の安定を図るため、施設においてショートステイ（宿泊）やデイサービス（日帰り）で、助産師などが母子の心身ケアと育児サポートを行います。",
+      "description": "青梅市産後ケア事業\n産後ケア事業をご利用ください\n産後ケア事業とは、出産後のお母さんの育児を支援するため、助産師による母子ケアを実施する事業です。\n「出産後の体調がすぐれない」「育児に不安があるけれど身近に頼れる人がいない」そんな産後のお母さん向けのサービスです。\n\n令和5年11月1日から利用者負担額が変更になりました\n産後ケア事業の利用者負担額が変更となりました。\n令和5年11月1日利用分からの利用者負担額について、詳しくは内容・利用回数・利用料・利用の流れ等;https://www.city.ome.tokyo.jp/soshiki/74/69779.html#naiyouのpdfファイルをご確認ください。\n\n対象者\n青梅市在住の産後4日目から産後4か月未満(訪問型は1歳未満)のお母さんと赤ちゃんで、下記のいずれかに該当する方\n・産後に心身の不調のある方\n・育児不安などがあり、具体的な指導や助言の必要な方\n・家族等から十分な育児・家事等の支援が受けられない方\n(感染症にかかっている方・入院加療が必要な方は利用をお断りする場合があります)\n\n内容・利用回数・利用料・利用の流れ等\n産後ケア事業のご案内 [PDFファイル／3.05MB];https://www.city.ome.tokyo.jp/uploaded/attachment/52512.pdfをご確認ください。\n※利用には事前の申請が必要です。",
+      "target": {
+        "targetPersons": "青梅市在住の産後4日目から産後4か月未満(訪問型は1歳未満)のお母さんと赤ちゃんで、下記のいずれかに該当する方\n・産後に心身の不調のある方\n・育児不安などがあり、具体的な指導や助言の必要な方\n・家族等から十分な育児・家事等の支援が受けられない方\n(感染症にかかっている方・入院加療が必要な方は利用をお断りする場合があります)",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": 4
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "産後4日目から産後4か月未満の赤ちゃん"
+      },
+      "support": {
+        "description": "産後ケア事業とは、出産後のお母さんの育児を支援するため、助産師による母子ケアを実施する事業です。「出産後の体調がすぐれない」「育児に不安があるけれど身近に頼れる人がいない」そんな産後のお母さん向けのサービスです。\n\nどんなサービスが受けられるの？\n助産師が心身のケア・育児の支援を行います。\nお母さんと赤ちゃんの状況に応じて必要なケアを提供します。\nたとえば･･･　おっぱいのケア、授乳方法の相談ができます。赤ちゃんをお預かりして、休息をとることができます。育児相談ができます。",
+        "monetarySupport": null,
+        "materiallySupport": "産後ケア事業とは、出産後のお母さんの育児を支援するため、助産師による母子ケアを実施する事業です。「出産後の体調がすぐれない」「育児に不安があるけれど身近に頼れる人がいない」そんな産後のお母さん向けのサービスです。\n\nどんなサービスが受けられるの？\n助産師が心身のケア・育児の支援を行います。\nお母さんと赤ちゃんの状況に応じて必要なケアを提供します。\nたとえば･･･　おっぱいのケア、授乳方法の相談ができます。赤ちゃんをお預かりして、休息をとることができます。育児相談ができます。"
+      },
+      "cost": null,
+      "costConditions": "1 回 ３５００円\n通算利用回数６回目以降\n１回 ６０００円",
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": "利用期間 産後４日目～４か月"
+      },
+      "implementationPlace": {
+        "implementationName": "産後ケア事業のご案内 [PDFファイル／3.05MB];https://www.city.ome.tokyo.jp/uploaded/attachment/52512.pdf",
+        "implementationAddress": "産後ケア事業のご案内 [PDFファイル／3.05MB];https://www.city.ome.tokyo.jp/uploaded/attachment/52512.pdf"
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": "産後ケア事業のご案内 [PDFファイル／3.05MB];https://www.city.ome.tokyo.jp/uploaded/attachment/52512.pdf"
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "内容・利用回数・利用料・利用の流れ等\n産後ケア事業のご案内 [PDFファイル／3.05MB];https://www.city.ome.tokyo.jp/uploaded/attachment/52512.pdfをご確認ください。\n※利用には事前の申請が必要です。",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": false,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": "青梅市子育て世代包括支援センター\n０４２８－２１－０７７０（直通）\n受付時間 月曜日～金曜日 8：30～17：00",
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.ome.tokyo.jp/soshiki/74/69779.html",
+        "title": "青梅市産後ケア事業"
+      },
+      "formLink": [],
+      "contact": {
+        "contactName": "こども家庭センター,子育て世代包括支援センター",
+        "contactPhone": "0428-21-0770",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": null,
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132055;青梅市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+8000020132055+3+UM15",
+        "organization": "8000020132055",
+        "compartment": "こども家庭センター,子育て世代包括支援センター",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2023-11-01",
+      "odInformation": {
+        "updateDate": "2024-07-12",
+        "updater": "青梅市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第17条の2（産後ケア事業）"
+      },
+      "tag": {
+        "categoryCode": [
+          "003",
+          "027"
+        ],
+        "targetCode": [
+          "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    }
+  ]
+}
