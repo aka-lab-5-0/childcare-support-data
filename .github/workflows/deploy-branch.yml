@@ -1,0 +1,87 @@
+name: Deploy to gh-pages branch
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Create deployment structure
+        run: |
+          # 配信用のディレクトリを作成
+          mkdir -p deploy
+          
+          # 処理済みデータをコピー
+          cp -r data/processed/* deploy/
+          
+          # インデックスJSONファイルを作成
+          cat > deploy/index.json << 'EOF'
+          {
+            "name": "子育て支援データ配信API",
+            "description": "GovTech東京の子育て支援制度レジストリを基に、育児だGoアプリ向けに最適化されたデータを提供します。",
+            "version": "1.0.0",
+            "lastUpdated": "$(date -u +%Y-%m-%dT%H:%M:%S.%3NZ)",
+            "endpoints": {
+              "areas": {
+                "description": "地域別データ",
+                "pattern": "/by-area/{areaCode}.json",
+                "example": "/by-area/131130.json"
+              },
+              "categories": {
+                "description": "カテゴリ別データ",
+                "pattern": "/by-category/{category}/{areaCode}.json",
+                "example": "/by-category/vaccination/131130.json"
+              },
+              "metadata": {
+                "description": "メタデータ",
+                "endpoints": {
+                  "areas": "/metadata/areas.json",
+                  "categories": "/metadata/categories.json",
+                  "versions": "/metadata/versions.json"
+                }
+              }
+            },
+            "categories": [
+              {
+                "id": "vaccination",
+                "name": "予防接種"
+              },
+              {
+                "id": "childcare",
+                "name": "保育・一時預かり"
+              },
+              {
+                "id": "financial",
+                "name": "金銭支援"
+              },
+              {
+                "id": "medical",
+                "name": "医療・健診"
+              },
+              {
+                "id": "education",
+                "name": "教育・学習"
+              },
+              {
+                "id": "other",
+                "name": "その他"
+              }
+            ],
+            "updateSchedule": "毎日6:00 JST",
+            "sourceUrl": "https://data.storage.data.metro.tokyo.lg.jp/govtech/130001_kosodateshienseido_tokyo.json"
+          }
+          EOF
+          
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./deploy
+          force_orphan: true

@@ -1,5 +1,6 @@
 const fs = require('fs-extra');
 const path = require('path');
+const { mergeTokyoAreas } = require('./merge-tokyo-areas');
 
 const RAW_DATA_PATH = path.join(__dirname, '../data/raw/130001_kosodateshienseido_tokyo.json');
 const PROCESSED_DIR = path.join(__dirname, '../data/processed');
@@ -175,6 +176,10 @@ async function processData() {
     console.log(`- Categories: ${Object.keys(categoryStats).length}`);
     console.log(`- Area files: ${Object.keys(areaData).length}`);
     console.log(`- Category files: ${Object.values(categoryData).reduce((sum, areas) => sum + Object.keys(areas).length, 0)}`);
+    
+    // 東京都と市区町村のデータを結合
+    console.log('\nMerging Tokyo areas...');
+    await mergeTokyoAreas();
     
   } catch (error) {
     console.error('Error processing data:', error.message);

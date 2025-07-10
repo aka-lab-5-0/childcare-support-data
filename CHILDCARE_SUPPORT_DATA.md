@@ -117,6 +117,28 @@ childcare-support-data/
 ]
 ```
 
+**merged-areas.json**: 東京都と市区町村を結合した地域一覧
+```json
+[
+  {
+    "code": "130001_131130",
+    "name": "東京都渋谷区",
+    "itemCount": 176,  // 東京都(27) + 渋谷区(149)の合計
+    "lastUpdated": "2024-01-01T00:00:00.000Z",
+    "prefecture": {
+      "code": "130001",
+      "name": "東京都",
+      "itemCount": 27
+    },
+    "municipality": {
+      "code": "131130",
+      "name": "渋谷区",
+      "itemCount": 149
+    }
+  }
+]
+```
+
 **categories.json**: カテゴリ一覧
 ```json
 [
@@ -302,6 +324,7 @@ https://your-username.github.io/childcare-support-data/by-area/{areaCode}.json
 
 ### メタデータ
 - `/metadata/areas.json` - 利用可能地域一覧
+- `/metadata/merged-areas.json` - 東京都と市区町村を結合した地域一覧
 - `/metadata/categories.json` - カテゴリ一覧
 - `/metadata/versions.json` - バージョン情報
 
