@@ -1,9 +1,9 @@
 {
-  "version": "2025-08-13T06:29:54.674Z",
+  "version": "2025-08-14T06:29:53.001Z",
   "areaCode": "132144",
   "areaName": "国分寺市",
   "category": "other",
-  "count": 4,
+  "count": 5,
   "items": [
     {
       "institutionName": {
@@ -495,6 +495,133 @@
         ],
         "targetCode": [
           "087"
+        ],
+        "contentsCode": [
+          "079"
+        ]
+      },
+      "useConsiderationFlag": false
+    },
+    {
+      "institutionName": {
+        "canonicalName": "両親学級・妊婦学級",
+        "shortName": "令和７年度両親学級"
+      },
+      "summary": "令和７年度より両親学級を「ゆいぼっこ～地域につなげるサポーター＇S」に委託して実施します。",
+      "description": "\\ｎ妊娠期のクラス出産・産後に向けた心と体づくりのクラスです。出産に向けたからだと心をご夫婦で作りましょう！1．心と体づくりについて　2．簡単なエクササイズ　3．妊婦ジャケット体験（妊婦さんの体の負担を体験し、家事分担などの参考に）\\ｎ産後イメージクラス\\ｎ産後のお母さんの変化と赤ちゃんがいる生活をイメージしながら、家族の生活を考えましょう！1．沐浴体験　2．産後の生活について　3．参加者同士の情報交換など\\ｎ歯と栄養のおはなしのクラス　＆　ハンドリング\\ｎ1．お口の中の健康　2．妊娠中・産後の栄養　3．赤ちゃんのお世話に使えるハンドリング\\ｎ赤ちゃん人形を使って赤ちゃんのお世話を体験してみましょう！",
+      "target": {
+        "targetPersons": "国分寺市に住民登録がある主に初産の妊婦及びそのパートナー",
+        "lessThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "lessThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThanOrEqualTo": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "greaterThan": {
+          "targetAge": null,
+          "targetAgeOfMonths": null
+        },
+        "conditions": "国分寺市に住民登録がある主に初産の妊婦及びそのパートナー"
+      },
+      "support": {
+        "description": null,
+        "monetarySupport": null,
+        "materiallySupport": null
+      },
+      "cost": null,
+      "costConditions": null,
+      "implementationPeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "implementationPlace": {
+        "implementationName": null,
+        "implementationAddress": null
+      },
+      "capacity": null,
+      "utilizationTime": {
+        "fromHM": null,
+        "toHM": null,
+        "condiutilizationConditionstions": null
+      },
+      "specificDate": null,
+      "holiday": null,
+      "utilization": null,
+      "procedurePersons": null,
+      "procedureMethod": "「ぶんじ子育てナビ」または　ゆいぼっこ～地域につなげるサポーター’S～　電話：070-6424-5531　メールアドレス：yuibocco@gmail.com",
+      "procedurePeriod": {
+        "fromYMD": null,
+        "fromHM": null,
+        "toYMD": null,
+        "toHM": null,
+        "conditions": null
+      },
+      "electronicSubmission": true,
+      "belongings": null,
+      "procedureDocumentsCode": {
+        "code": null,
+        "others": null
+      },
+      "procedureCounter": null,
+      "relatedLink": [],
+      "localGovernmentLink": {
+        "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/kodomo/1012499/1033638.html",
+        "title": "令和７年度　両親学級"
+      },
+      "formLink": [
+        {
+          "uri": "https://www.city.kokubunji.tokyo.jp/kurashi/kodomo/kenkou/1028250.html",
+          "title": "ママ・パパの子育てをサポート「ぶんじ子育てナビ」"
+        }
+      ],
+      "contact": {
+        "contactName": "子ども家庭部　子育て相談室　母子保健係",
+        "contactPhone": "042-321-1802",
+        "contactEx": null,
+        "contactEmail": null,
+        "contactUrl": null,
+        "contactComment": "ファクス番号：042-320-1181開庁時間：午前8時30分から午後6時\n閉庁日：土曜日、日曜日、祝日、年末・年始",
+        "zipCode": null,
+        "contactAddress": null
+      },
+      "area": {
+        "areaCode": "132144;国分寺市",
+        "areaText": null
+      },
+      "class": 1,
+      "remarks": null,
+      "basicInformation": {
+        "psid": "psid3.0+1000020132144+3+UM31",
+        "organization": "1000020132144",
+        "compartment": "子ども家庭部　子育て相談室　母子保健係",
+        "compartmentCode": null,
+        "institutionType": 1
+      },
+      "updateDate": "2025/05/09",
+      "odInformation": {
+        "updateDate": "2025ｰ06ｰ20",
+        "updater": "国分寺市",
+        "content": "新規登録"
+      },
+      "regulation": {
+        "regulationName": "母子保健法",
+        "regulationArticle": "第3条（乳幼児の健康の保持増進）、9条（知識の普及）"
+      },
+      "tag": {
+        "categoryCode": [
+          "002"
+        ],
+        "targetCode": [
+          "086"
         ],
         "contentsCode": [
           "079"
